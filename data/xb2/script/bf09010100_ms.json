@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf09010100_0005",
+      "style": 82,
+      "name": "[ML:undisp ]"
+    },
+    {
+      "$id": 2,
+      "label": "bf09010100_0010",
+      "style": 154,
+      "name": "[ML:Vertical ][System:Size size=120 ]이게 당신이 원한\n　　　　　　　세계였나[ML:wide ][/System:Size]"
+    }
+  ]
+}

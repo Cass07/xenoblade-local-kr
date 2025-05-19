@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200507_msg001",
+      "style": 84,
+      "name": "아, 알바 씨의 배 말이죠?"
+    },
+    {
+      "$id": 2,
+      "label": "qst200507_msg002",
+      "style": 84,
+      "name": "저는 식사 담당이라\n좌초된 위치 같은 건\n잘 몰라요"
+    },
+    {
+      "$id": 3,
+      "label": "qst200507_msg003",
+      "style": 84,
+      "name": "근처에 마을이 보였던 건\n확실하지만요"
+    }
+  ]
+}

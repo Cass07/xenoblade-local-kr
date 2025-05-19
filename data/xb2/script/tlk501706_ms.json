@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst501706_msg0001",
+      "style": 84,
+      "name": "여기에 있으면 관광객이나\n난민, 성직자가 하는\n이런저런 얘기를 들을 수 있어"
+    },
+    {
+      "$id": 2,
+      "label": "qst501706_msg0002",
+      "style": 84,
+      "name": "그럼 어떤 정보를 알고 싶지?"
+    }
+  ]
+}

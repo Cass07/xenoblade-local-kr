@@ -1,0 +1,498 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk049_msg0001",
+      "style": 84,
+      "name": "카람 유적은\n꽤 멋진 곳이네요"
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk049_msg0002",
+      "style": 84,
+      "name": "제가 쓴 각본을 연기하기에\n좋아 보이는군요"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk049_msg0003",
+      "style": 84,
+      "name": "조금 망가져서\n보수가 필요할 것 같지만…"
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk049_msg0004",
+      "style": 84,
+      "name": "저기, 요시츠네"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk049_msg0005",
+      "style": 84,
+      "name": "그런 일 하지 말고 밥 좀 해 줘"
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk049_msg0006",
+      "style": 84,
+      "name": "너는 책 쓰는 것보다\n밥하는 게 훨씬 도움이 된단 말이야"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk049_msg0007",
+      "style": 84,
+      "name": "정말 무례하군요"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk049_msg0008",
+      "style": 165,
+      "name": "뭐라고 말을 걸까?"
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk049_msg0009",
+      "style": 164,
+      "name": "어떤 요리를 잘해?"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk049_msg0010",
+      "style": 164,
+      "name": "나는 각본이 더 궁금해"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk049_msg0011",
+      "style": 165,
+      "name": "뭐라고 말을 걸까?"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk049_msg0012",
+      "style": 164,
+      "name": "어떤 요리를 잘해?"
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk049_msg0013",
+      "style": 164,
+      "name": "나는 각본에 더 관심이 있는데"
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk049_msg0014",
+      "style": 165,
+      "name": "뭐라고 말을 걸지?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk049_msg0015",
+      "style": 164,
+      "name": "어떤 요리를 잘하지?"
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk049_msg0016",
+      "style": 164,
+      "name": "나는 각본이 더 궁금하군"
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk049_msg0017",
+      "style": 165,
+      "name": "뭐라고 말을 걸까?"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk049_msg0018",
+      "style": 164,
+      "name": "어떤 요리를 잘하는데?"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk049_msg0019",
+      "style": 164,
+      "name": "내는 각본이 더 궁금한데"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk049_msg0101",
+      "style": 84,
+      "name": "후우… 당신도\n식욕이 우선인 사람인가요"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk049_msg0102",
+      "style": 84,
+      "name": "아하하하\n그건 어쩔 수 없지"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk049_msg0103",
+      "style": 84,
+      "name": "요시츠네는 각본 쓰는 것보다\n요리를 더 잘하니까"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk049_msg0104",
+      "style": 84,
+      "name": "근데 항상 맛있어서\n신경도 안 쓰고 먹고 있으니까"
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk049_msg0105",
+      "style": 84,
+      "name": "요시츠네가 어떤 요리를 잘하는지는\n나도 잘 모르겠는데"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk049_msg0106",
+      "style": 84,
+      "name": "그건 당신이 좋아하는 것만\n만들어 줬기 때문이죠"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk049_msg0107",
+      "style": 84,
+      "name": "고생이 많네"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk049_msg0108",
+      "style": 84,
+      "name": "정말이지\n해 드린 보람이 없네요…"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk049_msg0109",
+      "style": 84,
+      "name": "어쨌든 제가 특별히 잘하는 요리는 없습니다"
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk049_msg0110",
+      "style": 84,
+      "name": "못하는 요리는 있지만요"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk049_msg0111",
+      "style": 84,
+      "name": "바로 아바리티아 아귀 요리입니다"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk049_msg0112",
+      "style": 84,
+      "name": "그 괴상한 생선으로는 어떻게 해야\n맛있는 요리를 만들 수 있을지"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk049_msg0113",
+      "style": 84,
+      "name": "저는 정말 상상도 못하겠네요"
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk049_msg0114",
+      "style": 84,
+      "name": "그건 단지 생선의 생김새가\n싫은 거 아니야?"
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk049_msg0115",
+      "style": 84,
+      "name": "그게 무슨 말입니까!\n요리는 보이는 것도 중요해요!"
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk049_msg0116",
+      "style": 84,
+      "name": "그렇게 추악한 물고기를 사용해\n어떻게 아름답고 맛있는 요리를\n만들 수 있죠?!"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk049_msg0117",
+      "style": 84,
+      "name": "그런 걸 앞에 두고\n식욕이 돋는 사람이 어디 있겠어요!"
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk049_msg0118",
+      "style": 84,
+      "name": "말캉말캉하고 미끈미끈해서\n물고기라고 부르기엔 역겨운 그 모습"
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk049_msg0119",
+      "style": 84,
+      "name": "생각만 해도 소름이 끼칩니다!"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk049_msg0120",
+      "style": 84,
+      "name": "이것저것 핑계를 많이 대는 것 같은데"
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk049_msg0121",
+      "style": 84,
+      "name": "한마디로 그 물고기를\n만지기 싫다는 거지?"
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk049_msg0122",
+      "style": 84,
+      "name": "당연하죠"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk049_msg0123",
+      "style": 84,
+      "name": "저는 그런 것으로\n제 손을 더럽히고 싶지 않다고요"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk049_msg0124",
+      "style": 84,
+      "name": "요시츠네가 싫어하는 물고기라면…\n다음에 호무라에게 부탁해야겠다"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk049_msg0125",
+      "style": 84,
+      "name": "앗?!"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk049_msg0126",
+      "style": 84,
+      "name": "요시츠네는 안 되더라도\n호무라라면 맛있게\n만들어 주지 않을까?"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk049_msg0127",
+      "style": 84,
+      "name": "으음…"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk049_msg0128",
+      "style": 84,
+      "name": "벤케이가 그렇게 말하니\n갑자기 아바리티아 아귀 요리에\n도전해 봐야겠다는 생각이 드는군요"
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk049_msg0129",
+      "style": 84,
+      "name": "그럼 다음에 해 봐!"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk049_msg0130",
+      "style": 84,
+      "name": "좋습니다!\n호무라에게 질 수는 없죠!"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk049_msg0131",
+      "style": 84,
+      "name": "요시츠네의 요리\n기대된다"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk049_msg0132",
+      "style": 84,
+      "name": "요시츠네의 요리\n기대되네"
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk049_msg0133",
+      "style": 84,
+      "name": "요시츠네의 요리\n기대가 되는군"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk049_msg0134",
+      "style": 84,
+      "name": "요시츠네의 요리\n기대된데이"
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk049_msg0135",
+      "style": 84,
+      "name": "훗\n기대하시죠"
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk049_msg0201",
+      "style": 84,
+      "name": "역시 제 드라이버입니다\n뭘 좀 아시는군요"
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk049_msg0202",
+      "style": 84,
+      "name": "당신을 주연으로 한\n각본을 조금 쓰기 시작했는데"
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk049_msg0203",
+      "style": 84,
+      "name": "현실보다 더 멋있게\n써 보도록 하겠습니다"
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk049_msg0204",
+      "style": 84,
+      "name": "문무 모두 뛰어나\n감히 비할 데 없는 지고한 영웅으로"
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk049_msg0205",
+      "style": 84,
+      "name": "이 드라이버한테 그런 직함은\n어울리지 않을 것 같은데"
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk049_msg0206",
+      "style": 84,
+      "name": "벤케이\n당신은 식욕이 왕성하고\n낮잠을 좋아하는 게으른 딸로 하겠습니다"
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk049_msg0207",
+      "style": 84,
+      "name": "뭐?!"
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk049_msg0208",
+      "style": 84,
+      "name": "나는 도움이 많이 되잖아?"
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk049_msg0209",
+      "style": 84,
+      "name": "그야 좀 귀찮아 하는 경향은 있지만\n할 땐 하는 데다 강하다고"
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk049_msg0210",
+      "style": 84,
+      "name": "하지만 이렇게 강자들만 있는 일행이니까요"
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk049_msg0211",
+      "style": 84,
+      "name": "식욕이 왕성하고 낮잠을 좋아하는\n게으른 딸도 한 명 정도는 있어야\n이야기가 재미있어지지 않을까요?"
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk049_msg0212",
+      "style": 84,
+      "name": "그렇다면 식욕이 왕성하고\n낮잠을 좋아하는 게으른 딸은\n내가 아니어도 되는 거잖아?"
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk049_msg0213",
+      "style": 84,
+      "name": "저는 벤케이가\n눈에 띄기를 바라니까 그러죠\n개성이 없어서 묻히는 건 원치 않습니다"
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk049_msg0214",
+      "style": 84,
+      "name": "그럼 차라리 다른 역할로 바꿔 달라고"
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk049_msg0215",
+      "style": 84,
+      "name": "식욕이 왕성하고 낮잠을 좋아하는\n게으른 딸이 마음에 안 드시나요?"
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk049_msg0216",
+      "style": 84,
+      "name": "식욕이 왕성하고 낮잠을 좋아하는\n게으른 딸은 맘에 안 들어!"
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk049_msg0217",
+      "style": 84,
+      "name": "흠…"
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk049_msg0218",
+      "style": 84,
+      "name": "그럼 렉스, 당신을 식욕이 왕성하고\n낮잠을 좋아하는 게으른 남자 역할로 하죠"
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk049_msg0219",
+      "style": 84,
+      "name": "싫어!"
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk049_msg0220",
+      "style": 84,
+      "name": "그럼 니아, 당신을 식욕이 왕성하고\n낮잠을 좋아하는 게으른 딸 역할로 하죠"
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk049_msg0221",
+      "style": 84,
+      "name": "싫~어!!"
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk049_msg0222",
+      "style": 84,
+      "name": "그럼 멜레프, 당신을 식욕이 왕성하고\n낮잠을 좋아하는 게으른 딸 역할로 하죠"
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk049_msg0223",
+      "style": 84,
+      "name": "내가 딸이면 연령대가 안 맞을 텐데…\n애초에 그런 성격이라면\n이야기가 진행되지 않는 것 아닌가?"
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk049_msg0224",
+      "style": 84,
+      "name": "그럼 지크, 당신을 식욕이 왕성하고\n낮잠을 좋아하는 게으른 아저씨 역할로 하죠"
+    },
+    {
+      "$id": 79,
+      "label": "kizunatalk049_msg0225",
+      "style": 84,
+      "name": "아직 아저씨 아이다!\n그보다 내는 그런 주인공 싫다!"
+    },
+    {
+      "$id": 80,
+      "label": "kizunatalk049_msg0226",
+      "style": 84,
+      "name": "후…\n정말 어쩌란 말인지…"
+    }
+  ]
+}

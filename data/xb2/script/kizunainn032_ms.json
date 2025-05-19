@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn032_msg001",
+      "style": 84,
+      "name": "음, 룩수리아에도\n맛있는 음식이 많이 있지?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn032_msg002",
+      "style": 84,
+      "name": "뭐… 상황이 요 모양이긴 해도\n그럭저럭 괜찮은 건 있지"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn032_msg003",
+      "style": 84,
+      "name": "안내해 줄 테니까\n무러 가 볼래?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn032_msg004",
+      "style": 84,
+      "name": "응, 가 보고 싶어!"
+    }
+  ]
+}

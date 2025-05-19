@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104210_msg0001",
+      "style": 84,
+      "name": "제안해 주셔서 고마워요~\n멀리서 시작의 마을까지\n왔어요~"
+    },
+    {
+      "$id": 2,
+      "label": "qst104210_msg0002",
+      "style": 84,
+      "name": "학생들이 문장을 통해\n다양한 것을 배웠으면 좋겠어요~"
+    }
+  ]
+}

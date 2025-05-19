@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101106_msg001",
+      "style": 62,
+      "name": "催促トーク(仮)\n"
+    },
+    {
+      "$id": 2,
+      "label": "qst101106_msg0001",
+      "style": 84,
+      "name": "모으는 걸 도와줘서\n고마워"
+    },
+    {
+      "$id": 3,
+      "label": "qst101106_msg0002",
+      "style": 84,
+      "name": "방황 덩굴은 가구 장식에 쓰여\n나무 근처를 찾으면\n쉽게 얻을 수 있을 거야"
+    }
+  ]
+}

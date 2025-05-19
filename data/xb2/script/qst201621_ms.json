@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201621_msg0001",
+      "style": 84,
+      "name": "나나코오리 씨의 현재 스테이터스를\n알고 싶은 겁니까모?"
+    },
+    {
+      "$id": 2,
+      "label": "qst201621_msg0002",
+      "style": 84,
+      "name": "보컬 레벨은…\n[ML:TownFlag digit=F8 value=7 ]입니다모"
+    },
+    {
+      "$id": 3,
+      "label": "qst201621_msg0003",
+      "style": 84,
+      "name": "룩스 레벨은…\n[ML:TownFlag digit=F8 value=8 ]입니다모"
+    },
+    {
+      "$id": 4,
+      "label": "qst201621_msg0004",
+      "style": 84,
+      "name": "소울 레벨은…\n[ML:TownFlag digit=F8 value=9 ]입니다모"
+    },
+    {
+      "$id": 5,
+      "label": "qst201621_msg0005",
+      "style": 84,
+      "name": "팬의 수는…\n[ML:TownFlag digit=F16 value=1 ]명입니다모"
+    },
+    {
+      "$id": 6,
+      "label": "qst201621_msg0006",
+      "style": 84,
+      "name": "팬의 수가 5000명 이상이 되면\n피에게 말을 걸어 주십시오모"
+    },
+    {
+      "$id": 7,
+      "label": "qst201621_msg0007",
+      "style": 84,
+      "name": "여러 콘서트를 열어서\n팬의 수를 늘리는 데에 전념해야 합니다모"
+    }
+  ]
+}

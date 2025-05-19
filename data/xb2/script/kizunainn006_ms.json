@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn006_msg0001",
+      "style": 84,
+      "name": "여러분\n잊혀진 땅 근처까지\n가 보지 않을래요?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn006_msg0002",
+      "style": 84,
+      "name": "거기 뭐가 있어?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn006_msg0003",
+      "style": 84,
+      "name": "그런 건 아닌데\n한번 가 보고 싶어서요"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn006_msg0004",
+      "style": 84,
+      "name": "안 될까요?"
+    }
+  ]
+}

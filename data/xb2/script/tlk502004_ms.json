@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst502004_msg0001",
+      "style": 84,
+      "name": "어떡하지…"
+    },
+    {
+      "$id": 2,
+      "label": "qst502004_msg0002",
+      "style": 84,
+      "name": "번개의 힘을 다루는 아이가 있다면\n잘 되려나…"
+    },
+    {
+      "$id": 3,
+      "label": "qst502004_msg0003",
+      "style": 84,
+      "name": "아니야, 소용없을지도 몰라…"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00240105_msg0001",
+      "style": 84,
+      "name": "…앗!\n미안, 책을 읽다가 그만…"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00240105_msg0002",
+      "style": 84,
+      "name": "계속 반담 아저씨\n생각이 나서…"
+    },
+    {
+      "$id": 3,
+      "label": "tlk00240105_msg0003",
+      "style": 84,
+      "name": "할아버지가 그럴 땐\n책을 읽으면 좋다고 하셔서\n잔뜩 읽고 있어"
+    }
+  ]
+}

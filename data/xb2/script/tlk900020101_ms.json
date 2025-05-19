@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9000201_01_msg0001",
+      "style": 84,
+      "name": "따, 딱히 네가 없어도\n안 쓸쓸하거든!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk9000201_01_msg0002",
+      "style": 84,
+      "name": "그래도 정말 원한다면\n같이 있어는 줄게"
+    }
+  ]
+}

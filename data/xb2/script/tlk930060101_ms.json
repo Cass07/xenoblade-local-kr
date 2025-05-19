@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9300601_01_msg0001",
+      "style": 84,
+      "name": "이렇게 계속\n쉬고만 있을 수는 없지"
+    },
+    {
+      "$id": 2,
+      "label": "tlk9300601_01_msg0002",
+      "style": 84,
+      "name": "나도 힘 좀 써야겠는데!"
+    }
+  ]
+}

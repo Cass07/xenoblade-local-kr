@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202906_msg0001",
+      "style": 84,
+      "name": "키아스티나가\n어디로 갔냐고요?"
+    },
+    {
+      "$id": 2,
+      "label": "qst202906_msg0002",
+      "style": 84,
+      "name": "죄송해요\n저는 잘 모르겠어요…"
+    },
+    {
+      "$id": 3,
+      "label": "qst202906_msg0003",
+      "style": 84,
+      "name": "마나가름에게 물어보는 건\n어떠세요?"
+    }
+  ]
+}

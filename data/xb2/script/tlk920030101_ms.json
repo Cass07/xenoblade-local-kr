@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9200301_01_msg0001",
+      "style": 84,
+      "name": "휴식은 이제 끝인가?\n아직인가…"
+    },
+    {
+      "$id": 2,
+      "label": "tlk9200301_01_msg0002",
+      "style": 84,
+      "name": "음? 그래서 어떻게 할 거지?\n난 준비됐다"
+    }
+  ]
+}

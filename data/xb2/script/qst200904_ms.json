@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200904_msg001",
+      "style": 84,
+      "name": "영업을 재개하려면\n반드시 풍차를 수리해야 해"
+    },
+    {
+      "$id": 2,
+      "label": "qst200904_msg002",
+      "style": 84,
+      "name": "오토 씨는 도시 입구에 있는\n슈비아 목재소에 있을 거야"
+    },
+    {
+      "$id": 3,
+      "label": "qst200904_msg003",
+      "style": 84,
+      "name": "혹시 부재중이면 찾아봐 줘\n부탁한다"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst400107_msg0001",
+      "style": 84,
+      "name": "어서 오세요모!"
+    },
+    {
+      "$id": 2,
+      "label": "qst400107_msg0002",
+      "style": 84,
+      "name": "자, 그럼…\n뭘 살까나?"
+    },
+    {
+      "$id": 3,
+      "label": "qst400107_msg0005",
+      "style": 84,
+      "name": "고맙습니다모!"
+    },
+    {
+      "$id": 4,
+      "label": "qst400107_msg0007",
+      "style": 84,
+      "name": "잘 생각해서 사야 해"
+    },
+    {
+      "$id": 5,
+      "label": "qst400107_msg0008",
+      "style": 84,
+      "name": "음… 하지만 일단 먹으면\n뭐든 다 똑같지 않나…"
+    }
+  ]
+}

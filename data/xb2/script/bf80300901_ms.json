@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "39890101",
+      "style": 82,
+      "name": "저는 카사네예요!"
+    },
+    {
+      "$id": 2,
+      "label": "39890102",
+      "style": 82,
+      "name": "당신의 행복을 위해 최선을 다할게요!"
+    }
+  ]
+}

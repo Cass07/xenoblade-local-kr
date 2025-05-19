@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk400801_msg0001",
+      "style": 84,
+      "name": "아, 봤어요"
+    },
+    {
+      "$id": 2,
+      "label": "tlk400801_msg0002",
+      "style": 84,
+      "name": "배를 대나 싶더니\n엄청 급하게 계단을 뛰어 올라갔어요"
+    },
+    {
+      "$id": 3,
+      "label": "tlk400801_msg0003",
+      "style": 84,
+      "name": "여기선 못 보던 얼굴이었는데\n누구인지는 잘 모르겠더군요…"
+    }
+  ]
+}

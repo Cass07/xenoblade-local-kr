@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 167,
+      "name": "대미지 배리어\n최대 HP [ML:PouchParam ]%"
+    },
+    {
+      "$id": 2,
+      "style": 167,
+      "name": "HP 회복량\n[ML:PouchParam ]% 상승"
+    },
+    {
+      "$id": 3,
+      "style": 167,
+      "name": "받는 물리 대미지\n[ML:PouchParam ]% 감소"
+    },
+    {
+      "$id": 4,
+      "style": 167,
+      "name": "받는 에테르 대미지\n[ML:PouchParam ]% 감소"
+    },
+    {
+      "$id": 5,
+      "style": 167,
+      "name": "아츠 리캐스트 회복\n매초 [ML:PouchParam ]"
+    },
+    {
+      "$id": 6,
+      "style": 167,
+      "name": "파티 게이지 증가\n[ML:PouchParam ]% 상승"
+    },
+    {
+      "$id": 7,
+      "style": 167,
+      "name": "인연 초깃값\n[ML:PouchParam ] 추가"
+    },
+    {
+      "$id": 8,
+      "style": 167,
+      "name": "인연 증가량\n[ML:PouchParam ]% 상승"
+    },
+    {
+      "$id": 9,
+      "style": 167,
+      "name": "인연 감소량\n[ML:PouchParam ]% 감소"
+    },
+    {
+      "$id": 10,
+      "style": 167,
+      "name": "필살기 리캐스트 회복\n매초 [ML:PouchParam ]"
+    },
+    {
+      "$id": 11,
+      "style": 167,
+      "name": "블레이드 아츠 효과\n[ML:PouchParam ]% 상승"
+    },
+    {
+      "$id": 12,
+      "style": 167,
+      "name": "필살기 대미지\n[ML:PouchParam ]% 상승"
+    }
+  ]
+}

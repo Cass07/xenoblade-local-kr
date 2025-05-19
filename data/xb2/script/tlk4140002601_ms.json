@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400026_01_msg0001",
+      "style": 84,
+      "name": "어서 오세요\n한때의 휴식을 그대에게\n카페 사비입니다"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400026_01_msg0004",
+      "style": 84,
+      "name": "어서 오세요, 오너\n오늘도 쉬고 가세요"
+    }
+  ]
+}

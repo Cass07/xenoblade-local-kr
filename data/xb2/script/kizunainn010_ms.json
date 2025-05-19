@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn010_msg0001",
+      "style": 84,
+      "name": "야, 꼬맹이\n내랑 어데 좀 안 갈래?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn010_msg0002",
+      "style": 84,
+      "name": "좋아, 근데 어디 가는데?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn010_msg0003",
+      "style": 84,
+      "name": "트레이터 풍차 광장에 있는 풍차 위인데\n도착하면 아마 깜짝 놀랄 기다"
+    }
+  ]
+}

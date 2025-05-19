@@ -1,0 +1,3394 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 160,
+      "name": "チュートリアル用テキスト\n０１２３４５６７８９０１２３４５６７８９０１２３４５６７８\n０１２３４５６７８９０１２３４５６７８９０１２３４５６７８"
+    },
+    {
+      "$id": 2,
+      "style": 160,
+      "name": "자, 눈앞에 『오늘의 점심』이 나타났습니다\n렉스가 에너미와 싸우려면 무기를 써야 합니다\n무기를 꺼내는 것을 [System:Color name=tutorial ]발도[/System:Color]라고 합니다"
+    },
+    {
+      "$id": 3,
+      "style": 160,
+      "name": "발도는 에너미에게 [System:Color name=tutorial ]타깃[/System:Color]이 표시될 때\n[System:Color name=tutorial ][ML:icon icon=A ] 버튼[/System:Color]을 누르기만 하면 됩니다\n타깃을 표시하려면 [System:Color name=tutorial ][ML:icon icon=R ] 버튼[/System:Color]을 눌러 주세요"
+    },
+    {
+      "$id": 4,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]타깃[/System:Color]은 에너미의 머리 바로 위에 표시된 핑크색 마크입니다"
+    },
+    {
+      "$id": 5,
+      "style": 160,
+      "name": "참고로 무기를 집어넣는 것을 [System:Color name=tutorial ]납도[/System:Color]라고 합니다\n[System:Color name=tutorial ]납도[/System:Color]를 하고 싶을 경우에는 [System:Color name=tutorial ][ML:icon icon=R ] 버튼[/System:Color]을 누르면서\n[System:Color name=tutorial ][ML:icon icon=B ] 버튼[/System:Color]을 눌러 주세요"
+    },
+    {
+      "$id": 6,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]발도[/System:Color]한 다음에 [System:Color name=tutorial ]타깃[/System:Color]이 표시된 에너미에게 접근하면\n자동으로 공격을 시작합니다\n이것을 [System:Color name=tutorial ]오토 어택[/System:Color]이라고 합니다"
+    },
+    {
+      "$id": 7,
+      "style": 160,
+      "name": "바로 [System:Color name=tutorial ]발도[/System:Color]해서 『오늘의 점심』을 쓰러뜨려 봅시다"
+    },
+    {
+      "$id": 8,
+      "style": 160,
+      "name": "오토 어택은 [System:Color name=tutorial ]3연격이 1세트[/System:Color]입니다\n1번째보다 [System:Color name=tutorial ]2번째[/System:Color], 2번째보다 [System:Color name=tutorial ]3번째[/System:Color] 공격이 더 [System:Color name=tutorial ]강력[/System:Color]합니다"
+    },
+    {
+      "$id": 9,
+      "style": 160,
+      "name": "またオートアタックには[System:Color name=tutorial ]適正距離[/System:Color]が設定されています\n適正距離で戦えば　エネミーへのダメージも高くなります"
+    },
+    {
+      "$id": 10,
+      "style": 160,
+      "name": "화면 [System:Color name=tutorial ]우측 하단[/System:Color] 아이콘에 불이 들어왔습니다\n이 아이콘은 [System:Color name=tutorial ]아츠 아이콘[/System:Color]이라고 합니다\n[System:Color name=tutorial ]아츠 아이콘[/System:Color]에 불이 들어왔다는 것은 [System:Color name=tutorial ]아츠[/System:Color]를 쓸 수 있다는 신호입니다"
+    },
+    {
+      "$id": 11,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]아츠[/System:Color]는 오토 어택과는 다른 [System:Color name=tutorial ]특수한 기술[/System:Color]이며\n아이콘 위치에 [System:Color name=tutorial ]대응되는 버튼을 누르기만 하면[/System:Color]\n사용할 수 있습니다"
+    },
+    {
+      "$id": 12,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]아츠는[/System:Color] 한 번 쓰고 나면 [System:Color name=tutorial ]아츠 아이콘[/System:Color]을 둘러싼\n[System:Color name=tutorial ]리캐스트 게이지[/System:Color]가 전부 찰 때까지\n사용할 수 없게 됩니다"
+    },
+    {
+      "$id": 13,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]리캐스트 게이지[/System:Color]는 에너미에게\n오토 어택을 가하면 점점 상승합니다"
+    },
+    {
+      "$id": 14,
+      "style": 160,
+      "name": "시험 삼아 [System:Color name=tutorial ][ML:icon icon=X ] 버튼[/System:Color]을 눌러\n[System:Color name=tutorial ]아츠[/System:Color]: [System:Color name=tutorial ]앵커 샷[/System:Color]을 쏴 봅시다"
+    },
+    {
+      "$id": 15,
+      "style": 160,
+      "name": "지금 에너미에게서 녹색 물체가 떨어졌습니다\n이것은 [System:Color name=tutorial ]회복 포트[/System:Color]라는 아이템입니다"
+    },
+    {
+      "$id": 16,
+      "style": 160,
+      "name": "렉스를 조작해서 [System:Color name=tutorial ]회복 포트[/System:Color]를 주우면\n[System:Color name=tutorial ]HP를 회복시킬[/System:Color] 수 있습니다"
+    },
+    {
+      "$id": 17,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]아츠[/System:Color] 중에는 [System:Color name=tutorial ]앵커 샷[/System:Color]처럼\n에너미가 반드시 [System:Color name=tutorial ]회복 포트[/System:Color]를 떨어뜨리게 하는\n능력을 가진 것이 있습니다"
+    },
+    {
+      "$id": 18,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]아츠[/System:Color]를 연발해 최대 화력으로 에너미를 쓰러뜨릴지\nHP가 줄어들 때를 대비해 [System:Color name=tutorial ]아츠[/System:Color]를 아껴 둘지\n상황을 고려하며 [System:Color name=tutorial ]아츠[/System:Color]를 사용하는 것도 중요한 전술입니다"
+    },
+    {
+      "$id": 19,
+      "style": 160,
+      "name": "지금 에너미 주변에\n오라 같은 이펙트가 발생했습니다\n이것은 에너미가 [System:Color name=tutorial ]분노 상태[/System:Color]에 돌입했다는 것을 나타냅니다"
+    },
+    {
+      "$id": 20,
+      "style": 160,
+      "name": "일부 에너미는\n[System:Color name=tutorial ]HP가 일정한 수준 이하로 내려가면[/System:Color] 분노 상태에 돌입합니다"
+    },
+    {
+      "$id": 21,
+      "style": 160,
+      "name": "분노 상태에 돌입한 에너미는 능력치가 상승하고\n평소 상태보다 강해지니 주의해야 합니다"
+    },
+    {
+      "$id": 22,
+      "style": 160,
+      "name": "드디어 렉스가\n하늘의 성배의 드라이버로 다시 태어났습니다"
+    },
+    {
+      "$id": 23,
+      "style": 160,
+      "name": "지금 게이지가 모인 것이 [System:Color name=tutorial ]필살기[/System:Color] 아이콘입니다"
+    },
+    {
+      "$id": 24,
+      "style": 160,
+      "name": "오래 기다리셨습니다\n[System:Color name=tutorial ]블레이드 콤보[/System:Color]의 설명입니다"
+    },
+    {
+      "$id": 25,
+      "style": 160,
+      "name": "【ボタンチャレンジ】\n"
+    },
+    {
+      "$id": 26,
+      "style": 160,
+      "name": "지금 호무라가 [System:Color name=tutorial ]명중률이 상승[/System:Color]하는 [System:Color name=tutorial ]특수 효과[/System:Color]를 부여해 줬습니다\n호무라가 배틀 중에 하는 이런 지원을 [System:Color name=tutorial ]블레이드 아츠[/System:Color]라고 합니다"
+    },
+    {
+      "$id": 27,
+      "style": 160,
+      "name": "【必殺技①】"
+    },
+    {
+      "$id": 28,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]화속성[/System:Color] 필살기에서 [System:Color name=tutorial ]수속성[/System:Color] 필살기로 연결하는\n블레이드 콤보를 사용해 봅시다\n우선 호무라의 [System:Color name=tutorial ]레벨 Ⅰ[/System:Color] 필살기를 사용해 주세요"
+    },
+    {
+      "$id": 29,
+      "style": 160,
+      "name": "【ブレイドとのキズナ】"
+    },
+    {
+      "$id": 30,
+      "style": 160,
+      "name": "【属性コンボ②】\n"
+    },
+    {
+      "$id": 31,
+      "style": 160,
+      "name": "슬슬 동료 드라이버와 싸우는 것에도 익숙해졌을 겁니다\n이제 파티 전원이 에너미에게 큰 대미지를 줄 수 있는\n[System:Color name=tutorial ]체인 어택[/System:Color]에 대해 설명하겠습니다"
+    },
+    {
+      "$id": 32,
+      "style": 160,
+      "name": "드디어 호무라가 진정한 힘을 해방했습니다\n이제 호무라 각성 시의 조작 방법을 설명하겠습니다"
+    },
+    {
+      "$id": 33,
+      "style": 160,
+      "name": "강해 보이는 에너미가 잔뜩 나왔네요\n이제 다수의 에너미와 싸울 때 유용한\n소소한 테크닉을 가르쳐 드리겠습니다"
+    },
+    {
+      "$id": 34,
+      "style": 160,
+      "name": "반담에게 앵커를 사용하는 방법을 전수받았군요\n이제 렉스의 [System:Color name=tutorial ]앵커 샷[/System:Color]에 [System:Color name=tutorial ]다운[/System:Color] 효과가 추가되었습니다"
+    },
+    {
+      "$id": 35,
+      "style": 160,
+      "name": "렉스만 사용할 수 있는 [System:Color name=tutorial ]3인 기술[/System:Color]에 대해 설명하겠습니다"
+    },
+    {
+      "$id": 36,
+      "style": 160,
+      "name": "【エネミーの怒り状態】"
+    },
+    {
+      "$id": 37,
+      "style": 160,
+      "name": "【抜刀/納刀/おびき寄せ】\n"
+    },
+    {
+      "$id": 38,
+      "style": 160,
+      "name": "【回復ポット】\n"
+    },
+    {
+      "$id": 39,
+      "style": 160,
+      "name": "【戦闘不能】\n"
+    },
+    {
+      "$id": 40,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]브레이크[/System:Color]에 걸린 것 같네요"
+    },
+    {
+      "$id": 41,
+      "style": 160,
+      "name": "【ロール】\n"
+    },
+    {
+      "$id": 42,
+      "style": 160,
+      "name": "드디어 [System:Color name=tutorial ]레벨 Ⅳ 필살기[/System:Color]를 설명할 때가 되었습니다"
+    },
+    {
+      "$id": 43,
+      "style": 160,
+      "name": "【ボタンチャレンジ】"
+    },
+    {
+      "$id": 44,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]블레이드 콤보[/System:Color]는 [System:Color name=tutorial ]더 높은 레벨의 필살기[/System:Color]로 연결할 수 있습니다\n이제 니아의 [System:Color name=tutorial ]필살기 게이지[/System:Color]를 [System:Color name=tutorial ]레벨 Ⅱ[/System:Color]까지 서비스로 채워 드릴 테니\n[System:Color name=tutorial ][ML:icon icon=ZL ] 버튼[/System:Color]을 눌러 니아의 필살기를 사용해 주세요"
+    },
+    {
+      "$id": 45,
+      "style": 160,
+      "name": "【ブレイドアーツ】"
+    },
+    {
+      "$id": 46,
+      "style": 160,
+      "name": "이미 아실 것 같지만\n그래도 다시 [System:Color name=tutorial ]블레이드 콤보[/System:Color]에 대해 설명하겠습니다"
+    },
+    {
+      "$id": 47,
+      "style": 160,
+      "name": "배틀 멤버가 3명이 되었으니\n다시 [System:Color name=tutorial ]블레이드 콤보[/System:Color]에 의한 [System:Color name=tutorial ]봉인 효과[/System:Color]를 설명해 드리겠습니다"
+    },
+    {
+      "$id": 48,
+      "style": 160,
+      "name": "니아를 돕기 전에 잠시\n동료 드라이버가 있을 경우의 전투 방법을 설명하겠습니다"
+    },
+    {
+      "$id": 49,
+      "style": 160,
+      "name": "【ブレイドチェンジ】"
+    },
+    {
+      "$id": 50,
+      "style": 160,
+      "name": "【特殊ブレイドチェンジ・ヒカリ】\n"
+    },
+    {
+      "$id": 51,
+      "style": 160,
+      "name": "여기서 잠시 귀 기울여야 할 정보입니다\n우선 일반 화면에 대한 설명부터 하겠습니다"
+    },
+    {
+      "$id": 52,
+      "style": 160,
+      "name": "まずは通常画面の説明をしたいと思います"
+    },
+    {
+      "$id": 53,
+      "style": 160,
+      "name": "지금 화살표가 가리키는 것은 [System:Color name=tutorial ]컴퍼스[/System:Color]라고 합니다"
+    },
+    {
+      "$id": 54,
+      "style": 160,
+      "name": "컴퍼스 안에는 마크가 그려져 있는데\n렉스가 이다음 어디로 가면 되는지를 표시하고 있습니다"
+    },
+    {
+      "$id": 55,
+      "style": 160,
+      "name": "그리고 마크 위에는 [System:Color name=tutorial ]숫자[/System:Color]가 적혀 있는데\n이것은 [System:Color name=tutorial ]목적지까지의 거리[/System:Color]를 표시한 것입니다"
+    },
+    {
+      "$id": 56,
+      "style": 160,
+      "name": "또한 목적지가 렉스가 있는 곳보다\n위에 있을 경우에는 마크 [System:Color name=tutorial ]위[/System:Color]에 작은 화살표가 표시되며"
+    },
+    {
+      "$id": 57,
+      "style": 160,
+      "name": "렉스가 있는 곳보다\n아래에 있을 경우에는 마크 [System:Color name=tutorial ]아래[/System:Color]에 작은 화살표가 표시됩니다"
+    },
+    {
+      "$id": 58,
+      "style": 160,
+      "name": "다음으로 화살표가 가리키고 있는 것은 [System:Color name=tutorial ]환경 정보[/System:Color]라는 것입니다"
+    },
+    {
+      "$id": 59,
+      "style": 160,
+      "name": "환경 정보를 보면 지금 있는 장소의\n[System:Color name=tutorial ]날씨[/System:Color]와 [System:Color name=tutorial ]시간[/System:Color]을 파악할 수 있습니다"
+    },
+    {
+      "$id": 60,
+      "style": 160,
+      "name": "환경은 모험을 진행하는 방식에 맞춰 시시각각 변화합니다"
+    },
+    {
+      "$id": 61,
+      "style": 160,
+      "name": "환경이 변화한다고 해서\n렉스가 갑자기 위험에 빠지거나 하는 일은 없지만"
+    },
+    {
+      "$id": 62,
+      "style": 160,
+      "name": "에너미의 서식 패턴이나 마을 사람의 생활 패턴이 변화하므로\n주의 깊게 관찰할 필요가 있습니다"
+    },
+    {
+      "$id": 63,
+      "style": 160,
+      "name": "다음은 [System:Color name=tutorial ]미니맵[/System:Color]입니다\n이것은 렉스의 주변 정보를\n가장 빨리 확인하기 위한 장치입니다"
+    },
+    {
+      "$id": 64,
+      "style": 160,
+      "name": "중앙의 노란 마크가 현재 위치와 향하고 있는 방향입니다"
+    },
+    {
+      "$id": 65,
+      "style": 160,
+      "name": "[System:Color name=tutorial ][ML:icon icon=L3 ][/System:Color]을 누르면 화면 가득 맵을 표시할 수도 있고\n미니맵을 없앨 수도 있습니다"
+    },
+    {
+      "$id": 66,
+      "style": 160,
+      "name": "모험에 자신이 있다면 미니맵을 표시하지 않고\n플레이해 보는 것도 좋을지 모릅니다"
+    },
+    {
+      "$id": 67,
+      "style": 160,
+      "name": "마지막으로 [System:Color name=tutorial ]현재 목적[/System:Color]입니다\n이것은 지금 렉스가 무엇을 해야 하는지를 설명하고 있습니다"
+    },
+    {
+      "$id": 68,
+      "style": 160,
+      "name": "[System:Color name=tutorial ][ML:icon icon=ZR ][/System:Color]을 눌러 전환할 수 있으니\n필요할 때 확인해 보세요"
+    },
+    {
+      "$id": 69,
+      "style": 160,
+      "name": "그럼 지금 알려 드린 정보를 가지고\n[System:Color name=tutorial ]중앙 교역소[/System:Color]에 있는 [System:Color name=tutorial ]메로로[/System:Color]를 찾아가 봅시다"
+    },
+    {
+      "$id": 70,
+      "style": 160,
+      "name": "자, 드디어 모험을 시작할 시간입니다\n새로운 시스템을 쓸 수 있게 되었을 때에는\n타이밍에 맞춰 시스템에 대해 설명하겠습니다"
+    },
+    {
+      "$id": 71,
+      "style": 160,
+      "name": "이다음 화면 정중앙에 [System:Color name=tutorial ]골트문트 귀환 항구[/System:Color]라고 표시됩니다\n이것은 [System:Color name=tutorial ]랜드마크[/System:Color]를 발견했다는 표시입니다"
+    },
+    {
+      "$id": 72,
+      "style": 160,
+      "name": "エリアにはランドマークの他にも\n[System:Color name=tutorial ]秘境[/System:Color]と[System:Color name=tutorial ]ロケーション[/System:Color]があります"
+    },
+    {
+      "$id": 73,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]스킵 트래블[/System:Color]을 사용하면\n언제든 발견한 랜드마크로 돌아올 수 있습니다"
+    },
+    {
+      "$id": 74,
+      "style": 160,
+      "name": "スキップトラベルは一度行ったことがある場所なら\n[System:Color name=tutorial ]メインメニューからいつでも瞬時に移動できる[/System:Color]という\nとても便利な機能です"
+    },
+    {
+      "$id": 75,
+      "style": 160,
+      "name": "それともうひとつ\nランドマークと秘境にはスキップトラベル以外の役目があります"
+    },
+    {
+      "$id": 76,
+      "style": 160,
+      "name": "안타깝지만 배틀에서 패배했을 때에도\n마지막으로 방문한 랜드마크로 돌아가게 됩니다"
+    },
+    {
+      "$id": 77,
+      "style": 160,
+      "name": "아르스트에는 수많은 랜드마크가 있으니\n다양한 장소로 발길을 옮겨 봅시다"
+    },
+    {
+      "$id": 78,
+      "style": 160,
+      "name": "여기서는 [System:Color name=tutorial ]샐비지[/System:Color]를 소개하겠습니다\n지금 렉스의 전방에 보이는 것을\n[System:Color name=tutorial ]샐비지 포인트[/System:Color]라고 합니다"
+    },
+    {
+      "$id": 79,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]실린더[/System:Color]를 가지고 있을 때\n샐비지 포인트에 가면\n샐비지를 할 수 있습니다"
+    },
+    {
+      "$id": 80,
+      "style": 160,
+      "name": "샐비지를 하면 [System:Color name=tutorial ]버튼 챌린지[/System:Color]가 시작됩니다"
+    },
+    {
+      "$id": 81,
+      "style": 160,
+      "name": "버튼 챌린지에 성공하면\n좋은 보물을 획득할 가능성이 높아지니\n타이밍을 잘 보고 버튼을 누릅시다"
+    },
+    {
+      "$id": 82,
+      "style": 160,
+      "name": "凶悪なエネミーを釣り上げてしまうことがありますので\nご注意ください"
+    },
+    {
+      "$id": 83,
+      "style": 160,
+      "name": "샐비지 포인트는 아르스트 곳곳에 존재합니다\n샐비지 포인트마다 획득할 수 있는 보물이 다르니\n새로운 포인트를 발견하면 꼭 샐비지를 해 보세요"
+    },
+    {
+      "$id": 84,
+      "style": 160,
+      "name": "그리고 실린더는 아르스트 각지에 있는\n[System:Color name=tutorial ]샐비지 숍[/System:Color]에서 살 수 있습니다"
+    },
+    {
+      "$id": 85,
+      "style": 160,
+      "name": "비싼 실린더일수록 좋은 보물을 획득할 수 있지만\n처음에는 저렴한 실린더로도 충분할 것입니다"
+    },
+    {
+      "$id": 86,
+      "style": 160,
+      "name": "그럼 이루이루에게 받은 실린더를 사용해\n바로 샐비지에 도전해 봅시다"
+    },
+    {
+      "$id": 87,
+      "style": 160,
+      "name": "하나 중요한 것을 잊고 있었습니다\n바로 [System:Color name=tutorial ]카메라[/System:Color] 사용법입니다"
+    },
+    {
+      "$id": 88,
+      "style": 160,
+      "name": "카메라에는 [System:Color name=tutorial ]수동 카메라[/System:Color]와 [System:Color name=tutorial ]자동 카메라[/System:Color] 2종류가 있습니다"
+    },
+    {
+      "$id": 89,
+      "style": 160,
+      "name": "[System:Color name=tutorial ][ML:icon icon=R3 ]을 상하좌우로 조작[/System:Color]하면\n카메라를 원하는 방향으로 돌릴 수 있습니다\n이것을 [System:Color name=tutorial ]수동 카메라[/System:Color]라고 합니다"
+    },
+    {
+      "$id": 90,
+      "style": 160,
+      "name": "수동 카메라를 조작할 때 [System:Color name=tutorial ][ML:icon icon=R3 ]을 누르면[/System:Color]\n카메라는 렉스의 등 뒤로 돌아가\n그대로 렉스의 뒤를 쫓아갑니다"
+    },
+    {
+      "$id": 91,
+      "style": 160,
+      "name": "이것을 [System:Color name=tutorial ]자동 카메라[/System:Color]라고 합니다"
+    },
+    {
+      "$id": 92,
+      "style": 160,
+      "name": "카메라는 [System:Color name=tutorial ]줌 인 / 아웃과 높이[/System:Color]를 조정할 수 있습니다\n[System:Color name=tutorial ][ML:icon icon=L ]을 누르면서 [ML:icon icon=R3 ]을 좌우로 움직이면[/System:Color] 카메라의 높이가 변하고\n[System:Color name=tutorial ][ML:icon icon=L ]을 누르면서 [ML:icon icon=R3 ]을 상하로 움직이면[/System:Color] 줌 인 / 아웃이 됩니다"
+    },
+    {
+      "$id": 93,
+      "style": 160,
+      "name": "카메라를 조정하면\n새로운 발견을 하게 될지도 모르니\n꼭 다양하게 시도해 보세요"
+    },
+    {
+      "$id": 94,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]숙박 시설[/System:Color]에 대해 살짝 설명하겠습니다\n숙박 시설에서 [System:Color name=tutorial ]가볍게 쉬기[/System:Color]를 하면 [System:Color name=tutorial ]보너스 EXP[/System:Color]를 사용해\n[System:Color name=tutorial ]레벨을 상승[/System:Color]시킬 수 있습니다"
+    },
+    {
+      "$id": 95,
+      "style": 160,
+      "name": "보너스 EXP는 퀘스트를 달성하거나\n랜드마크를 발견하면 획득할 수 있는 경험치를 말하며\n숙박 시설에서 사용할 수 있습니다"
+    },
+    {
+      "$id": 96,
+      "style": 160,
+      "name": "レベルの上げ方は\n【すべてオート】【選択オート】【マニュアル】の\n3種類があります"
+    },
+    {
+      "$id": 97,
+      "style": 160,
+      "name": "すべてオートを選ぶと\nボーナス経験値を使い切るまで　レベルアップします"
+    },
+    {
+      "$id": 98,
+      "style": 160,
+      "name": "選択オートを選ぶと　キャラクターごとにオートかマニュアルかを\n選ぶことができます"
+    },
+    {
+      "$id": 99,
+      "style": 160,
+      "name": "ボーナスEXPの範囲内で　上げたいレベルを調整しながら\nレベルアップをすることができます"
+    },
+    {
+      "$id": 100,
+      "style": 160,
+      "name": "도저히 이길 수 없는 에너미가 나타났다면\n모아 둔 보너스 EXP로 레벨 업하는 것을 추천합니다"
+    },
+    {
+      "$id": 101,
+      "style": 160,
+      "name": "레벨이 너무 많이 오르면 재미가 떨어진다고 생각하시는 분은\n숙박 시설에서 레벨 업하지 않는 것도 방법일지 모릅니다"
+    },
+    {
+      "$id": 102,
+      "style": 160,
+      "name": "あと　宿屋では【雲海の満ち引きが変わるまで休む】\nという役割もあります"
+    },
+    {
+      "$id": 103,
+      "style": 160,
+      "name": "アルストには雲海の満ち引きによって\n行ける場所　行けなくなる場所があるので\nそんな時は　宿屋で一休みすると良いでしょう"
+    },
+    {
+      "$id": 104,
+      "style": 160,
+      "name": "그럼 내일은 거사를 치러야 하니 편안한 휴식 되시기 바랍니다"
+    },
+    {
+      "$id": 105,
+      "style": 160,
+      "name": "지금 눈앞에 보이는 것은 [System:Color name=tutorial ]채집 포인트[/System:Color]입니다\n채집 포인트를 조사하면 [System:Color name=tutorial ]컬렉션 아이템[/System:Color]을\n발견할 수 있습니다"
+    },
+    {
+      "$id": 106,
+      "style": 160,
+      "name": "채집 포인트는 아르스트 곳곳에 존재하며\n그 땅에 따라 획득 가능한\n컬렉션 아이템의 종류도 다양합니다"
+    },
+    {
+      "$id": 107,
+      "style": 160,
+      "name": "또한 채집 포인트 중에는\n블레이드의 [System:Color name=tutorial ]필드 스킬[/System:Color]에 의해 평소에는 획득할 수 없는\n아이템을 획득할 수 있게 되는 장소도 있다고 합니다"
+    },
+    {
+      "$id": 108,
+      "style": 160,
+      "name": "획득한 컬렉션 아이템은 앞으로 있을 모험에서\n틀림없이 렉스 일행에게 도움이 될 테니\n채집 포인트를 발견하면 적극적으로 조사해 봅시다"
+    },
+    {
+      "$id": 109,
+      "style": 160,
+      "name": "전방에 장애물이 나타났군요\n언뜻 보기에는 못 지나갈 것 같은 장소도\n블레이드의 [System:Color name=tutorial ]필드 스킬[/System:Color]을 사용하면 지나갈 수 있는 경우가 있습니다"
+    },
+    {
+      "$id": 110,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]꺾인 거목[/System:Color]을 조사해 봅시다"
+    },
+    {
+      "$id": 111,
+      "style": 160,
+      "name": "무사히 호무라의 [System:Color name=tutorial ]화속성의 힘[/System:Color]을 사용해\n꺾인 거목을 제거했나 보군요"
+    },
+    {
+      "$id": 112,
+      "style": 160,
+      "name": "호무라의 필드 스킬은 [System:Color name=tutorial ]메인 메뉴[/System:Color]>\n[System:Color name=tutorial ]캐릭터[/System:Color]>[System:Color name=tutorial ]블레이드 세팅[/System:Color]>[System:Color name=tutorial ]상세[/System:Color]에서 확인할 수 있습니다"
+    },
+    {
+      "$id": 113,
+      "style": 160,
+      "name": "아르스트에는 필드 스킬을 사용하지 않고는\n갈 수 없는 장소가 많이 있습니다"
+    },
+    {
+      "$id": 114,
+      "style": 160,
+      "name": "갈 수 없을 것 같아 보이는 장소가 있어도\n가까이 가서 조사해 보는 것이 중요합니다"
+    },
+    {
+      "$id": 115,
+      "style": 160,
+      "name": "이제 어서 니아를 찾으러 갑시다"
+    },
+    {
+      "$id": 116,
+      "style": 160,
+      "name": "【スキップタイム】が使えるようになりました\nスキップタイムは自分の好きな時間帯に\n時間を変更できるという　大変便利なシステムです"
+    },
+    {
+      "$id": 117,
+      "style": 160,
+      "name": "時間が変わると　エネミーの状態や\n街の人の状態が変化します"
+    },
+    {
+      "$id": 118,
+      "style": 160,
+      "name": "色々と試して　新しい発見をしてみてください"
+    },
+    {
+      "$id": 119,
+      "style": 160,
+      "name": "일부 숍에서 물건을 살 수 있게 되었습니다\n아르스트의 세계에는 다양한 숍이 있습니다"
+    },
+    {
+      "$id": 120,
+      "style": 160,
+      "name": "手に入れたお宝を物々交換できる[System:Color name=tutorial ]交易ショップ[/System:Color]\nお金で情報を手に入れることができる[System:Color name=tutorial ]情報ショップ[/System:Color]\nお気に入りのアイテムを手に入れられる[System:Color name=tutorial ]生活ショップ[/System:Color]"
+    },
+    {
+      "$id": 121,
+      "style": 160,
+      "name": "シリンダを買うことができる[System:Color name=tutorial ]サルベージショップ[/System:Color]\n身に着けるものを買うことができる[System:Color name=tutorial ]アクセサリーショップ[/System:Color]\nなどなど"
+    },
+    {
+      "$id": 122,
+      "style": 160,
+      "name": "すでに使ったことがあるショップがあるかもしれませんが\n今お伝えしたショップは　これから自由に使うことができます"
+    },
+    {
+      "$id": 123,
+      "style": 160,
+      "name": "특히 아르스트의 교역 중심지라고도 할 수 있는\n이곳 아바리티아 상회에는 수많은 숍이 모여 있습니다"
+    },
+    {
+      "$id": 124,
+      "style": 160,
+      "name": "모험을 떠나기 전에\n숍에서 물건을 사 보는 것도 괜찮을 겁니다"
+    },
+    {
+      "$id": 125,
+      "style": 160,
+      "name": "중요한 것을 빼먹을 뻔했습니다\n바로 렉스가 가지고 있는 [System:Color name=tutorial ]파우치[/System:Color]입니다"
+    },
+    {
+      "$id": 126,
+      "style": 160,
+      "name": "렉스는 평소에도 파우치를 갖고 다닙니다\n파우치에는 렉스가 좋아하는 [System:Color name=tutorial ]파우치 아이템[/System:Color]을\n넣고 다닐 수도 있습니다"
+    },
+    {
+      "$id": 127,
+      "style": 160,
+      "name": "파우치에는 파우치 아이템을\n하나만 세트할 수 있습니다"
+    },
+    {
+      "$id": 128,
+      "style": 160,
+      "name": "파우치 아이템은 생활 숍에서 팔고 있습니다\n어떤 아이템을 파우치에 넣느냐에 따라\n모험 도중에 다양한 효과를 발휘합니다"
+    },
+    {
+      "$id": 129,
+      "style": 160,
+      "name": "아르스트에는 전부 12종류의 생활 숍이 있으니\n새로운 생활 숍을 발견하면 한번 들러 보세요"
+    },
+    {
+      "$id": 130,
+      "style": 160,
+      "name": "드디어 염원하던 [System:Color name=tutorial ]어비스 조끼[/System:Color]를 획득했군요\n[System:Color name=tutorial ]어비스 조끼[/System:Color]에는 최대 HP가 24% 상승하는 효과가 있습니다"
+    },
+    {
+      "$id": 131,
+      "style": 160,
+      "name": "지금은 아직 어비스 조끼만 갖고 있지만\n앞으로 모험을 통해 더 많은 액세서리를 획득하게 될 것입니다"
+    },
+    {
+      "$id": 132,
+      "style": 160,
+      "name": "액세서리는 획득하는 것만으로 효과가 발휘되지는 않습니다\n[System:Color name=tutorial ]메인 메뉴[/System:Color]>[System:Color name=tutorial ]캐릭터[/System:Color]>[System:Color name=tutorial ]캐릭터 세팅[/System:Color]>\n[System:Color name=tutorial ]액세서리 장비[/System:Color] 항목에서 장비할 수 있습니다"
+    },
+    {
+      "$id": 133,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]퀘스트[/System:Color]를 수주하셨군요\n퀘스트에는 [System:Color name=tutorial ]메인 스토리 퀘스트[/System:Color]와\n[System:Color name=tutorial ]일반 퀘스트[/System:Color]가 있습니다"
+    },
+    {
+      "$id": 134,
+      "style": 160,
+      "name": "지금 수주하신 것은 메인 스토리 퀘스트이며\n메인 스토리를 진행하는 데 필수적인 퀘스트입니다\n컴퍼스상에서는 [System:Color name=tutorial ]핑크색 !! 아이콘[/System:Color]으로 표시됩니다"
+    },
+    {
+      "$id": 135,
+      "style": 160,
+      "name": "아르스트에는 도움이 필요한 사람들이 많이 있습니다\n그런 사람들의 머리 위에는 [System:Color name=tutorial ]파란색 ? 아이콘[/System:Color]이 표시되어 있습니다"
+    },
+    {
+      "$id": 136,
+      "style": 160,
+      "name": "말을 걸면 고민을 털어놓으며\n무언가 일을 부탁할 것입니다\n그게 바로 일반 퀘스트입니다"
+    },
+    {
+      "$id": 137,
+      "style": 160,
+      "name": "고민을 해결해 주면\n틀림없이 멋진 선물을 줄 것입니다"
+    },
+    {
+      "$id": 138,
+      "style": 160,
+      "name": "일반 퀘스트는 메인 스토리를 진행하는 데\n필수적인 퀘스트는 아닙니다\n컴퍼스상에서는 [System:Color name=tutorial ]파란색 아이콘[/System:Color]으로 표시됩니다"
+    },
+    {
+      "$id": 139,
+      "style": 160,
+      "name": "ここで大切な情報です\nコンパスには[System:Color name=tutorial ]アクティブ[/System:Color]に設定している\nクエストのアイコンだけが表示されます"
+    },
+    {
+      "$id": 140,
+      "style": 160,
+      "name": "アクティブの切り替えは\n[System:Color name=tutorial ]メインメニュー[/System:Color]＞[System:Color name=tutorial ]クエストログ[/System:Color]から\n行うことができます"
+    },
+    {
+      "$id": 141,
+      "style": 160,
+      "name": "それとアクティブに設定できるクエストは\nひとつだけになります"
+    },
+    {
+      "$id": 142,
+      "style": 160,
+      "name": "クエストを受注できる数には制限がないので\n冒険の途中で青い【？】アイコンを見つけたら\nどんどん話しかけてみましょう"
+    },
+    {
+      "$id": 143,
+      "style": 160,
+      "name": "렉스와 모험을 함께할 동료가 생겼습니다\n[System:Color name=tutorial ]메인 메뉴[/System:Color]>[System:Color name=tutorial ]캐릭터[/System:Color]>[System:Color name=tutorial ]대열 변경[/System:Color]에서\n동료의 편성을 바꿀 수 있습니다"
+    },
+    {
+      "$id": 144,
+      "style": 160,
+      "name": "동료가 늘어나도 배틀에 참가할 수 있는 동료는\n[System:Color name=tutorial ]최대 3명[/System:Color]까지니 주의해 주세요"
+    },
+    {
+      "$id": 145,
+      "style": 160,
+      "name": "또한 대열 변경에서 [System:Color name=tutorial ]1[/System:Color]로 설정한 캐릭터가\n[System:Color name=tutorial ]조작할 캐릭터[/System:Color]입니다"
+    },
+    {
+      "$id": 146,
+      "style": 160,
+      "name": "캐릭터에 따라 배틀 스타일도 서로 다르니\n자신의 플레이 스타일에 맞는 캐릭터를 찾아보세요"
+    },
+    {
+      "$id": 147,
+      "style": 160,
+      "name": "어서 할아버지와 니아 일행을 찾으러 가야겠지만\n여기서 더 가면 미지의 에너미와 조우하게 될 수도 있습니다"
+    },
+    {
+      "$id": 148,
+      "style": 160,
+      "name": "그 전에 대비를 해 둬야 걱정이 없을 테니\n렉스의 성장에 대해 설명하겠습니다"
+    },
+    {
+      "$id": 149,
+      "style": 160,
+      "name": "배틀 종료 후에 획득 가능한 포인트로\n[System:Color name=tutorial ]WP[/System:Color]와 [System:Color name=tutorial ]SP[/System:Color]라는 것이 있습니다"
+    },
+    {
+      "$id": 150,
+      "style": 160,
+      "name": "WP는 [System:Color name=tutorial ]웨펀 포인트[/System:Color]입니다\n렉스의 [System:Color name=tutorial ]무기 숙련도[/System:Color]라고 하면 이해가 쉬울까요?\n포인트를 사용해 [System:Color name=tutorial ]아츠의 레벨을 상승[/System:Color]시킬 수 있습니다"
+    },
+    {
+      "$id": 151,
+      "style": 160,
+      "name": "같은 아츠여도 레벨이 상승하면\n에너미에게 주는 대미지는 훨씬 더 높아집니다"
+    },
+    {
+      "$id": 152,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]메인 메뉴[/System:Color]>[System:Color name=tutorial ]캐릭터[/System:Color]>[System:Color name=tutorial ]캐릭터 세팅[/System:Color]>\n[System:Color name=tutorial ]아츠 강화[/System:Color]에서 아츠를 강화해 보세요"
+    },
+    {
+      "$id": 153,
+      "style": 160,
+      "name": "ひとつ注意が必要なのは\nアーツの強化にはレベルが設定されていることです"
+    },
+    {
+      "$id": 154,
+      "style": 160,
+      "name": "レックスが設定されているレベル以上になっていないと\nアーツを強化することができません"
+    },
+    {
+      "$id": 155,
+      "style": 160,
+      "name": "또한 아츠 강화 항목에서\n사용할 아츠의 버튼을 변경할 수도 있습니다"
+    },
+    {
+      "$id": 156,
+      "style": 160,
+      "name": "SP는 [System:Color name=tutorial ]스킬 포인트[/System:Color]입니다\n렉스의 [System:Color name=tutorial ]배틀 테크닉 숙련도[/System:Color]라 하면 이해가 쉬울까요?\n포인트를 사용해 다양한 [System:Color name=tutorial ]스킬을 습득[/System:Color]할 수 있습니다"
+    },
+    {
+      "$id": 157,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]메인 메뉴[/System:Color]>[System:Color name=tutorial ]캐릭터[/System:Color]>[System:Color name=tutorial ]캐릭터 세팅[/System:Color]>\n[System:Color name=tutorial ]인연 링[/System:Color]에서 스킬을 습득해 보세요"
+    },
+    {
+      "$id": 158,
+      "style": 160,
+      "name": "렉스의 [System:Color name=tutorial ]블레이드 동조[/System:Color] 능력이 해방되었습니다"
+    },
+    {
+      "$id": 159,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]메인 메뉴[/System:Color]>[System:Color name=tutorial ]블레이드 관리[/System:Color]>[System:Color name=tutorial ]블레이드 동조[/System:Color]에서 언제든\n새로운 블레이드를 동료로 만들 수 있습니다"
+    },
+    {
+      "$id": 160,
+      "style": 160,
+      "name": "코어 크리스털에는\n[System:Color name=tutorial ]코먼 코어 크리스털[/System:Color] · [System:Color name=tutorial ]레어 코어 크리스털[/System:Color] ·\n[System:Color name=tutorial ]에픽 코어 크리스털[/System:Color] 3단계가 존재합니다"
+    },
+    {
+      "$id": 161,
+      "style": 160,
+      "name": "동조할 코어 크리스털의 등급이 높아지면\n희귀한 생김새를 가진 블레이드가 탄생할 확률도 높아집니다"
+    },
+    {
+      "$id": 162,
+      "style": 160,
+      "name": "새로운 코어 크리스털을 획득하면\n우선 동조해 볼 것을 추천합니다"
+    },
+    {
+      "$id": 163,
+      "style": 160,
+      "name": "또한 새롭게 탄생한 블레이드는\n[System:Color name=tutorial ]블레이드 인게이지[/System:Color]를 하면 배틀에 참가해 줍니다"
+    },
+    {
+      "$id": 164,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]메인 메뉴[/System:Color]>[System:Color name=tutorial ]캐릭터[/System:Color]>[System:Color name=tutorial ]캐릭터 세팅[/System:Color]>[System:Color name=tutorial ]블레이드 인게이지[/System:Color]에서\n탄생한 블레이드를 인게이지해 봅시다"
+    },
+    {
+      "$id": 165,
+      "style": 160,
+      "name": "지금까지 배틀 중에 렉스를\n지원해 주는 블레이드는 호무라 혼자였지만"
+    },
+    {
+      "$id": 166,
+      "style": 160,
+      "name": "앞으로는 인게이지한 블레이드도\n렉스를 지원하게 됩니다"
+    },
+    {
+      "$id": 167,
+      "style": 160,
+      "name": "배틀 중에 표시되는\n블레이드의 얼굴 아이콘에 대응되는 버튼을 누르면\n[System:Color name=tutorial ]블레이드 스위치[/System:Color]를 할 수 있습니다"
+    },
+    {
+      "$id": 168,
+      "style": 160,
+      "name": "블레이드 스위치는 배틀 중에 지원해 주는 블레이드를\n변경하는 것입니다"
+    },
+    {
+      "$id": 169,
+      "style": 160,
+      "name": "블레이드 스위치를 사용하면\n사용 중이던 [System:Color name=tutorial ]무기는 물론 아츠도 변화[/System:Color]합니다"
+    },
+    {
+      "$id": 170,
+      "style": 160,
+      "name": "무기에 따라 에너미에게 가하는 공격도 변화하니\n상황에 맞춰 블레이드 스위치를 해 봅시다"
+    },
+    {
+      "$id": 171,
+      "style": 160,
+      "name": "여기서 주의할 점 하나, 일단 블레이드 스위치를 하면\n다시 배틀을 지원해 줄 수 있게 될 때까지\n잠시 시간이 필요하므로 주의해 주세요"
+    },
+    {
+      "$id": 172,
+      "style": 160,
+      "name": "단, 렉스와 블레이드 사이에는 [System:Color name=tutorial ]신뢰도[/System:Color]가 있습니다\n신뢰도가 오르면 다시 지원해 줄 수 있을 때까지\n걸리는 시간이 줄어듭니다"
+    },
+    {
+      "$id": 173,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]블레이드의 인연 기프트를 획득하면 신뢰도도 상승[/System:Color]하므로\n새로운 블레이드를 탄생시켰다면\n적극적으로 인연 기프트를 획득해 봅시다"
+    },
+    {
+      "$id": 174,
+      "style": 160,
+      "name": "史上初の人工ブレイド하나 JSが誕生しました\n하나 JSは人工ブレイドなので\n[System:Color name=tutorial ]アシストコア[/System:Color]を装備することができないのです"
+    },
+    {
+      "$id": 175,
+      "style": 160,
+      "name": "사상 최초의 인공 블레이드 하나가 탄생했습니다\n하나는 어시스트 코어를 장비할 수 없는 대신\n[System:Color name=tutorial ]하나라이즈[/System:Color]에서 커스터마이즈가 가능합니다"
+    },
+    {
+      "$id": 176,
+      "style": 160,
+      "name": "하나라이즈는 [System:Color name=tutorial ]메인 메뉴[/System:Color]>[System:Color name=tutorial ]캐릭터[/System:Color]>\n[System:Color name=tutorial ]블레이드 세팅[/System:Color]([System:Color name=tutorial ]하나 JS[/System:Color])>[System:Color name=tutorial ]하나라이즈[/System:Color]에서 확인할 수 있습니다"
+    },
+    {
+      "$id": 177,
+      "style": 160,
+      "name": "하나라이즈를 하려면\n[System:Color name=tutorial ]TIGER! TIGER![/System:Color]에서 획득한 아이템이 필요합니다"
+    },
+    {
+      "$id": 178,
+      "style": 160,
+      "name": "TIGER! TIGER!를 많이 플레이해서\n하나 JS를 팍팍 강화해 봅시다"
+    },
+    {
+      "$id": 179,
+      "style": 160,
+      "name": "무사히 니아를 구출한 것 같군요\n멤버가 3명 모였으니\n[System:Color name=tutorial ]롤[/System:Color]과 [System:Color name=tutorial ]클래스[/System:Color]에 대해 설명하겠습니다"
+    },
+    {
+      "$id": 180,
+      "style": 160,
+      "name": "블레이드가 태생적으로 가진 역할이 바로 [System:Color name=tutorial ]롤[/System:Color]입니다\n[System:Color name=tutorial ]롤[/System:Color]에는 [System:Color name=tutorial ]공격[/System:Color] · [System:Color name=tutorial ]회복[/System:Color] · [System:Color name=tutorial ]방어[/System:Color] 3종류가 있으며\n예를 들면 호무라의 롤은 공격, 뱌코는 회복입니다"
+    },
+    {
+      "$id": 181,
+      "style": 160,
+      "name": "어떤 롤을 가진 블레이드와 인게이지했는가에 따라\n드라이버의 전투 스타일이 결정됩니다\n그것을 드라이버의 [System:Color name=tutorial ]클래스[/System:Color]라고 합니다"
+    },
+    {
+      "$id": 182,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]공격 중시[/System:Color] 클래스, [System:Color name=tutorial ]방어 중시[/System:Color] 클래스 등\n롤의 조합에 따라 다양한 클래스가 있으며\n클래스는 각각 [System:Color name=tutorial ]특수한 효과[/System:Color]를 갖고 있습니다"
+    },
+    {
+      "$id": 183,
+      "style": 160,
+      "name": "그냥 좋아하는 블레이드와 인게이지할 것인지\n혹은 강한 효과를 가진 클래스가 되게끔 연구를 해 볼지는\n각자의 플레이 스타일에 맞춰 시도해 봅시다"
+    },
+    {
+      "$id": 184,
+      "style": 160,
+      "name": "블레이드의 롤은 바꿀 수 없지만\n인공 블레이드인 [System:Color name=tutorial ]하나[/System:Color]는 놀랍게도\n[System:Color name=tutorial ]하나라이즈[/System:Color]에서 [System:Color name=tutorial ]롤을 변경[/System:Color]할 수 있습니다"
+    },
+    {
+      "$id": 185,
+      "style": 160,
+      "name": "하나의 롤은 [System:Color name=tutorial ]TIGER! TIGER![/System:Color]에서 획득할 수 있습니다\n다양한 [System:Color name=tutorial ]롤 CPU[/System:Color]를 GET하기 위해\nTIGER! TIGER!를 공략해 봅시다"
+    },
+    {
+      "$id": 186,
+      "style": 160,
+      "name": ""
+    },
+    {
+      "$id": 187,
+      "style": 160,
+      "name": "롤과 클래스에 대한 설명은 이제 끝입니다\n그럼 여기서 탈출합시다"
+    },
+    {
+      "$id": 188,
+      "style": 160,
+      "name": "여기서 잠시 배틀의 요령에 대해 설명하겠습니다\n에너미 [System:Color name=tutorial ]유인[/System:Color]입니다"
+    },
+    {
+      "$id": 189,
+      "style": 160,
+      "name": "에너미와 다소 떨어진 장소에 있을 때에도\n타깃 상태라면 [System:Color name=tutorial ]납도한 상태에서 [ML:icon icon=down ] 버튼을 눌러[/System:Color]\n에너미를 유인할 수 있습니다"
+    },
+    {
+      "$id": 190,
+      "style": 160,
+      "name": "무리를 짓고 있는 에너미를 하나씩 쓰러뜨리고 싶을 때나\n넓은 곳에서 싸우고 싶을 때에 활용해 보세요"
+    },
+    {
+      "$id": 191,
+      "style": 160,
+      "name": "시험 삼아 눈앞에 있는 에너미를\n[System:Color name=tutorial ][ML:icon icon=R ] 버튼[/System:Color]을 눌러 타깃으로 잡고\n[System:Color name=tutorial ][ML:icon icon=down ] 버튼[/System:Color]을 눌러 유인해 봅시다"
+    },
+    {
+      "$id": 192,
+      "style": 160,
+      "name": "굴라령에서 가장 큰 거리인 [System:Color name=tutorial ]트리고 거리[/System:Color]에 도착했습니다\n여기서 [System:Color name=tutorial ]마을의 발전[/System:Color]에 대해 설명하겠습니다"
+    },
+    {
+      "$id": 193,
+      "style": 160,
+      "name": "아바리티아나 굴라 그리고 아르스트에 있는 지역에는\n[System:Color name=tutorial ]5단계의 발전도[/System:Color]라는 것이 있습니다"
+    },
+    {
+      "$id": 194,
+      "style": 160,
+      "name": "발전도는 [System:Color name=tutorial ]발전 포인트[/System:Color]를 벌면\n점점 상승합니다"
+    },
+    {
+      "$id": 195,
+      "style": 160,
+      "name": "지역 발전도가 오르면\n다양한 숍의 [System:Color name=tutorial ]상품 가격이 저렴해집니다[/System:Color]"
+    },
+    {
+      "$id": 196,
+      "style": 160,
+      "name": "경우에 따라서는 숍에\n새로운 상품이 진열될지도 모릅니다"
+    },
+    {
+      "$id": 197,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]퀘스트를 달성[/System:Color]하는 등 지역 사람들의 고민을 해결하면\n지역의 [System:Color name=tutorial ]발전 포인트를 상승[/System:Color]시킬 수 있습니다"
+    },
+    {
+      "$id": 198,
+      "style": 160,
+      "name": "또한 [System:Color name=tutorial ]말을 거는 것[/System:Color]을 통해서도\n아주 조금이지만 [System:Color name=tutorial ]포인트를 버는 것[/System:Color]이 가능합니다"
+    },
+    {
+      "$id": 199,
+      "style": 160,
+      "name": "지역 발전도는 숍에서 물건을 살 때도 확인할 수 있지만\n[System:Color name=tutorial ]메인 메뉴[/System:Color]>[System:Color name=tutorial ]스킵 트래블[/System:Color]에서도 확인할 수 있습니다"
+    },
+    {
+      "$id": 200,
+      "style": 160,
+      "name": "아르스트에 사는 한 사람으로서\n지역 발전에 공헌해 보는 것은 어떨까요?"
+    },
+    {
+      "$id": 201,
+      "style": 160,
+      "name": "아르스트는 운해에 둘러싸인 세계입니다\n렉스 일행이 말했듯 [System:Color name=tutorial ]운해에는 조수 차가 있습니다[/System:Color]"
+    },
+    {
+      "$id": 202,
+      "style": 160,
+      "name": "운해의 조수 차에 따라 갈 수 있었던 곳을 갈 수 없게 되거나\n갈 수 없었던 곳을 갈 수 있게 되기도 하니\n운해의 변화에 발맞춰 모험의 폭을 넓혀 봅시다"
+    },
+    {
+      "$id": 203,
+      "style": 160,
+      "name": "중요한 걸 잊고 있었으니 지금 설명하겠습니다\n[System:Color name=tutorial ]블레이드의 성장[/System:Color]에 관한 내용입니다"
+    },
+    {
+      "$id": 204,
+      "style": 160,
+      "name": "블레이드의 성장 요소는 크게 3종류로 나눌 수 있습니다\n[System:Color name=tutorial ]무기 강화[/System:Color] · [System:Color name=tutorial ]인연 링[/System:Color] · [System:Color name=tutorial ]어시스트 코어[/System:Color] 장비입니다"
+    },
+    {
+      "$id": 205,
+      "style": 160,
+      "name": "무기 강화는 블레이드가 가지고 태어난 무기를\n[System:Color name=tutorial ]코어 칩[/System:Color]으로 강화하는 것입니다"
+    },
+    {
+      "$id": 206,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]메인 메뉴[/System:Color]>[System:Color name=tutorial ]캐릭터[/System:Color]>[System:Color name=tutorial ]블레이드 세팅[/System:Color]>\n[System:Color name=tutorial ]무기 강화[/System:Color]에서 코어 칩을 무기에 박을 수 있습니다"
+    },
+    {
+      "$id": 207,
+      "style": 160,
+      "name": "아르스트 곳곳에 존재하는 코어 칩 숍을 발견하면\n우선 새로운 코어 칩을 사 보는 것을 추천합니다"
+    },
+    {
+      "$id": 208,
+      "style": 160,
+      "name": "コアチップの中には基本的な性能を上げるだけでなく\n特別な能力を発動させるものもあると　噂されています"
+    },
+    {
+      "$id": 209,
+      "style": 160,
+      "name": "また　アルストにいるエネミーの中には\n特別なコアチップを持っているエネミーもいるそうです"
+    },
+    {
+      "$id": 210,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]メインメニュー[/System:Color]＞[System:Color name=tutorial ]キャラクター[/System:Color]＞[System:Color name=tutorial ]ブレイドセットアップ[/System:Color]＞\n[System:Color name=tutorial ]武器強化[/System:Color]からコアチップを武器に埋め込むことができます"
+    },
+    {
+      "$id": 211,
+      "style": 160,
+      "name": "이어서 인연 링입니다\n인연 링은 블레이드가 지닌 다양한 능력을 나타낸 것입니다"
+    },
+    {
+      "$id": 212,
+      "style": 160,
+      "name": "필드의 장애물을 해결하는 [System:Color name=tutorial ]필드 스킬[/System:Color]을 획득하거나\n배틀에서 사용할 [System:Color name=tutorial ]필살기[/System:Color]를 강화할 수 있습니다"
+    },
+    {
+      "$id": 213,
+      "style": 160,
+      "name": "인연 링의 능력은 [System:Color name=tutorial ]인연 기프트[/System:Color]를 획득하면 해방됩니다\n인연 기프트를 획득하려면 다양한 과제를 달성해야 합니다"
+    },
+    {
+      "$id": 214,
+      "style": 160,
+      "name": "마지막으로 [System:Color name=tutorial ]어시스트 코어[/System:Color]입니다\n이것은 블레이드가 장비할 수 있는 액세서리 같은 물건입니다"
+    },
+    {
+      "$id": 215,
+      "style": 160,
+      "name": "アシストコアは冒険の途中　色々な場面で\n手に入れることができます"
+    },
+    {
+      "$id": 216,
+      "style": 160,
+      "name": "ただし　手に入れただけでは\nアシストコアを装備することはできません"
+    },
+    {
+      "$id": 217,
+      "style": 160,
+      "name": "街の中にある[System:Color name=tutorial ]アシストコアショップ[/System:Color]で[System:Color name=tutorial ]ビルド[/System:Color]（[System:Color name=tutorial ]精製[/System:Color]）を\nしなくてはなりません\n詳しい話はアシストコアショップで聞いてみましょう"
+    },
+    {
+      "$id": 218,
+      "style": 160,
+      "name": "자, 드디어 거사를 치를 때가 된 셈인데\n그 전에 숍에 대해 하나 더 설명하겠습니다\n[System:Color name=tutorial ]교역 숍[/System:Color]에 관한 내용입니다"
+    },
+    {
+      "$id": 219,
+      "style": 160,
+      "name": "교역 숍에서는 샐비지로 획득한 [System:Color name=tutorial ]트레저[/System:Color]를\n세트 단위로 사들여 줍니다"
+    },
+    {
+      "$id": 220,
+      "style": 160,
+      "name": "세트로 교역을 하면\n하나씩 파는 것보다 더 많은 돈을 받을 수 있습니다"
+    },
+    {
+      "$id": 221,
+      "style": 160,
+      "name": "交易ショップが普通のショップと違うところは\n[System:Color name=tutorial ]まとめ買いをしている[/System:Color]という点と\n[System:Color name=tutorial ]トレジャーに重点を置いている[/System:Color]という2点です"
+    },
+    {
+      "$id": 222,
+      "style": 160,
+      "name": "たとえば　サルベージをして手に入れたトレジャーを\n普通のショップに持っていっても\n20Gでしか買い取ってくれなかったとします"
+    },
+    {
+      "$id": 223,
+      "style": 160,
+      "name": "同じアイテムを交易ショップに持っていくと\n3つで100Gで買い取ってくれることがあるのです"
+    },
+    {
+      "$id": 224,
+      "style": 160,
+      "name": "注意したいのは　交易ショップの買い取りラインナップには\nそれぞれ課題が設定されていて\nその課題ごとでしかアイテムを売ることができないという点です"
+    },
+    {
+      "$id": 225,
+      "style": 160,
+      "name": "ただし　トレードが成立すると売却価格が上がる他にも\nアイテムをもらえる場合もあるのです"
+    },
+    {
+      "$id": 226,
+      "style": 160,
+      "name": "샐비지를 통해 트레저를 발견하면\n바로 일반적인 상점에 팔아 버리지 말고\n교역 숍을 잘 활용해 봅시다"
+    },
+    {
+      "$id": 227,
+      "style": 160,
+      "name": "잠시 어시스트 코어에 대해 복습을 하고 갑시다\n렉스 일행 앞에 [System:Color name=tutorial ]어시스트 코어 숍[/System:Color]이 있는데\n여기서 [System:Color name=tutorial ]미연성 어시스트 코어를 빌드[/System:Color]할 수 있습니다"
+    },
+    {
+      "$id": 228,
+      "style": 160,
+      "name": "어시스트 코어를 빌드할 때는\n[System:Color name=tutorial ]컬렉션 아이템[/System:Color]이 필요합니다"
+    },
+    {
+      "$id": 229,
+      "style": 160,
+      "name": "어시스트 코어에는 각각 연성에 필요한\n컬렉션 아이템의 수가 정해져 있습니다"
+    },
+    {
+      "$id": 230,
+      "style": 160,
+      "name": "그만한 수의 컬렉션 아이템을 가지고 있기만 하면\n숍에서 빌드할 수 있다는 뜻입니다"
+    },
+    {
+      "$id": 231,
+      "style": 160,
+      "name": "단, 어시스트 코어의 가치가 높으면 높을수록\n요구되는 컬렉션 아이템의\n획득 난이도도 어려워집니다"
+    },
+    {
+      "$id": 232,
+      "style": 160,
+      "name": "미연성 어시스트 코어를 빠르게 빌드하고 싶다면\n평소에 채집 포인트에서\n컬렉션 아이템을 모아 두는 걸 생활화합시다"
+    },
+    {
+      "$id": 233,
+      "style": 160,
+      "name": "눈앞에 보물 상자가 있는 것 같은데\n어딘지 평범한 보물 상자와는 조금 다릅니다"
+    },
+    {
+      "$id": 234,
+      "style": 160,
+      "name": "보물 상자 위의 아이콘을 보면\n아무래도 저 보물 상자를 열기 위해서는\n블레이드의 [System:Color name=tutorial ]필드 스킬[/System:Color]이 필요한 것 같군요"
+    },
+    {
+      "$id": 235,
+      "style": 160,
+      "name": "지금 당장 열지 못해도 포기할 필요는 없습니다"
+    },
+    {
+      "$id": 236,
+      "style": 160,
+      "name": "인연 링에서 블레이드의 필드 스킬을 성장시킨다면\n언젠가 반드시 저 보물 상자를 열 수 있을 날이 올 것입니다"
+    },
+    {
+      "$id": 237,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]숙박 시설[/System:Color]에서 [System:Color name=tutorial ]푹 쉬기[/System:Color]를 선택할 수 있게 되었습니다\n푹 쉬기를 고르면 [System:Color name=tutorial ]운해가 변화할 때까지[/System:Color] 휴식하게 됩니다"
+    },
+    {
+      "$id": 238,
+      "style": 160,
+      "name": "모험 도중 운해의 조수 차 때문에 이동에 제약이 생겼다면\n고민하지 말고 일단 마을로 돌아가\n숙박 시설을 이용하는 것을 추천합니다"
+    },
+    {
+      "$id": 239,
+      "style": 160,
+      "name": "운해의 조수 차는 푹 쉴 때마다 변화하므로 푹 쉬기 전에\n[System:Color name=tutorial ]환경 정보[/System:Color]에 표시되어 있는 [System:Color name=tutorial ]운해의 상태[/System:Color]를 확인합시다"
+    },
+    {
+      "$id": 240,
+      "style": 160,
+      "name": "그리고 또 하나\n아르스트에 있는 모든 숙박 시설에서\n푹 쉴 수 있는 것은 아닌 모양입니다"
+    },
+    {
+      "$id": 241,
+      "style": 160,
+      "name": "최소한 운해의 영향을 받기 쉬운 트리고의 숙박 시설에서는\n푹 쉴 수 있는 것 같네요"
+    },
+    {
+      "$id": 242,
+      "style": 160,
+      "name": "드디어 [System:Color name=tutorial ]흐레스벨그 용병단[/System:Color]의 단장이 되었나 보군요\n이쯤에서 다시 한번 유우가 전한 내용을 복습해 봅시다"
+    },
+    {
+      "$id": 243,
+      "style": 160,
+      "name": "용병단에는 매일 다양한 [System:Color name=tutorial ]임무[/System:Color]가 들어옵니다"
+    },
+    {
+      "$id": 244,
+      "style": 160,
+      "name": "새로운 임무가 추가되었을 때는\n팝업 아나운스로 알려 드리니\n메뉴에서 확인해 주세요"
+    },
+    {
+      "$id": 245,
+      "style": 160,
+      "name": "その他にも　街の中で困っている人がいるような場合は\nその人から直接任務を請け負うことがあるかもしれません"
+    },
+    {
+      "$id": 246,
+      "style": 160,
+      "name": "傭兵団の任務の中には[System:Color name=tutorial ]一度しか請け負うことができないもの[/System:Color]と\n[System:Color name=tutorial ]何回でも請け負うことができるもの[/System:Color]があるので\nご注意ください"
+    },
+    {
+      "$id": 247,
+      "style": 160,
+      "name": "용병단 임무를 달성하려면\n블레이드 부대를 [System:Color name=tutorial ]편성[/System:Color]해야만 합니다"
+    },
+    {
+      "$id": 248,
+      "style": 160,
+      "name": "임무에 따라\n블레이드가 지닌 [System:Color name=tutorial ]특정 스킬[/System:Color]이 필요하므로\n그에 맞는 블레이드를 편성해 임무를 맡깁시다"
+    },
+    {
+      "$id": 249,
+      "style": 160,
+      "name": "任務に適したブレイドを派遣する部隊に組み込むことで\n任務の達成にかかる時間を大幅に短縮することもできます"
+    },
+    {
+      "$id": 250,
+      "style": 160,
+      "name": "傭兵団の部隊に組み込まれたブレイドは\n[System:Color name=tutorial ]任務を達成[/System:Color]することによって\n[System:Color name=tutorial ]キズナリングのアチーブメントを達成[/System:Color]します"
+    },
+    {
+      "$id": 251,
+      "style": 160,
+      "name": "冒険を共にしない間でも\n傭兵団の任務を任せておくことで\n強いブレイドに成長させることができるのです"
+    },
+    {
+      "$id": 252,
+      "style": 160,
+      "name": "그리고 용병단에는 [System:Color name=tutorial ]용병단 레벨[/System:Color]이 있습니다\n이것은 특정 임무를 달성하면 레벨 업시킬 수 있습니다"
+    },
+    {
+      "$id": 253,
+      "style": 160,
+      "name": "슬슬 용병단을 레벨 업시킬 수 있지 않을까?\n하는 생각이 들면 유우가 있는 곳으로 돌아가서\n이야기를 들어 보는 것을 추천합니다"
+    },
+    {
+      "$id": 254,
+      "style": 160,
+      "name": "용병단 레벨이 오르면\n더 난이도가 높은 임무를 맡을 수 있게 됩니다"
+    },
+    {
+      "$id": 255,
+      "style": 160,
+      "name": "また　街が発展すると特別任務が発生し\nそれを達成することで\nお店のラインナップが変わることがあるかもしれません"
+    },
+    {
+      "$id": 256,
+      "style": 160,
+      "name": "ポイントをまとめると傭兵団がやるべきことは\n・[System:Color name=tutorial ]任務を請け負う[/System:Color]\n・[System:Color name=tutorial ]ブレイドで部隊を編成する[/System:Color]"
+    },
+    {
+      "$id": 257,
+      "style": 160,
+      "name": "・[System:Color name=tutorial ]任務を達成する\n[/System:Color]・[System:Color name=tutorial ]報酬を受け取る[/System:Color]\nといった感じになります"
+    },
+    {
+      "$id": 258,
+      "style": 160,
+      "name": "그럼 건투를 빌겠슴다"
+    },
+    {
+      "$id": 259,
+      "style": 160,
+      "name": "저쪽에 보이기 시작한 것은\n[System:Color name=tutorial ]인연 토크[/System:Color]의 발생을 알리는 사인입니다"
+    },
+    {
+      "$id": 260,
+      "style": 160,
+      "name": "인연 토크는 동료와의 인연을 보다 깊게 만드는\n소중한 사건을 말합니다"
+    },
+    {
+      "$id": 261,
+      "style": 160,
+      "name": "이 사인은 아르스트의 세계 각지에 흩어져 있으니\n모험 도중에 발견하면 꼭 조사해 봅시다"
+    },
+    {
+      "$id": 262,
+      "style": 160,
+      "name": "キズナトークをクリアすると\nブレイドとの[System:Color name=tutorial ]信頼度[/System:Color]が格段に[System:Color name=tutorial ]上昇[/System:Color]すること\n間違いなしです"
+    },
+    {
+      "$id": 263,
+      "style": 160,
+      "name": "また　出来事の最中に現れる\n選択肢によって信頼度の上昇率が変化してくるので\n選択を迫られた際は　細心の注意を払って答えを決めましょう"
+    },
+    {
+      "$id": 264,
+      "style": 160,
+      "name": "인연 토크를 보려면 그때의 편성과 시간이 중요합니다\n사인을 조사하면 정보를 알 수 있으니\n조건을 잘 갖춰 봅시다"
+    },
+    {
+      "$id": 265,
+      "style": 160,
+      "name": "一緒にいる仲間の編成や時間によって\n発生する時もあれば　何も起こらない場合もあります"
+    },
+    {
+      "$id": 266,
+      "style": 160,
+      "name": "忘れてはならないのは\n[System:Color name=tutorial ]キズナトーク[/System:Color]がブレイドのキズナリングの\n[System:Color name=tutorial ]アチーブメント[/System:Color]になっている場合があることです"
+    },
+    {
+      "$id": 267,
+      "style": 160,
+      "name": "やっぱりブレイドを成長させたい場合には\nキズナトークは必要不可欠というわけですね"
+    },
+    {
+      "$id": 268,
+      "style": 160,
+      "name": "それともうひとつ\nキズナトークのサインがある場所は\n宿泊施設で一休みした後に教えてもらえる場合があるそうです"
+    },
+    {
+      "$id": 269,
+      "style": 160,
+      "name": "인연 토크를 보면 블레이드의 신뢰도가 크게 상승합니다\n많은 체험을 통해 더 깊은 인연을 맺어 봅시다"
+    },
+    {
+      "$id": 270,
+      "style": 160,
+      "name": "여기서는 드라이버의 기본적인 전투 방법을 설명하겠습니다"
+    },
+    {
+      "$id": 271,
+      "style": 160,
+      "name": "우선 [System:Color name=tutorial ]인연[/System:Color]을 설명하겠습니다\n[System:Color name=tutorial ]렉스와 호무라를 연결하는 빛으로 된 띠[/System:Color]가 보이실 겁니다\n이것이 인연입니다"
+    },
+    {
+      "$id": 272,
+      "style": 160,
+      "name": "ドライバーとブレイドの心が通い合うと\nキズナが[System:Color name=tutorial ]金色[/System:Color]に輝き始めます"
+    },
+    {
+      "$id": 273,
+      "style": 160,
+      "name": "인연이 금빛으로 빛나면 마음이 통했다는 표시로\n배틀 중 렉스의 [System:Color name=tutorial ]이동 속도[/System:Color]와\n[System:Color name=tutorial ]아츠의 리캐스트 속도[/System:Color]가 상승합니다"
+    },
+    {
+      "$id": 274,
+      "style": 160,
+      "name": "また　基本的な攻撃力もどんどん上がっていきます"
+    },
+    {
+      "$id": 275,
+      "style": 160,
+      "name": "마음을 통하게 해 인연을 강하게 하려면\n블레이드와 가까운 곳에서 싸우며\n연속으로 공격을 성공시킵시다"
+    },
+    {
+      "$id": 276,
+      "style": 160,
+      "name": "その他にも連続して攻撃を加えるなど\n上手に戦うことでもキズナは深まっていきます"
+    },
+    {
+      "$id": 277,
+      "style": 160,
+      "name": "반대로 블레이드와 너무 멀어지면\n인연이 약해져 드라이버의 능력도 저하됩니다\n호무라와의 인연을 의식하며 메츠와 싸웁시다"
+    },
+    {
+      "$id": 278,
+      "style": 160,
+      "name": "そうなってしまうと\nレックスの戦う力はどんどん失われてしまうでしょう"
+    },
+    {
+      "$id": 279,
+      "style": 160,
+      "name": "ホムラとのキズナを意識してメツと戦いましょう"
+    },
+    {
+      "$id": 280,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]필살기[/System:Color]는 아츠의 위력을 훨씬 뛰어넘는\n공격력을 지닌 공격 방법입니다"
+    },
+    {
+      "$id": 281,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]ゲージをため続ける[/System:Color]ことで\n必殺技のレベルも威力も上がっていきます"
+    },
+    {
+      "$id": 282,
+      "style": 160,
+      "name": "필살기는 아츠를 사용해 [System:Color name=tutorial ]게이지[/System:Color]를 모으면 사용할 수 있습니다"
+    },
+    {
+      "$id": 283,
+      "style": 160,
+      "name": "게이지를 많이 모으면\n필살기의 [System:Color name=tutorial ]레벨[/System:Color]도 [System:Color name=tutorial ]Ⅰ[/System:Color]<[System:Color name=tutorial ]Ⅱ[/System:Color]<[System:Color name=tutorial ]Ⅲ[/System:Color] 순으로 상승합니다"
+    },
+    {
+      "$id": 284,
+      "style": 160,
+      "name": "오토 어택이 [System:Color name=tutorial ]히트한 타이밍에 아츠를 사용[/System:Color]하면\n[System:Color name=tutorial ]게이지를 더 많이 축적[/System:Color]할 수 있습니다\n성공하면 동그라미 사인이 나오니 그것으로 판별합시다"
+    },
+    {
+      "$id": 285,
+      "style": 160,
+      "name": "또한 필살기를 사용하면 [System:Color name=tutorial ]버튼 챌린지[/System:Color]가 발생합니다"
+    },
+    {
+      "$id": 286,
+      "style": 160,
+      "name": "화면의 지시에 따라\n[System:Color name=tutorial ]타이밍에 맞춰 버튼을 누릅시다[/System:Color]\n정확히 누르면 대미지가 2배로 상승합니다"
+    },
+    {
+      "$id": 287,
+      "style": 160,
+      "name": "필살기를 에너미에게 맞히면\n[System:Color name=tutorial ]블레이드 콤보[/System:Color]를 노릴 찬스가 발생하는데\n블레이드 콤보에 대한 설명은 다음 기회에 하겠습니다"
+    },
+    {
+      "$id": 288,
+      "style": 160,
+      "name": "에너미에게 필살기를 사용하면\n화면 상단에 블레이드 콤보의\n[System:Color name=tutorial ]유효 시간을 나타내는 게이지[/System:Color]가 표시됩니다"
+    },
+    {
+      "$id": 289,
+      "style": 160,
+      "name": "또한 그와 동시에 블레이드 콤보의 [System:Color name=tutorial ]루트[/System:Color]도 표시됩니다"
+    },
+    {
+      "$id": 290,
+      "style": 160,
+      "name": "게이지가 [System:Color name=tutorial ]0[/System:Color]이 되기 전에 [System:Color name=tutorial ]한 단계 높은 필살기[/System:Color]를 맞히면\n단독으로 쓰는 필살기보다 더 강력한 대미지를 줄 수 있습니다"
+    },
+    {
+      "$id": 291,
+      "style": 160,
+      "name": "필살기가 에너미에게 히트했군요\n그럼 서비스로 필살기 레벨을 올려 드릴 테니\n블레이드 콤보를 성공시켜 봅시다"
+    },
+    {
+      "$id": 292,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]블레이드 아츠[/System:Color]는 블레이드가 지닌 특수 능력 중 하나로\n배틀 중에 [System:Color name=tutorial ]자동으로 드라이버를 지원해 주는[/System:Color] 능력입니다"
+    },
+    {
+      "$id": 293,
+      "style": 160,
+      "name": "블레이드의 신뢰도가 상승하면\n지원해 줄 확률이 상승합니다"
+    },
+    {
+      "$id": 294,
+      "style": 160,
+      "name": "신뢰도 이야기는\n조금 더 드라이버로서 경험이 쌓이면\n그때 다시 설명해 드리겠습니다"
+    },
+    {
+      "$id": 295,
+      "style": 160,
+      "name": "지금은 메츠를 쓰러뜨리는 일에 집중해 주세요"
+    },
+    {
+      "$id": 296,
+      "style": 160,
+      "name": "동료가 모였으니\n[System:Color name=tutorial ]어그로 시스템[/System:Color]에 대하여 설명해 드리겠습니다"
+    },
+    {
+      "$id": 297,
+      "style": 160,
+      "name": "이미 깨달으신 분도 계실지 모르겠지만\n에너미에게 공격을 받는 동안에는\n드라이버 주변에 [System:Color name=tutorial ]붉은 링[/System:Color]이 표시됩니다"
+    },
+    {
+      "$id": 298,
+      "style": 160,
+      "name": "이 링을 [System:Color name=tutorial ]어그로 링[/System:Color]이라고 합니다\n링에 겹쳐서 표시되는 [System:Color name=tutorial ]쐐기 모양 아이콘[/System:Color]은\n이쪽을 공격하는 [System:Color name=tutorial ]에너미의 방향[/System:Color]을 의미합니다"
+    },
+    {
+      "$id": 299,
+      "style": 160,
+      "name": "어그로는 에너미가 강력한 공격을 받으면\n그 공격을 가한 드라이버를 향해\n보복을 하고자 하는 『공격성』을 말합니다"
+    },
+    {
+      "$id": 300,
+      "style": 160,
+      "name": "힐러 계열 클래스인 드라이버가 어그로를 모으면\n그만큼 전투 불능에 쉽게 빠지게 됩니다\n현재 상황으로 보자면 니아는 어그로를 모으지 않아야 합니다"
+    },
+    {
+      "$id": 301,
+      "style": 160,
+      "name": "가드 계열 클래스인 드라이버는\n어그로를 모아도 한동안은 공격을 견딜 수 있습니다\n현재 상황으로 보자면 토라는 어그로를 모으는 것이 좋습니다"
+    },
+    {
+      "$id": 302,
+      "style": 160,
+      "name": "파이터 계열 클래스인 드라이버는\n큰 대미지를 주는 것이 역할입니다\n현재 상황으로 보자면 렉스는 공격에 전념해야 합니다"
+    },
+    {
+      "$id": 303,
+      "style": 160,
+      "name": "가드가 적의 어그로를 모으고\n힐러는 가드의 HP를 회복시키고\n그 사이에 파이터가 적의 HP를 깎는 것입니다"
+    },
+    {
+      "$id": 304,
+      "style": 160,
+      "name": "화살표가 가리키는 곳을 주목해 주세요\n여기에는 [System:Color name=tutorial ]블레이드 콤보[/System:Color]를 [System:Color name=tutorial ]스테이지 3[/System:Color]까지 성공했을 때 발생하는\n다양한 [System:Color name=tutorial ]봉인 효과[/System:Color]가 표시되고 있습니다"
+    },
+    {
+      "$id": 305,
+      "style": 160,
+      "name": "마지막에 사용한 필살기에 따라\n콤보 루트상에 표시되는 봉인 효과를\n에너미에게 줄 수 있습니다"
+    },
+    {
+      "$id": 306,
+      "style": 160,
+      "name": "에너미에게 준 봉인 효과는\n[System:Color name=tutorial ]다른 봉인 효과를 줄 때까지[/System:Color] 유지됩니다"
+    },
+    {
+      "$id": 307,
+      "style": 160,
+      "name": "봉인 효과를 주면 배틀이 압도적으로 유리해지니\n꼭 블레이드 콤보를 스테이지 3까지\n사용할 수 있게끔 힘내 주세요"
+    },
+    {
+      "$id": 308,
+      "style": 160,
+      "name": "단, 주의해야만 하는 것이\n스테이지 3의 블레이드 콤보를 성공하면\n에너미는 그 속성에 대한 [System:Color name=tutorial ]내성[/System:Color]을 지니게 된다는 점입니다"
+    },
+    {
+      "$id": 309,
+      "style": 160,
+      "name": "다시 말해 같은 콤보 루트를 따라가도\n줄 수 있는 대미지는 줄어든다는 것입니다"
+    },
+    {
+      "$id": 310,
+      "style": 160,
+      "name": "블레이드 콤보도 다양한 루트를 시험해 보는 것이\n점점 중요해집니다"
+    },
+    {
+      "$id": 311,
+      "style": 160,
+      "name": "아르스트의 세계에는 아직 미지의 생물이\n존재하고 있는 것 같습니다"
+    },
+    {
+      "$id": 312,
+      "style": 160,
+      "name": "여러 에너미를 상대하다 보면\n[System:Color name=tutorial ]일반 에너미와는 다른 마크[/System:Color]가\n표시되는 에너미가 있을 것입니다"
+    },
+    {
+      "$id": 313,
+      "style": 160,
+      "name": "그게 바로 [System:Color name=tutorial ]유니크 몬스터[/System:Color]라는 몬스터입니다"
+    },
+    {
+      "$id": 314,
+      "style": 160,
+      "name": "아르스트에서 유명한 드라이버조차도\n상대하기 어려워한다고 합니다"
+    },
+    {
+      "$id": 315,
+      "style": 160,
+      "name": "유니크 몬스터를 토벌하면\n틀림없이 아르스트의 모두가 당신을 인정할 것입니다"
+    },
+    {
+      "$id": 316,
+      "style": 160,
+      "name": "단, 평범한 몬스터와는 다르게\n상당히 강력한 공격을 사용하므로\n준비를 충분히 한 다음 도전할 것을 추천합니다"
+    },
+    {
+      "$id": 317,
+      "style": 160,
+      "name": "그리고 유니크 몬스터를 토벌하면\n몬스터가 살았던 증거로서\n그 장소에 무덤이 남습니다"
+    },
+    {
+      "$id": 318,
+      "style": 160,
+      "name": "무덤에 다가가서 [ML:icon icon=A ] 버튼을 누르면\n다시 한번 유니크 몬스터를\n불러낼 수 있다는 소문이 있습니다"
+    },
+    {
+      "$id": 319,
+      "style": 160,
+      "name": "렉스가 진정한 하늘의 성배의 드라이버\n[System:Color name=tutorial ]마스터 드라이버[/System:Color]의 힘을 각성했습니다"
+    },
+    {
+      "$id": 320,
+      "style": 160,
+      "name": "니아가 원래 모습을 밝혔습니다\n렉스는 [System:Color name=tutorial ]블레이드인 니아[/System:Color]와 인게이지할 수 있습니다"
+    },
+    {
+      "$id": 321,
+      "style": 160,
+      "name": "렉스의 요청에 따라 히카리를 부를 수도 있고\n반대로 호무라를 부를 수도 있게 되었습니다"
+    },
+    {
+      "$id": 322,
+      "style": 160,
+      "name": "지금 화살표가 가리키는 아이콘은\n에너미의 [System:Color name=tutorial ]약점[/System:Color]을 의미합니다"
+    },
+    {
+      "$id": 323,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]불 모양 아이콘[/System:Color]이 표시되어 있으니\n이 에너미는 [System:Color name=tutorial ]불에 약합니다[/System:Color]\n다시 말해, 호무라가 유리하다는 뜻입니다"
+    },
+    {
+      "$id": 324,
+      "style": 160,
+      "name": "다음으로 동료를 [System:Color name=tutorial ]구조[/System:Color]하는 방법입니다\n드라이버의 HP가 0이 되면\n드라이버는 전투 불능 상태가 됩니다"
+    },
+    {
+      "$id": 325,
+      "style": 160,
+      "name": "화살표가 가리키는 [System:Color name=tutorial ]파티 게이지[/System:Color]가 모여 있을 때에\n전투 불능인 동료에게 다가가 [ML:icon icon=A ] 버튼을 누르면\n1게이지를 소비해 동료를 회복시킬 수 있습니다"
+    },
+    {
+      "$id": 326,
+      "style": 160,
+      "name": "자신이 전투 불능이 되었을 때에도\n파티 게이지가 쌓여 있다면 동료가 다가와서 구조해 줍니다"
+    },
+    {
+      "$id": 327,
+      "style": 160,
+      "name": "이어서 동료 드라이버와 사용하는 [System:Color name=tutorial ]블레이드 콤보[/System:Color]를 설명하겠습니다\n그 전에 다시 필살기 게이지를 서비스로 채워 드릴 테니\n필살기를 사용해 보세요"
+    },
+    {
+      "$id": 328,
+      "style": 160,
+      "name": "단, 무턱대고 앵커 샷을 쓴다고\n에너미가 다운되지는 않습니다"
+    },
+    {
+      "$id": 329,
+      "style": 160,
+      "name": "에너미가 [System:Color name=tutorial ]브레이크[/System:Color]에 걸린 타이밍을 노려\n앵커 샷을 사용해 봅시다"
+    },
+    {
+      "$id": 330,
+      "style": 160,
+      "name": "에너미를 [System:Color name=tutorial ]브레이크[/System:Color]시킬 아츠를 [System:Color name=tutorial ]니아[/System:Color]가 갖고 있을 것입니다\n니아가 에너미를 브레이크시킬 때까지 앵커 샷을 아껴 둡시다"
+    },
+    {
+      "$id": 331,
+      "style": 160,
+      "name": "에너미가 [System:Color name=tutorial ]브레이크[/System:Color]에 걸리면\n화살표가 가리키는 곳에 지금처럼 게이지가 표시됩니다\n이것을 [System:Color name=tutorial ]드라이버 콤보 게이지[/System:Color]라고 합니다"
+    },
+    {
+      "$id": 332,
+      "style": 160,
+      "name": "게이지가 0이 되기 전에 다운 효과가 있는 아츠를\n에너미에게 사용하면 큰 대미지를 입힐 수 있습니다\n이것을 [System:Color name=tutorial ]드라이버 콤보[/System:Color]라고 합니다"
+    },
+    {
+      "$id": 333,
+      "style": 160,
+      "name": "드라이버 콤보는\n[System:Color name=tutorial ]브레이크[/System:Color]>[System:Color name=tutorial ]다운[/System:Color]>[System:Color name=tutorial ]라이징[/System:Color]>[System:Color name=tutorial ]스매시[/System:Color]로\n4단계까지 연결할 수 있습니다"
+    },
+    {
+      "$id": 334,
+      "style": 160,
+      "name": "렉스 일행이 사용할 수 있는 아츠 중에는\n드라이버 콤보를 연결하는\n효과를 지닌 아츠도 있으니 다양하게 시도해 보면 어떨까요?"
+    },
+    {
+      "$id": 335,
+      "style": 160,
+      "name": "하지만 그 전에 우선 [System:Color name=tutorial ]앵커 샷[/System:Color]으로 아르돈을\n[System:Color name=tutorial ]다운[/System:Color]시켜서 [System:Color name=tutorial ]브레이크[/System:Color]의 다음을 연결해 봅시다"
+    },
+    {
+      "$id": 336,
+      "style": 160,
+      "name": "이미 사용해 본 분이 계실지도 모르겠지만\n지금 화살표가 가리키는 아이콘은\n[System:Color name=tutorial ]집중 아이콘[/System:Color]이라고 합니다"
+    },
+    {
+      "$id": 337,
+      "style": 160,
+      "name": "여러 에너미와 싸우는 도중에 타깃을 변경해도\n조작 캐릭터 외의 다른 캐릭터들은\n타깃 변경 전에 공격하던 에너미를 계속 공격합니다"
+    },
+    {
+      "$id": 338,
+      "style": 160,
+      "name": "전황이 좀 불리하다 싶을 때\n집중 아이콘에 대응되는 [System:Color name=tutorial ][ML:icon icon=left ] 버튼[/System:Color]을 누르면\n바로 조작 캐릭터에게 가세해 줍니다"
+    },
+    {
+      "$id": 339,
+      "style": 160,
+      "name": "혼전 양상이 되었을 때는\n어떤 순서로 에너미를 쓰러뜨릴지 냉정하게 판단해서"
+    },
+    {
+      "$id": 340,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]타깃 전환[/System:Color]과 [System:Color name=tutorial ]집중 명령[/System:Color]을 잘 구사하면\n의외로 쉽게 궁지에서 벗어날 수 있을 것입니다\n하늘의 성배를 노리는 악당들로부터 호무라를 지킵시다"
+    },
+    {
+      "$id": 341,
+      "style": 160,
+      "name": "렉스는 다른 사람과 동조한 블레이드와도\n[System:Color name=tutorial ]자유롭게 인게이지[/System:Color]할 수 있습니다"
+    },
+    {
+      "$id": 342,
+      "style": 160,
+      "name": "마침 지금은 카구츠치와 인게이지한 상태입니다\n멜레프에게 지지 않도록\n카구츠치의 힘을 최대한 끌어내 주세요"
+    },
+    {
+      "$id": 343,
+      "style": 160,
+      "name": "물론 [System:Color name=tutorial ]드라이버인 니아[/System:Color]와 여행을 계속할 수도 있습니다"
+    },
+    {
+      "$id": 344,
+      "style": 160,
+      "name": "블레이드인 니아와 인게이지하려면\n[System:Color name=tutorial ]메인 메뉴[/System:Color]>[System:Color name=tutorial ]캐릭터[/System:Color]>\n[System:Color name=tutorial ]드라이버인 니아를 골라 [ML:icon icon=Y ] 버튼[/System:Color]"
+    },
+    {
+      "$id": 345,
+      "style": 160,
+      "name": "드라이버인 니아와 여행을 할 거라면\n[System:Color name=tutorial ]메인 메뉴[/System:Color]>[System:Color name=tutorial ]캐릭터[/System:Color]>\n[System:Color name=tutorial ]블레이드인 니아를 골라 [ML:icon icon=Y ] 버튼[/System:Color]으로 변경할 수 있습니다"
+    },
+    {
+      "$id": 346,
+      "style": 160,
+      "name": "필드에 불러내고 싶을 때에는\n[System:Color name=tutorial ]메인 메뉴[/System:Color]>[System:Color name=tutorial ]캐릭터[/System:Color]>\n[System:Color name=tutorial ]호무라[/System:Color]([System:Color name=tutorial ]히카리[/System:Color])>[System:Color name=tutorial ][ML:icon icon=Y ] 버튼[/System:Color]"
+    },
+    {
+      "$id": 347,
+      "style": 160,
+      "name": "배틀 중에 불러내고 싶을 때에는\n[System:Color name=tutorial ]블레이드 스위치[/System:Color]용 [System:Color name=tutorial ]호무라(히카리) 아이콘[/System:Color]에 대응되는\n버튼을 누르면 전환할 수 있습니다"
+    },
+    {
+      "$id": 348,
+      "style": 160,
+      "name": "평범한 블레이드 스위치와는 달리\n블레이드 스위치 후의 [System:Color name=tutorial ]쿨링 다운이 없으니[/System:Color]\n상황에 맞춰 자유롭게 불러 봅시다"
+    },
+    {
+      "$id": 349,
+      "style": 160,
+      "name": "지금 화살표가 가리키는 것은\n[System:Color name=tutorial ]조작 캐릭터[/System:Color]가 인게이지 중인 블레이드의 [System:Color name=tutorial ]콤보 신청[/System:Color]입니다"
+    },
+    {
+      "$id": 350,
+      "style": 160,
+      "name": "이것은 조작 캐릭터가 인게이지 중인 블레이드의 필살기로\n[System:Color name=tutorial ]블레이드 콤보를 시작할 수 있을 경우[/System:Color]"
+    },
+    {
+      "$id": 351,
+      "style": 160,
+      "name": "혹은 이미 블레이드 콤보가 발생 중이더라도\n조작 캐릭터가 인게이지 중인 블레이드의 필살기로\n[System:Color name=tutorial ]블레이드 콤보를 연결할 수 있는 경우[/System:Color]에 표시됩니다"
+    },
+    {
+      "$id": 352,
+      "style": 160,
+      "name": "블레이드 콤보는 전황을 뒤흔들 만큼 강력한 기술이므로\n놓치지 않도록 주의하세요"
+    },
+    {
+      "$id": 353,
+      "style": 160,
+      "name": "우선 [System:Color name=tutorial ]파티 게이지[/System:Color]인데, 파티 게이지에는 전에 설명했던\n전투 불능인 동료를 구조하는 것 외에도 중요한 역할이 있습니다"
+    },
+    {
+      "$id": 354,
+      "style": 160,
+      "name": "이 게이지가 3까지 모였을 때\n[System:Color name=tutorial ][ML:icon icon=plus ] 버튼[/System:Color]을 누르면 [System:Color name=tutorial ]체인 어택[/System:Color]이 발동됩니다"
+    },
+    {
+      "$id": 355,
+      "style": 160,
+      "name": "체인 어택이 발동되면\n드라이버가 [System:Color name=tutorial ]인게이지 중인 블레이드의 필살기[/System:Color]를\n순서대로 선택하게 됩니다"
+    },
+    {
+      "$id": 356,
+      "style": 160,
+      "name": "예를 들면 렉스가 인게이지 중인 호무라의 필살기를 고르고\n그다음엔 니아가 인게이지 중인 뱌코\n또 그다음은 토라가 인게이지 중인 하나 같은 식입니다"
+    },
+    {
+      "$id": 357,
+      "style": 160,
+      "name": "이러한 일련의 과정을 [System:Color name=tutorial ]라운드[/System:Color]라고 합니다"
+    },
+    {
+      "$id": 358,
+      "style": 160,
+      "name": "체인 어택 중에는\n블레이드의 필살기를 선택해\n에너미에게 붙은 [System:Color name=tutorial ]속성구[/System:Color]를 [System:Color name=tutorial ]깰[/System:Color] 수 있습니다"
+    },
+    {
+      "$id": 359,
+      "style": 160,
+      "name": "속성구와 [System:Color name=tutorial ]반대 속성인 필살기[/System:Color]를 사용하면\n구슬이 더 쉽게 깨지고\n완전히 깨지면 [System:Color name=tutorial ]큰 대미지[/System:Color]를 줄 수 있습니다"
+    },
+    {
+      "$id": 360,
+      "style": 160,
+      "name": "어느 블레이드를 어떤 순서로 꺼낼지\n잘 생각해서 필살기를 선택합시다"
+    },
+    {
+      "$id": 361,
+      "style": 160,
+      "name": "また属性玉の[System:Color name=tutorial ]反属性のブレイド以外[/System:Color]のブレイドでも\n攻撃をすればエネミーについている属性玉の中から\n[System:Color name=tutorial ]ランダム[/System:Color]で属性玉の[System:Color name=tutorial ]どれか[/System:Color]に[System:Color name=tutorial ]1ポイント[/System:Color]の[System:Color name=tutorial ]ダメージ[/System:Color]を与えます"
+    },
+    {
+      "$id": 362,
+      "style": 160,
+      "name": "블레이드は必殺技を撃ってしまうと\nクールタイムを消費してしまいますが\n[System:Color name=tutorial ]属性玉[/System:Color]を[System:Color name=tutorial ]Burst[/System:Color]させると[System:Color name=tutorial ]クールタイム[/System:Color]が[System:Color name=tutorial ]半分回復[/System:Color]します"
+    },
+    {
+      "$id": 363,
+      "style": 160,
+      "name": "ラウンド中に属性玉をBurstさせることができれば\n[System:Color name=tutorial ]チェインアタックのラウンドを延長させる[/System:Color]ことができます"
+    },
+    {
+      "$id": 364,
+      "style": 160,
+      "name": "より多く属性玉をBurstさせることで\nチェインアタック終了時のエネミーに対する[System:Color name=tutorial ]ダメージ倍率[/System:Color]が\n劇的に[System:Color name=tutorial ]変化[/System:Color]します"
+    },
+    {
+      "$id": 365,
+      "style": 160,
+      "name": "ラウンドが延長する際には[System:Color name=tutorial ]ボタンチャレンジ[/System:Color]が発生します\nボタンチャレンジに[System:Color name=tutorial ]成功[/System:Color]することでも\nブレイドの[System:Color name=tutorial ]クールタイム[/System:Color]を[System:Color name=tutorial ]回復[/System:Color]することができます"
+    },
+    {
+      "$id": 366,
+      "style": 160,
+      "name": "このボタンチャレンジにはもう一つ重要な役割があります\n通常　ブレイドの必殺技を選ぶと\n[System:Color name=tutorial ]Lv.1[/System:Color]の[System:Color name=tutorial ]必殺技[/System:Color]が発動しますが"
+    },
+    {
+      "$id": 367,
+      "style": 160,
+      "name": "ボタンチャレンジに[System:Color name=tutorial ]成功[/System:Color]すると\n必殺技の[System:Color name=tutorial ]Lv.[/System:Color]が[System:Color name=tutorial ]上昇[/System:Color]して[System:Color name=tutorial ]最大Lv.3[/System:Color]の必殺技まで\n使えるようになります"
+    },
+    {
+      "$id": 368,
+      "style": 160,
+      "name": "ただしボタンチャレンジに[System:Color name=tutorial ]失敗[/System:Color]してしまうと\n必殺技の[System:Color name=tutorial ]Lv.[/System:Color]は[System:Color name=tutorial ]一段階ずつ下がって[/System:Color]しまいます"
+    },
+    {
+      "$id": 369,
+      "style": 160,
+      "name": "チェインアタックを発動すると\n[System:Color name=tutorial ]パーティゲージ[/System:Color]は[System:Color name=tutorial ]0[/System:Color]になってしまうのでご注意ください"
+    },
+    {
+      "$id": 370,
+      "style": 160,
+      "name": "ただし　チェインアタック中は[System:Color name=tutorial ]エネミー[/System:Color]が[System:Color name=tutorial ]攻撃してこない[/System:Color]ので\nどうすれば効率よく属性玉をBurstさせることができるかを\nじっくり考えることができます"
+    },
+    {
+      "$id": 371,
+      "style": 160,
+      "name": "さらにキズナが[System:Color name=tutorial ]MAX状態[/System:Color]になると\nブレイドからの[System:Color name=tutorial ]信頼度[/System:Color]が上がります"
+    },
+    {
+      "$id": 372,
+      "style": 160,
+      "name": "信頼度が上がるといいことがたくさんあるのですが\nそれはまたの機会に説明することにしましょう"
+    },
+    {
+      "$id": 373,
+      "style": 160,
+      "name": "자, 이제부터 트리고 거리로 향하게 되었습니다\n앞으로의 모험에서는 지금보다 더\n블레이드의 [System:Color name=tutorial ]신뢰도[/System:Color]가 중요하게 다가올 것입니다"
+    },
+    {
+      "$id": 374,
+      "style": 160,
+      "name": "신뢰도는 블레이드의 [System:Color name=tutorial ]인연 링 레벨을 해방[/System:Color]하기 위해\n필수적인 요소이기 때문에"
+    },
+    {
+      "$id": 375,
+      "style": 160,
+      "name": "모험에서 블레이드를 더 강한 서포터로 활용하고 싶다면\n블레이드의 신뢰를 얻는 것을 잊으면 안 됩니다"
+    },
+    {
+      "$id": 376,
+      "style": 160,
+      "name": "블레이드からの[System:Color name=tutorial ]信頼度[/System:Color]を上げる方法はいくつかあるのですが\nまず一つ目に[System:Color name=tutorial ]クエストを達成する[/System:Color]というものがあります"
+    },
+    {
+      "$id": 377,
+      "style": 160,
+      "name": "퀘스트를 클리어하면\n함께 있던 블레이드의 신뢰도가 상승합니다"
+    },
+    {
+      "$id": 378,
+      "style": 160,
+      "name": "또한 전투에서 인연이 최고에 달했을 때에도 신뢰도가 상승합니다\n인연이 최고에 달하면 금빛으로 빛나니 색을 보고 판별합시다"
+    },
+    {
+      "$id": 379,
+      "style": 160,
+      "name": "そして二つ目はバトル中にキズナを[System:Color name=tutorial ]MAX状態[/System:Color]にすることです"
+    },
+    {
+      "$id": 380,
+      "style": 160,
+      "name": "以前メツと戦った時にちょっとだけお知らせしましたが\nこれも信頼度を上げるための重要な要素なので\nエネミーと戦う時は常に[System:Color name=tutorial ]キズナ[/System:Color]に気を付けておきましょう"
+    },
+    {
+      "$id": 381,
+      "style": 160,
+      "name": "信頼度を上げるための方法はあといくつかあるのですが\n一度には覚えきれないと思うので\nちょっとずつ説明することにしましょう"
+    },
+    {
+      "$id": 382,
+      "style": 160,
+      "name": "자, 이제 [System:Color name=tutorial ]트리고 거리[/System:Color]를 향해 출발합시다"
+    },
+    {
+      "$id": 383,
+      "style": 160,
+      "name": "さらに[System:Color name=tutorial ]キズナトーク[/System:Color]を見ることによって\nブレイドからの[System:Color name=tutorial ]信頼度[/System:Color]が[System:Color name=tutorial ]アップ[/System:Color]するのです\nこれが信頼度を上げるための三つ目の方法です"
+    },
+    {
+      "$id": 384,
+      "style": 160,
+      "name": "さらに傭兵団の任務を達成することによって\nブレイドからの[System:Color name=tutorial ]信頼度[/System:Color]が[System:Color name=tutorial ]アップ[/System:Color]するのです\nこれが信頼度を上げるための四つ目の方法です"
+    },
+    {
+      "$id": 385,
+      "style": 160,
+      "name": "ブレイドからの信頼度を上げる方法をまとめると\n1.[System:Color name=tutorial ]クエストを達成する[/System:Color][System:Color name=tutorial ]\n[/System:Color]2.[System:Color name=tutorial ]バトル中にキズナをMAX状態にする[/System:Color]"
+    },
+    {
+      "$id": 386,
+      "style": 160,
+      "name": "3.[System:Color name=tutorial ]キズナトークを見る[/System:Color]\n4.[System:Color name=tutorial ]傭兵団任務を達成する[/System:Color]\nという四つの方法があることが分かりましたね"
+    },
+    {
+      "$id": 387,
+      "style": 160,
+      "name": "레벨 Ⅳ 필살기는 일반적인 필살기와는 달라서\n아츠로 게이지를 모을 수 없습니다"
+    },
+    {
+      "$id": 388,
+      "style": 160,
+      "name": "그래서 어떻게 해야 사용할 수 있느냐 하면\n바로 [System:Color name=tutorial ]블레이드와 함께하는 것[/System:Color]이 핵심입니다"
+    },
+    {
+      "$id": 389,
+      "style": 160,
+      "name": "블레이드와 가까운 곳으로 가면\n레벨 Ⅳ까지 필살기 게이지가 점점 상승합니다"
+    },
+    {
+      "$id": 390,
+      "style": 160,
+      "name": "게이지가 모두 찼을 때 필살기를 사용하면\n블레이드와 드라이버가 일심동체가 된\n최고의 필살기를 볼 수 있을 것입니다"
+    },
+    {
+      "$id": 391,
+      "style": 160,
+      "name": "と　まあ長々と説明してしまいましたが\n『習うより慣れろ』という言葉もあることです"
+    },
+    {
+      "$id": 392,
+      "style": 160,
+      "name": "그럼 서비스로 파티 게이지를 MAX까지 채워 드릴 테니\n우선 [System:Color name=tutorial ][ML:icon icon=plus ] 버튼[/System:Color]을 눌러 체인 어택을 시작해 봅시다"
+    },
+    {
+      "$id": 393,
+      "style": 160,
+      "name": "ホムラは覚醒すると圧倒的な攻撃力を見せます\nまた　ブレイドコンボが発動した時に\n[System:Color name=tutorial ]次の属性に依存せずにコンボルートを選ぶことが出来ます[/System:Color]"
+    },
+    {
+      "$id": 394,
+      "style": 160,
+      "name": "次のコンボルートは\n[System:Color name=tutorial ][ML:icon icon=up ][ML:icon icon=down ]ボタン[/System:Color]を使ってワンタッチで切り替えることができます"
+    },
+    {
+      "$id": 395,
+      "style": 160,
+      "name": "일반적인 배틀에서는 [System:Color name=tutorial ]호무라(히카리)와 인연이 최고[/System:Color]이고\n추가로 [System:Color name=tutorial ]파티 게이지가 MAX[/System:Color]가 됐을 때\n호무라를 각성시킬 수 있습니다"
+    },
+    {
+      "$id": 396,
+      "style": 160,
+      "name": "이 조건이 충족되었을 때\n[System:Color name=tutorial ][ML:icon icon=R ] 버튼[/System:Color]을 누르면서 [System:Color name=tutorial ][ML:icon icon=X ] 버튼[/System:Color]을 누르면 호무라가 각성합니다"
+    },
+    {
+      "$id": 397,
+      "style": 160,
+      "name": "각성한 호무라는 블레이드 콤보가 발동했을 때\n생각한 것을 현실로 만드는 힘으로\n[System:Color name=tutorial ]원하는 콤보 루트[/System:Color]를 골라서 연결할 수 있습니다"
+    },
+    {
+      "$id": 398,
+      "style": 160,
+      "name": "콤보 루트를 선택하려면\n콤보를 신청할 때 [System:Color name=tutorial ][ML:icon icon=up ][ML:icon icon=down ] 버튼[/System:Color]으로 선택해 주세요"
+    },
+    {
+      "$id": 399,
+      "style": 160,
+      "name": "각성 호무라는 굉장히 강력하지만\n[System:Color name=tutorial ]일정 시간이 지나면 각성이 해제됩니다[/System:Color]\n시간은 게이지로 확인할 수 있으니 잘 확인합시다"
+    },
+    {
+      "$id": 400,
+      "style": 160,
+      "name": "단, 이 배틀에서는 각성 시간에 제한이 없으므로\n마음껏 진정한 힘을 발휘해 봅시다"
+    },
+    {
+      "$id": 401,
+      "style": 160,
+      "name": "렉스가 [System:Color name=tutorial ]호무라와 니아를 인게이지[/System:Color]한 상태에서\n[System:Color name=tutorial ]두 사람의 인연이 최고[/System:Color]가 되었을 때\n[System:Color name=tutorial ]레벨 Ⅳ 필살기[/System:Color]를 사용하면"
+    },
+    {
+      "$id": 402,
+      "style": 160,
+      "name": "평범한 블레이드는 사용할 수 없는\n3인 기술을 펼칠 수 있습니다"
+    },
+    {
+      "$id": 403,
+      "style": 160,
+      "name": "평범한 필살기보다 위력이 높으므로\n호무라와 니아를 인게이지했을 때에는\n적극적으로 사용해 봅시다"
+    },
+    {
+      "$id": 404,
+      "style": 160,
+      "name": "어시스트 코어에 대해서는\n획득한 다음 설명해 드리겠습니다"
+    },
+    {
+      "$id": 405,
+      "style": 160,
+      "name": "쇼핑은 해 보셨나요?\n새로운 지역에 도착했을 때는\n새로운 숍에도 한번 들러 보세요"
+    },
+    {
+      "$id": 406,
+      "style": 160,
+      "name": "새로운 지역에서만 볼 수 있는 아이템을\n살 수 있을지도 모릅니다"
+    },
+    {
+      "$id": 407,
+      "style": 160,
+      "name": "어시스트 코어는 [System:Color name=tutorial ]메인 메뉴[/System:Color]>\n[System:Color name=tutorial ]캐릭터[/System:Color]>[System:Color name=tutorial ]블레이드 세팅[/System:Color]>[System:Color name=tutorial ]어시스트 코어 장비[/System:Color]에서\n블레이드에 장비할 수 있습니다"
+    },
+    {
+      "$id": 408,
+      "style": 160,
+      "name": "또한 이 기회에 스킵 트래블로\n아바리티아 상회로 돌아가 팔고 있는 아이템을\n비교해 보는 것도 나쁘지 않을 것 같네요"
+    },
+    {
+      "$id": 409,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]캔슬[/System:Color] 공격에 대해 설명하겠습니다"
+    },
+    {
+      "$id": 410,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]오토 어택[/System:Color]이 에너미에게 명중한 순간\n[System:Color name=tutorial ]아츠로 공격[/System:Color]하면 플레이어 주변에 [System:Color name=tutorial ]빛나는 원[/System:Color]이 펼쳐집니다"
+    },
+    {
+      "$id": 411,
+      "style": 160,
+      "name": "이 빛나는 원은 캔슬 공격에 성공했다는 표시입니다"
+    },
+    {
+      "$id": 412,
+      "style": 160,
+      "name": "캔슬 공격이 성공하면\n평범하게 아츠를 발동했을 때보다\n공격력이 상승합니다"
+    },
+    {
+      "$id": 413,
+      "style": 160,
+      "name": "그 외에도 필살기의 리캐스트 게이지가\n빠르게 상승하게 되면서\n배틀을 한 단계 더 유리하게 이끌 수 있습니다"
+    },
+    {
+      "$id": 414,
+      "style": 160,
+      "name": "또한 캔슬 공격의 효과는\n오토 어택 단계가 올라갈수록\n더 상승하게 됩니다"
+    },
+    {
+      "$id": 415,
+      "style": 160,
+      "name": "이것이 어그로 시스템입니다\n드라이버의 클래스를 이해해서\n요령껏 모프를 쓰러뜨립시다"
+    },
+    {
+      "$id": 416,
+      "style": 160,
+      "name": "이때 에너미 주변에서\n[System:Color name=tutorial ]내성이 생겼음을 의미하는 구슬[/System:Color]이 회전하기 시작합니다\n이 구슬을 [System:Color name=tutorial ]속성구[/System:Color]라고 합니다"
+    },
+    {
+      "$id": 417,
+      "style": 160,
+      "name": "속성구는 구슬의 종류와 같은 속성의 공격으로는\n대미지를 제대로 줄 수 없다는 것을 의미합니다"
+    },
+    {
+      "$id": 418,
+      "style": 160,
+      "name": "여기서 주의할 것이 있습니다\n컴퍼스 위에 있는 핑크색 아이콘은\n퀘스트를 [System:Color name=tutorial ]액티브로 설정해야만 표시됩니다[/System:Color]"
+    },
+    {
+      "$id": 419,
+      "style": 160,
+      "name": "모험에 익숙해지기 전에는\n퀘스트를 액티브로 설정할 것을 추천합니다"
+    },
+    {
+      "$id": 420,
+      "style": 160,
+      "name": "그리고 기본적인 조작이 헷갈릴 때를 대비해\n간단하게 조작 방법을 정리해 두었습니다"
+    },
+    {
+      "$id": 421,
+      "style": 160,
+      "name": "조작 방법이 헷갈리신다면 [System:Color name=tutorial ][ML:icon icon=left ][ML:icon icon=up ][ML:icon icon=right ] 버튼[/System:Color] 중\n아무 버튼이나 눌러 보세요"
+    },
+    {
+      "$id": 422,
+      "style": 160,
+      "name": "[System:Color name=tutorial ][ML:icon icon=left ] 버튼[/System:Color]을 누르면 [System:Color name=tutorial ]배틀 조작[/System:Color] 설명\n[System:Color name=tutorial ][ML:icon icon=up ] 버튼[/System:Color]을 누르면 [System:Color name=tutorial ]카메라 조작[/System:Color] 설명\n[System:Color name=tutorial ][ML:icon icon=right ] 버튼[/System:Color]을 누르면 [System:Color name=tutorial ]필드 조작[/System:Color] 설명을 볼 수 있습니다"
+    },
+    {
+      "$id": 423,
+      "style": 160,
+      "name": "운해의 조수 차는 [System:Color name=tutorial ]환경 정보[/System:Color]에서\n확인할 수 있습니다"
+    },
+    {
+      "$id": 424,
+      "style": 160,
+      "name": "환경 정보 가장 왼쪽에 추가된 아이콘의 [System:Color name=tutorial ]중앙 라인[/System:Color]보다\n운해면이 [System:Color name=tutorial ]위[/System:Color]에 있으면 [System:Color name=tutorial ]운해가 가득 찬[/System:Color] 상태"
+    },
+    {
+      "$id": 425,
+      "style": 160,
+      "name": "반대로 [System:Color name=tutorial ]중앙 라인[/System:Color]보다 운해면이 [System:Color name=tutorial ]아래[/System:Color]에 있으면\n[System:Color name=tutorial ]운해가 빠져나간[/System:Color] 상태입니다"
+    },
+    {
+      "$id": 426,
+      "style": 160,
+      "name": "자, 이제 한동안은 호무라가 휴식을 취하고\n[System:Color name=tutorial ]히카리[/System:Color]가 활약할 것 같습니다"
+    },
+    {
+      "$id": 427,
+      "style": 160,
+      "name": "히카리는 호무라보다 강력한 힘을 발휘하지만\n[System:Color name=tutorial ]레벨 Ⅳ 필살기 세이크리드 애로[/System:Color]는\n하늘에서 빛의 화살을 쏟아붓는 기술입니다"
+    },
+    {
+      "$id": 428,
+      "style": 160,
+      "name": "즉, [System:Color name=tutorial ]지붕이 있는 장소 등[/System:Color]에서는\n[System:Color name=tutorial ]사용이 제한[/System:Color]되므로 주의해 주세요"
+    },
+    {
+      "$id": 429,
+      "style": 160,
+      "name": "이제 드라이버 스테이터스를 상세히 살펴봅시다\n드라이버의 기본적인 스테이터스는\n[System:Color name=tutorial ]HP[/System:Color] · [System:Color name=tutorial ]근력[/System:Color] · [System:Color name=tutorial ]에테르[/System:Color] · [System:Color name=tutorial ]손재주[/System:Color] · [System:Color name=tutorial ]속도[/System:Color] · [System:Color name=tutorial ]행운[/System:Color]으로 구성되어 있습니다"
+    },
+    {
+      "$id": 430,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]HP[/System:Color]: 드라이버의 체력이며 0이 되면 전투 불능이 됩니다\n[System:Color name=tutorial ]근력[/System:Color]: 근력 계열 아츠 대미지에 영향을 줍니다\n[System:Color name=tutorial ]에테르[/System:Color]: 에테르 계열 아츠 대미지와 회복량에 영향을 줍니다"
+    },
+    {
+      "$id": 431,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]손재주[/System:Color]: 공격의 명중에 영향을 줍니다\n[System:Color name=tutorial ]속도[/System:Color]: 적의 공격에 대한 회피에 영향을 줍니다\n[System:Color name=tutorial ]행운[/System:Color]: 적이 사용하는 디버프와 리액션에 저항하기 쉬워집니다"
+    },
+    {
+      "$id": 432,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]드라이버 스테이터스[/System:Color]의 [System:Color name=tutorial ]행운[/System:Color] 수치를 높이면\n특이한 블레이드가 탄생할 확률이 상승한다고 합니다"
+    },
+    {
+      "$id": 433,
+      "style": 160,
+      "name": "전에 속성구는 블레이드 콤보를 3단계까지 연결해야만\n붙일 수 있다고 알려 드렸지만\n이번에는 특별히 요시츠네에게 [System:Color name=tutorial ]물의 속성구[/System:Color]를 붙여 보겠습니다"
+    },
+    {
+      "$id": 434,
+      "style": 160,
+      "name": "물의 속성구를 효율 좋게 깨기 위해서는\n우선 [System:Color name=tutorial ]반대 속성인 화속성 필살기로 대미지를 주면[/System:Color]\n…여기까지만 말해도 이미 알고 계실 겁니다"
+    },
+    {
+      "$id": 435,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]용병단 메뉴[/System:Color]가 해방되었습니다\n용병단에 관한 것은\n[System:Color name=tutorial ]메인 메뉴[/System:Color]>[System:Color name=tutorial ]용병단[/System:Color]에서 확인할 수 있습니다"
+    },
+    {
+      "$id": 436,
+      "style": 160,
+      "name": "그리고 체인 어택을 시작하면\n파티 게이지가 [System:Color name=tutorial ]풀 버스트 게이지[/System:Color]로 변화합니다"
+    },
+    {
+      "$id": 437,
+      "style": 160,
+      "name": "풀 버스트 게이지는\n속성구를 깰 때마다 조금씩 상승하며\n가득 차게 되면 [System:Color name=tutorial ]풀 버스트[/System:Color]가 발생합니다"
+    },
+    {
+      "$id": 438,
+      "style": 160,
+      "name": "풀 버스트가 발생하면\n에너미에게 큰 대미지를 줄 수 있습니다"
+    },
+    {
+      "$id": 439,
+      "style": 160,
+      "name": "어떤 인연 기프트가 있을지는\n[System:Color name=tutorial ]메인 메뉴[/System:Color]>[System:Color name=tutorial ]캐릭터[/System:Color]>[System:Color name=tutorial ]블레이드 세팅[/System:Color]>\n[System:Color name=tutorial ]인연 링[/System:Color]에서 확인할 수 있습니다"
+    },
+    {
+      "$id": 440,
+      "style": 160,
+      "name": "분기가 2개인 퀘스트가 발생했습니다\n이러한 타입의 퀘스트는\n클리어 방법이 여러 개 존재하는 퀘스트입니다"
+    },
+    {
+      "$id": 441,
+      "style": 160,
+      "name": "우선 발자국을 조사해 봅시다\n조사에 필요한 필드 스킬을 가지고 있는 블레이드와\n동조하고 있는 경우에는 퀘스트를 수월하게 진행할 수 있습니다"
+    },
+    {
+      "$id": 442,
+      "style": 160,
+      "name": "아직 그런 블레이드와 동조하지 못하신 분은\n다시 한번 오토 씨에게 말을 걸어\n힌트를 받은 다음에 퀘스트를 진행해 주세요"
+    },
+    {
+      "$id": 443,
+      "style": 160,
+      "name": "데빌킹 굴드는 평범하게 상대하면\n상당히 강력한 상대입니다"
+    },
+    {
+      "$id": 444,
+      "style": 160,
+      "name": "그럴 때는 호무라(히카리)를 각성시키면\n배틀을 유리하게 진행할 수 있습니다"
+    },
+    {
+      "$id": 445,
+      "style": 160,
+      "name": "파티 게이지와 블레이드의 쿨링 다운을\n서비스로 충전해 드릴 테니\n각성한 호무라(히카리)와 함께 싸워 주세요"
+    },
+    {
+      "$id": 446,
+      "style": 160,
+      "name": "호무라(히카리)는 [System:Color name=tutorial ]파티 게이지가 MAX일 때[/System:Color]\n[System:Color name=tutorial ][ML:icon icon=R ] 버튼[/System:Color]을 누르면서 [System:Color name=tutorial ][ML:icon icon=X ] 버튼[/System:Color]을 눌러\n각성시킬 수 있습니다"
+    },
+    {
+      "$id": 447,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]Advanced New Game[/System:Color]에서는 숙박 시설에서\n[System:Color name=tutorial ]레벨을 내리는 것[/System:Color]이 가능해 졌습니다"
+    },
+    {
+      "$id": 448,
+      "style": 160,
+      "name": "내린 레벨만큼 남은 경험치는 [System:Color name=tutorial ]보너스 EXP[/System:Color]로 환원됩니다\n[System:Color name=tutorial ]전투의 음유 시인[/System:Color]에게 말을 걸면\n[System:Color name=tutorial ]보너스 EXP를 아이템과 교환[/System:Color]할 수 있습니다"
+    },
+    {
+      "$id": 449,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]전투의 음유 시인[/System:Color]이 있는 장소는\n미니맵상에 [System:Color name=tutorial ]녹색 숍 아이콘[/System:Color]으로 표시됩니다"
+    },
+    {
+      "$id": 450,
+      "style": 160,
+      "name": "숍 아이콘을 비표시로 설정해 놨을 경우에는\n스킵 트래블 화면에서 표시 설정을 전환해 봅시다"
+    },
+    {
+      "$id": 451,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]하나버스터[/System:Color]와 블레이드 인게이지를\n할 수 있게 되었습니다\n현재 하나버스터는 [System:Color name=tutorial ]렉스[/System:Color]와 인게이지 중입니다"
+    },
+    {
+      "$id": 452,
+      "style": 160,
+      "name": "하나버스터는 [System:Color name=tutorial ]오버드라이브를 사용하지 않아도[/System:Color]\n[System:Color name=tutorial ]토라를 제외[/System:Color]한 드라이버라면 누구나 인게이지할 수 있습니다"
+    },
+    {
+      "$id": 453,
+      "style": 160,
+      "name": "인게이지는 각 드라이버의\n[System:Color name=tutorial ]블레이드 인게이지 화면[/System:Color]에서 할 수 있습니다"
+    },
+    {
+      "$id": 454,
+      "style": 160,
+      "name": "전투 상황에 맞춰\n새로운 힘 [System:Color name=tutorial ]하나버스터[/System:Color]를 활용해 봅시다"
+    },
+    {
+      "$id": 455,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]슈르크[/System:Color], [System:Color name=tutorial ]피오른[/System:Color]과 블레이드 인게이지를\n할 수 있게 되었습니다"
+    },
+    {
+      "$id": 456,
+      "style": 160,
+      "name": "현재 슈르크는 [System:Color name=tutorial ]렉스[/System:Color]와\n피오른은 [System:Color name=tutorial ]니아[/System:Color]와 인게이지 중입니다"
+    },
+    {
+      "$id": 457,
+      "style": 160,
+      "name": "슈르크와 피오른은 [System:Color name=tutorial ]오버드라이브를 사용하지 않아도[/System:Color]\n[System:Color name=tutorial ]토라를 제외[/System:Color]한 드라이버라면 누구나 인게이지할 수 있습니다"
+    },
+    {
+      "$id": 458,
+      "style": 160,
+      "name": "인게이지는 각 드라이버의\n[System:Color name=tutorial ]블레이드 인게이지 화면[/System:Color]에서 할 수 있습니다\n전투 상황에 맞춰 [System:Color name=tutorial ]슈르크[/System:Color]와 [System:Color name=tutorial ]피오른[/System:Color]을 활용해 봅시다"
+    },
+    {
+      "$id": 459,
+      "style": 160,
+      "name": "단, 슈르크와 피오른은 도전의 땅 바깥으로\n데려갈 수 없습니다"
+    },
+    {
+      "$id": 460,
+      "style": 160,
+      "name": "포털을 통해 [System:Color name=tutorial ]아르스트로 돌아가면[/System:Color]\n[System:Color name=tutorial ]슈르크와 피오른이 파티에서 이탈[/System:Color]하므로 주의해 주세요"
+    },
+    {
+      "$id": 461,
+      "style": 160,
+      "name": "노폰 대선인이 준비한 도전의 보수 중에는\n슈르크와 피오른을 아르스트로 데려갈 수 있는\n아이템이 있다는 소문도 있습니다"
+    },
+    {
+      "$id": 462,
+      "style": 160,
+      "name": "노폰 대선인이 준비한 도전에\n적극적으로 챌린지해 봅시다"
+    },
+    {
+      "$id": 463,
+      "style": 160,
+      "name": "훌륭합니다! [System:Color name=tutorial ]슈르크[/System:Color]와 [System:Color name=tutorial ]피오른[/System:Color]을\n아르스트로 데려갈 수 있게 되었습니다"
+    },
+    {
+      "$id": 464,
+      "style": 160,
+      "name": "새로운 동료의 새로운 힘을\n부디 아르스트에서도 활용해 주세요!"
+    },
+    {
+      "$id": 465,
+      "style": 160,
+      "name": "챌린지 배틀에 관한 주의 사항입니다"
+    },
+    {
+      "$id": 466,
+      "style": 160,
+      "name": "스토리 진행상 카람의 유적에 갈 수 있게 되기 전까지는\n챌린지 배틀용 포털이 아바리티아 상회에 배치됩니다"
+    },
+    {
+      "$id": 467,
+      "style": 160,
+      "name": "카람의 유적에 포털이 배치된 다음에는\n아바리티아 상회의 포털이 사라지므로 주의해 주세요"
+    },
+    {
+      "$id": 468,
+      "style": 160,
+      "name": "드디어 챌린지 배틀이 시작됩니다\n화면상에 [System:Color name=tutorial ]CHALLENGE BATTLE START[/System:Color]라는\n문자가 표시되면 챌린지 스타트!"
+    },
+    {
+      "$id": 469,
+      "style": 160,
+      "name": "まずは画面の説明です"
+    },
+    {
+      "$id": 470,
+      "style": 160,
+      "name": "화살표가 가리키는 것은 챌린지의 [System:Color name=tutorial ]경과 시간[/System:Color]입니다\n[System:Color name=tutorial ]제한 시간에 도달하기 전에[/System:Color] 과제를 클리어합시다"
+    },
+    {
+      "$id": 471,
+      "style": 160,
+      "name": "制限時間は選んだチャレンジバトルによって違いますので\nお気を付けください"
+    },
+    {
+      "$id": 472,
+      "style": 160,
+      "name": "다음으로 화살표가 가리키는 것은 [System:Color name=tutorial ]모은 에테르 큐브의 양[/System:Color]입니다"
+    },
+    {
+      "$id": 473,
+      "style": 160,
+      "name": "에테르 큐브를 모으면\n이 [System:Color name=tutorial ]상자[/System:Color]에 점점 차오릅니다"
+    },
+    {
+      "$id": 474,
+      "style": 160,
+      "name": "가득 찬 [System:Color name=tutorial ]상자[/System:Color]의 수에 따라\n챌린지 배틀 종료 후에 보물 상자를 받을 수 있습니다"
+    },
+    {
+      "$id": 475,
+      "style": 160,
+      "name": "지금 떨어진 오렌지색 큐브가 바로 [System:Color name=tutorial ]에테르 큐브[/System:Color]입니다"
+    },
+    {
+      "$id": 476,
+      "style": 160,
+      "name": "에테르 큐브는 일정 시간이 지나면 사라지니\n챙기면서 싸웁시다"
+    },
+    {
+      "$id": 477,
+      "style": 160,
+      "name": "도전에 실패했습니다!\n[System:Color name=tutorial ]제한 시간 내에 클리어하지 못하거나[/System:Color]\n[System:Color name=tutorial ]배틀 도중에 패배[/System:Color]하면 챌린지 실패입니다!"
+    },
+    {
+      "$id": 478,
+      "style": 160,
+      "name": "그리고 챌린지 중에\n[System:Color name=tutorial ]납도[/System:Color]→[System:Color name=tutorial ][ML:icon icon=plus ] 버튼[/System:Color]을 눌러 도전을 포기한 경우에도 실패입니다"
+    },
+    {
+      "$id": 479,
+      "style": 160,
+      "name": "도전에 성공했습니다!"
+    },
+    {
+      "$id": 480,
+      "style": 160,
+      "name": "도전에 성공하면 잠시 동안\n에테르 큐브를 모을 시간이 있습니다"
+    },
+    {
+      "$id": 481,
+      "style": 160,
+      "name": "에테르 큐브의 회수 시간이 경과되면\n자동으로 도전의 땅으로 돌아갑니다"
+    },
+    {
+      "$id": 482,
+      "style": 160,
+      "name": "制限時間に達してしまいました"
+    },
+    {
+      "$id": 483,
+      "style": 160,
+      "name": "チャレンジバトルにはそれぞれ制限時間が設けられているので\n挑戦を受ける時には注意して確認しておきましょう"
+    },
+    {
+      "$id": 484,
+      "style": 160,
+      "name": "자, [System:Color name=tutorial ]WAVE[/System:Color] 사인입니다"
+    },
+    {
+      "$id": 485,
+      "style": 160,
+      "name": "WAVE는 싸우고 있는 적을 모두 쓰러뜨리거나\n시간이 지나면 발생합니다\nWAVE에 포함된 적의 수는 챌린지마다 다릅니다"
+    },
+    {
+      "$id": 486,
+      "style": 160,
+      "name": "SPECIAL BATTLE\n『벅스 버스터』가 시작되었습니다"
+    },
+    {
+      "$id": 487,
+      "style": 160,
+      "name": "이 배틀은 [System:Color name=tutorial ]하이 스코어에 도전[/System:Color]하는 모드입니다\n[System:Color name=tutorial ]체인 어택[/System:Color]을 사용하거나 [System:Color name=tutorial ]각종 콤보[/System:Color]를 성공시키면\n스코어가 상승합니다"
+    },
+    {
+      "$id": 488,
+      "style": 160,
+      "name": "SPECIAL BATTLE\n『앙그 어택』이 시작되었습니다"
+    },
+    {
+      "$id": 489,
+      "style": 160,
+      "name": "앙그는 HP가 깎이면 레벨이 상승합니다"
+    },
+    {
+      "$id": 490,
+      "style": 160,
+      "name": "앙그의 레벨을 최대한 올려서 쓰러뜨려 봅시다!\n(앙그의 레벨은 최대 Lv 200까지 상승합니다)"
+    },
+    {
+      "$id": 491,
+      "style": 160,
+      "name": "SPECIAL BATTLE\n『아르스 전함 강습』이 시작되었습니다"
+    },
+    {
+      "$id": 492,
+      "style": 160,
+      "name": "아르스 전함 안에는 적이 100명 존재합니다\n신을 조작해 최대한 빨리 적 100명을 쓰러뜨려 주세요"
+    },
+    {
+      "$id": 493,
+      "style": 160,
+      "name": "여기서는 [System:Color name=tutorial ]노폰 크리스털[/System:Color]을\n희귀한 아이템이나 특수한 아이템과 교환할 수 있습니다"
+    },
+    {
+      "$id": 494,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]호무라 귀 달린 판초[/System:Color] 등 특수한 아이템은\n아이템명에 이름이 포함된 캐릭터가 장비하면\n외모를 변화시킬 수 있습니다"
+    },
+    {
+      "$id": 495,
+      "style": 160,
+      "name": "이름이 포함된 캐릭터가 아니여도 장비할 수 있지만\n그럴 경우에는 일반 아이템과 마찬가지로\n외모에는 영향을 주지 않습니다"
+    },
+    {
+      "$id": 496,
+      "style": 160,
+      "name": "다양한 챌린지 배틀을 클리어해서\n노폰 크리스털을 잔뜩 모아 봅시다!"
+    },
+    {
+      "$id": 497,
+      "style": 160,
+      "name": "니아가 블레이드 상태라면 니아를 드라이버로 되돌려야\n피오른을 블레이드로 사용할 수 있게 되니 주의해 주세요"
+    },
+    {
+      "$id": 498,
+      "style": 160,
+      "name": "현재 슈르크와 피오른은\n대기 상태로 파티에 참가 중입니다"
+    },
+    {
+      "$id": 499,
+      "style": 160,
+      "name": "드라이버와 블레이드의 세트를 [System:Color name=tutorial ]팀[/System:Color]이라고 합니다\nLv / 경험치 / HP / 근력 / 에테르 / 속도 / 손재주 / 행운은\n[System:Color name=tutorial ]팀 단위로 공유하는 스테이터스[/System:Color]입니다"
+    },
+    {
+      "$id": 500,
+      "style": 160,
+      "name": "오토 어택이 히트하면 [System:Color name=tutorial ]아츠 게이지[/System:Color]가 상승합니다\n이것을 아츠 리캐스트라고 합니다\n게이지가 [System:Color name=tutorial ]모두 충전[/System:Color]된 후에 대응되는 버튼을 누르면 [System:Color name=tutorial ]아츠로 공격[/System:Color]합니다"
+    },
+    {
+      "$id": 501,
+      "style": 160,
+      "name": "적에게 접근해 [System:Color name=tutorial ][ML:icon icon=R ][/System:Color]을 누르면 [System:Color name=tutorial ]적을 타깃[/System:Color]으로 잡습니다\n이 상태에서 [System:Color name=tutorial ][ML:icon icon=A ][/System:Color]를 누르면 [System:Color name=tutorial ]발도[/System:Color]합니다\n발도한 캐릭터는 적을 [System:Color name=tutorial ]오토 어택으로 공격[/System:Color]합니다"
+    },
+    {
+      "$id": 502,
+      "style": 160,
+      "name": "오토 어택이 [System:Color name=tutorial ]히트한 순간[/System:Color]에 [System:Color name=tutorial ]아츠를 사용[/System:Color]하면\n히트 후의 동작을 캔슬하고 바로 아츠를 사용합니다\n이것을 [System:Color name=tutorial ]액션 캔슬[/System:Color]이라고 합니다"
+    },
+    {
+      "$id": 503,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]아츠는 필살기로 액션 캔슬[/System:Color]이 가능하고\n그뿐 아니라 특정 인연 링을 달성하면\n[System:Color name=tutorial ]아츠를 아츠로[/System:Color] 액션 캔슬할 수 있게 됩니다"
+    },
+    {
+      "$id": 504,
+      "style": 160,
+      "name": "액션 캔슬을 발생시키면\n[System:Color name=tutorial ]필살기 리캐스트가 평소보다 많이 상승[/System:Color]하니\n적극적으로 노려서 효율적으로 싸워 봅시다"
+    },
+    {
+      "$id": 505,
+      "style": 160,
+      "name": "배틀에서는 팀이 [System:Color name=tutorial ]전위와 후위로 나뉘어서 싸웁니다[/System:Color]\n전위는 공격이 메인인 [System:Color name=tutorial ]어태커[/System:Color]\n후위는 지원이 메인인 [System:Color name=tutorial ]서포터[/System:Color] 역할이 됩니다"
+    },
+    {
+      "$id": 506,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]조작 가능한 것은 어태커[/System:Color]입니다\n서포터는 자동으로 공격이나 지원을 해 줍니다"
+    },
+    {
+      "$id": 507,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]팀의 HP가 『0』이 되면 팀이 전투 불능[/System:Color]이 됩니다\n배틀을 계속할 수 없으면 [System:Color name=tutorial ]직전에 통과한 랜드마크[/System:Color]로 돌아가게 됩니다\n그 밖의 패널티는 없습니다"
+    },
+    {
+      "$id": 508,
+      "style": 160,
+      "name": "공격을 받으면 [System:Color name=tutorial ]받은 대미지만큼 [/System:Color][System:Color name=tutorial ]붉은 바[/System:Color]가 표시됩니다\n이 붉은 바를 [System:Color name=tutorial ]리저브 HP[/System:Color]라고 합니다\n리저브 HP는 [System:Color name=tutorial ]어태커 스위치를 하면 회복[/System:Color]됩니다"
+    },
+    {
+      "$id": 509,
+      "style": 160,
+      "name": "리저브 HP는 [System:Color name=tutorial ]시간에 따라 서서히 감소합니다\n[/System:Color]어태커 스위치가 가능할 때는 적극적으로 스위치해서\n팀의 HP가 줄어들지 않도록 하며 싸웁시다"
+    },
+    {
+      "$id": 510,
+      "style": 160,
+      "name": "배틀 중에 [System:Color name=tutorial ]서포터 게이지[/System:Color]가 가득 차면\n[System:Color name=tutorial ][ML:icon icon=up ][/System:Color] 또는 [System:Color name=tutorial ][ML:icon icon=down ][/System:Color]를 눌러서 [System:Color name=tutorial ]어태커 스위치[/System:Color]를 할 찬스입니다"
+    },
+    {
+      "$id": 511,
+      "style": 160,
+      "name": "어태커 스위치를 하면\n서포터는 [System:Color name=tutorial ]스위치 아츠[/System:Color]로 공격하면서\n[System:Color name=tutorial ]어태커와 위치를 바꿔[/System:Color] 서포터에서 어태커로 전환합니다"
+    },
+    {
+      "$id": 512,
+      "style": 160,
+      "name": "스위치해서 어태커가 되면 [System:Color name=tutorial ]아츠 리캐스트가 모두 충전된 상태[/System:Color]입니다\n모든 아츠를 바로 사용할 수 있으니\n어태커 스위치를 능숙하게 구사해 공격을 이어 봅시다"
+    },
+    {
+      "$id": 513,
+      "style": 160,
+      "name": "필살기는 [System:Color name=tutorial ]팀이 하나가 되어 공격[/System:Color]하는 특수한 기술입니다"
+    },
+    {
+      "$id": 514,
+      "style": 160,
+      "name": "아츠를 사용하면 [System:Color name=tutorial ]필살기 게이지[/System:Color]가 점점 상승합니다\n이것을 필살기 리캐스트라고 합니다\n게이지가 [System:Color name=tutorial ]모두 충전[/System:Color]된 후에 [System:Color name=tutorial ][ML:icon icon=A ][/System:Color]를 누르면 [System:Color name=tutorial ]필살기로 공격[/System:Color]합니다"
+    },
+    {
+      "$id": 515,
+      "style": 160,
+      "name": "필살기 게이지는 [System:Color name=tutorial ]Ⅰ~Ⅳ[/System:Color]까지 모을 수 있으며\nⅠ을 사용했을 때는 어태커만 공격하지만\n[System:Color name=tutorial ]Ⅱ · Ⅲ · Ⅳ는 팀이 연계해 필살기[/System:Color]를 사용합니다"
+    },
+    {
+      "$id": 516,
+      "style": 160,
+      "name": "필살기를 사용하면 [System:Color name=tutorial ]버튼 챌린지[/System:Color]가 발동합니다\n화면 지시에 따라 [System:Color name=tutorial ]타이밍에 맞춰 버튼을 누르면[/System:Color]\n필살기의 [System:Color name=tutorial ]효과가 더 상승[/System:Color]하므로 노려 봅시다"
+    },
+    {
+      "$id": 517,
+      "style": 160,
+      "name": "지금 눈앞에 보이는 것은 [System:Color name=tutorial ]채집 포인트[/System:Color]입니다\n채집 포인트를 조사하면 [System:Color name=tutorial ]컬렉션 아이템[/System:Color]을 발견할 수 있습니다"
+    },
+    {
+      "$id": 518,
+      "style": 160,
+      "name": "채집 포인트는 아르스트 전역에 존재하며\n각 지역에 따라 획득 가능한\n컬렉션 아이템의 종류도 다양합니다"
+    },
+    {
+      "$id": 519,
+      "style": 160,
+      "name": "또한 채집 포인트 중에는\n블레이드의 [System:Color name=tutorial ]필드 스킬[/System:Color]에 의해 평소에는 획득할 수 없는\n아이템을 획득할 수 있게 되는 장소도 있다고 합니다"
+    },
+    {
+      "$id": 520,
+      "style": 160,
+      "name": "획득한 컬렉션 아이템은 앞으로 있을 모험에서\n틀림없이 라우라 일행에게 도움이 될 것이므로\n채집 포인트를 발견하면 적극적으로 조사해 봅시다"
+    },
+    {
+      "$id": 521,
+      "style": 160,
+      "name": "필드 곳곳에는 [System:Color name=tutorial ]캠프[/System:Color]가 있습니다\n캠프에서는 [System:Color name=tutorial ]휴식하기[/System:Color] / [System:Color name=tutorial ]크래프트[/System:Color] / [System:Color name=tutorial ]대화하기[/System:Color] 3가지 행동이 가능합니다"
+    },
+    {
+      "$id": 522,
+      "style": 160,
+      "name": "휴식하기: 보너스 EXP를 사용한 팀의 레벨 업\n크래프트: 컬렉션 아이템을 사용한 아이템 제작\n대화하기: 모험의 힌트가 숨겨진 동료 간의 대화"
+    },
+    {
+      "$id": 523,
+      "style": 160,
+      "name": "성장과 아이템 획득의 거점이 되는 것이 캠프입니다\n[System:Color name=tutorial ]새로운 지역에서는 우선 캠프를 찾는 것[/System:Color]을 추천합니다"
+    },
+    {
+      "$id": 524,
+      "style": 160,
+      "name": "크래프트는 캠프에서 선택 가능한 액션입니다\n컬렉션 아이템을 소재로 소비해\n[System:Color name=tutorial ]파우치 아이템[/System:Color]이나 [System:Color name=tutorial ]특수 효과를 지닌 귀중품[/System:Color]을 만들 수 있습니다"
+    },
+    {
+      "$id": 525,
+      "style": 160,
+      "name": "크래프트로 만들 수 있는 것은 [System:Color name=tutorial ]레시피[/System:Color]를 획득하면 늘어납니다\n레시피는 [System:Color name=tutorial ]퀘스트 보수[/System:Color]나 [System:Color name=tutorial ]보물 상자[/System:Color] 등을 통해 획득할 수 있으니\n다양한 장소를 모험하며 찾아봅시다"
+    },
+    {
+      "$id": 526,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]파우치 아이템[/System:Color]은 드라이버의 [System:Color name=tutorial ]파우치 세트[/System:Color]에 넣으면\n일정 시간 그 [System:Color name=tutorial ]드라이버의 팀을 강화[/System:Color]할 수 있는 아이템입니다"
+    },
+    {
+      "$id": 527,
+      "style": 160,
+      "name": "캠프에서 크래프트로 만들 수 있는 아이템이니\n강적과 싸우기 전에는 크래프트해서 적극적으로 사용해 봅시다"
+    },
+    {
+      "$id": 528,
+      "style": 160,
+      "name": "이곳 리사이아 원생림은 [System:Color name=tutorial ]랜드마크[/System:Color]라고 하는 [System:Color name=tutorial ]에어리어[/System:Color]입니다"
+    },
+    {
+      "$id": 529,
+      "style": 160,
+      "name": "에어리어에는\n[System:Color name=tutorial ]로케이션[/System:Color] / [System:Color name=tutorial ]랜드마크[/System:Color] / [System:Color name=tutorial ]비경 · 절경 포인트[/System:Color]\n이렇게 3가지 종류가 있습니다"
+    },
+    {
+      "$id": 530,
+      "style": 160,
+      "name": "발견한 [System:Color name=tutorial ]랜드마크[/System:Color]와 [System:Color name=tutorial ]비경 · 절경 포인트[/System:Color]로 갈 때는\n메인 메뉴의 [System:Color name=tutorial ]스킵 트래블[/System:Color] 항목을 통해\n[System:Color name=tutorial ]순식간에 이동[/System:Color]할 수 있습니다"
+    },
+    {
+      "$id": 531,
+      "style": 160,
+      "name": "눈앞에 보물 상자가 있는 것 같습니다\n필드상에는 [System:Color name=tutorial ]다양한 형태[/System:Color]의 보물 상자가 있습니다"
+    },
+    {
+      "$id": 532,
+      "style": 160,
+      "name": "보물 상자 중에는 [System:Color name=tutorial ]블레이드의 필드 스킬[/System:Color]이 없으면\n열 수 없는 것도 있습니다\n보물 상자를 발견하면 일단 열어 봅시다"
+    },
+    {
+      "$id": 533,
+      "style": 160,
+      "name": "色々なエネミーをターゲットしてみると\n[System:Color name=tutorial ]通常のエネミーとは異なるターゲットアイコン[/System:Color]が\n表示されるエネミーが見つかるはずです"
+    },
+    {
+      "$id": 534,
+      "style": 160,
+      "name": "それこそが[System:Color name=tutorial ]ユニークモンスター[/System:Color]と呼ばれる\nモンスターです"
+    },
+    {
+      "$id": 535,
+      "style": 160,
+      "name": "세계적으로 유명한 드라이버조차도\n상대하기 어려워한다고 합니다"
+    },
+    {
+      "$id": 536,
+      "style": 160,
+      "name": "유니크 몬스터를 토벌하면\n틀림없이 온 세상 사람들이 당신을 인정할 것입니다"
+    },
+    {
+      "$id": 537,
+      "style": 160,
+      "name": "ただし　普通のモンスターとは違って\nかなり強力な攻撃を仕掛けてくるので\n準備を整えてから戦いを挑むといいでしょう"
+    },
+    {
+      "$id": 538,
+      "style": 160,
+      "name": "また　ユニークモンスターを討伐すると\nモンスターが生きていた証として\nその場所にお墓が残ります"
+    },
+    {
+      "$id": 539,
+      "style": 160,
+      "name": "お墓に向かって[ML:icon icon=A ]ボタンを押すと\nもう一度ユニークモンスターを\n呼び起こすことができるというウワサがあるようです"
+    },
+    {
+      "$id": 540,
+      "style": 160,
+      "name": "앞에 무너진 다리가 보이는군요\n언뜻 보기에는 못 지나갈 것 같은 장소도\n블레이드의 [System:Color name=tutorial ]필드 스킬[/System:Color]을 사용하면 지나갈 수 있는 경우가 있습니다"
+    },
+    {
+      "$id": 541,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]마른 나무[/System:Color]를 조사해\n신의 필드 스킬을 사용해 봅시다"
+    },
+    {
+      "$id": 542,
+      "style": 160,
+      "name": "신의 필드 스킬은\n[System:Color name=tutorial ]메인 메뉴[/System:Color]>[System:Color name=tutorial ]캐릭터[/System:Color]>[System:Color name=tutorial ]블레이드 세팅[/System:Color]>[System:Color name=tutorial ]상세[/System:Color]에서 확인할 수 있습니다"
+    },
+    {
+      "$id": 543,
+      "style": 160,
+      "name": "이 세계에는 필드 스킬을 사용하지 않고는\n갈 수 없는 장소가 많이 있습니다"
+    },
+    {
+      "$id": 544,
+      "style": 160,
+      "name": "行けなさそうな場所があっても\n近づいて　調べてみることが重要になります"
+    },
+    {
+      "$id": 545,
+      "style": 160,
+      "name": "카스미가 동료로 들어와서\n[System:Color name=tutorial ]블레이드 스위치[/System:Color]가 가능해졌습니다"
+    },
+    {
+      "$id": 546,
+      "style": 160,
+      "name": "팀에 [System:Color name=tutorial ]두 명[/System:Color]의 블레이드가 있을 때는\n평상시 / 배틀 시를 불문하고 [System:Color name=tutorial ]블레이드 스위치[/System:Color]로\n[System:Color name=tutorial ]전투에 참가할 블레이드를 선택[/System:Color]할 수 있습니다"
+    },
+    {
+      "$id": 547,
+      "style": 160,
+      "name": "블레이드 스위치는 [System:Color name=tutorial ][ML:icon icon=left ][/System:Color]을 누르기만 하면 되지만\n[System:Color name=tutorial ]배틀할 때[/System:Color]는 스위치의 [System:Color name=tutorial ]쿨링 다운[/System:Color]이 설정되어 있어서\n[System:Color name=tutorial ]연속으로는 블레이드 스위치가 불가능[/System:Color]하니 주의해야 합니다"
+    },
+    {
+      "$id": 548,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]어태커 스위치[/System:Color]와 [System:Color name=tutorial ]블레이드 스위치[/System:Color]를 조합해\n누가 전투에 참가할지를 선택하며\n자신만의 플레이 스타일을 찾아봅시다"
+    },
+    {
+      "$id": 549,
+      "style": 160,
+      "name": "지금 [System:Color name=tutorial ]퀘스트[/System:Color]를 수주했습니다\n퀘스트 중에는 [System:Color name=tutorial ]메인 스토리 퀘스트[/System:Color]와\n[System:Color name=tutorial ]일반 퀘스트[/System:Color]가 있습니다"
+    },
+    {
+      "$id": 550,
+      "style": 160,
+      "name": "방금 것은 메인 스토리 퀘스트이며\n메인 스토리를 진행하는 데 필수적인 퀘스트입니다\n컴퍼스상에서는 [System:Color name=tutorial ]핑크색 !! 아이콘[/System:Color]으로 표시됩니다"
+    },
+    {
+      "$id": 551,
+      "style": 160,
+      "name": "세상에는 도움이 필요한 사람들이 많이 있습니다\n그런 사람들의 머리 위에는 [System:Color name=tutorial ]파란색 ? 아이콘[/System:Color]이 표시되어 있습니다"
+    },
+    {
+      "$id": 552,
+      "style": 160,
+      "name": "말을 걸면 고민을 털어놓으며\n무언가 일을 부탁할 것입니다\n이것이 일반 퀘스트입니다"
+    },
+    {
+      "$id": 553,
+      "style": 160,
+      "name": "고민을 해결해 주면\n틀림없이 멋진 선물을 줄 것입니다"
+    },
+    {
+      "$id": 554,
+      "style": 160,
+      "name": "일반 퀘스트가\n메인 스토리를 진행하는 데 필수적이지는 않습니다\n컴퍼스상에서는 [System:Color name=tutorial ]파란색 아이콘[/System:Color]으로 표시됩니다"
+    },
+    {
+      "$id": 555,
+      "style": 160,
+      "name": "그럼 이제 카스미의 능력을 사용해\n눈앞에 있는 에테르 독기를 정화해 봅시다"
+    },
+    {
+      "$id": 556,
+      "style": 160,
+      "name": "아르스트의 대지인 아르스는 살아 있습니다\n그들이 살아가면서 배출하는 노폐물이 [System:Color name=tutorial ]에테르 독기[/System:Color]입니다"
+    },
+    {
+      "$id": 557,
+      "style": 160,
+      "name": "에테르 독기는 몬스터를 유인하기도 해서\n굉장히 위험하지만 [System:Color name=tutorial ]독기를 제거[/System:Color]하면\n[System:Color name=tutorial ]새로운 채집 포인트[/System:Color]가 출현합니다"
+    },
+    {
+      "$id": 558,
+      "style": 160,
+      "name": "에테르 독기를 제거할 때는 [System:Color name=tutorial ]필드 스킬[/System:Color]을 사용합니다\n필드 스킬은 블레이드의 인연 링에서\n획득하거나 레벨을 올릴 수 있습니다"
+    },
+    {
+      "$id": 559,
+      "style": 160,
+      "name": "캐릭터별로 지닌 [System:Color name=tutorial ]고유의 전용 아츠[/System:Color]를\n[System:Color name=tutorial ]탤런트 아츠[/System:Color]라고 합니다"
+    },
+    {
+      "$id": 560,
+      "style": 160,
+      "name": "조건을 충족시키면 [System:Color name=tutorial ][ML:icon icon=right ][/System:Color]을 눌러 사용할 수 있습니다\n사용 [System:Color name=tutorial ]조건과 효과는 아츠 강화 화면에서 확인[/System:Color]할 수 있습니다"
+    },
+    {
+      "$id": 561,
+      "style": 160,
+      "name": "탤런트 아츠는 굉장히 [System:Color name=tutorial ]강력한 효과[/System:Color]를 발휘하지만\n[System:Color name=tutorial ]마이너스 효과[/System:Color]를 함께 가지고 있는 것도 있습니다\n사용할 [System:Color name=tutorial ]타이밍을 잘 고려해서[/System:Color] 효과적으로 사용합시다"
+    },
+    {
+      "$id": 562,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]공격[/System:Color]이나 팀의 [System:Color name=tutorial ]HP 회복[/System:Color] 등 [System:Color name=tutorial ]적에게 불리한 행동[/System:Color]을 하면\n이쪽을 향한 공격성인 [System:Color name=tutorial ]어그로[/System:Color]를 획득하게 됩니다"
+    },
+    {
+      "$id": 563,
+      "style": 160,
+      "name": "어그로는 [System:Color name=tutorial ]팀별로 [/System:Color]축적되며\n적은 가장 [System:Color name=tutorial ]어그로가 높은 팀을 노려 공격[/System:Color]합니다"
+    },
+    {
+      "$id": 564,
+      "style": 160,
+      "name": "HP가 적어진 팀이나 방어력이 낮은 팀이\n[System:Color name=tutorial ]적에게 노려지지 않도록 [/System:Color]어그로를 잘 컨트롤해 봅시다\n때로는 [System:Color name=tutorial ]너무 공격하지 않는 것[/System:Color]도 유용한 전술입니다"
+    },
+    {
+      "$id": 565,
+      "style": 160,
+      "name": "사람들이 라우라 일행을 [System:Color name=tutorial ]지지한다는 증거[/System:Color]를 [System:Color name=tutorial ]화합[/System:Color]이라고 합니다"
+    },
+    {
+      "$id": 566,
+      "style": 160,
+      "name": "화합의 시작은 아르스트에 사는 사람들과 이야기하는 것입니다\n사람들과 말을 나누면 이름이나 직업, 위치와 같은 정보가\n[System:Color name=tutorial ]화합[/System:Color] 항목에 추가됩니다"
+    },
+    {
+      "$id": 567,
+      "style": 160,
+      "name": "화합은 [System:Color name=tutorial ]메인 메뉴에서 확인[/System:Color]할 수 있습니다\n많은 사람과 이야기를 나눠 화합을 확장해 봅시다"
+    },
+    {
+      "$id": 568,
+      "style": 160,
+      "name": "화합 메뉴 안의\n항목에 실린 사람들이 가진 문제를 해결하면\n화합을 획득하게 됩니다"
+    },
+    {
+      "$id": 569,
+      "style": 160,
+      "name": "많이 모으면 [System:Color name=tutorial ]화합 레벨[/System:Color]이 상승합니다\n화합 레벨이 상승하면 [System:Color name=tutorial ]새로운 퀘스트[/System:Color]가 발생합니다\n이렇게 생겨난 점이 점점 원을 이루며 넓어집니다"
+    },
+    {
+      "$id": 570,
+      "style": 160,
+      "name": "화합의 넓이는 라우라와 신이 어떻게 살아왔는지 보여 줍니다\n체험뿐만 아니라 감사와 지지 등이 보수입니다\n이곳 아르스트 사람들의 이야기를 즐겨 봅시다"
+    },
+    {
+      "$id": 571,
+      "style": 160,
+      "name": "아츠나 스위치 아츠 중에는 [System:Color name=tutorial ]적의 상태를 변화[/System:Color]시키는\n특수한 효과를 지닌 것이 있습니다"
+    },
+    {
+      "$id": 572,
+      "style": 160,
+      "name": "적의 상태는 [System:Color name=tutorial ]브레이크[/System:Color] / [System:Color name=tutorial ]다운[/System:Color] / [System:Color name=tutorial ]라이징[/System:Color] / [System:Color name=tutorial ]스매시[/System:Color] 4종류이며\n브레이크부터 [System:Color name=tutorial ]순서대로 연결[/System:Color]하는 것을 [System:Color name=tutorial ]드라이버 콤보[/System:Color]라고 부릅니다"
+    },
+    {
+      "$id": 573,
+      "style": 160,
+      "name": "다운 이후의 상태부터는 회복 포트를 떨어뜨리기도 하고\n그 상태가 유지되는 동안은 공격을 못 하기도 하니\n배틀에서 승리하기 위해 유용하게 활용해 봅시다"
+    },
+    {
+      "$id": 574,
+      "style": 160,
+      "name": "필살기 Ⅳ는 굉장히 강력하지만 사용하려면 요령이 필요합니다"
+    },
+    {
+      "$id": 575,
+      "style": 160,
+      "name": "필살기 게이지가 [System:Color name=tutorial ]Ⅲ까지 충전된 상태[/System:Color]일 때 드라이버와\n블레이드가 [System:Color name=tutorial ]서로 붙으면[/System:Color] 게이지가 추가로 상승하기 시작합니다"
+    },
+    {
+      "$id": 576,
+      "style": 160,
+      "name": "그대로 [System:Color name=tutorial ]필살기 게이지가 Ⅳ[/System:Color]까지 충전되면 필살기 Ⅳ가 준비된 것입니다\n도중에 드라이버와 블레이드의 거리가 [System:Color name=tutorial ]멀어지면[/System:Color]\n[System:Color name=tutorial ]게이지가 감소해 다시 충전[/System:Color]해야 하니 조심합시다"
+    },
+    {
+      "$id": 577,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]필살기를 적에게 히트[/System:Color]시키면 [System:Color name=tutorial ]블레이드 콤보[/System:Color]가 시작됩니다\n블레이드 콤보에는 [System:Color name=tutorial ]Ⅰ · Ⅱ · Ⅲ[/System:Color]단계가 있어\n순서대로 연결해 [System:Color name=tutorial ]Ⅲ까지 성공시키면 블레이드 콤보 달성[/System:Color]입니다"
+    },
+    {
+      "$id": 578,
+      "style": 160,
+      "name": "Ⅰ · Ⅱ · Ⅲ 순으로 연결하려면\n레벨 [System:Color name=tutorial ]Ⅰ 이상[/System:Color]인 필살기 · [System:Color name=tutorial ]Ⅱ 이상[/System:Color]인 필살기 · [System:Color name=tutorial ]Ⅲ 이상[/System:Color]인 필살기를\n[System:Color name=tutorial ]순서대로 적에게 히트[/System:Color]시켜야 합니다"
+    },
+    {
+      "$id": 579,
+      "style": 160,
+      "name": "연결하는 필살기는 [System:Color name=tutorial ]다른 팀의 필살기여도 괜찮습니다[/System:Color]\n다른 팀이 필살기를 사용하고 싶을 때는 [System:Color name=tutorial ]콤보 신청[/System:Color]이 표시됩니다\n[System:Color name=tutorial ]어느 팀이 필살기를 사용하게 할지[/System:Color] 잘 생각해서 허가합시다"
+    },
+    {
+      "$id": 580,
+      "style": 160,
+      "name": "블레이드 콤보는 [System:Color name=tutorial ]어떤 속성의 필살기든[/System:Color] 레벨 순서를 지키면\n[System:Color name=tutorial ]Ⅲ단계까지 달성[/System:Color]할 수 있지만\n특정 속성일 때만 달성되는 [System:Color name=tutorial ]크리티컬 루트[/System:Color]가 존재합니다"
+    },
+    {
+      "$id": 581,
+      "style": 160,
+      "name": "크리티컬 루트는 전부 [System:Color name=tutorial ]16루트[/System:Color]가 있으며\n그중 하나는 「[System:Color name=tutorial ]화[/System:Color]」>「[System:Color name=tutorial ]화[/System:Color]」>「[System:Color name=tutorial ]광[/System:Color]」 순입니다"
+    },
+    {
+      "$id": 582,
+      "style": 160,
+      "name": "크리티컬 루트 달성은 [System:Color name=tutorial ]전용 연출[/System:Color]이 있어 구분할 수 있습니다\n[System:Color name=tutorial ]평소보다 높은 대미지[/System:Color]를 줄 수 있으니\n나머지 15루트의 속성 순서도 찾아봅시다"
+    },
+    {
+      "$id": 583,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]필살기를 적에게 히트[/System:Color]시키면 [System:Color name=tutorial ]블레이드 콤보[/System:Color]가 시작됩니다\n블레이드 콤보에는 [System:Color name=tutorial ]Ⅰ · Ⅱ · Ⅲ[/System:Color]단계가 있어\n순서대로 연결해 [System:Color name=tutorial ]Ⅲ까지 성공시키면 블레이드 콤보 달성[/System:Color]입니다"
+    },
+    {
+      "$id": 584,
+      "style": 160,
+      "name": "Ⅰ · Ⅱ · Ⅲ 순으로 연결하려면\n레벨 [System:Color name=tutorial ]Ⅰ 이상[/System:Color]인 필살기 · [System:Color name=tutorial ]Ⅱ 이상[/System:Color]인 필살기 · [System:Color name=tutorial ]Ⅲ 이상[/System:Color]인 필살기를\n[System:Color name=tutorial ]순서대로 적에게 히트[/System:Color]시켜야 합니다"
+    },
+    {
+      "$id": 585,
+      "style": 160,
+      "name": "연결하는 필살기는 [System:Color name=tutorial ]다른 팀의 필살기여도 괜찮습니다[/System:Color]\n다른 팀이 필살기를 사용하고 싶을 때는 [System:Color name=tutorial ]콤보 신청[/System:Color]이 표시됩니다\n[System:Color name=tutorial ]어느 팀이 필살기를 사용하게 할지[/System:Color] 잘 생각해서 허가합시다"
+    },
+    {
+      "$id": 586,
+      "style": 160,
+      "name": "블레이드 콤보는 [System:Color name=tutorial ]어떤 속성의 필살기든[/System:Color] 레벨 순서를 지키면\n[System:Color name=tutorial ]Ⅲ단계까지 달성[/System:Color]할 수 있지만\n특정 속성일 때만 달성되는 [System:Color name=tutorial ]크리티컬 루트[/System:Color]가 존재합니다"
+    },
+    {
+      "$id": 587,
+      "style": 160,
+      "name": "크리티컬 루트는 전부 [System:Color name=tutorial ]16루트[/System:Color]가 있으며\n그중 하나는 「[System:Color name=tutorial ]화[/System:Color]」>「[System:Color name=tutorial ]화[/System:Color]」>「[System:Color name=tutorial ]광[/System:Color]」 순입니다"
+    },
+    {
+      "$id": 588,
+      "style": 160,
+      "name": "크리티컬 루트 달성은 [System:Color name=tutorial ]전용 연출[/System:Color]이 있어 구분할 수 있습니다\n[System:Color name=tutorial ]평소보다 높은 대미지[/System:Color]를 줄 수 있으니\n나머지 15루트의 속성 순서도 찾아봅시다"
+    },
+    {
+      "$id": 589,
+      "style": 160,
+      "name": "블레이드 콤보를 달성하면 적에게 [System:Color name=tutorial ]속성구[/System:Color]를 붙일 수 있습니다\n이것을 파괴해 [System:Color name=tutorial ]추가 효과를 발생[/System:Color]시키는 것이 [System:Color name=tutorial ]체인 어택[/System:Color]입니다"
+    },
+    {
+      "$id": 590,
+      "style": 160,
+      "name": "파티 게이지의 [System:Color name=tutorial ]눈금이 3칸 있을 때 [ML:icon icon=plus ][/System:Color]를 누르면 발동됩니다\n발동되면 각 팀별로 필살기를 선택합시다\n적을 공격하는 동시에 속성구에도 전용 대미지를 줍니다"
+    },
+    {
+      "$id": 591,
+      "style": 160,
+      "name": "속성구는 필살기를 [System:Color name=tutorial ]3번 히트[/System:Color]시키면 파괴됩니다\n적에게 붙은 속성구와 [System:Color name=tutorial ]반대 속성인 필살기[/System:Color]를 선택하면\n[System:Color name=tutorial ]2번 히트한 판정[/System:Color]이 되니 잘 노려 봅시다"
+    },
+    {
+      "$id": 592,
+      "style": 160,
+      "name": "속성구를 파괴하면 다음과 같은 효과가 발생합니다\n[System:Color name=tutorial ]라운드 연장[/System:Color] / [System:Color name=tutorial ]대미지 보너스 상승[/System:Color] / [System:Color name=tutorial ]풀 버스트 게이지 상승\n행동이 끝난 캐릭터의 리캐스트 회복[/System:Color]"
+    },
+    {
+      "$id": 593,
+      "style": 160,
+      "name": "체인 어택은 각 팀이 [System:Color name=tutorial ]1번씩 행동하면 종료[/System:Color]되지만\n그 사이에 [System:Color name=tutorial ]속성구를 파괴하면 1번 더 연장[/System:Color]됩니다"
+    },
+    {
+      "$id": 594,
+      "style": 160,
+      "name": "연장 시에 발생하는 [System:Color name=tutorial ]버튼 챌린지[/System:Color]에 성공하면\n[System:Color name=tutorial ]필살기 레벨 업[/System:Color]과 [System:Color name=tutorial ]리캐스트 회복[/System:Color] 같은 특전이 있으니\n타이밍에 맞춰 잘 눌러 봅시다"
+    },
+    {
+      "$id": 595,
+      "style": 160,
+      "name": "체인 어택 발동 중에는 파티 게이지가\n[System:Color name=tutorial ]풀 버스트 게이지[/System:Color]로 변화합니다"
+    },
+    {
+      "$id": 596,
+      "style": 160,
+      "name": "풀 버스트 게이지는 [System:Color name=tutorial ]속성구를 깨면 상승[/System:Color]하고\n[System:Color name=tutorial ]모두 충전[/System:Color]되면 풀 버스트가 발생해 [System:Color name=tutorial ]큰 대미지[/System:Color]를 줍니다"
+    },
+    {
+      "$id": 597,
+      "style": 160,
+      "name": "추가로 [System:Color name=tutorial ]체인 어택 중에 적을 토벌[/System:Color]하면 [System:Color name=tutorial ]오버 킬[/System:Color]이 됩니다\n오버 킬 발생 중에 준 대미지양에 따라\n추가 [System:Color name=tutorial ]경험치[/System:Color] / [System:Color name=tutorial ]WP[/System:Color] / [System:Color name=tutorial ]SP[/System:Color]를 획득할 수 있습니다"
+    },
+    {
+      "$id": 598,
+      "style": 160,
+      "name": "대열 변경 기능이 해방되었습니다\n[System:Color name=tutorial ]메인 메뉴[/System:Color]>[System:Color name=tutorial ]캐릭터[/System:Color] 화면에서\n[System:Color name=tutorial ][ML:icon icon=X ][/System:Color]를 눌러 조작 팀을 변경할 수 있습니다"
+    },
+    {
+      "$id": 599,
+      "style": 160,
+      "name": "또한 대열 변경에서 [System:Color name=tutorial ]1[/System:Color]로 설정한 팀이\n[System:Color name=tutorial ]조작할 팀[/System:Color]입니다"
+    },
+    {
+      "$id": 600,
+      "style": 160,
+      "name": "팀에 따라 배틀 스타일도 다양하므로\n자신의 플레이 스타일에 맞는 팀을 찾아보세요"
+    },
+    {
+      "$id": 601,
+      "style": 160,
+      "name": "필드에서는 가끔 신비한 돌기둥이 보일 때가 있습니다\n이것은 [System:Color name=tutorial ]실 스톤[/System:Color]이라고 하는 이라 특유의 물건입니다"
+    },
+    {
+      "$id": 602,
+      "style": 160,
+      "name": "실 스톤을 [System:Color name=tutorial ]조사하면 적이 출현[/System:Color]하지만\n적을 전멸시키면 [System:Color name=tutorial ]숨겨진 보물[/System:Color]을 획득할 수 있습니다\n준비를 갖춰 도전해 봅시다"
+    },
+    {
+      "$id": 603,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]서치 머신[/System:Color]은 [System:Color name=tutorial ]유고가 크래프트로 만드는 아이템[/System:Color]입니다\n각지에 버려진 [System:Color name=tutorial ]낡은 기계[/System:Color]를 조사할 수 있게 되며\n지금까지 [System:Color name=tutorial ]획득할 수 없었던 컬렉션 아이템[/System:Color]을 얻을 수 있게 됩니다"
+    },
+    {
+      "$id": 604,
+      "style": 160,
+      "name": "서치 머신은 [System:Color name=tutorial ]2종류[/System:Color]가 있으며\n각각 [System:Color name=tutorial ]조사할 수 있는 기계가 다르기[/System:Color] 때문에\n둘 다 만들어 컬렉션 아이템을 잔뜩 획득해 봅시다"
+    },
+    {
+      "$id": 605,
+      "style": 160,
+      "name": "라우라의 [System:Color name=tutorial ]크래프트 레시피[/System:Color]를 받았습니다\n크래프트 레시피는 퀘스트 보수로 받는 것 외에도\n화합의 레벨 업이나 보물 상자를 통해 획득할 수도 있습니다"
+    },
+    {
+      "$id": 606,
+      "style": 160,
+      "name": "레시피가 늘어나면 지금까지는 못 만들었던 것도\n만들 수 있게 되니 [System:Color name=tutorial ]캠프[/System:Color]에서 확인해 봅시다"
+    },
+    {
+      "$id": 607,
+      "style": 160,
+      "name": "이 배틀에서는 파티 게이지 대신에\n[System:Color name=tutorial ]세이렌 게이지[/System:Color]가 준비되어 있습니다\n게이지는 [System:Color name=tutorial ]메츠에게 공격을 히트[/System:Color]시키면 상승합니다"
+    },
+    {
+      "$id": 608,
+      "style": 160,
+      "name": "게이지의 [System:Color name=tutorial ]눈금이 3칸 있을 때[/System:Color] [System:Color name=tutorial ][ML:icon icon=plus ][/System:Color]를 누르면\n세이렌이 [System:Color name=tutorial ]디바이스 아츠[/System:Color]를 사용합니다"
+    },
+    {
+      "$id": 609,
+      "style": 160,
+      "name": "디바이스 아츠는 [System:Color name=tutorial ]메츠의 세이렌을 공격[/System:Color]하는 동시에\n[System:Color name=tutorial ]팀의 공격력을 상승[/System:Color]시키는 지원 효과도 발휘합니다"
+    },
+    {
+      "$id": 610,
+      "style": 160,
+      "name": "마찬가지로 [System:Color name=tutorial ]메츠도 세이렌 게이지를 모읍니다[/System:Color]\n게이지가 모이면 디바이스 아츠로 [System:Color name=tutorial ]히카리의 세이렌을 공격[/System:Color]하며\n추가로 [System:Color name=tutorial ]메츠의 공격력 상승[/System:Color] 효과가 발생하게 됩니다"
+    },
+    {
+      "$id": 611,
+      "style": 160,
+      "name": "디바이스 아츠는 [System:Color name=tutorial ]쓸 때마다 효과가 강력[/System:Color]해지므로\n메츠보다 먼저 디바이스 아츠의 단계를 올려\n전투를 유리하게 이끌어 봅시다"
+    },
+    {
+      "$id": 612,
+      "style": 160,
+      "name": "또한 세이렌 게이지가 표시되어 있는 동안에는\n[System:Color name=tutorial ]체인 어택의 사용이 불가[/System:Color]하므로 주의해 주세요"
+    },
+    {
+      "$id": 613,
+      "style": 160,
+      "name": "保険（予備）"
+    },
+    {
+      "$id": 614,
+      "style": 160,
+      "name": "保険（予備）"
+    },
+    {
+      "$id": 615,
+      "style": 160,
+      "name": "保険（予備）"
+    },
+    {
+      "$id": 616,
+      "style": 160,
+      "name": "保険（予備）"
+    },
+    {
+      "$id": 617,
+      "style": 160,
+      "name": "현재 화살표가 가리키고 있는 것이 [System:Color name=tutorial ]컴퍼스[/System:Color]입니다\n컴퍼스 안의 마크는\n라우라 일행이 이다음 어디로 가면 되는지를 표시하고 있습니다"
+    },
+    {
+      "$id": 618,
+      "style": 160,
+      "name": "마크 위에 보이는 [System:Color name=tutorial ]숫자[/System:Color]는 [System:Color name=tutorial ]목적지까지의 거리[/System:Color]입니다\n목적지가 현재 위치보다 위에 있으면 마크 [System:Color name=tutorial ]위쪽[/System:Color]에\n아래에 있으면 마크 [System:Color name=tutorial ]아래쪽[/System:Color]에 작은 화살표가 표시됩니다"
+    },
+    {
+      "$id": 619,
+      "style": 160,
+      "name": "다음으로 화살표가 가리키는 것은 [System:Color name=tutorial ]환경 정보[/System:Color]라고 합니다\n환경 정보를 보면 지금 있는 장소의 [System:Color name=tutorial ]날씨[/System:Color]와 [System:Color name=tutorial ]시간[/System:Color]을 파악할 수 있습니다"
+    },
+    {
+      "$id": 620,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]미니맵[/System:Color]은 주변 정보를 가장 빨리 확인하기 위한 장치입니다\n[System:Color name=tutorial ][ML:icon icon=L3 ][/System:Color]을 누르면 표시 상태를 전환할 수 있습니다\n중앙의 노란 마크가 현재 위치와 향하고 있는 방향입니다"
+    },
+    {
+      "$id": 621,
+      "style": 160,
+      "name": "마지막으로 [System:Color name=tutorial ]현재 목적[/System:Color]입니다\n이것은 지금 라우라 일행이 무엇을 해야 하는지를 설명하고 있습니다"
+    },
+    {
+      "$id": 622,
+      "style": 160,
+      "name": "팀을 강하게 만드는 방법은\n[System:Color name=tutorial ]레벨 업[/System:Color]과 [System:Color name=tutorial ]파우치 아이템[/System:Color] 2가지 방법이 있습니다"
+    },
+    {
+      "$id": 623,
+      "style": 160,
+      "name": "레벨 업:\n배틀로 획득할 수 있는 [System:Color name=tutorial ]EXP[/System:Color]가 일정량 모이면 레벨 업하고\n[System:Color name=tutorial ]팀 스테이터스[/System:Color]가 상승합니다"
+    },
+    {
+      "$id": 624,
+      "style": 160,
+      "name": "파우치 아이템:\n드라이버의 파우치 세트에 파우치 아이템을 넣으면\n[System:Color name=tutorial ]팀의 능력[/System:Color]이 일정 시간 동안 강화됩니다"
+    },
+    {
+      "$id": 625,
+      "style": 160,
+      "name": "드라이버를 강하게 만드는 방법은\n[System:Color name=tutorial ]드라이버 자신을 강화[/System:Color]하는 2가지 방법과 [System:Color name=tutorial ]장비품을 통한 강화[/System:Color]까지\n총 3가지 방법이 있습니다"
+    },
+    {
+      "$id": 626,
+      "style": 160,
+      "name": "캐릭터 자신을 강화\n아츠 강화: 배틀로 획득 가능한 [System:Color name=tutorial ]WP[/System:Color]를 사용\n인연 링: 배틀로 획득 가능한 [System:Color name=tutorial ]SP[/System:Color]를 사용"
+    },
+    {
+      "$id": 627,
+      "style": 160,
+      "name": "장비품을 통한 강화\n액세서리 장비: [System:Color name=tutorial ]액세서리를 장비[/System:Color]한다\n(무기 슬롯에 들어가는 액세서리는 적을 통해 획득 가능합니다)"
+    },
+    {
+      "$id": 628,
+      "style": 160,
+      "name": "블레이드를 강하게 만드는 방법으로는\n블레이드 [System:Color name=tutorial ]자신을 강화하는 방법[/System:Color]과 [System:Color name=tutorial ]장비품을 통한 강화[/System:Color]가 있는데\n각각 2가지씩 있어서 [System:Color name=tutorial ]총 4가지 방법[/System:Color]이 있습니다"
+    },
+    {
+      "$id": 629,
+      "style": 160,
+      "name": "블레이드 자신을 강화\n아츠 강화: 배틀로 획득 가능한 [System:Color name=tutorial ]WP[/System:Color]를 사용\n인연 링: 요구되는 [System:Color name=tutorial ]과제를 달성[/System:Color]"
+    },
+    {
+      "$id": 630,
+      "style": 160,
+      "name": "장비품을 통한 강화\n무기 강화: 주로 보물 상자를 통해 획득하는 [System:Color name=tutorial ]코어 칩[/System:Color] 사용\n어시스트 코어 장비: 주로 적이 떨어뜨리는 [System:Color name=tutorial ]어시스트 코어[/System:Color] 장비"
+    },
+    {
+      "$id": 631,
+      "style": 160,
+      "name": "라우라의 탤런트 아츠는 [System:Color name=tutorial ]HP가 절반이 되는 대신[/System:Color]\n자신의 [System:Color name=tutorial ]아츠 리캐스트를 전부 회복[/System:Color]할 수 있습니다\nHP에 여유가 있을 때 사용해서 적을 연속 공격합시다"
+    },
+    {
+      "$id": 632,
+      "style": 160,
+      "name": "신의 탤런트 아츠는 [System:Color name=tutorial ]리저브 HP의 양[/System:Color]에 따라\n자신의 [System:Color name=tutorial ]공격, 명중, 회피, 속도를 일정 시간 상승[/System:Color]시킵니다\n사용한 순간의 리저브 HP가 높을수록 상승량이 커집니다"
+    },
+    {
+      "$id": 633,
+      "style": 160,
+      "name": "카스미의 탤런트 아츠는 [System:Color name=tutorial ]어태커 아츠의 리캐스트를\n모두 소비[/System:Color]하는 대신 [System:Color name=tutorial ]적을 일정 시간 정지[/System:Color]시킵니다\n굉장히 강력한 효과지만 신중하게 사용합시다"
+    },
+    {
+      "$id": 634,
+      "style": 160,
+      "name": "라우라 팀은 [System:Color name=tutorial ]공격과 회복이 뛰어난 올마이티 팀[/System:Color]입니다\n배틀이 어렵거나 익숙하지 않으면\n우선 라우라 팀으로 싸워 봅시다"
+    },
+    {
+      "$id": 635,
+      "style": 160,
+      "name": "라우라의 아츠 [System:Color name=tutorial ]류인각[/System:Color]을 쓰고 신으로 어태커 스위치를 해\n적을 다운시키는 연계는 강력합니다\n[System:Color name=tutorial ]위기 상황이라면 카스미[/System:Color]에게 어태커 스위치해서 회복합시다"
+    },
+    {
+      "$id": 636,
+      "style": 160,
+      "name": "아델의 탤런트 아츠는 [System:Color name=tutorial ]HP를 소모[/System:Color]해서\n[System:Color name=tutorial ]드라이버 콤보의 유효 시간을 연장합니다[/System:Color]\n잘 사용해서 드라이버 콤보 피니시를 노려 봅시다"
+    },
+    {
+      "$id": 637,
+      "style": 160,
+      "name": "히카리의 탤런트 아츠는 [System:Color name=tutorial ]파티가 위기에 빠졌을 때[/System:Color] 사용할 수 있습니다\n파티 전체가 [System:Color name=tutorial ]일정 횟수의 공격을 완전 회피[/System:Color]할 수 있게 되니\n그 사이에 전열을 가다듬읍시다"
+    },
+    {
+      "$id": 638,
+      "style": 160,
+      "name": "미노치의 탤런트 아츠는 [System:Color name=tutorial ]인연이 최고일 때[/System:Color] 사용할 수 있습니다\n다음에 사용할 아츠의 [System:Color name=tutorial ]대미지가 2배, 어그로도 3배[/System:Color]가 됩니다\n연속으로 사용하면 어그로가 너무 모일 수 있으니 주의합시다"
+    },
+    {
+      "$id": 639,
+      "style": 160,
+      "name": "아델 팀은 [System:Color name=tutorial ]공격에 특화[/System:Color]된 팀입니다\n강력한 아츠와 필살기를 적극적으로 사용해 적을 섬멸합시다\n단, 방어는 약한 만큼 [System:Color name=tutorial ]적의 어그로를 너무 모으지 않도록 주의[/System:Color]합시다"
+    },
+    {
+      "$id": 640,
+      "style": 160,
+      "name": "다운된 적에게 아델의 아츠 [System:Color name=tutorial ]소드 프릭[/System:Color]을 사용한 후\n히카리로 어태커 스위치하면 스매시까지 연결할 수 있습니다\n적극적으로 노려 큰 대미지와 회복 포트를 노려 봅시다"
+    },
+    {
+      "$id": 641,
+      "style": 160,
+      "name": "유고의 탤런트 아츠는 [System:Color name=tutorial ]HP를 소비해[/System:Color]\n일정 시간 동안 [System:Color name=tutorial ]적의 타깃을 자신에게 고정[/System:Color]시킵니다\n사용 직후에 [System:Color name=tutorial ]가드 시프트[/System:Color]로 방어를 보강하는 연계가 강력합니다"
+    },
+    {
+      "$id": 642,
+      "style": 160,
+      "name": "카구츠치의 탤런트 아츠는 [System:Color name=tutorial ]HP가 적을 때[/System:Color] 사용할 수 있습니다\n[System:Color name=tutorial ]적에게 대미지를 주면서 아군의 공격도 강화[/System:Color]합니다\n리스크가 없으니 HP가 적어지면 바로 사용합시다"
+    },
+    {
+      "$id": 643,
+      "style": 160,
+      "name": "와다츠미의 탤런트 아츠는 [System:Color name=tutorial ]파티가 위기에 빠졌을 때[/System:Color] 사용할 수 있습니다\n일정 시간 동안 [System:Color name=tutorial ]공격을 회피하면 강력한 카운터 공격[/System:Color]을 합니다\n회피 아츠 [System:Color name=tutorial ]파도 깨기[/System:Color]와 병용하는 것을 추천합니다"
+    },
+    {
+      "$id": 644,
+      "style": 160,
+      "name": "유고 팀은 [System:Color name=tutorial ]방어에 특화[/System:Color]된 팀입니다\n공격을 회피하거나 방어하는 것이 특기인 만큼\n[System:Color name=tutorial ]적의 어그로를 모아 다른 팀을 지키도록[/System:Color] 합시다"
+    },
+    {
+      "$id": 645,
+      "style": 160,
+      "name": "카구츠치는 적의 물리 방어를 저하시키는 서포터 아츠\n와다츠미는 어태커를 지원하는 서포터 아츠를 지니고 있습니다\n상황을 봐 가며 [System:Color name=tutorial ]적절하게 블레이드 스위치[/System:Color]를 해 줍시다"
+    },
+    {
+      "$id": 646,
+      "style": 160,
+      "name": "일단 서비스로 필살기 게이지를 채워 드릴 테니\n가장 강력한 Ⅳ 필살기를 사용해서\n라우라와 신의 연계를 구경해 봅시다"
+    },
+    {
+      "$id": 647,
+      "style": 160,
+      "name": "그럼 [System:Color name=tutorial ]속성구[/System:Color]와 [System:Color name=tutorial ]파티 게이지[/System:Color]를 서비스로 드릴 테니\n어서 [System:Color name=tutorial ][ML:icon icon=plus ][/System:Color]를 눌러서 [System:Color name=tutorial ]체인 어택[/System:Color]을 사용해 봅시다"
+    },
+    {
+      "$id": 648,
+      "style": 160,
+      "name": "그리고 잊어선 안 될 내용 하나\n방금 이 주변에 [System:Color name=tutorial ]tips가 추가되었습니다[/System:Color]라고 표시되었습니다"
+    },
+    {
+      "$id": 649,
+      "style": 160,
+      "name": "이 타이틀에서는 게임 중에 설명한 내용을\n[System:Color name=tutorial ]메뉴 내에서 확인[/System:Color]할 수 있습니다\n조금 전에 나온 표시는 [System:Color name=tutorial ]항목이 메뉴에 추가되었다[/System:Color]는 알림입니다"
+    },
+    {
+      "$id": 650,
+      "style": 160,
+      "name": "게임 플레이 중에 모르는 내용이 있으면\n[System:Color name=tutorial ]메인 메뉴[/System:Color]>[System:Color name=tutorial ]시스템[/System:Color]>[System:Color name=tutorial ]tips[/System:Color]를 열어\n게임 플레이 방법을 확인해 봅시다"
+    },
+    {
+      "$id": 651,
+      "style": 160,
+      "name": "블레이드의 [System:Color name=tutorial ]인연 링[/System:Color]은\n부여된 과제인 [System:Color name=tutorial ]인연 기프트[/System:Color]를 달성하면\n[System:Color name=tutorial ]팝업 [/System:Color]아나운스가 나옵니다"
+    },
+    {
+      "$id": 652,
+      "style": 160,
+      "name": "단, 그 시점에서\n인연 기프트가 해방되는 것은 아니므로\n아직은 성장한 것이 아닙니다"
+    },
+    {
+      "$id": 653,
+      "style": 160,
+      "name": "인연 기프트의 팝업이 표시되면\n[System:Color name=tutorial ]반드시 메뉴를 열어 능력이 해방된 것을 확인합시다\n[/System:Color]이렇게 해야 블레이드가 성장한 것이 됩니다"
+    },
+    {
+      "$id": 654,
+      "style": 160,
+      "name": "그리고 배틀 중이 아닐 때는 [System:Color name=tutorial ][ML:icon icon=ZL ][/System:Color]을 눌러서\n[System:Color name=tutorial ]조작할 팀을 변경[/System:Color]할 수 있습니다\n이쪽도 편리한 기능이니 모험에 활용해 보세요"
+    },
+    {
+      "$id": 655,
+      "style": 160,
+      "name": "여기서 잠시 [System:Color name=tutorial ]필살기 Ⅳ에 관한 주의[/System:Color]를 하나\n블레이드와 드라이버가 하나의 무기를 공유하는 전술은\n[System:Color name=tutorial ]라우라 일행의 독자적인 전술[/System:Color]입니다"
+    },
+    {
+      "$id": 656,
+      "style": 160,
+      "name": "따라서 라우라 팀을 조작하지 않을 때에는\n[System:Color name=tutorial ]배틀 중에 필살기 Ⅳ를 사용할 수 없습니다[/System:Color]"
+    },
+    {
+      "$id": 657,
+      "style": 160,
+      "name": "다만 앞으로 모험하는 도중\n아델이나 유고도 이 전술을 배우게 될 수 있습니다\n그때가 될 때까지 필살기 실력을 착실히 길러 둡시다"
+    },
+    {
+      "$id": 658,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]엘마[/System:Color]와 블레이드 인게이지를 할 수 있게 되었습니다\n현재 엘마는 [System:Color name=tutorial ]렉스[/System:Color]와 인게이지 중입니다"
+    },
+    {
+      "$id": 659,
+      "style": 160,
+      "name": "엘마는 [System:Color name=tutorial ]오버드라이브를 사용하지 않아도[/System:Color]\n[System:Color name=tutorial ]토라를 제외[/System:Color]한 드라이버라면 누구나 인게이지할 수 있습니다"
+    },
+    {
+      "$id": 660,
+      "style": 160,
+      "name": "전투 상황에 맞춰\n새로운 힘 [System:Color name=tutorial ]엘마[/System:Color]를 활용해 봅시다"
+    },
+    {
+      "$id": 661,
+      "style": 160,
+      "name": "단, [System:Color name=tutorial ]엘마[/System:Color]는 도전의 땅 바깥으로\n데려갈 수 없습니다"
+    },
+    {
+      "$id": 662,
+      "style": 160,
+      "name": "포털을 통해 [System:Color name=tutorial ]아르스트로 돌아가면[/System:Color]\n[System:Color name=tutorial ]엘마가 파티에서 이탈[/System:Color]하므로 주의해 주세요"
+    },
+    {
+      "$id": 663,
+      "style": 160,
+      "name": "노폰 대선인이 준비한 도전의 보수 중에는\n엘마를 아르스트로 데려갈 수 있는\n아이템이 있다는 소문도 있습니다"
+    },
+    {
+      "$id": 664,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]오버 클록 기어[/System:Color]는 엘마가 지닌 특수한 스킬입니다\n[System:Color name=tutorial ]엘마가 전투에 참가 중일 때[/System:Color] [System:Color name=tutorial ][ML:icon icon=R ]과 [ML:icon icon=minus ]를 동시 입력[/System:Color]하면 발동합니다\n발동에는 [System:Color name=tutorial ]파티 게이지의 눈금이 3칸 [/System:Color]필요합니다"
+    },
+    {
+      "$id": 665,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]오버 클록 기어 발동 중에 아츠를 히트[/System:Color]시키면\n화면 중앙에 표시되는 톱니바퀴에 [System:Color name=tutorial ]히트 수가 카운트[/System:Color]됩니다\n이것을 [System:Color name=tutorial ]기어 카운트[/System:Color]라고 하며 [System:Color name=tutorial ]필살기는 5배 [/System:Color]카운트됩니다"
+    },
+    {
+      "$id": 666,
+      "style": 160,
+      "name": "기어 카운트가 상승하면 [System:Color name=tutorial ]3종류의 보너스 효과[/System:Color]를 획득할 수 있습니다\n효과는 [System:Color name=tutorial ]대미지 상승[/System:Color], [System:Color name=tutorial ]리캐스트 상승[/System:Color], [System:Color name=tutorial ]적의 레지스트 저하[/System:Color]의 3종류이며\n카운트 수가 많을수록 효과가 상승합니다"
+    },
+    {
+      "$id": 667,
+      "style": 160,
+      "name": "오버 클록 기어의 [System:Color name=tutorial ]유효 시간[/System:Color]은\n발동 중에 파티 게이지의 눈금을 3칸 모으고\n[System:Color name=tutorial ]재발동하면 연장[/System:Color]됩니다"
+    },
+    {
+      "$id": 668,
+      "style": 160,
+      "name": "단, [System:Color name=tutorial ]발동 중에는 파티 게이지의 증가량이 감소[/System:Color]하며\n추가로 [System:Color name=tutorial ]체인 어택을 사용할 수 없습니다[/System:Color]\n디메리트를 고려해 효과적인 타이밍에 사용합시다"
+    },
+    {
+      "$id": 669,
+      "style": 160,
+      "name": "훌륭합니다!\n[System:Color name=tutorial ]엘마[/System:Color]를 아르스트로 데려갈 수 있게 되었습니다"
+    },
+    {
+      "$id": 670,
+      "style": 160,
+      "name": "마지막으로 하나\n사람들의 정보가 화합에 등록될 때\n화합 메뉴가 열리는데"
+    },
+    {
+      "$id": 671,
+      "style": 160,
+      "name": "이것은\n[System:Color name=tutorial ]메인 메뉴[/System:Color]>[System:Color name=tutorial ]시스템[/System:Color]>[System:Color name=tutorial ]옵션[/System:Color]>[System:Color name=tutorial ]게임 설정[/System:Color]의\n[System:Color name=tutorial ]화합 등록 연출 스킵[/System:Color]에서 무효로 바꿀 수 있습니다"
+    },
+    {
+      "$id": 672,
+      "style": 160,
+      "name": "화합을 빨리 모으고 싶은 분은\n적용해 보시면 좋을 것 같습니다"
+    },
+    {
+      "$id": 673,
+      "style": 160,
+      "name": "마을 사람들 중 [System:Color name=tutorial ]머리 위에 노란색 아이콘이 표시[/System:Color]된 사람은\n퀘스트를 클리어하지 않더라도 [System:Color name=tutorial ]말만 걸면\n화합을 획득[/System:Color]할 수 있습니다"
+    },
+    {
+      "$id": 674,
+      "style": 160,
+      "name": "화합 메뉴에서도 얼굴 아이콘 옆에\n노란색 아이콘이 표시된 사람을 선택해 [System:Color name=tutorial ][ML:icon icon=Y ][/System:Color]를 누르면\n컴퍼스상에 그 사람의 위치가 표시됩니다"
+    },
+    {
+      "$id": 675,
+      "style": 160,
+      "name": "새로운 동료의 새로운 힘을\n부디 아르스트에서도 활용해 주세요!"
+    },
+    {
+      "$id": 676,
+      "style": 160,
+      "name": "인게이지는 각 드라이버의\n[System:Color name=tutorial ]블레이드 인게이지 화면[/System:Color]에서 할 수 있습니다"
+    }
+  ]
+}

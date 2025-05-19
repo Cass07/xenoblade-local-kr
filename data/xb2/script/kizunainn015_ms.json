@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn015_msg0001",
+      "style": 84,
+      "name": "멜레프, 쪼매 할 얘기가 있는데"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn015_msg0002",
+      "style": 84,
+      "name": "무슨 얘기?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn015_msg0003",
+      "style": 84,
+      "name": "그건"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn015_msg0004",
+      "style": 84,
+      "name": "폰스 마임 상업구로 가서\n말하면 안 되까?"
+    },
+    {
+      "$id": 5,
+      "label": "kizunainn015_msg0005",
+      "style": 84,
+      "name": "그러도록 하지"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn079_msg0001",
+      "style": 84,
+      "name": "편히 주무셨습니까?\n한 건의 전언이 있습니다"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn079_msg0002",
+      "style": 84,
+      "name": "테오스피스티 신전에서 기다리겠다\n텐이를 데리고 와라\n라는 전언입니다"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn079_msg0003",
+      "style": 84,
+      "name": "남자분이셨는데\n금방 가 버리셔서\n성함도 알지 못합니다"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn079_msg0004",
+      "style": 84,
+      "name": "그래도 분명히 말씀 전해 드렸습니다!"
+    }
+  ]
+}

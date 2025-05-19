@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201206_msg0001",
+      "style": 84,
+      "name": "폰스 마임 상업구의 광장 위에 있는\n레스토랑에 가서\n라비안트에게 물어보면 돼"
+    },
+    {
+      "$id": 2,
+      "label": "qst201206_msg0002",
+      "style": 84,
+      "name": "고래맨 쿠키 만들기, 힘내라"
+    }
+  ]
+}

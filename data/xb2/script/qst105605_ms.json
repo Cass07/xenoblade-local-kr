@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst105605_msg001",
+      "style": 62,
+      "name": "俺はここで反乱分子を食い止める"
+    },
+    {
+      "$id": 2,
+      "label": "qst105605_msg101",
+      "style": 62,
+      "name": "目的は達成できた？\n何のことだ？"
+    },
+    {
+      "$id": 3,
+      "label": "qst105605_msg0001",
+      "style": 84,
+      "name": "ここは我々にお任せください！\n殿下は城内に散った反乱兵の\n鎮圧を！"
+    },
+    {
+      "$id": 4,
+      "label": "qst105605_msg0101",
+      "style": 84,
+      "name": "反乱兵はお任せください！\n殿下　お気をつけて"
+    },
+    {
+      "$id": 5,
+      "label": "qst105605_msg0102",
+      "style": 84,
+      "name": "目的は達成[ML:Dash ]　などと\n言っていたのが　気がかりです[ML:Dash ]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst006604_msg0001",
+      "style": 84,
+      "name": "우리 제대로 줄 서서\n배급품을 받았는데…"
+    },
+    {
+      "$id": 2,
+      "label": "qst006604_msg0002",
+      "style": 84,
+      "name": "어째서 저 아저씨는\n치사한 짓을 하는 거야?"
+    }
+  ]
+}

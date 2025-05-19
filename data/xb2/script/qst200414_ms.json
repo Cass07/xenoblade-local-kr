@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200414_msg0001",
+      "style": 84,
+      "name": "…엘레노아 씨?\n이럴 수가, 대체 왜…"
+    },
+    {
+      "$id": 2,
+      "label": "qst200414_msg0002",
+      "style": 84,
+      "name": "숨을 거둔 지\n꽤 시간이 지난 것 같군…"
+    },
+    {
+      "$id": 3,
+      "label": "qst200414_msg0003",
+      "style": 84,
+      "name": "말도 안 돼…\n누가 이런 짓을…?"
+    },
+    {
+      "$id": 4,
+      "label": "qst200414_msg0004",
+      "style": 84,
+      "name": "단서가 남아 있을지도 모른다\n자세히 조사해 보도록 하지"
+    }
+  ]
+}

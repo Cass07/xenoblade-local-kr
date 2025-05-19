@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 20,
+      "name": "캐릭터"
+    },
+    {
+      "$id": 2,
+      "style": 20,
+      "name": "스킵 트래블"
+    },
+    {
+      "$id": 3,
+      "style": 20,
+      "name": "아이템 리스트"
+    },
+    {
+      "$id": 4,
+      "style": 20,
+      "name": "퀘스트 로그"
+    },
+    {
+      "$id": 5,
+      "style": 20,
+      "name": "도감"
+    },
+    {
+      "$id": 6,
+      "style": 20,
+      "name": "블레이드 관리"
+    },
+    {
+      "$id": 7,
+      "style": 20,
+      "name": "용병단"
+    },
+    {
+      "$id": 8,
+      "style": 20,
+      "name": "시스템"
+    },
+    {
+      "$id": 9,
+      "style": 20,
+      "name": "대열 변경"
+    },
+    {
+      "$id": 10,
+      "style": 20,
+      "name": "Expansion Pass"
+    },
+    {
+      "$id": 11,
+      "style": 20,
+      "name": "알림"
+    },
+    {
+      "$id": 12,
+      "style": 20,
+      "name": "화합"
+    }
+  ]
+}

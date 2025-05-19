@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9300101_01_msg0001",
+      "style": 84,
+      "name": "이런 곳에서\n멈춰 있을 시간이 없다고!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk9300101_01_msg0002",
+      "style": 84,
+      "name": "무슨 뜻인지 넌 알지?"
+    }
+  ]
+}

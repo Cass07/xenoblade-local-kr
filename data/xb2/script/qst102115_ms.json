@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102115_msg001",
+      "style": 84,
+      "name": "델피나 씨의 지시로\n마을 출입을 제한하고 있습니다"
+    },
+    {
+      "$id": 2,
+      "label": "qst102115_msg002",
+      "style": 84,
+      "name": "여러분은 자유롭게 출입할 수 있도록\n허가가 내려온 상태입니다\n자, 가시죠"
+    }
+  ]
+}

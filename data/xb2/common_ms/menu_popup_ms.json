@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 16,
+      "name": "효과가 끝났다"
+    },
+    {
+      "$id": 2,
+      "style": 16,
+      "name": "보충되었다"
+    },
+    {
+      "$id": 3,
+      "style": 16,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 4,
+      "style": 16,
+      "name": "새로운 임무가 추가되었습니다"
+    },
+    {
+      "$id": 5,
+      "style": 16,
+      "name": "용병단이 귀환했습니다"
+    },
+    {
+      "$id": 6,
+      "style": 16,
+      "name": "용기 Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 7,
+      "style": 16,
+      "name": "성실 Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 8,
+      "style": 16,
+      "name": "자비 Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 9,
+      "style": 16,
+      "name": "정의 Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 10,
+      "style": 16,
+      "name": "발전도 Lv [ML:number digit=2 ]"
+    }
+  ]
+}

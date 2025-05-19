@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200303_msg0001",
+      "style": 84,
+      "name": "지카라오, 저기야!\n저기가 낙석 사고 현장이야"
+    },
+    {
+      "$id": 2,
+      "label": "qst200303_msg0002",
+      "style": 84,
+      "name": "저 안에 사람이 갇혀 있나?"
+    },
+    {
+      "$id": 3,
+      "label": "qst200303_msg0003",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]당장 구해 주겠다!"
+    },
+    {
+      "$id": 4,
+      "label": "qst200303_msg0005",
+      "style": 84,
+      "name": "[ML:Feeling ]우리도 서두르자"
+    },
+    {
+      "$id": 5,
+      "label": "qst200303_msg0006",
+      "style": 84,
+      "name": "내도 안다!"
+    }
+  ]
+}

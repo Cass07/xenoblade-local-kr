@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103616_msg0001",
+      "style": 84,
+      "name": "부탁드립니다!\n저를 보내 주십시오!"
+    },
+    {
+      "$id": 2,
+      "label": "qst103616_msg0002",
+      "style": 84,
+      "name": "저는 의심을 살 만한 짓은\n하나도 안 했습니다!"
+    },
+    {
+      "$id": 3,
+      "label": "qst103616_msg0003",
+      "style": 84,
+      "name": "큭…\n공무를 방해하는 것도\n엄연한 죄입니다!"
+    }
+  ]
+}

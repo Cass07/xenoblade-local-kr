@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "40890101",
+      "style": 82,
+      "name": "나는 미쿠마리!"
+    },
+    {
+      "$id": 2,
+      "label": "40890102",
+      "style": 82,
+      "name": "[ML:undisp ]"
+    },
+    {
+      "$id": 3,
+      "label": "40890103",
+      "style": 82,
+      "name": "이 창으로 내 뜻을 밀고 나갈 거야!"
+    }
+  ]
+}

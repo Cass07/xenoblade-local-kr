@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk01000803_msg0001",
+      "style": 84,
+      "name": "마티스가 가려던 학교가 없어졌대…"
+    },
+    {
+      "$id": 2,
+      "label": "tlk01000803_msg0002",
+      "style": 84,
+      "name": "나도 공부해서 가려고 했는데…"
+    },
+    {
+      "$id": 3,
+      "label": "tlk01000803_msg0003",
+      "style": 84,
+      "name": "다른 학교는 없을까?"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201218_msg0001",
+      "style": 84,
+      "name": "고래맨 쿠키 줄 거야?"
+    },
+    {
+      "$id": 2,
+      "label": "qst201218_msg0002",
+      "style": 84,
+      "name": "나 다이어트 중인데"
+    },
+    {
+      "$id": 3,
+      "label": "qst201218_msg1001",
+      "style": 84,
+      "name": "나 다이어트 관둘래!\n아까 그 고래맨 쿠키\n더 줘!"
+    }
+  ]
+}

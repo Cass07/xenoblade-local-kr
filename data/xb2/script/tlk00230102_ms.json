@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00230102_msg0001",
+      "style": 84,
+      "name": "콜록! 콜록!\n빠, 빨리… 콜록!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00230102_msg0002",
+      "style": 84,
+      "name": "나는 신경 쓰지 말고…\n이온을 부탁한다…\n콜록! 콜록!"
+    }
+  ]
+}

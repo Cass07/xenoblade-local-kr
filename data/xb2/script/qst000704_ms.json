@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst000704_msg0001",
+      "style": 84,
+      "name": "젠장!\n루키니에게 졌어!"
+    },
+    {
+      "$id": 2,
+      "label": "qst000704_msg0002",
+      "style": 84,
+      "name": "진짜 가져올 줄이야!"
+    },
+    {
+      "$id": 3,
+      "label": "qst000704_msg0003",
+      "style": 84,
+      "name": "하지만 순백의 풍뎅이를\n직접 볼 수 있다니…"
+    },
+    {
+      "$id": 4,
+      "label": "qst000704_msg0004",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]감동이야~~~!"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200407_msg0001",
+      "style": 84,
+      "name": "으음… 미안하지만\n그건 내가 모르는 얘기 같아"
+    },
+    {
+      "$id": 2,
+      "label": "qst200407_msg0002",
+      "style": 84,
+      "name": "그보다 물건 좀 보겠어?\n행운을 가져다주는 항아리가 들어왔는데"
+    },
+    {
+      "$id": 3,
+      "label": "qst200407_msg0101",
+      "style": 84,
+      "name": "우리 집에 가서 한번 볼래?"
+    }
+  ]
+}

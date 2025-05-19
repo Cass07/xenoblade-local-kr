@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst105404_msg0001",
+      "style": 165,
+      "name": "카타스트로프 퍼즐을 대좌에 놔둘까?"
+    },
+    {
+      "$id": 2,
+      "label": "qst105404_msg0002",
+      "style": 165,
+      "name": "놔둔다"
+    },
+    {
+      "$id": 3,
+      "label": "qst105404_msg0003",
+      "style": 165,
+      "name": "그만둔다"
+    }
+  ]
+}

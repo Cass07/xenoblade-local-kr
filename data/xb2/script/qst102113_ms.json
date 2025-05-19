@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102113_msg001",
+      "style": 84,
+      "name": "허가를 받지 않은 자는\n지나갈 수 없습니다!"
+    },
+    {
+      "$id": 2,
+      "label": "qst102113_msg002",
+      "style": 84,
+      "name": "여러분들이라면\n델피나 씨가 허가를 내리셨습니다\n지나가십시오"
+    }
+  ]
+}

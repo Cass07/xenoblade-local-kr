@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9300801_02_msg0001",
+      "style": 84,
+      "name": "짐은 왕국을\n재건해야만 한다"
+    },
+    {
+      "$id": 2,
+      "label": "tlk9300801_02_msg0002",
+      "style": 84,
+      "name": "이런 곳에서\n한가하게 보낼 시간은 없다"
+    }
+  ]
+}

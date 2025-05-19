@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9300701_01_msg0001",
+      "style": 84,
+      "name": "여기에는\n더 이상 먹고 싶은 게 없어뽀"
+    },
+    {
+      "$id": 2,
+      "label": "tlk9300701_01_msg0002",
+      "style": 84,
+      "name": "어서 새로운 음식을\n찾으러 가고 싶어뽀"
+    }
+  ]
+}

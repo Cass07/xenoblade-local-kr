@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst502001_msg0001",
+      "style": 84,
+      "name": "나는 무능력해…"
+    },
+    {
+      "$id": 2,
+      "label": "qst502001_msg0002",
+      "style": 84,
+      "name": "번개의 힘을 가졌는데도 약해 빠졌고\n힘을 제대로 다루지도 못해…"
+    },
+    {
+      "$id": 3,
+      "label": "qst502001_msg0003",
+      "style": 84,
+      "name": "대체 어떻게 해야 하지…"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200229_msg0001",
+      "style": 84,
+      "name": "다행히 안 늦었군!"
+    },
+    {
+      "$id": 2,
+      "label": "qst200229_msg0002",
+      "style": 84,
+      "name": "고맙구나"
+    },
+    {
+      "$id": 3,
+      "label": "qst200229_msg0003",
+      "style": 84,
+      "name": "신경 쓰지 마!\n빨리 안전한 곳으로 피해!"
+    }
+  ]
+}

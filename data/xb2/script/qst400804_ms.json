@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk400804_msg0001",
+      "style": 84,
+      "name": "미안, 못 봤어…\n일에 열중하고 있었거든"
+    },
+    {
+      "$id": 2,
+      "label": "tlk400804_msg0002",
+      "style": 84,
+      "name": "하지만 이쪽으로 온 게 확실하다면\n다른 사람에게 물어보는 게 어때?"
+    }
+  ]
+}

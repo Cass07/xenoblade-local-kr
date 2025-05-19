@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9001201_01_msg0001",
+      "style": 84,
+      "name": "여기서는 제 힘을\n발휘할 수 없겠군요…"
+    },
+    {
+      "$id": 2,
+      "label": "tlk9001201_01_msg0002",
+      "style": 84,
+      "name": "이 싸움을 끝내는 데\n제 힘도 쓰이면 좋겠습니다"
+    }
+  ]
+}

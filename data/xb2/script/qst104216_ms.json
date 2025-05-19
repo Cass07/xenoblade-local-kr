@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104216_msg0001",
+      "style": 84,
+      "name": "실내에서 수업하기보단\n현장 경험을 해 봐야지"
+    },
+    {
+      "$id": 2,
+      "label": "qst104216_msg0002",
+      "style": 84,
+      "name": "실제로 해 봐야 느는 법이라고"
+    }
+  ]
+}

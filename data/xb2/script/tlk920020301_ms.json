@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9200203_01_msg0001",
+      "style": 84,
+      "name": "느긋하게 있을 시간도 필요하지"
+    },
+    {
+      "$id": 2,
+      "label": "tlk9200203_01_msg0002",
+      "style": 84,
+      "name": "아! 부르지 말라고 한 얘긴 아니야\n언제든 힘이 되어 줄게"
+    }
+  ]
+}

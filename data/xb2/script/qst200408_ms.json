@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200408_msg0001",
+      "style": 84,
+      "name": "고리대금업자?"
+    },
+    {
+      "$id": 2,
+      "label": "qst200408_msg0002",
+      "style": 84,
+      "name": "글쎄\n나는 돈 같은 거 안 빌리니까"
+    },
+    {
+      "$id": 3,
+      "label": "qst200408_msg0003",
+      "style": 84,
+      "name": "미안하지만 시간이 없어\n탐문은 다른 녀석에게 해"
+    }
+  ]
+}

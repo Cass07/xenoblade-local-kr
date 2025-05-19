@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201216_msg0001",
+      "style": 84,
+      "name": "이상한 얼굴을 한 쿠키네\n서민의 음식인가…?"
+    },
+    {
+      "$id": 2,
+      "label": "qst201216_msg0002",
+      "style": 84,
+      "name": "과연 내 입맛을\n만족시킬 수 있을까?"
+    },
+    {
+      "$id": 3,
+      "label": "qst201216_msg1001",
+      "style": 84,
+      "name": "이건?!\n이 과자 어디서 팔아?!\n다 사 버리고 싶어!"
+    }
+  ]
+}

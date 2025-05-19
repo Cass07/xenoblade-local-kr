@@ -1,0 +1,576 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk074_msg0001",
+      "style": 84,
+      "name": "여기야"
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk074_msg0002",
+      "style": 84,
+      "name": "어서 와모\n뭐 찾고 있는 물건이 있어모?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk074_msg0003",
+      "style": 84,
+      "name": "응, 고문서나 역사책을 볼까 하는데\n최근에 입고되었다고 들었어"
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk074_msg0004",
+      "style": 84,
+      "name": "손님은 소식이 참 빠르네모~"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk074_msg0005",
+      "style": 84,
+      "name": "다른 가게에서는 구하기 힘든\n희귀한 책들이 잔뜩 입고됐거든모"
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk074_msg0006",
+      "style": 84,
+      "name": "오~ 그렇구나\n기대해도 되지?"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk074_msg0007",
+      "style": 84,
+      "name": "천천히 살펴봐모\n틀림없이 만족할 거야모~"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk074_msg0008",
+      "style": 84,
+      "name": "물론 그래야지\n자, 뭐가 있는지 한번 볼까…"
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk074_msg0009",
+      "style": 84,
+      "name": "오오… 책뿐만 아니라\n석판, 두루마리도 있네"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk074_msg0010",
+      "style": 84,
+      "name": "오, 이건!\n수페르비아 건축의 역사인가"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk074_msg0011",
+      "style": 84,
+      "name": "이런 것도 있구나\n좋아, 이거 재밌겠네"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk074_msg0012",
+      "style": 84,
+      "name": "페라라\n부탁했던 건 구했나모?"
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk074_msg0014",
+      "style": 84,
+      "name": "어서 와모! 항상 고마워모!"
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk074_msg0015",
+      "style": 84,
+      "name": "얼마 전에 입고됐어모\n음…"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk074_msg0016",
+      "style": 84,
+      "name": "아, 그거 그거\n저 아가씨가 갖고 있는 책이 그거야모"
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk074_msg0017",
+      "style": 84,
+      "name": "응?"
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk074_msg0018",
+      "style": 84,
+      "name": "저기, 잠시 괜찮을까모?"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk074_msg0019",
+      "style": 84,
+      "name": "그건 내가 찾던 책이야모\n내게 줬으면 해모"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk074_msg0020",
+      "style": 84,
+      "name": "어? 아니\n이건 내가 읽을 건데"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk074_msg0021",
+      "style": 84,
+      "name": "아니, 미안하지만모\n그건 내가 먼저 부탁한 거거든모"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk074_msg0022",
+      "style": 84,
+      "name": "어서 이리 내모"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk074_msg0023",
+      "style": 84,
+      "name": "싫다니까\n내가 먼저 집었다고"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk074_msg0024",
+      "style": 84,
+      "name": "머리가 나쁜 사람이네모\n그건 내 거라고 했잖아모"
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk074_msg0025",
+      "style": 84,
+      "name": "누구 머리가 나쁘다고?"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk074_msg0026",
+      "style": 84,
+      "name": "내가 누군지는 알고\n그런 말을 하는 거야?"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk074_msg0027",
+      "style": 84,
+      "name": "네가 누구건 간에\n난 모르고 관심도 없어모"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk074_msg0028",
+      "style": 84,
+      "name": "됐으니까 빨리 책을 달라고모!"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk074_msg0029",
+      "style": 84,
+      "name": "하여간 말귀를 못 알아듣는 노폰이네\n좋아, 책을 넘겨줄게"
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk074_msg0030",
+      "style": 84,
+      "name": "하여간 처음부터 순순히 넘기면 됐잖아모…"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk074_msg0031",
+      "style": 84,
+      "name": "단! 나와 지식 배틀을 해서\n이겨야 하지만 말이야!"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk074_msg0032",
+      "style": 84,
+      "name": "호오…\n나와 지식을 겨뤄 보려고모?"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk074_msg0033",
+      "style": 84,
+      "name": "재밌네모\n그대로 되갚아 주겠어모!"
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk074_msg0101",
+      "style": 84,
+      "name": "그래서 주제는 무엇으로 할까?"
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk074_msg0102",
+      "style": 84,
+      "name": "공평한 시합을 위해\n저 드라이버에게 정해 달라고 해야지모"
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk074_msg0034",
+      "style": 165,
+      "name": "지식 배틀의 주제는 어떤 걸로 할까?"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk074_msg0035",
+      "style": 164,
+      "name": "아바리티아의 역사에 대해서는 어떨까?"
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk074_msg0036",
+      "style": 164,
+      "name": "인비디아의 역사에 대해서는 어떨까?"
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk074_msg0103",
+      "style": 165,
+      "name": "지식 배틀의 주제는 어떤 걸로 할까?"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk074_msg0104",
+      "style": 164,
+      "name": "아바리티아의 역사로 하자"
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk074_msg0105",
+      "style": 164,
+      "name": "인비디아의 역사로 하자"
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk074_msg0106",
+      "style": 165,
+      "name": "지식 배틀의 주제는 무엇으로 하지?"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk074_msg0107",
+      "style": 164,
+      "name": "아바리티아의 역사에 대해서는 어떻겠나?"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk074_msg0108",
+      "style": 164,
+      "name": "인비디아의 역사에 대해서는 어떻겠나?"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk074_msg0109",
+      "style": 165,
+      "name": "지식 배틀의 주제는 뭐로 하지?"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk074_msg0110",
+      "style": 164,
+      "name": "아바리티아의 역사가 좋겠구마"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk074_msg0111",
+      "style": 164,
+      "name": "인비디아의 역사가 좋겠구마"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk074_msg0201",
+      "style": 84,
+      "name": "그래, 좋아!\n그럼 시작하자"
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk074_msg0037",
+      "style": 84,
+      "name": "이 아바리티아의 시조는\n노폰의 상인이라는 말이 있는데"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk074_msg0038",
+      "style": 84,
+      "name": "물론 그 정도는 상식이지모\n게다가 그 노폰은 드라이버였다고모"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk074_msg0039",
+      "style": 84,
+      "name": "그러면 그 노폰 드라이버가…"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk074_msg0040",
+      "style": 84,
+      "name": "자신의 블레이드를 싸움의 도구가 아닌\n장사의 도구로 삼았던 건 알고 있으려나?"
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk074_msg0041",
+      "style": 84,
+      "name": "그는 전쟁으로 혼란했던 시절에\n블레이드의 능력을 최대한 활용해서"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk074_msg0042",
+      "style": 84,
+      "name": "분쟁이나 재해로 위험한 지역에서 적극적으로\n다양한 교역을 펼쳐 부를 얻었다고 하지모"
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk074_msg0043",
+      "style": 84,
+      "name": "게다가 그 노폰은…"
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk074_msg0044",
+      "style": 84,
+      "name": "캡틴 노포폰의\n후예로도 알려져 있지"
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk074_msg0045",
+      "style": 84,
+      "name": "캡틴 노포폰은\n모든 운해를 통합해"
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk074_msg0047",
+      "style": 84,
+      "name": "이후 노폰 상회를 만든 남자라\n불리고 있지모"
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk074_msg0202",
+      "style": 84,
+      "name": "그런 위대한 남자의 후예니까"
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk074_msg0203",
+      "style": 84,
+      "name": "아바리티아 상회를 만들었다고 해도\n전혀 이상한 일이 아니지"
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk074_msg0301",
+      "style": 84,
+      "name": "좋다\n그럼 시작하지모!"
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk074_msg0048",
+      "style": 84,
+      "name": "인비디아는 현재"
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk074_msg0049",
+      "style": 84,
+      "name": "셀로스아 공국을 중심으로 한\n여섯 대귀족이 통치하고 있다지"
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk074_msg0050",
+      "style": 84,
+      "name": "하지만 사실 옛날에는\n아홉 대귀족이 통치하고 있었지모"
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk074_msg0051",
+      "style": 84,
+      "name": "그중 셀로스아 공국과 견줄 만한 힘을\n지니고 있던 엔비아 공국의 귀족이\n존재했었고모"
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk074_msg0052",
+      "style": 84,
+      "name": "하지만 그 엔비아 공국의 우두머리였던\n한네스가 원인 모를 돌연사를 하고"
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk074_msg0053",
+      "style": 84,
+      "name": "그 후 장남 지아니가 뒤를 잇지모\n몇 년 후 병으로 죽지만모"
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk074_msg0054",
+      "style": 84,
+      "name": "심지어 형 대신 동생 필이 가문을 잇지만\n20세가 되기 전에 똑같이 병으로 죽어"
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk074_msg0055",
+      "style": 84,
+      "name": "이 때문에 엔비아 공국은 몰락하며…"
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk074_msg0056",
+      "style": 84,
+      "name": "셀로스아 공이 다른 대귀족들을 평정해\n인비디아 왕으로 불리게 되었지모"
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk074_msg0057",
+      "style": 84,
+      "name": "이 엔비아 계승자의 죽음은\n아직도 의문스러운 점이 많아"
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk074_msg0058",
+      "style": 84,
+      "name": "아직도 다른 대귀족들의 모략이라고\n떠드는 자들도 있지모"
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk074_msg0059",
+      "style": 84,
+      "name": "하지만 이야기는 여기서 끝나지 않아"
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk074_msg0060",
+      "style": 84,
+      "name": "그래, 엔비아 공국의 우두머리였던\n한네스는 생전에 굴라인 사이에서\n사생아를 두고 있었어모"
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk074_msg0061",
+      "style": 84,
+      "name": "그리고 그 아이의 후손들이\n굴라에 존재한다는 말이 있지"
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk074_msg0062",
+      "style": 84,
+      "name": "만약 그게 사실이라면"
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk074_msg0063",
+      "style": 84,
+      "name": "현재 인비디아 왕실의 존속과도 관련되는\n큰 사건이야모"
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk074_msg0064",
+      "style": 84,
+      "name": "흠, 대단한데?\n학자라 자칭할 만해"
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk074_msg0065",
+      "style": 84,
+      "name": "아냐 아냐\n너도 대단한걸모"
+    },
+    {
+      "$id": 79,
+      "label": "kizunatalk074_msg0066",
+      "style": 84,
+      "name": "내 이야기를\n따라올 수 있는 사람이 몇 안 되거든모"
+    },
+    {
+      "$id": 80,
+      "label": "kizunatalk074_msg0067",
+      "style": 84,
+      "name": "이 승부는 무승부려나?"
+    },
+    {
+      "$id": 81,
+      "label": "kizunatalk074_msg0068",
+      "style": 84,
+      "name": "그럼 그럼모\n서로 우열을 가릴 수 없는\n싸움이었어모"
+    },
+    {
+      "$id": 82,
+      "label": "kizunatalk074_msg0069",
+      "style": 84,
+      "name": "저기…\n그래서 둘 중에\n누가 책을 살 거야모?"
+    },
+    {
+      "$id": 83,
+      "label": "kizunatalk074_msg0070",
+      "style": 84,
+      "name": "그 책은 네게 줄게모"
+    },
+    {
+      "$id": 84,
+      "label": "kizunatalk074_msg0071",
+      "style": 84,
+      "name": "응?"
+    },
+    {
+      "$id": 85,
+      "label": "kizunatalk074_msg0072",
+      "style": 84,
+      "name": "네게 읽힌다면\n틀림없이 그 책도 기뻐할 거야모"
+    },
+    {
+      "$id": 86,
+      "label": "kizunatalk074_msg0073",
+      "style": 84,
+      "name": "고마워\n소중히 간직할게"
+    },
+    {
+      "$id": 87,
+      "label": "kizunatalk074_msg0074",
+      "style": 84,
+      "name": "또 기회가 되면\n열띤 논쟁을 해 보고 싶네모"
+    },
+    {
+      "$id": 88,
+      "label": "kizunatalk074_msg0075",
+      "style": 84,
+      "name": "응, 그때까지\n더 많은 지식을 익혀 둘게"
+    },
+    {
+      "$id": 89,
+      "label": "kizunatalk074_msg0076",
+      "style": 84,
+      "name": "그럼 이 책을 주겠어?"
+    },
+    {
+      "$id": 90,
+      "label": "kizunatalk074_msg0077",
+      "style": 84,
+      "name": "사 줘서 고마워모!\n7만G야모"
+    },
+    {
+      "$id": 91,
+      "label": "kizunatalk074_msg0078",
+      "style": 84,
+      "name": "호오… 의외로 싸네"
+    },
+    {
+      "$id": 92,
+      "label": "kizunatalk074_msg0079",
+      "style": 84,
+      "name": "앗"
+    },
+    {
+      "$id": 93,
+      "label": "kizunatalk074_msg0401",
+      "style": 84,
+      "name": "…돈을 안 가져왔네"
+    }
+  ]
+}

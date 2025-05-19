@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104220_msg0001",
+      "style": 84,
+      "name": "역사란\n과거의 성공과 실패의 반복일세"
+    },
+    {
+      "$id": 2,
+      "label": "qst104220_msg0002",
+      "style": 84,
+      "name": "미래에 시련이 닥칠 때\n과거가 답을 가르쳐 준다는 걸\n알려 주도록 노력하겠네"
+    }
+  ]
+}

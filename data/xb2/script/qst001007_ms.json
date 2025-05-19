@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst001007_msg001",
+      "style": 84,
+      "name": "고마워"
+    },
+    {
+      "$id": 2,
+      "label": "qst001007_msg002",
+      "style": 84,
+      "name": "덕분에\n다들 무사히 돌아왔어"
+    },
+    {
+      "$id": 3,
+      "label": "qst001007_msg003",
+      "style": 84,
+      "name": "고르사 씨가 감사 인사를 하고 싶대\n이야기를 들으러 가 봐"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk0001019_msg0001",
+      "style": 84,
+      "name": "크크크…\n드라이버도 아닌데 메츠의 공격을\n피하다니 제법이군"
+    },
+    {
+      "$id": 2,
+      "label": "tlk0001019_msg0002",
+      "style": 84,
+      "name": "앞으로가 기대돼…"
+    },
+    {
+      "$id": 3,
+      "label": "tlk0001019_msg0003",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ]칭찬하는 건가?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk0001019_msg0004",
+      "style": 84,
+      "name": "[ML:Feeling ]그거 고마운걸"
+    }
+  ]
+}

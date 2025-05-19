@@ -1,0 +1,29 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 15,
+      "name": "분노"
+    },
+    {
+      "$id": 2,
+      "style": 15,
+      "name": "블레이드 콤보 봉쇄"
+    },
+    {
+      "$id": 3,
+      "style": 15,
+      "name": "누전"
+    }
+  ]
+}

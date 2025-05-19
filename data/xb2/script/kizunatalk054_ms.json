@@ -1,0 +1,498 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk054_msg0001",
+      "style": 84,
+      "name": "이봐 주인장\n이 가게의 물건은 여기 있는 게 다인가?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk054_msg0002",
+      "style": 84,
+      "name": "그렇지\n여기 있는 게 전부야"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk054_msg0003",
+      "style": 84,
+      "name": "그런가?\n이 가게에도 만족스러운 물건은 없나…"
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk054_msg0004",
+      "style": 84,
+      "name": "라고우, 또 무기를 찾아다니는 거야?"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk054_msg0005",
+      "style": 84,
+      "name": "그대와 같은 취급은 말아 줬으면 좋겠군"
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk054_msg0006",
+      "style": 84,
+      "name": "나는 무절제하게 무기를\n사 모으지는 않으니 말이야"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk054_msg0007",
+      "style": 84,
+      "name": "나도 절제할 줄은 알아"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk054_msg0008",
+      "style": 84,
+      "name": "그대는 변덕이 과하다\n우선 사용할 무기를 추릴 필요가 있겠지"
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk054_msg0009",
+      "style": 84,
+      "name": "시끄러워"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk054_msg0010",
+      "style": 84,
+      "name": "팔 네 개로 무기를 휘두르는\n네가 할 말이야?"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk054_msg0011",
+      "style": 84,
+      "name": "흠…"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk054_msg0012",
+      "style": 165,
+      "name": "라고우에게 물어보자"
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk054_msg0013",
+      "style": 164,
+      "name": "어떤 무기를 가장 좋아해?"
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk054_msg0014",
+      "style": 164,
+      "name": "원거리 무기는 안 써?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk054_msg0015",
+      "style": 165,
+      "name": "라고우에게 물어보자"
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk054_msg0016",
+      "style": 164,
+      "name": "어떤 무기를 가장 좋아해?"
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk054_msg0017",
+      "style": 164,
+      "name": "원거리 무기는 안 써?"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk054_msg0018",
+      "style": 165,
+      "name": "라고우에게 질문하자"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk054_msg0019",
+      "style": 164,
+      "name": "어떤 무기를 선호하지?"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk054_msg0020",
+      "style": 164,
+      "name": "원거리 무기는 안 쓰나?"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk054_msg0021",
+      "style": 165,
+      "name": "라고우에게 물어보자"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk054_msg0022",
+      "style": 164,
+      "name": "특히 좋아하는 무기 있나?"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk054_msg0023",
+      "style": 164,
+      "name": "원거리 무기는 안 쓰나?"
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk054_msg0101",
+      "style": 84,
+      "name": "내가 좋아하는 무기라…"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk054_msg0102",
+      "style": 84,
+      "name": "흠…\n특별히 없다"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk054_msg0103",
+      "style": 84,
+      "name": "무예에 뜻을 둔 자가 무기를 골라서는\n제 몫을 다한다 볼 수 없기 때문이지"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk054_msg0104",
+      "style": 84,
+      "name": "창, 도끼, 검, 망치…"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk054_msg0105",
+      "style": 84,
+      "name": "모두 적절히 잘 다룰 수 있어야\n진정한 무인이라고 할 수 있다"
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk054_msg0106",
+      "style": 84,
+      "name": "각각의 무기에는\n장점과 단점이 있지"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk054_msg0107",
+      "style": 84,
+      "name": "내 사도류의 진수는 그 무기의 장단점을\n서로 보완해서 싸우는 데에 있지"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk054_msg0108",
+      "style": 84,
+      "name": "서로 다른 네 가지 무기를 다루다니…"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk054_msg0109",
+      "style": 84,
+      "name": "역시 무예를 통달하려는 라고우다워\n평범한 사람은 감히 따라 하지 못할 거야"
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk054_msg0110",
+      "style": 84,
+      "name": "네 가지 무기를 모두 다루는구나"
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk054_msg0111",
+      "style": 84,
+      "name": "역시 무예를 통달하려는 라고우다워\n평범한 사람은 감히 따라 하지 못하겠어"
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk054_msg0112",
+      "style": 84,
+      "name": "네 가지 무기를 모두 다루다니"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk054_msg0113",
+      "style": 84,
+      "name": "역시 무예를 통달하려는 라고우답군\n평범한 사람은 감히 따라 하지 못하겠지"
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk054_msg0114",
+      "style": 84,
+      "name": "네 가지의 무기를 모두 다룬다꼬?"
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk054_msg0115",
+      "style": 84,
+      "name": "역시 무예를 통달하려는 라고우답데이\n평범한 사람은 따라 할 엄두도 못 내겠다"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk054_msg0116",
+      "style": 84,
+      "name": "물론 하루아침에 습득할 수 있는 것은 아니다"
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk054_msg0117",
+      "style": 84,
+      "name": "하지만 자고로 사람은 마음만 먹으면\n불가능이란 없다"
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk054_msg0118",
+      "style": 84,
+      "name": "내가 몸소 가르쳐 주지"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk054_msg0119",
+      "style": 84,
+      "name": "하아…"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk054_msg0120",
+      "style": 84,
+      "name": "이런 일에 휘말리고\n너도 참 고생이 많아"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk054_msg0121",
+      "style": 84,
+      "name": "무슨 말이지, 벤케이\n그대도 함께 동참해야 하거늘"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk054_msg0122",
+      "style": 84,
+      "name": "뭐?\n왜 갑자기?!"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk054_msg0123",
+      "style": 84,
+      "name": "쓸데없는 말은 그만!"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk054_msg0124",
+      "style": 84,
+      "name": "훈련은 이미 시작됐다\n자, 어서 채비하도록"
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk054_msg0125",
+      "style": 84,
+      "name": "훈련한다고 팔이 늘어나?!\n나는 절대 안 해!"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk054_msg0201",
+      "style": 84,
+      "name": "원거리 무기는 주군께 맡겼을 텐데"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk054_msg0202",
+      "style": 84,
+      "name": "이 녀석은 지금\n그걸 묻는 게 아니잖아"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk054_msg0203",
+      "style": 84,
+      "name": "원거리 무기를 넘겨주면서\n정작 왜 라고우는 안 쓰는지\n묻고 싶은 거라고"
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk054_msg0204",
+      "style": 84,
+      "name": "네 무기니까\n네가 직접 써 봐라 그거야"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk054_msg0205",
+      "style": 84,
+      "name": "……"
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk054_msg0206",
+      "style": 84,
+      "name": "성에 차지 않는다"
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk054_msg0207",
+      "style": 84,
+      "name": "역시 무인이기에\n나는 정정당당히 무술 실력을 겨루고 싶다"
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk054_msg0208",
+      "style": 84,
+      "name": "거참 대단한 이유네"
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk054_msg0209",
+      "style": 84,
+      "name": "넌 어떻게 생각해?"
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk054_msg0210",
+      "style": 84,
+      "name": "라고우다운걸"
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk054_msg0211",
+      "style": 84,
+      "name": "일대일로 맞붙어서\n정정당당하게 승부를 내고 싶은 거겠지"
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk054_msg0212",
+      "style": 84,
+      "name": "라고우답네"
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk054_msg0213",
+      "style": 84,
+      "name": "일대일로 맞붙어서\n정정당당하게 승부를 내고 싶은 거구나"
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk054_msg0214",
+      "style": 84,
+      "name": "라고우답다고 해야겠군"
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk054_msg0215",
+      "style": 84,
+      "name": "일대일로 맞붙어서\n정정당당하게 승부를 내고 싶다니"
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk054_msg0216",
+      "style": 84,
+      "name": "역시 라고우답네"
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk054_msg0217",
+      "style": 84,
+      "name": "일대일로 맞붙어가\n정정당당하게 승부를 내고 싶다 그거제"
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk054_msg0218",
+      "style": 84,
+      "name": "역시 내 주군\n내 마음을 잘 알고 있군"
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk054_msg0219",
+      "style": 84,
+      "name": "그거면 끝이야?"
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk054_msg0220",
+      "style": 84,
+      "name": "애초에 팔이 네 개나 있는 주제에\n정정당당은 무슨?"
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk054_msg0221",
+      "style": 84,
+      "name": "흠, 하긴 그렇군"
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk054_msg0222",
+      "style": 84,
+      "name": "하지만 팔이 많다고 해서\n능력까지 뛰어나다곤 할 수 없지"
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk054_msg0223",
+      "style": 84,
+      "name": "네 개라도 제대로 쓰지 못하면\n한 자루의 칼조차 이길 수 없다"
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk054_msg0224",
+      "style": 84,
+      "name": "반대로 기술에 통달하면\n무기 없이도 대군을 쓰러뜨릴 수 있지"
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk054_msg0225",
+      "style": 84,
+      "name": "얼마나 자신을 단련하는가\n모든 것은 그 하나로 집약할 수 있다"
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk054_msg0226",
+      "style": 84,
+      "name": "그래서 무예란\n심오하고 흥미롭지"
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk054_msg0227",
+      "style": 84,
+      "name": "응응!"
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk054_msg0228",
+      "style": 84,
+      "name": "응응!"
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk054_msg0229",
+      "style": 84,
+      "name": "맞는 말이다"
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk054_msg0230",
+      "style": 84,
+      "name": "그체"
+    },
+    {
+      "$id": 79,
+      "label": "kizunatalk054_msg0231",
+      "style": 84,
+      "name": "아니!\n너도 납득이 된다고?"
+    },
+    {
+      "$id": 80,
+      "label": "kizunatalk054_msg0232",
+      "style": 84,
+      "name": "이 말 같지도 않은 게?"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9301201_01_msg0001",
+      "style": 84,
+      "name": "전 저만의 정의를 세우겠습니다!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk9301201_01_msg0002",
+      "style": 84,
+      "name": "그러려면 당신의\n협력이 필요합니다"
+    }
+  ]
+}

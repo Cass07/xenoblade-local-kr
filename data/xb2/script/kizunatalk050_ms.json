@@ -1,0 +1,588 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk050_msg0001",
+      "style": 84,
+      "name": "오, 좋은 장작이 많이 있네"
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk050_msg0002",
+      "style": 84,
+      "name": "이걸 쓰면 밥을\n맛있게 지을 수 있겠는데?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk050_msg0003",
+      "style": 84,
+      "name": "밥을 지어?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk050_msg0004",
+      "style": 84,
+      "name": "그래"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk050_msg0005",
+      "style": 84,
+      "name": "그러려고 불을 피워서 취사가 가능한\n장소를 알려 달라 한 거지"
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk050_msg0006",
+      "style": 84,
+      "name": "밥을 지어서 어쩌려고?"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk050_msg0007",
+      "style": 84,
+      "name": "밥을 지어서 어쩌게?"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk050_msg0008",
+      "style": 84,
+      "name": "밥을 지어서 어쩔 셈이지?"
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk050_msg0009",
+      "style": 84,
+      "name": "밥을 지어서 우짤라고?"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk050_msg0010",
+      "style": 84,
+      "name": "어쩌긴? 뻔한 걸 묻네"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk050_msg0011",
+      "style": 84,
+      "name": "먹어야지"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk050_msg0012",
+      "style": 84,
+      "name": "야, 요시츠네\n준비해 왔어?"
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk050_msg0013",
+      "style": 84,
+      "name": "네네, 도구도 조미료도 각본도\n전부 다 있어요"
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk050_msg0014",
+      "style": 84,
+      "name": "응? 요시츠네가 밥을 짓는 거야?\n그럼 벤케이는?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk050_msg0015",
+      "style": 84,
+      "name": "흠흠…\n나는 먹는 거 전문!"
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk050_msg0016",
+      "style": 84,
+      "name": "아… 그렇구나\n뭐… 그럼 그렇지"
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk050_msg0017",
+      "style": 84,
+      "name": "제 동생한테 요리 솜씨 같은 건\n기대하지 않는 게 좋아요"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk050_msg0018",
+      "style": 84,
+      "name": "제 동생은 무기 수집과 정리 외에\n잘하는 게 없거든요"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk050_msg0019",
+      "style": 84,
+      "name": "시끄러워, 쓸데없는 소리 말고\n얼른 밥이나 지어"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk050_msg0020",
+      "style": 84,
+      "name": "네네, 정말 사람을\n너무 막 다루는 동생이라니까요"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk050_msg0021",
+      "style": 84,
+      "name": "뭐… 그게 귀엽지만요"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk050_msg0022",
+      "style": 165,
+      "name": "뭐라고 말할까?"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk050_msg0023",
+      "style": 164,
+      "name": "쌀만 먹는 거야?"
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk050_msg0024",
+      "style": 164,
+      "name": "아까 정리를 잘한다고 하지 않았어?"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk050_msg0025",
+      "style": 165,
+      "name": "뭐라고 말할까?"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk050_msg0026",
+      "style": 164,
+      "name": "쌀만 먹어?"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk050_msg0027",
+      "style": 164,
+      "name": "아까 정리를 잘한다고 들은 것 같은데?"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk050_msg0028",
+      "style": 165,
+      "name": "뭐라고 말하지?"
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk050_msg0029",
+      "style": 164,
+      "name": "쌀만 먹는 건가?"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk050_msg0030",
+      "style": 164,
+      "name": "아까 정리를 잘한다고 하지 않았나?"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk050_msg0031",
+      "style": 165,
+      "name": "뭐라고 말할까?"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk050_msg0032",
+      "style": 164,
+      "name": "쌀만 먹는 기가?"
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk050_msg0033",
+      "style": 164,
+      "name": "아까 치우는 게 특기라고 안 했나?"
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk050_msg0101",
+      "style": 84,
+      "name": "그러게\n쌀만 가지고 무슨 맛으로 먹어?"
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk050_msg0102",
+      "style": 84,
+      "name": "훗\n히카리도 아직 어린애구나"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk050_msg0103",
+      "style": 84,
+      "name": "요시츠네, 그때 말했던 물건은?"
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk050_msg0104",
+      "style": 84,
+      "name": "네, 준비되어 있어요"
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk050_msg0105",
+      "style": 84,
+      "name": "우와, 이거지 이거\n딱 알맞게 잘 절여 놨네!"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk050_msg0106",
+      "style": 84,
+      "name": "이게 뭐야?"
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk050_msg0107",
+      "style": 84,
+      "name": "매실장아찌야"
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk050_msg0108",
+      "style": 84,
+      "name": "매실장… 뭐?"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk050_msg0109",
+      "style": 84,
+      "name": "그거 먹는 거야?"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk050_msg0110",
+      "style": 84,
+      "name": "매실장… 뭐?"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk050_msg0111",
+      "style": 84,
+      "name": "처음 들어 보는데"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk050_msg0112",
+      "style": 84,
+      "name": "매실장… 뭐?"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk050_msg0113",
+      "style": 84,
+      "name": "그게 뭐지?\n먹는 건가?"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk050_msg0114",
+      "style": 84,
+      "name": "매실장… 뭐?"
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk050_msg0115",
+      "style": 84,
+      "name": "그게 뭔데?\n먹는 거가?"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk050_msg0116",
+      "style": 84,
+      "name": "이건 열매를 소금에 절인 보존식입니다"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk050_msg0117",
+      "style": 84,
+      "name": "이 녀석을 넣어서\n갓 지은 쌀로 주먹밥을 만드는데"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk050_msg0118",
+      "style": 84,
+      "name": "그게 정말 최고로 맛있거든!"
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk050_msg0119",
+      "style": 84,
+      "name": "주먹밥은 아는데\n매실장아찌라는 게 정말 맛있어?"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk050_msg0120",
+      "style": 84,
+      "name": "물론 맛있지\n한번 먹어 볼래?"
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk050_msg0121",
+      "style": 84,
+      "name": "으엑, 왜 이렇게 부드러워?"
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk050_msg0122",
+      "style": 84,
+      "name": "으읍?\n으악! 셔!"
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk050_msg0123",
+      "style": 84,
+      "name": "빨리 물 줘!\n물!"
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk050_msg0124",
+      "style": 84,
+      "name": "뭐야 이거?!"
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk050_msg0125",
+      "style": 84,
+      "name": "진짜 먹는 거 맞아?!\n독 아니지?"
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk050_msg0126",
+      "style": 84,
+      "name": "아하하하!\n독 같은 거 아니야"
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk050_msg0127",
+      "style": 84,
+      "name": "이게 사실 항균 작용도 있고\n몸에 좋은 음식이에요"
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk050_msg0128",
+      "style": 84,
+      "name": "하여간, 도대체 왜 아무도\n이 맛을 이해 못 하는지 원"
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk050_msg0130",
+      "style": 84,
+      "name": "푸른 하늘 아래서 먹는 매실장아찌 주먹밥\n이것만 한 게 또 어딨냐고!"
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk050_msg0131",
+      "style": 84,
+      "name": "이봐 드라이버\n너도 하나 먹어 볼래?"
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk050_msg0201",
+      "style": 84,
+      "name": "어?\n뭐야, 그 의외라는 표정은?"
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk050_msg0202",
+      "style": 84,
+      "name": "의외지…"
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk050_msg0203",
+      "style": 84,
+      "name": "뭐라고?!\n내가 정리 좀 한다는 데 뭐가 문제야?!"
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk050_msg0204",
+      "style": 84,
+      "name": "진정해요, 벤케이"
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk050_msg0205",
+      "style": 84,
+      "name": "사실 제 동생이 이래 봬도\n꽤 꼼꼼하거든요"
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk050_msg0206",
+      "style": 84,
+      "name": "물건이 있을 자리에 없으면\n언짢아하기도 하고"
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk050_msg0207",
+      "style": 84,
+      "name": "모아둔 무기는 작은 것부터\n정리해야 직성이 풀린다고 하고"
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk050_msg0208",
+      "style": 84,
+      "name": "정말 여러모로 세심하거든요"
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk050_msg0209",
+      "style": 84,
+      "name": "저기, 벤케이"
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk050_msg0210",
+      "style": 84,
+      "name": "너 성격은 그러면서\n꼼꼼하다는 게 좀 이상하지 않아?"
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk050_msg0211",
+      "style": 84,
+      "name": "뭐?!"
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk050_msg0212",
+      "style": 84,
+      "name": "히카리 너\n한번 붙어 보자 그거야?!"
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk050_msg0213",
+      "style": 84,
+      "name": "아! 그래\n그러고 보니 히카리"
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk050_msg0214",
+      "style": 84,
+      "name": "넌 정리 정돈을 못했지?"
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk050_msg0215",
+      "style": 84,
+      "name": "윽\n그, 그렇지… 않거든?"
+    },
+    {
+      "$id": 79,
+      "label": "kizunatalk050_msg0216",
+      "style": 84,
+      "name": "그 있잖아\n예쁜 척하면서 실은 막돼먹은 여자"
+    },
+    {
+      "$id": 80,
+      "label": "kizunatalk050_msg0217",
+      "style": 84,
+      "name": "그런 부류가\n제일 골치 아픈 법이잖아"
+    },
+    {
+      "$id": 81,
+      "label": "kizunatalk050_msg0218",
+      "style": 84,
+      "name": "드라이버, 안 그래?\n너도 그렇게 생각하지?"
+    },
+    {
+      "$id": 82,
+      "label": "kizunatalk050_msg0219",
+      "style": 84,
+      "name": "응? 아니 뭐…"
+    },
+    {
+      "$id": 83,
+      "label": "kizunatalk050_msg0220",
+      "style": 84,
+      "name": "굳이 놓고 보면\n깔끔한 쪽이 더 낫긴… 하지?"
+    },
+    {
+      "$id": 84,
+      "label": "kizunatalk050_msg0221",
+      "style": 84,
+      "name": "뭐… 보통 그렇지?"
+    },
+    {
+      "$id": 85,
+      "label": "kizunatalk050_msg0222",
+      "style": 84,
+      "name": "그런데 나도 정리 정돈은 잘 못해"
+    },
+    {
+      "$id": 86,
+      "label": "kizunatalk050_msg0223",
+      "style": 84,
+      "name": "그렇지"
+    },
+    {
+      "$id": 87,
+      "label": "kizunatalk050_msg0224",
+      "style": 84,
+      "name": "정리 정돈을 못한다는 건\n마음이 혼란스럽다는 증거지"
+    },
+    {
+      "$id": 88,
+      "label": "kizunatalk050_msg0225",
+      "style": 84,
+      "name": "그러니까\n음…"
+    },
+    {
+      "$id": 89,
+      "label": "kizunatalk050_msg0226",
+      "style": 84,
+      "name": "깔끔한 쪽이\n더 호감이 가지 않겠나?"
+    },
+    {
+      "$id": 90,
+      "label": "kizunatalk050_msg0227",
+      "style": 84,
+      "name": "아, 시끄러워!\n뭘 진지하게 대답하고 그래!"
+    },
+    {
+      "$id": 91,
+      "label": "kizunatalk050_msg0228",
+      "style": 84,
+      "name": "어때, 히카리\n순순히 굴복한다면"
+    },
+    {
+      "$id": 92,
+      "label": "kizunatalk050_msg0229",
+      "style": 84,
+      "name": "이번에 내가 친히 정리의 정석을\n가르쳐 줄 수도 있는데?"
+    },
+    {
+      "$id": 93,
+      "label": "kizunatalk050_msg0230",
+      "style": 84,
+      "name": "됐거든!"
+    },
+    {
+      "$id": 94,
+      "label": "kizunatalk050_msg0231",
+      "style": 84,
+      "name": "아하하하하!\n너 이러면 렉스가 싫어한다?"
+    },
+    {
+      "$id": 95,
+      "label": "kizunatalk050_msg0232",
+      "style": 84,
+      "name": "으으…"
+    }
+  ]
+}

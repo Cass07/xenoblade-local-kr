@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf10400100_0010",
+      "style": 82,
+      "name": "가자!"
+    },
+    {
+      "$id": 2,
+      "label": "bf10400100_0020",
+      "style": 82,
+      "name": "응!"
+    },
+    {
+      "$id": 3,
+      "label": "bf10400100_0030",
+      "style": 82,
+      "name": "[ML:undisp ]"
+    },
+    {
+      "$id": 4,
+      "label": "bf10400100_0040",
+      "style": 82,
+      "name": "이걸로 모든 걸 끝내겠어"
+    },
+    {
+      "$id": 5,
+      "label": "bf10400100_0050",
+      "style": 82,
+      "name": "그리고 나아가겠어"
+    },
+    {
+      "$id": 6,
+      "label": "bf10400100_0060",
+      "style": 82,
+      "name": "미래를 향해!"
+    },
+    {
+      "$id": 7,
+      "label": "bf10400100_0070",
+      "style": 82,
+      "name": "[ML:undisp ]"
+    }
+  ]
+}

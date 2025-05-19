@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9301001_01_msg0001",
+      "style": 84,
+      "name": "슬슬 내 힘이\n필요하지 않아?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk9301001_01_msg0002",
+      "style": 84,
+      "name": "언제든 불러만 줘\n바로 달려갈게!"
+    }
+  ]
+}

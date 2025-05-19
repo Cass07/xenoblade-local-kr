@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn059_msg001",
+      "style": 84,
+      "name": "모두에게 얘기해 두고\n싶은 게 있는데…"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn059_msg002",
+      "style": 84,
+      "name": "뭐야모? 갑자기 정색하고\n할 얘기라니 뭔데모?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn059_msg003",
+      "style": 84,
+      "name": "전투 중에 걱정되는 일이 좀 있어서 말야\n근처 카페에서 얘기하는 거 어때?"
+    }
+  ]
+}

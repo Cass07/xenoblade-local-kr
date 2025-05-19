@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200212_msg0101",
+      "style": 165,
+      "name": "어떻게 설득할까?"
+    },
+    {
+      "$id": 2,
+      "label": "qst200212_msg0102",
+      "style": 165,
+      "name": "뜨거운 마음"
+    },
+    {
+      "$id": 3,
+      "label": "qst200212_msg0103",
+      "style": 165,
+      "name": "정의로운 마음"
+    },
+    {
+      "$id": 4,
+      "label": "qst200212_msg0104",
+      "style": 165,
+      "name": "다정한 마음"
+    },
+    {
+      "$id": 5,
+      "label": "qst200212_msg0105",
+      "style": 84,
+      "name": "모모모!\n난 몰라모~\n아무것도 몰라모~!"
+    }
+  ]
+}

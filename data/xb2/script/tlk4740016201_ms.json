@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47400162_01_msg0001",
+      "style": 84,
+      "name": "너 너무 마른 거 아냐?\n고기 좀 더 먹고 건강을 챙겨!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk47400162_01_msg0004",
+      "style": 84,
+      "name": "오너, 왔구나\n평소처럼 팍팍 사 줘"
+    }
+  ]
+}

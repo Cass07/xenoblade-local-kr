@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202708_msg0001",
+      "style": 84,
+      "name": "여기 맞지?"
+    },
+    {
+      "$id": 2,
+      "label": "qst202708_msg0002",
+      "style": 84,
+      "name": "그냥 놀이 같은 건 줄 알았는데\n꽤 진지해 보이는걸?"
+    },
+    {
+      "$id": 3,
+      "label": "qst202708_msg0003",
+      "style": 84,
+      "name": "무슨 주문을 외우는 걸까?"
+    },
+    {
+      "$id": 4,
+      "label": "qst202708_msg0004",
+      "style": 84,
+      "name": "모르겠어모"
+    },
+    {
+      "$id": 5,
+      "label": "qst202708_msg0005",
+      "style": 84,
+      "name": "어쨌든 일단 못 하게 막을까?"
+    },
+    {
+      "$id": 6,
+      "label": "qst202708_msg0006",
+      "style": 84,
+      "name": "조금 미안하지만\n미무무를 찾아야 하니까\n직접 물어보자!"
+    }
+  ]
+}

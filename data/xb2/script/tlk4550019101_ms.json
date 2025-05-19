@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4550019101_msg0001",
+      "style": 84,
+      "name": "환자 상태는 어때?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4550019101_msg0002",
+      "style": 84,
+      "name": "그래… 내가 제조한 약은\n맨 이터에게도 듣는군\n참고가 됐어"
+    }
+  ]
+}

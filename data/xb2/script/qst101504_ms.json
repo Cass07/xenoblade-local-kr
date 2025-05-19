@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101504_msg0001",
+      "style": 84,
+      "name": "자, 이제 괜찮아"
+    },
+    {
+      "$id": 2,
+      "label": "qst101504_msg0002",
+      "style": 84,
+      "name": "어디인지 알겠나?\n그래, 장하구나"
+    },
+    {
+      "$id": 3,
+      "label": "qst101504_msg0003",
+      "style": 84,
+      "name": "나중에 우몬 씨랑 같이\n갈 테니까 기다리고 있어"
+    },
+    {
+      "$id": 4,
+      "label": "qst101504_msg0004",
+      "style": 84,
+      "name": "좋아!\n아르스가 와 줬다고\n우몬 씨에게 전해 주자"
+    }
+  ]
+}

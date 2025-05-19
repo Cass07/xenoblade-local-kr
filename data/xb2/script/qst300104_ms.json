@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300104_msg001",
+      "style": 84,
+      "name": "다들 기뻐하고 있어!\n당신 덕분에\n보존식이 많아졌다면서 말이야"
+    },
+    {
+      "$id": 2,
+      "label": "qst300104_msg002",
+      "style": 84,
+      "name": "조금만 더 하면 양이\n충분할 거야… 응?"
+    },
+    {
+      "$id": 3,
+      "label": "qst300104_msg003",
+      "style": 84,
+      "name": "…무슨 냄새 안 나?"
+    },
+    {
+      "$id": 4,
+      "label": "qst300104_msg004",
+      "style": 84,
+      "name": "이봐! 저걸 봐!"
+    }
+  ]
+}

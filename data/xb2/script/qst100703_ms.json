@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst100703_msg0202",
+      "style": 84,
+      "name": "드디어 100만G 다 모았어모?\n전부 갚는 거야모?"
+    },
+    {
+      "$id": 2,
+      "label": "qst100703_msg0301",
+      "style": 84,
+      "name": "알았어모\n얄미운 반의 경영술을\n공부하면서 기다릴게모"
+    },
+    {
+      "$id": 3,
+      "label": "qst100703_msg0302",
+      "style": 165,
+      "name": "100만G를 지불하겠습니까?"
+    },
+    {
+      "$id": 4,
+      "label": "qst100703_msg0303",
+      "style": 165,
+      "name": "지불한다"
+    },
+    {
+      "$id": 5,
+      "label": "qst100703_msg0304",
+      "style": 165,
+      "name": "지불하지 않는다"
+    }
+  ]
+}

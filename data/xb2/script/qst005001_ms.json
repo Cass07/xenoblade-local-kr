@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst005001_msg0001",
+      "style": 84,
+      "name": "너희가 계획을 망친 녀석들이로구나?!\n이곳엔 왜 온 거냐!"
+    },
+    {
+      "$id": 2,
+      "label": "qst005001_msg0002",
+      "style": 84,
+      "name": "제국 쪽에 붙는다면\n용서하지 않겠다!"
+    },
+    {
+      "$id": 3,
+      "label": "qst005001_msg0003",
+      "style": 84,
+      "name": "쳐라!"
+    }
+  ]
+}

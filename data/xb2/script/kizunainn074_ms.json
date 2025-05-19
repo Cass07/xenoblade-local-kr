@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn074_msg0001",
+      "style": 84,
+      "name": "저기, 아바리티아의 ABC 서점에\n오래된 서적이 들어왔다는데\n가 보지 않을래?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn074_msg0002",
+      "style": 84,
+      "name": "여인숙 주인이 그러는데\n꽤 쓸 만한 물건이 많다더라고"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn074_msg0003",
+      "style": 84,
+      "name": "가 보자!\n너희도 궁금하지 않아?"
+    }
+  ]
+}

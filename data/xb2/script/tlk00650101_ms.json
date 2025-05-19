@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006501_01_msg0001",
+      "style": 84,
+      "name": "내 배를 되찾아 줘!\n아직 빚도 다 안 갚았다고!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk006501_01_msg0002",
+      "style": 84,
+      "name": "그 꼬맹이들을 꼭 잡아 와 줘!\n경비대한테 넘겨 버릴 테니까!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk006501_01_msg0003",
+      "style": 84,
+      "name": "부탁해!"
+    }
+  ]
+}

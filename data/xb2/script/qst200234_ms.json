@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200234_msg0101",
+      "style": 165,
+      "name": "어떻게 설득할까?"
+    },
+    {
+      "$id": 2,
+      "label": "qst200234_msg0102",
+      "style": 165,
+      "name": "뜨거운 마음"
+    },
+    {
+      "$id": 3,
+      "label": "qst200234_msg0103",
+      "style": 165,
+      "name": "정의로운 마음"
+    },
+    {
+      "$id": 4,
+      "label": "qst200234_msg0104",
+      "style": 165,
+      "name": "다정한 마음"
+    },
+    {
+      "$id": 5,
+      "label": "qst200234_msg0105",
+      "style": 84,
+      "name": "미안하지만 내가 더 할 말은 없어"
+    },
+    {
+      "$id": 6,
+      "label": "qst200234_msg0106",
+      "style": 84,
+      "name": "유감이지만\n당신에게 해 줄 얘기는 이제 없어"
+    },
+    {
+      "$id": 7,
+      "label": "qst200234_msg0201",
+      "style": 84,
+      "name": "그럴 수가…"
+    },
+    {
+      "$id": 8,
+      "label": "qst200234_msg0202",
+      "style": 84,
+      "name": "나 때문에…\n도시가…?"
+    }
+  ]
+}

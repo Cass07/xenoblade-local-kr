@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300303_msg001",
+      "style": 62,
+      "name": "受注前"
+    },
+    {
+      "$id": 2,
+      "label": "qst300303_msg002",
+      "style": 62,
+      "name": "面接前"
+    },
+    {
+      "$id": 3,
+      "label": "qst300303_msg003",
+      "style": 62,
+      "name": "面接後"
+    },
+    {
+      "$id": 4,
+      "label": "qst300303_msg0001",
+      "style": 84,
+      "name": "넌 왠지 다른 사람한테서\n말을 잘 끄집어낼 것 같군"
+    },
+    {
+      "$id": 5,
+      "label": "qst300303_msg0002",
+      "style": 84,
+      "name": "대화로 상대를 아는 게\n나한테는 어렵거든…\n싸우는 게 훨씬 편해"
+    },
+    {
+      "$id": 6,
+      "label": "qst300303_msg0101",
+      "style": 84,
+      "name": "그럼 누구로 할지 정했나?"
+    }
+  ]
+}

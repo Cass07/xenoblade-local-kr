@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9301801_01_msg0001",
+      "style": 84,
+      "name": "다과회를 열려면 돈이 필요하노라"
+    },
+    {
+      "$id": 2,
+      "label": "tlk9301801_01_msg0002",
+      "style": 84,
+      "name": "나한테 맡기면\n왕창 벌어 줄 수 있느니라"
+    }
+  ]
+}

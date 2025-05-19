@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn050_msg0001",
+      "style": 84,
+      "name": "잠깐 밖에 나가 보지 않을래?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn050_msg0002",
+      "style": 84,
+      "name": "아까 아주머니에게 들었는데\n재미있을 것 같은\n아니, 맛있을 것 같은 곳이 있어"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn050_msg0003",
+      "style": 84,
+      "name": "근처에 목재를 두는 곳 있지?\n거기야"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn050_msg0004",
+      "style": 84,
+      "name": "늦으면 가만 안 둘 거야!"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn080_msg0001",
+      "style": 84,
+      "name": "큰일이야모!"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn080_msg0002",
+      "style": 84,
+      "name": "메이가 방에서 나오지를 않아모!\n이 상태라면 출발할 수가 없어모~"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn080_msg0003",
+      "style": 84,
+      "name": "방으로 가서 깨우는 게\n좋을 것 같습니다모"
+    }
+  ]
+}

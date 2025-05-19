@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst400102_msg0001",
+      "style": 84,
+      "name": "그럼 다음은…"
+    },
+    {
+      "$id": 2,
+      "label": "qst400102_msg0002",
+      "style": 84,
+      "name": "돈이 아직 꽤 많은데…\n모처럼이니까 고향에 돈을 더 보낼까?"
+    },
+    {
+      "$id": 3,
+      "label": "qst400102_msg0003",
+      "style": 84,
+      "name": "중앙 교역소의 메로로 씨에게 돌아가자"
+    }
+  ]
+}

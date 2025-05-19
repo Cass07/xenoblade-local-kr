@@ -1,0 +1,1709 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 41,
+      "name": "최대 HP [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 2,
+      "style": 41,
+      "name": "근력 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 3,
+      "style": 41,
+      "name": "에테르 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 4,
+      "style": 41,
+      "name": "손재주 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 5,
+      "style": 41,
+      "name": "속도 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 6,
+      "style": 41,
+      "name": "행운 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 7,
+      "style": 41,
+      "name": "크리티컬 확률 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 8,
+      "style": 41,
+      "name": "물리 방어 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 9,
+      "style": 41,
+      "name": "에테르 방어 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 10,
+      "style": 41,
+      "name": "가드 확률 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 11,
+      "style": 41,
+      "name": "최대 HP [ML:Enhance kind=Param1 ] 상승"
+    },
+    {
+      "$id": 12,
+      "style": 41,
+      "name": "근력 [ML:Enhance kind=Param1 ] 상승"
+    },
+    {
+      "$id": 13,
+      "style": 41,
+      "name": "에테르 [ML:Enhance kind=Param1 ] 상승"
+    },
+    {
+      "$id": 14,
+      "style": 41,
+      "name": "손재주 [ML:Enhance kind=Param1 ] 상승"
+    },
+    {
+      "$id": 15,
+      "style": 41,
+      "name": "속도 [ML:Enhance kind=Param1 ] 상승"
+    },
+    {
+      "$id": 16,
+      "style": 41,
+      "name": "행운 [ML:Enhance kind=Param1 ] 상승"
+    },
+    {
+      "$id": 17,
+      "style": 41,
+      "name": "크리티컬 확률 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 18,
+      "style": 41,
+      "name": "물리 방어 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 19,
+      "style": 41,
+      "name": "에테르 방어 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 20,
+      "style": 41,
+      "name": "가드 확률 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 21,
+      "style": 41,
+      "name": "블레이드 콤보 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 22,
+      "style": 41,
+      "name": "퓨전 콤보 효과 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 23,
+      "style": 41,
+      "name": "공격을 받았을 때\n에테르의 [ML:Enhance kind=Param1 ]% 대미지로 반격한다"
+    },
+    {
+      "$id": 24,
+      "style": 41,
+      "name": "공격을 회피했을 때\n근력의 [ML:Enhance kind=Param1 ]% 대미지로 반격한다"
+    },
+    {
+      "$id": 25,
+      "style": 41,
+      "name": "드라이버 아츠 중 적의 공격을 회피하며\n근력의 [ML:Enhance kind=Param1 ]% 대미지와 블로를 가한다"
+    },
+    {
+      "$id": 26,
+      "style": 41,
+      "name": "오토 어택이 명중했을 때\n주는 대미지의 [ML:Enhance kind=Param1 ]%만큼 HP가 회복된다"
+    },
+    {
+      "$id": 27,
+      "style": 41,
+      "name": "드라이버 아츠가 명중했을 때\n주는 대미지의 [ML:Enhance kind=Param1 ]%만큼 HP가 회복된다"
+    },
+    {
+      "$id": 28,
+      "style": 41,
+      "name": "아츠가 명중했을 때\n주는 대미지의 [ML:Enhance kind=Param1 ]%만큼 HP가 회복된다"
+    },
+    {
+      "$id": 29,
+      "style": 41,
+      "name": "필살기가 명중했을 때\n주는 대미지의 [ML:Enhance kind=Param1 ]%만큼 HP가 회복된다"
+    },
+    {
+      "$id": 30,
+      "style": 41,
+      "name": "적을 쓰러뜨렸을 때 HP가 [ML:Enhance kind=Param1 ]% 회복된다"
+    },
+    {
+      "$id": 31,
+      "style": 41,
+      "name": "크리티컬이 발생했을 때\n주는 대미지의 [ML:Enhance kind=Param1 ]%만큼 HP가 회복된다"
+    },
+    {
+      "$id": 32,
+      "style": 41,
+      "name": "크리티컬 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 33,
+      "style": 41,
+      "name": "오토 어택이 명중했을 때\n[ML:Enhance kind=Param1 ]% 확률로 2회 공격이 발생한다"
+    },
+    {
+      "$id": 34,
+      "style": 41,
+      "name": "정면에서 공격했을 때\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 35,
+      "style": 41,
+      "name": "측면에서 공격했을 때\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 36,
+      "style": 41,
+      "name": "후방에서 공격했을 때\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 37,
+      "style": 41,
+      "name": "기습 공격을 성공했을 때\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 38,
+      "style": 41,
+      "name": "다운 상태인 적을 공격했을 때\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 39,
+      "style": 41,
+      "name": "라이징 상태인 적을 공격했을 때\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 40,
+      "style": 41,
+      "name": "스매시 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 41,
+      "style": 41,
+      "name": "자신보다 레벨이 높은 적을 공격했을 때\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 42,
+      "style": 41,
+      "name": "전투 불능인 아군이 있을 때\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 43,
+      "style": 41,
+      "name": "[ML:Enhance kind=Param1 ]% 확률로 공격이 가드 무효가 된다"
+    },
+    {
+      "$id": 44,
+      "style": 41,
+      "name": "공격이 반사 무효가 된다"
+    },
+    {
+      "$id": 45,
+      "style": 41,
+      "name": "HP가 [ML:Enhance kind=Param1 ]% 이하일 때\n주는 대미지 [ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 46,
+      "style": 41,
+      "name": "전투 시작 후 [ML:Enhance ]초 동안\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 47,
+      "style": 41,
+      "name": "적을 전투 불능으로 만들 때마다\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승(최대 [ML:Enhance ]%)"
+    },
+    {
+      "$id": 48,
+      "style": 41,
+      "name": "브레이크 유효 시간 [ML:Enhance kind=Param1 ]% 연장"
+    },
+    {
+      "$id": 49,
+      "style": 41,
+      "name": "다운 유효 시간 [ML:Enhance kind=Param1 ]% 연장"
+    },
+    {
+      "$id": 50,
+      "style": 41,
+      "name": "라이징 유효 시간 [ML:Enhance kind=Param1 ]% 연장"
+    },
+    {
+      "$id": 51,
+      "style": 41,
+      "name": "오토 어택 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 52,
+      "style": 41,
+      "name": "자신을 노리는 적을 공격했을 때\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 53,
+      "style": 41,
+      "name": "실내에 있을 때 주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 54,
+      "style": 41,
+      "name": "실외에 있을 때 주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 55,
+      "style": 41,
+      "name": "블레이드 스위치를 할 때마다\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승(최대 [ML:Enhance ]%)"
+    },
+    {
+      "$id": 56,
+      "style": 41,
+      "name": "버디가 이성일 때\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 57,
+      "style": 41,
+      "name": "적의 다운 저항력을 감소시킨다"
+    },
+    {
+      "$id": 58,
+      "style": 41,
+      "name": "적의 라이징 저항력을 감소시킨다"
+    },
+    {
+      "$id": 59,
+      "style": 41,
+      "name": "가드가 발생했을 때 [ML:Enhance kind=Param1 ]% 확률로\n적의 공격을 완전히 방어한다"
+    },
+    {
+      "$id": 60,
+      "style": 41,
+      "name": "HP가 [ML:Enhance kind=Param1 ]% 이하일 때\n회피율 [ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 61,
+      "style": 41,
+      "name": "이동 중 회피율 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 62,
+      "style": 41,
+      "name": "HP가 [ML:Enhance kind=Param1 ]% 이하일 때\n가드 확률 [ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 63,
+      "style": 41,
+      "name": "5M 이내에 있는 아군이 받는 대미지를\n[ML:Enhance kind=Param1 ]% 감소시킨다"
+    },
+    {
+      "$id": 64,
+      "style": 41,
+      "name": "HP가 [ML:Enhance kind=Param1 ]% 이하일 때\n받는 대미지 [ML:Enhance kind=Param2 ]% 감소"
+    },
+    {
+      "$id": 65,
+      "style": 41,
+      "name": "HP가 [ML:Enhance kind=Param1 ]% 이상일 때\n주는 대미지 [ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 66,
+      "style": 41,
+      "name": "스파이크로 받는 대미지를\n[ML:Enhance kind=Param1 ]% 감소시킨다"
+    },
+    {
+      "$id": 67,
+      "style": 41,
+      "name": "브레이크 저항력 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 68,
+      "style": 41,
+      "name": "다운 저항력 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 69,
+      "style": 41,
+      "name": "라이징 저항력 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 70,
+      "style": 41,
+      "name": "스매시 저항력 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 71,
+      "style": 41,
+      "name": "블로 저항력 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 72,
+      "style": 41,
+      "name": "넉 백 저항력 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 73,
+      "style": 41,
+      "name": "방어 무시 공격 저항력 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 74,
+      "style": 41,
+      "name": "적이 부여하는 속성 효과를\n[ML:Enhance kind=Param1 ]% 확률로 무효화"
+    },
+    {
+      "$id": 75,
+      "style": 41,
+      "name": "오토 어택으로 상승하는 어그로\n[ML:Enhance kind=Param1 ]% 감소"
+    },
+    {
+      "$id": 76,
+      "style": 41,
+      "name": "오토 어택으로 상승하는 어그로\n[ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 77,
+      "style": 41,
+      "name": "드라이버 아츠와 필살기로\n상승하는 어그로 [ML:Enhance kind=Param1 ]% 감소"
+    },
+    {
+      "$id": 78,
+      "style": 41,
+      "name": "드라이버 아츠로\n상승하는 어그로 [ML:Enhance kind=Param1 ]% 감소"
+    },
+    {
+      "$id": 79,
+      "style": 41,
+      "name": "필살기로 상승하는 어그로 [ML:Enhance kind=Param1 ]% 감소"
+    },
+    {
+      "$id": 80,
+      "style": 41,
+      "name": "아츠와 필살기로\n상승하는 어그로 [ML:Enhance kind=Param1 ]% 감소"
+    },
+    {
+      "$id": 81,
+      "style": 41,
+      "name": "드라이버 아츠와 필살기로\n상승하는 어그로 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 82,
+      "style": 41,
+      "name": "드라이버 아츠로\n상승하는 어그로 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 83,
+      "style": 41,
+      "name": "필살기로 상승하는 어그로 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 84,
+      "style": 41,
+      "name": "아츠와 필살기로\n상승하는 어그로 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 85,
+      "style": 41,
+      "name": "어그로 감소량 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 86,
+      "style": 41,
+      "name": "어그로가 매초 조금씩 상승한다"
+    },
+    {
+      "$id": 87,
+      "style": 41,
+      "name": "어그로가 매초 조금씩 상승한다\n효과 · 소"
+    },
+    {
+      "$id": 88,
+      "style": 41,
+      "name": "어그로가 매초 조금씩 상승한다\n효과 · 중"
+    },
+    {
+      "$id": 89,
+      "style": 41,
+      "name": "어그로가 매초 조금씩 상승한다\n효과 · 대"
+    },
+    {
+      "$id": 90,
+      "style": 41,
+      "name": "어그로가 매초 조금씩 상승한다\n효과 · 특대"
+    },
+    {
+      "$id": 91,
+      "style": 41,
+      "name": "어그로를 일정량 지닌 상태로\n전투가 시작된다"
+    },
+    {
+      "$id": 92,
+      "style": 41,
+      "name": "어그로를 일정량 지닌 상태로\n전투가 시작된다 / 효과 · 소"
+    },
+    {
+      "$id": 93,
+      "style": 41,
+      "name": "어그로를 일정량 지닌 상태로\n전투가 시작된다 / 효과 · 중"
+    },
+    {
+      "$id": 94,
+      "style": 41,
+      "name": "어그로를 일정량 지닌 상태로\n전투가 시작된다 / 효과 · 대"
+    },
+    {
+      "$id": 95,
+      "style": 41,
+      "name": "어그로를 일정량 지닌 상태로\n전투가 시작된다 / 효과 · 특대"
+    },
+    {
+      "$id": 96,
+      "style": 41,
+      "name": "구조됐을 때의 내 HP가 [ML:Enhance kind=Param1 ]% 상승한다"
+    },
+    {
+      "$id": 97,
+      "style": 41,
+      "name": "구조했을 때의 상대 HP가 [ML:Enhance kind=Param1 ]% 상승한다"
+    },
+    {
+      "$id": 98,
+      "style": 41,
+      "name": "회복 아츠 효과 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 99,
+      "style": 41,
+      "name": "자신의 회복량이 [ML:Enhance kind=Param1 ]% 상승한다\n단, 회복 포트에 의한 회복은 제외한다"
+    },
+    {
+      "$id": 100,
+      "style": 41,
+      "name": "캔슬했을 때 상승하는 필살기의\n리캐스트양 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 101,
+      "style": 41,
+      "name": "캔슬했을 때 대미지 상승률\n[ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 102,
+      "style": 41,
+      "name": "[ML:Enhance kind=Param1 ]% 확률로 전투 불능이 되었을 때 HP 1로\n버티고 5초 무적이 된다(전투당 1번 한정)"
+    },
+    {
+      "$id": 103,
+      "style": 41,
+      "name": "야간 명중률 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 104,
+      "style": 41,
+      "name": "주간 명중률 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 105,
+      "style": 41,
+      "name": "적을 쓰러뜨렸을 때 획득 EXP [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 106,
+      "style": 41,
+      "name": "적을 쓰러뜨렸을 때 획득 WP [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 107,
+      "style": 41,
+      "name": "자신이 발동한 속성 효과\n[ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 108,
+      "style": 41,
+      "name": "자신이 발동한 속성 효과 시간\n[ML:Enhance kind=Param1 ]% 연장"
+    },
+    {
+      "$id": 109,
+      "style": 41,
+      "name": "필살기의 버튼 챌린지에서 Excellent를\n획득했을 때 파티 게이지 상승"
+    },
+    {
+      "$id": 110,
+      "style": 41,
+      "name": "필살기의 버튼 챌린지에서 Excellent를\n획득했을 때 파티 게이지 상승 / 효과 · 소"
+    },
+    {
+      "$id": 111,
+      "style": 41,
+      "name": "필살기의 버튼 챌린지에서 Excellent를\n획득했을 때 파티 게이지 상승 / 효과 · 대"
+    },
+    {
+      "$id": 112,
+      "style": 41,
+      "name": "크리티컬이 발생했을 때\n파티 게이지 소량 상승"
+    },
+    {
+      "$id": 113,
+      "style": 41,
+      "name": "크리티컬이 발생했을 때\n파티 게이지 [ML:Enhance kind=Param1 ] 상승"
+    },
+    {
+      "$id": 114,
+      "style": 41,
+      "name": "드라이버 아츠를 사용했을 때\n파티 게이지 소량 상승"
+    },
+    {
+      "$id": 115,
+      "style": 41,
+      "name": "아츠를 사용했을 때\n파티 게이지 소량 상승"
+    },
+    {
+      "$id": 116,
+      "style": 41,
+      "name": "전투에 참가한 적 하나당\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승(최대 [ML:Enhance ]%)"
+    },
+    {
+      "$id": 117,
+      "style": 41,
+      "name": "반사 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 118,
+      "style": 41,
+      "name": "체인 어택 중\n크리티컬 확률 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 119,
+      "style": 41,
+      "name": "체인 어택을 시작했을 때 HP [ML:Enhance kind=Param1 ]% 회복"
+    },
+    {
+      "$id": 120,
+      "style": 41,
+      "name": "체인 어택을 시작했을 때\n전투 불능인 드라이버가 부활한다"
+    },
+    {
+      "$id": 121,
+      "style": 41,
+      "name": "체인 어택이 종료됐을 때\n파티 게이지 상승"
+    },
+    {
+      "$id": 122,
+      "style": 41,
+      "name": "에테르 캐넌의 사정거리 [ML:Enhance kind=Param1 ]M 연장"
+    },
+    {
+      "$id": 123,
+      "style": 41,
+      "name": "전투 불능이 됐을 때 아군의 HP [ML:Enhance kind=Param1 ]% 회복"
+    },
+    {
+      "$id": 124,
+      "style": 41,
+      "name": "전투 시작 후 1번째 드라이버 아츠가\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 125,
+      "style": 41,
+      "name": "전투 시작 후 1번째 아츠가\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 126,
+      "style": 41,
+      "name": "필살기가 명중했을 때 [ML:Enhance kind=Param1 ]% 확률로\n무작위 적 아츠 1개의 리캐스트 초기화"
+    },
+    {
+      "$id": 127,
+      "style": 41,
+      "name": "적에게 공격을 가드당했을 때\n가드 튕김 상태가 되지 않는다"
+    },
+    {
+      "$id": 128,
+      "style": 41,
+      "name": "적이 떨어뜨리는 골드 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 129,
+      "style": 41,
+      "name": "적이 아이템을 떨어뜨릴 확률\n[ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 130,
+      "style": 41,
+      "name": "모든 종류의 무기 공격력 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 131,
+      "style": 41,
+      "name": "전투 불능이 됐을 때 인연 감소를 막는다"
+    },
+    {
+      "$id": 132,
+      "style": 41,
+      "name": "필살기의 버튼 챌린지를 성공했을 때\n인연 증가량이 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 133,
+      "style": 41,
+      "name": "버디 드라이버의 공격이 빗나가면\n인연 [ML:Enhance kind=Param1 ] 상승"
+    },
+    {
+      "$id": 134,
+      "style": 41,
+      "name": "버디 드라이버가 대미지를 받으면\n인연 [ML:Enhance kind=Param1 ] 상승"
+    },
+    {
+      "$id": 135,
+      "style": 41,
+      "name": "블레이드 아츠의 발동 확률 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 136,
+      "style": 41,
+      "name": "블레이드 아츠의 효과 시간 [ML:Enhance kind=Param1 ]% 연장"
+    },
+    {
+      "$id": 137,
+      "style": 41,
+      "name": "인연이 최고가 됐을 때 파티 전체에\n최대 HP의 [ML:Enhance kind=Param1 ]% 대미지 흡수 배리어 부여"
+    },
+    {
+      "$id": 138,
+      "style": 41,
+      "name": "인연이 최고일 때\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 139,
+      "style": 41,
+      "name": "인연이 최고일 때 회피율 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 140,
+      "style": 41,
+      "name": "선제 공격으로 전투를 시작했을 때\n초기 인연 [ML:Enhance kind=Param1 ] 상승"
+    },
+    {
+      "$id": 141,
+      "style": 41,
+      "name": "적의 선제 공격으로 전투가 시작됐을 때\n초기 인연 [ML:Enhance kind=Param1 ] 상승"
+    },
+    {
+      "$id": 142,
+      "style": 41,
+      "name": "블레이드 스위치의 쿨링 다운\n[ML:Enhance kind=Param1 ]% 단축"
+    },
+    {
+      "$id": 143,
+      "style": 41,
+      "name": "블레이드 스위치를 했을 때\n파티 전체의 HP [ML:Enhance kind=Param1 ]% 회복"
+    },
+    {
+      "$id": 144,
+      "style": 41,
+      "name": "드라이버와 블레이드의 인연 발생 거리\n[ML:Enhance kind=Param1 ]cm 연장"
+    },
+    {
+      "$id": 145,
+      "style": 41,
+      "name": "Lv [ML:Enhance kind=Param1 ] 필살기의 대미지가\n[ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 146,
+      "style": 41,
+      "name": "공격이 명중했을 때\n[ML:Enhance kind=Param1 ]% 확률로 회복 포트(소)를 생성한다"
+    },
+    {
+      "$id": 147,
+      "style": 41,
+      "name": "회복 포트 효과 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 148,
+      "style": 41,
+      "name": "필살기가 명중했을 때 HP [ML:Enhance kind=Param1 ]% 이하인 적은\n[ML:Enhance kind=Param2 ]% 확률로 전투 불능(보스와 유니크 제외)"
+    },
+    {
+      "$id": 149,
+      "style": 41,
+      "name": "인연이 최고일 때\n아군 전체의 명중률, 회피율 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 150,
+      "style": 41,
+      "name": "임의의 속성 콤보를 발생시킬 수 있다"
+    },
+    {
+      "$id": 151,
+      "style": 41,
+      "name": "적에게 받는 블레이드 콤보의 대미지\n[ML:Enhance kind=Param1 ]% 감소"
+    },
+    {
+      "$id": 152,
+      "style": 41,
+      "name": "드라이버가 공격을 회피할 때마다\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승(최대 [ML:Enhance ]%)"
+    },
+    {
+      "$id": 153,
+      "style": 41,
+      "name": "공격을 회피할 때마다\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승(최대 [ML:Enhance ]%)"
+    },
+    {
+      "$id": 154,
+      "style": 41,
+      "name": "인연이 최고일 때\n아츠 리캐스트 증가량 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 155,
+      "style": 41,
+      "name": "공격으로 상승하는 어그로 [ML:Enhance kind=Param1 ]% 감소"
+    },
+    {
+      "$id": 156,
+      "style": 41,
+      "name": "물리 · 에테르 방어 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 157,
+      "style": 41,
+      "name": "[ML:Enhance kind=Param1 ]% 확률로 자신의 공격이\n반드시 명중하고 적의 공격을 회피한다"
+    },
+    {
+      "$id": 158,
+      "style": 41,
+      "name": "[ML:Enhance kind=Param1 ]% 확률로 공격을 반사한다"
+    },
+    {
+      "$id": 159,
+      "style": 41,
+      "name": "인연이 최고가 된 시점부터 [ML:Enhance kind=Param1 ]초 동안\n적의 공격을 회피한다"
+    },
+    {
+      "$id": 160,
+      "style": 41,
+      "name": "다운 또는 라이징 상태인 적을\n공격했을 때 주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 161,
+      "style": 41,
+      "name": "[ML:Enhance kind=Param1 ]% 확률로 적을 전투 불능으로 만든다\n(보스와 유니크 제외)"
+    },
+    {
+      "$id": 162,
+      "style": 41,
+      "name": "인연이 최고일 때\n파티 전체가 받는 대미지 [ML:Enhance kind=Param1 ]% 감소"
+    },
+    {
+      "$id": 163,
+      "style": 41,
+      "name": "인연이 최고일 때 파티 전체가\n주는 대미지와 공격 범위가 [ML:Enhance kind=Param1 ]% 상승한다"
+    },
+    {
+      "$id": 164,
+      "style": 41,
+      "name": "적을 쓰러뜨렸을 때\n파티 전체의 HP [ML:Enhance kind=Param1 ]% 회복"
+    },
+    {
+      "$id": 165,
+      "style": 41,
+      "name": "인연이 최고일 때\n파티 전체의 회복량 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 166,
+      "style": 41,
+      "name": "어그로가 매초 조금씩 상승하며\n모든 공격의 어그로 [ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 167,
+      "style": 41,
+      "name": "전투 불능, 빈사 상태 아군이 있을 때 주는\n대미지 [ML:Enhance kind=Param1 ]% 상승 / 받는 대미지 [ML:Enhance kind=Param2 ]% 감소"
+    },
+    {
+      "$id": 168,
+      "style": 41,
+      "name": "필살기가 명중했을 때\n[ML:Enhance kind=Param1 ]% 확률로 적의 움직임을 [ML:Enhance kind=Param2 ]초 막는다"
+    },
+    {
+      "$id": 169,
+      "style": 41,
+      "name": "드라이버의 HP가 낮을수록\n필살기로 주는 대미지가 상승한다"
+    },
+    {
+      "$id": 170,
+      "style": 41,
+      "name": "적에게 받는 속성 효과의 영향 [ML:Enhance kind=Param1 ]% 감소"
+    },
+    {
+      "$id": 171,
+      "style": 41,
+      "name": "적의 드라이버 콤보와 리액션을\n[ML:Enhance kind=Param1 ]% 확률로 막는다"
+    },
+    {
+      "$id": 172,
+      "style": 41,
+      "name": "퓨전 콤보가 발생했을 때 파티 전체의\nHP 회복, 난이도가 높을수록 큰 효과"
+    },
+    {
+      "$id": 173,
+      "style": 41,
+      "name": "전투 중 골드를 획득하면 금액에 따라\n공격력이 상승한다(최대 [ML:Enhance kind=Param2 ]%)"
+    },
+    {
+      "$id": 174,
+      "style": 41,
+      "name": "공격이 명중했을 때\n[ML:Enhance kind=Param1 ]% 확률로 골드를 떨어뜨린다"
+    },
+    {
+      "$id": 175,
+      "style": 41,
+      "name": "인연이 최고일 때 전투에 참가한 적의\n리캐스트를 [ML:Enhance kind=Param1 ]% 지연시킨다"
+    },
+    {
+      "$id": 176,
+      "style": 41,
+      "name": "유니크 몬스터나 보스와 전투 중일 때\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 177,
+      "style": 41,
+      "name": "드라이버 아츠와 필살기를 사용했을 때\n[ML:Enhance kind=Param1 ]% 확률로 리캐스트가 감소되지 않는다"
+    },
+    {
+      "$id": 178,
+      "style": 41,
+      "name": "상대의 방어를 무시하며\n필살기로 주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 179,
+      "style": 41,
+      "name": "인연이 최고일 때 주는 대미지 [ML:Enhance kind=Param1 ]%\n받는 대미지 [ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 180,
+      "style": 41,
+      "name": "[ML:Enhance kind=Param1 ]% 확률로 방어를 무시한다"
+    },
+    {
+      "$id": 181,
+      "style": 41,
+      "name": "[ML:Enhance kind=Param1 ]% 확률로 방어를 반전시킨다\n상대의 방어가 높을수록 대미지가 상승한다"
+    },
+    {
+      "$id": 182,
+      "style": 41,
+      "name": "약점 속성으로 공격했을 때\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승(전체 효과)"
+    },
+    {
+      "$id": 183,
+      "style": 41,
+      "name": "공격해 온 상대를 [ML:Enhance kind=Param1 ]% 확률로 날려 버린다\n(전체 효과)"
+    },
+    {
+      "$id": 184,
+      "style": 41,
+      "name": "오토 어택 속도가 [ML:Enhance kind=Param1 ]% 상승한다"
+    },
+    {
+      "$id": 185,
+      "style": 41,
+      "name": "오토 어택이 반드시 2회 공격이 되며\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 186,
+      "style": 41,
+      "name": "다운 상태인 적을 공격했을 때 주는\n대미지 [ML:Enhance kind=Param1 ]% 상승 / 다운 시간도 연장된다"
+    },
+    {
+      "$id": 187,
+      "style": 41,
+      "name": "아츠를 사용했을 때 현재 HP의 [ML:Enhance kind=Param1 ]%만큼\nHP 감소 / 아츠 중 적의 공격을 회피한다"
+    },
+    {
+      "$id": 188,
+      "style": 41,
+      "name": "공격이 명중했을 때\n자신에게 오는 어그로가 [ML:Enhance kind=Param1 ]% 감소한다"
+    },
+    {
+      "$id": 189,
+      "style": 41,
+      "name": "크리티컬이 발생했을 때\n사용한 아츠의 리캐스트 [ML:Enhance kind=Param1 ]% 회복"
+    },
+    {
+      "$id": 190,
+      "style": 41,
+      "name": "크리티컬이 발생했을 때 사용한 아츠와\n필살기의 리캐스트 [ML:Enhance kind=Param1 ]% 회복"
+    },
+    {
+      "$id": 191,
+      "style": 41,
+      "name": "필살기를 사용했을 때 인연 [ML:Enhance kind=Param1 ] 상승"
+    },
+    {
+      "$id": 192,
+      "style": 41,
+      "name": "적의 브레이크 저항력을 감소시킨다"
+    },
+    {
+      "$id": 193,
+      "style": 41,
+      "name": "필살기를 사용할 때마다 주는 대미지가\n[ML:Enhance kind=Param1 ]% 상승한다(최대 [ML:Enhance ]%)"
+    },
+    {
+      "$id": 194,
+      "style": 41,
+      "name": "적에게 공격을 받았을 때\n[ML:Enhance kind=Param1 ]% 확률로 넉 백을 가한다"
+    },
+    {
+      "$id": 195,
+      "style": 41,
+      "name": "인연이 최고일 때 명중률 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 196,
+      "style": 41,
+      "name": "회복 포트의 지속 시간 [ML:Enhance kind=Param1 ]초 연장\n(전체 효과)"
+    },
+    {
+      "$id": 197,
+      "style": 41,
+      "name": "전투에 참가한 여성 1인당\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승(자신 제외)"
+    },
+    {
+      "$id": 198,
+      "style": 41,
+      "name": "인연이 최고일 때 주는 대미지\n[ML:Enhance kind=Param1 ]% 상승 / 받는 대미지 [ML:Enhance kind=Param2 ]% 감소"
+    },
+    {
+      "$id": 199,
+      "style": 41,
+      "name": "체인 어택 중 자신의 차례가 올 때마다\n크리티컬 확률 [ML:Enhance kind=Param1 ]% 상승(전체 효과)"
+    },
+    {
+      "$id": 200,
+      "style": 41,
+      "name": "블레이드 스위치로 전투에 참가했을 때\n적 전체에게 대미지를 준다"
+    },
+    {
+      "$id": 201,
+      "style": 41,
+      "name": "캔슬 성공의 판정 시간 [ML:Enhance kind=Param1 ]% 연장"
+    },
+    {
+      "$id": 202,
+      "style": 41,
+      "name": "공격이 명중했을 때 파티 전체의 HP가\n주는 대미지의 [ML:Enhance kind=Param1 ]%만큼 회복된다"
+    },
+    {
+      "$id": 203,
+      "style": 41,
+      "name": "어필 중인 블레이드와 스위치했을 때\n각 콤보의 유효 시간 [ML:Enhance kind=Param1 ]% 연장"
+    },
+    {
+      "$id": 204,
+      "style": 41,
+      "name": "인연이 최고일 때\n파티 전체가 주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 205,
+      "style": 41,
+      "name": "하늘의 성배의 힘으로\n드라이버의 능력이 대폭 강화된다"
+    },
+    {
+      "$id": 206,
+      "style": 41,
+      "name": "하늘의 성배의 가호로\n파티 전체의 능력이 대폭 강화된다"
+    },
+    {
+      "$id": 207,
+      "style": 41,
+      "name": "화속성 대미지 [ML:Enhance kind=Param2 ]% 감소"
+    },
+    {
+      "$id": 208,
+      "style": 41,
+      "name": "수속성 대미지 [ML:Enhance kind=Param2 ]% 감소"
+    },
+    {
+      "$id": 209,
+      "style": 41,
+      "name": "풍속성 대미지 [ML:Enhance kind=Param2 ]% 감소"
+    },
+    {
+      "$id": 210,
+      "style": 41,
+      "name": "지속성 대미지 [ML:Enhance kind=Param2 ]% 감소"
+    },
+    {
+      "$id": 211,
+      "style": 41,
+      "name": "뇌속성 대미지 [ML:Enhance kind=Param2 ]% 감소"
+    },
+    {
+      "$id": 212,
+      "style": 41,
+      "name": "빙속성 대미지 [ML:Enhance kind=Param2 ]% 감소"
+    },
+    {
+      "$id": 213,
+      "style": 41,
+      "name": "광속성 대미지 [ML:Enhance kind=Param2 ]% 감소"
+    },
+    {
+      "$id": 214,
+      "style": 41,
+      "name": "암속성 대미지 [ML:Enhance kind=Param2 ]% 감소"
+    },
+    {
+      "$id": 215,
+      "style": 41,
+      "name": "체인 어택이 시작됐을 때\n공격력 배율 상승"
+    },
+    {
+      "$id": 216,
+      "style": 41,
+      "name": "비스트를 공격했을 때\n주는 대미지 [ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 217,
+      "style": 41,
+      "name": "인섹트를 공격했을 때\n주는 대미지 [ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 218,
+      "style": 41,
+      "name": "플라이어를 공격했을 때\n주는 대미지 [ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 219,
+      "style": 41,
+      "name": "아쿠아틱을 공격했을 때\n주는 대미지 [ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 220,
+      "style": 41,
+      "name": "휴머노이드를 공격했을 때\n주는 대미지 [ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 221,
+      "style": 41,
+      "name": "머신을 공격했을 때\n주는 대미지 [ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 222,
+      "style": 41,
+      "name": "아르스를 공격했을 때\n주는 대미지 [ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 223,
+      "style": 41,
+      "name": "비스트를 공격했을 때 [ML:Enhance kind=Param2 ]% 확률로\n전투 불능으로 만든다(보스와 유니크 제외)"
+    },
+    {
+      "$id": 224,
+      "style": 41,
+      "name": "인섹트를 공격했을 때 [ML:Enhance kind=Param2 ]% 확률로\n전투 불능으로 만든다(보스와 유니크 제외)"
+    },
+    {
+      "$id": 225,
+      "style": 41,
+      "name": "플라이어를 공격했을 때 [ML:Enhance kind=Param2 ]% 확률로\n전투 불능으로 만든다(보스와 유니크 제외)"
+    },
+    {
+      "$id": 226,
+      "style": 41,
+      "name": "아쿠아틱을 공격했을 때 [ML:Enhance kind=Param2 ]% 확률로\n전투 불능으로 만든다(보스와 유니크 제외)"
+    },
+    {
+      "$id": 227,
+      "style": 41,
+      "name": "휴머노이드를 공격했을 때 [ML:Enhance kind=Param2 ]% 확률로\n전투 불능으로 만든다(보스와 유니크 제외)"
+    },
+    {
+      "$id": 228,
+      "style": 41,
+      "name": "머신을 공격했을 때 [ML:Enhance kind=Param2 ]% 확률로\n전투 불능으로 만든다(보스와 유니크 제외)"
+    },
+    {
+      "$id": 229,
+      "style": 41,
+      "name": "아르스를 공격했을 때 [ML:Enhance kind=Param2 ]% 확률로\n전투 불능으로 만든다(보스와 유니크 제외)"
+    },
+    {
+      "$id": 230,
+      "style": 41,
+      "name": "HP [ML:Enhance ]% 이하일 때\nHP가 초당 [ML:Enhance kind=Param1 ]% 회복된다"
+    },
+    {
+      "$id": 231,
+      "style": 41,
+      "name": "드라이버 아츠를 사용했을 때\nHP가 [ML:Enhance kind=Param1 ]% 회복된다"
+    },
+    {
+      "$id": 232,
+      "style": 41,
+      "name": "아츠를 사용했을 때\nHP가 [ML:Enhance kind=Param1 ]% 회복된다"
+    },
+    {
+      "$id": 233,
+      "style": 41,
+      "name": "오토 어택을 드라이버 아츠로 캔슬했을 때\nHP가 [ML:Enhance kind=Param1 ]% 회복된다"
+    },
+    {
+      "$id": 234,
+      "style": 41,
+      "name": "오토 어택을 아츠로 캔슬했을 때\nHP가 [ML:Enhance kind=Param1 ]% 회복된다"
+    },
+    {
+      "$id": 235,
+      "style": 41,
+      "name": "공격을 받았을 때\n[ML:Enhance ]% 확률로 HP가 [ML:Enhance kind=Param1 ]% 회복된다"
+    },
+    {
+      "$id": 236,
+      "style": 41,
+      "name": "이동 중 HP가 초당 [ML:Enhance kind=Param1 ]% 회복된다"
+    },
+    {
+      "$id": 237,
+      "style": 41,
+      "name": "인연이 최고일 때 일정 시간마다\n아군 전체의 HP가 [ML:Enhance kind=Param1 ]% 회복된다"
+    },
+    {
+      "$id": 238,
+      "style": 41,
+      "name": "가드가 발생했을 때 화속성 공격을 흡수해\n받은 대미지만큼 HP가 회복된다"
+    },
+    {
+      "$id": 239,
+      "style": 41,
+      "name": "가드가 발생했을 때 수속성 공격을 흡수해\n받은 대미지만큼 HP가 회복된다"
+    },
+    {
+      "$id": 240,
+      "style": 41,
+      "name": "가드가 발생했을 때 풍속성 공격을 흡수해\n받은 대미지만큼 HP가 회복된다"
+    },
+    {
+      "$id": 241,
+      "style": 41,
+      "name": "가드가 발생했을 때 지속성 공격을 흡수해\n받은 대미지만큼 HP가 회복된다"
+    },
+    {
+      "$id": 242,
+      "style": 41,
+      "name": "가드가 발생했을 때 뇌속성 공격을 흡수해\n받은 대미지만큼 HP가 회복된다"
+    },
+    {
+      "$id": 243,
+      "style": 41,
+      "name": "가드가 발생했을 때 빙속성 공격을 흡수해\n받은 대미지만큼 HP가 회복된다"
+    },
+    {
+      "$id": 244,
+      "style": 41,
+      "name": "가드가 발생했을 때 광속성 공격을 흡수해\n받은 대미지만큼 HP가 회복된다"
+    },
+    {
+      "$id": 245,
+      "style": 41,
+      "name": "가드가 발생했을 때 암속성 공격을 흡수해\n받은 대미지만큼 HP가 회복된다"
+    },
+    {
+      "$id": 246,
+      "style": 41,
+      "name": "가드가 발생했을 때 화속성 공격을 반사해\n적에게 대미지를 준다"
+    },
+    {
+      "$id": 247,
+      "style": 41,
+      "name": "가드가 발생했을 때 수속성 공격을 반사해\n적에게 대미지를 준다"
+    },
+    {
+      "$id": 248,
+      "style": 41,
+      "name": "가드가 발생했을 때 풍속성 공격을 반사해\n적에게 대미지를 준다"
+    },
+    {
+      "$id": 249,
+      "style": 41,
+      "name": "가드가 발생했을 때 지속성 공격을 반사해\n적에게 대미지를 준다"
+    },
+    {
+      "$id": 250,
+      "style": 41,
+      "name": "가드가 발생했을 때 뇌속성 공격을 반사해\n적에게 대미지를 준다"
+    },
+    {
+      "$id": 251,
+      "style": 41,
+      "name": "가드가 발생했을 때 빙속성 공격을 반사해\n적에게 대미지를 준다"
+    },
+    {
+      "$id": 252,
+      "style": 41,
+      "name": "가드가 발생했을 때 광속성 공격을 반사해\n적에게 대미지를 준다"
+    },
+    {
+      "$id": 253,
+      "style": 41,
+      "name": "가드가 발생했을 때 암속성 공격을 반사해\n적에게 대미지를 준다"
+    },
+    {
+      "$id": 254,
+      "style": 41,
+      "name": "성배의 검 타입의 무기 공격력\n[ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 255,
+      "style": 41,
+      "name": "시미터 타입의 무기 공격력\n[ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 256,
+      "style": 41,
+      "name": "트윈 링 타입의 무기 공격력\n[ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 257,
+      "style": 41,
+      "name": "하나 실드 타입의 무기 공격력\n[ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 258,
+      "style": 41,
+      "name": "하나 암즈 타입의 무기 공격력\n[ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 259,
+      "style": 41,
+      "name": "하나 세이버 타입의 무기 공격력\n[ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 260,
+      "style": 41,
+      "name": "사벨 타입의 무기 공격력\n[ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 261,
+      "style": 41,
+      "name": "대검 타입의 무기 공격력\n[ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 262,
+      "style": 41,
+      "name": "트윈 사이스 타입의 무기 공격력\n[ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 263,
+      "style": 41,
+      "name": "액스 타입의 무기 공격력\n[ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 264,
+      "style": 41,
+      "name": "랜스 타입의 무기 공격력\n[ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 265,
+      "style": 41,
+      "name": "에테르 캐넌 타입의 무기 공격력\n[ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 266,
+      "style": 41,
+      "name": "해머 타입의 무기 공격력\n[ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 267,
+      "style": 41,
+      "name": "도검 타입의 무기 공격력\n[ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 268,
+      "style": 41,
+      "name": "볼 타입의 무기 공격력\n[ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 269,
+      "style": 41,
+      "name": "너클 클로 타입의 무기 공격력\n[ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 270,
+      "style": 41,
+      "name": "가드 중 일정한 간격으로 HP가 [ML:Enhance kind=Param1 ]% 회복\n공격을 받으면 다른 아츠의 리캐스트 상승"
+    },
+    {
+      "$id": 271,
+      "style": 41,
+      "name": "[ML:Enhance kind=Param1 ]% 확률로 사격 공격을 회피한다"
+    },
+    {
+      "$id": 272,
+      "style": 41,
+      "name": "전투가 시작됐을 때 X 버튼으로 사용하는\n드라이버 아츠를 바로 사용할 수 있다"
+    },
+    {
+      "$id": 273,
+      "style": 41,
+      "name": "전투가 시작됐을 때 X 버튼으로 사용하는\n아츠를 바로 사용할 수 있다"
+    },
+    {
+      "$id": 274,
+      "style": 41,
+      "name": "전투가 시작됐을 때 Y 버튼으로 사용하는\n드라이버 아츠를 바로 사용할 수 있다"
+    },
+    {
+      "$id": 275,
+      "style": 41,
+      "name": "전투가 시작됐을 때 Y 버튼으로 사용하는\n아츠를 바로 사용할 수 있다"
+    },
+    {
+      "$id": 276,
+      "style": 41,
+      "name": "전투가 시작됐을 때 B 버튼으로 사용하는\n드라이버 아츠를 바로 사용할 수 있다"
+    },
+    {
+      "$id": 277,
+      "style": 41,
+      "name": "전투가 시작됐을 때 B 버튼으로 사용하는\n아츠를 바로 사용할 수 있다"
+    },
+    {
+      "$id": 278,
+      "style": 41,
+      "name": "드라이버 아츠를 캔슬하면서\n드라이버 아츠를 사용할 수 있다"
+    },
+    {
+      "$id": 279,
+      "style": 41,
+      "name": "블레이드 스위치를 했을 때 사용 가능했던\n아츠 수에 따라 쿨링 다운이 단축된다"
+    },
+    {
+      "$id": 280,
+      "style": 41,
+      "name": "도발 저항력 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 281,
+      "style": 41,
+      "name": "드라이버 봉쇄 저항력 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 282,
+      "style": 41,
+      "name": "블레이드 봉쇄 저항력 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 283,
+      "style": 41,
+      "name": "엘리멘털 버스트가 발생했을 때 무작위로\n선택된 속성구를 추가로 파괴한다"
+    },
+    {
+      "$id": 284,
+      "style": 41,
+      "name": "공격이 명중했을 때 회복 포트(소)를 생성\n[ML:Enhance kind=Param1 ]% 확률로 2개 생성할 수 있다"
+    },
+    {
+      "$id": 285,
+      "style": 41,
+      "name": "체인 어택 중 반대 속성으로 공격했을 때\n속성구를 일격에 파괴한다"
+    },
+    {
+      "$id": 286,
+      "style": 41,
+      "name": "체인 어택 중 공격했을 때 [ML:Enhance kind=Param1 ]% 확률로\n인접한 속성구에도 대미지를 준다"
+    },
+    {
+      "$id": 287,
+      "style": 41,
+      "name": "체인 어택 중 반대 속성이 아닌 공격을\n했을 때 피해를 받은 속성구가 대상이 된다"
+    },
+    {
+      "$id": 288,
+      "style": 41,
+      "name": "악취 저항력 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 289,
+      "style": 41,
+      "name": "공격이 명중했을 때\n회복 포트(소)를 생성한다"
+    },
+    {
+      "$id": 290,
+      "style": 41,
+      "name": "블레이드 콤보가 발생했을 때 [ML:Enhance kind=Param1 ]% 확률로\n속성구를 추가한다(전체 효과)"
+    },
+    {
+      "$id": 291,
+      "style": 41,
+      "name": "드라이버 아츠 중 적의 공격을 회피한다"
+    },
+    {
+      "$id": 292,
+      "style": 41,
+      "name": "아츠 중 적의 공격을 회피한다"
+    },
+    {
+      "$id": 293,
+      "style": 41,
+      "name": "드라이버가 전투 불능이 됐을 때\n어그로가 사라지지 않고 [ML:Enhance kind=Param1 ]% 유지된다"
+    },
+    {
+      "$id": 294,
+      "style": 41,
+      "name": "사이카와 인연이 최고일 때 R과 ＋를 동시에\n눌러 일정 시간 각성한다(전투당 1번 한정)"
+    },
+    {
+      "$id": 295,
+      "style": 41,
+      "name": "각 드라이버가 전투 불능이 될 때마다\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승(최대 [ML:Enhance ]%)"
+    },
+    {
+      "$id": 296,
+      "style": 41,
+      "name": "오토 어택의 속도 [ML:Enhance kind=Param1 ]%\n아츠의 속도 [ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 297,
+      "style": 41,
+      "name": "필살기 Ⅳ를 사용할 때마다 필살기 Ⅳ가\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승(최대 [ML:Enhance ]%)"
+    },
+    {
+      "$id": 298,
+      "style": 41,
+      "name": "적이 강력한 공격을 했을 때 버튼 챌린지를\n성공하면 공격 무효화([ML:Enhance kind=Param1 ]초 후 재발동)"
+    },
+    {
+      "$id": 299,
+      "style": 41,
+      "name": "필살기를 사용했을 때 적의 각성 상태를\n[ML:Enhance kind=Param1 ]% 확률로 해제한다"
+    },
+    {
+      "$id": 300,
+      "style": 41,
+      "name": "인연이 최고일 때 크리티컬 확률\n[ML:Enhance kind=Param1 ]% 상승(전체 효과)"
+    },
+    {
+      "$id": 301,
+      "style": 41,
+      "name": "크리티컬이 발생할 때마다\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승(최대 [ML:Enhance ]%)"
+    },
+    {
+      "$id": 302,
+      "style": 41,
+      "name": "공격을 회피했을 때 전투에 참가한 모든\n적에게 에테르의 [ML:Enhance kind=Param1 ]%만큼 대미지를 준다"
+    },
+    {
+      "$id": 303,
+      "style": 41,
+      "name": "공격을 회피했을 때 [ML:Enhance ]% 확률로\nHP가 [ML:Enhance kind=Param1 ]% 회복된다"
+    },
+    {
+      "$id": 304,
+      "style": 41,
+      "name": "공격을 회피했을 때\n드라이버 아츠의 리캐스트 [ML:Enhance kind=Param1 ] 상승"
+    },
+    {
+      "$id": 305,
+      "style": 41,
+      "name": "인연이 최고일 때 주는 대미지\n[ML:Enhance kind=Param1 ]% 상승 / 회피율 [ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 306,
+      "style": 41,
+      "name": "라이징 상태인 적을 공격했을 때\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승(전체 효과)"
+    },
+    {
+      "$id": 307,
+      "style": 41,
+      "name": "회복 포트를 주울 때마다\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승(최대 [ML:Enhance ]%)"
+    },
+    {
+      "$id": 308,
+      "style": 41,
+      "name": "드롭 아이템 수집 거리 [ML:Enhance kind=Param1 ]cm 연장"
+    },
+    {
+      "$id": 309,
+      "style": 41,
+      "name": "전투 중 이동 속도 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 310,
+      "style": 41,
+      "name": "회복 무효 저항력 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 311,
+      "style": 41,
+      "name": "즉사 저항력 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 312,
+      "style": 41,
+      "name": "파티 게이지 감소 공격 저항력\n[ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 313,
+      "style": 41,
+      "name": "주는 대미지 [ML:Enhance kind=Param1 ]% 상승\n받는 대미지 [ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 314,
+      "style": 41,
+      "name": "받는 대미지 [ML:Enhance kind=Param1 ]% 감소\n주는 대미지 [ML:Enhance kind=Param2 ]% 감소"
+    },
+    {
+      "$id": 315,
+      "style": 41,
+      "name": "어태커 스위치를 할 때마다\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승(최대 [ML:Enhance ]%)"
+    },
+    {
+      "$id": 316,
+      "style": 41,
+      "name": "모든 디버프 저항력 [ML:Enhance kind=Param1 ]% 상승\n(전체 효과)"
+    },
+    {
+      "$id": 317,
+      "style": 41,
+      "name": "캔슬할 때마다\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승(최대 [ML:Enhance ]%)"
+    },
+    {
+      "$id": 318,
+      "style": 41,
+      "name": "필살기를 사용했을 때 적의 분노 상태를\n[ML:Enhance kind=Param1 ]% 확률로 해제한다"
+    },
+    {
+      "$id": 319,
+      "style": 41,
+      "name": "엘마가 전투에 참가했을 때 R과 －로 발동\n파티 게이지 3칸 소비, 효과 시간 [ML:Enhance kind=Param1 ]초"
+    },
+    {
+      "$id": 320,
+      "style": 41,
+      "name": "인연이 최고일 때 주는 대미지 [ML:Enhance kind=Param1 ]%\n크리티컬 확률 [ML:Enhance kind=Param2 ]% 상승"
+    },
+    {
+      "$id": 321,
+      "style": 41,
+      "name": "크리티컬 확률이 상승한다"
+    },
+    {
+      "$id": 322,
+      "style": 41,
+      "name": "명중률이 상승한다"
+    },
+    {
+      "$id": 323,
+      "style": 41,
+      "name": "다음 아츠의 위력이 상승한다"
+    },
+    {
+      "$id": 324,
+      "style": 41,
+      "name": "오토 어택의 리캐스트 증가량이 상승한다"
+    },
+    {
+      "$id": 325,
+      "style": 41,
+      "name": "대미지를 일정량 흡수하는 배리어를 펼친다"
+    },
+    {
+      "$id": 326,
+      "style": 41,
+      "name": "리액션을 한 번만 무효화한다"
+    },
+    {
+      "$id": 327,
+      "style": 41,
+      "name": "적에게 받은 디버프를 해제한다"
+    },
+    {
+      "$id": 328,
+      "style": 41,
+      "name": "후방 공격 대미지 상승 / 어그로 50% 감소"
+    },
+    {
+      "$id": 329,
+      "style": 41,
+      "name": "전투에 참가한 에너미의 어그로를 획득한다"
+    },
+    {
+      "$id": 330,
+      "style": 41,
+      "name": "적의 물리 방어를 감소시킨다"
+    },
+    {
+      "$id": 331,
+      "style": 41,
+      "name": "적의 에테르 방어를 감소시킨다"
+    },
+    {
+      "$id": 332,
+      "style": 41,
+      "name": "적의 레지스트 확률을 감소시킨다"
+    },
+    {
+      "$id": 333,
+      "style": 41,
+      "name": "아츠를 캔슬하면서\n아츠를 사용할 수 있다"
+    },
+    {
+      "$id": 334,
+      "style": 41,
+      "name": "독 에어리어 등 지형 대미지 [ML:Enhance kind=Param1 ]% 감소"
+    },
+    {
+      "$id": 335,
+      "style": 41,
+      "name": "필살기를 사용했을 때 드라이버에게\n잔상 부여, 공격을 [ML:Enhance kind=Param1 ]회 회피할 수 있다"
+    },
+    {
+      "$id": 336,
+      "style": 41,
+      "name": "리저브 HP가 있을 때\n주는 대미지 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 337,
+      "style": 41,
+      "name": "리저브 HP가 있을 때\n회피율 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 338,
+      "style": 41,
+      "name": "리저브 HP가 있을 때\n가드 확률 [ML:Enhance kind=Param1 ]% 상승"
+    },
+    {
+      "$id": 339,
+      "style": 41,
+      "name": "리저브 HP가 있을 때\n크리티컬 확률 [ML:Enhance kind=Param1 ]% 상승"
+    }
+  ]
+}

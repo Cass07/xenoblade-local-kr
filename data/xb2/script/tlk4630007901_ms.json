@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46300079_01_msg0001",
+      "style": 84,
+      "name": "물자 점검 중입니다"
+    },
+    {
+      "$id": 2,
+      "label": "tlk46300079_01_msg0002",
+      "style": 84,
+      "name": "마르베니 성하께 받았죠"
+    },
+    {
+      "$id": 3,
+      "label": "tlk46300079_01_msg0003",
+      "style": 84,
+      "name": "난민에게 전달할 예정입니다\n…일이 있으니 이만"
+    }
+  ]
+}

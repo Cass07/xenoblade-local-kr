@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102114_msg001",
+      "style": 84,
+      "name": "델피나 씨로부터 통행을 제한하라는\n지시를 받았다"
+    },
+    {
+      "$id": 2,
+      "label": "qst102114_msg002",
+      "style": 84,
+      "name": "안 좋은 일이 생긴 게\n아니어야 할 텐데…"
+    }
+  ]
+}

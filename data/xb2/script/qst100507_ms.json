@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst100507_msg0001",
+      "style": 84,
+      "name": "아바리티아의 기원을\n찾고 있다고 들었네만"
+    },
+    {
+      "$id": 2,
+      "label": "qst100507_msg0002",
+      "style": 84,
+      "name": "어쩌면 어마어마한 발견을\n할지도 모르겠군…"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200230_msg0001",
+      "style": 84,
+      "name": "호오, 제법 거물인데…"
+    },
+    {
+      "$id": 2,
+      "label": "qst200230_msg0002",
+      "style": 84,
+      "name": "이 녀석이 마지막인 것 같군…"
+    },
+    {
+      "$id": 3,
+      "label": "qst200230_msg0007",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]우오오오오오오오!!\n얘들아, 가자!"
+    }
+  ]
+}

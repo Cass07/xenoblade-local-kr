@@ -1,0 +1,492 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk063_msg0001",
+      "style": 84,
+      "name": "왜 그래 호타루?\n기운이 없어 보여"
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk063_msg0002",
+      "style": 84,
+      "name": "왜 그래 호타루?\n기운이 없어 보이네"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk063_msg0003",
+      "style": 84,
+      "name": "무슨 일이지, 호타루?\n기운이 없어 보인다만…"
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk063_msg0004",
+      "style": 84,
+      "name": "무슨 일 있나 호타루?\n표정에 힘이 없구마"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk063_msg0005",
+      "style": 84,
+      "name": "대지가 모래에 묻혀 있어"
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk063_msg0006",
+      "style": 84,
+      "name": "여기가 정말 낙원일까?"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk063_msg0007",
+      "style": 84,
+      "name": "꽃도 나무도 풀조차도 없이\n모래와 바위만 있는 대지가?"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk063_msg0009",
+      "style": 84,
+      "name": "저기를 봐\n저건 아마 호수였을 거야"
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk063_msg0010",
+      "style": 84,
+      "name": "하지만 물은 한 방울도 없어"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk063_msg0011",
+      "style": 84,
+      "name": "여긴 비도 안 내리겠지"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk063_msg0012",
+      "style": 84,
+      "name": "여긴 비도 안 내리겠지"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk063_msg0013",
+      "style": 84,
+      "name": "이런 곳에는 비도 안 내리겠지"
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk063_msg0014",
+      "style": 84,
+      "name": "여기는 비도 안 내리는갑네"
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk063_msg0015",
+      "style": 84,
+      "name": "생명에게 있어서\n물은 무엇과도 바꿀 수 없는 것인데"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk063_msg0016",
+      "style": 84,
+      "name": "그 물이 여기엔 없어"
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk063_msg0017",
+      "style": 84,
+      "name": "이런 땅에서는 생명이 생겨날 수 없어"
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk063_msg0018",
+      "style": 84,
+      "name": "척박한 대지라면 아직 가망이 있지\n하지만 여긴…"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk063_msg0019",
+      "style": 84,
+      "name": "이 땅은 이미 죽어 버렸어"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk063_msg0020",
+      "style": 165,
+      "name": "호타루"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk063_msg0021",
+      "style": 164,
+      "name": "초목을 되살릴 방법은 없을까?"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk063_msg0022",
+      "style": 164,
+      "name": "자연을 잃다니, 참 마음 아픈 일이야"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk063_msg0023",
+      "style": 165,
+      "name": "호타루"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk063_msg0024",
+      "style": 164,
+      "name": "초목을 되살릴 방법은 없어?"
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk063_msg0025",
+      "style": 164,
+      "name": "자연을 잃다니, 너무 마음 아프네"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk063_msg0026",
+      "style": 165,
+      "name": "호타루"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk063_msg0027",
+      "style": 164,
+      "name": "초목을 되살릴 방법은 없는 건가?"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk063_msg0028",
+      "style": 164,
+      "name": "자연을 잃다니, 참 안타깝군"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk063_msg0029",
+      "style": 165,
+      "name": "호타루"
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk063_msg0030",
+      "style": 164,
+      "name": "초목을 어떻게 되살릴 수 있지 않겠나?"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk063_msg0031",
+      "style": 164,
+      "name": "자연이 사라진다는 건 마음이 너무 아프구마"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk063_msg0101",
+      "style": 84,
+      "name": "이런 모래에서는 뿌리도 내릴 수 없고\n물이 없어서 풀과 나무도 자라지 못해"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk063_msg0102",
+      "style": 84,
+      "name": "!"
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk063_msg0103",
+      "style": 84,
+      "name": "아니지, 가능할지도 몰라"
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk063_msg0104",
+      "style": 84,
+      "name": "?"
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk063_msg0105",
+      "style": 84,
+      "name": "생명이란 건\n정말 어마어마하게 강하거든"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk063_msg0106",
+      "style": 84,
+      "name": "물론 이 모래로 된 땅에서\n생명이 태어날 순 없겠지만…"
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk063_msg0107",
+      "style": 84,
+      "name": "다른 곳에서 자란 초목을\n여기서 키우는 건 될 수도 있다고?"
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk063_msg0108",
+      "style": 84,
+      "name": "다른 곳에서 자란 초목을\n여기서 키우는 건 될 수도 있다고?"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk063_msg0109",
+      "style": 84,
+      "name": "다른 곳에서 자란 초목을\n여기서 키우는 건 가능할 수도 있겠어"
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk063_msg0110",
+      "style": 84,
+      "name": "다른 곳에서 자란 초목을\n여서 키우는 건 가능한 거 아이가?"
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk063_msg0111",
+      "style": 84,
+      "name": "응!"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk063_msg0112",
+      "style": 84,
+      "name": "아마 처음에는\n그렇게 오래 못 살지도 몰라"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk063_msg0113",
+      "style": 84,
+      "name": "하지만 그 식물이 죽어도\n이 대지에 거름이 되어"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk063_msg0114",
+      "style": 84,
+      "name": "이어서 자랄 초목의 양분이 될 거야"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk063_msg0115",
+      "style": 84,
+      "name": "굉장히 오래 걸릴지도 모르지만\n그걸 반복하면"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk063_msg0116",
+      "style": 84,
+      "name": "어쩌면 이 죽어 버린 대지도\n살려낼 수 있을지 몰라!"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk063_msg0117",
+      "style": 84,
+      "name": "이제야 호타루가\n평소대로 돌아온 것 같아"
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk063_msg0118",
+      "style": 84,
+      "name": "이제야 호타루가\n평소대로 돌아왔네"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk063_msg0119",
+      "style": 84,
+      "name": "이제야 호타루가\n원래 모습을 되찾았군"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk063_msg0120",
+      "style": 84,
+      "name": "호타루, 이제야\n평소대로 돌아왔구마"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk063_msg0121",
+      "style": 84,
+      "name": "응!\n고마워"
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk063_msg0122",
+      "style": 84,
+      "name": "나, 해 볼게"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk063_msg0123",
+      "style": 84,
+      "name": "반드시 이 땅에\n초목을 되살려 주겠어!"
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk063_msg0201",
+      "style": 84,
+      "name": "당연히 슬프지"
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk063_msg0202",
+      "style": 84,
+      "name": "자연을 잃으면\n생명이고 뭐고 모두 잃어버리거든"
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk063_msg0203",
+      "style": 84,
+      "name": "인간은 이 광경을 보면\n슬프지 않아?"
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk063_msg0204",
+      "style": 84,
+      "name": "많은 생명은 자연에서 태어나\n자연과 더불어 살고 있을 텐데"
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk063_msg0205",
+      "style": 84,
+      "name": "왜 그걸 소중히 여기지 않을까?"
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk063_msg0206",
+      "style": 84,
+      "name": "자기 목숨만큼 소중한 건데\n어떻게 소홀히 대할 수 있는 거지?"
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk063_msg0207",
+      "style": 84,
+      "name": "아마 그건 너무 당연한 사실이라\n그 소중함을 깨닫지 못하는 걸 거야"
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk063_msg0208",
+      "style": 84,
+      "name": "아마 그건 너무 당연한 사실이라\n그 소중함을 깨닫지 못하는 거 아닐까?"
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk063_msg0209",
+      "style": 84,
+      "name": "아마 그건 너무 당연한 사실이라\n그 소중함을 깨닫지 못했기 때문일 거다"
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk063_msg0210",
+      "style": 84,
+      "name": "아마 그게 너무 당연한 사실이라\n다들 그 소중함을 모르는 걸 기다"
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk063_msg0211",
+      "style": 84,
+      "name": "나는 블레이드라\n자연에서 태어나지 않았어"
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk063_msg0212",
+      "style": 84,
+      "name": "그래서 인간이 정말 부럽고\n자연을 아끼지 않는 인간을 용서할 수 없어"
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk063_msg0213",
+      "style": 84,
+      "name": "너처럼 착한 사람도 있지만"
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk063_msg0214",
+      "style": 84,
+      "name": "나는 아직\n대부분의 인간들을 이해하지 못해"
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk063_msg0215",
+      "style": 84,
+      "name": "지금은 그 정도면 됐다고 생각해"
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk063_msg0216",
+      "style": 84,
+      "name": "조급해할 필요는 없어\n천천히 서로를 이해하자"
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk063_msg0217",
+      "style": 84,
+      "name": "지금은 그 정도면 됐어"
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk063_msg0218",
+      "style": 84,
+      "name": "언젠가 서로 이해할 수 있을 때가 올 거야"
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk063_msg0219",
+      "style": 84,
+      "name": "조급해할 필요는 없어"
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk063_msg0220",
+      "style": 84,
+      "name": "시간을 가지고\n천천히 서로를 알아가자"
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk063_msg0221",
+      "style": 84,
+      "name": "지금은 그걸로 됐다"
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk063_msg0222",
+      "style": 84,
+      "name": "천천히 서로를 이해하면 되는 기라"
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk063_msg0223",
+      "style": 84,
+      "name": "그래, 맞아"
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk063_msg0224",
+      "style": 84,
+      "name": "넌 나를\n정말 잘 이해해 주는구나"
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk063_msg0225",
+      "style": 84,
+      "name": "덕분에 슬픈 일이 있더라도\n앞을 바라볼 수 있어"
+    },
+    {
+      "$id": 79,
+      "label": "kizunatalk063_msg0226",
+      "style": 84,
+      "name": "고마워!\n앞으로도 잘 부탁해!"
+    }
+  ]
+}

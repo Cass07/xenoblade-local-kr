@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst001008_msg001",
+      "style": 84,
+      "name": "걱정 끼치지 말라고\n고르사 씨에게 혼났어"
+    },
+    {
+      "$id": 2,
+      "label": "qst001008_msg002",
+      "style": 84,
+      "name": "다음에 나갈 때는\n좀 더 조심해야지"
+    },
+    {
+      "$id": 3,
+      "label": "qst001008_msg003",
+      "style": 84,
+      "name": "하지만 질우드가 드라이버라면\n이런 걱정을 할 필요도 없을 텐데"
+    }
+  ]
+}

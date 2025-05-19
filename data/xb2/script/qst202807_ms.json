@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202807_msg0001",
+      "style": 84,
+      "name": "찾았어!"
+    },
+    {
+      "$id": 2,
+      "label": "qst202807_msg0002",
+      "style": 84,
+      "name": "…이건\n처음 보는 광석이네"
+    },
+    {
+      "$id": 3,
+      "label": "qst202807_msg0003",
+      "style": 84,
+      "name": "응, 꽤 희귀한 광석인 것 같아\n미로로 씨에게 감정해 달라고 하자\n기대되는걸…"
+    }
+  ]
+}

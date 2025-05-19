@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn018_msg0001",
+      "style": 84,
+      "name": "宿屋イベント018 未定"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn018_msg001",
+      "style": 84,
+      "name": "렉스, 부탁이 있다만"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn018_msg002",
+      "style": 84,
+      "name": "부탁?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn018_msg003",
+      "style": 84,
+      "name": "흐레스벨그가 한눈에 내려다보이는 곳으로\n데려가 줬으면 좋겠는데, 안내해 주겠나?"
+    },
+    {
+      "$id": 5,
+      "label": "kizunainn018_msg004",
+      "style": 84,
+      "name": "그래, 알았어"
+    }
+  ]
+}

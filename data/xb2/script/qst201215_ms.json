@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201215_msg0001",
+      "style": 84,
+      "name": "와아…\n이 고래맨 멋있고\n정말 맛있겠다!"
+    },
+    {
+      "$id": 2,
+      "label": "qst201215_msg0002",
+      "style": 84,
+      "name": "고마워!"
+    },
+    {
+      "$id": 3,
+      "label": "qst201215_msg1001",
+      "style": 84,
+      "name": "이 고래맨 멋있어서\n먹기 아까워…"
+    }
+  ]
+}

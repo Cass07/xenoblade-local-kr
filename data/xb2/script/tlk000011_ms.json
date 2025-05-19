@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000011_msg0001",
+      "style": 84,
+      "name": "어머, 돌아왔니?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk000011_msg0002",
+      "style": 84,
+      "name": "식사 준비는 다 됐단다\n다 같이 먹자꾸나"
+    },
+    {
+      "$id": 3,
+      "label": "tlk000011_msg0003",
+      "style": 84,
+      "name": "렉스가 어떻게 지냈는지 얘기해 주렴"
+    }
+  ]
+}

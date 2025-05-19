@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200409_msg0001",
+      "style": 84,
+      "name": "으음… 미안해"
+    },
+    {
+      "$id": 2,
+      "label": "qst200409_msg0002",
+      "style": 84,
+      "name": "고리대금업자에 대해서는 몰라"
+    },
+    {
+      "$id": 3,
+      "label": "qst200409_msg0003",
+      "style": 84,
+      "name": "…아, 하지만"
+    },
+    {
+      "$id": 4,
+      "label": "qst200409_msg0004",
+      "style": 84,
+      "name": "요즘 생트집을 잡아 시비를 거는\n녀석들이 있다니까 조심해"
+    }
+  ]
+}

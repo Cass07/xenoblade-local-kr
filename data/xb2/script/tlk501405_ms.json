@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk501405_msg0001",
+      "style": 84,
+      "name": "이다텐의 메모\n「음료 전용 박스야뽀!」"
+    },
+    {
+      "$id": 2,
+      "label": "tlk501405_msg0002",
+      "style": 84,
+      "name": "이다텐의 메모\n「가득 찼어뽀!\n더는 안 들어가뽀!」"
+    },
+    {
+      "$id": 3,
+      "label": "tlk501405_msg0003",
+      "style": 84,
+      "name": "이다텐의 메모\n「텅 비었어뽀?!」"
+    }
+  ]
+}

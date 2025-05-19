@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400041_01_msg0001",
+      "style": 84,
+      "name": "내 생선 요리는\n기막히게 맛있어!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400041_01_msg0004",
+      "style": 84,
+      "name": "어서 와, 오너\n기막히게 맛있는 내 생선 요리를\n먹으러 왔나 보네"
+    }
+  ]
+}

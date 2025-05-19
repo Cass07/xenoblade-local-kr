@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200228_msg0001",
+      "style": 84,
+      "name": "무서웠어"
+    },
+    {
+      "$id": 2,
+      "label": "qst200228_msg0002",
+      "style": 84,
+      "name": "잘 견뎠어!\n뒷일은 우리에게 맡겨!"
+    },
+    {
+      "$id": 3,
+      "label": "qst200228_msg0003",
+      "style": 84,
+      "name": "부탁이야!\n테오스아우레를 구해 줘!"
+    },
+    {
+      "$id": 4,
+      "label": "qst200228_msg0004",
+      "style": 84,
+      "name": "알았어!\n이 주먹에 맹세하지!"
+    }
+  ]
+}

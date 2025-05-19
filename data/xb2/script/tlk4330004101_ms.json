@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300041_01_msg0001",
+      "style": 84,
+      "name": "오, 어서 와\n맛있는 포르타 요리가 나왔어"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300041_01_msg0004",
+      "style": 84,
+      "name": "오, 오너님\n맛있는 포르타 요리가 나왔어"
+    }
+  ]
+}

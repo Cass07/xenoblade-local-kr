@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk400808_msg0001",
+      "style": 84,
+      "name": "여기서 더는 못 갔겠지?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk400808_msg0002",
+      "style": 84,
+      "name": "여기는…"
+    }
+  ]
+}

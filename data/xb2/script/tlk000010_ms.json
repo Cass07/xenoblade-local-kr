@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000010_msg0001",
+      "style": 84,
+      "name": "어?\n당신들은…?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk000010_msg0002",
+      "style": 84,
+      "name": "멜레프 특별 집권관님께\n연락은 받았습니다"
+    },
+    {
+      "$id": 3,
+      "label": "tlk000010_msg0003",
+      "style": 84,
+      "name": "인공 블레이드에 대한 단서를\n찾으신 거죠?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk000010_msg0004",
+      "style": 84,
+      "name": "특별 집권관님께 전해 드릴 테니\n잠시만 기다려 주십시오"
+    }
+  ]
+}
