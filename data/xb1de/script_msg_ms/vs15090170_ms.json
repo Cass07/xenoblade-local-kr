@@ -1,0 +1,179 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "도착한 것 같구나[XENO:n ]\n다들 준비됐지?![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그래[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT19 ]언제든지![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "용사에게 맡겨라모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]……[XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]슈르크 왜 그래?[XENO:n ]\n망설일 필요 없잖아[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "모나드는 완전하지 않아[XENO:n ]\n지금의 에길에게 과연 통할지…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]아포… 어쩌고 하는 녀석인가?[XENO:n ]\n그런 건 우리가 힘을 모으면 아무것도 아니야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]적어도 지난 싸움을 통해[XENO:n ]\n에길이 싸우는 방식을 알 수 있었지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "이제 같은 수에는 당하지 않아[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]중추는 아포크리파 발생기와도[XENO:n ]\n직결되어 있습니다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "발생기를 파괴할 수만 있다면[XENO:n ]\n싸움은 훨씬 유리해질 겁니다[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]그게 정말이야?[XENO:n ]\n그런 건 더 빨리 말해 달라고[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]슈르크! 들었어?![XENO:n ]\n모나드만 제대로 사용할 수 있다면 녀석도[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]신경이 쓰여…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT6 ]뭐가?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]에길은 나를 잔자라고 했어[XENO:n ]\n기신계를 멸망시킨… 잔자라고[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "그 말의 의미가 신경 쓰여[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그런 건 너를 동요시키려고…[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "전에 말했지?[XENO:n ]\n요즘 들어 비전이 보이지 않는다고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]으, 응[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]그래도 알 수 있어. 의식을 집중시키면[XENO:n ]\n감각으로 그 뒤에 무슨 일이 일어날지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT22 ]비전을 보지 않고 안다는 거야?[XENO:n ]\n에이, 또 그런 소리를…[XENO:wait wait=key ][XENO:act act=EVT_EXT24 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "라인, 너는 오른손으로 머리를 긁어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "응?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]뭐야, 슈르크[XENO:n ]\n농담하지 말라고[XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]응? 뭐야?[XENO:n ]\n어떻게 알아챈 거야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "신경이 쓰여…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "내 힘은 기신계에 온 이후로 분명히 변했어[XENO:n ]\n그 힘이 변한 원인이…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]……[XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]잔자가 이 모나드를 사용해서 기신계를[XENO:n ]\n멸망시켰다는 이야기가 사실이라면[XENO:n ]\n나는 이걸 계속 사용해도 되는 걸까…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "내가 하고자 하는 일은 올바른 일일까…[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "슈르크…[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

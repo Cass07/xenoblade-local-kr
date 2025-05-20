@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "이건…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "이 엠블럼은 콜로니 6의 상단 거야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "최근 물자 반입이 끊겨서[XENO:n ]\n이상하다고 생각은 했지만…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "라인, 이 상처는…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "기신병한테 당한 건 아닌 것 같군[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "아마 이 근처에 서식하는[XENO:n ]\n몬스터에게 당한 거겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]분하겠네. 이런 장소에서…[XENO:n ]\n그것도 기신병도 아닌 몬스터에게 당하다니[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]이 사람들한테도 가족이나…[XENO:n ]\n아이들이 있었을까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]글쎄… 있다 해도[XENO:n ]\n이상할 건 없겠지만[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그보다… 왜 그런 걸 묻는데?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "아니… 아무것도 아니야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "저기, 라인. 이 사람들…[XENO:n ]\n거신에게 돌려보내 줄까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "응? 아, 그럴까[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "거신에서 태어난 자는 거신의 품으로 돌아간다…[XENO:n ]\n우리들 홈스의 관례니까 말이지[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

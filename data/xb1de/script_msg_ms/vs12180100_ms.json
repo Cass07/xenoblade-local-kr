@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "…이건?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "용사 리키는 대격투 끝에 물고기를 쓰러뜨렸어모[XENO:n ]\n구워서 냠냠하면 맛있으니까 단반 먹어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "안 쉬면 못 움직이는 거 아니었어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "모, 못 움직였어모[XENO:n ]\n하지만 배도 고팠어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "괜찮은 구석도 있는걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "무, 무슨 말이야모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "숨기지 마. 멜리아도[XENO:n ]\n상당히 지쳤던 모양이니까[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "자기를 위해 쉬는 걸 용납할 애가 아니야[XENO:n ]\n그래서 그랬지?[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]리키 여기서 야영했을 때[XENO:n ]\n단반과 많이 대화했어모[XENO:wait wait=key ][System:PageBreak ]리키가 잡은 생선[XENO:n ]\n맛있다고 해 줬어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]훗, 둘 다 꽤나 늦게까지[XENO:n ]\n깨어 있었나 보구나[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]맞아모![XENO:wait wait=key ][System:PageBreak ]멜리아, 그때 바로 잠들었으니까[XENO:n ]\n생선구이 못 먹었지모?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]생선구이가 대체 무엇이냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]몰라모?[XENO:wait wait=key ][System:PageBreak ]기절할 정도로[XENO:n ]\n맛있는 음식이야모![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:sel sel=・그러한가/・관심 없다 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]반드시 한 번은[XENO:n ]\n먹어 봐야 해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]음, 그런가[XENO:wait wait=key ][System:PageBreak ]그렇게까지 칭찬하니[XENO:n ]\n관심이 생기는구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]그래, 맞아모![XENO:wait wait=key ][System:PageBreak ]리키 멜리아에게[XENO:n ]\n맛있는 생선 잡아다 줄게모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]후후후, 그래[XENO:wait wait=key ][System:PageBreak ]하지만 지금은 여행 중이다[XENO:wait wait=key ][System:PageBreak ]생선구이라는 건[XENO:n ]\n다음에 먹도록 하마[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]뭐~? 아까워모![XENO:n ]\n여기 생선은 정말 맛있어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:sel sel=・방법이 없지 않으냐?/・사양하겠다 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]괜찮아모![XENO:wait wait=key ][System:PageBreak ]리키가 첨벙첨벙하면[XENO:n ]\n금방 잡혀모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]생선이란 게 그렇게 쉽게[XENO:n ]\n잡히는 것이냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "쉽지 않아모![XENO:wait wait=key ][System:PageBreak ]하지만 리키의 실력이 좋아서[XENO:n ]\n금방 잡히는 거야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]훗, 그렇구나[XENO:wait wait=key ][XENO:act act=EVT_EXT1 ][System:PageBreak ]하지만 정말로 괜찮겠느냐?[XENO:wait wait=key ][System:PageBreak ]지금 여기에는[XENO:n ]\n나와 리키밖에 없다만?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]불도 리키가 피워 줄게모![XENO:wait wait=key ][System:PageBreak ]그러니까 멜리아는[XENO:n ]\n기대하고 있어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]그래, 알았다[XENO:wait wait=key ][System:PageBreak ]그럼 나는 여기서[XENO:n ]\n리키를 기다리도록 하마[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "기대해모![XENO:n ]\n금방 돌아올게모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]저렇게 기운이 넘치다니[XENO:wait wait=key ][System:PageBreak ]정말 맛있는 음식인가 보군[XENO:n ]\n기대되는구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]사양하지 마모![XENO:n ]\n멜리아도 먹고 싶지모?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]먹어 보고 싶지만…[XENO:wait wait=key ][System:PageBreak ]지금은 그것보다도[XENO:n ]\n중요한 게 있지 않느냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]그렇지만…[XENO:n ]\n정말 금방 잡아올 거야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]리키, 나는 지금은[XENO:n ]\n필요 없다고 한 것이지[XENO:wait wait=key ][System:PageBreak ]먹고 싶지 않다는 것이 아니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]그럼 그럼[XENO:n ]\n언젠가는 먹어 줄 거야모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "그래. 물론이다[XENO:n ]\n꼭 대접해다오[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]약속할게모![XENO:wait wait=key ][System:PageBreak ]생선을 잔뜩 들고[XENO:n ]\n멜리아에게 갈게모![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "후후, 기대하고 있으마[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]왜 그런 말을 해모~?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]미, 미안하구나…[XENO:wait wait=key ][System:PageBreak ]다만 생선구이라는 것에[XENO:n ]\n관심이 없어서 말이다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "왜 관심을[XENO:n ]\n안 가져 주는 거야모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]흠, 글쎄…[XENO:n ]\n그다지 매력을 못 느껴서겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]정말 맛있어모![XENO:wait wait=key ][System:PageBreak ]속은 셈 치고[XENO:n ]\n먹어 봤으면 좋겠어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:sel sel=・속아 줄 생각은 없다/・그리 말한들… ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]히잉…[XENO:n ]\n멜리아에게 혼났어모~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]아무 손질도 하지 않은 것을 먹는다니[XENO:n ]\n거부감이 들어서 말이다[XENO:wait wait=key ][System:PageBreak ]미안하구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]멜리아는 나쁘지 않아모[XENO:n ]\n하지만 정말 먹어 줬으면 했어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]참고 먹어도[XENO:n ]\n그 생명에게 실례일 것 같구나[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]응응[XENO:n ]\n그렇다면 어쩔 수 없어모[XENO:wait wait=key ][System:PageBreak ]다음에야말로 맛있는 걸[XENO:n ]\n먹게 해 줄게모![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "그래. 기대하고 있겠다[XENO:n ]\n가급적 내가 좋아하는 걸로 부탁하마[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]맡겨 줘모![XENO:wait wait=key ][System:PageBreak ]노폰의 용사는[XENO:n ]\n같은 실패를 다시 하지 않아모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]후후후, 그래[XENO:n ]\n그럼 기대하고 있겠다[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]역시 안 돼모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "리키의 말이니[XENO:n ]\n맛있는 음식이겠지만[XENO:wait wait=key ][System:PageBreak ]아무래도…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "그냥 굽기만 하니까[XENO:n ]\n바로 먹을 수 있어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]아무 손질도 하지 않은 것을 먹는다니[XENO:n ]\n거부감이 들어서 말이다[XENO:wait wait=key ][System:PageBreak ]미안하구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]멜리아는 나쁘지 않아모[XENO:n ]\n하지만 정말 먹어 줬으면 했어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]요리라는 건 입에 맞는 것이 있고[XENO:n ]\n맞지 않는 것이 있지 않느냐?[XENO:wait wait=key ][System:PageBreak ]그런 것이다[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]그것도 그렇네모[XENO:n ]\n미안해모, 멜리아[XENO:wait wait=key ][System:PageBreak ]다음부터 조심할게모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]하지만 또 말을 걸어 주거라[XENO:wait wait=key ][System:PageBreak ]세상에는 아직도[XENO:n ]\n내가 모르는 게 많으니까[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]리키에게 맡겨모![XENO:wait wait=key ][System:PageBreak ]다음에야말로 멜리아를[XENO:n ]\n만족시킬게모![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

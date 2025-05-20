@@ -1,0 +1,279 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "단반![XENO:n ]\n하늘에서 실이 내려왔어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]호오, 이거 신기한데…[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]리키 이 실이 뭔지 알아모![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "뭐라고? 나한테도 좀 가르쳐 줘[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:sel sel=・공짜로는 알려 줄 수 없어모!/・특별히 가르쳐 줄게모! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]\"기브 앤 테이크\"야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]너 말이야… 대체 어디서[XENO:n ]\n그런 말을 배운 거냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "라인한테 배웠어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "그 녀석, 이상한 걸[XENO:n ]\n가르치기나 하고…[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT9 ]그럼 내가[XENO:n ]\n뭘 하면 되는데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:sel sel=・특별한 비밀을 알려 줘모!/・빚보증을 서 줘모! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]단반에 대해[XENO:n ]\n더 자세히 알고 싶어모![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "괜찮긴 한데…[XENO:n ]\n별로 재밌는 이야기는 아니라고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]그럼 단반이[XENO:n ]\n싫어하는 건 뭐야모?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]싫어하는 거라면…[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][System:PageBreak ]그래 《달콤한 고추냉이》야[XENO:wait wait=key ][System:PageBreak ]그 기분 나쁜 단맛과[XENO:n ]\n웃기지도 않는 이름이 마음에 안 들어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]푸푸풋이다모![XENO:wait wait=key ][System:PageBreak ]《달콤한 고추냉이》가 싫다니[XENO:n ]\n단반은 아이 같아모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]흥, 미안하게 됐네[XENO:wait wait=key ][System:PageBreak ]그래서 이 샘의 현상은[XENO:n ]\n대체 뭔데?[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]에테르의 힘이야모![XENO:n ]\n그게 다야모![XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]난 누구라도 알 수 있을 그런 걸[XENO:n ]\n듣겠다고 비밀을 말한 거냐…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "리키 단반의 비밀 알고 싶어모[XENO:n ]\n더 사이좋아지고 싶어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]훗, 그렇게 말하니[XENO:n ]\n기분이 괜찮은걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]교섭 성립이야모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "거절이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]맥 빠져모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]미리 말하지만 난 멜리아하고 달라서[XENO:n ]\n귀여운 척해 봐야 소용없어![XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]모!!![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]네가 내빼 버리면[XENO:n ]\n그 마을에서 일해야 하는 거잖아!![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "단반이 꽃가루 공장에서 일하는 모습을[XENO:n ]\n상상했어모. 엄청 잘 어울릴 것 같아모!![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT13 ]말도 안 되는 소리 하지 마![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "모~?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]이건 에테르의 힘이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "음, 그래서?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "그런 건 학교만 다녔으면[XENO:n ]\n누구나 알 수 있는 거잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ][XENO:act act=EVT_EXT10 ]단반 대단해모…[XENO:n ]\n리키보다 박식해모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "리키, 괜찮아?[XENO:n ]\n식은땀을 흘리고 있는데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:sel sel=・항복이야모/・이건 낚싯줄이야모! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]훗, 너무[XENO:n ]\n풀 죽지 말라고[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "리키 전혀 모르겠어모[XENO:n ]\n공부가 부족해모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "나도 모르는 건 마찬가지야[XENO:wait wait=key ][System:PageBreak ]이 거신계에는 모르는[XENO:n ]\n것들이 잔뜩 있어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]밤에만 나타난다니 신기해모[XENO:n ]\n이건 거신이 만든 거야모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]너, 꽤 재밌는 소리를 하는데?[XENO:n ]\n글쎄, 어떠려나?[XENO:wait wait=key ][System:PageBreak ]의외로 거신이 만들어 놓고는[XENO:n ]\n잊어버린 거 아닐까?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]리키랑 단반, 여기 온 거[XENO:n ]\n행운이었어모![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]그러게[XENO:wait wait=key ][System:PageBreak ]거신계의 신비한 장소를[XENO:n ]\n보러 다니는 것도 재밌을 것 같군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]리키도 함께 따라갈 거야모!![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]이게 낚싯줄이라니…[XENO:n ]\n너, 아무리 그래도 그건 아니지…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]윽… 그, 그럼[XENO:n ]\n거미줄이야모![XENO:wait wait=key ][System:PageBreak ]커다란 거미가[XENO:n ]\n줄을 늘어뜨린 거야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "전혀 그래 보이지 않는데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "모!! 단반 화났어모!![XENO:n ]\n미간에 주름이 잔뜩 생겼어모!![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "딱히 화 안 났어[XENO:wait wait=key ][System:PageBreak ]모르면 모른다고[XENO:n ]\n말하면 되잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]미안해모[XENO:n ]\n리키가 아는 체했어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT18 ]모른다는 건[XENO:n ]\n결코 부끄러운 게 아니잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]단반, 좋은 말 했어모![XENO:n ]\n더 이것저것 가르쳐 줬으면 좋겠어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]그래. 좋아[XENO:wait wait=key ][System:PageBreak ]너하고는 오래[XENO:n ]\n지내게 될 것 같단 말이지[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

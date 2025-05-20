@@ -1,0 +1,799 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "이야, 오늘은 진료소가 한산했어[XENO:wait wait=key ][System:PageBreak ]의사가 한가한 건 좋은 일이지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "기신병과의 싸움이 격해지면[XENO:n ]\n지금보다 더 바빠지겠지[XENO:wait wait=key ][System:PageBreak ]노폰들이 용감한 건 알지만[XENO:n ]\n무모한 짓은 안 했으면 좋겠어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "좋은 물건이 없는지[XENO:n ]\n찬찬히 둘러보는 게 내 일과야[XENO:wait wait=key ][System:PageBreak ]진귀한 물건이 있다면[XENO:n ]\n꼭 알려 줬으면 좋겠어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "평소 약품 구입을 맡기고 있는데[XENO:n ]\n꽤 신뢰할 수 있는 녀석이야[XENO:wait wait=key ][System:PageBreak ]하이엔터가 만든 약을[XENO:n ]\n쓸 수 있는 건 나밖에 없으니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "병에 걸렸거나 다쳤을 땐[XENO:n ]\n나에게 맡기면 돼[XENO:wait wait=key ][System:PageBreak ]하이엔터의 의술까지[XENO:n ]\n공부한 노폰은 많지 않아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "낡아 빠진 방식으로 치료하는 노폰이 있어[XENO:n ]\n시대에 뒤떨어졌다고 해야 하나…[XENO:wait wait=key ][System:PageBreak ]물론 전부 다 부정하는 건 아니지만[XENO:n ]\n민간요법이니까 딱히 도움이 안 돼[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "평소 약품 구입을 푸코에게 맡기는데[XENO:n ]\n꽤 신뢰할 수 있는 녀석이야[XENO:trust trust= p:3:a:188:3 ][XENO:wait wait=key ][System:PageBreak ]푸코가 가져오는 하이엔터제 약을[XENO:n ]\n쓸 수 있는 건 나밖에 없으니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "유시가 하고 있는 치료…[XENO:n ]\n치료라 부르기도 뭐하지[XENO:trust trust= p:3:a:189:2 ][XENO:wait wait=key ][System:PageBreak ]그런 건 주술 같은 거라고[XENO:wait wait=key ][System:PageBreak ]약초니 뭐니 하는 치료법은[XENO:n ]\n기분을 나아지게 할 뿐이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "내가 고안해 낸 치과 치료가[XENO:n ]\n눈 깜짝할 사이에 널리 퍼진 모양이야[XENO:wait wait=key ][System:PageBreak ]치과 치료는 서툴렀는데[XENO:n ]\n이 며칠간 충분한 실력을 갖추게 되었어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "땅끝 마을에도 새로운 치료의 바람이[XENO:n ]\n불 것 같은 예감이 들어[XENO:wait wait=key ][System:PageBreak ]너희에게는 또다시 협력을[XENO:n ]\n부탁하게 될지도 몰라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "가게를 둘러보는 게 나의 일과지만[XENO:n ]\n딱히 여기서 물건을 사려는 건 아니야[XENO:wait wait=key ][System:PageBreak ]제법 좋은 상품들이지만…[XENO:wait wait=key ][System:PageBreak ]주로 마을에서 사용하는 물건이니까[XENO:n ]\n최신 의료에 사용할 만한 물건은 없어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "역시 하이엔터는[XENO:n ]\n최첨단 의료 기술을 구사하고 있어[XENO:wait wait=key ][System:PageBreak ]에테르에 관한 지식도[XENO:n ]\n굉장한 수준이야[XENO:wait wait=key ][System:PageBreak ]내가 배워야 할 것들이[XENO:n ]\n아직 많이 남아 있어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "가게를 둘러보는 게 나의 일과지만[XENO:n ]\n딱히 여기서 물건을 사려는 건 아니야[XENO:wait wait=key ][System:PageBreak ]내가 구입하는 건[XENO:n ]\n푸코가 판매하는 물건뿐이야[XENO:trust trust= p:3:a:188:3 ][XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "푸코는 가장 발전된 의료 기술을 보유한[XENO:n ]\n하이엔터에게서 물건을 구입해[XENO:wait wait=key ][System:PageBreak ]하이엔터가 사는 곳에는 노폰이 있고[XENO:n ]\n홈스도…[XENO:wait wait=key ][System:PageBreak ]어이쿠[XENO:n ]\n이런 말을 하면 안 되겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "치과 치료에 몬스터의 엄니로 만든[XENO:n ]\n의치를 쓰고 있다니![XENO:wait wait=key ][System:PageBreak ]정말이지 유시가 하는 건[XENO:n ]\n치료라고 할 수도 없어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "오랫동안 치료를 받은 환자는[XENO:n ]\n역시 유시의 치료를 신뢰하는 모양이야[XENO:wait wait=key ][System:PageBreak ]거신계는 넓으니까[XENO:n ]\n더 새로운 방식을 받아들여야 한다고 봐[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "유시가 말한 주술은 몸의 아픈 부위와[XENO:n ]\n동일한 거신의 지역에 헌화하는 거야[XENO:wait wait=key ][System:PageBreak ]헌화를 이유로 몸을 움직이게 해서[XENO:n ]\n건강을 되찾게 하려는 심산이지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "노폰이 믿는 미신 중에서[XENO:n ]\n그나마 실용성이 높아 보이지만[XENO:wait wait=key ][System:PageBreak ]오히려 무리하다 다칠 수 있으니까[XENO:n ]\n그다지 추천하지 않아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "가게를 둘러보는 게 나의 일과지만[XENO:n ]\n딱히 여기서 물건을 사려는 건 아니야[XENO:wait wait=key ][System:PageBreak ]내가 구입하는 건[XENO:n ]\n푸코가 판매하는 물건뿐이야[XENO:trust trust= p:3:a:188:3 ][XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "푸코는 가장 발전된 의료 기술을 보유한[XENO:n ]\n하이엔터에게서 물건을 구입해[XENO:wait wait=key ][System:PageBreak ]하이엔터가 사는 곳에는 노폰이 있고[XENO:n ]\n홈스도…[XENO:wait wait=key ][System:PageBreak ]어이쿠[XENO:n ]\n이런 말을 하면 안 되겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "지금 사용하는 약은 효과가 굉장히 좋아[XENO:n ]\n예전 것과 현저한 차이가 나[XENO:wait wait=key ][System:PageBreak ]하지만 한번 잃어버린 평판은[XENO:n ]\n쉽게 되찾을 수 없는 법이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "전에 유시가 말했어[XENO:n ]\n새로운 기술에만 얽매인 벌이라고[XENO:wait wait=key ][System:PageBreak ]하이엔터에게는 하이엔터의[XENO:n ]\n노폰에게는 노폰의 치료법이 있으니까[XENO:wait wait=key ][System:PageBreak ]다른 것에 의지하지 말고[XENO:n ]\n스스로 해결하라고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "이 나무 열매는 갈면 위장약으로 쓰고[XENO:n ]\n그 잎은 해열제로…[XENO:wait wait=key ][System:PageBreak ]이래 봬도 나도 의사니까[XENO:n ]\n노폰의 전통 약초 정도는 알고 있어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "물품을 구해다 주는 푸코에게는 미안하지만[XENO:n ]\n일단 원점으로 돌아가 볼 생각이야[XENO:wait wait=key ][System:PageBreak ]생각지 못한 것에서[XENO:n ]\n약효 성분을 추출할 수 있을지도 모르니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "론은 지금부터[XENO:n ]\n과자 만들기에 필요한 걸 가지러 갈 거야모[XENO:wait wait=key ][System:PageBreak ]그게 뭔지 맞혀 볼래모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "정답은 꽃가루 구슬이야모~[XENO:n ]\n과자를 굽는 데 쓸 거야모[XENO:wait wait=key ][System:PageBreak ]불을 쓰는 것보다 잘 구워져모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "꽃가루 구슬을 가져가겠다고 했지만[XENO:n ]\n훔치는 게 아니야모[XENO:wait wait=key ][System:PageBreak ]마을에 사는 노폰은[XENO:n ]\n맘대로 써도 되는 거야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "꽃가루 구슬이라는 건[XENO:n ]\n정말 편리해모[XENO:wait wait=key ][System:PageBreak ]동그란 상태면 뜨겁지 않으니까[XENO:n ]\n손으로 들고 있어도 괜찮아모~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "론이 만든 과자를[XENO:n ]\n맛봐 주는 친구가 있어모[XENO:wait wait=key ][System:PageBreak ]입맛이 까다로운 친구라서[XENO:n ]\n언제나 참고가 돼모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "친구는 과자를 받으면[XENO:n ]\n언제나 답례로 귀여운 꽃을 줘모[XENO:wait wait=key ][System:PageBreak ]그렇지. 다음에 그 꽃으로[XENO:n ]\n과자를 만들어 볼까모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "모다니 씨는[XENO:n ]\n론이 만든 과자를 칭찬해 줘모[XENO:trust trust= p:3:a:154:3 ][XENO:wait wait=key ][System:PageBreak ]운동한 후에는[XENO:n ]\n단것을 먹는 게 좋대모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "호무호무들도 싸움을 한 뒤에[XENO:n ]\n단걸 먹어 봐모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "꽃가루 구슬은 굉장해모[XENO:wait wait=key ][System:PageBreak ]밝은 램프로 쓸 수 있고[XENO:n ]\n따끈따끈한 밥도 지을 수 있어모[XENO:wait wait=key ][System:PageBreak ]살짝 가공하면[XENO:n ]\n먹을 수도 있어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "먹는다고 해도[XENO:n ]\n그대로 베어 먹으면 안 돼모[XENO:wait wait=key ][System:PageBreak ]어떻게 하면 먹을 수 있는지는[XENO:n ]\n론도 잘 몰라모[XENO:wait wait=key ][System:PageBreak ]꽃가루 공장의 장인에게 물어봐도[XENO:n ]\n알려 주지 않아모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "친구인 피프는[XENO:n ]\n론이 만든 과자를 맛봐 줘모[XENO:trust trust= p:3:a:159:3 ][XENO:wait wait=key ][System:PageBreak ]입맛이 까다로운 친구라서[XENO:n ]\n정말 열심히 만들게 돼모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "그런데 요즘 들어 과자 먹기를[XENO:n ]\n꺼리는 것 같아모[XENO:wait wait=key ][System:PageBreak ]다이어트 중인 걸까모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "모다니 씨는[XENO:n ]\n용사를 발굴하는 능력이 뛰어나모[XENO:wait wait=key ][System:PageBreak ]모다니 씨가 훈련시킨 노폰은[XENO:n ]\n용사가 되는 거야모[XENO:wait wait=key ][System:PageBreak ]리키가 그 예시야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "레크가 피프랑[XENO:n ]\n결혼한다고모?![XENO:wait wait=key ][System:PageBreak ]피프를 아내로 삼다니[XENO:n ]\n용기가 대단해모[XENO:trust trust= p:3:a:150:4 ][XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "피프가 어쩐지[XENO:n ]\n과자를 안 먹는다 싶었는데[XENO:wait wait=key ][System:PageBreak ]다이어트를 하고 있었던 걸까모?[XENO:wait wait=key ][System:PageBreak ]앗! 그게 아니면 과자를[XENO:n ]\n레크한테 준 걸지도모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "레크가 신붓감을 찾았대모[XENO:wait wait=key ][System:PageBreak ]행복한 듯 싱글벙글하고 있었어모[XENO:wait wait=key ][System:PageBreak ]축하하는 뜻으로[XENO:n ]\n커다란 케이크를 만들어야지모~[XENO:trust trust= p:3:a:150:4 ][XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "피프도 꽃을[XENO:n ]\n갖고 오겠다고 했어모[XENO:wait wait=key ][System:PageBreak ]호무호무들이 오고 나서[XENO:n ]\n마을이 행복으로 가득해모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:qst_start ]저기~ 저기~[XENO:n ]\n믹서라는 걸 알아모?[XENO:wait wait=key ][System:PageBreak ]호무호무가 쓰는 편리한 물건이라던데[XENO:n ]\n누가 만들어 줬으면 좋겠어모…[XENO:wait wait=key ][System:PageBreak ]기계 같은 걸 잘 알고 있는[XENO:n ]\n호무호무랑 이야기를 하고 싶어모![XENO:wait wait=key ][XENO:del del=all ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:qst_start ]저기~ 저기~[XENO:n ]\n믹서라는 걸 알아모?[XENO:wait wait=key ][System:PageBreak ]호무호무가 쓰는 편리한 물건이라던데[XENO:n ]\n누가 만들어 줬으면 좋겠어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "친구가 부탁한 과자를 만드는 게[XENO:n ]\n힘들어서 좀 더 편하게 만들고 싶어모[XENO:wait wait=key ][System:PageBreak ]믹서가 있다면[XENO:n ]\n금방 재료를 섞을 수 있어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "믹서라…[XENO:wait wait=key ][System:PageBreak ]재료만 있다면[XENO:n ]\n간단히 만들 수 있을 것 같아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "정말이야모?![XENO:wait wait=key ][System:PageBreak ]와아! 와아~![XENO:n ]\n꼭 부탁할게모![XENO:wait wait=key ][XENO:del del=all ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "[XENO:qst qst=357 ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:qst qst=358 ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "론의 꿈을 이루어 준다니[XENO:n ]\n호무호무는 굉장해모~[XENO:wait wait=key ][System:PageBreak ]과자 만들 준비를 하고 기다릴게모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "우선 범용 샤프트 부품 2개랑[XENO:n ]\n범용 블레이드 부품 2개를 구해서…[XENO:wait wait=key ][System:PageBreak ]콜로니 9 연구실로 돌아가[XENO:n ]\n믹서를 만들면 되겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "뭐야모, 간단히 만들 수 있을 것[XENO:n ]\n같다고 했으면서모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 126,
+      "name": "믹서가 있다면[XENO:n ]\n쉽게 반죽할 수 있어모![XENO:wait wait=key ][System:PageBreak ]얼마나 편리한 물건인지 궁금해서[XENO:n ]\n안절부절못하겠어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 126,
+      "name": "오오~![XENO:n ]\n믹서가 왔어모~[XENO:wait wait=key ][System:PageBreak ]이 버튼을 누르면 되는 거야모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 54,
+      "style": 126,
+      "name": "윙윙~![XENO:n ]\n정말 굉장해~![XENO:wait wait=key ][System:PageBreak ]저절로 반죽되고 있어모[XENO:n ]\n굉장히 편해모![XENO:wait wait=key ][System:PageBreak ]얼른 피프가 부탁한[XENO:n ]\n과자를 만들어야지모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 126,
+      "name": "피프는 론이 만든 과자를[XENO:n ]\n언제나 맛봐 주고 있어모[XENO:trust trust= p:3:c ][XENO:wait wait=key ][System:PageBreak ]오늘이야말로 완벽하다는 말이[XENO:n ]\n나오게 해 주겠어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 126,
+      "name": "[XENO:qst_start ]내가 어떤 분야에 서투른지…[XENO:n ]\n알아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 57,
+      "style": 126,
+      "name": "바로… 치과 치료야[XENO:wait wait=key ][System:PageBreak ]하지만 라이벌인 유시도[XENO:n ]\n치과 치료를 연구하고 있는 것 같아[XENO:wait wait=key ][System:PageBreak ]그 녀석보다[XENO:n ]\n빨리 치료법을 확립하고 싶어![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 58,
+      "style": 126,
+      "name": "앗![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 126,
+      "name": "왜 그래?[XENO:n ]\n너도 충치가 있는 거야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 60,
+      "style": 126,
+      "name": "나… 치과에 자주 다녔었는데[XENO:n ]\n이런 몸이 돼서…[XENO:wait wait=key ][System:PageBreak ]…아! 충치가 없어졌어![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 61,
+      "style": 126,
+      "name": "보아하니 호무호무도[XENO:n ]\n아닌 것 같은데…[XENO:wait wait=key ][System:PageBreak ]한번 진찰해 봐도 될까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 62,
+      "style": 126,
+      "name": "아뇨! 괜찮아요![XENO:wait wait=key ][System:PageBreak ]아픈 곳은 없으니까요…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 63,
+      "style": 126,
+      "name": "[XENO:qst qst=364 ]"
+    },
+    {
+      "$id": 64,
+      "style": 126,
+      "name": "나는 치과 치료를[XENO:n ]\n효율적으로 하고 싶어[XENO:trust trust= p:3:a:189:2 ][XENO:wait wait=key ][System:PageBreak ]오리에스의 큰 다이아 뿔을[XENO:n ]\n2개 가지고 와 줘[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 65,
+      "style": 126,
+      "name": "유시에게 선수를 빼앗기면 안 돼![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 66,
+      "style": 126,
+      "name": "그래. 너희에게 부탁한[XENO:n ]\n내가 바보였어…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 67,
+      "style": 126,
+      "name": "유시를 도와줄 생각은[XENO:n ]\n아니겠지?[XENO:wait wait=key ][System:PageBreak ]빨리 소재를 가지고 오지 않으면[XENO:n ]\n정말 그렇게 생각할 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 68,
+      "style": 126,
+      "name": "치과 치료가 서투른 덴[XENO:n ]\n이유가 있어…[XENO:wait wait=key ][System:PageBreak ]옛날 홈스의 마을에 있었을 때[XENO:n ]\n치과 치료하는 모습을 봤는데[XENO:wait wait=key ][System:PageBreak ]엄~~청 아파 보여서 이건 무리야![XENO:n ]\n라고 생각하게 된 거야…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 69,
+      "style": 126,
+      "name": "오리에스의 큰 다이아 뿔이잖아![XENO:n ]\n흠흠… 흠…[XENO:wait wait=key ][System:PageBreak ]좋아![XENO:n ]\n치아 치료 장치를 만들 수 있겠어![XENO:wait wait=key ][System:PageBreak ]지금 바로 만들 테니까[XENO:n ]\n잠깐만 기다려 줘[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 70,
+      "style": 126,
+      "name": "완성했다![XENO:wait wait=key ][System:PageBreak ]이제 유시에게[XENO:n ]\n내 진짜 실력을 보여 줄 수 있겠어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 71,
+      "style": 126,
+      "name": "우선 이가 안 좋다는 분에게[XENO:n ]\n시험해 볼 생각이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 72,
+      "style": 126,
+      "name": "너희들 많이 다친 것 같구나[XENO:wait wait=key ][System:PageBreak ]괜찮다면 내가 치료를…[XENO:wait wait=key ][System:PageBreak ]뭐? 유시의 다리를[XENO:n ]\n치료해 달라고?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 73,
+      "style": 126,
+      "name": "다리가 아팠던 건가…[XENO:wait wait=key ][System:PageBreak ]어쩐지 최근 들어 위쪽에 있는 나에게[XENO:n ]\n간섭하러 오지 않더라니…[XENO:wait wait=key ][System:PageBreak ]그래. 알았어[XENO:n ]\n공정하지 않으면 재미가 없으니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 74,
+      "style": 126,
+      "name": "하지만 내가 치료했다는 걸 알면[XENO:n ]\n자존심이 상하겠지[XENO:wait wait=key ][System:PageBreak ]그러니까 한 가지[XENO:n ]\n주술을 걸어 보지 않을래?[XENO:wait wait=key ][System:PageBreak ]예로부터 노폰에게는[XENO:n ]\n아픈 곳과 같은 거신의 부위에[XENO:wait wait=key ][System:PageBreak ]헌화하면 병이 낫는다는[XENO:n ]\n전통이 전해지고 있어[XENO:wait wait=key ][System:PageBreak ]유시는 다리가 아프니까[XENO:n ]\n거신의 다리에 가서 헌화하면 될 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 75,
+      "style": 126,
+      "name": "먼저 유시의 병세에 대해[XENO:n ]\n들어 보는 게 어때?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 76,
+      "style": 126,
+      "name": "[XENO:qst_start ]으음[XENO:n ]\n모르겠어. 모르겠다고…![XENO:wait wait=key ][System:PageBreak ]최근 들어 환자들이[XENO:n ]\n불평을 쏟아 내고 있어[XENO:wait wait=key ][System:PageBreak ]왜 그런 걸까…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 77,
+      "style": 126,
+      "name": "…!![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 78,
+      "style": 126,
+      "name": "왜 그러지?[XENO:n ]\n응? 내 약?[XENO:wait wait=key ][System:PageBreak ]푸코에게 부탁해서 특별히[XENO:n ]\n하이엔터의 약을 가져온 거야[XENO:wait wait=key ][System:PageBreak ]노폰이 사용해도 문제가 없다는 건[XENO:n ]\n검증되었지만…[XENO:wait wait=key ][System:PageBreak ]기신병 문제로[XENO:n ]\n품질에 무슨 악영향이 생긴 건가?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 79,
+      "style": 126,
+      "name": "내가 직접 푸코에게 물으면[XENO:n ]\n신뢰 관계가 깨질 것 같으니까[XENO:wait wait=key ][System:PageBreak ]무슨 일이 있었는지[XENO:n ]\n살짝 물어봐 주지 않을래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 80,
+      "style": 126,
+      "name": "[XENO:qst qst=379 ]"
+    },
+    {
+      "$id": 81,
+      "style": 126,
+      "name": "노폰의 건강에 이상이 생기는 건[XENO:n ]\n가벼이 여길 문제가 아니야[XENO:wait wait=key ][System:PageBreak ]잘 부탁할게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 82,
+      "style": 126,
+      "name": "어때?[XENO:n ]\n뭔가 진전은 있었어?[XENO:wait wait=key ][System:PageBreak ]방금 또 상처가 낫지 않는다는[XENO:n ]\n불평을 들었어…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 83,
+      "style": 126,
+      "name": "내가 푸코에게 부탁했던[XENO:n ]\n약이잖아[XENO:wait wait=key ][System:PageBreak ]응? 전에 푸코에게 받은 것과[XENO:n ]\n조금 다른 것 같은데…[XENO:wait wait=key ][System:PageBreak ]신상품인가?[XENO:wait wait=key ][System:PageBreak ]뭐, 아무튼 고마워[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 84,
+      "style": 126,
+      "name": "푸코에게는 나중에[XENO:n ]\n고맙다고 할게[XENO:trust trust= p:3:d:188:5 ][XENO:wait wait=key ][System:PageBreak ]다음 약도 푸코에게[XENO:n ]\n부탁해야 하니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 85,
+      "style": 126,
+      "name": "밤에도 마을 내부는 밝긴 하지만[XENO:n ]\n대체로 이 시간에는 다들 자고 있어모[XENO:wait wait=key ][System:PageBreak ]역시 해님과 함께 생활하는 게[XENO:n ]\n건강을 위한 일이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 86,
+      "style": 126,
+      "name": "나는 다들 낮에 일어나 있을 때[XENO:n ]\n쿨쿨하는 게 행복해모[XENO:wait wait=key ][System:PageBreak ]야행성이거든모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 87,
+      "style": 126,
+      "name": "마크나에 사는 동식물은[XENO:n ]\n크게 자란단다모[XENO:wait wait=key ][System:PageBreak ]작은 노폰이 밟히지 않도록 하려고[XENO:n ]\n나무 다리를 만든 거야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 88,
+      "style": 126,
+      "name": "너희도 마크나에서 마을에[XENO:n ]\n올 때 건넜지모?[XENO:wait wait=key ][System:PageBreak ]그걸 만드는 건 정말 힘들었단다모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 89,
+      "style": 126,
+      "name": "빙글빙글 돈다~[XENO:n ]\n빙글빙그르르르~[XENO:wait wait=key ][System:PageBreak ]오오~ 어지러워모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 90,
+      "style": 126,
+      "name": "나무 안이지만 보다시피[XENO:n ]\n통풍이 정말 잘돼모[XENO:wait wait=key ][System:PageBreak ]폭풍이 불면 큰일이지만모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 91,
+      "style": 126,
+      "name": "마크나에 있는 나무 다리를[XENO:n ]\n이용해 봤니모?[XENO:wait wait=key ][System:PageBreak ]라케리트 같은 몬스터에게[XENO:n ]\n공격받지 않고 갈 수 있어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 92,
+      "style": 126,
+      "name": "그 나무 다리를 만들 때까지 노폰은[XENO:n ]\n정말 고생했단다모[XENO:wait wait=key ][System:PageBreak ]그 덕분에 라케리트나 프테루스와[XENO:n ]\n사이좋게 지내게 된 거란다모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 93,
+      "style": 126,
+      "name": "밤낮으로 쿵쿵해서[XENO:n ]\n소란스러워모[XENO:wait wait=key ][System:PageBreak ]낮 동안 쿨쿨하는 내 생활을[XENO:n ]\n지킬 수 있을까모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 94,
+      "style": 126,
+      "name": "어서 낮에 조용히 잠을 자고 싶어모[XENO:wait wait=key ][System:PageBreak ]용사 리키가 힘내서[XENO:n ]\n평화롭게 만들어 줘모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 95,
+      "style": 126,
+      "name": "마을 안에 부는 바람이[XENO:n ]\n전과 달라졌어모[XENO:wait wait=key ][System:PageBreak ]오래 살았지만[XENO:n ]\n이런 바람은 처음이야모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 96,
+      "style": 126,
+      "name": "뺨에 닿는 바람이[XENO:n ]\n기분 나쁘게 찌르르해모[XENO:wait wait=key ][System:PageBreak ]에테르 근처에[XENO:n ]\n있는 것 같아모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 97,
+      "style": 126,
+      "name": "위에서 만든 꽃가루 구슬을[XENO:n ]\n여기서 보관하고 있어모[XENO:wait wait=key ][System:PageBreak ]하지만 금방 실려 나가서[XENO:n ]\n없어져 버려모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 98,
+      "style": 126,
+      "name": "색이 다채롭고 예쁘지모?[XENO:wait wait=key ][System:PageBreak ]색깔에 따라[XENO:n ]\n용도가 달라모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 99,
+      "style": 126,
+      "name": "전에 몬스터와 싸웠는데[XENO:n ]\n어느샌가 잠들고 말았어모[XENO:wait wait=key ][System:PageBreak ]마크나는 그런 몬스터로 가득해모[XENO:n ]\n어때모? 무섭지모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 100,
+      "style": 126,
+      "name": "마크나의 몬스터에게는[XENO:n ]\n에테르 공격이 유용해모[XENO:wait wait=key ][System:PageBreak ]새 인간이 그렇게 말했어모[XENO:wait wait=key ][System:PageBreak ]하지만 에테르를 사용할 수 있는 노폰은[XENO:n ]\n많지 않아모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 101,
+      "style": 126,
+      "name": "꽃가루 공장은 계속 가동되고 있으니까[XENO:n ]\n창고 일도 언제나 바빠모[XENO:wait wait=key ][System:PageBreak ]하아~ 조금 쉬고 싶어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 102,
+      "style": 126,
+      "name": "큰 공룡이 마크나에 온 후로[XENO:n ]\n꽃가루 구슬의 생산량이 떨어졌어모[XENO:wait wait=key ][System:PageBreak ]그래도 바쁜 건[XENO:n ]\n변함이 없지만모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 103,
+      "style": 126,
+      "name": "갓 만든 꽃가루 구슬을[XENO:n ]\n횃불로 쓰고 있어모[XENO:wait wait=key ][System:PageBreak ]역시 갓 만든 게 최고야모~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 104,
+      "style": 126,
+      "name": "마을 내에 있는 횃불에 꽃가루 구슬을[XENO:n ]\n넣어야 해모[XENO:wait wait=key ][System:PageBreak ]많이 오르내리다 보니까[XENO:n ]\n다리가 두꺼워졌어모~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 105,
+      "style": 126,
+      "name": "큰 공룡이 없어졌으니까[XENO:n ]\n힘내서 꽃가루 구슬을 만들고 있어모[XENO:wait wait=key ][System:PageBreak ]하아~ 하지만 너무 힘을 내서[XENO:n ]\n지쳤으니까 쉴래모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 106,
+      "style": 126,
+      "name": "태평한 노폰이 자지 않고 열심인 건[XENO:n ]\n정말 드문 일이야모[XENO:wait wait=key ][System:PageBreak ]마을에서는 그만큼 꽃가루 구슬이[XENO:n ]\n중요하다는 거야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 107,
+      "style": 126,
+      "name": "모나드가 있으면[XENO:n ]\n기신병도 무섭지 않아모?[XENO:wait wait=key ][System:PageBreak ]그럼 모나드가 없는[XENO:n ]\n노폰은 어떡해모?[XENO:wait wait=key ][System:PageBreak ]마키나는 좋은 무기를 만들어 낸다고[XENO:n ]\n노폰 상회한테 들었는데모…[XENO:wait wait=key ][System:PageBreak ]마키나는 어디에 있어모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 108,
+      "style": 126,
+      "name": "노폰 전사들이 떠나고 있어모[XENO:wait wait=key ][System:PageBreak ]용사만이 아니야모[XENO:n ]\n모두가 싸울 때인 거야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 109,
+      "style": 126,
+      "name": "모두 분주하게 싸울 준비와[XENO:n ]\n도망칠 준비를 하고 있는 모양이야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 110,
+      "style": 126,
+      "name": "하지만 나에겐 이 횃불의 불꽃을[XENO:n ]\n관리하는 일이 남아 있어모[XENO:wait wait=key ][System:PageBreak ]내가 마을을 나가면 모두가 돌아왔을 때[XENO:n ]\n깜깜한 마을이 그들을 맞아 줄 거야모[XENO:wait wait=key ][System:PageBreak ]그런 건 너무 싫어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 111,
+      "style": 126,
+      "name": "꽃가루의 색이[XENO:n ]\n하나 부족하다고모?[XENO:wait wait=key ][System:PageBreak ]그 색은 관리하기 어려우니까[XENO:n ]\n아무 데나 홱 던져둘 수는 없어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 112,
+      "style": 126,
+      "name": "실수해서 다른 색의 꽃가루 구슬이나[XENO:n ]\n다른 물질과 섞으면…[XENO:wait wait=key ][System:PageBreak ]쾅~! 하는 거야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 113,
+      "style": 126,
+      "name": "위쪽을 올려다본 적 있어모?[XENO:wait wait=key ][System:PageBreak ]이 하늘에 있는 게[XENO:n ]\n엘트해야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 114,
+      "style": 126,
+      "name": "바다인데 물이 쏟아지지 않는 게[XENO:n ]\n신기해모~[XENO:wait wait=key ][System:PageBreak ]마을 꼭대기에 있는 호수도[XENO:n ]\n비슷한 물이야모[XENO:wait wait=key ][System:PageBreak ]음~ 마을도 수수께끼투성이야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 115,
+      "style": 126,
+      "name": "새 인간을[XENO:n ]\n왜 새 인간이라고 부르냐고모?[XENO:wait wait=key ][System:PageBreak ]그러고 보니 그런 건[XENO:n ]\n생각해 본 적 없어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 116,
+      "style": 126,
+      "name": "우리 노폰은 이름을 붙일 때[XENO:n ]\n외모를 참고해모[XENO:wait wait=key ][System:PageBreak ]그럼 호무호무는모?[XENO:wait wait=key ][System:PageBreak ]호무호무하고 있으니까모?[XENO:n ]\n모르겠어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 117,
+      "style": 126,
+      "name": "호무호무가 이 마을에 오는 건[XENO:n ]\n정말 드문 일이야모[XENO:wait wait=key ][System:PageBreak ]나 살아 있는 호무호무는[XENO:n ]\n처음 봤어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 118,
+      "style": 126,
+      "name": "노폰 상회를 따라[XENO:n ]\n밖에 갔던 적이 있는데[XENO:wait wait=key ][System:PageBreak ]상반신 쪽에만 갔었으니까[XENO:n ]\n호무호무는 하나도 없었어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 119,
+      "style": 126,
+      "name": "너희들 꼭대기 호수에서[XENO:n ]\n엘트해로 반짝 어푸하는 거야모?[XENO:wait wait=key ][System:PageBreak ]가는 동안 긴장을 늦추지 않도록[XENO:n ]\n조심해모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 120,
+      "style": 126,
+      "name": "엘트해의 바닥에 도착하지 못하면[XENO:n ]\n마크나로 곤두박질할 거야모[XENO:wait wait=key ][System:PageBreak ]바다 밖으로 빠져나오지 못하면[XENO:n ]\n물속에 꼬르륵하는 거야모[XENO:wait wait=key ][System:PageBreak ]단숨에 가는 게 중요해모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 121,
+      "style": 126,
+      "name": "노폰 상회의 이야기를 들어 보면[XENO:n ]\n이 마을은 무척 평화로운 것 같아모[XENO:wait wait=key ][System:PageBreak ]호무호무나 새 인간의 마을은[XENO:n ]\n위험에 처해 있대모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 122,
+      "style": 126,
+      "name": "다들 여기로 이사 오면[XENO:n ]\n좋을 텐데모[XENO:wait wait=key ][System:PageBreak ]아, 하지만 그렇게 하면[XENO:n ]\n나무 안이 꽉꽉 차게 될 거야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 123,
+      "style": 126,
+      "name": "밤마다 여기에서 엘트해를 보고 있었으니까[XENO:n ]\n거신이 움직이기 시작한 걸 알았어모[XENO:wait wait=key ][System:PageBreak ]하늘이 물결치는 건 굉장히 무서웠어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 124,
+      "style": 126,
+      "name": "앞으로 어떻게 되는 거야모?[XENO:wait wait=key ][System:PageBreak ]엘트해의 물이 넘쳐흘러[XENO:n ]\n마을에 대홍수가 날까 봐 걱정이야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 125,
+      "style": 126,
+      "name": "놀지 않고 제대로 돌리고 있는지[XENO:n ]\n지켜보고 있어모[XENO:wait wait=key ][System:PageBreak ]녀석이 열심히 해 주지 않으면[XENO:n ]\n꽃가루 구슬을 만들 수 없어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 126,
+      "style": 126,
+      "name": "알고 있어모? 그 용사도[XENO:n ]\n이 도르래를 돌렸어모[XENO:wait wait=key ][System:PageBreak ]역시 용사야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 127,
+      "style": 126,
+      "name": "아츠는 강화하고 있어모?[XENO:n ]\n강적과 싸울 때 정말 중요한 거야모[XENO:wait wait=key ][System:PageBreak ]가게에서 보게 되면[XENO:n ]\n잊지 말고 사도록 해모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 128,
+      "style": 126,
+      "name": "헤비 아머로 방어력을 높일까모[XENO:n ]\n혹은 라이트 아머로 빨리 도망갈까모[XENO:wait wait=key ][System:PageBreak ]아니면 무난한 미디엄 아머로 할까모[XENO:n ]\n어떻게 할지 고민이야모~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 129,
+      "style": 126,
+      "name": "거기 있는 버섯… 시간 버섯 앞에는[XENO:n ]\n울타리가 없으니까 조심해모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 130,
+      "style": 126,
+      "name": "우리 노폰은 떨어져도 괜찮지만[XENO:n ]\n호무호무는 크게 다칠 거야모[XENO:wait wait=key ][System:PageBreak ]뛰어내릴 생각이라면[XENO:n ]\n말리지는 않을게모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 131,
+      "style": 126,
+      "name": "여기서 나오는 꽃가루 구슬은[XENO:n ]\n전부 노란색이야모[XENO:wait wait=key ][System:PageBreak ]이 아래에서 색을 입히는 거야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 132,
+      "style": 126,
+      "name": "그 방법은 꽃가루 장인만의[XENO:n ]\n비밀이야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 133,
+      "style": 126,
+      "name": "새 인간 친구들은 어디 간 거야모?[XENO:wait wait=key ][System:PageBreak ]줄지어 왔으니까[XENO:n ]\n관광하러 온 줄 알았어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 134,
+      "style": 126,
+      "name": "큰 공룡을 쓰러뜨린다니[XENO:n ]\n말도 안 돼모[XENO:wait wait=key ][System:PageBreak ]노폰 1000명이라도[XENO:n ]\n당해낼 수 없어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 135,
+      "style": 126,
+      "name": "후우… 하아…[XENO:n ]\n계속 돌릴 거야모~![XENO:wait wait=key ][System:PageBreak ]나의 다리 힘을[XENO:n ]\n보여 주겠어모~![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 136,
+      "style": 126,
+      "name": "그렇지만…[XENO:n ]\n후우… 하아…[XENO:wait wait=key ][System:PageBreak ]가끔은… 누가…[XENO:n ]\n대신 해 줬으면 좋겠어모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 137,
+      "style": 126,
+      "name": "새 인간 친구들[XENO:n ]\n안타깝게 됐어모[XENO:wait wait=key ][System:PageBreak ]그 풍성한 날개를[XENO:n ]\n잊지 못할 거야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 138,
+      "style": 126,
+      "name": "그런데 새 인간은 왜[XENO:n ]\n큰 공룡을 쫓아온 거야모?[XENO:wait wait=key ][System:PageBreak ]뭔가 나쁜 짓이라도 한 걸까모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 139,
+      "style": 126,
+      "name": "아빠, 아빠~[XENO:n ]\n그 기술을 보여 줘모~[XENO:wait wait=key ][System:PageBreak ]뭐든지 훔치는 그거모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 140,
+      "style": 126,
+      "name": "앗, 이건 그다지 말하지 않는 게[XENO:n ]\n좋을까모?[XENO:wait wait=key ][System:PageBreak ]아빠가 맨날[XENO:n ]\n도둑질을 한다는 소리로 들려모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 141,
+      "style": 126,
+      "name": "사람에게는 각자의 성격이 있어모[XENO:n ]\n물론 노폰에게도 있어모[XENO:wait wait=key ][System:PageBreak ]성격을 바꾸면 쓰러뜨릴 수 없었던[XENO:n ]\n녀석을 쓰러뜨릴 수도 있어[XENO:wait wait=key ][System:PageBreak ]이길 수 없는 상대가 있으면[XENO:n ]\n시험해 보는 것도 좋을 거야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 142,
+      "style": 126,
+      "name": "스킬은 계획적으로 배워야 해모[XENO:n ]\n동료의 스킬도 배우고 싶다면 더 중요해모[XENO:wait wait=key ][System:PageBreak ]물론 동료와 인연을[XENO:n ]\n쌓는 것도 잊으면 안 돼모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 143,
+      "style": 126,
+      "name": "촌장은 대체 어딜 간 거지모?[XENO:wait wait=key ][System:PageBreak ]젊은이들만으로는[XENO:n ]\n계시가 불안하군모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 144,
+      "style": 126,
+      "name": "감이라고는 하지만 촌장의 계시는[XENO:n ]\n항상 들어맞아모[XENO:wait wait=key ][System:PageBreak ]나는 그 계시가 없으면[XENO:n ]\n불안해서 죽을 것 같아모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 145,
+      "style": 126,
+      "name": "노란 꽃가루 구슬만[XENO:n ]\n나오는 게 신경 쓰여모?[XENO:wait wait=key ][System:PageBreak ]노란색은 가장 기본적인[XENO:n ]\n꽃가루 구슬이야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 146,
+      "style": 126,
+      "name": "빨강이나 초록은 이 아래에서[XENO:n ]\n장인들이 만들고 있어모[XENO:wait wait=key ][System:PageBreak ]그 방법은 절대 비밀이야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 147,
+      "style": 126,
+      "name": "저번에 흔들흔들한 것 때문에[XENO:n ]\n도르래의 축이 조금 삐뚤어졌나모?[XENO:wait wait=key ][System:PageBreak ]수리해야겠어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 148,
+      "style": 126,
+      "name": "수리에 쓸 재료는[XENO:n ]\n각지에서 모으고 있어모[XENO:wait wait=key ][System:PageBreak ]노폰 상회에게 발주하면[XENO:n ]\n금방 보내 줄 거야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 149,
+      "style": 126,
+      "name": "아빠가 보여 줬던[XENO:n ]\n그 꽃을 다시 보고 싶어모[XENO:wait wait=key ][System:PageBreak ]그걸 보면 모두 행복해질 거야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 150,
+      "style": 126,
+      "name": "엄마는 아빠의 그 꽃을 보고[XENO:n ]\n빠졌다고 했어모[XENO:wait wait=key ][System:PageBreak ]구덩이에 빠진 걸까모?[XENO:n ]\n위험해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 151,
+      "style": 126,
+      "name": "156~[XENO:n ]\n157~[XENO:wait wait=key ][System:PageBreak ]잠이 너무 안 와서[XENO:n ]\n반짝반짝을 세고 있어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 152,
+      "style": 126,
+      "name": "아~ 안 돼모~[XENO:wait wait=key ][System:PageBreak ]이야기하다가 까먹었어모~[XENO:wait wait=key ][System:PageBreak ]눈도 아프기 시작했어모~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 153,
+      "style": 126,
+      "name": "구운 감자를 정말 좋아하지만[XENO:n ]\n뜨거워서 델까 봐 무서워모[XENO:wait wait=key ][System:PageBreak ]호무호무가 사는 곳에서 나는[XENO:n ]\n시원한 감자라면 괜찮지 않을까모?[XENO:wait wait=key ][System:PageBreak ]먹어 보고 싶어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 154,
+      "style": 126,
+      "name": "[XENO:qst qst=451 ]"
+    },
+    {
+      "$id": 155,
+      "style": 126,
+      "name": "낙엽을 모아서[XENO:n ]\n기다리고 있을게모~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 156,
+      "style": 126,
+      "name": "한 번이라도 좋으니[XENO:n ]\n시원한 감자를 구워 먹어 보고 싶어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 157,
+      "style": 126,
+      "name": "[XENO:fade fade=outin:100 ] "
+    }
+  ]
+}

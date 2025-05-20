@@ -1,0 +1,99 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "감사합니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "다른 사람들도 무사한가?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "네. 크게 다친 사람은 없었어요[XENO:n ]\n모두 여러분 덕분입니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "답례는 달콤한 고추냉이[XENO:n ]\n1년 치면 돼모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "용사는 보답을 바라면 안 돼모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "그런 거야모?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "슈르크 씨, 아르마가 안개수가 된 건[XENO:n ]\n저 확장된 균열과 관련이 있는 거죠?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "그런 것 같아요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "저희도 황도 바깥에서 일반 몬스터들이[XENO:n ]\n안개수로 변하는 것을 봤어요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "그렇다는 건 균열이 어떠한 영향을 줘서[XENO:n ]\n안개수로 변하게 하고 있다는 거군요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "그 균열이 지금까지는 황도 안에[XENO:n ]\n영향을 미치는 크기였지만 확장되면서[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "영향을 주는 범위도 넓어졌어요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "잠깐! 그렇다는 것은[XENO:n ]\n균열이 이대로 점점 커진다면…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "모든 몬스터가[XENO:n ]\n안개수로 변할지도 몰라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "안개왕을 빨리 처리해야 한다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "그러려면 연구 자료가 필요해[XENO:n ]\n연구소로 가자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "알았다[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]이 생물은 뭐야?[XENO:n ]\n본 적도 없는데[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]이것은… 아마 고대 거신계에서[XENO:n ]\n살던 생물의 일종이겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "황도 주변에서 발굴되는[XENO:n ]\n화석으로밖에 본 적은 없었지만[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]설마 이런 곳에 봉인되어 있을 줄이야…[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]이곳을 지키고 있었던 걸까?[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]그 정도의 지능이 있다면 말이지[XENO:n ]\n이 녀석들한테서는 더 원시적인 무언가가 느껴져[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "무언가라니?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "자신들 외의 존재를 용납하지 않는다는[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "그런 배타적인 본능… 같은 거랄까?[XENO:n ]\n뭐, 단순한 감이지만[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]생각하고 있을 틈은 없어[XENO:n ]\n감옥섬에 갈 거지?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT3 ]감옥섬으로 돌격이다모![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

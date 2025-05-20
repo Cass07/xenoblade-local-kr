@@ -1,0 +1,34 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]슈르크[XENO:n ]\n저건 혹시…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "그 창이야모! 그 창을 가진[XENO:n ]\n기신병이 잔뜩 있어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ][XENO:act act=EVT_EXT13 ]![XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "피오른…![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

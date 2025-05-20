@@ -1,0 +1,59 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "하오면 전하[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "여기서부터는 홀로[XENO:n ]\n의식에 임하시게 됩니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "배웅하느라 수고했다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "무사히 돌아오시길[XENO:n ]\n기다리고 있겠습니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "과거의 역사상 자격 없이 황위를 탐했던 자들은[XENO:n ]\n전부 영령에 의해 쓰러졌다 합니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그것이 황위 계승자로서의[XENO:n ]\n자격을 증명한다는 것이다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "그대로 묘지에 묻히게 된 자들도[XENO:n ]\n각오한 일이겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "훌륭한 각오십니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "부디 몸조심하시길… 전하[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]아저씨, 그런 곳에서 뭐 하는 거야?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]라인, 물고기가 잔뜩 있어모![XENO:wait wait=key ][System:PageBreak ]가끔 날개 달린 물고기가[XENO:n ]\n점프해모![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]하하하, 그게 무슨 소리야[XENO:wait wait=key ][System:PageBreak ]물고기한테 날개가[XENO:n ]\n달려 있을 리가 없잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:sel sel=・잘 보라구모!/・바보 취급 하지 말라구모! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]봐! 또 날았잖아모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]엇, 진짜네[XENO:n ]\n진짜로 물고기에 날개가 달렸어![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]땅끝 마을에도 마크나 원시림에도[XENO:n ]\n이런 물고기는 없었어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]맞아! 나도 처음 봤다고[XENO:wait wait=key ][System:PageBreak ]좋았어. 당장 잡아서[XENO:n ]\n먹어 보자고![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:sel sel=・그게 무슨 소리야모!/・찬성이야모!! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]엥, 안 된다고?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]저 물고기는 특별해모! 신성해모![XENO:n ]\n먹었다가는 천벌 받아모![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]내가 보기에는 전혀[XENO:n ]\n안 그럴 것 같은데 말이지…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]쯧쯧쯧, 라인은 뭘 모르네모[XENO:n ]\n노폰족에게는 날개가 있잖아모?[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]그러니까 날개가 달린 생명은[XENO:n ]\n소중하게 여겨야만 하는 거야모[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]아하, 동족상잔 같은 거네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]이상한 예시 들지 마모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]미안. 농담이었어[XENO:wait wait=key ][System:PageBreak ]뭐, 됐어. 콜로니 9에서도[XENO:n ]\n맛있는 물고기는 얼마든지 잡히니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT6 ]그래모?[XENO:n ]\n리키 배고파졌어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]그러면 데려가 줄게[XENO:wait wait=key ][System:PageBreak ]누가 더 많이 잡는지[XENO:n ]\n대결하자고[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]바라던 바야모![XENO:n ]\n리키는 지지 않아모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT5 ]좋았어! 내 낚시 테크닉을[XENO:n ]\n선보일 때가 왔군![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:type type=anger ][XENO:act act=EVT3 ]앗!!![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]갑자기 왜 소리를 지르고 그래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]날개 달린 생명은[XENO:n ]\n소중하게 여겨야만 해모…[XENO:wait wait=key ][System:PageBreak ]리키 저 물고기 먹으면[XENO:n ]\n혼나모…[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]뭐 어때?[XENO:n ]\n아무도 안 보는데[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]으우… 돈가한테 혼나모…[XENO:n ]\n그렇지만 리키 배고파모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT22 ]괜찮대도. 말 안 할게[XENO:wait wait=key ][System:PageBreak ]그 대신[XENO:n ]\n나보다 더 열심히 잡으라고?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]안타깝지만[XENO:n ]\n라인 말대로 할 수밖에 없어모[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT3 ]리키가 잔뜩 잡을 거야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT24 ]하하핫, 이러니저러니 하더니[XENO:n ]\n의욕이 넘치는데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]바보라고 말한 사람이[XENO:n ]\n바보야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]난 바보라고 한 적 없는데…?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "마음의 소리가 들렸어모[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]근데 진짜로 날개 달린 물고기가[XENO:n ]\n종종 해수면에 나타나네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]리키 말이 맞았어모![XENO:wait wait=key ][System:PageBreak ]엘트해에는[XENO:n ]\n신기한 생물이 사네모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:sel sel=・그러게/・그것도 그렇지만 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "암초가 하늘에 떠 있을 정도니까 말이지[XENO:n ]\n말도 안 되는 곳에 와 버렸다니까[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]리키는 많은 곳을[XENO:n ]\n여행해 보고 싶어모[XENO:wait wait=key ][System:PageBreak ]더 신기한 생물을[XENO:n ]\n만날 수 있을지도 몰라모[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]그래. 언젠가는 가 보고 싶은걸[XENO:n ]\n맛있는 음식도 있을 테고[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]라인은 먹을 생각만 가득하네모![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]네가 할 소린 아니지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]용사 리키가 여행을 떠날 날이 오면[XENO:n ]\n라인도 친구로 같이 데려가 줄게모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]친구 말이지…[XENO:n ]\n뭐, 너하고 여행하면 재밌겠네[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "나는 리키가 40살 먹은 아저씨라는 게[XENO:n ]\n제일 신기하다니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]리키는 아저씨가 아니야모![XENO:n ]\n노폰과 호무호무는 달라모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "그치만 콜로니 9에 있는 노폰족은[XENO:n ]\n나이에 걸맞아 보이는 녀석도 있었는데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "라인이야말로 이상해모![XENO:n ]\n애늙은이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]엥, 그래?[XENO:n ]\n나 그런 말 듣는 거 처음인데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "리키보다 한~참은 어린데[XENO:n ]\n덩치만큼이나 태도도 거만해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]그래. 미안해[XENO:n ]\n연장자니까 좀 더 공손하게 대해야겠군[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

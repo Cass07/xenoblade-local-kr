@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ](꿈이 아니야…[XENO:n ]\n이건… 비전?)[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ](어떻게 하지? 라인에게 말해야 할까…?[XENO:n ]\n아니, 하지만…)[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

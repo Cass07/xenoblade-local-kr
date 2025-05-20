@@ -1,0 +1,34 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "2512주기 만의 방문자여[XENO:n ]\n성명과 방문 목적을 말하라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "멜리아 에인션트[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "황위를 이을 자격이 있는지[XENO:n ]\n선조의 영께 판단 받고자 왔다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "방문자의 의도를 이해했다[XENO:n ]\n지금부터 귀하의 유전 정보를 해석한다[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

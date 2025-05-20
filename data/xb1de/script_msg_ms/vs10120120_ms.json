@@ -1,0 +1,49 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "뭐지… 뭔가가 떠오를 것 같은데…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]괜찮은 것이냐?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "응? 아, 조금 지친 것뿐이야[XENO:n ]\n고마워. 멜리아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "이곳은 《오세의 탑》[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "고대 하이엔터가 모나드를[XENO:n ]\n보관하기 위해 만든 제사 시설이야[XENO:n ]\n예언관의 의식은 여기서 거행돼[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그리고 슈르크의 모나드는[XENO:n ]\n홈스가 이곳에서 가져간 거야[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]뭐라고?![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

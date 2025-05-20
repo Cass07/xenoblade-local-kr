@@ -1,0 +1,284 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "슈르크![XENO:n ]\n저기, 슈르크![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "왜 그러는 거야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT42 ]라인, 피오른…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT15 ]괜찮아?[XENO:n ]\n어디 아파?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]또야…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]?[XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "라인, 모나드를 만졌을 때[XENO:n ]\n뭔가 보이지 않았어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]뭔가라니…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "아까처럼 푸른 빛의 칼날이 나왔을 뿐인데?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]그게 아니라…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "마치 시간이 멈춘 듯한[XENO:n ]\n느낌이 들었어… 그리고…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "시간이 멈췄다고?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "그건 대체…[XENO:n ]\n그게 보인 건 나뿐인가…?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]역시 이상해… 이것도 모나드 때문일까?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]글쎄… 모르지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "하지만 아무리 굉장한 검이래도[XENO:n ]\n휘두를 때마다 이래서야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "역시 단반 이외에는 쓸 수 없겠네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]오빠도 이제 못 쓰게 할 거야![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]이 무기 때문에 오빠는…![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]아, 미안…[XENO:n ]\n그런 뜻으로 말한 건…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]둘 다 잠깐만. 난 괜찮아…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "솔직히 말하면 벌써 몇 번이나 이런 일이 일어났어[XENO:n ]\n쭉 모나드를 연구해 왔으니까[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]잠깐 슈르크![XENO:n ]\n몇 번이나 이런 일이 있었다고?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]걱정할 거 없어[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "그러고 보니[XENO:n ]\n뭔가 부탁하러 온 거 아니었어? 라인[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "오! 그랬었지 참[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]《직각 수염》한테 징벌 임무를 받아서 말이야[XENO:n ]\n같이 가 주지 않을래?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "징벌이라고?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "그러고 보니 방위대장, 오늘도 화가 났었지[XENO:n ]\n얻어맞거나 하진 않았어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "아니 그게, 맞았는지 안 맞았는지가[XENO:n ]\n중요한 게 아니고…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]뭐, 결국 얻어맞긴 했지만…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]귀찮은 덤까지 생겨 버렸어[XENO:n ]\n발차기랑 윗몸 일으키기 천 번, 징벌 임무까지 말이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "우와, 빡빡하네…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "그래서 이제부터 임무를 하러 가야 하거든[XENO:n ]\n《맥 멜드 유적》으로[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]임무라는 건 에테르 실린더 회수인 모양이네[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]맞아. 그거야![XENO:n ]\n자주포에 쓴다고 했던가[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 37,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]고장 난 곳은 전부 고쳤다고 했는데[XENO:n ]\n정작 에너지가 다 떨어져서 움직이질 않는다더라고[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 38,
+      "style": 125,
+      "name": "공급소에도 재고가 떨어진 모양이야[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]자주포라면 거주 지구에 박혀 있던[XENO:n ]\n그 커다란 기계 말이지?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]응. 아마도[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]너 이 근처 지리는 빠삭하잖아?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 125,
+      "name": "그렇지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 125,
+      "name": "좋아. 그럼 같이 갈까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 125,
+      "name": "[XENO:act act=EVT3 ]그렇게 나오셔야지![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]정말…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 46,
+      "style": 125,
+      "name": "《맥 멜드 유적》이라면[XENO:n ]\n분명 《테프라 동굴》을 지나면 나오는 곳이지?[XENO:n ]\n그 근방은 《멜드 리자드》의 소굴이라고 들었는데[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]슈르크가 다치면 어떡할 거야[XENO:n ]\n라인이랑 다르게 섬세하단 말이야[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 125,
+      "name": "뭐야, 그게…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]괜찮아. 내 몸 정도는 스스로 지킬 수 있어[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]하지만…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]알았어. 약속할게[XENO:n ]\n슈르크에겐 상처 하나 입히지 않겠다고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]…라인이 약속해 봤자[XENO:n ]\n믿을 수가 없는걸![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 125,
+      "name": "내가 그렇게 못 미더운가…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 54,
+      "style": 125,
+      "name": "그렇지 않아. 말만 저러는 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

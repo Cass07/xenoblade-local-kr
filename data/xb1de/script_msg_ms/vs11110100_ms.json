@@ -1,0 +1,89 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "생각보다 도움이 안 되는구나[XENO:n ]\n비전이란 거[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]폐하를 지키지 못한 거 말이야?[XENO:n ]\n그건 \"흐름의 범위 안\"이었으니까[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "슈르크 탓이 아니야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]흐음~ 편드는구나[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "…그래서 뭔가 알아냈어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "그래. 오싹오싹해[XENO:n ]\n이 창[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "이 초록색 액체는 우리 거신계의 생명체를 구성하는[XENO:n ]\n에테르 구조를 변질시키고 파괴하는 효과가 있어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "아마 거신의 혈액에서 채집한[XENO:n ]\n에테르 에너지에 손을 댄 거겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "대검의 계곡에 흐르는[XENO:n ]\n에테르는 그거였군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "그 외에도 더 있을 것 같지만[XENO:n ]\n지금은 뭐라 말 못 하겠네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "대응책은?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]항체를 만드는 건 간단해[XENO:n ]\n뭐, \"늦지 않겠지\"[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "그래[XENO:n ]\n다행이네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]도대체 딕슨은 왜 부른 거야?[XENO:n ]\n그 녀석은 질색이란 말이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]연장자는 공경해야지[XENO:n ]\n우리보다 \"그\"와 오래된 사이니까[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

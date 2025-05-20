@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]황비의 자식이[XENO:n ]\n용케도 살아남을 줄이야…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "죄송합니다…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "이 타르코, 반드시 황후 전하의[XENO:n ]\n명을 완수하겠습니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "이 황도에서 말이냐? 폐하께서도 그자의 신변은[XENO:n ]\n각별하게 배려하고 계신다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "근위병들의 눈을 피해 치겠다는 것이냐?[XENO:n ]\n그대 혼자서[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "이 목숨을 바쳐[XENO:n ]\n반드시[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "허튼소리를 들을 기분이 아니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "죄송합…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "같은 말을 반복하지 말거라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "기회는 반드시 올 것입니다[XENO:n ]\n그자가 황위를 탐한다면 말이지요[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

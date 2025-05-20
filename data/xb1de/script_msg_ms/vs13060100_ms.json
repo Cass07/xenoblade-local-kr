@@ -1,0 +1,254 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "아직 결단을 내리지 못한 거냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "딕슨 씨[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]단반에게 들었다[XENO:n ]\n네 여행의 목적[XENO:n ]\n시작은 피오른의 복수였지?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]하지만 피오른은 살아 있었다[XENO:n ]\n그리고 되찾았지[XENO:n ]\n이걸로 목적은 달성한 거 아냐?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]……[XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]딕슨 씨는 무엇을 위해 싸우시죠?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "나 말인가?[XENO:n ]\n나는 그저 마음에 들지 않을 뿐이야[XENO:n ]\n에길이라는 녀석이 말이지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]홈스를 멸망시키려 하기 때문인가요?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "뭐 그런 것도 있지[XENO:n ]\n하지만 말이다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "거신에게 품은 원한을[XENO:n ]\n거신의 품에 있는 우리에게[XENO:n ]\n풀려는 모습이 마음에 안 들어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]……[XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "한 가지 알려 주지[XENO:n ]\n거신계의 연합군은[XENO:n ]\n생각보다 빨리 결성될 것 같다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]정말인가요?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그래. 하이엔터의 황자님이[XENO:n ]\n열심히 해 줘서 말이지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "역시 기신계로 쳐들어가는 건가요?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]물론이지. 하지만 황자님에게는[XENO:n ]\n또 한 가지 목적이 있는 것 같구나[XENO:n ]\n너에게 말을 전해 달라고 부탁받았다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "연합군의 기신계 침공 때[XENO:n ]\n참전할 필요는 없다고[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "그보다 적군의 혼란을 틈타[XENO:n ]\n숙원을 이루라고… 말이야[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "칼리안 전하께서…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]예쁘장한 얼굴에 비해 배짱이 있단 말이지[XENO:n ]\n솔직히 그 말을 들었을 때는 놀랐다고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]네. 전하는 그런 분이라고 생각해요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그래서 어떻게 할 거지?[XENO:n ]\n라고 물은 거다[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]기신계 제도로 가겠어요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "에길을 죽일 건가?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]모르겠어요[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]지금까지 기신병이 저지른 일은 용서할 수 없어요[XENO:n ]\n하지만 미골 씨의 이야기를 듣고 나니[XENO:n ]\n그것 말고 다른 방법이 있을 것 같은 기분이 들어요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "무르구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]역시… 그렇게[XENO:n ]\n생각하세요?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "그래. 녀석은 기신계의 맹주를[XENO:n ]\n표방하는 녀석이다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]다 들었어. 너의 모나드가[XENO:n ]\n녀석 앞에서 힘을 잃었다고 하던데[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "그런 걸로 맞서 봐야[XENO:n ]\n승산이 없지 않나?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "거기에다 망설임이[XENO:n ]\n더해지면 죽을 거야[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "슈르크는 죽지 않아요[XENO:n ]\n우리가 지킬 테니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "피오른![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]괜찮은 거야?[XENO:n ]\n이렇게 움직여도 돼?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]응[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]리나다 씨의 치료 기술은 확실해[XENO:n ]\n기계뿐 아니라 우리 몸에 대해서도[XENO:n ]\n숙지하고 있어서 놀랐어[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]치료에 필요한 물건을 구해 준 거지?[XENO:n ]\n미안해. 여러 가지로 걱정을 끼쳐서…[XENO:wait wait=key ][XENO:act act=EVT_EXT12 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그래도 이제 괜찮아[XENO:n ]\n앞으로는 내가 슈르크를 지켜 줄게![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]망설인다고 해도 그걸로 괴로워한다고 해도[XENO:n ]\n그게 슈르크인 거예요[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 42,
+      "style": 125,
+      "name": "승산이 없다는 이유로[XENO:n ]\n슈르크가 자신을 잃을 정도라면…[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]그리고 슈르크가 이런 녀석이니까[XENO:n ]\n가만히 내버려 둘 수 없는 녀석들이 모이는 거다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 44,
+      "style": 125,
+      "name": "그것 또한 힘의 한 형태지[XENO:n ]\n그렇게 생각하지 않아?[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]뭐, 너희가 지금까지 해낸 일을[XENO:n ]\n생각하면 부정할 수는 없겠지[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]딕슨 씨, 저희는 기신계 제도로 향하겠어요[XENO:n ]\n그러니까 연합군 쪽은…[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 125,
+      "name": "[XENO:act act=EVT3 ]그래. 맡겨 둬. 나는 이래 봬도[XENO:n ]\n내 고향은 소중히 여긴다고[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 48,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]기신병이 더 이상[XENO:n ]\n마음대로 설치게 두지 않겠어[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

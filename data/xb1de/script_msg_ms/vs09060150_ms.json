@@ -1,0 +1,104 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]이걸로 멜리아도 황태자가 됐구나[XENO:n ]\n해피 엔딩이네[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그래. 하지만 우리의 목적은[XENO:n ]\n그 검은 얼굴을 쓰러뜨리는 거야[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]응. 그러려면 감옥섬에 가야 해[XENO:n ]\n그렇지 않으면 그 녀석을 이길 수 없어[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "비전이 그렇게 알려 주고 있어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "있지. 슈르크[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]한 번 더 부탁하러 가 보자[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "이렇게 멜리아의 일도 정리됐으니까[XENO:n ]\n황주도 마음이 바뀌었을지도 모르잖아?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]응[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]라인, 황주는 시간을 달라고 했어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "그럼 기다리자고[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "저게 평범한 섬이 아니라는 건 우리도 알아[XENO:n ]\n분명 특별한 사정이 있겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]맞아![XENO:n ]\n멜리아를 만나러 가자모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]뭐야 아저씨![XENO:n ]\n밑도 끝도 없이[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]리키 멜리아랑 한참 못 만났어모[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "분명 멜리아도 리키를 못 만나서[XENO:n ]\n외로워하고 있을 거야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]음… 확실히 딱딱한 의식들뿐이라[XENO:n ]\n대화할 상대가 필요한 시기일지도 모르겠네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "…가 볼래? 슈르크[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]그래모! 가자모![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]이 거리에서 저 정도 크기라니[XENO:n ]\n상당히 거대한 요새군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]《갤러해드 요새》는 기신병의 전초 기지야[XENO:n ]\n거신계로 쳐들어오는 기신병은[XENO:n ]\n모두 저기서 오는 거겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그럼… 피오른을 데려간[XENO:n ]\n그 황금색 기신병[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]그 녀석도 저기에 있을[XENO:n ]\n가능성이 높겠군요[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "이제부터 기신병의 거점에[XENO:n ]\n돌입하게 돼[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "만약 이런 위험한 일에[XENO:n ]\n동참할 수 없다는 사람이 있으면…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "슈르크, 친구를 따돌리면 안 돼모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]두고 가는 것도 안 돼모[XENO:n ]\n리키 무섭지만…[XENO:n ]\n뒤에 혼자 남긴 싫어모[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "리키…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "리키 말이 맞아[XENO:n ]\n자, 가자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]네![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

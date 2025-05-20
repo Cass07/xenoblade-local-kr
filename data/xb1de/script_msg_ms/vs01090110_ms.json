@@ -1,0 +1,134 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "이놈들아![XENO:n ]\n대체 어떻게 된 일이냐![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ](우와, 방위대장님이다…)[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "자주포가 민가를 들이받았다고?![XENO:n ]\n야 이놈아! 대체 방위대원 몇 년 차냐아아![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]하, 하지만 대장님! 아무리 그래도[XENO:n ]\n그 속도로 선회하는 것은 무리입니다![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]군사 지구까지 40초 안에 돌아올 순 없습니다![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "에잇, 변명 따위 하지 마라![XENO:n ]\n그쯤은 기합으로 돌란 말이야! 기합으로![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]그, 그럴 수가…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]네놈들 콜로니 6와의 합동 훈련에서[XENO:n ]\n최저 성적으로 내 체면에 먹칠을 했던 걸[XENO:n ]\n벌써 잊었단 말이냐![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "전부 기합이 부족해서다![XENO:n ]\n기합이![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]네, 넵![XENO:wait wait=key ][XENO:del del=all ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "즉시 거주 지구의 자주포를 회수하라![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "그다음 전원 팔 굽혀 펴기 1억 회 실시![XENO:n ]\n네놈들의 상완 이두근을 파괴해 주마![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]…대, 대장님! 회수는 불가능합니다![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]뭣이? 어째서냐![XENO:n ]\n이유를 말해 봐라![XENO:act act=EVT_EXT6 ][XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "넵![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "부딪힌 충격으로 에테르 전도 케이블이 손상![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "그로 인해 모든 에테르 에너지가 누출되었고[XENO:n ]\n에테르 실린더가 텅 비었기 때문입니다![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]실린더 정도는 바로 교환해라![XENO:n ]\n네놈은 그런 간단한 일도 못 하는 거냐![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]예비 실린더를 전부 다 써 버려서…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "재충전하는 데 사흘 정도 걸릴 것 같습니다…[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "항상 비품 보충을 잊지 말라고 하지 않았나![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "넵! 죄송합니다![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "정신이 해이해져서다![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "방위대장님은 여전하구나[XENO:n ]\n[XENO:act act=EVT_EXT30 ]저래서는 병사들이 싸우기도 전에 쓰러지겠어[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

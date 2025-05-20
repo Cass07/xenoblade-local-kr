@@ -1,0 +1,169 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "아니 된다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "묘지 참배는 스스로의 힘만으로 끝마쳐야 한다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "목숨을 잃더라도 그것은 하늘의 뜻[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]황주의 그릇이 아니었다는[XENO:n ]\n사실임에 불과하다![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "당신 진심으로[XENO:n ]\n하는 소리야?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]당신 동생이잖아?[XENO:n ]\n멜리아 일이라고?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "그만둬. 라인[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "단반[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그만큼 중요한 의식이겠지[XENO:n ]\n우리들이 참견할 수 있는 문제가 아니야[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT19 ]하지만![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "하지만 그건 당신들[XENO:n ]\n하이엔터의 규율이잖아?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "다른 종족인 홈스가 끼어들어도[XENO:n ]\n문제는 없겠지?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "아니면 그 묘지에는[XENO:n ]\n홈스가 들어가면 안 된다는[XENO:n ]\n규칙이라도 있나?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]그런 건… 없다만[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그럼 어깨에 힘 좀 빼라고[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "묘지 참배라는 게 당신들한테[XENO:n ]\n얼마나 중요한 의식인지는 몰라[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "모르지만… 동생의 목숨과[XENO:n ]\n저울질할 만한 건 아니잖아?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]그럼 맡겨 둬[XENO:n ]\n우리한테[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "그대는…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT18 ]내 이름은 단반[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "기신병을 쳐부수고 싶은[XENO:n ]\n이 녀석들의 보호자쯤 되는 사람이지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "단반…[XENO:n ]\n그런가. 그대가 그…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "1년 전 대검의 계곡에서 일어난 전투에서[XENO:n ]\n모나드를 휘둘러 기신병 군단을 물리쳤다는 자로군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]거기까지 알고 있다면[XENO:n ]\n그때 도와주러 왔으면 좋았을 텐데[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]미안하군… 우리는 타민족과의[XENO:n ]\n다툼을 좋아하지 않아[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "그것이 설령[XENO:n ]\n기신병이라 해도[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]농담이야. 농담[XENO:n ]\n각자 사정이 있었을 테니까[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "저만한 방위 장치를 띄워 둔 건[XENO:n ]\n그래서겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "결론이 난 모양이네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]묘지에는 센터 게이트에 있는[XENO:n ]\n전이 장치를 통해 갈 수 있어[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "전하께서는 이미 묘지에 들어가셨을 거야[XENO:n ]\n슈르크, 서두르는 편이 좋아[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "용사…라 조금 불안하지만…[XENO:n ]\n뭐 괜찮겠지[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]슈르크, 그 테레시아라는 녀석은 강해?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]네[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]움직임이 재빠른 데다 우리의 생각을 읽어요[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]호오, 생각을 읽는다[XENO:n ]\n그건 성가시겠군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]생각을 읽는 건 모나드의 힘으로[XENO:n ]\n어떻게든 됐지만 그래도 상당히 애먹었어요[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]듣자 하니 이제부터 우리가 상대할 건[XENO:n ]\n그 우두머리 같은 거겠지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT3 ]너희들 잠시라도 긴장을 늦추지 마[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT19 ]처음부터 그럴 생각이었어[XENO:wait wait=key ][XENO:act act=EVT_EXT21 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그리고 멜리아는 엘트해로 가는 길의[XENO:n ]\n소중한 안내인이야[XENO:n ]\n그 안내인에게 무슨 일이 생겼다간 찝찝하겠지[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]그저 목적만 달성한다고 되는 게 아니야[XENO:n ]\n그걸 잊지 마[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]알겠어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]그대들은…[XENO:n ]\n미안하구나. 내가 부족한 탓에[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그런 말 하지 마[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]큰 공룡… 테레시아에 대한 정보는[XENO:n ]\n리키에게 전해 두었습니다모[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "그럼 호무호무 여러분! 잘 부탁드립니다모[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]친구들 잘 들어모[XENO:n ]\n큰 공룡은 굉장히 강해모![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "준비 철저, 리키의 장비도[XENO:n ]\n철저히 갖추는 게 중요해모[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]네가 쓸 장비도 준비하라는 말이야?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]맞아모[XENO:n ]\n너 똑똑하네모[XENO:wait wait=key ][XENO:act act=EVT_EXT15 ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]준비됐으면 리키한테 와모[XENO:n ]\n출발은 그때 하자모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]뭔가 굉장히 뻔뻔한 녀석이네[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "테레시아의 정보도 『굉장히 강해모!』[XENO:n ]\n밖에 없잖아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]왠지 짐을 떠맡은 느낌이 드는 건[XENO:n ]\n기분 탓일까…[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

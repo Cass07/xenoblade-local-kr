@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "바네아 씨?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "죄송해요[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "메이너스 님의 뜻을[XENO:n ]\n이루기 위해서는 당신의 몸을[XENO:n ]\n빌릴 수밖에 없었어요… 그런데도…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "저… 감사하고 있어요[XENO:n ]\n이렇게 슈르크와 동료들을 만났으니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]……[XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "지금 메이너스 님은?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]부를까요?[XENO:n ]\n저를 위해서인지 평소에는[XENO:n ]\n잠들어 있는 모양이에요[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]정말 이상한 감각이라니까요[XENO:n ]\n하나의 몸에 두 개의 마음이라니[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "이런 경험은 쉽게 할 수 없잖아요?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]그래요…[XENO:n ]\n그렇다면 다행이네요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "마음을 들여다본다고 할까요?[XENO:n ]\n서로가 생각하고 있는 것을 어쩐지 알게 돼요[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]그래도 조금 이상해요[XENO:n ]\n마음의 어딘가 한 곳에만 안개가 낀 듯한 느낌[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "거기 있는 메이너스의 마음은[XENO:n ]\n들여다볼 수 없어요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]……[XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]당연한 건가?[XENO:n ]\n누구든지 비밀 한두 개는 있으니까요[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]다만 얼마나 이 세계를[XENO:n ]\n생각하고 있는지는 정말 잘 알 수 있어요[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "그러니까 저로도 괜찮다면[XENO:n ]\n얼마든지 이 몸을 써 줬으면 좋겠어요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "피오른…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]메이너스 님은 기뻐하고 있을 거예요[XENO:n ]\n당신과 만나게 돼서[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]네! 알고 있어요[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

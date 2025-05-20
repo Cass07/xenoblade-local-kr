@@ -1,0 +1,1874 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 12,
+      "name": "모나드 발동"
+    },
+    {
+      "$id": 2,
+      "style": 127,
+      "name": "모나드 아츠를 해방한다([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 3,
+      "style": 12,
+      "name": "턴 스트라이크"
+    },
+    {
+      "$id": 4,
+      "style": 127,
+      "name": "공격 시 「브레이크([ML:icon icon=enh36 ])」 상태로 만든다"
+    },
+    {
+      "$id": 5,
+      "style": 12,
+      "name": "버스터"
+    },
+    {
+      "$id": 6,
+      "style": 127,
+      "name": "기신병 한정 대미지 상승 【[System:Color name=arts_sp ]기신병 특효[/System:Color]】"
+    },
+    {
+      "$id": 7,
+      "style": 12,
+      "name": "인챈트"
+    },
+    {
+      "$id": 8,
+      "style": 127,
+      "name": "기신병의 장갑에 튕겨 나가지 않고 추가 대미지를 준다([ML:icon icon=enh02 ])"
+    },
+    {
+      "$id": 9,
+      "style": 12,
+      "name": "실드"
+    },
+    {
+      "$id": 10,
+      "style": 127,
+      "name": "적의 탤런트 아츠를 막는다([ML:icon icon=enh01 ])"
+    },
+    {
+      "$id": 11,
+      "style": 12,
+      "name": "스피드"
+    },
+    {
+      "$id": 12,
+      "style": 127,
+      "name": "물리적 공격을 높은 확률로 회피한다([ML:icon icon=enh03 ])"
+    },
+    {
+      "$id": 13,
+      "style": 12,
+      "name": "브레이커"
+    },
+    {
+      "$id": 14,
+      "style": 127,
+      "name": "적의 「오라([ML:icon icon=enh35 ])」를 해제하고 일정 시간 봉인한다([ML:icon icon=enh24 ])"
+    },
+    {
+      "$id": 15,
+      "style": 12,
+      "name": "이터"
+    },
+    {
+      "$id": 16,
+      "style": 127,
+      "name": "적의 버프 효과를 모두 해제하고 「출혈([ML:icon icon=enh31 ])」 효과"
+    },
+    {
+      "$id": 17,
+      "style": 12,
+      "name": "아머"
+    },
+    {
+      "$id": 18,
+      "style": 127,
+      "name": "물리 대미지와 에테르 대미지를 감소시킨다([ML:icon icon=enh04 ])"
+    },
+    {
+      "$id": 19,
+      "style": 12,
+      "name": "사이클론"
+    },
+    {
+      "$id": 20,
+      "style": 127,
+      "name": "「브레이크([ML:icon icon=enh36 ])」 상태의 적을 「다운([ML:icon icon=enh37 ])」 상태로 만든다"
+    },
+    {
+      "$id": 21,
+      "style": 12,
+      "name": "슬릿 에지"
+    },
+    {
+      "$id": 22,
+      "style": 127,
+      "name": "측면 공격 시 「물리 내성 저하([ML:icon icon=enh25 ])」 【[System:Color name=arts_sp ]측면 특효[/System:Color]】"
+    },
+    {
+      "$id": 23,
+      "style": 12,
+      "name": "백 슬래시"
+    },
+    {
+      "$id": 24,
+      "style": 127,
+      "name": "후방 공격 시 대미지 상승 【[System:Color name=arts_sp ]후방 특효[/System:Color]】"
+    },
+    {
+      "$id": 25,
+      "style": 12,
+      "name": "라이트 힐"
+    },
+    {
+      "$id": 26,
+      "style": 127,
+      "name": "동료 1명의 HP 회복"
+    },
+    {
+      "$id": 27,
+      "style": 12,
+      "name": "셰이커 에지"
+    },
+    {
+      "$id": 28,
+      "style": 127,
+      "name": "「다운([ML:icon icon=enh37 ])」 상태의 적을 「스턴([ML:icon icon=enh39 ])」 상태로 만든다"
+    },
+    {
+      "$id": 29,
+      "style": 12,
+      "name": "에어 슬래시"
+    },
+    {
+      "$id": 30,
+      "style": 127,
+      "name": "적을 「브레이크([ML:icon icon=enh36 ])」, 측면 공격 시 「슬로([ML:icon icon=enh17 ])」 【[System:Color name=arts_sp ]측면 특효[/System:Color]】"
+    },
+    {
+      "$id": 31,
+      "style": 12,
+      "name": "섀도 아이"
+    },
+    {
+      "$id": 32,
+      "style": 127,
+      "name": "어그로를 감소시키고 물리 아츠의 대미지 상승([ML:icon icon=enh15 ])"
+    },
+    {
+      "$id": 33,
+      "style": 12,
+      "name": "배틀 소울"
+    },
+    {
+      "$id": 34,
+      "style": 127,
+      "name": "현재 HP를 절반으로 하고 탤런트 게이지 상승"
+    },
+    {
+      "$id": 35,
+      "style": 12,
+      "name": "스트림 에지"
+    },
+    {
+      "$id": 36,
+      "style": 127,
+      "name": "정면 범위 안의 적을 「브레이크([ML:icon icon=enh36 ])」 상태로 만든다"
+    },
+    {
+      "$id": 37,
+      "style": 12,
+      "name": "매드 타운트"
+    },
+    {
+      "$id": 38,
+      "style": 127,
+      "name": "적의 어그로를 일시적으로 자신에게 집중시킨다"
+    },
+    {
+      "$id": 39,
+      "style": 12,
+      "name": "해머 비트"
+    },
+    {
+      "$id": 40,
+      "style": 127,
+      "name": "공격 시 일시적으로 어그로 획득"
+    },
+    {
+      "$id": 41,
+      "style": 12,
+      "name": "와일드 다운"
+    },
+    {
+      "$id": 42,
+      "style": 127,
+      "name": "「브레이크([ML:icon icon=enh36 ])」 상태의 적을 「다운([ML:icon icon=enh37 ])」 상태로 만든다"
+    },
+    {
+      "$id": 43,
+      "style": 12,
+      "name": "가드 시프트"
+    },
+    {
+      "$id": 44,
+      "style": 127,
+      "name": "「가드」 상태가 된다. 재사용 시 해제"
+    },
+    {
+      "$id": 45,
+      "style": 12,
+      "name": "워 스윙"
+    },
+    {
+      "$id": 46,
+      "style": 127,
+      "name": "히트 시 탤런트 게이지 상승"
+    },
+    {
+      "$id": 47,
+      "style": 12,
+      "name": "소드 파일"
+    },
+    {
+      "$id": 48,
+      "style": 127,
+      "name": "적에게 강력한 대미지의 일격을 날린다"
+    },
+    {
+      "$id": 49,
+      "style": 12,
+      "name": "버서커"
+    },
+    {
+      "$id": 50,
+      "style": 127,
+      "name": "공격 능력([ML:icon icon=enh11 ])이 상승하지만 「물리 내성 저하([ML:icon icon=enh25 ])」([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 51,
+      "style": 12,
+      "name": "실드 배시"
+    },
+    {
+      "$id": 52,
+      "style": 127,
+      "name": "「다운([ML:icon icon=enh37 ])」 상태의 적을 「스턴([ML:icon icon=enh39 ])」 상태로 만든다"
+    },
+    {
+      "$id": 53,
+      "style": 12,
+      "name": "인게이지"
+    },
+    {
+      "$id": 54,
+      "style": 127,
+      "name": "대상을 「록 온([ML:icon icon=enh20 ])」한다([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 55,
+      "style": 12,
+      "name": "라스트 스탠드"
+    },
+    {
+      "$id": 56,
+      "style": 127,
+      "name": "자신이 전투 불능이 되기 전에 긴급 HP 회복([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 57,
+      "style": 12,
+      "name": "레이지"
+    },
+    {
+      "$id": 58,
+      "style": 127,
+      "name": "물리 대미지 감소([ML:icon icon=enh08 ]) 및 스파이크 효과, 공격력 저하([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 59,
+      "style": 12,
+      "name": "불릿 차지"
+    },
+    {
+      "$id": 60,
+      "style": 127,
+      "name": "탤런트 게이지를 다음 아츠의 대미지로 변환한다"
+    },
+    {
+      "$id": 61,
+      "style": 12,
+      "name": "본 어퍼"
+    },
+    {
+      "$id": 62,
+      "style": 127,
+      "name": "히트 시 탤런트 게이지 상승"
+    },
+    {
+      "$id": 63,
+      "style": 12,
+      "name": "다이브 소배트"
+    },
+    {
+      "$id": 64,
+      "style": 127,
+      "name": "「패럴라이즈([ML:icon icon=enh18 ])」 효과 【[System:Color name=arts_sp ]본 어퍼 후 특효[/System:Color]([ML:icon icon=enh28 ])】"
+    },
+    {
+      "$id": 65,
+      "style": 12,
+      "name": "오라 버스트"
+    },
+    {
+      "$id": 66,
+      "style": 127,
+      "name": "공격 시 「근력 다운([ML:icon icon=enh27 ])」 효과"
+    },
+    {
+      "$id": 67,
+      "style": 12,
+      "name": "앵커 체인"
+    },
+    {
+      "$id": 68,
+      "style": 127,
+      "name": "「넉 백」과 「날려버리기」 방지([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 69,
+      "style": 12,
+      "name": "래리어트"
+    },
+    {
+      "$id": 70,
+      "style": 127,
+      "name": "정면 범위 안의 적을 공격"
+    },
+    {
+      "$id": 71,
+      "style": 12,
+      "name": "버터플라이 스텝"
+    },
+    {
+      "$id": 72,
+      "style": 127,
+      "name": "강력한 대미지의 4연속 공격"
+    },
+    {
+      "$id": 73,
+      "style": 12,
+      "name": "파워 스매시"
+    },
+    {
+      "$id": 74,
+      "style": 127,
+      "name": "후방 공격 시 대미지 상승 【[System:Color name=arts_sp ]후방 특효[/System:Color]】"
+    },
+    {
+      "$id": 75,
+      "style": 12,
+      "name": "스크루 에지"
+    },
+    {
+      "$id": 76,
+      "style": 127,
+      "name": "공격 시 「브레이크([ML:icon icon=enh36 ])」 상태로 만든다"
+    },
+    {
+      "$id": 77,
+      "style": 12,
+      "name": "하이드 스파이크"
+    },
+    {
+      "$id": 78,
+      "style": 127,
+      "name": "「다운([ML:icon icon=enh37 ])」 상태의 적을 「스턴([ML:icon icon=enh39 ])」 상태로 만든다"
+    },
+    {
+      "$id": 79,
+      "style": 12,
+      "name": "데들리 바이트"
+    },
+    {
+      "$id": 80,
+      "style": 127,
+      "name": "공격 시 「출혈([ML:icon icon=enh31 ])」 효과"
+    },
+    {
+      "$id": 81,
+      "style": 12,
+      "name": "앵화난무"
+    },
+    {
+      "$id": 82,
+      "style": 127,
+      "name": "찬스를 포착해 연속으로 공격한다"
+    },
+    {
+      "$id": 83,
+      "style": 12,
+      "name": "연참 2"
+    },
+    {
+      "$id": 84,
+      "style": 127,
+      "name": "2번째"
+    },
+    {
+      "$id": 85,
+      "style": 12,
+      "name": "연참 3"
+    },
+    {
+      "$id": 86,
+      "style": 127,
+      "name": "3번째"
+    },
+    {
+      "$id": 87,
+      "style": 12,
+      "name": "연참 4"
+    },
+    {
+      "$id": 88,
+      "style": 127,
+      "name": "4번째"
+    },
+    {
+      "$id": 89,
+      "style": 12,
+      "name": "질풍인"
+    },
+    {
+      "$id": 90,
+      "style": 127,
+      "name": "공격 시 「출혈([ML:icon icon=enh31 ])」 효과"
+    },
+    {
+      "$id": 91,
+      "style": 12,
+      "name": "뇌인포각"
+    },
+    {
+      "$id": 92,
+      "style": 127,
+      "name": "질풍인 후 연계로 적 「브레이크([ML:icon icon=enh36 ])」 【[System:Color name=arts_sp ]질풍인 후 특효[/System:Color]】"
+    },
+    {
+      "$id": 93,
+      "style": 12,
+      "name": "천하무쌍"
+    },
+    {
+      "$id": 94,
+      "style": 127,
+      "name": "「근력 업([ML:icon icon=enh11 ])」 효과 및 「패닉([ML:icon icon=enh21 ])」 해제([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 95,
+      "style": 12,
+      "name": "천지검"
+    },
+    {
+      "$id": 96,
+      "style": 127,
+      "name": "「물리 내성 저하([ML:icon icon=enh25 ])」 효과 【[System:Color name=arts_sp ]질풍인 후 특효[/System:Color]([ML:icon icon=enh27 ])】"
+    },
+    {
+      "$id": 97,
+      "style": 12,
+      "name": "전투안"
+    },
+    {
+      "$id": 98,
+      "style": 127,
+      "name": "대상을 「록 온([ML:icon icon=enh20 ])」한다([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 99,
+      "style": 12,
+      "name": "철공탄"
+    },
+    {
+      "$id": 100,
+      "style": 127,
+      "name": "「브레이크([ML:icon icon=enh36 ])」 상태의 적을 「다운([ML:icon icon=enh37 ])」 상태로 만든다"
+    },
+    {
+      "$id": 101,
+      "style": 12,
+      "name": "명경지수"
+    },
+    {
+      "$id": 102,
+      "style": 127,
+      "name": "명중률과 회피율 상승([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 103,
+      "style": 12,
+      "name": "배수영기"
+    },
+    {
+      "$id": 104,
+      "style": 127,
+      "name": "자신의 HP를 깎아 탤런트 게이지 상승"
+    },
+    {
+      "$id": 105,
+      "style": 12,
+      "name": "구사일살"
+    },
+    {
+      "$id": 106,
+      "style": 127,
+      "name": "자신이 전투 불능이 되기 전에 긴급 HP 회복([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 107,
+      "style": 12,
+      "name": "풍인선각"
+    },
+    {
+      "$id": 108,
+      "style": 127,
+      "name": "질풍인 후 연계 시 적 버프 1개 해제 【[System:Color name=arts_sp ]질풍인 후 특효[/System:Color]】"
+    },
+    {
+      "$id": 109,
+      "style": 12,
+      "name": "아지랑이"
+    },
+    {
+      "$id": 110,
+      "style": 127,
+      "name": "어그로를 없애고 크리티컬 확률 100%([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 111,
+      "style": 12,
+      "name": "신위의 숨결"
+    },
+    {
+      "$id": 112,
+      "style": 127,
+      "name": "디버프를 해제하고 「헤이스트([ML:icon icon=enh05 ])」 효과([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 113,
+      "style": 12,
+      "name": "천인비상"
+    },
+    {
+      "$id": 114,
+      "style": 127,
+      "name": "히트 시 탤런트 게이지 상승"
+    },
+    {
+      "$id": 115,
+      "style": 12,
+      "name": "천뢰"
+    },
+    {
+      "$id": 116,
+      "style": 127,
+      "name": "자신이 「오라([ML:icon icon=enh35 ])」 상태일 때 적을 「스턴([ML:icon icon=enh39 ])」 상태로 만든다"
+    },
+    {
+      "$id": 117,
+      "style": 12,
+      "name": "귀참인"
+    },
+    {
+      "$id": 118,
+      "style": 127,
+      "name": "적 처치 시 전투 중인 모든 적 「다운([ML:icon icon=enh37 ])」 【[System:Color name=arts_sp ]처치 시 특효[/System:Color]】"
+    },
+    {
+      "$id": 119,
+      "style": 12,
+      "name": "앵화현란"
+    },
+    {
+      "$id": 120,
+      "style": 127,
+      "name": "동료 1명의 어그로를 흡수"
+    },
+    {
+      "$id": 121,
+      "style": 12,
+      "name": "쿨다운"
+    },
+    {
+      "$id": 122,
+      "style": 127,
+      "name": "무기의 과열 상태를 회복시킨다"
+    },
+    {
+      "$id": 123,
+      "style": 12,
+      "name": "오버 드라이브"
+    },
+    {
+      "$id": 124,
+      "style": 127,
+      "name": "오버 드라이브"
+    },
+    {
+      "$id": 125,
+      "style": 12,
+      "name": "힐 불릿"
+    },
+    {
+      "$id": 126,
+      "style": 127,
+      "name": "동료 1명의 HP 회복"
+    },
+    {
+      "$id": 127,
+      "style": 12,
+      "name": "선더 불릿"
+    },
+    {
+      "$id": 128,
+      "style": 127,
+      "name": "2회 공격하며 비행 몬스터에겐 크리티컬"
+    },
+    {
+      "$id": 129,
+      "style": 12,
+      "name": "실드 불릿"
+    },
+    {
+      "$id": 130,
+      "style": 127,
+      "name": "동료 1명에게 「대미지 무효([ML:icon icon=enh10 ])」 효과"
+    },
+    {
+      "$id": 131,
+      "style": 12,
+      "name": "큐어 불릿"
+    },
+    {
+      "$id": 132,
+      "style": 127,
+      "name": "동료 1명에게 「디버프 무효([ML:icon icon=enh14 ])」 효과"
+    },
+    {
+      "$id": 133,
+      "style": 12,
+      "name": "드라이브 부스트"
+    },
+    {
+      "$id": 134,
+      "style": 127,
+      "name": "아츠의 쿨타임 단축([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 135,
+      "style": 12,
+      "name": "힐 블래스트"
+    },
+    {
+      "$id": 136,
+      "style": 127,
+      "name": "동료 1명의 HP 대량 회복"
+    },
+    {
+      "$id": 137,
+      "style": 12,
+      "name": "힐 라운드"
+    },
+    {
+      "$id": 138,
+      "style": 127,
+      "name": "범위 안에 있는 동료의 HP 회복"
+    },
+    {
+      "$id": 139,
+      "style": 12,
+      "name": "헤드 스나이프"
+    },
+    {
+      "$id": 140,
+      "style": 127,
+      "name": "적이 「스턴([ML:icon icon=enh39 ])」 상태일 때 일정 확률로 「즉사」 【[System:Color name=arts_sp ]스턴 특효[/System:Color]】"
+    },
+    {
+      "$id": 141,
+      "style": 12,
+      "name": "메탈 블래스트"
+    },
+    {
+      "$id": 142,
+      "style": 127,
+      "name": "공격 시 「브레이크([ML:icon icon=enh36 ])」 상태로 만든다"
+    },
+    {
+      "$id": 143,
+      "style": 12,
+      "name": "오라 불릿"
+    },
+    {
+      "$id": 144,
+      "style": 127,
+      "name": "동료의 오라 지속 시간 연장"
+    },
+    {
+      "$id": 145,
+      "style": 12,
+      "name": "히트 불릿"
+    },
+    {
+      "$id": 146,
+      "style": 127,
+      "name": "범위 안에 있는 동료의 텐션 상승"
+    },
+    {
+      "$id": 147,
+      "style": 12,
+      "name": "헤드 셰이커"
+    },
+    {
+      "$id": 148,
+      "style": 127,
+      "name": "「다운([ML:icon icon=enh37 ])」 상태의 적을 「스턴([ML:icon icon=enh39 ])」 상태로 만든다"
+    },
+    {
+      "$id": 149,
+      "style": 12,
+      "name": "하이드 스탠스"
+    },
+    {
+      "$id": 150,
+      "style": 127,
+      "name": "어그로를 감소시키고 효과 발동 중 어그로가 발생하지 않는다([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 151,
+      "style": 12,
+      "name": "힐 카운터"
+    },
+    {
+      "$id": 152,
+      "style": 127,
+      "name": "둉료 1명에게 「대미지 힐([ML:icon icon=enh07 ])」 효과"
+    },
+    {
+      "$id": 153,
+      "style": 12,
+      "name": "슬립 불릿"
+    },
+    {
+      "$id": 154,
+      "style": 127,
+      "name": "적 하나에게 「슬립([ML:icon icon=enh38 ])」 효과"
+    },
+    {
+      "$id": 155,
+      "style": 12,
+      "name": "큐어 라운드"
+    },
+    {
+      "$id": 156,
+      "style": 127,
+      "name": "범위 안에 있는 동료에게 「디버프 무효([ML:icon icon=enh14 ])」 효과"
+    },
+    {
+      "$id": 157,
+      "style": 12,
+      "name": "내거다모"
+    },
+    {
+      "$id": 158,
+      "style": 127,
+      "name": "적에게서 「무언가」를 훔친다"
+    },
+    {
+      "$id": 159,
+      "style": 12,
+      "name": "기뻐해라모"
+    },
+    {
+      "$id": 160,
+      "style": 127,
+      "name": "파티 게이지를 상승시킨다"
+    },
+    {
+      "$id": 161,
+      "style": 12,
+      "name": "깨물깨물이다모"
+    },
+    {
+      "$id": 162,
+      "style": 127,
+      "name": "「출혈([ML:icon icon=enh31 ])」, 적 후방 공격 시 지속 시간 연장 【[System:Color name=arts_sp ]후방 특효[/System:Color]】"
+    },
+    {
+      "$id": 163,
+      "style": 12,
+      "name": "지금이다모"
+    },
+    {
+      "$id": 164,
+      "style": 127,
+      "name": "후방 공격 시 대미지 상승 【[System:Color name=arts_sp ]후방 특효[/System:Color]】"
+    },
+    {
+      "$id": 165,
+      "style": 12,
+      "name": "부탁한다모"
+    },
+    {
+      "$id": 166,
+      "style": 127,
+      "name": "「죽은 척」으로 적의 주목을 돌린다([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 167,
+      "style": 12,
+      "name": "시름시름이다모"
+    },
+    {
+      "$id": 168,
+      "style": 127,
+      "name": "「독([ML:icon icon=enh34 ])」 효과"
+    },
+    {
+      "$id": 169,
+      "style": 12,
+      "name": "용기다모"
+    },
+    {
+      "$id": 170,
+      "style": 127,
+      "name": "범위 안에 있는 동료의 텐션 다운 방지([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 171,
+      "style": 12,
+      "name": "쓰러져라모"
+    },
+    {
+      "$id": 172,
+      "style": 127,
+      "name": "「바인드([ML:icon icon=enh19 ])」 효과 및 가끔 적을 「다운([ML:icon icon=enh37 ])」 상태로 만든다"
+    },
+    {
+      "$id": 173,
+      "style": 12,
+      "name": "진정해라모"
+    },
+    {
+      "$id": 174,
+      "style": 127,
+      "name": "「패럴라이즈([ML:icon icon=enh18 ])」 효과 및 「광폭」을 해제한다"
+    },
+    {
+      "$id": 175,
+      "style": 12,
+      "name": "화났다모"
+    },
+    {
+      "$id": 176,
+      "style": 127,
+      "name": "받은 대미지의 배를 스파이크 대미지로 돌려준다([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 177,
+      "style": 12,
+      "name": "빙글빙글이다모"
+    },
+    {
+      "$id": 178,
+      "style": 127,
+      "name": "자신과 주위의 적에게 「슬립([ML:icon icon=enh38 ])」 효과"
+    },
+    {
+      "$id": 179,
+      "style": 12,
+      "name": "힘내라모"
+    },
+    {
+      "$id": 180,
+      "style": 127,
+      "name": "정면에 있는 동료의 HP를 회복시킨다"
+    },
+    {
+      "$id": 181,
+      "style": 12,
+      "name": "여기다모"
+    },
+    {
+      "$id": 182,
+      "style": 127,
+      "name": "기신병의 측면 공격 시 「패닉([ML:icon icon=enh21 ])」 【[System:Color name=arts_sp ]기신병 측면 특효[/System:Color]】"
+    },
+    {
+      "$id": 183,
+      "style": 12,
+      "name": "회개해라모"
+    },
+    {
+      "$id": 184,
+      "style": 127,
+      "name": "적의 디버프 수에 따라 대미지 상승"
+    },
+    {
+      "$id": 185,
+      "style": 12,
+      "name": "이글이글이다모"
+    },
+    {
+      "$id": 186,
+      "style": 127,
+      "name": "자신 주위의 적에게 「작열([ML:icon icon=enh32 ])」 효과"
+    },
+    {
+      "$id": 187,
+      "style": 12,
+      "name": "오들오들이다모"
+    },
+    {
+      "$id": 188,
+      "style": 127,
+      "name": "「냉기([ML:icon icon=enh33 ])」 효과"
+    },
+    {
+      "$id": 189,
+      "style": 12,
+      "name": "해치운다모"
+    },
+    {
+      "$id": 190,
+      "style": 127,
+      "name": "공격 시 「브레이크([ML:icon icon=enh36 ])」 상태로 만든다"
+    },
+    {
+      "$id": 191,
+      "style": 12,
+      "name": "엘리먼트 발사"
+    },
+    {
+      "$id": 192,
+      "style": 127,
+      "name": "소환 중인 엘리먼트를 발사한다"
+    },
+    {
+      "$id": 193,
+      "style": 12,
+      "name": "번개 엘리먼트 발사"
+    },
+    {
+      "$id": 194,
+      "style": 127,
+      "name": "적 하나에 에테르 대미지"
+    },
+    {
+      "$id": 195,
+      "style": 12,
+      "name": "불 엘리먼트 발사"
+    },
+    {
+      "$id": 196,
+      "style": 127,
+      "name": "적 주위에 「작열」 대미지"
+    },
+    {
+      "$id": 197,
+      "style": 12,
+      "name": "얼음 엘리먼트 발사"
+    },
+    {
+      "$id": 198,
+      "style": 127,
+      "name": "자신 주위에 「냉기」 대미지"
+    },
+    {
+      "$id": 199,
+      "style": 12,
+      "name": "바람 엘리먼트 발사"
+    },
+    {
+      "$id": 200,
+      "style": 127,
+      "name": "적 주위에 에테르 대미지"
+    },
+    {
+      "$id": 201,
+      "style": 12,
+      "name": "땅 엘리먼트 발사"
+    },
+    {
+      "$id": 202,
+      "style": 127,
+      "name": "적 하나에 「독」 대미지"
+    },
+    {
+      "$id": 203,
+      "style": 12,
+      "name": "물 엘리먼트 발사"
+    },
+    {
+      "$id": 204,
+      "style": 127,
+      "name": "적 하나의 HP 흡수"
+    },
+    {
+      "$id": 205,
+      "style": 12,
+      "name": "서먼 볼트"
+    },
+    {
+      "$id": 206,
+      "style": 127,
+      "name": "번개 엘리먼트를 소환해 주위 동료의 에테르 업([ML:icon icon=enh13 ])"
+    },
+    {
+      "$id": 207,
+      "style": 12,
+      "name": "서먼 플레어"
+    },
+    {
+      "$id": 208,
+      "style": 127,
+      "name": "불 엘리먼트를 소환해 주위 동료의 근력 업([ML:icon icon=enh11 ])"
+    },
+    {
+      "$id": 209,
+      "style": 12,
+      "name": "서먼 아이스"
+    },
+    {
+      "$id": 210,
+      "style": 127,
+      "name": "얼음 엘리먼트를 소환해 주위 동료에게 에테르 배리어([ML:icon icon=enh09 ])"
+    },
+    {
+      "$id": 211,
+      "style": 12,
+      "name": "슬립 마인드"
+    },
+    {
+      "$id": 212,
+      "style": 127,
+      "name": "적 하나에게 「슬립([ML:icon icon=enh38 ])」 효과"
+    },
+    {
+      "$id": 213,
+      "style": 12,
+      "name": "스피어 브레이크"
+    },
+    {
+      "$id": 214,
+      "style": 127,
+      "name": "적 하나를 타격하고 「슬로([ML:icon icon=enh17 ])」 효과"
+    },
+    {
+      "$id": 215,
+      "style": 12,
+      "name": "섀도 스티치"
+    },
+    {
+      "$id": 216,
+      "style": 127,
+      "name": "자신 주위에 「바인드([ML:icon icon=enh19 ])」 효과"
+    },
+    {
+      "$id": 217,
+      "style": 12,
+      "name": "서머닝 카피"
+    },
+    {
+      "$id": 218,
+      "style": 127,
+      "name": "직전에 소환한 엘리먼트 소환"
+    },
+    {
+      "$id": 219,
+      "style": 12,
+      "name": "리플렉션"
+    },
+    {
+      "$id": 220,
+      "style": 127,
+      "name": "자신에게 「공격 반사([ML:icon icon=enh16 ])」 효과"
+    },
+    {
+      "$id": 221,
+      "style": 12,
+      "name": "서먼 윈드"
+    },
+    {
+      "$id": 222,
+      "style": 127,
+      "name": "바람 엘리먼트를 소환해 주위 동료의 속도 업([ML:icon icon=enh12 ])"
+    },
+    {
+      "$id": 223,
+      "style": 12,
+      "name": "서먼 어스"
+    },
+    {
+      "$id": 224,
+      "style": 127,
+      "name": "땅 엘리먼트를 소환해 주위 동료에게 물리 배리어([ML:icon icon=enh08 ])"
+    },
+    {
+      "$id": 225,
+      "style": 12,
+      "name": "서먼 아쿠아"
+    },
+    {
+      "$id": 226,
+      "style": 127,
+      "name": "물 엘리먼트를 소환해 주위 동료에게 지속 힐([ML:icon icon=enh06 ])"
+    },
+    {
+      "$id": 227,
+      "style": 12,
+      "name": "힐 기프트"
+    },
+    {
+      "$id": 228,
+      "style": 127,
+      "name": "자신의 HP를 희생해 동료 1명의 HP를 회복"
+    },
+    {
+      "$id": 229,
+      "style": 12,
+      "name": "스타라이트 니"
+    },
+    {
+      "$id": 230,
+      "style": 127,
+      "name": "【[System:Color name=arts_sp ]스피어 브레이크 후 특효[/System:Color]】 특효 만족 시 「다운([ML:icon icon=enh37 ])」"
+    },
+    {
+      "$id": 231,
+      "style": 12,
+      "name": "파워 이펙트"
+    },
+    {
+      "$id": 232,
+      "style": 127,
+      "name": "소환 중에 버프 효과 반경 확대([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 233,
+      "style": 12,
+      "name": "버스트 엔드"
+    },
+    {
+      "$id": 234,
+      "style": 127,
+      "name": "자신 주위에 있는 적의 방어 내성을 낮춘다([ML:icon icon=enh25 ])"
+    },
+    {
+      "$id": 235,
+      "style": 12,
+      "name": "마인드 블래스트"
+    },
+    {
+      "$id": 236,
+      "style": 127,
+      "name": "정면 적의 오라 해제 및 「아츠 봉인([ML:icon icon=enh23 ])」 효과"
+    },
+    {
+      "$id": 237,
+      "style": 12,
+      "name": "캐넌 플랩 Ⅰ"
+    },
+    {
+      "$id": 238,
+      "style": 127,
+      "name": "직선상의 적에게 빔 공격"
+    },
+    {
+      "$id": 239,
+      "style": 12,
+      "name": "건 플랩 Ⅰ"
+    },
+    {
+      "$id": 240,
+      "style": 127,
+      "name": "자신 주위의 적에게 빔 공격"
+    },
+    {
+      "$id": 241,
+      "style": 12,
+      "name": "소드 플랩 Ⅰ"
+    },
+    {
+      "$id": 242,
+      "style": 127,
+      "name": "적 하나에 10연속 공격"
+    },
+    {
+      "$id": 243,
+      "style": 12,
+      "name": "실드 플랩 Ⅰ"
+    },
+    {
+      "$id": 244,
+      "style": 127,
+      "name": "자신에게 「실드([ML:icon icon=enh01 ])」 효과"
+    },
+    {
+      "$id": 245,
+      "style": 12,
+      "name": "캐넌 플랩 Ⅱ"
+    },
+    {
+      "$id": 246,
+      "style": 127,
+      "name": "직선상의 적에게 빔 공격"
+    },
+    {
+      "$id": 247,
+      "style": 12,
+      "name": "건 플랩 Ⅱ"
+    },
+    {
+      "$id": 248,
+      "style": 127,
+      "name": "자신 주위의 적에게 빔 공격"
+    },
+    {
+      "$id": 249,
+      "style": 12,
+      "name": "소드 플랩 Ⅱ"
+    },
+    {
+      "$id": 250,
+      "style": 127,
+      "name": "적 하나에 10연속 공격"
+    },
+    {
+      "$id": 251,
+      "style": 12,
+      "name": "실드 플랩 Ⅱ"
+    },
+    {
+      "$id": 252,
+      "style": 127,
+      "name": "자신에게 「디버프 무효([ML:icon icon=enh14 ])」 효과"
+    },
+    {
+      "$id": 253,
+      "style": 12,
+      "name": "소드 플랩 Ⅹ"
+    },
+    {
+      "$id": 254,
+      "style": 127,
+      "name": "적 하나에 10연속 공격"
+    },
+    {
+      "$id": 255,
+      "style": 12,
+      "name": "더블 블레이드"
+    },
+    {
+      "$id": 256,
+      "style": 127,
+      "name": "후방 공격 시 대미지 상승 【[System:Color name=arts_sp ]후방 특효[/System:Color]】"
+    },
+    {
+      "$id": 257,
+      "style": 12,
+      "name": "힐 배리어"
+    },
+    {
+      "$id": 258,
+      "style": 127,
+      "name": "자신의 디버프를 해제하고 「지속 힐([ML:icon icon=enh06 ])」 효과([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 259,
+      "style": 12,
+      "name": "스피어 블레이드"
+    },
+    {
+      "$id": 260,
+      "style": 127,
+      "name": "적이 「다운([ML:icon icon=enh37 ])」 상태일 때 대미지 상승 【[System:Color name=arts_sp ]다운 특효[/System:Color]】"
+    },
+    {
+      "$id": 261,
+      "style": 12,
+      "name": "크로스 임팩트"
+    },
+    {
+      "$id": 262,
+      "style": 127,
+      "name": "「다운([ML:icon icon=enh37 ])」 상태의 적을 「스턴([ML:icon icon=enh39 ])」 상태로 만든다"
+    },
+    {
+      "$id": 263,
+      "style": 12,
+      "name": "스피드 시프트"
+    },
+    {
+      "$id": 264,
+      "style": 127,
+      "name": "자신에게 「헤이스트([ML:icon icon=enh05 ])」와 「물리 내성 저하([ML:icon icon=enh25 ])」 효과([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 265,
+      "style": 12,
+      "name": "그래비티 제로"
+    },
+    {
+      "$id": 266,
+      "style": 127,
+      "name": "공격 시 「패럴라이즈([ML:icon icon=enh18 ])」 효과 【[System:Color name=arts_sp ]다운 특효[/System:Color]】"
+    },
+    {
+      "$id": 267,
+      "style": 12,
+      "name": "록 온"
+    },
+    {
+      "$id": 268,
+      "style": 127,
+      "name": "대상을 「록 온([ML:icon icon=enh20 ])」한다([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 269,
+      "style": 12,
+      "name": "에테르 드레인"
+    },
+    {
+      "$id": 270,
+      "style": 127,
+      "name": "에테르를 흡수한다([ML:icon icon=enh13 ])"
+    },
+    {
+      "$id": 271,
+      "style": 12,
+      "name": "더블 윈드"
+    },
+    {
+      "$id": 272,
+      "style": 127,
+      "name": "공격 히트 시 텐션 상승"
+    },
+    {
+      "$id": 273,
+      "style": 12,
+      "name": "버그 스톰"
+    },
+    {
+      "$id": 274,
+      "style": 127,
+      "name": "「다운([ML:icon icon=enh37 ])」 상태의 기신병을 「스턴([ML:icon icon=enh39 ])」 상태로 만든다 【[System:Color name=arts_sp ]기신병 특효[/System:Color]】"
+    },
+    {
+      "$id": 275,
+      "style": 12,
+      "name": "셧다운"
+    },
+    {
+      "$id": 276,
+      "style": 127,
+      "name": "공격 시 「슬립([ML:icon icon=enh38 ])」 효과 【[System:Color name=arts_sp ]기신병 특효[/System:Color]】"
+    },
+    {
+      "$id": 277,
+      "style": 12,
+      "name": "에어 팽"
+    },
+    {
+      "$id": 278,
+      "style": 127,
+      "name": "공격 시 「브레이크([ML:icon icon=enh36 ])」 상태로 만든다"
+    },
+    {
+      "$id": 279,
+      "style": 12,
+      "name": "파워 드레인"
+    },
+    {
+      "$id": 280,
+      "style": 127,
+      "name": "근력을 흡수한다([ML:icon icon=enh11 ])"
+    },
+    {
+      "$id": 281,
+      "style": 12,
+      "name": "가드 시프트"
+    },
+    {
+      "$id": 282,
+      "style": 127,
+      "name": "가드 확률 상승과 공격력 저하([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 283,
+      "style": 12,
+      "name": "세컨드 기어"
+    },
+    {
+      "$id": 284,
+      "style": 127,
+      "name": "다음 물리 아츠의 대미지 상승([ML:icon icon=enh15 ])"
+    },
+    {
+      "$id": 285,
+      "style": 12,
+      "name": "파이널 크로스"
+    },
+    {
+      "$id": 286,
+      "style": 127,
+      "name": "일반 상태의 적을 「다운([ML:icon icon=enh37 ])」 상태로 만든다"
+    },
+    {
+      "$id": 287,
+      "style": 12,
+      "name": "선더 볼트"
+    },
+    {
+      "$id": 288,
+      "style": 127,
+      "name": "에테르 대미지를 준다"
+    },
+    {
+      "$id": 289,
+      "style": 12,
+      "name": "힐 볼트"
+    },
+    {
+      "$id": 290,
+      "style": 127,
+      "name": "동료 1명의 HP 회복"
+    },
+    {
+      "$id": 291,
+      "style": 12,
+      "name": "헬 다이브 클로"
+    },
+    {
+      "$id": 292,
+      "style": 127,
+      "name": "적 하나에 연속 공격"
+    },
+    {
+      "$id": 293,
+      "style": 12,
+      "name": "헬하운드"
+    },
+    {
+      "$id": 294,
+      "style": 127,
+      "name": "주위의 어그로를 일시적으로 자신에게 집중시킨다"
+    },
+    {
+      "$id": 295,
+      "style": 12,
+      "name": "크로스 레이"
+    },
+    {
+      "$id": 296,
+      "style": 127,
+      "name": "물리 대미지를 준다"
+    },
+    {
+      "$id": 297,
+      "style": 12,
+      "name": "로스트 레이"
+    },
+    {
+      "$id": 298,
+      "style": 127,
+      "name": "강력한 물리 대미지를 준다"
+    },
+    {
+      "$id": 299,
+      "style": 12,
+      "name": "버스터"
+    },
+    {
+      "$id": 300,
+      "style": 127,
+      "name": "기신병 한정 대미지 상승 【[System:Color name=arts_sp ]기신병 특효[/System:Color]】"
+    },
+    {
+      "$id": 301,
+      "style": 12,
+      "name": "인챈트"
+    },
+    {
+      "$id": 302,
+      "style": 127,
+      "name": "기신병의 장갑에 튕겨 나가지 않고 추가 대미지를 준다([ML:icon icon=enh02 ])"
+    },
+    {
+      "$id": 303,
+      "style": 12,
+      "name": "모나드 발동"
+    },
+    {
+      "$id": 304,
+      "style": 127,
+      "name": "모나드 아츠를 해방한다([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 305,
+      "style": 12,
+      "name": "모모모 다운"
+    },
+    {
+      "$id": 306,
+      "style": 127,
+      "name": "쌓인 탤런트 게이지를 감소시킨다"
+    },
+    {
+      "$id": 307,
+      "style": 12,
+      "name": "힐 불릿"
+    },
+    {
+      "$id": 308,
+      "style": 127,
+      "name": "동료 1명의 HP 회복"
+    },
+    {
+      "$id": 309,
+      "style": 12,
+      "name": "선더 불릿"
+    },
+    {
+      "$id": 310,
+      "style": 127,
+      "name": "2회 공격하며 비행 몬스터에겐 크리티컬"
+    },
+    {
+      "$id": 311,
+      "style": 12,
+      "name": "실드 단단해모"
+    },
+    {
+      "$id": 312,
+      "style": 127,
+      "name": "동료 1명에게 「대미지 무효([ML:icon icon=enh10 ])」 효과"
+    },
+    {
+      "$id": 313,
+      "style": 12,
+      "name": "큐어 멀쩡해모"
+    },
+    {
+      "$id": 314,
+      "style": 127,
+      "name": "동료 1명에게 「디버프 무효([ML:icon icon=enh14 ])」 효과"
+    },
+    {
+      "$id": 315,
+      "style": 12,
+      "name": "부 부 부스트"
+    },
+    {
+      "$id": 316,
+      "style": 127,
+      "name": "아츠의 쿨타임 단축([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 317,
+      "style": 12,
+      "name": "힐 블래스트"
+    },
+    {
+      "$id": 318,
+      "style": 127,
+      "name": "동료 1명의 HP 대량 회복"
+    },
+    {
+      "$id": 319,
+      "style": 12,
+      "name": "힐 라운드"
+    },
+    {
+      "$id": 320,
+      "style": 127,
+      "name": "범위 안에 있는 동료의 HP 회복"
+    },
+    {
+      "$id": 321,
+      "style": 12,
+      "name": "헤드 스나이프"
+    },
+    {
+      "$id": 322,
+      "style": 127,
+      "name": "적이 「스턴([ML:icon icon=enh39 ])」 상태일 때 일정 확률로 「즉사」 【[System:Color name=arts_sp ]스턴 특효[/System:Color]】"
+    },
+    {
+      "$id": 323,
+      "style": 12,
+      "name": "멘탈 블래스트"
+    },
+    {
+      "$id": 324,
+      "style": 127,
+      "name": "공격 시 「브레이크([ML:icon icon=enh36 ])」 상태로 만든다"
+    },
+    {
+      "$id": 325,
+      "style": 12,
+      "name": "오라 불릿"
+    },
+    {
+      "$id": 326,
+      "style": 127,
+      "name": "동료의 오라 지속 시간 연장"
+    },
+    {
+      "$id": 327,
+      "style": 12,
+      "name": "히트 불릿"
+    },
+    {
+      "$id": 328,
+      "style": 127,
+      "name": "범위 안에 있는 동료의 텐션 상승"
+    },
+    {
+      "$id": 329,
+      "style": 12,
+      "name": "헤드 셰이커"
+    },
+    {
+      "$id": 330,
+      "style": 127,
+      "name": "「다운([ML:icon icon=enh37 ])」 상태의 적을 「스턴([ML:icon icon=enh39 ])」 상태로 만든다"
+    },
+    {
+      "$id": 331,
+      "style": 12,
+      "name": "하이 하이 스탠스"
+    },
+    {
+      "$id": 332,
+      "style": 127,
+      "name": "어그로를 감소시키고 효과 발동 중 어그로가 발생하지 않는다([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 333,
+      "style": 12,
+      "name": "힐 카운터"
+    },
+    {
+      "$id": 334,
+      "style": 127,
+      "name": "둉료 1명에게 「대미지 힐([ML:icon icon=enh07 ])」 효과"
+    },
+    {
+      "$id": 335,
+      "style": 12,
+      "name": "슬립 잘자모"
+    },
+    {
+      "$id": 336,
+      "style": 127,
+      "name": "적 하나에게 「슬립([ML:icon icon=enh38 ])」 효과"
+    },
+    {
+      "$id": 337,
+      "style": 12,
+      "name": "큐어 라운드"
+    },
+    {
+      "$id": 338,
+      "style": 127,
+      "name": "범위 안에 있는 동료에게 「디버프 무효([ML:icon icon=enh14 ])」 효과"
+    },
+    {
+      "$id": 339,
+      "style": 12,
+      "name": "모모모 타운트"
+    },
+    {
+      "$id": 340,
+      "style": 127,
+      "name": "적의 어그로를 일시적으로 자신에게 집중시킨다"
+    },
+    {
+      "$id": 341,
+      "style": 12,
+      "name": "해머 비트"
+    },
+    {
+      "$id": 342,
+      "style": 127,
+      "name": "공격 시 일시적으로 어그로 획득"
+    },
+    {
+      "$id": 343,
+      "style": 12,
+      "name": "마일드 다운"
+    },
+    {
+      "$id": 344,
+      "style": 127,
+      "name": "「브레이크([ML:icon icon=enh36 ])」 상태의 적을 「다운([ML:icon icon=enh37 ])」 상태로 만든다"
+    },
+    {
+      "$id": 345,
+      "style": 12,
+      "name": "가드해모"
+    },
+    {
+      "$id": 346,
+      "style": 127,
+      "name": "「가드」 상태가 된다. 재사용 시 해제"
+    },
+    {
+      "$id": 347,
+      "style": 12,
+      "name": "모 스윙"
+    },
+    {
+      "$id": 348,
+      "style": 127,
+      "name": "히트 시 탤런트 게이지 상승"
+    },
+    {
+      "$id": 349,
+      "style": 12,
+      "name": "소드 파일"
+    },
+    {
+      "$id": 350,
+      "style": 127,
+      "name": "적에게 강력한 대미지의 일격을 날린다"
+    },
+    {
+      "$id": 351,
+      "style": 12,
+      "name": "버서커"
+    },
+    {
+      "$id": 352,
+      "style": 127,
+      "name": "공격 능력([ML:icon icon=enh11 ])이 상승하지만 「물리 내성 저하([ML:icon icon=enh25 ])」([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 353,
+      "style": 12,
+      "name": "실드 배시"
+    },
+    {
+      "$id": 354,
+      "style": 127,
+      "name": "「다운([ML:icon icon=enh37 ])」 상태의 적을 「스턴([ML:icon icon=enh39 ])」 상태로 만든다"
+    },
+    {
+      "$id": 355,
+      "style": 12,
+      "name": "인게이지"
+    },
+    {
+      "$id": 356,
+      "style": 127,
+      "name": "대상을 「록 온([ML:icon icon=enh20 ])」한다([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 357,
+      "style": 12,
+      "name": "라스트 스탠드"
+    },
+    {
+      "$id": 358,
+      "style": 127,
+      "name": "자신이 전투 불능이 되기 전에 긴급 HP 회복([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 359,
+      "style": 12,
+      "name": "화났어모"
+    },
+    {
+      "$id": 360,
+      "style": 127,
+      "name": "물리 대미지 감소([ML:icon icon=enh08 ]) 및 스파이크 효과, 공격력 저하([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 361,
+      "style": 12,
+      "name": "브레드 차지"
+    },
+    {
+      "$id": 362,
+      "style": 127,
+      "name": "탤런트 게이지를 다음 아츠의 대미지로 변환한다"
+    },
+    {
+      "$id": 363,
+      "style": 12,
+      "name": "본 어퍼"
+    },
+    {
+      "$id": 364,
+      "style": 127,
+      "name": "히트 시 탤런트 게이지 상승"
+    },
+    {
+      "$id": 365,
+      "style": 12,
+      "name": "다이브 소배트"
+    },
+    {
+      "$id": 366,
+      "style": 127,
+      "name": "「패럴라이즈([ML:icon icon=enh18 ])」 효과 【[System:Color name=arts_sp ]본 어퍼 후 특효([ML:icon icon=enh28 ])[/System:Color]】"
+    },
+    {
+      "$id": 367,
+      "style": 12,
+      "name": "오라 토스트"
+    },
+    {
+      "$id": 368,
+      "style": 127,
+      "name": "공격 시 「근력 다운([ML:icon icon=enh27 ])」 효과"
+    },
+    {
+      "$id": 369,
+      "style": 12,
+      "name": "앵커 체인"
+    },
+    {
+      "$id": 370,
+      "style": 127,
+      "name": "「넉 백」과 「날려버리기」 방지([ML:icon icon=enh35 ])"
+    },
+    {
+      "$id": 371,
+      "style": 12,
+      "name": "래리어트"
+    },
+    {
+      "$id": 372,
+      "style": 127,
+      "name": "정면 범위 안의 적을 공격"
+    }
+  ]
+}

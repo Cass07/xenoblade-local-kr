@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "그린 다이오드가[XENO:n ]\n5개 모였어[XENO:wait wait=key ][System:PageBreak ]이제 해독 장치를 개량할 수 있으려나?[XENO:n ]\n어쨌든 나토리 씨한테 전해 줘야겠어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "교환 재료인 루퍼스의 제어 장치가[XENO:n ]\n3개 모였어[XENO:wait wait=key ][System:PageBreak ]이제 비밀 클럽 회원증과[XENO:n ]\n교환할 수 있겠군[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 11,
+      "name": "전투"
+    },
+    {
+      "$id": 2,
+      "style": 25,
+      "name": "공격을 시작합니다"
+    },
+    {
+      "$id": 3,
+      "style": 11,
+      "name": "퇴각"
+    },
+    {
+      "$id": 4,
+      "style": 25,
+      "name": "공격을 중지합니다"
+    },
+    {
+      "$id": 5,
+      "style": 11,
+      "name": "유인"
+    },
+    {
+      "$id": 6,
+      "style": 25,
+      "name": "원거리 공격으로 적을 유인합니다"
+    },
+    {
+      "$id": 7,
+      "style": 11,
+      "name": "체인 어택"
+    },
+    {
+      "$id": 8,
+      "style": 25,
+      "name": "체인 어택을 시작합니다"
+    },
+    {
+      "$id": 9,
+      "style": 13,
+      "name": "보물 상자"
+    },
+    {
+      "$id": 10,
+      "style": 13,
+      "name": "채집 포인트"
+    },
+    {
+      "$id": 11,
+      "style": 13,
+      "name": "조사하기"
+    },
+    {
+      "$id": 12,
+      "style": 8,
+      "name": "미스"
+    },
+    {
+      "$id": 13,
+      "style": 9,
+      "name": "가드"
+    },
+    {
+      "$id": 14,
+      "style": 9,
+      "name": "무효"
+    },
+    {
+      "$id": 15,
+      "style": 9,
+      "name": "레지스트"
+    },
+    {
+      "$id": 16,
+      "style": 0,
+      "name": "▲"
+    },
+    {
+      "$id": 17,
+      "style": 19,
+      "name": "아츠 세팅"
+    },
+    {
+      "$id": 18,
+      "style": 9,
+      "name": "소지 AP"
+    },
+    {
+      "$id": 19,
+      "style": 1,
+      "name": "pt"
+    },
+    {
+      "$id": 20,
+      "style": 5,
+      "name": "변경"
+    },
+    {
+      "$id": 21,
+      "style": 0,
+      "name": "Ⅰ"
+    },
+    {
+      "$id": 22,
+      "style": 0,
+      "name": "Ⅱ"
+    },
+    {
+      "$id": 23,
+      "style": 0,
+      "name": "Ⅲ"
+    },
+    {
+      "$id": 24,
+      "style": 0,
+      "name": "Ⅳ"
+    },
+    {
+      "$id": 25,
+      "style": 0,
+      "name": "Ⅴ"
+    },
+    {
+      "$id": 26,
+      "style": 0,
+      "name": "Ⅵ"
+    },
+    {
+      "$id": 27,
+      "style": 0,
+      "name": "Ⅶ"
+    },
+    {
+      "$id": 28,
+      "style": 0,
+      "name": "Ⅷ"
+    },
+    {
+      "$id": 29,
+      "style": 0,
+      "name": "Ⅸ"
+    },
+    {
+      "$id": 30,
+      "style": 0,
+      "name": "Ⅹ"
+    },
+    {
+      "$id": 31,
+      "style": 8,
+      "name": "소비 AP"
+    },
+    {
+      "$id": 32,
+      "style": 8,
+      "name": "레벨 업"
+    },
+    {
+      "$id": 33,
+      "style": 8,
+      "name": "취소"
+    },
+    {
+      "$id": 34,
+      "style": 116,
+      "name": "AP가 부족합니다"
+    },
+    {
+      "$id": 35,
+      "style": 116,
+      "name": "최고 레벨에 도달했습니다"
+    },
+    {
+      "$id": 36,
+      "style": 116,
+      "name": "아츠가 한계 레벨입니다[XENO:n ]\n레벨 업을 위해서는[XENO:n ]\n중급 이상의 아츠북이 필요합니다"
+    },
+    {
+      "$id": 37,
+      "style": 116,
+      "name": "아츠가 한계 레벨입니다[XENO:n ]\n레벨 업을 위해서는[XENO:n ]\n상급 아츠북이 필요합니다"
+    },
+    {
+      "$id": 38,
+      "style": 116,
+      "name": "아츠가 한계 레벨입니다"
+    },
+    {
+      "$id": 39,
+      "style": 26,
+      "name": "[KR:Perticle char=wo ] 습득했습니다"
+    },
+    {
+      "$id": 40,
+      "style": 26,
+      "name": "[KR:Perticle char=ga ] 중급 레벨에 도달했습니다"
+    },
+    {
+      "$id": 41,
+      "style": 26,
+      "name": "[KR:Perticle char=ga ] 상급 레벨에 도달했습니다"
+    },
+    {
+      "$id": 42,
+      "style": 116,
+      "name": "아츠가 세팅되지 않았습니다[XENO:n ]\n1개 이상 세팅해 주십시오"
+    },
+    {
+      "$id": 43,
+      "style": 116,
+      "name": "이미 습득했습니다"
+    },
+    {
+      "$id": 44,
+      "style": 116,
+      "name": "아츠를 습득하지 않아[XENO:n ]\n사용할 수 없습니다"
+    },
+    {
+      "$id": 45,
+      "style": 116,
+      "name": "대상 캐릭터가 존재하지 않아[XENO:n ]\n사용할 수 없습니다"
+    },
+    {
+      "$id": 46,
+      "style": 30,
+      "name": "×"
+    },
+    {
+      "$id": 47,
+      "style": 1,
+      "name": "s"
+    },
+    {
+      "$id": 48,
+      "style": 31,
+      "name": "%"
+    },
+    {
+      "$id": 49,
+      "style": 0,
+      "name": "~"
+    },
+    {
+      "$id": 50,
+      "style": 15,
+      "name": "아이템 Get!"
+    },
+    {
+      "$id": 51,
+      "style": 15,
+      "name": "EXP Get!"
+    },
+    {
+      "$id": 52,
+      "style": 15,
+      "name": "AP Get!"
+    },
+    {
+      "$id": 53,
+      "style": 15,
+      "name": "HP Get!"
+    },
+    {
+      "$id": 54,
+      "style": 15,
+      "name": "근력 Get!"
+    },
+    {
+      "$id": 55,
+      "style": 15,
+      "name": "속도 Get!"
+    },
+    {
+      "$id": 56,
+      "style": 15,
+      "name": "에테르 Get!"
+    },
+    {
+      "$id": 57,
+      "style": 5,
+      "name": "CHAIN"
+    },
+    {
+      "$id": 58,
+      "style": 7,
+      "name": "MAX"
+    },
+    {
+      "$id": 59,
+      "style": 13,
+      "name": "Chain Damage"
+    },
+    {
+      "$id": 60,
+      "style": 13,
+      "name": "Level Up!"
+    },
+    {
+      "$id": 61,
+      "style": 13,
+      "name": "인연 코인 Get!"
+    },
+    {
+      "$id": 62,
+      "style": 13,
+      "name": "스킬 습득"
+    },
+    {
+      "$id": 63,
+      "style": 13,
+      "name": "아츠 습득"
+    },
+    {
+      "$id": 64,
+      "style": 13,
+      "name": "아츠 레벨 업"
+    },
+    {
+      "$id": 65,
+      "style": 2,
+      "name": "AP"
+    },
+    {
+      "$id": 66,
+      "style": 2,
+      "name": "EXP"
+    },
+    {
+      "$id": 67,
+      "style": 2,
+      "name": "SP"
+    },
+    {
+      "$id": 68,
+      "style": 7,
+      "name": "CAUTION"
+    },
+    {
+      "$id": 69,
+      "style": 5,
+      "name": "CHANCE!"
+    },
+    {
+      "$id": 70,
+      "style": 1,
+      "name": "Lv"
+    },
+    {
+      "$id": 71,
+      "style": 9,
+      "name": "Set"
+    },
+    {
+      "$id": 72,
+      "style": 11,
+      "name": "연계 필살기"
+    },
+    {
+      "$id": 73,
+      "style": 25,
+      "name": "노폰 레인저와 협력해서 필살기를 사용합니다"
+    },
+    {
+      "$id": 74,
+      "style": 11,
+      "name": "세팅"
+    },
+    {
+      "$id": 75,
+      "style": 11,
+      "name": "레벨 업"
+    },
+    {
+      "$id": 76,
+      "style": 26,
+      "name": "が究極レベルになりました"
+    },
+    {
+      "$id": 77,
+      "style": 15,
+      "name": "EXTRA CHANCE!!"
+    },
+    {
+      "$id": 78,
+      "style": 13,
+      "name": "아츠 레벨 상한 개방"
+    },
+    {
+      "$id": 79,
+      "style": 136,
+      "name": "아츠북을 획득해서 레벨을 추가로 올릴 수 있게 되었습니다"
+    },
+    {
+      "$id": 80,
+      "style": 9,
+      "name": "닫기"
+    },
+    {
+      "$id": 81,
+      "style": 29,
+      "name": "모나드 아츠로 변경"
+    },
+    {
+      "$id": 82,
+      "style": 29,
+      "name": "일반 아츠로 변경"
+    },
+    {
+      "$id": 83,
+      "style": 2,
+      "name": "???"
+    },
+    {
+      "$id": 84,
+      "style": 9,
+      "name": "DAMAGE BONUS"
+    },
+    {
+      "$id": 85,
+      "style": 7,
+      "name": "Excellent !"
+    },
+    {
+      "$id": 86,
+      "style": 17,
+      "name": "AP가 부족합니다"
+    },
+    {
+      "$id": 87,
+      "style": 0,
+      "name": "Ⅺ"
+    },
+    {
+      "$id": 88,
+      "style": 0,
+      "name": "Ⅻ"
+    },
+    {
+      "$id": 89,
+      "style": 13,
+      "name": "모나드 아츠 습득"
+    },
+    {
+      "$id": 90,
+      "style": 136,
+      "name": "모나드 기록서를 획득해 새로운 모나드 아츠를 사용할 수 있게 되었습니다"
+    },
+    {
+      "$id": 91,
+      "style": 1,
+      "name": ":[ML:space ]"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "우와~ 커다란 문이네[XENO:n ]\n얼마나 커다란 녀석이 이 문을 드나든 거지?[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]앗, 큰 공룡이야모![XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]?![XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "뭐야… 그냥 석상이잖아![XENO:n ]\n아저씨, 놀라게 하지 말라고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "이 석상 사람인 걸까?[XENO:n ]\n신기한 모습을 하고 있는데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]이건… 어쩌면 우리 선조의[XENO:n ]\n모습일지도 모르겠구나[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "전승에 따르면 지금의 우리와는[XENO:n ]\n꽤나 다른 모습을 하고 있었다고 한다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그렇군. 그 모습을 본떠 만들었다는 거지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]으음… 이 녀석[XENO:n ]\n어디선가 본 것 같기도 하고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "큰 공룡~! 큰 공룡모~![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT8 ]큰 공룡이라…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "확실히 그때 싸웠던 테레시아랑 닮긴 했는데…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]이 감옥섬은 멜리아의 선조가 만든 거야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]아니. 전승에 따르면 우리의 선조가 태어나기[XENO:n ]\n한참 전부터 존재하고 있었다 한다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "누가 무슨 목적으로 만든 것인지는 확실치 않지만[XENO:n ]\n이곳을 봉한 것은 우리의 선조였다 하더구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]대체 뭘 봉인한 걸까?[XENO:n ]\n궁금한걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "이걸 보거라[XENO:n ]\n선조가 남긴 비문이다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "사본은 황도 여기저기에서 볼 수 있지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "많은 연구자들이 도전해 왔지만[XENO:n ]\n해독한 부분은 아주 일부에 불과하다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "슈르크… 저 기호[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "응… 모나드 표면에[XENO:n ]\n[XENO:act act=EVT_EXT7 ]나타나는 문자랑 매우 비슷해…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "하지만… 뭔가 신경 쓰여[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "왜 그래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "선조가 봉인했다고 하는 감옥의 문을…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "열 자격을 지닌 것은[XENO:n ]\n황주와 그 후계자뿐이라 하지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "그럼 폐하는 벌써 이 안에?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "아마도[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "선조여[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "그대의 자손[XENO:n ]\n황태자 멜리아 에인션트가 방문했으니[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "이 세상의 희망을 위해 감옥의 문을 열라![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "묘지와 같구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT19 ]굉장하다![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]내버려 둬도 돼?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "걱정할 필요 없다[XENO:n ]\n의미는 모르겠지만 필요한 과정인 모양이니[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]……![XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+    }
+  ]
+}

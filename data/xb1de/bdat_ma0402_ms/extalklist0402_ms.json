@@ -1,0 +1,1484 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "교환해 줄 거야?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "이런 걸 받아도 괜찮을까?\n[XENO:wait wait=key ][System:PageBreak ]미안하니까 이것도 줄게\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "또 보자!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "아… 교환이니?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "이거 대단한데!\n[XENO:wait wait=key ][System:PageBreak ]그렇지…! 이것도 줄게\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "다음에도 부탁할게\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "교환해 주시는 건가요?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "미안하네요…[XENO:n ]\n이런 걸 주시다니…\n[XENO:wait wait=key ][System:PageBreak ]이것도 받아 주세요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "앞으로도 잘 부탁드립니다\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "어라? 교환인가요?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "아무리 그래도 이런 물건을[XENO:n ]\n받는 것은 좀…\n[XENO:wait wait=key ][System:PageBreak ]그럼 이것도 받아 주세요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "그럼 다음에 또…\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "교환해 주실까!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "호오… 꽤 괜찮은 물건이로군\n[XENO:wait wait=key ][System:PageBreak ]어쩔 수 없지! 이것도 주마\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "그럼 다음에 또 만나길 기대하마!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "교환해 줄 거지?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "이야, 좋은 물건이구나\n[XENO:wait wait=key ][System:PageBreak ]아! 맞다. 이것도 줄게\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "그럼 실례하지\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "교환하자!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "아싸!\n[XENO:wait wait=key ][System:PageBreak ]보너스로 이거 줄게!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "또 봐!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "오? 교환이로구나!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "이, 이것은!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "건강하거라\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "오, 교환이로군?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "이건 대단한데!\n[XENO:wait wait=key ][System:PageBreak ]이것도 주지!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "또 보자!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "어라? 교환인가요?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "아무리 그래도 이런 물건을[XENO:n ]\n받는 것은 좀…\n[XENO:wait wait=key ][System:PageBreak ]그럼 이것도 받아 주세요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "그럼 다음에 또…\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "교환이냐?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "이건 설마…!\n[XENO:wait wait=key ][System:PageBreak ]어, 어쩔 수 없지[XENO:n ]\n받아라!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "다음에 보자!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "이런 때에 교환이라니!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "이게 뭐야!\n[XENO:wait wait=key ][System:PageBreak ]이러면 마치 내가[XENO:n ]\n바가지 씌운 것 같잖아!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "또 보자고!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "교환 말이구나? 좋아\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "이런 걸 줘도 괜찮겠어?\n[XENO:wait wait=key ][System:PageBreak ]미안하니까 이것도 줄게!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "또 봐!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "어머, 교환이구나?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "이거 대단한걸!\n[XENO:wait wait=key ][System:PageBreak ]덤으로 이것도 줄게!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "그럼 다음에 봐!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "교환이죠?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "미안해요…[XENO:n ]\n이런 걸 다 주시다니…\n[XENO:wait wait=key ][System:PageBreak ]그럼 이것도 받아 주세요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "앞으로도 잘 부탁드려요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "교환 말씀이시죠?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "어머…[XENO:n ]\n이런 걸 받으면…\n[XENO:wait wait=key ][System:PageBreak ]제 마음이 편치 않답니다\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "그럼 실례하겠어요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "어쩔 수 없네…[XENO:n ]\n교환해 주겠어\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "[XENO:type type=think ]뭐, 뭐야 이게!\n[XENO:wait wait=key ][System:PageBreak ]이, 이래가지고는[XENO:n ]\n대등한 교환이 아니잖아…!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "그럼 실례\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 126,
+      "name": "교환해 주는 거니?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 126,
+      "name": "어머![XENO:n ]\n이런 걸 받다니 미안하구나\n[XENO:wait wait=key ][System:PageBreak ]그럼 이것도 줘야겠는걸\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 54,
+      "style": 126,
+      "name": "그러면 또 보자\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 126,
+      "name": "교환?!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 126,
+      "name": "아앗!!\n[XENO:wait wait=key ][System:PageBreak ]당첨됐으니까 더 줄게!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 57,
+      "style": 126,
+      "name": "또 만나!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 58,
+      "style": 126,
+      "name": "교환해 주는 거니?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 126,
+      "name": "어머![XENO:n ]\n이런 걸 받다니 미안하구나\n[XENO:wait wait=key ][System:PageBreak ]그럼 이것도 줘야겠는걸\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 60,
+      "style": 126,
+      "name": "그러면 또 보자꾸나\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 61,
+      "style": 126,
+      "name": "자, 어서 교환하자\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 62,
+      "style": 126,
+      "name": "대단해~!!!\n[XENO:wait wait=key ][System:PageBreak ]그러면 이것도 줄게!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 63,
+      "style": 126,
+      "name": "다음에도 부탁해!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 64,
+      "style": 126,
+      "name": "교환 말씀이시죠?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 65,
+      "style": 126,
+      "name": "어머…[XENO:n ]\n이런 걸 받으면…\n[XENO:wait wait=key ][System:PageBreak ]제 마음이 편치 않답니다\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 66,
+      "style": 126,
+      "name": "그럼 실례하겠어요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 67,
+      "style": 126,
+      "name": "교환이야?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 68,
+      "style": 126,
+      "name": "이것은…!\n[XENO:wait wait=key ][System:PageBreak ]이것도 가져가!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 69,
+      "style": 126,
+      "name": "그럼 이만…\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 70,
+      "style": 126,
+      "name": "흥! 교환이야?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 71,
+      "style": 126,
+      "name": "이, 이게 뭐야!\n[XENO:wait wait=key ][System:PageBreak ]덤으로 이것도[XENO:n ]\n가지고 가란 말이야!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 72,
+      "style": 126,
+      "name": "더는 교환 같은 건[XENO:n ]\n하고 싶지 않아! 알겠어?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 73,
+      "style": 126,
+      "name": "교환이야모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 74,
+      "style": 126,
+      "name": "이건…!\n[XENO:wait wait=key ][System:PageBreak ]이것도 줄게모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 75,
+      "style": 126,
+      "name": "또 봐모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 76,
+      "style": 126,
+      "name": "교환이다모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 77,
+      "style": 126,
+      "name": "모모!!\n[XENO:wait wait=key ][System:PageBreak ]모모모모모!!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 78,
+      "style": 126,
+      "name": "다음에도 잘 부탁해모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 79,
+      "style": 126,
+      "name": "교환이에요모?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 80,
+      "style": 126,
+      "name": "대단하네요모!\n[XENO:wait wait=key ][System:PageBreak ]이것도 줄게요모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 81,
+      "style": 126,
+      "name": "다음에도 잘 부탁드려요모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 82,
+      "style": 126,
+      "name": "교환인가요모?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 83,
+      "style": 126,
+      "name": "이건… 대단해요모!!\n[XENO:wait wait=key ][System:PageBreak ]어쩐지 미안해요모…\n[XENO:wait wait=key ][System:PageBreak ]그러니까 이거 줄게요모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 84,
+      "style": 126,
+      "name": "앞으로도 많이 이용해 주세요모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 85,
+      "style": 126,
+      "name": "교환해 주지모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 86,
+      "style": 126,
+      "name": "뭐, 뭐냐모![XENO:n ]\n이 빛은…?\n[XENO:wait wait=key ][System:PageBreak ]가보로 삼을 거다모…\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 87,
+      "style": 126,
+      "name": "또 교환해 주겠어모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 88,
+      "style": 126,
+      "name": "교환하는 거지모?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 89,
+      "style": 126,
+      "name": "좋은 물건 받았어모!\n[XENO:wait wait=key ][System:PageBreak ]이거 받아모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 90,
+      "style": 126,
+      "name": "고맙다모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 91,
+      "style": 126,
+      "name": "교환하고 싶어모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 92,
+      "style": 126,
+      "name": "이얏호!!\n[XENO:wait wait=key ][System:PageBreak ]이거 줄게모!!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 93,
+      "style": 126,
+      "name": "모모!!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 94,
+      "style": 126,
+      "name": "교환말이지모?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 95,
+      "style": 126,
+      "name": "이건 대단하구나모!\n[XENO:wait wait=key ][System:PageBreak ]대신에 이 비보를 맡기지모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 96,
+      "style": 126,
+      "name": "건강해라모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 97,
+      "style": 126,
+      "name": "교환모?!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 98,
+      "style": 126,
+      "name": "굉장해모!\n[XENO:wait wait=key ][System:PageBreak ]이거 줄게모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 99,
+      "style": 126,
+      "name": "다음에 봐모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 100,
+      "style": 126,
+      "name": "교환 말씀입니까모?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 101,
+      "style": 126,
+      "name": "훌륭합니다모!\n[XENO:wait wait=key ][System:PageBreak ]그러면 이 훌륭한 물건도 드리지요모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 102,
+      "style": 126,
+      "name": "실례합니다모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 103,
+      "style": 126,
+      "name": "흠! 교환이다모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 104,
+      "style": 126,
+      "name": "모?!\n[XENO:wait wait=key ][System:PageBreak ]모모모?!\n[XENO:wait wait=key ][System:PageBreak ]모모모모모모모모모모!!!!!!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 105,
+      "style": 126,
+      "name": "흠, 또 보자모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 106,
+      "style": 126,
+      "name": "[XENO:type type=anger ]으으! 교환이다모!!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 107,
+      "style": 126,
+      "name": "[XENO:type type=anger ]킁킁!!!!!!\n[XENO:wait wait=key ][System:PageBreak ]이, 이걸 기다렸다모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 108,
+      "style": 126,
+      "name": "[XENO:type type=anger ]흐아흐아모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 109,
+      "style": 126,
+      "name": "교환이야모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 110,
+      "style": 126,
+      "name": "이게 뭐야모?!\n[XENO:wait wait=key ][System:PageBreak ]이것도 줄게모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 111,
+      "style": 126,
+      "name": "또 봐모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 112,
+      "style": 126,
+      "name": "교환이다모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 113,
+      "style": 126,
+      "name": "모모!!\n[XENO:wait wait=key ][System:PageBreak ]모모모모모!!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 114,
+      "style": 126,
+      "name": "다음에도 잘 부탁해모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 115,
+      "style": 126,
+      "name": "교환이에요모?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 116,
+      "style": 126,
+      "name": "대단하네요모!\n[XENO:wait wait=key ][System:PageBreak ]이것도 줄게요모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 117,
+      "style": 126,
+      "name": "다음에도 잘 부탁드려요모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 118,
+      "style": 126,
+      "name": "교환인가요모?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 119,
+      "style": 126,
+      "name": "이건… 대단해요모!!\n[XENO:wait wait=key ][System:PageBreak ]어쩐지 미안해요모…\n[XENO:wait wait=key ][System:PageBreak ]그러니까 이거 줄게요모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 120,
+      "style": 126,
+      "name": "앞으로도 많이 이용해 주세요모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 121,
+      "style": 126,
+      "name": "교환해 주지모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 122,
+      "style": 126,
+      "name": "뭐, 뭐냐모![XENO:n ]\n이 빛은…?\n[XENO:wait wait=key ][System:PageBreak ]가보로 삼을 거다모…\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 123,
+      "style": 126,
+      "name": "또 교환해 주겠어모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 124,
+      "style": 126,
+      "name": "교환하는 거지모?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 125,
+      "style": 126,
+      "name": "좋은 물건 받았어모!\n[XENO:wait wait=key ][System:PageBreak ]이거 받아모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 126,
+      "style": 126,
+      "name": "고맙다모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 127,
+      "style": 126,
+      "name": "교환하고 싶어모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 128,
+      "style": 126,
+      "name": "이얏호!!\n[XENO:wait wait=key ][System:PageBreak ]이거 줄게모!!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 129,
+      "style": 126,
+      "name": "모모!!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 130,
+      "style": 126,
+      "name": "교환말이지모?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 131,
+      "style": 126,
+      "name": "이건 대단하구나모!\n[XENO:wait wait=key ][System:PageBreak ]대신에 이 비보를 맡기지모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 132,
+      "style": 126,
+      "name": "건강해라모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 133,
+      "style": 126,
+      "name": "교환모?!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 134,
+      "style": 126,
+      "name": "굉장해모!\n[XENO:wait wait=key ][System:PageBreak ]이거 줄게모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 135,
+      "style": 126,
+      "name": "다음에 봐모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 136,
+      "style": 126,
+      "name": "교환 말씀입니까모?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 137,
+      "style": 126,
+      "name": "훌륭합니다모!\n[XENO:wait wait=key ][System:PageBreak ]그러면 이 훌륭한 물건도 드리지요모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 138,
+      "style": 126,
+      "name": "실례합니다모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 139,
+      "style": 126,
+      "name": "흠! 교환이다모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 140,
+      "style": 126,
+      "name": "모?!\n[XENO:wait wait=key ][System:PageBreak ]모모모?!\n[XENO:wait wait=key ][System:PageBreak ]모모모모모모모모모모!!!!!!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 141,
+      "style": 126,
+      "name": "흠, 또 보자모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 142,
+      "style": 126,
+      "name": "[XENO:type type=anger ]으으! 교환이다모!!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 143,
+      "style": 126,
+      "name": "[XENO:type type=anger ]킁킁!!!!!!\n[XENO:wait wait=key ][System:PageBreak ]이, 이걸 기다렸다모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 144,
+      "style": 126,
+      "name": "[XENO:type type=anger ]흐아흐아모!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 145,
+      "style": 126,
+      "name": "교환해 줄 거야?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 146,
+      "style": 126,
+      "name": "이런 걸 받아도 괜찮을까?\n[XENO:wait wait=key ][System:PageBreak ]미안하니까 이것도 줄게\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 147,
+      "style": 126,
+      "name": "또 보자!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 148,
+      "style": 126,
+      "name": "아… 교환이니?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 149,
+      "style": 126,
+      "name": "이거 대단한데!\n[XENO:wait wait=key ][System:PageBreak ]그렇지…! 이것도 줄게\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 150,
+      "style": 126,
+      "name": "다음에도 부탁할게\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 151,
+      "style": 126,
+      "name": "교환해 주시는 건가요?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 152,
+      "style": 126,
+      "name": "미안하네요…[XENO:n ]\n이런 걸 주시다니…\n[XENO:wait wait=key ][System:PageBreak ]이것도 받아 주세요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 153,
+      "style": 126,
+      "name": "앞으로도 잘 부탁드립니다\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 154,
+      "style": 126,
+      "name": "어라? 교환인가요?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 155,
+      "style": 126,
+      "name": "아무리 그래도 이런 물건을[XENO:n ]\n받는 것은 좀…\n[XENO:wait wait=key ][System:PageBreak ]그럼 이것도 받아 주세요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 156,
+      "style": 126,
+      "name": "그럼 다음에 또…\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 157,
+      "style": 126,
+      "name": "교환해 주실까!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 158,
+      "style": 126,
+      "name": "호오… 꽤 괜찮은 물건이로군\n[XENO:wait wait=key ][System:PageBreak ]어쩔 수 없지! 이것도 주마\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 159,
+      "style": 126,
+      "name": "그럼 다음에 또 만나길 기대하마!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 160,
+      "style": 126,
+      "name": "교환해 줄 거지?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 161,
+      "style": 126,
+      "name": "이야, 좋은 물건이구나\n[XENO:wait wait=key ][System:PageBreak ]아! 맞다. 이것도 줄게\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 162,
+      "style": 126,
+      "name": "그럼 실례하지\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 163,
+      "style": 126,
+      "name": "교환하자!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 164,
+      "style": 126,
+      "name": "아싸!\n[XENO:wait wait=key ][System:PageBreak ]보너스로 이거 줄게!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 165,
+      "style": 126,
+      "name": "또 봐!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 166,
+      "style": 126,
+      "name": "오? 교환이로구나!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 167,
+      "style": 126,
+      "name": "이, 이것은!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 168,
+      "style": 126,
+      "name": "건강하거라\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 169,
+      "style": 126,
+      "name": "오, 교환이로군?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 170,
+      "style": 126,
+      "name": "이건 대단한데!\n[XENO:wait wait=key ][System:PageBreak ]이것도 주지!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 171,
+      "style": 126,
+      "name": "또 보자!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 172,
+      "style": 126,
+      "name": "어라? 교환인가요?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 173,
+      "style": 126,
+      "name": "아무리 그래도 이런 물건을[XENO:n ]\n받는 것은 좀…\n[XENO:wait wait=key ][System:PageBreak ]그럼 이것도 받아 주세요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 174,
+      "style": 126,
+      "name": "그럼 다음에 또…\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 175,
+      "style": 126,
+      "name": "교환이냐?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 176,
+      "style": 126,
+      "name": "이건 설마…!\n[XENO:wait wait=key ][System:PageBreak ]어, 어쩔 수 없지[XENO:n ]\n받아라!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 177,
+      "style": 126,
+      "name": "다음에 보자!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 178,
+      "style": 126,
+      "name": "이런 때에 교환이라니!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 179,
+      "style": 126,
+      "name": "이게 뭐야!\n[XENO:wait wait=key ][System:PageBreak ]이러면 마치 내가[XENO:n ]\n바가지 씌운 것 같잖아!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 180,
+      "style": 126,
+      "name": "또 보자고!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 181,
+      "style": 126,
+      "name": "교환 말이구나? 좋아\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 182,
+      "style": 126,
+      "name": "이런 걸 줘도 괜찮겠어?\n[XENO:wait wait=key ][System:PageBreak ]미안하니까 이것도 줄게!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 183,
+      "style": 126,
+      "name": "또 봐!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 184,
+      "style": 126,
+      "name": "어머, 교환이구나?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 185,
+      "style": 126,
+      "name": "이거 대단한걸!\n[XENO:wait wait=key ][System:PageBreak ]덤으로 이것도 줄게!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 186,
+      "style": 126,
+      "name": "그럼 다음에 봐!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 187,
+      "style": 126,
+      "name": "교환이죠?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 188,
+      "style": 126,
+      "name": "미안해요…[XENO:n ]\n이런 걸 다 주시다니…\n[XENO:wait wait=key ][System:PageBreak ]그럼 이것도 받아 주세요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 189,
+      "style": 126,
+      "name": "앞으로도 잘 부탁드려요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 190,
+      "style": 126,
+      "name": "교환 말씀이시죠?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 191,
+      "style": 126,
+      "name": "어머…[XENO:n ]\n이런 걸 받으면…\n[XENO:wait wait=key ][System:PageBreak ]제 마음이 편치 않답니다\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 192,
+      "style": 126,
+      "name": "그럼 실례하겠어요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 193,
+      "style": 126,
+      "name": "어쩔 수 없네…[XENO:n ]\n교환해 주겠어\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 194,
+      "style": 126,
+      "name": "[XENO:type type=think ]뭐, 뭐야 이게!\n[XENO:wait wait=key ][System:PageBreak ]이, 이래가지고는[XENO:n ]\n대등한 교환이 아니잖아…!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 195,
+      "style": 126,
+      "name": "그럼 실례\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 196,
+      "style": 126,
+      "name": "교환해 주는 거니?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 197,
+      "style": 126,
+      "name": "어머![XENO:n ]\n이런 걸 받다니 미안하구나\n[XENO:wait wait=key ][System:PageBreak ]그럼 이것도 줘야겠는걸\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 198,
+      "style": 126,
+      "name": "그러면 또 보자\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 199,
+      "style": 126,
+      "name": "교환?!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 200,
+      "style": 126,
+      "name": "아앗!!\n[XENO:wait wait=key ][System:PageBreak ]당첨됐으니까 더 줄게!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 201,
+      "style": 126,
+      "name": "또 만나!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 202,
+      "style": 126,
+      "name": "교환해 주는 거니?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 203,
+      "style": 126,
+      "name": "어머![XENO:n ]\n이런 걸 받다니 미안하구나\n[XENO:wait wait=key ][System:PageBreak ]그럼 이것도 줘야겠는걸\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 204,
+      "style": 126,
+      "name": "그러면 또 보자꾸나\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 205,
+      "style": 126,
+      "name": "자, 어서 교환하자\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 206,
+      "style": 126,
+      "name": "대단해~!!!\n[XENO:wait wait=key ][System:PageBreak ]그러면 이것도 줄게!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 207,
+      "style": 126,
+      "name": "다음에도 부탁해!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 208,
+      "style": 126,
+      "name": "교환 말씀이시죠?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 209,
+      "style": 126,
+      "name": "어머…[XENO:n ]\n이런 걸 받으면…\n[XENO:wait wait=key ][System:PageBreak ]제 마음이 편치 않답니다\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 210,
+      "style": 126,
+      "name": "그럼 실례하겠어요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 211,
+      "style": 126,
+      "name": "교환이야?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 212,
+      "style": 126,
+      "name": "이것은…!\n[XENO:wait wait=key ][System:PageBreak ]이것도 가져가!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 213,
+      "style": 126,
+      "name": "그럼 이만…\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 214,
+      "style": 126,
+      "name": "흥! 교환이야?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 215,
+      "style": 126,
+      "name": "이, 이게 뭐야!\n[XENO:wait wait=key ][System:PageBreak ]덤으로 이것도[XENO:n ]\n가지고 가란 말이야!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 216,
+      "style": 126,
+      "name": "더는 교환 같은 건[XENO:n ]\n하고 싶지 않아! 알겠어?!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 217,
+      "style": 126,
+      "name": "교환해 줄 거야?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 218,
+      "style": 126,
+      "name": "이런 걸 받아도 괜찮을까?\n[XENO:wait wait=key ][System:PageBreak ]미안하니까 이것도 줄게\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 219,
+      "style": 126,
+      "name": "또 보자!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 220,
+      "style": 126,
+      "name": "아… 교환이니?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 221,
+      "style": 126,
+      "name": "이거 대단한데!\n[XENO:wait wait=key ][System:PageBreak ]그렇지…! 이것도 줄게\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 222,
+      "style": 126,
+      "name": "다음에도 부탁할게\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 223,
+      "style": 126,
+      "name": "교환해 주시는 건가요?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 224,
+      "style": 126,
+      "name": "미안하네요…[XENO:n ]\n이런 걸 주시다니…\n[XENO:wait wait=key ][System:PageBreak ]이것도 받아 주세요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 225,
+      "style": 126,
+      "name": "앞으로도 잘 부탁드립니다\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 226,
+      "style": 126,
+      "name": "어라? 교환인가요?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 227,
+      "style": 126,
+      "name": "아무리 그래도 이런 물건을[XENO:n ]\n받는 것은 좀…\n[XENO:wait wait=key ][System:PageBreak ]그럼 이것도 받아 주세요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 228,
+      "style": 126,
+      "name": "그럼 다음에 또…\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 229,
+      "style": 126,
+      "name": "교환해 주실까!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 230,
+      "style": 126,
+      "name": "호오… 꽤 괜찮은 물건이로군\n[XENO:wait wait=key ][System:PageBreak ]어쩔 수 없지! 이것도 주마\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 231,
+      "style": 126,
+      "name": "그럼 다음에 또 만나길 기대하마!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 232,
+      "style": 126,
+      "name": "교환해 줄 거지?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 233,
+      "style": 126,
+      "name": "이야, 좋은 물건이구나\n[XENO:wait wait=key ][System:PageBreak ]아! 맞다. 이것도 줄게\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 234,
+      "style": 126,
+      "name": "그럼 실례하지\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 235,
+      "style": 126,
+      "name": "교환하자!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 236,
+      "style": 126,
+      "name": "아싸!\n[XENO:wait wait=key ][System:PageBreak ]보너스로 이거 줄게!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 237,
+      "style": 126,
+      "name": "또 봐!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 238,
+      "style": 126,
+      "name": "오? 교환이로구나!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 239,
+      "style": 126,
+      "name": "이, 이것은!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 240,
+      "style": 126,
+      "name": "건강하거라\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 241,
+      "style": 126,
+      "name": "오, 교환이로군?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 242,
+      "style": 126,
+      "name": "이건 대단한데!\n[XENO:wait wait=key ][System:PageBreak ]이것도 주지!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 243,
+      "style": 126,
+      "name": "또 보자!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 244,
+      "style": 126,
+      "name": "어라? 교환인가요?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 245,
+      "style": 126,
+      "name": "아무리 그래도 이런 물건을[XENO:n ]\n받는 것은 좀…\n[XENO:wait wait=key ][System:PageBreak ]그럼 이것도 받아 주세요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 246,
+      "style": 126,
+      "name": "그럼 다음에 또…\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 247,
+      "style": 126,
+      "name": "교환이냐?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 248,
+      "style": 126,
+      "name": "이건 설마…!\n[XENO:wait wait=key ][System:PageBreak ]어, 어쩔 수 없지[XENO:n ]\n받아라!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 249,
+      "style": 126,
+      "name": "다음에 보자!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 250,
+      "style": 126,
+      "name": "이런 때에 교환이라니!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 251,
+      "style": 126,
+      "name": "이게 뭐야!\n[XENO:wait wait=key ][System:PageBreak ]이러면 마치 내가[XENO:n ]\n바가지 씌운 것 같잖아!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 252,
+      "style": 126,
+      "name": "또 보자고!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 253,
+      "style": 126,
+      "name": "교환 말이구나? 좋아\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 254,
+      "style": 126,
+      "name": "이런 걸 줘도 괜찮겠어?\n[XENO:wait wait=key ][System:PageBreak ]미안하니까 이것도 줄게!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 255,
+      "style": 126,
+      "name": "또 봐!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 256,
+      "style": 126,
+      "name": "어머, 교환이구나?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 257,
+      "style": 126,
+      "name": "이거 대단한걸!\n[XENO:wait wait=key ][System:PageBreak ]덤으로 이것도 줄게!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 258,
+      "style": 126,
+      "name": "그럼 다음에 봐!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 259,
+      "style": 126,
+      "name": "교환이군요?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 260,
+      "style": 126,
+      "name": "미안해요…[XENO:n ]\n이런 걸 다 주시다니…\n[XENO:wait wait=key ][System:PageBreak ]그럼 이것도 받아 주세요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 261,
+      "style": 126,
+      "name": "앞으로도 잘 부탁드려요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 262,
+      "style": 126,
+      "name": "교환이군요?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 263,
+      "style": 126,
+      "name": "어머…[XENO:n ]\n이런 걸 받으면…\n[XENO:wait wait=key ][System:PageBreak ]제 마음이 편치 않답니다\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 264,
+      "style": 126,
+      "name": "그럼 실례하겠어요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 265,
+      "style": 126,
+      "name": "어쩔 수 없네…[XENO:n ]\n교환해 주겠어\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 266,
+      "style": 126,
+      "name": "[XENO:type type=think ]뭐, 뭐야 이게!\n[XENO:wait wait=key ][System:PageBreak ]이, 이래가지고는[XENO:n ]\n대등한 교환이 아니잖아…!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 267,
+      "style": 126,
+      "name": "그럼 실례\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 268,
+      "style": 126,
+      "name": "교환해 주는 거니?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 269,
+      "style": 126,
+      "name": "어머![XENO:n ]\n이런 걸 받다니 미안하구나\n[XENO:wait wait=key ][System:PageBreak ]그럼 이것도 줘야겠는걸\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 270,
+      "style": 126,
+      "name": "그러면 또 보자\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 271,
+      "style": 126,
+      "name": "교환?!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 272,
+      "style": 126,
+      "name": "아앗!!\n[XENO:wait wait=key ][System:PageBreak ]당첨됐으니까 더 줄게!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 273,
+      "style": 126,
+      "name": "또 만나!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 274,
+      "style": 126,
+      "name": "교환해 주는 거니?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 275,
+      "style": 126,
+      "name": "어머![XENO:n ]\n이런 걸 받다니 미안하구나\n[XENO:wait wait=key ][System:PageBreak ]그럼 이것도 줘야겠는걸\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 276,
+      "style": 126,
+      "name": "그러면 또 보자꾸나\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 277,
+      "style": 126,
+      "name": "자, 어서 교환하자\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 278,
+      "style": 126,
+      "name": "대단해~!!!\n[XENO:wait wait=key ][System:PageBreak ]그러면 이것도 줄게!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 279,
+      "style": 126,
+      "name": "다음에도 부탁해!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 280,
+      "style": 126,
+      "name": "교환 말씀이시죠?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 281,
+      "style": 126,
+      "name": "어머…[XENO:n ]\n이런 걸 받으면…\n[XENO:wait wait=key ][System:PageBreak ]제 마음이 편치 않답니다\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 282,
+      "style": 126,
+      "name": "그럼 실례하겠어요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 283,
+      "style": 126,
+      "name": "교환이야?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 284,
+      "style": 126,
+      "name": "이것은…!\n[XENO:wait wait=key ][System:PageBreak ]이것도 가져가!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 285,
+      "style": 126,
+      "name": "그럼 이만…\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 286,
+      "style": 126,
+      "name": "흥! 교환이야?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 287,
+      "style": 126,
+      "name": "이, 이게 뭐야!\n[XENO:wait wait=key ][System:PageBreak ]덤으로 이것도[XENO:n ]\n가지고 가란 말이야!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 288,
+      "style": 126,
+      "name": "더는 교환 같은 건[XENO:n ]\n하고 싶지 않아! 알겠어?!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 289,
+      "style": 126,
+      "name": "교환 말인가요?[XENO:n ]\n…어쩔 수 없네요\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 290,
+      "style": 126,
+      "name": "저만 득을 보고 넘어갈 수는 없죠[XENO:n ]\n이걸 가져가세요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 291,
+      "style": 126,
+      "name": "…다시는 교환을[XENO:n ]\n요구하지 말아 주세요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 292,
+      "style": 126,
+      "name": "무슨 일이냐?[XENO:n ]\n교환하는 게냐?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 293,
+      "style": 126,
+      "name": "이거야 원 참으로[XENO:n ]\n대단한 물건들이로구나\n[XENO:wait wait=key ][System:PageBreak ]이건 보너스란다\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 294,
+      "style": 126,
+      "name": "건강하거라\n[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

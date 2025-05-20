@@ -1,0 +1,184 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "용사 리키, 대단해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "용사 리키, 강해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "용사 리키, 굉장해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]우쭐하기는[XENO:n ]\n저 녀석 아무것도 안 했잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]뭐 어때[XENO:n ]\n왠지 미워할 수가 없잖아[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "여기서 헤어진다고 생각하면[XENO:n ]\n조금 아쉽지 않아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "돈가![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]리키 큰 공룡을 쓰러뜨렸어모![XENO:n ]\n이걸로 빚은 전부 없어진 거야모![XENO:n ]\n괜찮지모?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그래모. 떠나기 전에 진 빚은 이제 됐다모[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]하지만 네가 없는 동안[XENO:n ]\n저 아이들이 하도 잘 먹어서모[XENO:n ]\n이번에는 그걸 갚아 줘야겠다모[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]노폰들이여![XENO:n ]\n지금 새로운 예언을 내리겠다모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "큰 공룡을 쓰러뜨린 용사 리키는[XENO:n ]\n호무호무들을 거느리고[XENO:n ]\n이 마을을 떠날 것이다모![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "그리고 거신계에[XENO:n ]\n진정한 평화를 가져올 것이다모![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]처, 처음 듣는 말이야모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "먼 옛날부터 전해지는 예언이다모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]거짓말이야모![XENO:n ]\n지금 막 생각난 것 같은 느낌이었어모![XENO:n ]\n그렇지모?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]리키, 저들과 같이 가거라모[XENO:n ]\n그것이 우리 노폰을 지키는 일이 될 거다모[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "…뭐 감이지만모[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]뀨우…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]걱정하지 마라모[XENO:n ]\n그 대신 저 아이들은 제대로 돌봐 줄 테니모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "아빠, 배 꼬륵꼬륵해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "아빠, 밥 줘모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "아빠, 밥모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]아빠?![XENO:n ]\n…리키, 이건 설마…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "리키의 부인과 아이들이야모[XENO:n ]\n그게 왜모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "뭐어어어~~~?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]부인?! 아이들?![XENO:n ]\n리키, 너 대체 몇 살이야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "올해로 마흔이야모[XENO:n ]\n그게 왜모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]왜냐니…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "여보, 새로 빌린 건[XENO:n ]\n이미 애들이 다 먹어 버렸어모[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "촌장님 말처럼 제대로 일해모[XENO:n ]\n잘 부탁해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]저기… 어~[XENO:n ]\n그렇대모[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]다들 앞으로 잘 부탁해모![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]잘 부탁해모!는 무슨![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

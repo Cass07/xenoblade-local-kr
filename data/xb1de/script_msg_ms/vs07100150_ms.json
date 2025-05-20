@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]멜리아, 너도 같이 가 주는 거 아니었어?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]멜리아 너는 혼자니?[XENO:n ]\n동료는…[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]……[XENO:wait wait=key ][XENO:jaw jaw=on ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]그건 내 손으로 쓰러뜨려야만 하느니라[XENO:n ]\n그것이 죽어 간 자들에게 할 수 있는 공양이다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "『…상처. 그렇군. 그 녀석은 상처를 치유하고 있구나[XENO:n ]\n그녀에게 입은 상처를』[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "그녀에게 입은 상처…[XENO:n ]\n설마 네가 쓰러뜨려야 할 상대라는 게 테레시아야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]?![XENO:wait wait=key ][XENO:jaw jaw=on ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]어째서 그대가 테레시아를 알고 있지?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]아까 에테르 결정을 가지러 갔을 때[XENO:n ]\n그 테레시아라는 녀석한테 습격당했어[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "어떻게든 쓰러뜨렸지만[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]테레시아를 쓰러뜨렸다고?![XENO:n ]\n그대는 대체?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "모나드…[XENO:n ]\n그 검으로 테레시아를…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]분신이라고 들었어. 본체는 이 원시림[XENO:n ]\n어딘가에서 상처를 치유하고 있대[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "너 맞지?[XENO:n ]\n테레시아를 상처 입힌 게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]……[XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "멜리아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "내 조국에서 도망쳐 나온 녀석을 쫓아[XENO:n ]\n나는 이 땅에 왔다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]녀석을 놔둘 수는 없느니라[XENO:n ]\n\"우리\"와 이 땅에 사는 노폰을 위해서도[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]멜리아, 우리도 도우면 안 될까?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "동정하는 것이냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]아니야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "그러면 연민인 것이냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]그렇지 않아[XENO:n ]\n그저…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그저 무엇이냐?[XENO:n ]\n어물거리는 건 좋아하지 않는다[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]너를 돕고 싶어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "어째서 그렇게까지 하느냐?[XENO:n ]\n그대는 나를 도울 이유가 없다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "나는 봤어. 검고 높은 탑 정상에서[XENO:n ]\n나는 너와 함께 싸우고 있었어[XENO:n ]\n그 얼굴 달린 기신병과[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "그리고 네가 거대한 테레시아와[XENO:n ]\n대치하는 모습도 봤어[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]그렇군[XENO:n ]\n그런 거구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]슈르크, 그대가 무슨 말을 하는지[XENO:n ]\n이해할 수 없구나[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]슈르크는 미래를 볼 수 있어[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]미래를 볼 수 있다고?[XENO:n ]\n허튼소리 말거라[XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]믿을지 말지는 네 마음이야. 잠깐, 전에도[XENO:n ]\n내가 누군가한테 이런 소리를 한 거 같은데[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]나야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]아, 그랬나?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 36,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]뭐, 아무튼 우리는 슈르크가 보는[XENO:n ]\n비전의 힘에 이끌려 여기까지 왔어[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 37,
+      "style": 125,
+      "name": "비전에 네가 나왔다고 한다면[XENO:n ]\n너는 우리한테 분명 중요한 존재겠지[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 38,
+      "style": 125,
+      "name": "그 얼굴 녀석과 싸우는 곳에 있었다면 더더욱[XENO:n ]\n[XENO:act act=EVT_EXT19 ]이 이야기 나도 끼도록 하겠어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]나도 참가하지. 여성을 홀로[XENO:n ]\n전장에 보내는 놈은 쓰레기야[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]잠깐 기다리거라![XENO:n ]\n나는 나의 힘으로 테레시아를 무찔러야 한다[XENO:n ]\n힘을 빌릴 수는 없다[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 125,
+      "name": "멜리아 님, 실례지만[XENO:n ]\n대화하시는 걸 들었습니다모[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 42,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]모처럼 이들이 돕겠다고 하니[XENO:n ]\n받아들여도 괜찮지 않겠습니까모?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 43,
+      "style": 125,
+      "name": "이 일은 저희의 생활뿐 아니라[XENO:n ]\n이 마크나 전체에 영향을 끼칠 것입니다모[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 44,
+      "style": 125,
+      "name": "그러니 우리 노폰의 용사도[XENO:n ]\n함께 보내겠습니다모[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]하지만 촌장…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]동행인이 호무호무뿐이라면[XENO:n ]\n조금 염려되니 말입니다모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]아까부터 잠자코 듣고 있자니[XENO:n ]\n무슨 말을 저렇게 해[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]노폰의 용사는 밑에서 소개하겠습니다모[XENO:n ]\n저는 먼저 내려가 있겠습니다모[XENO:n ]\n그럼 실례하겠습니다모[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT22 ]노폰의 용사라니 대체…[XENO:n ]\n뭔가 수상쩍은데[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그런 소리 말고 가 보자[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    }
+  ]
+}

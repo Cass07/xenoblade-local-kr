@@ -1,0 +1,99 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:qst qst=57 ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "테프라 동굴에는 더 볼일이 없으니[XENO:wait wait=key ][System:PageBreak ]연구동으로 돌아가야지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "이 앞은 테프라 동굴…[XENO:n ]\n어째서 이런 곳에 와 버린 걸까[XENO:wait wait=key ][System:PageBreak ]자, 얼른 슈르크를 찾아보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "테프라 동굴에는 더 볼일이 없어[XENO:wait wait=key ][System:PageBreak ]낙하물 경보가 울리고 있으니[XENO:n ]\n연구동으로 돌아가야지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "이 앞은 테프라 동굴…[XENO:wait wait=key ][System:PageBreak ]낙하물 경보가 울리고 있으니[XENO:n ]\n연구동으로 가자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:qst qst=82 ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "이 상황은…[XENO:wait wait=key ][System:PageBreak ]그래![XENO:n ]\n단반 씨의 집으로 가면 돼![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "이쪽이 아니야![XENO:n ]\n상대가 기신병이라면…![XENO:wait wait=key ][System:PageBreak ]뻔하잖아![XENO:n ]\n단반의 집으로 가야 해![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "오빠가 걱정이야[XENO:n ]\n우선은 집으로 돌아가야 해![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "안 돼![XENO:n ]\n피오른이 집 안에 있어[XENO:wait wait=key ][System:PageBreak ]단반 씨의 집 앞에 있는[XENO:n ]\n기신병을 쓰러뜨려야 해![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "피오른을 두고 갈 수 없어![XENO:wait wait=key ][System:PageBreak ]단반의 집 앞에 있는 기신병 녀석을[XENO:n ]\n쓰러뜨려야 해![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "지금은 연구동에 가는 게 먼저야[XENO:n ]\n모나드를 가지러 가야 해![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "진정하자…[XENO:wait wait=key ][System:PageBreak ]이쪽에 볼일은 없어[XENO:n ]\n모나드는 연구동에 있다고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "모나드라면 연구동에 있어…[XENO:wait wait=key ][System:PageBreak ]다른 곳에 들를 때가 아니야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "그 녀석을…[XENO:n ]\n그 검은 녀석을 쓰러뜨리는 거야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "여기서 도망갈 수는 없어![XENO:n ]\n그 검은 기신병을 쓰러뜨린다![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "…용서 못 한다, 검은 기신병![XENO:n ]\n기다려라, 반드시 쓰러뜨려 주마![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

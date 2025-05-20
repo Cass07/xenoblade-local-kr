@@ -1,0 +1,154 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "또 늦어 버렸어…[XENO:n ]\n보였는데! 알고 있었는데…![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "슈르크…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "대체 왜![XENO:n ]\n왜 이렇게 돼 버리는 건데[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "아버님…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "멜리아, 우리의 희망… 울지 말거라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "싫습니다![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "울어서 희망이 될 자격을 잃는다면[XENO:n ]\n저는 그런 것은 되고 싶지 않습니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "멜리아…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "제가 아니어도 되지 않습니까?![XENO:n ]\n홈스의 피가 섞여 있기만 하면…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "그런 것을 신경 쓰고 있었더냐…[XENO:n ]\n바보 같으니[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "하지만…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "하이엔터의 희망…[XENO:n ]\n그것은 자신이 선택해서 되는 것이야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "그것을 잊지 않는다면[XENO:n ]\n자격은 자연히 생길 것이니라[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "하지만 잊지 말거라… 짐은…[XENO:n ]\n그대가 희망이어서 사랑한 것이 아니다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "사랑하는 자가[XENO:n ]\n희망이 되어 주었으면 했던 것이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]…![XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "모나드를 잇는 자여…[XENO:n ]\n나는 그대에게 맡기고 싶소[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "선조가 봉인한 모나드…[XENO:n ]\n그대라면 분명…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "네…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "멜리아… 울고 싶다면 지금은 울거라[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "그러나 눈물이 마르고 난 후에는…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "아버님…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "멜리아… 가자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "슈르크, 나는…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]황주라든가 희망이라든가 하는 건[XENO:n ]\n나중에 천천히 생각하면 되잖아[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]나 같은 사람이라도 괜찮다면[XENO:n ]\n얼마든지 힘을 보탤게![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "한 명의 인간… 멜리아 에인션트로서[XENO:n ]\n녀석들의 유린에 굴해서는 안 돼![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "그래… 그것이[XENO:n ]\n내가 해야 할 일이라면…[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

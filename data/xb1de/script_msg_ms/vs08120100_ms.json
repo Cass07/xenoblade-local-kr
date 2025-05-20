@@ -1,0 +1,29 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "뭐지? 꽤나 떠들썩하네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "축제 같은 분위기는 아닌데[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "뭔가 의식이 시작되는 걸까[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

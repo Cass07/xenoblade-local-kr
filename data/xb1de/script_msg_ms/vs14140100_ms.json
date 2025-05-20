@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "왜 그러나? 예언관 공[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "안 좋은… 예감이 듭니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "비전인가?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]아니요…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "하지만 뭔가 이상합니다[XENO:n ]\n기신병… 공격하는 것도 지키는 것도 아닌[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]마치 처음부터 이 싸움을[XENO:n ]\n포기할 생각이었던 것처럼…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "그럴 리가! 여기는 녀석들의 요충지다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "포기한다는 건 있을 수 없어[XENO:n ]\n본국에 숨겨 둔 전력이라도 있다면 모르겠지만…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "숨겨 둔 전력…[XENO:n ]\n설마?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "음?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "전하, 슈르크 일행이 걱정입니다[XENO:n ]\n하우레스 1기의 사용을 허가해 주십시오[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "가겠다는 말인가?[XENO:n ]\n하지만 어째서?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "비전은 아닙니다[XENO:n ]\n아니지만 제 감이 말하고 있습니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "기신이 눈을 뜨려 하고 있다는 것을[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

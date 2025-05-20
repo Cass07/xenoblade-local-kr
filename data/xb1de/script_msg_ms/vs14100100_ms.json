@@ -1,0 +1,169 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "이 도시를 폐허로 만든 건[XENO:n ]\n우리가 살고 있는 대지. 거신이었어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]이런 모습을 보니… 거신의 부활을[XENO:n ]\n막고 싶어 하는 마음도 알 것 같아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]하지만 말이야… 그렇다고 해서[XENO:n ]\n우리 홈스를 죽이려 하는 건 잘못된 거잖아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그 말대로다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "설령 마키나가 비극을 겪었다고 해도[XENO:n ]\n기신병이 거신계를 공격한 행위가[XENO:n ]\n용서되는 건 아니야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "마음에 걸리는 것은[XENO:n ]\n거신이 지니고 있던 모나드다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "거신계에 전해지는 전승이라고는 하나[XENO:n ]\n아무래도… 조금[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "이건 위험한 힘인 걸까…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]하지만 너는 그 힘을 훌륭하게 소화해 냈어, 슈르크[XENO:n ]\n나와 달리 너는 그 힘에 지배되지 않았잖아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]맞아. 네가 모나드를 사용하지 않았다면[XENO:n ]\n우리는 진작에 죽었을 거라고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "그렇지만 이 검을 나에게 맡긴 잔자는…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "지금 모나드를 휘두르고 있는 건[XENO:n ]\n잔자가 아니라 슈르크, 당신입니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]……[XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "메이너스 님께서 피오른을 그릇으로[XENO:n ]\n선택한 것도 그 이유 때문이겠지요[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "모나드를 다루는 자의 비극을[XENO:n ]\n두 번 다시 되풀이하지 않기 위해서…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "모나드를 다루는 자의 비극…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "슈르크…[XENO:n ]\n믿는 겁니다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "스스로 선택해 걸어온 길과[XENO:n ]\n그 길을 함께 걸어온 동료들을[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "메이너스 님께선 전에 이렇게 말씀하셨습니다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "모나드는 유일무이한 것이 아니라[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "이 세계에 살아가는 자[XENO:n ]\n모두가 지니고 있는 빛이라고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]빛? 그건 무슨[XENO:n ]\n의미인가요?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "아무리 괴로운 상황 속에서도 살아남고자 하는[XENO:n ]\n인간이 지닌 의지의 힘… 생명의 빛[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "메이너스 님은 여러분을 보고 그 광명을[XENO:n ]\n다시 떠올린 것일지도 모릅니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "저 앞에 메이너스 신전이 있습니다[XENO:n ]\n에길은 그곳에 있을 겁니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "여러분의 목적은 에길을 쓰러뜨리는 것[XENO:n ]\n지금도 그 목적에 변함은 없습니까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "우리는 기신계의 역사를 조금은 알게 되었어요[XENO:n ]\n이야기해 볼 여지는 남아 있다고 생각해요[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]하지만… 만약…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그렇습니까… 그것을[XENO:n ]\n여러분의 결의로 받아들이겠습니다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "저는… 한 번 더 에길을 설득해 보겠습니다[XENO:n ]\n그래도 그의 생각이 바뀌지 않는다면…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "바네아 씨…[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

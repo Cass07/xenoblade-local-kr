@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "터미널의 지시에 따라[XENO:n ]\n테레시아를 조사했다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "터미널의 지시에 따라[XENO:n ]\n테레시아를 조사했어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "터미널의 지시에 따라[XENO:n ]\n테레시아를 조사했어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "터미널의 지시에 따라[XENO:n ]\n테레시아를 조사했다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "터미널의 지시에 따라[XENO:n ]\n테레시아를 조사했어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "터미널의 지시에 따라[XENO:n ]\n테레시아를 조사했어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:type type=think ]가드…[XENO:wait wait=key ][System:PageBreak ]조금만 더 기다려[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:type type=think ]지금은 안정을 취해[XENO:wait wait=key ][System:PageBreak ]카르나는 반드시 지킬 테니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:type type=think ]그를 위해서라도 지금은 에길을…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:type type=think ]그를 위해서라도[XENO:n ]\n지금은 에길에게 가자모[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

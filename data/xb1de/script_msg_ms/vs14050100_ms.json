@@ -1,0 +1,69 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]당신들의 기신계가 잔자에게[XENO:n ]\n멸망당했다는 게 정말인가요?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]저는 그 잔자의 검을 가지고 있어요![XENO:n ]\n저는 당신들의 적인 건가요?![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "그렇다면 어째서 당신은 저를…![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "슈르크, 진정해![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]미, 미안…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "지금부터 기신계 제도 《아그니라타》에 가겠습니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]기신계 제도에? 왜지?[XENO:n ]\n우리를 에길에게 넘길 셈인가?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "말로 설명하는 것보다[XENO:n ]\n눈으로 직접 보는 게 빠르겠죠[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "이 기신계의 역사를…[XENO:n ]\n기신과 거신의 싸움을…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "이 앞에 기신의 흉부 내부인 《중앙 공장》으로[XENO:n ]\n올라가는 리프트가 있습니다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "목적지인 제도 《아그니라타》는[XENO:n ]\n《중앙 공장》 너머에 있습니다[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "아들을 죽여 달라니[XENO:n ]\n보통 일이 아니로군[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]기신계에는 마키나가 거의 남아 있지 않네[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]과거 거신과 기신이 싸웠던 시대에[XENO:n ]\n거신에 의해 멸망했기 때문이지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "거신은 우리의 존재를[XENO:n ]\n용서할 수 없었던 것 같네[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "메이너스 님은 우리를 위해서[XENO:n ]\n그 거신과 싸워 주셨다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]그 결과 두 신은[XENO:n ]\n서로 상처를 입고 잠들게 된 게야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]메이너스 님이라니?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]기신계를 창조하신 분이다[XENO:n ]\n기신 그 자체라고 할 수 있겠지[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]아저씨, 마치 본 것처럼 말하네[XENO:n ]\n그건 먼 옛날의 신화 같은 거잖아?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]이런… 내가 좀 젊어 보이긴 하지만[XENO:n ]\n사실은 꽤 나이를 먹어서 말이야[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]이 눈으로 똑똑히 봤단다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT22 ]농담이지?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]거신계에 사는 자와는 애초에 수명이 다를 터[XENO:n ]\n우리 하이엔터의 수명도 홈스의 몇 배는 되지[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT22 ]아무리 그래도[XENO:n ]\n오래 사는 것도 정도가 있지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]어째서 에길의 죽음을 바라는 건가요?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "방금 이야기의 흐름으로는 오히려 거신을[XENO:n ]\n죽여 달라고 하는 게 맞을 텐데요[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]에길은 누구보다도 우수했지. 명석하고[XENO:n ]\n늠름하며 약자를 배려하는 마음도 있었다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "그렇기에 거신의 행동을 용서할 수 없었던 게야[XENO:n ]\n녀석은 거신에게 복수할 것을 맹세했다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]마키나가 거신에게 당한 것과 똑같이[XENO:n ]\n이번에는 우리에게 되돌려주겠다는 건가![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "에길은 아무런 죄도 없는[XENO:n ]\n거신계에 사는 자들까지도[XENO:n ]\n송두리째 없애 버리려 하고 있어[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]그것만은 반드시 막아야 해[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]당신들의 힘으로 막아 볼 생각은 안 한 건가?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]막아 보았지… 그리고 많은 자들이[XENO:n ]\n목숨을 잃었다네[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "그에겐… 더 이상 아무것도 보이지 않는 게야[XENO:n ]\n메이너스 님의 가르침조차…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]에길은 지금 어디에 있죠?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]아마 기신계 제도에서[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "홀로 과거의 영광을[XENO:n ]\n되찾으려 하고 있을 테지[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]왠지 슬픈 이야기야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]야! 무슨 소리 하는 거야?[XENO:n ]\n그놈이 우리에게 무슨 짓을 했는지 잊은 거야?![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]잊지 않았어! 물론 용서할 수 없어![XENO:n ]\n하지만 에길이 택한 삶은 슬프다고 생각해[XENO:n ]\n라인도 그렇게 생각하지 않아?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]모르겠어. 나는 그저 화가 날 뿐이야[XENO:n ]\n그런 녀석의 기분 같은 건…[XENO:wait wait=key ][XENO:act act=EVT_EXT10 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "라인…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]에길의 이야기는 이해했다[XENO:n ]\n하지만 왜 우리에게?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]일단 말해 두겠지만 슈르크가 사용하는 검 모나드는[XENO:n ]\n기신계의 병기를 베는 힘을 가지고 있다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]한때는 거신의 검이라고 부르기도 했지[XENO:n ]\n당신들에게는 피해야 할 대상이 아닌가?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]잔자…인가…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT6 ]아니, 혼잣말일세[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 39,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]뭐, 에길을 쓰러뜨리기 위해서는[XENO:n ]\n그 검의 힘을 빌릴 수밖에 없다네[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 40,
+      "style": 125,
+      "name": "그 정도로 녀석의 힘이[XENO:n ]\n강해져 있다는 의미라네[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 41,
+      "style": 125,
+      "name": "어찌 되었든 먼 길 오느라 피로도 쌓였을 터[XENO:n ]\n대답은 서두르지 않아도 좋네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 125,
+      "name": "그 아가씨의 치료가 끝날 때까지[XENO:n ]\n마을에서 편히 지내도록 하게나[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

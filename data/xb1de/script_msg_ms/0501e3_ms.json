@@ -1,0 +1,249 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "나무 위에 오르면[XENO:n ]\n동심으로 돌아간 기분이 들어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "\"동심\"이 뭐야모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "아이 때와 같은[XENO:n ]\n순수한 마음이라면 알겠어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "리키도 동심으로 돌아갔어모~![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:sel sel=・왠지 이상한걸/・역시 그렇지! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "응? 리키가 무슨 이상한[XENO:n ]\n소리 했어모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "리키는 외모가 귀여우니까[XENO:wait wait=key ][System:PageBreak ]동심으로 돌아간다는 표현이[XENO:n ]\n좀 이상하다 싶었어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:type type=anger ]리키는 애가 아니야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:type type=def ]무, 물론이지![XENO:n ]\n단반보다도 연상이잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:type type=anger ]맞아모![XENO:wait wait=key ][System:PageBreak ]결혼해서 부인이랑[XENO:n ]\n아이들을 부양하고 있어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:type type=def ][XENO:sel sel=・그렇게 말해 봤자/・굉장하네, 리키 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "빚투성이잖아…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "윽… 갑자기 배가 아파모…[XENO:n ]\n이제 안 되겠어모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "얼버무리지 마[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "뀨우…[XENO:wait wait=key ][System:PageBreak ]리키는 열심히 일했어모…[XENO:wait wait=key ][System:PageBreak ]하지만 오카가 열심히 살림을 꾸려도[XENO:n ]\n생활비가 너무 많이 들어모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "한창 먹을 시기의 아이가 11명이나[XENO:n ]\n있으니까 힘들겠지…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "하지만 리키는 열심히 일해서[XENO:n ]\n빚을 갚을 거야모![XENO:wait wait=key ][System:PageBreak ]아이들을 훌륭한 용사로[XENO:n ]\n키울 거야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "후후, 응원할게[XENO:n ]\n힘내, 아빠![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "나도 할 수 있을까…?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "카르나는 아빠가 못 돼모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "그, 그게 아니라![XENO:wait wait=key ][System:PageBreak ]언젠가 리키처럼[XENO:n ]\n가정을 꾸리는 거 말이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "걱정할 필요 없어모![XENO:n ]\n카르나라면 괜찮아모![XENO:wait wait=key ][System:PageBreak ]\"걱정도 팔자\"라고[XENO:n ]\n하잖아모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "어머, 리키[XENO:n ]\n어려운 말도 알고 있구나?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "돈가가 가르쳐 줬어모![XENO:wait wait=key ][System:PageBreak ]리키랑 오카가 결혼하기 전에[XENO:wait wait=key ][System:PageBreak ]\"메리지 블루\"에 걸렸을 때[XENO:n ]\n가르쳐 줬어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "그렇구나. 좋은 걸 배웠어[XENO:n ]\n고마워. 리키[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "나도 어릴 때는[XENO:n ]\n나무에 오르는 걸 무척 좋아했어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "굉장히 의외야모![XENO:wait wait=key ][System:PageBreak ]카르나는 어른스러우니까[XENO:n ]\n상상이 안 가모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "어머, 고마워[XENO:n ]\n하지만 전혀 그렇지 않았어[XENO:wait wait=key ][System:PageBreak ]이렇게 나무 위에 있으면[XENO:n ]\n굉장히 마음이 편해져[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "리키도 나무에 오르는 거 무척 좋아해모![XENO:n ]\n아이들도 무척 좋아해모![XENO:wait wait=key ][System:PageBreak ]하지만…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "왜 그래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "오르길 싫어하는 애가 딱 한 명 있어모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:sel sel=・어머, 의외네/・어, 노폰족인데? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "뭔가 이유가 있는 거 아니야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "맞아모…[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT10 ]리키가 눈을 뗀 사이에 높은 곳에 올라가서[XENO:n ]\n내려오지 못한 적이 있어모[XENO:wait wait=key ][System:PageBreak ]꼬박 하루를 나무 위에서[XENO:n ]\n리키가 도와주길 기다리고 있었어모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "그거참 안됐다…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "그거 때문에 놀림당하지는 않을지[XENO:n ]\n걱정이야모…[XENO:wait wait=key ][System:PageBreak ]리키의 부주의 때문이야모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "그렇게 자책하지 마[XENO:wait wait=key ][System:PageBreak ]믿고 지켜봐 주자[XENO:wait wait=key ][System:PageBreak ]시간이 걸릴지도 모르지만[XENO:n ]\n천천히 조금씩, 응?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "고마워모![XENO:n ]\n카르나는 역시 상냥해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "후후, 리키도[XENO:n ]\n상냥한 아빠라고 생각해![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:type type=anger ]노폰족이지만 나무를 못 오르는[XENO:n ]\n아이도 있어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:type type=def ]미안해[XENO:n ]\n방금 그건 편견이었지…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "이유가 있어서 그래모![XENO:wait wait=key ][System:PageBreak ]리키가 눈을 뗀 사이에 높은 곳에 올라가서[XENO:n ]\n내려오지 못한 적이 있어모[XENO:wait wait=key ][System:PageBreak ]꼬박 하루를 나무 위에서[XENO:n ]\n리키가 도와주길 기다리고 있었어모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "그래서 무서워진 거구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "어른이 되기 전에[XENO:n ]\n어떻게든 해 주고 싶어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "리키는[XENO:n ]\n믿음직한 아빠구나[XENO:wait wait=key ][System:PageBreak ]감탄했어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "리키는 언제나[XENO:n ]\n아이들을 생각하고 있어모![XENO:wait wait=key ][System:PageBreak ]카르나도 부모가 되면 알 거야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "네, 옳은 말씀이세요![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

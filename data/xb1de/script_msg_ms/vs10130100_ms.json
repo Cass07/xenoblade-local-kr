@@ -1,0 +1,159 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "그렇구나… 모나드는 여기 있었구나[XENO:n ]\n여기서 아버지와 일행분들이…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]너는 언제부터 미래를 볼 수 있었어?[XENO:n ]\n대대로 예언관 가문이라고 했지?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "그 힘은 태어날 때부터 있던 거야?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "나도 모나드를 만진 적이 있어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]?![XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]예언관이 될 자는[XENO:n ]\n모나드를 만져야만 해[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "그리고 그 가호를 얻은 자만이[XENO:n ]\n예언관의 힘을 얻는 거야[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "그런 의식이지[XENO:n ]\n우리 가문에 전해지는[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "그 의식을 여기서 치렀던 거구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "슈르크, 어째서 비전이 보인다고 생각해?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]생각해 본 적도 없었네…[XENO:n ]\n모나드를 손에 쥔 순간부터[XENO:n ]\n정신없이 달려왔으니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]비전은 에테르의 흐름 그 자체야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "세계를 구성하는 근원 원소인 에테르는[XENO:n ]\n각각의 위치나 운동량, 그리고 상호 작용을 통해[XENO:n ]\n미래에 어떻게 움직일지 예측할 수 있어[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "근원 원소를 예측할 수 있다면[XENO:n ]\n그 집합체인 우리의 미래도[XENO:n ]\n원리적으로는 예측할 수 있게 돼[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그리고 그 예측 결과를 가시화할 수 있다면?[XENO:n ]\n어떤 물건을 사용하는 것으로[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "그게 모나드야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "모나드는 세계를 구성하는 에테르에 간섭해서[XENO:n ]\n다양한 힘을 발휘해 왔잖아? 그렇다면…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "비전도 같은 원리라고 생각하는 게[XENO:n ]\n타당하다는 거지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]아무도 간섭하지 않으면 그 사실은[XENO:n ]\n그대로 어찌할 도리 없이 일어나[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "하지만 그 결과를 알아 버린[XENO:n ]\n누군가가 간섭한다면?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "그 간섭에 의해 미래가 변화한다[XENO:n ]\n잔자는 기신을 이기기 위해[XENO:n ]\n모나드를 만든 건가[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT19 ]하지만 왜 그렇게까지 해서?[XENO:n ]\n과거의 전투 때 대체 무슨 일이…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "그저 전설이라고만 생각했어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "우리가 사는 이 대지도, 모나드도[XENO:n ]\n아무런 의심도 없이 당연하게 여기며[XENO:n ]\n지금까지 살아온 건 부정 못 하겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "어쨌든 너는 모나드를 손에 넣어서[XENO:n ]\n원래 알아선 안 될 정보를[XENO:n ]\n알아 버린 존재가 되었어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "나는 해선 안 될 일을 하는 걸까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]너는… 말하자면 뒤틀림이야[XENO:n ]\n뒤틀림은 예측 결과 밖에 있는 존재지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "그 존재조차도 받아들일 수 있을 만큼[XENO:n ]\n이 세계는 실로 유연하게 이루어져 있어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]아니, 유연하게 이루어져 있어야만 해[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

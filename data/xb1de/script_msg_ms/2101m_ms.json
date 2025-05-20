@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "검은콩 간을 2개 모았으니[XENO:n ]\n자연도 예전처럼 돌아오겠지[XENO:wait wait=key ][System:PageBreak ]모두가 기뻐하는 얼굴을 보고 싶으니[XENO:n ]\n빨리 가져다주자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "셀라의 신축 세포를 3개 모았어[XENO:wait wait=key ][System:PageBreak ]콜로니 6의 특수를[XENO:n ]\n부흥시킬 수 있겠군[XENO:wait wait=key ][System:PageBreak ]빨리 가져다주자[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

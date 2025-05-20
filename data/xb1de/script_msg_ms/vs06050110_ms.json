@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "이런 곳이 있었다니…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]그러니까 말했었잖아? 슈르크[XENO:n ]\n연구만 하지 말고 밖에도 좀 나가라고[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]자, 목적지는 이곳의 최심부다[XENO:n ]\n거기에서 거신의 상층부로 올라간다[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]콜로니 6에 살던 우리들조차[XENO:n ]\n최심부까지는 가 본 적이 없는데…[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]그렇겠지[XENO:n ]\n거신의 상층에 가까워지면[XENO:n ]\n몬스터 놈들도 활성화된다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "이 안쪽으로 가려는 녀석들은 장사 혼에 불타는[XENO:n ]\n노폰족이나 나같이 유별난 사람뿐이라고[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]너는 그런 곳으로 우리를 데려가려 했어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]어쩔 수 없잖아[XENO:n ]\n안 그러면 거신의 머리까지는 갈 수 없다고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]가겠어요[XENO:n ]\n…어떤 곳일지라도[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그래그래. 그런 의지가 중요하다고[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "이거 봐모, 라인![XENO:n ]\n커다란 에테르 결정이 있어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]와, 엄청 크네…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "리키 저거 갖고 싶어모![XENO:n ]\n통째로 마을에 가져가고 싶어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:sel sel=・가능하겠냐!/・가져가서 뭐 할 건데? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]괜찮아모. 무식하게 힘만 센 라인이[XENO:n ]\n분명히 뽑을 수 있을 거야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]야, 무식하다는 말은 취소해[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]자, 빨리 뽑아 봐모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]못 뽑는다니까![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]김빠져모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ][XENO:sel sel=・어디 쓸 생각인데?/・시시한 데 쓰려는 거 아냐? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]잘 물어봤어모![XENO:wait wait=key ][System:PageBreak ]리키는 저 에테르 결정을 팔아서[XENO:n ]\n빚을 갚고 싶어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]그렇군. 빚이라…[XENO:wait wait=key ][System:PageBreak ]너희 집 빚은[XENO:n ]\n그렇게나 많은 거야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "리키 부끄러워모…[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]《흐물 해삼》으로 계산하면[XENO:n ]\n20,000마리 정도야모…[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]전혀 모르겠는데…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]크윽, 언젠가 뽑아 주겠어모![XENO:wait wait=key ][System:PageBreak ]저걸 통째로 팔아서[XENO:n ]\n부자가 될 거야모~![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]그래, 잘해 봐[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]무시하지 마모![XENO:wait wait=key ][System:PageBreak ]리키는 저 에테르 결정을 팔아서[XENO:n ]\n빚을 갚고 싶어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT22 ]결국 그거냐…[XENO:n ]\n난 간다…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]라인, 부탁이야모![XENO:n ]\n리키한텐 저게 필요해모![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT24 ]아, 그렇지![XENO:wait wait=key ][System:PageBreak ]단반이라면[XENO:n ]\n뽑을 수 있을지도 몰라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]정말이야모?[XENO:n ]\n그렇게 안 보이는데모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]됐으니까 어서 부탁하고 와![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]알았어모![XENO:n ]\n리키 좋은 걸 들었어모~![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ][XENO:act act=EVT_EXT7 ]미안, 단반…[XENO:wait wait=key ][XENO:jaw jaw=off ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]당연히 마을에 내다 팔고[XENO:n ]\n빚을 갚는 데 쓸 거야모![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]그렇군[XENO:n ]\n확실히 비싸게 팔 수 있을 거 같네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]리키 부자가 될 수 있어모~![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]하지만 결정을 팔아 봤자[XENO:n ]\n얼마 못 받을걸?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]그럼 어떻게 해야 해모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:sel sel=・그런 것도 몰라?/・에테르 용광로에서 정제해야지 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]에테르 용광로를 쓰면 되잖아?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]하지만 땅끝 마을에는[XENO:n ]\n\"에테르 용광로\"가 없어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT22 ]그렇구나. 에테르 용광로가 없어서[XENO:n ]\n젬으로 만들 수가 없구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]리키네 마을에도[XENO:n ]\n\"에테르 용광로\"가 있었으면 좋겠어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT24 ]그거 꽤 비싼데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]얼마나 하는데모?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]어디 보자…[XENO:wait wait=key ][System:PageBreak ]저 결정을 젬으로 만들어서[XENO:n ]\n팔아야 할 만큼 돈이 필요할지도 몰라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ][XENO:jaw jaw=off ]……[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]너무 실망하지 마[XENO:wait wait=key ][System:PageBreak ]혹시 알아? 마을 사람들이랑 함께[XENO:n ]\n돈을 모으면 어떻게 될지![XENO:wait wait=key ][System:PageBreak ]나도 도울 테니까![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]에테르 결정은[XENO:wait wait=key ][System:PageBreak ]젬으로 만드는 편이[XENO:n ]\n더 비싼 값에 팔 수 있지[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]하지만 땅끝 마을에는[XENO:n ]\n\"에테르 용광로\"가 없어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT22 ]그랬구나…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]그게 있으면[XENO:n ]\n좋은 점이 있어모?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT24 ]아마…[XENO:n ]\n마을 전체가 풍족해질걸[XENO:wait wait=key ][System:PageBreak ]꽃가루 공장의 생산량도[XENO:n ]\n확 오를 거고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]정말이야모?![XENO:n ]\n리키 꽃가루 경단을 잔뜩 먹고 싶어모~![XENO:wait wait=key ][System:PageBreak ]분명 가족들도 무척 기뻐할 거야모~![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ][XENO:act act=EVT_EXT7 ]에테르 용광로는[XENO:n ]\n무지하게 비쌌었지…[XENO:wait wait=key ][System:PageBreak ]뭐, 지금은 조용히 있자[XENO:wait wait=key ][XENO:jaw jaw=off ][XENO:del del=this ]"
+    }
+  ]
+}

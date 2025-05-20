@@ -1,0 +1,309 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]저기, 슈르크?[XENO:wait wait=key ][System:PageBreak ]부탁이 있는데, 괜찮아?[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]내가 할 수 있는 거라면 들어줄게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "그건 괜찮아![XENO:n ]\n슈르크라면 분명 할 수 있는 거거든[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]대체 뭘 부탁하려는 건데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:sel sel=・원래 몸으로 돌아가면…/・아냐, 역시 됐어 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "원래 몸으로 돌아가면[XENO:n ]\n하고 싶은 거라도 있어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]응. 다시 여기로[XENO:n ]\n놀러 오고 싶다고 생각했어[XENO:wait wait=key ][System:PageBreak ]슈르크도 그렇지 않아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]응. 나도 여기 또 오고 싶어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]역시![XENO:wait wait=key ][System:PageBreak ]저기, 이렇게 바라보는 것도 좋지만[XENO:n ]\n바다에 들어가서 놀고 싶지 않아?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]응. 나도 그렇게 생각했어![XENO:wait wait=key ][System:PageBreak ]이 싸움이 끝나면[XENO:n ]\n다 같이 놀러 오자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:sel sel=・응? 다 같이?/・어… 응 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]왜 그래? 피오른[XENO:n ]\n내가 이상한 소리라도 했어?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]정말![XENO:n ]\n왜 다 같이야![XENO:wait wait=key ][System:PageBreak ]이럴 때는 보통[XENO:n ]\n단둘이 오자고 하잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]그런가?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]당연하지![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT2 ]정말이지 슈르크는[XENO:n ]\n아무것도 모른다니까![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]미, 미안해, 피오른[XENO:n ]\n다음에는 조심할게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]정말 이해했어?[XENO:n ]\n그럼 지금 해야 할 말은 뭐~게?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]어…[XENO:wait wait=key ][System:PageBreak ]괜찮으면 나랑[XENO:n ]\n또 이렇게 놀러 와 줄래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]음~ 70점![XENO:n ]\n하지만 슈르크라면 합격이야[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT1 ]다음에는[XENO:n ]\n나를 만족시키도록 해![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]어?[XENO:n ]\n응. 알았어[XENO:wait wait=key ][System:PageBreak ]다음에 어디 초대할 때는[XENO:n ]\n피오른이 더 기뻐할 말을 할게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]후후, 좋아![XENO:n ]\n그럼 기대하고 있을게![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]어쩐지 불만스러운 얼굴인데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]아, 아닌데?[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT7 ]그저 난 슈르크와 단둘이어도[XENO:n ]\n좋겠다~ 싶어서[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]나랑 단둘이?[XENO:n ]\n그건…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]어? 슈르크[XENO:n ]\n내 마음을 이해한 거야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]응. 피오른은[XENO:n ]\n역시 바다를 좋아하는구나![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]그럼 그렇지[XENO:n ]\n하나도 이해 못 했네[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]슈르크 말이야[XENO:wait wait=key ][System:PageBreak ]내가 없는 동안[XENO:n ]\n계속 여행을 했잖아?[XENO:wait wait=key ][System:PageBreak ]오랜만에 단둘이서[XENO:n ]\n한숨 돌리는 것도 좋지 않을까?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "응. 그렇네[XENO:n ]\n지금 당장은 힘들겠지만…[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]앞으로 늘 함께[XENO:n ]\n있을 수 있으니까[XENO:wait wait=key ][System:PageBreak ]또 같이 추억을 만들어 가자[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]으, 응[XENO:wait wait=key ][System:PageBreak ]앞으로도 계속…[XENO:n ]\n계속 함께 있을 수 있으니까[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][System:PageBreak ]후후, 그럼 추억 많이 만들자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]물론이지![XENO:wait wait=key ][System:PageBreak ]피오른이 더는 싫다고 해도[XENO:n ]\n여기저기 데리고 갈 테니까![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]그럼 기대하고 있을게[XENO:n ]\n약속이야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]하하, 이제 와서 말 안 하기야?[XENO:wait wait=key ][System:PageBreak ]나는 괜찮으니까[XENO:n ]\n계속 말해 봐[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]정말 괜찮아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "피오른, 왜 그래?[XENO:wait wait=key ][System:PageBreak ]콜로니 9에 있을 때는[XENO:n ]\n내게 뭐든 이야기해 줬었잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]그렇긴 한데[XENO:n ]\n이제 그때와는 다르잖아[XENO:wait wait=key ][System:PageBreak ]그리고 내 말을 들으면[XENO:n ]\n슈르크, 분명 화낼걸?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]화를 낼지는[XENO:n ]\n안 들어 보면 모르지[XENO:wait wait=key ][System:PageBreak ]그러니까 말해 봐[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:sel sel=・응. 알았어/・미안해 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]화내지 말고 들어 줘[XENO:wait wait=key ][System:PageBreak ]전에도 말했지만[XENO:n ]\n내 몸이 망가지면…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]피오른, 무슨 소리야![XENO:n ]\n그 이야기는 지난번에 다 했잖아![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]그래서 화내지 말라고 했는데…[XENO:wait wait=key ][System:PageBreak ]응. 제대로 대화를 나눴었지[XENO:wait wait=key ][System:PageBreak ]하지만 내 몸이 원래대로[XENO:n ]\n돌아온단 확증은 없잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]그런 건 상관없어[XENO:wait wait=key ][System:PageBreak ]어떤 몸이든지[XENO:n ]\n피오른은 피오른이잖아[XENO:wait wait=key ][System:PageBreak ]나는 그런 거 조금도 신경 안 써[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "슈르크가 신경 안 써도[XENO:n ]\n주변 사람은 신경 써[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT7 ]나는 슈르크가 그런 시선을[XENO:n ]\n받는 게 싫어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]그거라면 그런 걸 신경 쓰지 않는[XENO:n ]\n곳으로 가면 그만이야[XENO:wait wait=key ][System:PageBreak ]라인과 단반 씨도[XENO:n ]\n같이 가 줄 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "슈르크, 고마워…[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT3 ]그 말을 들은 것만으로도[XENO:n ]\n정말 기뻐[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT2 ]하지만 그래선 안 돼[XENO:n ]\n다들 각자의 생활이 있는걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]하긴 그렇지[XENO:wait wait=key ][System:PageBreak ]하지만 다들 안 와도[XENO:n ]\n나는 꼭 함께 갈 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]정말로…[XENO:n ]\n나랑 같이 갈 거야?[XENO:wait wait=key ][System:PageBreak ]나, 슈르크의 말을[XENO:n ]\n믿어도 되는 거지?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]응. 약속할게[XENO:wait wait=key ][System:PageBreak ]그러니까 피오른도[XENO:n ]\n이 약속 절대 잊지 마[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]피오른…[XENO:n ]\n무리하지 않아도 돼[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]그런 건 아닌데[XENO:n ]\n저기, 화 안 낼 거지?[XENO:wait wait=key ][System:PageBreak ]절대 화내지 않고[XENO:n ]\n내 말을 들어 줄 거지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]응. 약속할게[XENO:wait wait=key ][System:PageBreak ]피오른이 무슨 말을 해도[XENO:n ]\n절대 화 안 낼게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]있잖아, 슈르크[XENO:n ]\n내 몸은 마키나의 몸이잖아?[XENO:wait wait=key ][System:PageBreak ]그러니까 슈르크와 함께[XENO:n ]\n나이를 먹고[XENO:wait wait=key ][System:PageBreak ]할아버지, 할머니가[XENO:n ]\n될 수는 없잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 126,
+      "name": "그럴지도 모르지[XENO:n ]\n하지만 그게 왜?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]그러니까 슈르크가[XENO:wait wait=key ][System:PageBreak ]제대로 함께 나이를 먹어 갈[XENO:n ]\n사람과 함께했으면 해서…[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 54,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]나는 그런 거 신경 안 써[XENO:n ]\n사실은 알고 있잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]그래서야…[XENO:wait wait=key ][System:PageBreak ]슈르크가 나를[XENO:n ]\n소중히 여겨 주는 마음은[XENO:wait wait=key ][System:PageBreak ]아주 잘 알고 있으니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]괜찮아, 피오른[XENO:n ]\n나는 앞으로도 소중히 여길 거야[XENO:wait wait=key ][System:PageBreak ]이 마음은[XENO:n ]\n계속 변하지 않아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 57,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]후후, 그렇구나[XENO:wait wait=key ][System:PageBreak ]응. 알았어[XENO:n ]\n시험한 것 같아서 미안하네[XENO:wait wait=key ][System:PageBreak ]역시 슈르크는[XENO:n ]\n변하지 않았구나[XENO:wait wait=key ][System:PageBreak ]안심했어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 58,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]불안해하는 마음은[XENO:n ]\n알고 있으니까[XENO:wait wait=key ][System:PageBreak ]앞으로도[XENO:n ]\n그런 건 뭐든 말해 줘[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]응. 알았어[XENO:n ]\n고마워. 슈르크![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

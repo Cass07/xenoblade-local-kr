@@ -1,0 +1,259 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]저기, 슈르크[XENO:n ]\n미래가 보인다는 건 어떤 느낌이야?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]으음… 표현하기가 어렵네[XENO:wait wait=key ][System:PageBreak ]꿈을 \"보여 주는\"[XENO:n ]\n감각이랄까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]꿈인가…[XENO:n ]\n정말로 신기한 힘이네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "카르나는 어떻게 생각해?[XENO:n ]\n내 미래를 보는 능력…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:sel sel=・나도 있었으면 했어/・아직도 믿을 수가 없어 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]왜냐하면 콜로니 6를[XENO:n ]\n구했을지도 모르니까…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "응. 그렇구나[XENO:n ]\n가드 씨도 그렇고…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]하지만 그런 생각을 해 봤자[XENO:n ]\n어쩔 수 없는 일이라는 건 알고 있어[XENO:wait wait=key ][System:PageBreak ]그보다 쥬쥬를 구해 줘서 고마워[XENO:n ]\n정말로 감사하고 있어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]응. 그때는 늦지 않아서[XENO:n ]\n정말로 다행이었어[XENO:wait wait=key ][System:PageBreak ]쥬쥬가 목숨을 잃는 \"미래\"도[XENO:n ]\n있었을지 모르니까…[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "비전이 있으면…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:sel sel=・아무것도 무서울 게 없겠네/・누군가의 목숨을 구할 수 있는 거네 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]하지만 나는 모든 미래를[XENO:n ]\n다 꿰뚫어 보고 있는 게 아니야[XENO:wait wait=key ][System:PageBreak ]거기다 미래가 보였다고 해서[XENO:n ]\n그걸 반드시 피할 수 있는 것도 아니고…[XENO:wait wait=key ][System:PageBreak ]피오른도 결국[XENO:n ]\n구하지 못했으니까…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]그랬었지[XENO:n ]\n미안해…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "미래가 보였는데도[XENO:n ]\n바꿀 수 없었어[XENO:wait wait=key ][System:PageBreak ]내게 힘이 없었으니까…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "내가 착각을 하고 있었구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]응…?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]비전은 결코[XENO:n ]\n만능의 힘이 아니야…[XENO:wait wait=key ][System:PageBreak ]누군가의 목숨을 구할 수도 있지만[XENO:n ]\n이렇게 괴로워하게 될 수도 있는 거네[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]고마워. 카르나[XENO:n ]\n이해해 줘서 기뻐[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]나에게는 미래를 보는 힘은 없지만[XENO:wait wait=key ][System:PageBreak ]도와줄 수 있는 일이 있다면[XENO:n ]\n뭐든 말해 줘[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]슈르크가 있어서[XENO:n ]\n정말 마음이 든든해[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "고마워[XENO:n ]\n그렇게 말해 줘서 기뻐[XENO:wait wait=key ][System:PageBreak ]하지만…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "왜 그래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]나는 모든 미래를[XENO:n ]\n꿰뚫어 보고 있는 게 아니야[XENO:wait wait=key ][System:PageBreak ]거기다 미래가 보였다고 해서[XENO:n ]\n그걸 반드시 피할 수 있는 것도 아니고…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]피오른 이야기지…?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]응…[XENO:wait wait=key ][System:PageBreak ]거기다 나에겐 거신계의 미래도[XENO:n ]\n전혀 보이지 않아[XENO:wait wait=key ][System:PageBreak ]그 정도의 힘인 거지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]그런 말 하지 마[XENO:n ]\n그래도 우리들은 도움을 받았으니까…[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]그랬었네…[XENO:n ]\n고마워. 카르나[XENO:wait wait=key ][System:PageBreak ]이 힘을… 더욱 잘[XENO:n ]\n다루고 싶어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]그래. 나도 응원할게[XENO:n ]\n함께 힘내자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:type type=anger ][XENO:act act=EVT_EXT4 ]그, 그럴 수가…!![XENO:n ]\n카르나는 믿지 않는 거였어?![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]아니야![XENO:n ]\n그런 뜻으로 말한 게 아니야![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "그럼 어떤 의미로?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]나에겐 너무나도 먼 이야기다 보니…[XENO:wait wait=key ][System:PageBreak ]슈르크의 힘에 아직도 놀라움을[XENO:n ]\n감출 수 없다…는 의미였어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]그런 거구나[XENO:wait wait=key ][System:PageBreak ]그런 거라면 나도 마찬가지야[XENO:n ]\n비전에 대해서 아직 잘 모르고[XENO:wait wait=key ][System:PageBreak ]신비로운 힘이라고만 생각해[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]카르나는 혹시 미래가 보인다면[XENO:n ]\n어떤 미래를 보고 싶어?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:sel sel=・쥬쥬의 신부/・콜로니 6의 미래 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]그, 그런 걸…?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]잠깐, 그 말투는 좀 아니잖아?[XENO:n ]\n슈르크, 너 형제는 없어?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "없는데…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]내가 얼마나 동생을[XENO:n ]\n걱정하는지 알아?[XENO:wait wait=key ][System:PageBreak ]쥬쥬가 이상한 여자한테[XENO:n ]\n속기라도 하면…![XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]으, 응… 미안[XENO:n ]\n괜한 걸 물어본 것 같네…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]이해했으면 됐어[XENO:wait wait=key ][System:PageBreak ]쥬쥬는 태어나자마자[XENO:n ]\n부모님을 잃었으니까…[XENO:wait wait=key ][System:PageBreak ]내가 엄마 대신이나 마찬가지야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "그렇구나. 카르나같은 누나가 있다니[XENO:n ]\n쥬쥬가 부러운걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]모두 즐겁고 평화롭게[XENO:n ]\n지낼 수 있는…[XENO:wait wait=key ][System:PageBreak ]그런 밝은 미래를 콜로니가[XENO:n ]\n되찾을 수 있을지 어떨지를…[XENO:act act=EVT_EXT3 ][XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "카르나…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]그리고…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]그때 내 곁에 가장 가까이 있는 사람은[XENO:n ]\n누구일까…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "왜 그래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]아니, 아무것도 아니야[XENO:wait wait=key ][System:PageBreak ]나에게는 미래를 볼 수 있는 힘은 없지만…[XENO:n ]\n콜로니가 다시 부흥할 날이 올 거라 믿어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]응. 우리들도 함께할게[XENO:n ]\n같이 힘내자![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

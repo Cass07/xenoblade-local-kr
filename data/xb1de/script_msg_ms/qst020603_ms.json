@@ -1,0 +1,29 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "찾았다![XENO:n ]\n이 쯤이면 되겠지…?[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "좋았어![XENO:n ]\n이거면 되겠지?[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:type type=think ]좀 더 찍고 싶어지는걸![XENO:wait wait=Key ][XENO:del del=this ]"
+    }
+  ]
+}

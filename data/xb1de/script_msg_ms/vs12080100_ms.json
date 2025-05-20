@@ -1,0 +1,59 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "이제 어떻게 할 거야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "모두를 찾아야 해[XENO:n ]\n분명 무사할 거야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "그런 느낌이 들어[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "피오른이 돌아온 걸 알면[XENO:n ]\n다들 깜짝 놀랄걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "다들…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "라인도 단반 씨도[XENO:n ]\n그리고 새로 알게 된 동료들도 있어[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "카르나, 리키, 멜리아[XENO:n ]\n다들 좋은 사람들이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "…슈르크도 이런저런 일이 있었구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "응. 하지만 이제부터는[XENO:n ]\n쭉 함께야. 자, 출발하자![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

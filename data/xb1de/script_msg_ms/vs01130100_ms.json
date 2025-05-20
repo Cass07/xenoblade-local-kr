@@ -1,0 +1,69 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "꼴사납게도 그만[XENO:n ]\n모나드의 힘에 휘둘리고 말았어…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "하지만 말이지…[XENO:n ]\n지켜 냈다고, 우리들의 미래…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "뒷일은 너에게…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "단반 씨…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]자, 그럼… 나는 가져온 물건들을[XENO:n ]\n방위대에 건네줘야 해서 말이지[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "잠시 본부에 얼굴 좀 비치러 다녀오겠어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]아, 네[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "다녀오세요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]슈르크, 연구동에 틀어박혀 있거나[XENO:n ]\n고물 처리장에서 고물들을 모으거나[XENO:n ]\n네 일과야 어차피 그런 거지?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "그러니까 그런 답답한 표정이나 짓고 있는 거야[XENO:n ]\n가끔은 기분 전환 겸 바깥 공기라도 마시고 와[XENO:wait wait=key ][XENO:del del=this ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT5 ]그럼 난 이만![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "우와~ 높네~\n제법 위쪽까지 올라온 것 같은데[XENO:n ]\n여긴 어디쯤이야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]음… 아마 허벅지 부근 아닐까?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]허벅지라니… 뭐야, 아직[XENO:n ]\n절반도 못 올라온 거야?[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]투덜대지 말고 저길 봐[XENO:n ]\n이 주변에서 야영할 수 있겠어[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "오늘 밤은 저기서 쉬고 가자[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

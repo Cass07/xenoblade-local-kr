@@ -1,0 +1,279 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "있잖아, 멜리아[XENO:n ]\n슈르크 말인데…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "슈르크가 뭐 어떻다는 것이냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "요즘 어떤가 싶어서[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "무슨 뜻이지?[XENO:n ]\n더 구체적으로 말해 보거라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "그러니까 저기…[XENO:n ]\n슈르크를…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:sel sel=・아직도 좋아해?/・이제 포기했어? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "훗, 그렇지…[XENO:wait wait=key ][System:PageBreak ]카르나에게는[XENO:n ]\n이야기해 뒀어야 했겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "진전이 있었던 건…[XENO:n ]\n아니지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "그래. 아쉽지만 진전은 없었다[XENO:wait wait=key ][System:PageBreak ]나는 물러났지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "물러났다니![XENO:wait wait=key ][System:PageBreak ]슈르크에게 마음을 전했어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "아니, 전혀…[XENO:n ]\n그 녀석은 아무것도 모른다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:sel sel=・멜리아다워/・정말 너도 참… ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "상냥하구나[XENO:n ]\n사실은 괴로웠지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "그, 그렇지 않다…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "이제 괜찮아. 그런 얼굴로[XENO:n ]\n계속 감추고 있으려고?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "훗, 그래…[XENO:wait wait=key ][System:PageBreak ]물론 괴로운 일도 있었다[XENO:wait wait=key ][System:PageBreak ]나는 너희들보다[XENO:n ]\n훨씬 오랜 세월을 살아왔지만…[XENO:wait wait=key ][System:PageBreak ]이런 마음을 가졌던 건[XENO:n ]\n처음이었지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "힘이 되어 주지[XENO:n ]\n못해서 미안해…[XENO:wait wait=key ][System:PageBreak ]한심하네[XENO:n ]\n내 일만으로도 벅찼어…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "신경 쓰지 말거라[XENO:wait wait=key ][System:PageBreak ]카르나의 상실감에 비하면[XENO:n ]\n내 마음쯤이야…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "멜리아…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "나는 지켜보고 싶다[XENO:n ]\n그 두 사람의 미래를…[XENO:wait wait=key ][System:PageBreak ]그리고 기적을 믿고 있지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "기적이라…[XENO:wait wait=key ][System:PageBreak ]그렇네, 일으킬 수 있을 거야[XENO:n ]\n그 두 사람이라면 분명…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "마음도 전하지 않고[XENO:n ]\n포기하다니…[XENO:wait wait=key ][System:PageBreak ]분명 후회할걸?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "후회라… 글쎄?[XENO:wait wait=key ][System:PageBreak ]나는 이걸로 됐다고 생각한다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "멜리아가 그렇다면야…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "슈르크를 좋아했던 건[XENO:n ]\n내게 있어 소중한 시간이었다[XENO:wait wait=key ][System:PageBreak ]이제는 두 사람이 나아갈 길을[XENO:n ]\n지켜볼 것이다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "그렇구나…[XENO:wait wait=key ][System:PageBreak ]괜찮아, 멜리아[XENO:n ]\n분명 멋진 사람이 나타날 거야[XENO:wait wait=key ][System:PageBreak ]이런 매력적인 여자아이를[XENO:n ]\n누가 내버려 두겠어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "고맙구나[XENO:wait wait=key ][System:PageBreak ]카르나도…[XENO:n ]\n이번에야말로 행복해지거라[XENO:wait wait=key ][System:PageBreak ]그 녀석과…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "그 녀석이라니…?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "아무것도 아니다[XENO:n ]\n신경 쓰지 말거라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "훗…[XENO:n ]\n어쩔 수 없지 않느냐?[XENO:wait wait=key ][System:PageBreak ]내가 파고들 여지는[XENO:n ]\n처음부터 없었다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "왜 그렇게 말해?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "피오른이 말해 주었던[XENO:n ]\n슈르크를 향한 마음을…[XENO:wait wait=key ][System:PageBreak ]이길 수 없을 것 같았다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "그랬구나…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "이상하게도 지금은 후련하구나[XENO:wait wait=key ][System:PageBreak ]더는 괴로워하지 않아도[XENO:n ]\n되니 말이다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:sel sel=・강한 척하는구나/・그건 그렇겠네 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "그래서 잘[XENO:n ]\n안 되는 거 아니야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "뭐?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "좀 더 솔직해져도 될 텐데[XENO:n ]\n전부 혼자 끌어안고…[XENO:wait wait=key ][System:PageBreak ]멜리아는 지금[XENO:n ]\n서 있는 것도 힘들어 보여[XENO:wait wait=key ][System:PageBreak ]하지만 멜리아는 이렇게 말하겠지[XENO:n ]\n\"걱정할 필요 없다\"고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "그런 성격이다[XENO:wait wait=key ][System:PageBreak ]그렇게 쉽게 변하지 않지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "너무 마음에 담아 두지 마[XENO:wait wait=key ][System:PageBreak ]멜리아의 그런 점도 포함해서[XENO:wait wait=key ][System:PageBreak ]우리는 네가[XENO:n ]\n마음에 드니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "그래. 고맙구나…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "그러니까 다음에는 더[XENO:n ]\n약삭빠르게 굴어야 해[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "그래. 기억해 두마[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "마음을 바꾸지 않으면[XENO:n ]\n더 괴로워지지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "그래. 그러니 집착하지 않겠노라고[XENO:n ]\n정한 것이다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "대단하네, 멜리아는…[XENO:wait wait=key ][System:PageBreak ]나는 어떻게 될까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "왜 그러지, 카르나?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "아니, 아무것도 아니야[XENO:wait wait=key ][System:PageBreak ]나도 언제까지고 슬퍼하면[XENO:n ]\n안 되는 거겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "가드 말인가?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "마지막에 말했어[XENO:n ]\n\"약속은 지켰다\"고…[XENO:wait wait=key ][System:PageBreak ]그렇다고 죽을 필요는[XENO:n ]\n없었는데 말이야…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "억지로 잊을 필요 없다[XENO:wait wait=key ][System:PageBreak ]조금씩이라도 좋으니[XENO:n ]\n추억으로 바꿀 수만 있다면…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]언젠가 그 녀석과 함께…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 126,
+      "name": "고마워. 멜리아…[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

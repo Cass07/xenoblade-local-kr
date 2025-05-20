@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "멜리아가 위험하기 전에 와서[XENO:n ]\n정말 다행이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "그래. 하지만…[XENO:n ]\n신경 쓰이는 것도 있어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]신경 쓰이는 것?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그래. 어째서 멜리아가 황태자로[XENO:n ]\n뽑혔는가 하는 거야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]원래라면 오빠인 칼리안을 선택하기 마련이잖아?[XENO:n ]\n실제로 묘지에서 상대한 건 반대파인 것 같았고[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]확실히 그러네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]칼리안은 황태자가 되기에 충분한 그릇이야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]그럼에도 불구하고 멜리아를 고른 이유…[XENO:n ]\n칼리안조차도 그걸 바라고 있는 듯했고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "그러게…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "실례합니다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "슈르크 님, 황주 폐하께서 부르십니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT3 ]오! 드디어 왔다! 분명히 감옥섬에[XENO:n ]\n가는 칙허를 내준다는 말일 거야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "응[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "황주 폐하께서는 알현실에서 기다리고 계십니다[XENO:n ]\n준비가 되면 찾아뵈어 주십시오[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

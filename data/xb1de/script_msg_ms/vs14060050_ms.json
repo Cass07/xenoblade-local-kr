@@ -1,0 +1,39 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "여기가 기신의 흉부 내부인 《중앙 공장》입니다[XENO:n ]\n정면에 있는 링이 보이십니까?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "저 링의 하부가 제도 《아그니라타》로[XENO:n ]\n갈 수 있는 전이 장치입니다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "우선은 그곳으로 가도록 하죠[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "《중앙 공장》 내부에는 경비를 위한[XENO:n ]\n자율형 기신병이 배치되어 있습니다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "주의해 주세요[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "자, 준비가 끝났으면 들려줘[XENO:n ]\n지금까지 있었던 일을 말이야[XENO:wait wait=key ][System:PageBreak ]많은 일을 겪은 표정이거든[XENO:n ]\n자, 말해 봐[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel2 sel2=・지금까지 있었던 일을 말한다/・나중에 말한다 ][XENO:del del=all ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "기신계의 결정과 거신계의 결정은[XENO:n ]\n모양이 다르다는 거 아십니까?[XENO:wait wait=key ][System:PageBreak ]제 옆에 있는 게[XENO:n ]\n기신계의 결정입니다[XENO:wait wait=key ][System:PageBreak ]아마 에테르의 흐름이[XENO:n ]\n다르기 때문이겠죠[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:shp shp=19 ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "준비는 됐어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "준비는 됐습니까?[XENO:wait wait=key ][System:PageBreak ]이 갤러해드 요새는[XENO:n ]\n적의 전초 기지입니다[XENO:wait wait=key ][System:PageBreak ]철저히 준비해서[XENO:n ]\n나쁠 건 없겠죠[XENO:wait wait=key ][System:PageBreak ]만반의 준비를 해 두는 게[XENO:n ]\n좋을 겁니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "거신계의 운명은 여러분에게[XENO:n ]\n달려 있습니다[XENO:wait wait=key ][System:PageBreak ]하지만 이번 전투는[XENO:n ]\n저희도 연합군으로 참가하죠[XENO:wait wait=key ][System:PageBreak ]함께 평화를 되찾읍시다![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "연합군 준비로 바쁜 와중에[XENO:n ]\n여기로 보급하러 오겠다고[XENO:wait wait=key ][System:PageBreak ]딕슨 씨가 나섰습니다[XENO:wait wait=key ][System:PageBreak ]아마 슈르크가[XENO:n ]\n걱정됐던 거겠죠[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "연합군 모두가 기대하고 있어[XENO:n ]\n그걸 잊지 말라고[XENO:wait wait=key ][System:PageBreak ]하지만 무리하지는 마[XENO:wait wait=key ][System:PageBreak ]너희들이 있어야[XENO:n ]\n완벽한 승리니까 말이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "딕슨 씨가 돌아가도[XENO:wait wait=key ][System:PageBreak ]일부 대원은 여기 남아서[XENO:n ]\n너희를 서포트할 거야[XENO:wait wait=key ][System:PageBreak ]그러니까 안심하고 준비해[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "나는…[XENO:wait wait=key ][System:PageBreak ]아니, 우리는 너희에게[XENO:n ]\n모든 걸 걸었어[XENO:wait wait=key ][System:PageBreak ]나도 연합군으로서 함께 싸울게[XENO:wait wait=key ][System:PageBreak ]그러니까 함께 승리를 거두자[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

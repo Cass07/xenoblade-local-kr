@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]딕슨의 기척이 느껴진다[XENO:n ]\n녀석이 있는 꼭대기는 이 근처야…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "이 앞으로 나아가면[XENO:n ]\n다시 되돌아올 수 없게 될 거다…[XENO:n ]\n그래도 갈 생각이냐? 슈르크[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "앞으로 나아가겠습니까?"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "예"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "아니요"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "네. 각오는 되어 있어요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "아니요. 조금 더 시간을 주세요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그래. 알겠다[XENO:n ]\n기다리마. 슈르크[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

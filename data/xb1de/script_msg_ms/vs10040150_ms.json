@@ -1,0 +1,29 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ](그게 피오른이었다면…[XENO:n ]\n어째서, 어째서 대답해 주지 않았을까…)[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ](피오른…)[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ][XENO:act act=EVT2 ](그렇지. 단반 씨에게 가자[XENO:n ]\n단반 씨라면…)[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

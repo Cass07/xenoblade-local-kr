@@ -1,0 +1,34 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그럼 나는 방위대 본부에 얼굴을 비쳐야겠다[XENO:n ]\n너는 병기 개발부 연구동으로 가는 거야?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]응. 안 쓰는 파츠를 팔고 나서 가려고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]알았어[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "그럼 다음에 또 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

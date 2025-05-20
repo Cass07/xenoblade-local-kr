@@ -1,0 +1,309 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "단반, 무슨 일 있어?[XENO:n ]\n왠지 기뻐 보이는데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "음, 그래 보여?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "뭐 좋은 일이라도 있었어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "맞아, 피오른이[XENO:n ]\n귀한 걸 줬거든[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "그, 그게 뭐야…?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "신기한 곤충이지?[XENO:n ]\n콜로니 9에 서식하는 거야[XENO:wait wait=key ][System:PageBreak ]가까이서 봐 볼래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]난 벌레가 싫은데…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:sel sel=・사양할게/・보, 보고 싶어 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "미안[XENO:n ]\n벌레는 별로 안 좋아해서…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "아, 그래?[XENO:n ]\n그거 미안하게 됐군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "피오른은 아무렇지도 않대?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "아니, 그 녀석도 좋아하진 않아[XENO:wait wait=key ][System:PageBreak ]어렸을 때 옷 주머니에 넣었더니[XENO:n ]\n불같이 화를 냈었지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "단반, 그건 누구한테 해도[XENO:n ]\n싫어할 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "그, 그렇지. 반성하고 있어[XENO:wait wait=key ][System:PageBreak ]뭐, 그런 추억도 전부 합쳐서[XENO:n ]\n동심으로 돌아간 듯한 기분이 들어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:sel sel=・특이하구나/・그렇구나 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "그런가?[XENO:wait wait=key ][System:PageBreak ]쥬쥬는 어렸을 때[XENO:n ]\n곤충 채집 안 했어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "그 애는 굳이 따지면[XENO:n ]\n동물을 더 좋아해[XENO:wait wait=key ][System:PageBreak ]예전에 어린 혹스를[XENO:n ]\n주워온 적이 있었는데[XENO:wait wait=key ][System:PageBreak ]오다마 씨한테 혼이 났었어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "그래, 겉으로는 귀여워 보여도[XENO:n ]\n자라면 흉포하니까 그럴 수 있지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "또 하나 난감한 게 야채를 싫어하는 건데[XENO:n ]\n이건 아직도 못 고쳤어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "그건 슈르크랑 똑같군[XENO:n ]\n그 녀석도 조금 편식하거든[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "하지만 피오른이 만든 요리는[XENO:wait wait=key ][System:PageBreak ]야채가 가득 들어 있어도[XENO:n ]\n매번 안 남기고 다 먹던데[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "무리해서 그러는 게 아니면[XENO:n ]\n다행일 텐데[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "후훗, 그 두 사람이[XENO:n ]\n많이 신경 쓰이나 보네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "그야 그렇지[XENO:wait wait=key ][System:PageBreak ]나는 너희의[XENO:n ]\n보호자 같은 거니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "그래, 그랬었지[XENO:n ]\n정말 든든해[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "어떤 느낌인지 알 것 같아[XENO:n ]\n라인도 좋아한다고 했었거든[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "그러고 보면 그 녀석[XENO:n ]\n의외로 동물 같은 것도 좋아한단 말이지[XENO:wait wait=key ][System:PageBreak ]멜리아도 좋아하는 것 같던데…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "어머, 그랬어?![XENO:wait wait=key ][System:PageBreak ]그럼 과일은 좋아하려나?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "아니, 과일은 별로 안 좋아한다고 그랬어[XENO:n ]\n나도 너무 단 건 별로야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "그건 아쉽네[XENO:n ]\n난 엄청 좋아하는데…[XENO:wait wait=key ][System:PageBreak ]각자 취향이 다르구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "어때, 카르나. 참고가 됐어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "그래, 고마워[XENO:wait wait=key ][System:PageBreak ]재밌을 것 같으니[XENO:n ]\n다음에 라인한테 과일을 줘 볼게[XENO:wait wait=key ][System:PageBreak ]어떤 반응을 보일까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "잠깐, 대체[XENO:n ]\n뭘 참고한 거야…[XENO:wait wait=key ][System:PageBreak ]뭐, 상관없나[XENO:n ]\n어차피 라인이니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "화, 확실히 희귀한 종류네[XENO:n ]\n콜로니 6에서는 본 적이 없어…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "그 녀석은 내가 좋아하는 곤충을[XENO:n ]\n기억하고 있었던 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "후훗, 그래서 기분이 좋았구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "그야 그렇지. 카르나도[XENO:n ]\n좋아하는 걸 받으면 기쁠 거 아냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "응, 맞아[XENO:wait wait=key ][System:PageBreak ]그 반대면 난처하겠지만…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "그래, 그건 그렇지[XENO:wait wait=key ][System:PageBreak ]나는 과일을 별로 안 좋아해서[XENO:n ]\n받아도 어떻게 해야 할지 난감해[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:sel sel=・마음은 고맙지만 좀 그렇지/・난 벌레가 싫었어 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "그래, 맞아[XENO:wait wait=key ][System:PageBreak ]요전에 슈르크가 고대 기계 부품을[XENO:n ]\n리키한테 줬었는데…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "후훗, 관심 없었겠네[XENO:wait wait=key ][System:PageBreak ]리키는 음식이 아니면[XENO:n ]\n안 기뻐할 것 같지 않아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "그렇겠지. 리키 녀석[XENO:wait wait=key ][System:PageBreak ]나한테 도와 달라는 듯한[XENO:n ]\n시선을 보내더라고[XENO:wait wait=key ][System:PageBreak ]무심코 웃었지 뭐야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "슈르크는[XENO:n ]\n좀 둔한 면이 있지 않아?[XENO:wait wait=key ][System:PageBreak ]그게 장점이기는 한데…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "확실히 그런 면이 있지[XENO:wait wait=key ][System:PageBreak ]그 녀석 피오른에게도[XENO:n ]\n이상한 물건을 준 건 아니겠지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "글쎄? 그럴 때마다[XENO:n ]\n혼났을 것 같긴 한데[XENO:wait wait=key ][System:PageBreak ]역시 저 둘이[XENO:n ]\n신경 쓰이나 보네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "하핫, 뭐 그렇지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]피오른을 믿고 맡길 수 있는 건[XENO:n ]\n슈르크뿐이니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "왜 그래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "아니, 아무것도 아니야[XENO:wait wait=key ][System:PageBreak ]그럼 난 피오른이[XENO:n ]\n기뻐할 만한 걸 찾으러 가 볼까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "그랬어?[XENO:n ]\n그거 미안하게 됐군…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 126,
+      "name": "아니, 그건 괜찮아[XENO:wait wait=key ][System:PageBreak ]그리고 멜리아도 벌레를 싫어하니까[XENO:n ]\n기억해 둬[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 126,
+      "name": "그래. 알았어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 54,
+      "style": 126,
+      "name": "저기 단반, 피오른한테[XENO:n ]\n뭔가 답례를 하는 게 어때?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 126,
+      "name": "음, 그래야지[XENO:wait wait=key ][System:PageBreak ]뭘 줘야 할까…[XENO:n ]\n역시 꽃이 무난하겠지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 126,
+      "name": "그렇지… 피오른이라면[XENO:n ]\n희귀한 음식 재료도 좋아할 것 같은데?[XENO:wait wait=key ][System:PageBreak ]요리를 좋아하니까[XENO:n ]\n솜씨를 발휘해 줄 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 57,
+      "style": 126,
+      "name": "호오…[XENO:n ]\n역시 카르나야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 58,
+      "style": 126,
+      "name": "그럼 나도 같이 도울게[XENO:n ]\n여기 주변에서 찾아볼까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 126,
+      "name": "그래[XENO:n ]\n잘 부탁한다[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

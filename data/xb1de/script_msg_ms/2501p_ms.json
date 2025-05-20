@@ -1,0 +1,154 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:shp shp=37 ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "또 오세요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:shp shp=38 ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "다음에 또 와 줘[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "이런 시기니까 가게는 열어 둘게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:shp shp=39 ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "또 오십시오[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:shp shp=200 ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "너무 무리하지는 마세요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "곶의 병사들이 와 줬어…!\n힘을 합쳐서 쓰러뜨리자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "msg_2501t2am_NP290008_04_006"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "곶에 계시던 분들이\n함께 싸워 주시다니 최고네요![XENO:wait wait=key ][System:PageBreak ]자, 저 녀석을 빨리 쓰러뜨리죠![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "msg_2501t2am_NP290007_05_006"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "곶의 병사들이 계속 가세하고 있습니다\n단번에 끝을 내버리죠![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "msg_2501t2am_NP290009_04_006"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "이 녀석이 마을에 들어가면 끝장이야!\n어떻게 해서든 여기를 사수해![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "msg_2501t2am_NP290010_04_006"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "곶의 병사들과 하나가 된\n우리의 힘을 보여 주겠어요![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "msg_2501t2am_NP290006_05_006"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "곶의 병사들이 와 준건가!\n이걸로 전세 역전이다![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "msg_2501t2am_NP290012_05_006"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "곶의 병사들이\n도와준다니 든든한걸![XENO:wait wait=key ][System:PageBreak ]사람이 이만큼 모였으니까 안개수를\n쓰러뜨릴 수 있을 거야! 가자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "msg_2501t2am_NP290042_07_006"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "곶의 병사들이여!\n함께 안개수를 쓰러뜨리자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "msg_2501t2am_NP290013_05_006"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "지금 특별한 가게를 준비 중이니까\n다음에 다시 와 주세요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "무기와 방어구는\n어떠신가요~[XENO:wait wait=key ][System:PageBreak ]후후, 장난이에요\n깜짝 놀라셨나요?[XENO:wait wait=key ][System:PageBreak ]맹우의 곶에 있을 때는 무기와\n방어구를 파는 가게를 했었거든요[XENO:wait wait=key ][System:PageBreak ]하지만 그란델엔 좋은 가게가 있어서\n저도 가게를 열 필요가 없어졌어요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "계속 이러고 있을 수도 없으니\n그란델 가게라도 도와줘야 하나~[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

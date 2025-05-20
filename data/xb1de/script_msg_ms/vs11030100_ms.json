@@ -1,0 +1,79 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "뭐야, 저건![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]엄청 커다란 검이 꽂혀 있어모![XENO:n ]\n아프겠다모![XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]기신의 대검이다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]이 밑에 펼쳐져 있는 계곡…[XENO:n ]\n이게 전부 검인 거구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "하지만 뭔가 부자연스러워[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "뭔가 신경 쓰이느냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "저기 흐르는 빛을 봐[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "저건 에테르의 빛 아닐까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "마치 뭔가에[XENO:n ]\n빨려 들어가고 있는 것 같아…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]이 앞에는[XENO:n ]\n《갤러해드 요새》가 있을 텐데[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "아버님께 들은 적이 있다[XENO:n ]\n기신은 거신의 에테르를 빨아들여[XENO:n ]\n양분으로 삼고 있다더구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]기신이 에테르를 양분으로…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "그렇군. 녀석들의 에테르 보급원일[XENO:n ]\n가능성이 높겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

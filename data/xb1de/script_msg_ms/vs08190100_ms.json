@@ -1,0 +1,154 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "여기가 묘지야. 안에는 외적의[XENO:n ]\n침입을 막는 방위 기구가 있어[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "묘지가 기능하고 있는 이상[XENO:n ]\n그걸 피할 수는 없으니 각오 단단히 해[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "들어가기 전에 하나만 물을게[XENO:n ]\n알비스, 너도 미래가 보여?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "우리 집안은 대대로[XENO:n ]\n황가를 섬겨 온 예언관의 혈족이야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]미래의 모습을 보고 황국을[XENO:n ]\n위기에서 벗어나게 하는 역할을 하지[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "홈스인 네가 말이야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그래. 그에 대한 내력은 다음에 말할게[XENO:n ]\n우리 집안은 이래저래 복잡하거든[XENO:wait wait=key ][XENO:act act=EVT_EXT10 ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "그리고 미래가 보인다고 해도[XENO:n ]\n조금 특이해[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "여러 가지로 준비…라고나 할까[XENO:n ]\n의식 같은 게 필요해[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]너는 그런 건 없어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "응. 나는 갑자기 머릿속에[XENO:n ]\n그 광경이 떠올라[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "처음에는 막연하지만[XENO:n ]\n그 일이 다가올수록 선명해져[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "그럼 아마 내 힘보다[XENO:n ]\n훨씬 굉장한 걸 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "실제로 나는 지금부터 일어날 거라는[XENO:n ]\n전하의 위기는 보지 못했어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]멜리아의 위기를 못 보다니[XENO:n ]\n그거 예언관 실격 아냐?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]너 의외로 예리하구나[XENO:n ]\n그래서 너희에게 도움을 요청한 거야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "우연히 너희의 위기가 보인 건[XENO:n ]\n운이 좋았다고 할 수 있지[XENO:wait wait=key ][XENO:act act=EVT_EXT12 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]그게 우연이었어?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]하지만 너는 그때 모나드를![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "모나드의 전승은 황가에[XENO:n ]\n예로부터 전해지고 있어[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "거신의 검이었던 모나드는 사용자의 바람[XENO:n ]\n즉, 이렇게 하고 싶다는 마음이야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "그 마음을 증폭시켜서[XENO:n ]\n이 세계의 근원 원리인 에테르에 간섭해[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "간섭해서 그 바람을 실현하는 모양이야[XENO:n ]\n그래서 나는 바랐어. 그게 전부야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "모나드는 그 힘 때문인지 아주 먼 옛날[XENO:n ]\n하이엔터에 의해 봉인되었어[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "긴 세월을 거쳐 이윽고 홈스의 손에 전해졌고[XENO:n ]\n지금은 네 손 안에 있지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "그건 과연 우연일까?[XENO:n ]\n너는 그 의미를 확인할 책임이 있어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "거신의 검을 받은 자로서[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "거신은…[XENO:n ]\n눈을 뜨려 하고 있어[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

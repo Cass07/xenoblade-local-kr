@@ -1,0 +1,159 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "가는 건가?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]네. 여러모로 신세를 졌습니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT3 ]효효효, 혹시 기신계 제도에서[XENO:n ]\n바네아라는 자를 만난다면[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "내 이름을 대거라[XENO:n ]\n아마 힘을 빌려줄 게다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "바네아…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그 사람도 마키나인가요?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]내 딸이다[XENO:n ]\n에길의 근처에 있을 게야[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]잠깐, 그렇다는 건[XENO:n ]\n다시 말해 에길의 동생?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그렇게 되겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그런데 우리에게 힘을?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]그 아이는 에길이 나쁜 길에 빠지지 않길 바라지[XENO:n ]\n그를 막고 싶다고 생각하고 있을 게야[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "분명 자네들의 힘이 되어 줄 게다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "그런 사람이…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]알겠습니다[XENO:n ]\n한번 만나 볼게요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT3 ]효효효, 부탁하마[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]피오른, 잊으면 안 돼[XENO:n ]\n네 몸은 응급처치를 했을 뿐이야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "충분히 싸울 수는 있을 거라[XENO:n ]\n생각하지만 너무 무리하지는 말렴[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "몸이 안 좋아지면 날 찾아와[XENO:wait wait=key ][XENO:act act=EVT1 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]네. 감사합니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그때까지 네 원래 몸을[XENO:n ]\n되찾을 방법을 생각해 볼게[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]가능한 건가요?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]이론적으로는 유전 정보로부터[XENO:n ]\n빠진 부분을 재생하면…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]아니, 희망을 갖게 하는 건 가혹하겠지[XENO:n ]\n솔직히 희망적인 상황은 아니야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]하지만 작은 가능성이라도[XENO:n ]\n되도록 노력해 볼게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]네. 부탁드릴게요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "피오른…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그런 표정 짓지 마![XENO:n ]\n자, 가자![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "제법이구나…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "그 모나드로 어디까지 해낼 것인가[XENO:n ]\n기대하고 있다고 슈르크[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "슈, 슈르크[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "다들! 저 초록색 손톱을 조심해![XENO:n ]\n다른 기신병의 창도![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "저 무기에는 뭔가 비밀이 있어![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]용케 알아챘구나! 꼬맹이[XENO:n ]\n그래. 이 무기는 특별한 거야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "너희 홈스… 아니 거신계의 생물을[XENO:n ]\n썩어 문드러지게 하려고 만든 거니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "뭐라고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "어려운 건 잘 모르겠지만 말이야[XENO:n ]\n저기 흐르는 에테르를 봐[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "에테르라는 건 말하자면 거신의 피거든[XENO:n ]\n이 요새에서 그 혈액을 짜내는 거지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "짜낸 혈액으로 만드는 게[XENO:n ]\n이 초록색 액체라는 거야[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "너희는 어떻게 그런 짓을![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "큭큭큭… 어때? 죽여 주지?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "단반! 이쪽이야말로[XENO:n ]\n나한테 딱 맞는 세계라고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "무무카, 네놈은![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "잡담은 여기까지다! 영웅님[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "썩어 문드러져라![XENO:n ]\n추억이 깃든 이 땅에서!![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

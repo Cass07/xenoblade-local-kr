@@ -1,0 +1,34 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "허억, 허억… 모나드…[XENO:n ]\n간신히 기동시키긴… 했지만…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "이렇게 지치다니[XENO:n ]\n역시 그 기신병의 영향인가…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]뭐지?! 이 소리…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "젠장! 포위당했어![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

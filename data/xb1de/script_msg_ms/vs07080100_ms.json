@@ -1,0 +1,39 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "우선은 노폰족의 마을로 가자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]노폰족?! 우리도 노폰의 마을을 찾고 있었어[XENO:n ]\n거신의 머리에 갈 수 있는 단서가 있을까 해서[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]이곳에 오고부터 신세를 지고 있지[XENO:n ]\n그곳으로 가면 엘트해로 올라갈 방도가 있다[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]알았어. 그럼 그[XENO:n ]\n노폰족의 마을로 가자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "그래. 노폰족은 거목을 거처로 삼고 있으니[XENO:n ]\n이곳에서 길을 따라가면 도착할 것이다[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

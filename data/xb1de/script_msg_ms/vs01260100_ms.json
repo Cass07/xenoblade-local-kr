@@ -1,0 +1,134 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "여기야![XENO:n ]\n도와줘서 고마워, 슈르크[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT19 ]좋아. 바로 회수할 테니까[XENO:n ]\n조금만 기다려[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "한쪽 벽이 전부 에테르 실린더네…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "저기, 어째서 굳이 이런 곳까지[XENO:n ]\n가지러 와야 하는 거야?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "에테르 실린더 공급소는 마을에도 있잖아[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "있긴 하지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "하지만 그걸로는 정제하는 데 시간이 걸리고[XENO:n ]\n실린더화하다 실패할 때도 있으니까[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "반면에 여기에는 정제된 실린더가[XENO:n ]\n아직 이렇게 많으니[XENO:n ]\n직접 만드는 것보다 확실하단 거지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]맞아. 콜로니 9의 대공포나 자주포는[XENO:n ]\n여기 실린더 규격에 맞춰져 있어서[XENO:n ]\n바로 쓸 수 있고 말이야[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]흐음… 그런데 여기는 꽤 옛날부터 있었던 곳이지?[XENO:n ]\n용케도 없어지지 않고 남아 있네[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "아마… 여기에는 뭔가[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "힘을 잃지 않고 계속 보존하기 위한[XENO:n ]\n기술이 사용됐을 거야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "분하지만 우리는 아직[XENO:n ]\n그 비밀을 알 방법이 없어…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "슈르크…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT31 ]하지만 반드시 언젠가 밝혀내고 말겠어[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "과거에 누군가가 만들어 낸 기술이라면[XENO:n ]\n그건 환상이 아니니까[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "분명 우리도 언젠가는 만들 수 있을 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "뭐, 너무 무리하지 않아도 돼[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]필요할 때마다 이걸 가지러 오는 것도[XENO:n ]\n방위대원에겐 좋은 훈련이 되니까![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]슈르크에게 도와달라고 한 주제에[XENO:n ]\n잘난 듯이 말하지 마![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그것보다 실린더는 회수한 거야?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "[XENO:act act=EVT3 ]그래. 확실하게 챙겼지. 땡큐[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]정말… 앞으론 라인 혼자서 와![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]쉿, 잠깐 조용히![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

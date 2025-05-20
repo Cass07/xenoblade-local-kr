@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "후후후…[XENO:n ]\n평안하셨사옵니까. 전하[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "이 목소리는… 로우란인가![XENO:n ]\n어디에 있는 것이냐?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "봐 주십시오…[XENO:n ]\n거신의 심장을…[XENO:n ]\n잔자 님의 생명이 약동하는 모습을…![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]무슨 소리야! 어서 나와![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "저는 여기서 전하를 기다리고 있습니다[XENO:n ]\n꼭 보여 드리고 싶은 게 있거든요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "무능한 친구분들도 함께 오시죠…[XENO:n ]\n환영하겠어요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "후후후…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT15 ]로우란 네 이놈…[XENO:n ]\n무슨 짓을 꾸미고 있는 것이냐?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]괜찮아. 멜리아[XENO:n ]\n자, 거신의 심장으로 가자[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그래…[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

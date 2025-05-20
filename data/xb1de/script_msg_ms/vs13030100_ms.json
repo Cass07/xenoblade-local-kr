@@ -1,0 +1,119 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "이건… 용케[XENO:n ]\n지금까지 버텼구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]무슨 소리야?[XENO:n ]\n심각한 병이라도 있는 거야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]당신은 홈스의 의료 기술에 해박해 보이네[XENO:n ]\n그럼 이렇게 말하면 이해가 될까?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]지금 그녀는 물리적으로[XENO:n ]\n몇 개의 기관을 잃은 상태야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "혹시 얼마 전까지 기신병의[XENO:n ]\n일부였었던 것 아니야?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]그래. 맞아…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그녀는 기신병의 중추 유닛이었어[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "그래서 혈액이 기신병의 기체와[XENO:n ]\n순환하게 되어 있는 거야[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]그럴 수가…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]면역계의 기능은 기신병 쪽에서[XENO:n ]\n관리하는 구조인 것 같아[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "그 때문에 이렇게 약해진 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]나을 수 있는 거지?[XENO:n ]\n치료해 줘. 부탁할게[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]물론이지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]이런 방식은 마키나의 의사로서도[XENO:n ]\n용서할 수 없어[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]이곳의 기술이라면 금방[XENO:n ]\n움직일 수 있게 될 거야. 하지만…[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "그건 기계의 몸으로 살아갈 수 있게 된다는 것[XENO:n ]\n홈스의 몸으로 돌아갈 수 있다는 건 아니야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "상관없어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "난 슈르크의 걸림돌이 되고 싶지 않아[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "기계의 몸이라도 좋으니까[XENO:n ]\n슈르크 곁에서 싸울 수 있게 해 주세요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "피오른…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]맡겨 주렴. 그런 거라면[XENO:n ]\n내가 힘이 되어 줄게[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

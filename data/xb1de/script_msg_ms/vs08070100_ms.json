@@ -1,0 +1,349 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "제1황녀 멜리아 에인션트[XENO:n ]\n지금 막 돌아왔습니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "얼굴을 들어라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "역전의 기사단조차 물리치지 못했던[XENO:n ]\n테레시아를 그대가 쓰러뜨릴 줄이야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "나의 핏줄이 해냈다고[XENO:n ]\n자랑하고 싶을 따름이구나[XENO:wait wait=key ][XENO:act act=EVT1 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "하오나 폐하께서 내려 주신 충신들을[XENO:n ]\n모두 잃었습니다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "제 미숙함 때문입니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "상관없다…고는 하지 않겠지만[XENO:n ]\n어쩔 수 없는 일이었다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "그대를 돕는 것이[XENO:n ]\n그들의 임무였다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "그대의 미숙함과 미력함은[XENO:n ]\n모두 알고 있었느니라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "네…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "원통한 것이냐?[XENO:n ]\n그렇다면 그 마음을 잊지 말거라[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]원통해 할 기회를 준 자들에게[XENO:n ]\n감사를 잊지 말거라[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "폐하… 그 일 말입니다만[XENO:n ]\n제게 도움을 준 자들이 그들 외에 더 있습니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "그대가 데려온[XENO:n ]\n홈스와 노폰 말인가[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "그들이라면 조금 전에[XENO:n ]\n황도 경비대에게 구속하라고 명하였느니라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "슈르크 일행을?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그래. 그 슈르크라는 자가[XENO:n ]\n다루는 무기 때문이다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "슈르크가 다루는 무기?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "모나드 말씀입니까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "역시나…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "만일 그자가 사용하는 무기가 정말 모나드라면[XENO:n ]\n간과할 수는 없구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]어째서입니까?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "황가에 전해 내려오는[XENO:n ]\n고대의 전승이다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "신이 내린 검 모나드[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "그 검은 거신이 선택한 자에게 하사하는[XENO:n ]\n신이 내린 검이지만[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "사악한 심성을 가진 자가 다루면[XENO:n ]\n우리 하이엔터에게 재앙을[XENO:n ]\n가져올 것이라 전해지고 있다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]하이엔터도 선량한 자와 사악한 자가 있다[XENO:n ]\n그것은 홈스나 노폰도 마찬가지[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]더욱이 모나드를[XENO:n ]\n다루는 자라면…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그들이 어둠에 속한 자인지 아닌지[XENO:n ]\n머지않아 신성 예언관의 심문으로 밝혀질 것이다[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]하오면 슈르크 일행이[XENO:n ]\n황도에서 자유로이 행동하는 것은…![XENO:wait wait=key ][XENO:act act=EVT_EXT5 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "…허할 수 없다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "아버님… 아니 폐하![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]슈르크 일행은 결코[XENO:n ]\n사악한 자들이 아닙니다![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]그대는 태자 책립을 앞둔 귀중한 몸이니[XENO:n ]\n심신을 정히 하여 때를 기다리거라[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 125,
+      "name": "폐하…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 125,
+      "name": "…멜리아, 그대는 폐하께서 하신 말씀의 의미를[XENO:n ]\n깨닫지 못하였느냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 125,
+      "name": "오라버니…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 125,
+      "name": "폐하께서는 황태자라 하셨다[XENO:n ]\n다시 말해 너를 인정하신 것이다[XENO:wait wait=key ][XENO:act act=EVT1 ]"
+    },
+    {
+      "$id": 40,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]하이엔터의 다음 황주는[XENO:n ]\n너야. 멜리아[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 125,
+      "name": "제가? 오라버니가 아니라?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그래. 이전부터[XENO:n ]\n폐하께서 내게 이야기하셨지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 43,
+      "style": 125,
+      "name": "그리고 나도 찬성했다[XENO:n ]\n하이엔터를 이끄는 자로서 네가 적합하다고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]실제로 너는 목숨을 바쳐[XENO:n ]\n테레시아를 무찔렀다[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]저는… 저는…![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 125,
+      "name": "멜리아…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]저는 마크나에서 충신들을…[XENO:n ]\n그러한 자에게 황위라니[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 48,
+      "style": 125,
+      "name": "지금은 그들의 유족 앞에서[XENO:n ]\n사죄하고 싶습니다…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 125,
+      "name": "멜리아… 입장상[XENO:n ]\n불가능한 일이란 것은 알고 있을 터다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]네! 알고 있습니다…[XENO:n ]\n물론 알고 있습니다![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 125,
+      "name": "폐하께서 말씀하신 대로 지금은 그저 명복을 빌며[XENO:n ]\n그 훈공을 우리의 마음에 새기자꾸나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]네…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 125,
+      "name": "그대가 주저하는[XENO:n ]\n이유는 잘 안다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 54,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]그러나 가슴을 펴거라![XENO:n ]\n그대에게는 황태자의 자격이 있으니[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 125,
+      "name": "제가… 황태자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 125,
+      "name": "그렇습니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 57,
+      "style": 125,
+      "name": "기록원과 탐구원 모두 만장일치로[XENO:n ]\n폐하의 선택을 지지하고 있습니다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 58,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]재상인 이 로우란 역시[XENO:n ]\n일말의 이의도 없습니다[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 125,
+      "name": "그러한가…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 60,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]황주 폐하께서 내리신 성단이라 해도[XENO:n ]\n저는 의문이 듭니다[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 61,
+      "style": 125,
+      "name": "모나드의 주인… 거신에게 선택받은[XENO:n ]\n전사를 소홀히 대접해도 될는지요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 62,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그대도 그리 생각하는가![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 63,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]네[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 64,
+      "style": 125,
+      "name": "단지… 황공하옵게도 폐하께 과오가[XENO:n ]\n있다고 한들 신하가 정정할 수는 없습니다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 65,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]하오나… 신성 예언관은 다르지요[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 66,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]예언관 공이 슈르크 일행을?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 67,
+      "style": 125,
+      "name": "지금쯤 면담하고 계시겠지요[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

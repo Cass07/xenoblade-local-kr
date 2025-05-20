@@ -1,0 +1,79 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "멜리아 님[XENO:n ]\n이제 떳떳하게 돌아가실 수 있겠군요모[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그래. 신세를 졌구나[XENO:n ]\n그대들의 조력에 감사하마[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]아닙니다모. 덕분에 마크나 일대의[XENO:n ]\n평화를 지킬 수 있었습니다모[XENO:n ]\n감사드려야 할 건 저희 노폰입니다모[XENO:wait wait=key ][XENO:act act=EVT_EXT1 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "촌장님, 멜리아한테는 굉장히 정중하지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT22 ]그러게. 같은 호무호무인데 이 차이는 뭘까~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "마지막으로[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]마을의 장이여, 저들을 엘트해로[XENO:n ]\n올려 보내 주겠느냐? 저들과의 약속이다[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]물론입니다모, 저들도 큰 공룡을[XENO:n ]\n토벌하는데 힘을 빌려준 자들입니다모[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그리고…[XENO:n ]\n멜리아 님의 부탁이라면모[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "바로 위에 있는 자에게 전해 두겠습니다모[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT3 ]고맙구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]촌장의 허락이 떨어졌다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "엘트해로 갈 준비가 됐다면[XENO:n ]\n말을 걸거라. 바로 출발할 테니[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    }
+  ]
+}

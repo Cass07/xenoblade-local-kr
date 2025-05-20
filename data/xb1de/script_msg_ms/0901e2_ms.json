@@ -1,0 +1,269 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "몇 번을 방문해도[XENO:n ]\n신비로운 장소로구나…[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]정말 그래. 먼 옛날에 건축된 걸로는[XENO:n ]\n보이지 않는다니까…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]너희들의 콜로니 주변에도[XENO:n ]\n이런 유적이 있느냐?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]아니, 이렇게 신기한 곳은 없어[XENO:wait wait=key ][System:PageBreak ]맥 멜드 유적도[XENO:n ]\n풍화되어 버렸으니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]흠, 그러한가…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "근데 말이야[XENO:n ]\n저 커다란 구체는 뭐야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]글쎄, 자세한 건[XENO:n ]\n나도 잘 모르겠구나…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:sel sel=・조사해 보고 싶은데/・모른다고? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]사실 우리들[XENO:n ]\n저거 때문에 꽤 고생했거든[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]흠, 저것은 아마[XENO:n ]\n묘지 중추였을 터…[XENO:wait wait=key ][System:PageBreak ]방위 시스템이[XENO:n ]\n작동한 것이었을지도 모르겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]오~ 어떤 식으로 돌아가는 건데?[XENO:n ]\n역시 에테르의 힘인가?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "그렇겠지[XENO:n ]\n사실대로 말하면 나도 놀랐다[XENO:wait wait=key ][System:PageBreak ]고대에 이미 에테르 에너지를[XENO:n ]\n고농도로 추출하는 기술이 있었을 줄이야…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT22 ]그 기술을 홈스에게도…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:sel sel=・알려 줄 수 있어?/・알려 줬으면 좋았을 텐데! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "아쉽지만[XENO:n ]\n우리 기술만으로는[XENO:wait wait=key ][System:PageBreak ]하늘에 도시를 띄우는 건[XENO:n ]\n도저히 불가능하니까 말이야…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]흠, 기술 제공이라면[XENO:n ]\n흔쾌히 해 주마[XENO:wait wait=key ][System:PageBreak ]우리 하이엔터만[XENO:n ]\n독점할 생각은 없으니 말이다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]오! 그거 고마운 얘기인데![XENO:wait wait=key ][System:PageBreak ]그럼 방위대장한테 징벌 임무라고[XENO:wait wait=key ][System:PageBreak ]실린더를 가지러 갈 일도[XENO:n ]\n없어질 테고 말이지…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]음? 그 징벌이라는 건[XENO:n ]\n대체 무엇이냐…?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT18 ]아니, 아무것도 아냐![XENO:n ]\n혼잣말이었어[XENO:wait wait=key ][XENO:act act=EVT_EXT4 ][System:PageBreak ]그럼 언젠가는 우리 콜로니가[XENO:n ]\n하늘을 날게 될 수도 있는 거지?[XENO:wait wait=key ][System:PageBreak ]생각만 해도[XENO:n ]\n두근두근한데![XENO:wait wait=key ][System:PageBreak ]그럼 부탁한다. 멜리아![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]꽤, 꽤나 이야기가 갑작스럽구나…[XENO:wait wait=key ][XENO:act act=EVT_EXT1 ][System:PageBreak ]어찌 되었든 앞으로는 홈스와[XENO:n ]\n하이엔터가 손을 잡고[XENO:wait wait=key ][System:PageBreak ]콜로니를 발전시켜[XENO:n ]\n나가야겠지[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "더 강력한 병기를[XENO:n ]\n만들 수 있었을지도 모르잖아[XENO:wait wait=key ][System:PageBreak ]그러면 우리 콜로니도[XENO:n ]\n그렇게 되지는…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]확실히 그렇겠구나…[XENO:wait wait=key ][XENO:act act=EVT_EXT10 ][System:PageBreak ]그때 우리가 할 수 있는 일이[XENO:n ]\n분명 있었으니…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]미안…[XENO:wait wait=key ][System:PageBreak ]마치 멜리아 잘못이라는 것처럼[XENO:n ]\n말해 버렸네…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]아니, 괜찮다…[XENO:wait wait=key ][System:PageBreak ]그렇기 때문에 앞으로는[XENO:n ]\n홈스와 하이엔터가 서로 협력해[XENO:wait wait=key ][System:PageBreak ]콜로니를 발전시켜야만[XENO:n ]\n한다고 생각한다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT19 ]그래…[XENO:n ]\n그거 정말 고마운 말이야![XENO:wait wait=key ][System:PageBreak ]그럼 방위대장한테 징벌 임무라고[XENO:wait wait=key ][System:PageBreak ]실린더를 가지러 갈 일도[XENO:n ]\n없어지겠어![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]징벌?![XENO:n ]\n라인, 그게 무슨 말이냐?![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT21 ]아!![XENO:n ]\n방금 그건 신경 쓰지 마[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT3 ]그럼 부탁한다. 멜리아![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]뭔가 미심쩍다만…[XENO:n ]\n뭐, 상관없겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]이봐, 너무 공부가[XENO:n ]\n부족한 거 아냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "돌아가겠다![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]농담이라고[XENO:n ]\n그렇게 화낼 건 없잖아![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "훗…[XENO:n ]\n어쩔 수 없는 녀석이로구나[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]탐구원의 견해에 따르면[XENO:n ]\n저것은 묘지의 중추…[XENO:wait wait=key ][System:PageBreak ]방위 시스템이[XENO:n ]\n작동한 것일지도 모르겠구나[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]오호, 먼 옛날에 지어진 건데도[XENO:n ]\n하이엔터의 유적은 대단하네![XENO:wait wait=key ][System:PageBreak ]이 벽면에 적힌 문자도[XENO:n ]\n처음 보는 거고…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]이건 고대 문자로 적혀 있다[XENO:wait wait=key ][System:PageBreak ]거신과 기신이 싸우던 시대의[XENO:n ]\n전승이라고 하더구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:sel sel=・거신과 기신이 서로 싸웠다고?/・그렇게 오래된 기록이 남아 있다고?! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT22 ]먼 옛날부터 거신계와 기신계는[XENO:n ]\n서로 적대했었구나…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]아니, 어째서 이제 알았다는 듯이[XENO:n ]\n반응하는 것이냐?![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT24 ]아… 아니 학교에서[XENO:n ]\n배웠던 것 같기는 한데…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]음, 뭐 됐다…[XENO:wait wait=key ][System:PageBreak ]어쨌든 먼 옛날의 전승이 아닐까[XENO:n ]\n추측하고 있다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]그 말은 뭐가 적혀 있는지[XENO:n ]\n확실하지는 않다는 거네[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]음, 이건[XENO:n ]\n황위를 이은 자가 아니면[XENO:wait wait=key ][System:PageBreak ]해독할 수 없는[XENO:n ]\n암호 같은 것이라고 하던데…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]정말 해독할 수 있겠어? 멜리아가?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]그대에게 그런 말을 듣고 싶지는 않구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]하하하…[XENO:n ]\n그건 그렇겠지…[XENO:wait wait=key ][XENO:act act=EVT4 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]거신과 기신이[XENO:n ]\n싸우던 시대의 유물이나 기록은[XENO:wait wait=key ][System:PageBreak ]거의 남아 있지 않다고 하던데?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]음, 잘 알고 있구나[XENO:wait wait=key ][System:PageBreak ]그만큼 격렬한 전투였다고[XENO:n ]\n전해지고 있지…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]여기 적혀 있는 문자도[XENO:n ]\n분명 중요한 메시지겠지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]그래. 황위를 이은 자만이[XENO:n ]\n해독할 수 있다고 하더구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]호~ 그럼 멜리아도[XENO:n ]\n읽을 수 있게 되는 건가?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]그래[XENO:wait wait=key ][System:PageBreak ]하지만 지금 우리에게는[XENO:n ]\n해야만 하는 일이 있지[XENO:wait wait=key ][System:PageBreak ]그것을 우선해야 하느니라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]그래. 그렇지[XENO:n ]\n열심히 하자고![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

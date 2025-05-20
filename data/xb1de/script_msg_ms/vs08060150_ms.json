@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ](폐하께 테레시아 토벌의 전말을 보고드리고[XENO:n ]\n칙허를 받아야 한다)[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ](슈르크가 기다리고 있으니[XENO:n ]\n서둘러 알현실로 가자)[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

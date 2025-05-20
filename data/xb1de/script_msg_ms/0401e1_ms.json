@@ -1,0 +1,249 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]슈르크, 우리 여행의 계기가 된[XENO:wait wait=key ][System:PageBreak ]그날, 기억하고 있어?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "당연하지. 잊을 리 없잖아[XENO:n ]\n그도 그럴 게…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]응…[XENO:wait wait=key ][System:PageBreak ]그런 일이 일어날 줄은[XENO:n ]\n아무도 예상하지 못했으니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]하지만 요즘 그런 생각이 들어[XENO:wait wait=key ][System:PageBreak ]그날이 오기 전에[XENO:n ]\n내가 모나드를 쥐었더라면…[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:sel sel=・바보 같은 소리 하지 마/・어쩌면 바뀌었을지도 모르지 ][XENO:del del=all ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]설령 미래를 볼 수 있었다 해도[XENO:wait wait=key ][System:PageBreak ]그날 있었던 일을[XENO:n ]\n피할 수 있었을 거라는 보장도 없잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]그건 알고 있지만[XENO:n ]\n생각하지 않을 수가 없어[XENO:wait wait=key ][System:PageBreak ]좀 더 빨리 모나드의 힘을[XENO:n ]\n알아차렸더라면…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]뭐, 그건 그렇지[XENO:wait wait=key ][System:PageBreak ]그랬으면 우리뿐만 아니라[XENO:wait wait=key ][System:PageBreak ]다른 사람들도 슬프지 않은 결과를[XENO:n ]\n맞이할 수 있었을지도 몰라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]그렇지?[XENO:n ]\n그러니까 나는…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:sel sel=・너무 자책하지 마/・그럼 반은 내 책임이야 ][XENO:del del=all ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]딱히 자책하는 건 아니야[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]나는 나만이 할 수 있는 일을 할 거고[XENO:n ]\n그 마음은 변하지 않았으니까[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT22 ]그럼 상관없지만[XENO:n ]\n너는 지나치게 착하니까[XENO:wait wait=key ][System:PageBreak ]무슨 일이 생길 때마다[XENO:n ]\n자기 탓이라고 생각하지 않을까 해서[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]하하, 아무리 그래도[XENO:n ]\n그렇게까지 자만하진 않아[XENO:wait wait=key ][System:PageBreak ]할 수 있는 일에 한계가 있다는 건[XENO:n ]\n나도 잘 알고 있으니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT24 ]뭐, 그렇겠지[XENO:wait wait=key ][System:PageBreak ]그게 바로 우리가 여행을 결심한[XENO:n ]\n이유이기도 할 테니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]응[XENO:wait wait=key ][System:PageBreak ]두 번 다시 누군가에게 우리와 같은[XENO:n ]\n일을 겪게 하고 싶지 않아[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]그러니까 모나드에 의존하지 않고[XENO:n ]\n앞으로는 스스로의 손으로![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]그래![XENO:n ]\n손에 넣자고![XENO:wait wait=key ][System:PageBreak ]우리가 꿈꾸는[XENO:n ]\n최고의 미래를![XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]그러기 위해서는 나 혼자 힘으로는 무리야[XENO:n ]\n그러니까 도와줄 거지?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]돕고 말고 할 문제가 아니야[XENO:wait wait=key ][System:PageBreak ]이 세상에 사는 모두가[XENO:n ]\n힘을 합쳐 싸우는 거야. 그렇잖아?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]그랬지[XENO:wait wait=key ][XENO:act act=EVT_EXT4 ][System:PageBreak ]좋아! 빛나는 미래를 위해[XENO:n ]\n힘내자![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]왜 라인도 책임을 져야 하는데?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]나는 피오른과 한 약속을[XENO:n ]\n깬 적이 있으니까…[XENO:wait wait=key ][System:PageBreak ]네가 다치는 걸[XENO:n ]\n막지 못했어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "그건 별수 없었어[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]그 사람이 날 공격할 거라고[XENO:n ]\n예상했던 사람은 없으니까[XENO:wait wait=key ][System:PageBreak ]미래를 보지도 못했고[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "아냐, 설령 그렇다 해도…[XENO:wait wait=key ][System:PageBreak ]절대로 깨선 안 될 약속을[XENO:n ]\n깼다는 사실은 변하지 않아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]라인…[XENO:n ]\n그렇지 않아![XENO:wait wait=key ][System:PageBreak ]나는 몇 번이고, 몇 번이고[XENO:n ]\n네 덕분에 살았어[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]그러니까 앞으로도 등 뒤를 부탁해[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]그래. 이제 두 번 다시는[XENO:n ]\n그런 실수 안 해![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT4 ]피오른에게[XENO:n ]\n혼나긴 싫으니까 말이지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT22 ]아하하하![XENO:n ]\n그렇네[XENO:wait wait=key ][XENO:act act=EVT_EXT24 ][System:PageBreak ]그럼 라인이 혼나지 않도록[XENO:n ]\n나도 힘내야지![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]그래. 둘이 같이![XENO:n ]\n앞으로도 잘 부탁한다![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]과정은 같았을지 몰라도…[XENO:wait wait=key ][System:PageBreak ]슬픈 일을 겪는 사람이[XENO:n ]\n이렇게까지 나오지는 않았을 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]그래도 말이야[XENO:n ]\n부정적으로 생각해 봤자 의미 없잖아?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]응. 그건 맞는 말이야[XENO:wait wait=key ][System:PageBreak ]하지만 구하지 못한 목숨이[XENO:n ]\n너무 많았어…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "[XENO:sel sel=・그건 그렇지/・별수 없는 거야 ][XENO:del del=all ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]아쉬워. 에길과도[XENO:n ]\n서로 이해할 수 있었을 텐데…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]그것도 자기 운명이라고[XENO:n ]\n말할 수 있을진 모르겠지만[XENO:wait wait=key ][System:PageBreak ]적어도 그 녀석은[XENO:n ]\n만족하지 않았을까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "응…[XENO:n ]\n그랬으면 좋겠다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]틀림없이 만족했을 거야[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]원망하던 우리를[XENO:n ]\n목숨까지 걸고 구해 줬잖아?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]응. 그렇네…[XENO:wait wait=key ][System:PageBreak ]에길의 마음을 헛되게 하지[XENO:n ]\n않기 위해서 힘내야지![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT19 ]그래. 반드시 이기자![XENO:n ]\n이겨서 에길에게[XENO:wait wait=key ][System:PageBreak ]아니, 숨을 거둔 사람들에게[XENO:n ]\n보고해야지![XENO:wait wait=key ][XENO:act act=EVT_EXT21 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]우리들이 얻어낸 미래를![XENO:wait wait=key ][System:PageBreak ]그리고 약속하는 거야[XENO:wait wait=key ][System:PageBreak ]이제 두 번 다시 이런 슬픈 일을[XENO:n ]\n되풀이하지 않겠다고…[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]그래. 반드시 이루자고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]운명이라는 말은[XENO:n ]\n별로 쓰고 싶지 않지만[XENO:wait wait=key ][System:PageBreak ]도저히 손을 쓸 수 없는[XENO:n ]\n일이라는 건 있지…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]그렇지, 분하지만…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "…슈르크, 그날의 맹세는[XENO:n ]\n아직 기억하고 있지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]응[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]하지만 지금은 그게 틀렸다는 걸 느끼고[XENO:n ]\n전혀 다른 생각을 하고 있어[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]그래. 나도 마찬가지야[XENO:wait wait=key ][System:PageBreak ]절대로 용서 못 한다![XENO:n ]\n그렇게만 생각했는데[XENO:wait wait=key ][System:PageBreak ]결국 녀석도 우리처럼[XENO:wait wait=key ][System:PageBreak ]마음속에 커다란 슬픔을[XENO:n ]\n품고 있었던 거니까…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]응. 마지막에 알아차릴 수 있어서[XENO:n ]\n정말 다행이었어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]…그러게[XENO:n ]\n그러니까 그런 녀석을[XENO:wait wait=key ][System:PageBreak ]더 이상 만들어선[XENO:n ]\n안 된다고 생각해[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]나도 그렇게 생각해[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]힘내자, 라인![XENO:n ]\n모든 생명의 미래를 위해![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "설마 땅끝 마을 바로 위가[XENO:n ]\n엘트해였을 줄이야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "바다 밑에 가라앉으면[XENO:n ]\n다시 마을에 도착하려나?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]시험해 볼까?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]아, 아니[XENO:n ]\n관둘게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "왜 그러느냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]안 물어봐? 우리가 감옥섬에[XENO:n ]\n무슨 용건이 있는지[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]홈스가 상층부에 올라오는 일은[XENO:n ]\n좀처럼 없지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "분명 피치 못할 사정이 있겠지만[XENO:n ]\n애석하게도 캐묻는 것은 좋아하지 않는다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT3 ]말은 그렇게 해도[XENO:n ]\n사실은 신경 쓰이는 거 아니야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]무, 무슨 소릴 하는 게냐![XENO:n ]\n무례하구나[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]이제 관계없는 자들이라 할 만한[XENO:n ]\n사이도 아니라고 생각하는데?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]후… 확실히 듣고 보니 그렇구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "그러니까[XENO:n ]\n말해 두고 싶어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그럼 묻도록 하지[XENO:n ]\n어찌하여 감옥섬으로 향하는 것이냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그건…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "그러한가… 기신계가 하층부를[XENO:n ]\n침공했다는 소식은 들었지만[XENO:n ]\n그렇게 심각한 상황이라니[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "그런데도 우리는…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "저기[XENO:n ]\n저건 뭘까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "저건…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "저것이 그대들이[XENO:n ]\n가고자 하는 감옥섬이니라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "저 탑이 감옥섬…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "그래. 그리고[XENO:n ]\n저기가 황도 《아카모트》다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "뭐야! 저거[XENO:n ]\n공중에 떠 있는데?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "외부의 적으로부터 방어하는 데도[XENO:n ]\n그편이 좋기 때문이지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]굉장하네… 어떤 기술을[XENO:n ]\n사용한 거야?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]모른다. 알지 못해도[XENO:n ]\n사는 데 지장은 없다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]모른다니[XENO:n ]\n그럼 무섭지 않아?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]굽는 방법은 몰라도 빵은 먹을 수 있어[XENO:n ]\n그런 거겠지[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "감옥섬에 들어가려면[XENO:n ]\n칙허가 필요하다는 말을 했지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "응[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "우선은 황도로 가야겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]간다니. 어떻게 저기 떠 있는[XENO:n ]\n바위를 건너는데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "이 앞에 전이 장치가 있다[XENO:n ]\n그것을 쓰면 되느니라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]바다를 뚫어 버리질 않나… 전이하질 않나…[XENO:n ]\n상층부는 뭔가 신기하고 무서운 곳이구나[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "[XENO:act act=EVT5 ]뭐 됐어. 가는 법을 알았으니[XENO:n ]\n얼른 황도로 들어가자고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]그건 그렇고…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]왜 그러세요?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 125,
+      "name": "참 삭막하군[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 39,
+      "style": 125,
+      "name": "기신의 침공을 막기 위한[XENO:n ]\n방위 장치…라[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

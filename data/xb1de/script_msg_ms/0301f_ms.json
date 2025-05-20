@@ -1,0 +1,29 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:qst qst=124 ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "더 이상 다가오지 마[XENO:wait wait=key ][System:PageBreak ]모르는 사람을 이 앞으로[XENO:n ]\n보낼 수는 없어[XENO:wait wait=key ][System:PageBreak ]미안해[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "더 이상 다가오지 마[XENO:wait wait=key ][System:PageBreak ]모르는 사람을 이 앞으로[XENO:n ]\n보낼 수는 없어[XENO:wait wait=key ][System:PageBreak ]미안해[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

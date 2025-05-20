@@ -1,0 +1,99 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]모나드는 사람을 벨 수 없다[XENO:n ]\n그것이 봉인인가요?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "그것과 얼굴 사이에 어떤 관계가 있나요?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "그건 자신의 눈으로 확인하도록[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "자, 그 모나드로[XENO:n ]\n나를 이 봉인에서 해방시켜라[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "그리고 모나드를 건네라[XENO:n ]\n내가 이곳에서 모든 봉인을 풀 테니[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "그리하면 모나드는 모든 것을[XENO:n ]\n베는 검이 될 것이다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "베지 못하는 것은… 오로지 신뿐![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]멈추거라! 슈르크![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "멜리아, 어째서…?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]마음에 걸린다. 선조들이 어찌하여[XENO:n ]\n이자를 여기에 봉인했는지![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]하지만 우리에겐 더 큰 힘이 필요해[XENO:n ]\n그건 너도 마찬가지잖아?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "그렇지만…[XENO:n ]\n그건 그렇지만…![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]잠깐만! 이 녀석은 그저[XENO:n ]\n봉인이라는 걸 풀어 주는 것뿐이잖아?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT19 ]그럼 망설일 거 없다니까![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]하지만…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]멜리아, 이해해 줘[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "우리들은 해야만 하는 일이 있어[XENO:n ]\n기신병을 쓰러뜨려야 해![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

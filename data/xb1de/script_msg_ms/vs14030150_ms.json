@@ -1,0 +1,189 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "그 페이스는 여러분을[XENO:n ]\n말살하기 위해 파견된 자[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]무사하셔서 정말 다행입니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]거짓말이야! 가드가 우리를[XENO:n ]\n죽이려 할 리 없어![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "그 사람에게는 홈스였던[XENO:n ]\n[XENO:act act=EVT2 ]기억이 아마 없을 겁니다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]방금 전의 페이스는 거신계의[XENO:n ]\n생명체를 살육할 뿐인 병기[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]그럴 수가!![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]페이스란 붙잡은 홈스의 뇌간 부분과 대사에[XENO:n ]\n필요한 장기를 기신병에 직접 연결시킨 병기[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]완벽한 병기가 되기 위해서는[XENO:n ]\n기억이나 감정은 방해가 됩니다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]하지만 초기에 제조된 페이스는[XENO:n ]\n실험적인 부분이 있었기에[XENO:n ]\n생전의 기억을 가진 자가 대부분[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]때문에 임무 수행에[XENO:n ]\n지장을 초래하는 경우가 많았지만[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "현재 페이스는 생전의 기억 정보가[XENO:n ]\n완전히 삭제되어 있습니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "그건… 혹시 나 때문이야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]아니요. 당신 때문이 아닙니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]무무카… 때문이겠지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "녀석은 우리에게 가진 집착이 너무 강했다[XENO:n ]\n그렇기에 그런 신세가 됐다고 볼 수 있지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]조드라는 녀석도 그런 것 같았어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]네. 그 말대로입니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]거짓말… 거짓말이야…[XENO:n ]\n아아… 가드…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "카르나…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]설명해 주세요. 당신들은…[XENO:n ]\n아니, 에길은 왜 우리를 기신병으로?[XENO:n ]\n뭐가 목적인 거죠?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]당신이 가진 모나드[XENO:n ]\n그것에 대항하기 위해서지요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]역시…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]모나드는 하이엔터나 홈스 다시 말해 거신계의[XENO:n ]\n종족에게는 효력을 발휘하지 못합니다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "1년 전의 전투에서 모나드에게[XENO:n ]\n크게 당한 에길은[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "그 생체를 기신병에 삽입하는 것으로[XENO:n ]\n대항하고자 한 것입니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그렇다. 모나드는 원래 인간을 벨 수 없었다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "하지만 지금은 달라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]잔자의 피를 이은 자는 벨 수 없다는 것이[XENO:n ]\n유일한 약점. 하지만 그 봉인은 잔자에 의해 사라졌죠[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]잔자를 잇는 자?[XENO:n ]\n그 거인은 대체 누구지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "그는 당신들 홈스의 선조입니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]그 녀석이?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "그리고 오라버니[XENO:n ]\n에길의 벗이자 불구대천의 원수[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]……[XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "기신계를 멸망시킨 자가… 바로 잔자입니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]뭐?![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

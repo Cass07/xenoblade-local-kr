@@ -1,0 +1,4394 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:20 ]그래. 일단 그것부터지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:50 ]말해 봐[XENO:n ]\n슈르크가 어떻게든 해 줄 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "라인이랑 함께 말이지![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:20 ]응. 이야기는 그다음이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:50 ]슈르크, 나도 알고 싶어![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "그래. 자세히 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:20 ]그래…[XENO:n ]\n신경 쓰이는 이야기군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:50 ]뭔가 사정이 있는 것 같군[XENO:wait wait=key ][System:PageBreak ]슈르크, 우리가 도울까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "네. 제가 할 수 있는 거라면[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:20 ]그렇네. 나도 듣고 싶어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:50 ]도움이 필요하다면 나도 도울게[XENO:n ]\n괜찮지 슈르크?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "고마워. 카르나[XENO:wait wait=key ][System:PageBreak ]그럼 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:20 ]알쏭달쏭이야모![XENO:n ]\n알아듣게 설명해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:50 ]뭐야모?[XENO:n ]\n슈르크, 모르는 거야모?[XENO:wait wait=key ][System:PageBreak ]음~ 리키도 모르겠어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "물어볼 수밖에 없겠네[XENO:wait wait=key ][System:PageBreak ]저기, 왜 그러세요?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:20 ]그래. 나도 알고 싶구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:50 ]허심탄회하게 이야기하거라[XENO:wait wait=key ][System:PageBreak ]슈르크는 이야기를[XENO:n ]\n잘 들어 주니 말이다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "잠깐 멜리아![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:20 ]그렇네. 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:50 ]라인은 곤란해하는 사람을[XENO:n ]\n가만두질 못하니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "무, 무슨 소리야[XENO:wait wait=key ][System:PageBreak ]듣는 것뿐이라고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:20 ]응. 이야기는 그다음이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:50 ]라인, 좀 더 공손하게…[XENO:wait wait=key ][System:PageBreak ]미안[XENO:n ]\n라인한텐 무리겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "그래그래~ 내가[XENO:n ]\n예절도 모르는 녀석이라 이거지?[XENO:wait wait=key ][System:PageBreak ]뭐 그렇긴 해[XENO:wait wait=key ][System:PageBreak ]그래서 무슨 일인데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:20 ]그래…[XENO:n ]\n신경 쓰이는 이야기군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:50 ]상대의 눈을 봐! 라인[XENO:wait wait=key ][System:PageBreak ]말하고 싶은 게 뭔지\n분명 알 수 있을 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:type type=think ]음……………[XENO:wait wait=key ][System:PageBreak ]미안. 전혀 모르겠어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:20 ]그렇네. 나도 듣고 싶어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:50 ]착하네. 라인[XENO:wait wait=key ][System:PageBreak ]이야기를 듣는 건 중요한 일이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "칫, 엄마처럼 말하지 마[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:20 ]알쏭달쏭이야모![XENO:n ]\n알아듣게 설명해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:50 ]라인, 무슨 말인지 알아모~?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "아, 알다마다![XENO:n ]\n나 참… 날 뭐로 보는 거야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:20 ]그래. 나도 알고 싶구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:50 ]듣고…[XENO:n ]\n책임질 수 있겠느냐. 라인?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "그럼. 물론이지[XENO:wait wait=key ][System:PageBreak ]멜리아가 도와준다면[XENO:n ]\n문제없어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:20 ]그렇네. 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:50 ]응. 사정을 알면[XENO:n ]\n도움을 줄 수 있을 거야[XENO:wait wait=key ][System:PageBreak ]그렇지, 피오른?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "그 말대로야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:20 ]그래. 일단 그것부터지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:50 ]그렇게 금세[XENO:n ]\n참견이나 하고…[XENO:wait wait=key ][System:PageBreak ]슈르크 하나론[XENO:n ]\n모자랐어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "라, 라인![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:20 ]그래…[XENO:n ]\n신경 쓰이는 이야기군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:50 ]슈르크에 관한 거라면[XENO:n ]\n다 알 텐데 말이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "무, 무슨 소리야![XENO:wait wait=key ][System:PageBreak ]그걸 알았으면[XENO:n ]\n내가 이렇게 고생하겠어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:20 ]그렇네. 나도 듣고 싶어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:50 ]피오른은 예상대로[XENO:n ]\n남을 돕는 걸 좋아하는구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "카르나도[XENO:n ]\n도와줘야 해![XENO:wait wait=key ][System:PageBreak ]자세한 사정을 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:20 ]알쏭달쏭이야모![XENO:n ]\n알아듣게 설명해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:50 ]피오른, 리키 이야기도[XENO:n ]\n자세히 듣고 싶어모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "후훗, 리키 이야기는[XENO:n ]\n나중에 한가할 때 들을게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:20 ]그래. 나도 알고 싶구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:50 ][XENO:type type=think ]마치 자기 일처럼[XENO:n ]\n진심으로…[XENO:wait wait=key ][System:PageBreak ]…이게 바로 그녀의 강함인가[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 54,
+      "style": 126,
+      "name": "[XENO:type type=think ]멜리아가 쳐다보는걸…[XENO:wait wait=key ][System:PageBreak ]내가 이상한 소리라도 한 걸까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:20 ]그렇네요[XENO:n ]\n이야기를 들어 봐요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:50 ]일단 이야기를 들어라[XENO:n ]\n단반 씨가 하신 말씀이었죠[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 57,
+      "style": 126,
+      "name": "이해했나 보구나. 슈르크[XENO:wait wait=key ][System:PageBreak ]아무튼 이야기를[XENO:n ]\n한번 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 58,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:20 ]그래. 일단 그것부터지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:50 ]암암. 나랑 단반이 들어 줄게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 60,
+      "style": 126,
+      "name": "그래. 한번 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 61,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:20 ]응! 이야기는 그다음이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 62,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:50 ]오빠! 또 성가신 일을[XENO:n ]\n떠맡으려고?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 63,
+      "style": 126,
+      "name": "내가 누구 오빠였더라?[XENO:wait wait=key ][System:PageBreak ]원래부터 이런 성격이라서 말이야[XENO:n ]\n자, 한번 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 64,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:20 ]그렇네. 나도 듣고 싶어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 65,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:50 ][XENO:type type=think ]그렇구나[XENO:wait wait=key ][System:PageBreak ]영웅이라는 칭호는 세계를 구했다고[XENO:n ]\n주어지는 것만은 아니었네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 66,
+      "style": 126,
+      "name": "무슨 소리야?[XENO:wait wait=key ][System:PageBreak ]카르나도 그렇게 할 거잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 67,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:20 ]알쏭달쏭이야모![XENO:n ]\n알아듣게 설명해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 68,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:50 ]단반은 착해모[XENO:wait wait=key ][System:PageBreak ]고민하는 사람을[XENO:n ]\n그냥 지나치지 않아모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 69,
+      "style": 126,
+      "name": "이런 시기일수록[XENO:n ]\n서로 돕고 살아야지[XENO:wait wait=key ][System:PageBreak ]자, 한번 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 70,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:20 ]그래. 나도 알고 싶구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 71,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:50 ][XENO:type type=think ]이렇게 서로를 돕는 것[XENO:n ]\n그게 바로 홈스의 강함이다[XENO:wait wait=key ][System:PageBreak ]하나 우리 하이엔터는…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 72,
+      "style": 126,
+      "name": "너무 고민할 것 없어. 멜리아[XENO:wait wait=key ][System:PageBreak ]자기 감정에 솔직해지는 것[XENO:n ]\n그게 가장 중요한 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 73,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:20 ]그렇네. 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 74,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:50 ]카르나, 나도 도울게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 75,
+      "style": 126,
+      "name": "고마워. 슈르크[XENO:wait wait=key ][System:PageBreak ]일단 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 76,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:20 ]그래. 일단 그것부터지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 77,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:50 ]카르나도 모르겠어?[XENO:wait wait=key ][System:PageBreak ]나도 영 모르겠단 말이지[XENO:n ]\n그렇군. 카르나도 모르는구나~![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 78,
+      "style": 126,
+      "name": "[XENO:type type=think ]그런 소리를 들으니[XENO:n ]\n마음에 걸리는걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 79,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:20 ]응. 이야기는 그다음이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 80,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:50 ][XENO:type type=think ]굉장히 침착한 대응이네[XENO:wait wait=key ][System:PageBreak ]카르나는 뭐랄까…[XENO:n ]\n굉장히 성숙한 느낌이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 81,
+      "style": 126,
+      "name": "갑자기 왜 그래 피오른?[XENO:n ]\n자, 함께 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 82,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:20 ]그래…[XENO:n ]\n신경 쓰이는 이야기군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 83,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:50 ]카르나, 너도 도울 생각이지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 84,
+      "style": 126,
+      "name": "후훗, 너도 마찬가지잖아?[XENO:wait wait=key ][System:PageBreak ]자. 계속 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 85,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:20 ]알쏭달쏭이야모![XENO:n ]\n알아듣게 설명해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 86,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:50 ]리키도 모르겠어모[XENO:n ]\n그러니 카르나도 안심해모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 87,
+      "style": 126,
+      "name": "그래. 고마워[XENO:wait wait=key ][System:PageBreak ]그럼 그 의문을[XENO:n ]\n풀러 가 볼까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 88,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:20 ]그래. 나도 알고 싶구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 89,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:50 ]그래. 말해 보거라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 90,
+      "style": 126,
+      "name": "[XENO:type type=think ]말해 보거라…라니[XENO:wait wait=key ][System:PageBreak ]하지만 그게 멜리아의 매력이지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 91,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:20 ]그렇네. 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 92,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:50 ]역시 용사 리키야![XENO:n ]\n곤란해하는 사람을 그냥 지나치지 않네![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 93,
+      "style": 126,
+      "name": "그 말대로야모![XENO:wait wait=key ][System:PageBreak ]자, 듣자모[XENO:n ]\n함께 듣자모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 94,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:20 ]그래. 일단 그것부터지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 95,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:50 ]나 참…[XENO:n ]\n말만 그럴싸하게 하고[XENO:wait wait=key ][System:PageBreak ]결국 남한테 떠넘기는 건 아니지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 96,
+      "style": 126,
+      "name": "무슨 말을 하는 거야모?[XENO:wait wait=key ][System:PageBreak ]누가 떠넘겨모?[XENO:wait wait=key ][System:PageBreak ]걱정 마모[XENO:n ]\n일단 이야기를 듣자모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 97,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:20 ]응. 이야기는 그다음이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 98,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:50 ]장하네! 리키[XENO:n ]\n도와주려고?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 99,
+      "style": 126,
+      "name": "물론이지모![XENO:n ]\n리키는 용사야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 100,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:20 ]그래…[XENO:n ]\n신경 쓰이는 이야기군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 101,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:50 ]나도 듣고 싶군[XENO:n ]\n괜찮지 리키?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 102,
+      "style": 126,
+      "name": "용사와 영웅의 콜라보야모![XENO:wait wait=key ][System:PageBreak ]금방 해결될 거야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 103,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:20 ]그렇네. 나도 듣고 싶어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 104,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:50 ]리키, 이야기를 들을 거면[XENO:n ]\n진지하게 들어야 해[XENO:wait wait=key ][System:PageBreak ]다 들어 놓고[XENO:n ]\n못 들은 척하기 없기야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 105,
+      "style": 126,
+      "name": "[XENO:type type=anger ]뜨끔![XENO:wait wait=key ][System:PageBreak ]카르나, 그건 오해야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 106,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:20 ]그래. 나도 알고 싶구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 107,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:50 ]보다시피 리키는[XENO:n ]\n신뢰할 만한 용사다[XENO:wait wait=key ][System:PageBreak ]염려 말고 이야기해도 좋다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 108,
+      "style": 126,
+      "name": "역시 멜리아야모[XENO:n ]\n날 잘 알고 있어모[XENO:wait wait=key ][System:PageBreak ]자, 말해 봐모[XENO:n ]\n용사 리키가 도와줄게모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 109,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:20 ]그렇네. 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 110,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:50 ]멜리아 말대로[XENO:n ]\n이것만으론 알기 힘든걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 111,
+      "style": 126,
+      "name": "역시 그렇군[XENO:wait wait=key ][System:PageBreak ]자세한 사정을 듣고…[XENO:n ]\n도울지 말지를 결정해야겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 112,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:20 ]그래. 일단 그것부터지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 113,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:50 ][XENO:type type=think ]상세하게…라[XENO:wait wait=key ][System:PageBreak ]뭐랄까[XENO:n ]\n멜리아는 참 근엄하단 말이지[XENO:wait wait=key ][System:PageBreak ]어라?[XENO:n ]\n나 설마 멜리아를?[XENO:wait wait=key ][System:PageBreak ]에이, 말도 안 돼[XENO:n ]\n그럴 리가 없지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 114,
+      "style": 126,
+      "name": "왜 그러느냐?[XENO:n ]\n라인도 자세히 듣고 싶은 것 아니냐?[XENO:wait wait=key ][System:PageBreak ]굳이 대답할 필요까진 없다[XENO:n ]\n계속해서 듣도록 하지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 115,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:20 ]응. 이야기는 그다음이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 116,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:50 ]나는 조~금 알 것 같은데[XENO:wait wait=key ][System:PageBreak ]분명 그런 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 117,
+      "style": 126,
+      "name": "[XENO:type type=think ]음[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 118,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:20 ]그래…[XENO:n ]\n신경 쓰이는 이야기군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 119,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:50 ]멜리아, 나도 함께 듣도록 하지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 120,
+      "style": 126,
+      "name": "고맙구나[XENO:wait wait=key ][System:PageBreak ]아마 곤란한 사정이[XENO:n ]\n있는 거겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 121,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:20 ]그렇네. 나도 듣고 싶어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 122,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:50 ]멜리아는 적당히 말하는 사람보단[XENO:n ]\n확실하게 말하는 사람이 좋지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 123,
+      "style": 126,
+      "name": "무, 무슨 소리지?[XENO:wait wait=key ][System:PageBreak ]그것보다도 지금은[XENO:n ]\n이자의 이야기를 들을 때다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 124,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:20 ]알쏭달쏭이야모![XENO:n ]\n알아듣게 설명해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 125,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:50 ]멜리아가 듣는다면[XENO:n ]\n리키도 함께 들을게모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 126,
+      "style": 126,
+      "name": "좋아. 계속하거라[XENO:wait wait=key ][System:PageBreak ]리키와 내가 고민을 들어 줄 테니[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 127,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:-20 ]뭐, 이럴 때도 있는 거겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 128,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:-50 ]뭐야, 슈르크![XENO:n ]\n도와주자고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 129,
+      "style": 126,
+      "name": "지금은 안 돼… 미안[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 130,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:-20 ]으음… 어쩔 수 없지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 131,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:-50 ]슈르크?! 도와주자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 132,
+      "style": 126,
+      "name": "미안…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 133,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:-20 ]그래…[XENO:n ]\n무리할 순 없겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 134,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:-50 ]왜 그러냐 슈르크?[XENO:n ]\n돕지 않을 건가?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 135,
+      "style": 126,
+      "name": "죄송해요[XENO:n ]\n지금은 무리예요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 136,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:-20 ]뭐… 어쩔 수 없지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 137,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:-50 ]듣기만 하다니[XENO:n ]\n너무한 거 아냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 138,
+      "style": 126,
+      "name": "응… 미안[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 139,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:-20 ]맞아모. 무리야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 140,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:-50 ]슈르크, 노폰은 정이 중요해모![XENO:wait wait=key ][System:PageBreak ]거절하면 안 돼모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 141,
+      "style": 126,
+      "name": "미안[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 142,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:-20 ]사명을 위해…[XENO:n ]\n지금은 어쩔 수 없다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 143,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:-50 ]이해는 가지만…[XENO:n ]\n슈르크, 그건 잘못된 선택이다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 144,
+      "style": 126,
+      "name": "나도 알고 있어[XENO:wait wait=key ][System:PageBreak ]하지만 지금은 안 돼[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 145,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:-20 ]응. 다음 기회에…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 146,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:-50 ]오늘 좀 이상해. 라인[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 147,
+      "style": 126,
+      "name": "미안…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 148,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:-20 ]으음… 어쩔 수 없지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 149,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:-50 ]라인은 의외로 쌀쌀맞네[XENO:wait wait=key ][System:PageBreak ]흠~ 뭐 나랑은 상관없지만[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 150,
+      "style": 126,
+      "name": "쳇, 미안하게 됐어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 151,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:-20 ]그래…[XENO:n ]\n무리할 순 없겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 152,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:-50 ]무슨 소리야?![XENO:n ]\n너답지 않군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 153,
+      "style": 126,
+      "name": "뭐라고 해야 할지…[XENO:wait wait=key ][System:PageBreak ]미안[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 154,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:-20 ]뭐… 어쩔 수 없지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 155,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:-50 ]라인, 조금이나마[XENO:n ]\n기대했었는데[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 156,
+      "style": 126,
+      "name": "그렇게 쳐다보지 마[XENO:wait wait=key ][System:PageBreak ]아무튼 안 돼[XENO:n ]\n지금은 아무튼 무리야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 157,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:-20 ]맞아모. 무리야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 158,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:-50 ]남자답지 않아모. 라인![XENO:wait wait=key ][System:PageBreak ]남자라면 곤란해하는 사람을[XENO:n ]\n내버려 둬선 안 돼모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 159,
+      "style": 126,
+      "name": "입이 열 개라도 할 말이 없군[XENO:n ]\n미안하게 됐어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 160,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:-20 ]사명을 위해…[XENO:n ]\n지금은 어쩔 수 없다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 161,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:-50 ]왜 그러느냐?[XENO:wait wait=key ][System:PageBreak ]의리와 정이[XENO:n ]\n유일한 장점 아니었느냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 162,
+      "style": 126,
+      "name": "저기, 그건 좀 심하잖아… 멜리아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 163,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:-20 ]응. 다음 기회에…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 164,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:-50 ]갑자기 왜 그래?[XENO:wait wait=key ][System:PageBreak ]안 도와줄 거야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 165,
+      "style": 126,
+      "name": "미안. 지금은 좀…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 166,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:-20 ]뭐, 이럴 때도 있는 거겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 167,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:-50 ]뭐야, 곤란해하는 사람을[XENO:n ]\n내버려 둘 거야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 168,
+      "style": 126,
+      "name": "나라고 다 도울 수는 없어[XENO:wait wait=key ][System:PageBreak ]이런 날도 있는 거지![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 169,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:-20 ]그래…[XENO:n ]\n무리할 순 없겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 170,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:-50 ]네가 그렇다면[XENO:n ]\n뭔가 이유가 있겠지[XENO:wait wait=key ][System:PageBreak ]하지만 이대로 괜찮다는 건 아니야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 171,
+      "style": 126,
+      "name": "알고 있어[XENO:n ]\n꼭 돌아올 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 172,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:-20 ]뭐… 어쩔 수 없지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 173,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:-50 ]이런 애매한 대답을 하다니[XENO:n ]\n피오른, 무슨 고민이라도 있어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 174,
+      "style": 126,
+      "name": "아니. 그런 거 없어[XENO:wait wait=key ][System:PageBreak ]미안. 지금은 안 될 것 같아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 175,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:-20 ]맞아모. 무리야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 176,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:-50 ]피오른, 거절은 좋지 않아모[XENO:wait wait=key ][System:PageBreak ]곤란해하는 사람이 슬퍼해모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 177,
+      "style": 126,
+      "name": "네 말이 맞아. 리키[XENO:wait wait=key ][System:PageBreak ]하지만 지금은 안 돼[XENO:wait wait=key ][System:PageBreak ]미안[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 178,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:-20 ]사명을 위해…[XENO:n ]\n지금은 어쩔 수 없다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 179,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:-50 ]정말 그걸로 괜찮은 것이냐?[XENO:n ]\n슈르크라면 어떻게 할 것 같으냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 180,
+      "style": 126,
+      "name": "슈르크하곤 상관없잖아![XENO:wait wait=key ][System:PageBreak ]내가 스스로 결정한 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 181,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:-20 ][XENO:type type=think ]단반 씨[XENO:n ]\n몸 상태가 안 좋으신가?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 182,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:-50 ]단반 씨…[XENO:n ]\n언젠가 도울 날이 오겠죠?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 183,
+      "style": 126,
+      "name": "물론. 언젠가 반드시…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 184,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:-20 ]뭐, 이럴 때도 있는 거겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 185,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:-50 ]단반은 결코 포기하지 않는[XENO:n ]\n따뜻하고 강한 남자 아니었어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 186,
+      "style": 126,
+      "name": "나도 평범한 사람에 불과해[XENO:n ]\n면목 없군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 187,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:-20 ]으음… 어쩔 수 없지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 188,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:-50 ]뭐야 그게![XENO:n ]\n오빠답지 않아![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 189,
+      "style": 126,
+      "name": "그래…[XENO:n ]\n네 말이 맞아. 피오른[XENO:wait wait=key ][System:PageBreak ]미안하다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 190,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:-20 ]이럴 수가…![XENO:wait wait=key ][System:PageBreak ]천하의 단반도[XENO:n ]\n거절할 때가 있구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 191,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:-50 ]그렇구나…[XENO:wait wait=key ][System:PageBreak ]그래도 조금 안심했어[XENO:n ]\n너도 평범한 사람인 걸 알았으니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 192,
+      "style": 126,
+      "name": "그렇게 말해 주니 고맙군…[XENO:n ]\n면목 없다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 193,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:-20 ]맞아모. 무리야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 194,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:-50 ]단반, 나쁜 녀석![XENO:n ]\n거절하면 안 돼모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 195,
+      "style": 126,
+      "name": "무슨 일이든 경솔해선 안 돼[XENO:n ]\n안 그래 리키?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 196,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:-20 ]사명을 위해…[XENO:n ]\n지금은 어쩔 수 없다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 197,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:-50 ]진심인 것이냐. 단반?[XENO:wait wait=key ][System:PageBreak ]내일 당장 이 세계가[XENO:n ]\n사라질지도 모른다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 198,
+      "style": 126,
+      "name": "그래[XENO:n ]\n명심해 두지. 멜리아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 199,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:-20 ]응. 다음 기회에…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 200,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:-50 ]카르나?![XENO:n ]\n포기하는 거야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 201,
+      "style": 126,
+      "name": "미안. 슈르크[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 202,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:-20 ]뭐, 이럴 때도 있는 거겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 203,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:-50 ]카르나, 나도 도울게[XENO:n ]\n그래도 안 될까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 204,
+      "style": 126,
+      "name": "고마워. 라인[XENO:wait wait=key ][System:PageBreak ]하지만 지금은 안 돼[XENO:n ]\n용서해 줘[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 205,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:-20 ]으음… 어쩔 수 없지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 206,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:-50 ]거절하려고?![XENO:wait wait=key ][System:PageBreak ]내가 아는 카르나는…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 207,
+      "style": 126,
+      "name": "아쉽지만[XENO:n ]\n그건 착각이었나 봐[XENO:wait wait=key ][System:PageBreak ]농담이야[XENO:wait wait=key ][System:PageBreak ]미안… 피오른[XENO:n ]\n지금은 눈감아 줘[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 208,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:-20 ]그래…[XENO:n ]\n무리할 순 없겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 209,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:-50 ]카르나, 이 기회를 놓치면[XENO:n ]\n다음은 없을지도 몰라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 210,
+      "style": 126,
+      "name": "알고 있어…[XENO:n ]\n그렇지만 미안해…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 211,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:-20 ]맞아모. 무리야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 212,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:-50 ]카르나![XENO:n ]\n돕지 않는 건 좋지 않아모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 213,
+      "style": 126,
+      "name": "리키, 이해해 줘[XENO:n ]\n지금은 안 돼[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 214,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:-20 ]사명을 위해…[XENO:n ]\n지금은 어쩔 수 없다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 215,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:-50 ]실망이구나. 카르나[XENO:n ]\n홈스의 인연은 겨우 그 정도인가?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 216,
+      "style": 126,
+      "name": "멜리아…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 217,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:-20 ]응. 다음 기회에…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 218,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:-50 ]도와주자! 리키[XENO:n ]\n왜 무리라고 하는 건데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 219,
+      "style": 126,
+      "name": "무리인 건 무리야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 220,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:-20 ]뭐, 이럴 때도 있는 거겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 221,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:-50 ]설마 별생각 없이[XENO:n ]\n대답한 거야?[XENO:wait wait=key ][System:PageBreak ]그럼 안 되지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 222,
+      "style": 126,
+      "name": "그, 그런 거 아니야모[XENO:wait wait=key ][System:PageBreak ]당장은 무리라고[XENO:n ]\n생각한 것뿐이야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 223,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:-20 ]뭐… 어쩔 수 없지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 224,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:-50 ]아쉽네~ 리키[XENO:wait wait=key ][System:PageBreak ]도와줬으면[XENO:n ]\n상을 받을 수도 있었을 텐데[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 225,
+      "style": 126,
+      "name": "상?![XENO:wait wait=key ][System:PageBreak ]상은 받고 싶어모![XENO:n ]\n그럼 나중에 다시 갈 거야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 226,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:-20 ]그래…[XENO:n ]\n무리할 순 없겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 227,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:-50 ]무리인가… 리키는[XENO:n ]\n이런 녀석이 아니라고 생각했는데[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 228,
+      "style": 126,
+      "name": "이, 이런 녀석 아니야모![XENO:n ]\n하지만 지금은 진짜로 무리야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 229,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:-20 ]그래. 어쩔 수 없지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 230,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:-50 ]리키, 동료가 있다는 걸[XENO:n ]\n잊은 건 아니지?[XENO:wait wait=key ][System:PageBreak ]쉽게 포기하면 안 돼[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 231,
+      "style": 126,
+      "name": "하지만 역시[XENO:n ]\n지금은 무리야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 232,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:-20 ]사명을 위해…[XENO:n ]\n지금은 어쩔 수 없다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 233,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:-50 ]부탁이라면 거절하지 않는 것이[XENO:n ]\n리키라고 생각했는데…[XENO:wait wait=key ][System:PageBreak ]내가 과대평가한 모양이구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 234,
+      "style": 126,
+      "name": "히잉~ 멜리아한테[XENO:n ]\n그런 소리 들으면 슬퍼모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 235,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:-20 ]응. 다음 기회에…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 236,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:-50 ]어째서?![XENO:n ]\n포기하면 안 돼 멜리아![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 237,
+      "style": 126,
+      "name": "용서하거라. 슈르크[XENO:n ]\n잠깐 생각해 보고 싶구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 238,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:-20 ]뭐, 이럴 때도 있는 거겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 239,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:-50 ]뭐야![XENO:n ]\n그럼 내가 대신 할래[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 240,
+      "style": 126,
+      "name": "사명을 착각하지 말거라. 라인[XENO:n ]\n지금은 때가 아니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 241,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:-20 ]으음… 어쩔 수 없지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 242,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:-50 ]지금은 안 된다니[XENO:n ]\n그럼 대체 언제 되는데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 243,
+      "style": 126,
+      "name": "그건 모른다…[XENO:n ]\n언젠가 우리들이 힘을 갖췄을 때겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 244,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:-20 ]그래…[XENO:n ]\n무리할 순 없겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 245,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:-50 ]…네 말이 맞아. 멜리아[XENO:wait wait=key ][System:PageBreak ]하지만 더 중요한 것도 있어[XENO:n ]\n안 그래 멜리아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 246,
+      "style": 126,
+      "name": "그 말대로다[XENO:wait wait=key ][System:PageBreak ]하지만 지금은 어쩔 수 없구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 247,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:-20 ]뭐… 어쩔 수 없지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 248,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:-50 ]잠깐만![XENO:wait wait=key ][System:PageBreak ]곤란해 보이는 사람을 모른 척하다니[XENO:n ]\n이게 멜리아의 방식이야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 249,
+      "style": 126,
+      "name": "그럴 리가[XENO:n ]\n나도 돕고 싶은 마음은 굴뚝같다[XENO:wait wait=key ][System:PageBreak ]하지만 지금은 사명이 있다[XENO:n ]\n우리는 그 일을 끝내야만 하느니라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 250,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:-20 ]맞아모. 무리야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 251,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:-50 ]사명은 중요해모[XENO:wait wait=key ][System:PageBreak ]하지만 멜리아[XENO:n ]\n너무 매정해모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 252,
+      "style": 126,
+      "name": "그래. 미안하구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 253,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:20 ]그래! 기대하라고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 254,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:50 ]나랑 슈르크가 함께라면[XENO:n ]\n천하무적이지[XENO:wait wait=key ][System:PageBreak ]안심하고 기다려![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 255,
+      "style": 126,
+      "name": "기합 넣고 가자. 라인![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 256,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:20 ]그래. 힘내자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 257,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:50 ]슈르크, 조심해야 해[XENO:n ]\n너무 무리하지 말고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 258,
+      "style": 126,
+      "name": "괜찮아![XENO:n ]\n피오른이 있으니까![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 259,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:20 ]알았다[XENO:n ]\n나도 최선을 다하도록 하지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 260,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:50 ]좋아. 슈르크![XENO:n ]\n오랜만에 해 볼까![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 261,
+      "style": 126,
+      "name": "네![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 262,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:20 ]그래. 나도 도울게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 263,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:50 ]그래. 최선을 다하자![XENO:wait wait=key ][System:PageBreak ]걱정 마, 가벼운 상처쯤은[XENO:n ]\n내가 바로 낫게 해 줄 테니까![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 264,
+      "style": 126,
+      "name": "고마워. 카르나[XENO:n ]\n너만 믿을게![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 265,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:20 ]용사 리키의 활약 똑똑히 봐라모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 266,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:50 ]슈르크가 마음만 먹으면[XENO:n ]\n금방 끝나모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 267,
+      "style": 126,
+      "name": "리키의 힘도 믿고 있어![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 268,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:20 ]그래. 어서 문제를 해결하자꾸나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 269,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:50 ]나도 돕겠다. 슈르크[XENO:n ]\n내 힘을 마음껏 쓰도록 하거라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 270,
+      "style": 126,
+      "name": "고마워. 멜리아![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 271,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:20 ]응. 반드시 성공시키자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 272,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:50 ]바로 그거야. 라인![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 273,
+      "style": 126,
+      "name": "그래. 슈르크![XENO:n ]\n네 힘도 빌리도록 하지![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 274,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:20 ]그래. 힘내자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 275,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:50 ]얼른 끝낸다니[XENO:n ]\n라인은 정말 허풍쟁이라니까[XENO:wait wait=key ][System:PageBreak ]그렇지만 나도 질 순 없지![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 276,
+      "style": 126,
+      "name": "헤헷, 피오른한테 질 순 없지![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 277,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:20 ]알았다[XENO:n ]\n나도 최선을 다하도록 하지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 278,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:50 ]여유로워 보이는구나. 라인[XENO:n ]\n하지만 방심은 금물이다![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 279,
+      "style": 126,
+      "name": "알고 있다고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 280,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:20 ]그래. 나도 도울게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 281,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:50 ]의욕이 넘치는 건 좋지만 일은[XENO:n ]\n확실하고 신중하며 정확하게 해야 해[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 282,
+      "style": 126,
+      "name": "당연하지![XENO:wait wait=key ][System:PageBreak ]…아니다. 역시 신중한 건[XENO:n ]\n카르나한테 맡길게![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 283,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:20 ]용사 리키의 활약 똑똑히 봐라모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 284,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:50 ]역시 라인이야모![XENO:n ]\n상을 얼른 받을 속셈이야모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 285,
+      "style": 126,
+      "name": "역시 뭘 아는군![XENO:wait wait=key ][System:PageBreak ]아니, 그게 아니라 이건 봉사야[XENO:n ]\n더 나은 세상을 위한 봉사![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 286,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:20 ]그래. 어서 문제를 해결하자꾸나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 287,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:50 ]그대의 무식한 힘[XENO:n ]\n하나만큼은 믿고 있다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 288,
+      "style": 126,
+      "name": "이봐, 잠깐만[XENO:n ]\n무식한은 안 붙여도 되잖아?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 289,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:20 ]응. 반드시 성공시키자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 290,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:50 ]응![XENO:n ]\n피오른, 함께 힘내자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 291,
+      "style": 126,
+      "name": "함께…[XENO:wait wait=key ][System:PageBreak ]응![XENO:n ]\n힘내자 슈르크![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 292,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:20 ]그래! 기대하라고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 293,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:50 ]좋아. 피오른 혼자서는 걱정되니까[XENO:n ]\n나도 함께 가 줄게![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 294,
+      "style": 126,
+      "name": "부탁한 적 없거든![XENO:wait wait=key ][System:PageBreak ]뭐, 고맙긴 하지만[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 295,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:20 ]알았다[XENO:n ]\n나도 최선을 다하도록 하지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 296,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:50 ]오빠로서[XENO:n ]\n여동생을 혼자 보낼 순 없지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 297,
+      "style": 126,
+      "name": "네네[XENO:wait wait=key ][System:PageBreak ]이렇게 된 이상[XENO:n ]\n제대로 도와줘야 해![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 298,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:20 ]그래. 나도 도울게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 299,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:50 ]좋은 대답이야. 피오른![XENO:n ]\n단숨에 끝내 버리자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 300,
+      "style": 126,
+      "name": "네![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 301,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:20 ]용사 리키의 활약 똑똑히 봐라모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 302,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:50 ][XENO:type type=anger ]피오른이 한다면 리키도 한다모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 303,
+      "style": 126,
+      "name": "고마워. 리키[XENO:n ]\n그럼 가 볼까![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 304,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:20 ]그래. 어서 문제를 해결하자꾸나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 305,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:50 ]저도 힘낼게요![XENO:wait wait=key ][System:PageBreak ]…살짝 흉내 내 봤다만[XENO:n ]\n신경 쓰지 말거라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 306,
+      "style": 126,
+      "name": "아냐, 괜찮은걸?[XENO:n ]\n함께 힘내자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 307,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:20 ]네. 반드시 성공시켜요![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 308,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:50 ]단반 씨가 도와주신다면[XENO:n ]\n안심이죠![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 309,
+      "style": 126,
+      "name": "그래. 기대에 부응해야겠군![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 310,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:20 ]그래! 기대하라고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 311,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:50 ]그래. 단반한테 맡기면[XENO:n ]\n금방 끝날 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 312,
+      "style": 126,
+      "name": "사람의 힘엔 한계가 있는 법[XENO:wait wait=key ][System:PageBreak ]네 힘도 필요하다[XENO:n ]\n부탁한다. 라인![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 313,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:20 ]그래. 힘내자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 314,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:50 ]역시 오빠야![XENO:wait wait=key ][System:PageBreak ]하지만 무리는 하지 마[XENO:n ]\n걱정된단 말이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 315,
+      "style": 126,
+      "name": "괜찮아, 난 혼자가 아니야[XENO:n ]\n너와 동료들이 함께잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 316,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:20 ]그래. 나도 도울게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 317,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:50 ]영웅 단반은 건재하네[XENO:n ]\n좋아. 나도 도울게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 318,
+      "style": 126,
+      "name": "정말 고맙군![XENO:wait wait=key ][System:PageBreak ]나 같은 멧돼지한테는[XENO:n ]\n회복 에테르가 필수니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 319,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:20 ]용사 리키의 활약 똑똑히 봐라모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 320,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:50 ][XENO:type type=anger ]지금이야말로[XENO:n ]\n용사와 영웅의 콜라보야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 321,
+      "style": 126,
+      "name": "고마워. 리키[XENO:n ]\n힘이 솟아나는군![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 322,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:20 ]그래. 어서 문제를 해결하자꾸나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 323,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:50 ]이분도 이걸로 안심할 수 있겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 324,
+      "style": 126,
+      "name": "방심은 금물이다[XENO:n ]\n멜리아, 네 힘도 빌리도록 하지![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 325,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:20 ]응. 반드시 성공시키자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 326,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:50 ]조금씩이라도 좋아[XENO:n ]\n차근차근 해 나가자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 327,
+      "style": 126,
+      "name": "네 말이 맞아. 슈르크[XENO:n ]\n자, 힘내서 가 볼까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 328,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:20 ]그래! 기대하라고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 329,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:50 ]나를 잊은 건 아니지 카르나?[XENO:n ]\n같이 잘해 보자고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 330,
+      "style": 126,
+      "name": "물론이지![XENO:wait wait=key ][System:PageBreak ]죽기 살기로 해 줄 거지, 라인?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 331,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:20 ]그래. 힘내자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 332,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:50 ]저 믿음직한 말씨…[XENO:n ]\n나도 본받고 싶어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 333,
+      "style": 126,
+      "name": "너라면 할 수 있을 거야[XENO:n ]\n자, 너도 좀 도와줄래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 334,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:20 ]알았다[XENO:n ]\n나도 최선을 다하도록 하지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 335,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:50 ]네가 그렇게 말한다면 안심이군[XENO:n ]\n난 뒷짐 지고 구경만 하면 되겠어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 336,
+      "style": 126,
+      "name": "놀리지 마[XENO:wait wait=key ][System:PageBreak ]나 혼자선 무리야[XENO:n ]\n네 힘도 필요해[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 337,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:20 ]용사 리키의 활약 똑똑히 봐라모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 338,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:50 ][XENO:type type=anger ]멋져모![XENO:n ]\n카르나도 용사야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 339,
+      "style": 126,
+      "name": "영광이야. 리키[XENO:wait wait=key ][System:PageBreak ]그렇지만 용사 리키의 힘도[XENO:n ]\n믿고 있어, 알겠지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 340,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:20 ]그래. 어서 문제를 해결하자꾸나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 341,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:50 ]반드시 완수하지… 쉽지는 않겠지만[XENO:n ]\n그대라면 할 수 있을 거다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 342,
+      "style": 126,
+      "name": "너한테 배운 거야[XENO:wait wait=key ][System:PageBreak ]끝까지 해내는 것…[XENO:n ]\n그게 중요하다는 걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 343,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:20 ]응. 반드시 성공시키자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 344,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:50 ]그래![XENO:n ]\n최선을 다하자 리키![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 345,
+      "style": 126,
+      "name": "알았어모![XENO:wait wait=key ][System:PageBreak ]…슈르크랑 최선을 다할 거야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 346,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:20 ]그래! 기대하라고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 347,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:50 ]식은 죽 먹기라고?![XENO:wait wait=key ][System:PageBreak ]뭐 괜찮아. 위험할 땐[XENO:n ]\n내가 구해줄 테니까![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 348,
+      "style": 126,
+      "name": "라인에게 신세를 질 순 없어모![XENO:wait wait=key ][System:PageBreak ]하지만 조금은[XENO:n ]\n기대하고 있어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 349,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:20 ]그래. 힘내자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 350,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:50 ]그래[XENO:n ]\n기대할게 용사님![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 351,
+      "style": 126,
+      "name": "[XENO:type type=anger ]와하하![XENO:n ]\n리키에게 맡겨모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 352,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:20 ]알았다[XENO:n ]\n나도 최선을 다하도록 하지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 353,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:50 ]그 말 진심이겠지?[XENO:n ]\n그렇다면 나도 힘을 보태도록 하지![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 354,
+      "style": 126,
+      "name": "진심이야모![XENO:wait wait=key ][System:PageBreak ]단반, 나를 따라와모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 355,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:20 ]그래. 나도 도울게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 356,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:50 ]용사님의 실력을 감상할 기회네![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 357,
+      "style": 126,
+      "name": "카르나, 반하지 말아 줘모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 358,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:20 ]그래. 어서 문제를 해결하자꾸나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 359,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:50 ]아무래도 내가[XENO:n ]\n나설 필요는 없겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 360,
+      "style": 126,
+      "name": "[XENO:type type=anger ]안 돼모![XENO:wait wait=key ][System:PageBreak ]멜리아랑 함께할 거야모![XENO:n ]\n안 그러면 리키 힘이 안 나모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 361,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:20 ]응. 반드시 성공시키자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 362,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:50 ]의욕이 넘치네. 멜리아[XENO:wait wait=key ][System:PageBreak ]좋아. 나도 도울게![XENO:n ]\n…괜찮지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 363,
+      "style": 126,
+      "name": "조, 좋을 대로 하거라[XENO:wait wait=key ][System:PageBreak ]아니, 고맙구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 364,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:20 ]그래! 기대하라고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 365,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:50 ]제법인데 멜리아![XENO:wait wait=key ][System:PageBreak ]좋아. 나도 질 순 없지![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 366,
+      "style": 126,
+      "name": "좋다. 누가 먼저 해결하는지[XENO:n ]\n승부다, 라인![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 367,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:20 ]그래. 힘내자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 368,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:50 ]좋았어. 멜리아![XENO:n ]\n걸즈 파워로 해결해 버리자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 369,
+      "style": 126,
+      "name": "[XENO:type type=think ]걸즈 파워라[XENO:wait wait=key ][System:PageBreak ]나도 힘내야겠구나…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 370,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:20 ]알았다[XENO:n ]\n나도 최선을 다하도록 하지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 371,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:50 ]그 뜻에 함께하고 싶군[XENO:wait wait=key ][System:PageBreak ]멜리아, 나도 거들도록 하지![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 372,
+      "style": 126,
+      "name": "정말 든든하구나[XENO:n ]\n힘을 빌려 다오. 단반[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 373,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:20 ]그래. 나도 도울게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 374,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:50 ]그럴 때는 말이야, 멜리아[XENO:wait wait=key ][System:PageBreak ]『기대하고 있으라구!』[XENO:n ]\n라고 말하는 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 375,
+      "style": 126,
+      "name": "그건… 제법 어렵구나[XENO:wait wait=key ][System:PageBreak ]기… 기대하고 있으라구?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 376,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:20 ]용사 리키의 활약 똑똑히 봐라모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 377,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:50 ][XENO:type type=anger ]응응[XENO:n ]\n멜리아, 장해모[XENO:wait wait=key ][System:PageBreak ]리키는 그런 멜리아를[XENO:n ]\n쭉 지켜볼 거야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 378,
+      "style": 126,
+      "name": "지켜보기만 해선 안 된다[XENO:n ]\n그대의 힘도 필요하다. 리키[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 379,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:20 ]그렇지![XENO:n ]\n노력한 보람이 있어![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 380,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:50 ]잘했어. 슈르크![XENO:n ]\n다음에도 이 기세로 가자고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 381,
+      "style": 126,
+      "name": "물론이지![XENO:n ]\n팍팍 가자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 382,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:20 ]그렇네. 왠지 마음이 놓여[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 383,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:50 ]굉장해! 슈르크[XENO:n ]\n대성공이야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 384,
+      "style": 126,
+      "name": "피오른 덕분이야![XENO:n ]\n고마워[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 385,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:20 ]좋아. 전부 해결됐군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 386,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:50 ]잘했다. 슈르크[XENO:n ]\n듬직해졌구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 387,
+      "style": 126,
+      "name": "아니에요…[XENO:wait wait=key ][System:PageBreak ]그래도 기쁘네요[XENO:n ]\n다음에도 열심히 할게요![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 388,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:20 ]응. 대성공이네![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 389,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:50 ]역시 슈르크야[XENO:n ]\n너라면 해낼 줄 알았어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 390,
+      "style": 126,
+      "name": "나 혼자의 힘이 아니야[XENO:n ]\n모두가 함께 해결한 거지![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 391,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:20 ]해냈다모![XENO:wait wait=key ][System:PageBreak ]경사야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 392,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:50 ]해결됐어모![XENO:wait wait=key ][System:PageBreak ]자, 춤추자모![XENO:n ]\n노폰 댄스를 출 시간이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 393,
+      "style": 126,
+      "name": "[XENO:type type=think ]노폰 댄스?[XENO:n ]\n어, 어떻게 추는 거지?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 394,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:20 ]그래. 훌륭하게 해냈구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 395,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:50 ][XENO:type type=think ]슈르크…[XENO:n ]\n저렇게나 기뻐하다니…[XENO:wait wait=key ][System:PageBreak ]왠지 마음이 따뜻해지는 것 같구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 396,
+      "style": 126,
+      "name": "왜 그래 멜리아?[XENO:wait wait=key ][System:PageBreak ]그렇게 뚫어져라 쳐다보고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 397,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:20 ]결국 해냈네![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 398,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:50 ]응. 땀 흘린 보람이 있었어![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 399,
+      "style": 126,
+      "name": "하하, 이 정도로 땀이라니![XENO:n ]\n별것도 아니잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 400,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:20 ]그렇네. 왠지 마음이 놓여[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 401,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:50 ]라인도 하면 되는구나[XENO:n ]\n조금은 다시 봤어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 402,
+      "style": 126,
+      "name": "무슨 소리야[XENO:n ]\n얼버무리긴[XENO:wait wait=key ][System:PageBreak ]솔직하게 말해[XENO:n ]\n라인 최고!라고 말이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 403,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:20 ]좋아. 전부 해결됐군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 404,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:50 ]그래[XENO:n ]\n라인, 해냈구나![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 405,
+      "style": 126,
+      "name": "헤헷. 단반이 말해 주니[XENO:n ]\n정말 기쁜데[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 406,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:20 ]응. 대성공이네![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 407,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:50 ]멋진 표정인데. 라인[XENO:wait wait=key ][System:PageBreak ]후훗, 나쁘지 않은걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 408,
+      "style": 126,
+      "name": "그, 그래?[XENO:wait wait=key ][System:PageBreak ]하핫…[XENO:wait wait=key ][System:PageBreak ]이거 기쁜데! 고마워[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 409,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:20 ]해냈다모![XENO:wait wait=key ][System:PageBreak ]경사야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 410,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:50 ]거칠고 덤벙거리는 사람도[XENO:n ]\n노력하면 남을 도울 수 있구나모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 411,
+      "style": 126,
+      "name": "마음대로 말해[XENO:n ]\n지금은 기분이 좋으니까![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 412,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:20 ]그래. 훌륭하게 해냈구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 413,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:50 ]감탄스럽구나. 라인[XENO:n ]\n정말 대단한 솜씨였다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 414,
+      "style": 126,
+      "name": "뭐, 뭐야[XENO:n ]\n낯간지러운 소리 하지 마[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 415,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:20 ]결국 해냈네![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 416,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:50 ]맞아![XENO:n ]\n고생했어. 피오른[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 417,
+      "style": 126,
+      "name": "[XENO:type type=think ]다행이다[XENO:n ]\n슈르크도 기뻐하고 있어[XENO:wait wait=key ][System:PageBreak ]나도 조금은 도움이 됐으려나?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 418,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:20 ]그렇지![XENO:n ]\n노력한 보람이 있어![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 419,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:50 ]그래. 어깨가 가벼워졌어[XENO:n ]\n대단한데. 피오른[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 420,
+      "style": 126,
+      "name": "그만해. 라인이 이런 소리를 하다니[XENO:n ]\n해가 서쪽에서 뜨려나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 421,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:20 ]좋아. 전부 해결됐군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 422,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:50 ]잘했어! 피오른[XENO:n ]\n좀 더 기뻐해도 돼[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 423,
+      "style": 126,
+      "name": "아니. 아직이야[XENO:wait wait=key ][System:PageBreak ]아직 해야 할 일이[XENO:n ]\n잔뜩 남아 있으니까![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 424,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:20 ]응. 대성공이네![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 425,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:50 ]후훗, 널 보니[XENO:n ]\n나까지 기뻐지는걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 426,
+      "style": 126,
+      "name": "저, 정말?[XENO:n ]\n왠지 부끄러운걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 427,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:20 ]해냈다모![XENO:wait wait=key ][System:PageBreak ]경사야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 428,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:50 ]오늘은 피오른의 요리로 파티다모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 429,
+      "style": 126,
+      "name": "알았어, 리키[XENO:n ]\n오늘은 최고급 코스로 차려 볼까![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 430,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:20 ]그래. 훌륭하게 해냈구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 431,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:50 ]그대의 간절함이[XENO:n ]\n이 결과를 낳았구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 432,
+      "style": 126,
+      "name": "이게 내 최선이니까…[XENO:n ]\n후훗, 기분이 괜찮은걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 433,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:20 ]네. 무슨 일이 있을 땐[XENO:n ]\n언제라도 도와드릴게요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 434,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:50 ]단반 씨의 솜씨[XENO:n ]\n좋은 공부가 됐어요![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 435,
+      "style": 126,
+      "name": "나도 마찬가지야. 슈르크[XENO:wait wait=key ][System:PageBreak ]이게 동료라는 것이겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 436,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:20 ]응. 이 정돈 식은 죽 먹기지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 437,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:50 ][XENO:type type=think ]크으~![XENO:n ]\n죽이는데~![XENO:wait wait=key ][System:PageBreak ]나도 한번 저렇게[XENO:n ]\n말해 보고 싶군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 438,
+      "style": 126,
+      "name": "라인, 무슨 일이지?[XENO:n ]\n숨이 거칠어진 것 같은데[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 439,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:20 ]그래. 이 정도는[XENO:n ]\n언제라도 상관없어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 440,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:50 ]아니야. 역시 오빠는 대단해[XENO:n ]\n진심이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 441,
+      "style": 126,
+      "name": "뭐야 갑자기?[XENO:wait wait=key ][System:PageBreak ]너한테 칭찬받는 건[XENO:n ]\n꽤 드문 일이다만[XENO:wait wait=key ][System:PageBreak ]솔직하게 기뻐해도 되겠지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 442,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:20 ]그래, 피차일반이지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 443,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:50 ]과연 콜로니 9의 영웅답네[XENO:n ]\n굉장했어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 444,
+      "style": 126,
+      "name": "아니야. 카르나[XENO:wait wait=key ][System:PageBreak ]나 혼자서 한 게 아니야[XENO:n ]\n모두가 힘을 합친 덕분이지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 445,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:20 ]응응[XENO:wait wait=key ][System:PageBreak ]신경 쓰지 마모. 별거 아니야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 446,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:50 ]별거 아닌 수준이 아니었어모![XENO:wait wait=key ][System:PageBreak ]리키는 알고 있어모[XENO:n ]\n힘들고 괴로운 일이었어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 447,
+      "style": 126,
+      "name": "그래?[XENO:wait wait=key ][System:PageBreak ]나보다 리키가[XENO:n ]\n별거 아닌 것처럼 해결하던데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 448,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:20 ]이걸로 해결이구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 449,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:50 ]별거 아니라니…[XENO:wait wait=key ][System:PageBreak ]진심으로 그렇게 말할 수 있는 건[XENO:n ]\n단반, 그대뿐이겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 450,
+      "style": 126,
+      "name": "글쎄?[XENO:wait wait=key ][System:PageBreak ]난 모르겠지만[XENO:n ]\n그랬으면 좋겠군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 451,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:20 ]응. 분명 기뻐해 줄 거야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 452,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:50 ]카르나는 의무병이었지?[XENO:n ]\n역시 남을 돕고 싶어서 된 거야…?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 453,
+      "style": 126,
+      "name": "뭐 그렇지. 그게 기분 좋잖아?[XENO:n ]\n기뻐하는 얼굴을 볼 수 있으니까 말이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 454,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:20 ]그렇지![XENO:n ]\n노력한 보람이 있어![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 455,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:50 ]그래. 이렇게 지켜 나가는 거야[XENO:n ]\n조금씩이라도 말이지![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 456,
+      "style": 126,
+      "name": "라인 말이 맞아[XENO:n ]\n역시 넌…[XENO:wait wait=key ][System:PageBreak ]아니, 아무것도 아니야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 457,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:20 ]그렇네. 왠지 마음이 놓여[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 458,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:50 ]응. 우리 좋은 일 한 거 맞지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 459,
+      "style": 126,
+      "name": "그래. 피오른[XENO:n ]\n참 기쁜 일이지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 460,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:20 ]좋아. 전부 해결됐군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 461,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:50 ]그래. 네 활약을 들으면[XENO:n ]\n오다마 씨도 기뻐하시겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 462,
+      "style": 126,
+      "name": "그렇겠지[XENO:wait wait=key ][System:PageBreak ]그분은[XENO:n ]\n날 키워 주셨으니까…[XENO:wait wait=key ][System:PageBreak ]좋은 소식을 들려줄 수 있겠어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 463,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:20 ]해냈다모![XENO:wait wait=key ][System:PageBreak ]경사야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 464,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:50 ]당연히 도움이 됐을 거야모![XENO:wait wait=key ][System:PageBreak ]카르나, 정말 정말[XENO:n ]\n노력했으니까모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 465,
+      "style": 126,
+      "name": "고마워. 리키[XENO:n ]\n네가 열심히 해 준 덕분이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 466,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:20 ]그래. 훌륭하게 해냈구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 467,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:50 ]마음은 분명 전해졌을 것이다[XENO:wait wait=key ][System:PageBreak ]나는 그대에게 도움받은 몸[XENO:n ]\n…그렇기 때문에 알 수 있지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 468,
+      "style": 126,
+      "name": "그렇게 말해 주니 기쁜걸[XENO:wait wait=key ][System:PageBreak ]고마워. 멜리아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 469,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:20 ]결국 해냈네![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 470,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:50 ]리키는 친절하네[XENO:wait wait=key ][System:PageBreak ]정말 용사다웠어![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 471,
+      "style": 126,
+      "name": "용사는 강하고 친절한 법이야모![XENO:wait wait=key ][System:PageBreak ]에헴![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 472,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:20 ]그래![XENO:n ]\n노력한 보람이 있어![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 473,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:50 ][XENO:type type=think ]설마 우는 거야?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 474,
+      "style": 126,
+      "name": "라인![XENO:n ]\n보, 보지 마라모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 475,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:20 ]응. 왠지 마음이 놓여[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 476,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:50 ]용사한테 이 정도는[XENO:n ]\n일상다반사지![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 477,
+      "style": 126,
+      "name": "맞아모![XENO:n ]\n일상다반사야모![XENO:wait wait=key ][System:PageBreak ]…?[XENO:wait wait=key ][System:PageBreak ]그런데 무슨 뜻이야모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 478,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:20 ]이걸로 전부 해결됐군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 479,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:50 ]제법인데. 리키![XENO:n ]\n나도 질 순 없지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 480,
+      "style": 126,
+      "name": "[XENO:type type=anger ]용사 VS 영웅![XENO:n ]\n어느 쪽이 활약하는지 승부야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 481,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:20 ]응. 대성공이네![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 482,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:50 ]맞아[XENO:wait wait=key ][System:PageBreak ]리키, 멋져[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 483,
+      "style": 126,
+      "name": "[XENO:type type=anger ]머, 머, 머, 멋지다고모~?![XENO:wait wait=key ][System:PageBreak ]리키 더 힘낼 거야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 484,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:20 ][XENO:type type=think ]귀엽구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 485,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:50 ]잘했구나! 리키[XENO:n ]\n노폰의 용사다운 행동이었다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 486,
+      "style": 126,
+      "name": "[XENO:type type=anger ]멜리아가 칭찬했어모?![XENO:wait wait=key ][System:PageBreak ]히, 힘낼 거야모~~![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 487,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:20 ]물론이지![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 488,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:50 ]네가 생각한 것보다 더 큰 힘이 됐어[XENO:n ]\n괜찮아. 자신을 가져! 멜리아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 489,
+      "style": 126,
+      "name": "…알겠다. 그러도록 하지[XENO:n ]\n…슈르크가 그렇게 말한다면[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 490,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:20 ]그래. 잘했어[XENO:n ]\n라고 생각하는데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 491,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:50 ]물론이지![XENO:wait wait=key ][System:PageBreak ]봐, 기뻐하고 있잖아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 492,
+      "style": 126,
+      "name": "그래. 기뻐하고 있구나[XENO:wait wait=key ][System:PageBreak ]…그걸로 된 거겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 493,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:20 ]도움이 됐을 거야. 분명히[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 494,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:50 ]좀 더 기뻐해도 되지 않을까?[XENO:n ]\n멜리아, 열심히 노력했잖아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 495,
+      "style": 126,
+      "name": "면목 없군. 아무래도[XENO:n ]\n익숙하지 않아서 말이지[XENO:wait wait=key ][System:PageBreak ]그대는 참 상냥하구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 496,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:20 ]걱정 마. 분명 도움이 됐을 테니[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 497,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:50 ]괜찮아[XENO:n ]\n넌 아주 잘하고 있어[XENO:wait wait=key ][System:PageBreak ]내가 보증하지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 498,
+      "style": 126,
+      "name": "[XENO:type type=think ]솟구치는 이 감정…[XENO:n ]\n동료란 이런 것인가[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 499,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:20 ]응. 대성공이야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 500,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:50 ]최고의 결과야![XENO:wait wait=key ][System:PageBreak ]멜리아! 어깨 펴![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 501,
+      "style": 126,
+      "name": "그래…[XENO:wait wait=key ][System:PageBreak ]그거면 됐다[XENO:n ]\n고맙구나. 카르나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 502,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:20 ]도움이 된 정도가 아니라[XENO:n ]\n대성공이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 503,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:50 ]멜리아의 공이[XENO:n ]\n가장 컸어모![XENO:wait wait=key ][System:PageBreak ]리키 똑똑히 봤어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 504,
+      "style": 126,
+      "name": "[XENO:type type=think ]아이젤, 호그드…[XENO:n ]\n…가란, 다밀[XENO:wait wait=key ][System:PageBreak ]그대들도 지켜봐 주었을까…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 505,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:20 ]무슨 일 있으면 말해 줘[XENO:n ]\n사양할 필요 없다고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 506,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:50 ]또 성가신 일에 참견하는 거야?[XENO:n ]\n슈르크는 너무 착해서 탈이라니까[XENO:wait wait=key ][System:PageBreak ]뭐, 그게 좋은 점이지만![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 507,
+      "style": 126,
+      "name": "라인도 그냥[XENO:n ]\n지나치진 않을 거잖아?[XENO:wait wait=key ][System:PageBreak ]자, 사정을 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 508,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:20 ]곤란할 때는 서로 도와야지[XENO:n ]\n무슨 일인지 말해 줄래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 509,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:50 ]슈르크, 이야기를 들어 보자[XENO:n ]\n모른 척하기 그렇잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 510,
+      "style": 126,
+      "name": "응. 나도 동감이야[XENO:wait wait=key ][System:PageBreak ]한번 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 511,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:20 ]우리가 들어 줄 테니 말해 봐[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 512,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:50 ]어때 슈르크?[XENO:n ]\n도울 거야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 513,
+      "style": 126,
+      "name": "네. 못 본 척할 순 없으니까요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 514,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:20 ]말해 볼래?[XENO:n ]\n우리가 도울 수 있을 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 515,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:50 ]신경 쓰이나 보네. 슈르크[XENO:n ]\n이해해. 나도 그러니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 516,
+      "style": 126,
+      "name": "카르나도?[XENO:wait wait=key ][System:PageBreak ]그럼 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 517,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:20 ]용사 리키가 해결할게모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 518,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:50 ]용사로서 내버려 둘 수 없어모[XENO:n ]\n슈르크, 이야기를 들어 보자모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 519,
+      "style": 126,
+      "name": "응, 그러자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 520,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:20 ]무슨 일이지?[XENO:n ]\n문제를 말해 보거라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 521,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:50 ]못 본 척하는 것이냐 슈르크?[XENO:n ]\n나는 조금 돌아가도 상관없느니라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 522,
+      "style": 126,
+      "name": "고마워. 멜리아[XENO:n ]\n한번 물어볼게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 523,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:20 ]무슨 일이시죠?[XENO:n ]\n제가 도와드릴게요![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 524,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:50 ]라인도 눈치챘어?[XENO:n ]\n뭔가 고민이 있는 것 같아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 525,
+      "style": 126,
+      "name": "맞아. 못 본 척할 순 없지[XENO:n ]\n이야기를 들어 보자고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 526,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:20 ]곤란할 때는 서로 도와야지[XENO:n ]\n무슨 일인지 말해 줄래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 527,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:50 ]흐음, 라인도 그런 눈치가[XENO:n ]\n생겼구나[XENO:wait wait=key ][System:PageBreak ]아이, 장하다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 528,
+      "style": 126,
+      "name": "살~짝 거슬리는 말투긴 하지만[XENO:n ]\n나도 성장하고 있다고![XENO:wait wait=key ][System:PageBreak ]자, 가서 물어보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 529,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:20 ]우리가 들어 줄 테니 말해 봐[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 530,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:50 ]용케 눈치챘구나. 라인[XENO:n ]\n…그래서 우린 이제 뭘 하면 되지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 531,
+      "style": 126,
+      "name": "일단은…[XENO:n ]\n사정을 들어 보는 수밖에[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 532,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:20 ]말해 볼래?[XENO:n ]\n우리가 도울 수 있을 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 533,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:50 ]뭔가 상태가 이상해 보이네[XENO:n ]\n한번 물어볼까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 534,
+      "style": 126,
+      "name": "그래. 저런 사람은[XENO:n ]\n보통 문제를 안고 있기 마련이지![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 535,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:20 ]용사 리키가 해결할게모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 536,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:50 ]라인, 자세히 물어봐모![XENO:n ]\n큰 사건의 냄새가 나모~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 537,
+      "style": 126,
+      "name": "알고 있어. 보채지 마[XENO:wait wait=key ][System:PageBreak ]지금 바로 물어볼 테니까[XENO:n ]\n잠깐만 기다려[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 538,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:20 ]무슨 일이지?[XENO:n ]\n문제를 말해 보거라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 539,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:50 ]말투는 거칠지만 그 배려심…[XENO:wait wait=key ][System:PageBreak ]라인, 그대도[XENO:n ]\n자상한 면이 있구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 540,
+      "style": 126,
+      "name": "그걸 이제 알았어?[XENO:wait wait=key ][System:PageBreak ]자, 울상인 이유를[XENO:n ]\n들어 보자고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 541,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:20 ]무슨 일이시죠?[XENO:n ]\n저희가 도와드릴게요![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 542,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:50 ]정말이네. 표정이 안 좋아 보여[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 543,
+      "style": 126,
+      "name": "슈르크도 그렇게 생각해?[XENO:wait wait=key ][System:PageBreak ]무슨 일인지 물어볼까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 544,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:20 ]무슨 일 있으면 말해 줘[XENO:n ]\n사양할 필요 없다고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 545,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:50 ]예리하네. 피오른[XENO:n ]\n확실히 표정이 안 좋아 보이긴 했어![XENO:wait wait=key ][System:PageBreak ]한번 이야기해 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 546,
+      "style": 126,
+      "name": "[XENO:type type=think ]라인이 그렇다니까 착각일까 봐[XENO:n ]\n조금 걱정되네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 547,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:20 ]우리가 들어 줄 테니 말해 봐[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 548,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:50 ]왜 그래 피오른?[XENO:n ]\n뭐 신경 쓰이는 거라도 있어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 549,
+      "style": 126,
+      "name": "오빠도 알고 있으면서![XENO:wait wait=key ][System:PageBreak ]이 사람 분명 곤란해하고 있어[XENO:n ]\n이야기해 볼 거지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 550,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:20 ]말해 볼래?[XENO:n ]\n우리가 도울 수 있을 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 551,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:50 ]눈치가 빠른걸[XENO:wait wait=key ][System:PageBreak ]피오른은 분명[XENO:n ]\n좋은 엄마가 될 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 552,
+      "style": 126,
+      "name": "그, 그거랑 무슨 상관이야![XENO:wait wait=key ][System:PageBreak ]그것보다 무슨 일인지[XENO:n ]\n들어 보자…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 553,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:20 ]용사 리키가 해결할게모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 554,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:50 ]리키도 그렇게 생각해모![XENO:n ]\n피오른이랑 같아모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 555,
+      "style": 126,
+      "name": "어머, 그래?[XENO:n ]\n그럼 한번 물어볼까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 556,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:20 ]무슨 일이지?[XENO:n ]\n문제를 말해 보거라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 557,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:50 ]이야기를 들어 봐야지[XENO:n ]\n못 본 척할 순 없지 않느냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 558,
+      "style": 126,
+      "name": "응, 멜리아 말이 맞아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 559,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:20 ]무슨 일이시죠?[XENO:n ]\n제가 도와드릴게요![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 560,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:50 ]이야기를 들어 보는 게 어떨까요?[XENO:n ]\n분명 도울 수 있을 거예요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 561,
+      "style": 126,
+      "name": "너라면 그렇게 말할 줄 알았다[XENO:n ]\n좋아. 한번 들어 보도록 하지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 562,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:20 ]무슨 일 있으면 말해 줘[XENO:n ]\n사양할 필요 없다고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 563,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:50 ]알고 있어! 단반[XENO:n ]\n다음에 무슨 말이 나올지[XENO:wait wait=key ][System:PageBreak ]이 사람을 돕자… 맞지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 564,
+      "style": 126,
+      "name": "네 말대로야. 라인[XENO:n ]\n자, 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 565,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:20 ]곤란할 때는 서로 도와야지[XENO:n ]\n무슨 일인지 말해 줄래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 566,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:50 ]오빠는 남의 일에는 눈치가 빠르네[XENO:n ]\n자기 일은 하나도 모르면서 말이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 567,
+      "style": 126,
+      "name": "걱정돼? 괜찮아[XENO:n ]\n나도 알고 있으니까[XENO:wait wait=key ][System:PageBreak ]아무튼 지금은[XENO:n ]\n이 사람이 중요해[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 568,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:20 ]말해 볼래?[XENO:n ]\n우리가 도울 수 있을 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 569,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:50 ]그렇다면 미소 짓게 해 주자[XENO:n ]\n어때 단반?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 570,
+      "style": 126,
+      "name": "찬성이야[XENO:n ]\n어서 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 571,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:20 ]용사 리키가 해결할게모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 572,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:50 ]고뇌는 좋지 않아모![XENO:n ]\n없애야만 해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 573,
+      "style": 126,
+      "name": "그래. 리키[XENO:n ]\n그럼 우리가 없애면 되겠지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 574,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:20 ]무슨 일이지?[XENO:n ]\n문제를 말해 보거라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 575,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:50 ]간단한 이야기다[XENO:n ]\n고뇌를 없애면 된다. 그렇지 않느냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 576,
+      "style": 126,
+      "name": "멜리아답군[XENO:n ]\n물론 이견은 없어![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 577,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:20 ]무슨 일이시죠?[XENO:n ]\n제가 도와드릴게요![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 578,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:50 ]이야기를 들어 보자! 카르나[XENO:n ]\n조금은 돌아가도 괜찮지 않을까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 579,
+      "style": 126,
+      "name": "물론 괜찮지[XENO:n ]\n슈르크의 그런 점이 좋다니까[XENO:wait wait=key ][System:PageBreak ]자, 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 580,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:20 ]무슨 일 있으면 말해 줘[XENO:n ]\n사양할 필요 없다고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 581,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:50 ]그렇다면 못 본 척할 순 없지![XENO:n ]\n카르나, 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 582,
+      "style": 126,
+      "name": "[XENO:type type=think ]정말 한결같은 성격이네…[XENO:n ]\n나쁘진 않지만[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 583,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:20 ]곤란할 때는 서로 도와야지[XENO:n ]\n무슨 일인지 말해 줄래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 584,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:50 ]굉장해…[XENO:n ]\n카르나는 뭐든 알고 있구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 585,
+      "style": 126,
+      "name": "뭐, 그렇지[XENO:n ]\n의무병은 정신적인 케어도 하거든[XENO:wait wait=key ][System:PageBreak ]하지만 이 이상은[XENO:n ]\n듣지 않고선 모르겠어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 586,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:20 ]우리가 들어 줄 테니 말해 봐[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 587,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:50 ]카르나도 눈치챘어?[XENO:wait wait=key ][System:PageBreak ]그래서 이제 어떻게 할 거지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 588,
+      "style": 126,
+      "name": "당연히 이야기를 들어 봐야지[XENO:n ]\n의무병이 가장 먼저 해야 하는 일이니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 589,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:20 ]용사 리키가 해결할게모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 590,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:50 ]카르나, 이유를 물어봐모…[XENO:wait wait=key ][System:PageBreak ]리키한텐 안 알려 줄 것 같아모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 591,
+      "style": 126,
+      "name": "용사라는 녀석이 무슨 소리야![XENO:wait wait=key ][System:PageBreak ]이리 와! 리키[XENO:n ]\n함께 물어보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 592,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:20 ]무슨 일이지?[XENO:n ]\n문제를 말해 보거라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 593,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:50 ]고민 한두 개쯤[XENO:n ]\n그대라면 금방 해결할 수 있겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 594,
+      "style": 126,
+      "name": "후훗, 농담이라도 기쁜걸?[XENO:wait wait=key ][System:PageBreak ]자, 그럼 기대에 부응해 볼까![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 595,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:20 ]무슨 일이시죠?[XENO:n ]\n제가 도와드릴게요![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 596,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:50 ]응. 뭔가 있어 보여[XENO:n ]\n리키, 우리가 도울 건 없을까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 597,
+      "style": 126,
+      "name": "차분하게 이야기를 들어 주자모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 598,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:20 ]무슨 일 있으면 말해 줘[XENO:n ]\n사양할 필요 없다고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 599,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:50 ]알았으니까 너무 허둥대지 마![XENO:wait wait=key ][System:PageBreak ]그래서 어떻게 할 거야?[XENO:n ]\n일단 이야기라도 들어 볼까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 600,
+      "style": 126,
+      "name": "물론이지모![XENO:wait wait=key ][System:PageBreak ]자, 라인!! 물어봐모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 601,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:20 ]곤란할 때는 서로 도와야지[XENO:n ]\n무슨 일인지 말해 줄래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 602,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:50 ]아, 나 알고 있어![XENO:n ]\n그게 바로 노폰의 감이라는 거지?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 603,
+      "style": 126,
+      "name": "맞아모. 맞아모[XENO:n ]\n돈가한테 전수받은 감이야모![XENO:wait wait=key ][System:PageBreak ]자자, 이야기해 봐모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 604,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:20 ]우리가 들어 줄 테니 말해 봐[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 605,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:50 ]고민이 있어 보이는군[XENO:wait wait=key ][System:PageBreak ]어때 리키?[XENO:n ]\n잠깐 이야기를 들어 보지 않겠어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 606,
+      "style": 126,
+      "name": "역시 단반이야모![XENO:n ]\n리키도 그러려고 했어모![XENO:wait wait=key ][System:PageBreak ]정말이야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 607,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:20 ]말해 볼래?[XENO:n ]\n우리가 도울 수 있을 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 608,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:50 ]원인이 뭘까?[XENO:n ]\n리키, 좀 물어봐 줄래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 609,
+      "style": 126,
+      "name": "좀이 아니라 잔뜩 물어볼 거야모![XENO:n ]\n그게 용사의 역할이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 610,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:20 ]무슨 일이지?[XENO:n ]\n문제를 말해 보거라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 611,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:50 ]너무 흥분하지 말거라[XENO:wait wait=key ][System:PageBreak ]내가 물어볼 테니[XENO:n ]\n리키도 함께 듣겠느냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 612,
+      "style": 126,
+      "name": "멜리아는 천사야모~[XENO:n ]\n리키 열심히 들을 거야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 613,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:20 ]무슨 일이시죠?[XENO:n ]\n제가 도와드릴게요![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 614,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:50 ]왜 그래 멜리아?[XENO:n ]\n표정이 어두운데…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 615,
+      "style": 126,
+      "name": "이자의 이야기를 듣고 싶다[XENO:wait wait=key ][System:PageBreak ]슈르크, 같이 들어 주겠나?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 616,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:20 ]무슨 일 있으면 말해 줘[XENO:n ]\n사양할 필요 없다고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 617,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:50 ]저기, 멜리아[XENO:n ]\n이 사람 좀 곤란해하는 것 같지 않아?[XENO:wait wait=key ][System:PageBreak ]난 말이야…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 618,
+      "style": 126,
+      "name": "말하지 않아도 알고 있다[XENO:wait wait=key ][System:PageBreak ]자, 라인[XENO:n ]\n이유를 들어 보자꾸나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 619,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:20 ]곤란할 때는 서로 도와야지[XENO:n ]\n무슨 일인지 말해 줄래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 620,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:50 ]멜리아, 지금 무슨 생각을 하는지[XENO:n ]\n한번 맞춰 볼까?[XENO:wait wait=key ][System:PageBreak ]이 사람을 내버려 둘 수 없어…[XENO:n ]\n맞지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 621,
+      "style": 126,
+      "name": "그대의 눈은 속일 수가 없구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 622,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:20 ]우리가 들어 줄 테니 말해 봐[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 623,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:50 ]이봐, 뭔가[XENO:n ]\n고민이 있는 것 같은데[XENO:wait wait=key ][System:PageBreak ]이야기해 봐[XENO:n ]\n상담해 줄 테니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 624,
+      "style": 126,
+      "name": "[XENO:type type=think ]…![XENO:wait wait=key ][System:PageBreak ]단반도 눈치채고 있었느냐[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 625,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:20 ]말해 볼래?[XENO:n ]\n우리가 도울 수 있을 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 626,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:50 ]생각하기만 해선 안 돼. 멜리아[XENO:n ]\n말로 해야 비로소 전해지는 거야…[XENO:wait wait=key ][System:PageBreak ]무슨 일이 됐건 말이야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 627,
+      "style": 126,
+      "name": "아, 알고 있다![XENO:n ]\n지금부터 이야기하려던 참이다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 628,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:20 ]용사 리키가 해결할게모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 629,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:50 ]도와주면 안 될까모?[XENO:n ]\n뭔가 불쌍해모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 630,
+      "style": 126,
+      "name": "[XENO:type type=think ]…리키?![XENO:n ]\n내 마음을 읽은 것이냐?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 631,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:20 ]그래. 큰일인걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 632,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:50 ]이대로 내버려 뒀다간…[XENO:n ]\n걷잡을 수 없을 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 633,
+      "style": 126,
+      "name": "응…[XENO:n ]\n이대로는 안 돼[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 634,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:20 ]응. 큰일이야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 635,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:50 ]큰일이야! 슈르크![XENO:n ]\n우리가 뭔가 할 순 없을까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 636,
+      "style": 126,
+      "name": "응. 이대로[XENO:n ]\n내버려 둘 순 없어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 637,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:20 ]확실히 문제군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 638,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:50 ]하지만…[XENO:wait wait=key ][System:PageBreak ]슈르크라면[XENO:n ]\n해결할 수 있겠지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 639,
+      "style": 126,
+      "name": "과, 과대평가예요![XENO:n ]\n이 문제는 그렇게 간단하지 않아요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 640,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:20 ]확실히 문제네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 641,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:50 ]이 일은…[XENO:n ]\n슈르크가 나설 차례려나?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 642,
+      "style": 126,
+      "name": "카르나도 도와줘![XENO:n ]\n이 일 꽤 성가실 것 같으니까…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 643,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:20 ]큰일이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 644,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:50 ][XENO:type type=anger ]리키 무서워모![XENO:n ]\n크, 큰일이 생길 거야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 645,
+      "style": 126,
+      "name": "그렇게 호들갑 피울 일은 아니야. 리키[XENO:n ]\n큰일인 건 사실이지만…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 646,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:20 ]내버려 둘 수도 없겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 647,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:50 ]…이대로라면[XENO:n ]\n뭔가 성가신 일을 부탁받겠지…[XENO:wait wait=key ][System:PageBreak ]그렇게 생각하지 않느냐. 슈르크?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 648,
+      "style": 126,
+      "name": "동감이야[XENO:wait wait=key ][System:PageBreak ]그것도 굉장히[XENO:n ]\n성가신 일이겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 649,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:20 ]응. 큰일인걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 650,
+      "style": 126,
+      "name": "[XENO:trust trust=f:0:50 ]나랑 라인이 싸우는 거랑 비교하면[XENO:n ]\n어느 쪽이 더 골 때릴까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 651,
+      "style": 126,
+      "name": "그건…[XENO:wait wait=key ][System:PageBreak ]비교하기 힘드네[XENO:n ]\n양쪽 다 꽤나 골 때리니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 652,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:20 ]응. 큰일이야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 653,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:50 ]뭘 냉정한 척하는 거야! 라인[XENO:n ]\n속으론 조마조마하고 있으면서[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 654,
+      "style": 126,
+      "name": "내, 냉정한 척이라니[XENO:n ]\n큰일이라고 생각한다고![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 655,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:20 ]확실히 문제군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 656,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:50 ]방위대에서 단련한 너라면[XENO:n ]\n별문제 아니겠지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 657,
+      "style": 126,
+      "name": "아니야. 이건 팔 굽혀 펴기 1000개보다[XENO:n ]\n더 힘든 상황이라고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 658,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:20 ]확실히 문제네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 659,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:50 ]위험한 상황일수록[XENO:n ]\n더 불타오르는 게 바로 라인이지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 660,
+      "style": 126,
+      "name": "그것도 한도가 있지![XENO:wait wait=key ][System:PageBreak ]카르나도 들었잖아?[XENO:n ]\n꽤 심각한 상황이라니까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 661,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:20 ]큰일이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 662,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:50 ]리키의 경제 사정이[XENO:n ]\n훨씬 더 골 때려모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 663,
+      "style": 126,
+      "name": "그건 그렇지! 어느 쪽도[XENO:n ]\n그냥 지나칠 수 없는 문제야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 664,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:20 ]내버려 둘 수도 없겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 665,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:50 ][XENO:type type=think ]골 때린다…[XENO:wait wait=key ][System:PageBreak ]모르겠구나. 무슨 뜻이지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 666,
+      "style": 126,
+      "name": "[XENO:type type=think ]오, 멜리아도 표정이 묘한걸[XENO:wait wait=key ][System:PageBreak ]그 정도로 골 때리는[XENO:n ]\n상황이라는 거겠지. 틀림없어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 667,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:20 ]응. 큰일인걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 668,
+      "style": 126,
+      "name": "[XENO:trust trust=f:1:50 ]도와주자! 피오른[XENO:n ]\n그럼 이 사람도 안심할 수 있을 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 669,
+      "style": 126,
+      "name": "그래. 만만치 않은 문제지만[XENO:n ]\n우리라면![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 670,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:20 ]그래. 큰일인걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 671,
+      "style": 126,
+      "name": "[XENO:trust trust=f:6:50 ]피오른이 걱정하는 건[XENO:n ]\n슈르크뿐인 줄 알았는데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 672,
+      "style": 126,
+      "name": "누, 누가 그래![XENO:n ]\n이 일도 조금은 걱정하고 있어![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 673,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:20 ]확실히 걱정되는군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 674,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:50 ]걱정이라고 하니 떠오르는군[XENO:n ]\n피오른이 8살이 됐을 때 말이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 675,
+      "style": 126,
+      "name": "오빠! 그 이상 말하면[XENO:n ]\n가만 안 둘 거야![XENO:wait wait=key ][System:PageBreak ]그, 그때 일보다[XENO:n ]\n이 이야기가 더 큰일이라니까![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 676,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:20 ]확실히 문제네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 677,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:50 ]어떻게 해 주고 싶은걸…[XENO:n ]\n걱정하기만 해선 체면이 안 서니까![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 678,
+      "style": 126,
+      "name": "찬성! 이 이야기[XENO:n ]\n듣고만 있을 순 없어![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 679,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:20 ]큰일이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 680,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:50 ][XENO:type type=think ]지금이 바로 찬스야모![XENO:n ]\n노폰 댄스로 모두 해피야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 681,
+      "style": 126,
+      "name": "잠깐! 리키 뭐 하는 거야?[XENO:wait wait=key ][System:PageBreak ]안 돼. 지금은[XENO:n ]\n중요한 이야기 중이니까![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 682,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:20 ]내버려 둘 수도 없겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 683,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:50 ]걱정만 하는 것이냐?[XENO:wait wait=key ][System:PageBreak ]…미안하다[XENO:n ]\n그대는 그런 여성이 아니었지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 684,
+      "style": 126,
+      "name": "멜리아도 그렇지?[XENO:n ]\n이 일은 그냥 지나칠 수 없어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 685,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:20 ]네. 큰일이네요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 686,
+      "style": 126,
+      "name": "[XENO:trust trust=f:2:50 ]하지만 저희라면 도울 수 있을 거예요[XENO:n ]\n그렇죠. 단반 씨?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 687,
+      "style": 126,
+      "name": "결심했구나. 슈르크![XENO:wait wait=key ][System:PageBreak ]…하지만[XENO:n ]\n꽤나 성가신 문제일 텐데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 688,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:20 ]그래. 큰일인걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 689,
+      "style": 126,
+      "name": "[XENO:trust trust=f:7:50 ]문제는 방치할 수 없지[XENO:n ]\n안 그래, 단반?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 690,
+      "style": 126,
+      "name": "물론이다. 라인[XENO:n ]\n아무리 곤란한 일이라도 말이지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 691,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:20 ]응. 큰일이야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 692,
+      "style": 126,
+      "name": "[XENO:trust trust=f:11:50 ]그래? 오빠라면[XENO:n ]\n어떻게 할 수 있지 않을까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 693,
+      "style": 126,
+      "name": "그건 아직 몰라. 피오른[XENO:wait wait=key ][System:PageBreak ]깊은 사정이 있어 보이니 말이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 694,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:20 ]확실히 문제네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 695,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:50 ]일이 더 커지기 전에[XENO:n ]\n우리가 해결하는 게 어때?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 696,
+      "style": 126,
+      "name": "동감이다! 카르나[XENO:n ]\n아무래도 감당하기 힘들어 보이니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 697,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:20 ]큰일이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 698,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:50 ]분명 곤란한 거야모[XENO:n ]\n단반, 어떻게 해 봐모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 699,
+      "style": 126,
+      "name": "그러고 싶지만[XENO:n ]\n나도 이런 경우는 처음이군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 700,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:20 ]내버려 둘 수도 없겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 701,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:50 ]단반이 어떻게 할지[XENO:n ]\n한번 지켜보도록 하지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 702,
+      "style": 126,
+      "name": "아무튼 큰일인 것 같군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 703,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:20 ]응. 큰일인걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 704,
+      "style": 126,
+      "name": "[XENO:trust trust=f:3:50 ]어떻게 할 수 없을까 카르나?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 705,
+      "style": 126,
+      "name": "이것도 인연인데[XENO:n ]\n곤란하다면 도와주자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 706,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:20 ]그래. 큰일인걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 707,
+      "style": 126,
+      "name": "[XENO:trust trust=f:8:50 ]뭔가 마음에 걸리는데[XENO:n ]\n잠깐 보고 가는 게 어때 카르나?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 708,
+      "style": 126,
+      "name": "좋아. 이대로 내버려 두긴[XENO:n ]\n좀 그러니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 709,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:20 ]응. 큰일이야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 710,
+      "style": 126,
+      "name": "[XENO:trust trust=f:12:50 ]그럼 우리가 도와주는 건 어떨까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 711,
+      "style": 126,
+      "name": "너다운 제안이네[XENO:wait wait=key ][System:PageBreak ]성가신 일 같지만[XENO:n ]\n좋아. 나도 도울게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 712,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:20 ]확실히 문제군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 713,
+      "style": 126,
+      "name": "[XENO:trust trust=f:15:50 ]하지만 그냥 지나칠 수 없지[XENO:n ]\n안 그래 카르나?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 714,
+      "style": 126,
+      "name": "당연하지[XENO:wait wait=key ][System:PageBreak ]하지만 단반[XENO:n ]\n간단한 일은 아닌 것 같은데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 715,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:20 ]큰일이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 716,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:50 ]리키 뭐라도 할까모?[XENO:n ]\n해야 할 일 있어모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 717,
+      "style": 126,
+      "name": "응. 분명 있을 거야[XENO:wait wait=key ][System:PageBreak ]다들 용사님을 기다리고 있을걸?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 718,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:20 ]내버려 둘 수도 없겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 719,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:50 ]아직 뒷이야기가 있나 보군[XENO:n ]\n들어 보자꾸나. 카르나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 720,
+      "style": 126,
+      "name": "대충 예상은 가지만[XENO:wait wait=key ][System:PageBreak ]꽤나 성가신 이야기일걸?[XENO:n ]\n보통은 말이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 721,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:20 ]응. 큰일인걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 722,
+      "style": 126,
+      "name": "[XENO:trust trust=f:4:50 ]위기라면 힘을 합쳐서[XENO:n ]\n헤쳐 나가자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 723,
+      "style": 126,
+      "name": "슈르크, 방심하면 안 돼모?[XENO:n ]\n용사 리키는 지금 엄청 신중해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 724,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:20 ]그래. 큰일인걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 725,
+      "style": 126,
+      "name": "[XENO:trust trust=f:9:50 ]진정해[XENO:n ]\n용사는 그렇게 행동하지 않아![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 726,
+      "style": 126,
+      "name": "[XENO:type type=anger ]용사니까 알 수 있어모![XENO:n ]\n이건 큰 사건이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 727,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:20 ]응. 큰일이야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 728,
+      "style": 126,
+      "name": "[XENO:trust trust=f:13:50 ]위기를 기회로 바꾸는 것이[XENO:n ]\n용사가 아닐까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 729,
+      "style": 126,
+      "name": "위, 위기를 기회로모?![XENO:wait wait=key ][System:PageBreak ]아무리 리키라도[XENO:n ]\n그건 힘들어모~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 730,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:20 ]확실히 문제군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 731,
+      "style": 126,
+      "name": "[XENO:trust trust=f:16:50 ]그걸로 끝내진 않겠지 리키?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 732,
+      "style": 126,
+      "name": "무, 물론이지모![XENO:n ]\n난관에 맞서는 게 용사야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 733,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:20 ]확실히 문제네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 734,
+      "style": 126,
+      "name": "[XENO:trust trust=f:18:50 ]그렇다면 어떻게든 해야겠네[XENO:n ]\n리키도 구경만 할 건 아니지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 735,
+      "style": 126,
+      "name": "[XENO:type type=anger ]물론이지모![XENO:n ]\n지금이 바로 용사가 나설 차례야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 736,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:20 ]내버려 둘 수도 없겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 737,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:50 ]우리가 무엇을 할 수 있을지…[XENO:n ]\n생각해 봐야겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 738,
+      "style": 126,
+      "name": "멜리아가 생각해 준다면[XENO:n ]\n리키는 안심이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 739,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:20 ]응. 큰일인걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 740,
+      "style": 126,
+      "name": "[XENO:trust trust=f:5:50 ]멜리아라면[XENO:n ]\n좋은 방법이 있지 않을까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 741,
+      "style": 126,
+      "name": "의지해 주는 것은 기쁘나…[XENO:n ]\n슈르크, 이건 꽤 힘들겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 742,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:20 ]그래. 큰일인걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 743,
+      "style": 126,
+      "name": "[XENO:trust trust=f:10:50 ]여유로워 보이는데 멜리아?[XENO:n ]\n해결할 방법이라도 있어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 744,
+      "style": 126,
+      "name": "그건 이야기를 들은 다음이다[XENO:n ]\n지금은 어렵다고밖에 할 수 없구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 745,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:20 ]응. 큰일이야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 746,
+      "style": 126,
+      "name": "[XENO:trust trust=f:14:50 ]멜리아, 그냥 지나칠 수 없다고[XENO:n ]\n얼굴에 쓰여 있는데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 747,
+      "style": 126,
+      "name": "그대도 마찬가지니라[XENO:wait wait=key ][System:PageBreak ]정말이지, 둘 다 유별난 성격이구나[XENO:n ]\n어렵다는 걸 알면서도…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 748,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:20 ]확실히 문제군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 749,
+      "style": 126,
+      "name": "[XENO:trust trust=f:17:50 ]하지만 어떻게든 해결할 셈이지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 750,
+      "style": 126,
+      "name": "그래. 이대로 두면[XENO:n ]\n더 성가신 일이 될 것 같구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 751,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:20 ]확실히 문제네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 752,
+      "style": 126,
+      "name": "[XENO:trust trust=f:19:50 ]그런가?[XENO:n ]\n너한테는 간단한 문제잖아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 753,
+      "style": 126,
+      "name": "카르나는 나를 과대평가하는구나[XENO:n ]\n어려운 건 어려운 것이다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 754,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:20 ]큰일이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 755,
+      "style": 126,
+      "name": "[XENO:trust trust=f:20:50 ]괜찮아모. 리키가 있어모![XENO:wait wait=key ][System:PageBreak ]멜리아는[XENO:n ]\n안심해도 돼모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 756,
+      "style": 126,
+      "name": "리키, 마음은 기쁘지만[XENO:n ]\n도와야 할 사람을 착각한 것이 아니냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 757,
+      "style": 126,
+      "name": "키노도 듣고 싶어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 758,
+      "style": 126,
+      "name": "나도 그래\n키노, 같이 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 759,
+      "style": 126,
+      "name": "네네도 궁금해요모~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 760,
+      "style": 126,
+      "name": "그럼 같이 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 761,
+      "style": 126,
+      "name": "키노도 듣고 싶어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 762,
+      "style": 126,
+      "name": "그래, 계속 들어 보자꾸나\n키노도 잘 들어야 하느니라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 763,
+      "style": 126,
+      "name": "네네도 궁금해요모~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 764,
+      "style": 126,
+      "name": "그래, 짐작건대 무슨\n사정이 있는 모양이구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 765,
+      "style": 126,
+      "name": "응. 키노는 용사니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 766,
+      "style": 126,
+      "name": "맞아모!\n슈르크는 알아주는구나모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 767,
+      "style": 126,
+      "name": "그래, 나도 듣도록 하마[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 768,
+      "style": 126,
+      "name": "모! 멜리아도\n키노랑 같이 들어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 769,
+      "style": 126,
+      "name": "네네한테도 들려 줘모~![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 770,
+      "style": 126,
+      "name": "모! 키노랑 누나가 있으면\n금방 끝날 거야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 771,
+      "style": 126,
+      "name": "네네, 나한테도 들려 줘[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 772,
+      "style": 126,
+      "name": "모모~ 대환영이에요모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 773,
+      "style": 126,
+      "name": "그래, 나도 듣도록 하마[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 774,
+      "style": 126,
+      "name": "모모~ 대환영이에요모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 775,
+      "style": 126,
+      "name": "키노도 듣고 싶어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 776,
+      "style": 126,
+      "name": "모~! 키노랑 네네가 나서면\n금방 해결될 거예요모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 777,
+      "style": 126,
+      "name": "슈르크, 왜 그래모?\n키노가 배고파해서 그래모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 778,
+      "style": 126,
+      "name": "아니, 그건 몰랐는데…\n나중에 다시 오자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 779,
+      "style": 126,
+      "name": "모모? 슈르크 씨\n안 도와줄 거예요모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 780,
+      "style": 126,
+      "name": "미안…\n나중에 다시 오자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 781,
+      "style": 126,
+      "name": "멜리아, 왜 그래모?\n혹시 배고파모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 782,
+      "style": 126,
+      "name": "그런 게 아니니라\n다만 지금은 때가 아니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 783,
+      "style": 126,
+      "name": "모모? 멜리아 씨\n안 도와줄 거예요모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 784,
+      "style": 126,
+      "name": "적당한 때를 기다리는 것뿐이다\n조만간 다시… 오지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 785,
+      "style": 126,
+      "name": "키노, 안 도와줄 거야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 786,
+      "style": 126,
+      "name": "지금은 안 돼모\n용사에게도 휴식이 필요해모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 787,
+      "style": 126,
+      "name": "왜 그러느냐, 키노?\n돕지 않을 것이냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 788,
+      "style": 126,
+      "name": "지금은 안 돼모\n용사에게도 휴식이 필요해모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 789,
+      "style": 126,
+      "name": "키노, 용사라면 도와야지모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 790,
+      "style": 126,
+      "name": "알아모. 하지만 지금은 안 돼모\n용사에게도 휴식이 필요해모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 791,
+      "style": 126,
+      "name": "네네, 안 도와줄 거야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 792,
+      "style": 126,
+      "name": "죄송해요모\n지금은 안 돼요모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 793,
+      "style": 126,
+      "name": "왜 그러느냐, 네네?\n돕지 않을 것이냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 794,
+      "style": 126,
+      "name": "죄송해요모\n지금은 안 돼요모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 795,
+      "style": 126,
+      "name": "누나, 안 도와줄 거야모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 796,
+      "style": 126,
+      "name": "모모~ 지금은 안 돼모~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 797,
+      "style": 126,
+      "name": "용사 키노가 있으니까\n금방 끝날 거야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 798,
+      "style": 126,
+      "name": "고마워, 키노\n너만 믿을게![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 799,
+      "style": 126,
+      "name": "슈르크 씨가 있으면\n눈 깜빡할 사이에 끝날 거예요모~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 800,
+      "style": 126,
+      "name": "네네도 있잖아![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 801,
+      "style": 126,
+      "name": "용사 키노도 도와줄게모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 802,
+      "style": 126,
+      "name": "든든하구나\n기대하마, 키노[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 803,
+      "style": 126,
+      "name": "네네도 도와줄게요모~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 804,
+      "style": 126,
+      "name": "고맙구나, 네네\n신속히 끝내도록 하자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 805,
+      "style": 126,
+      "name": "그래. 나도 도와줄게, 키노[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 806,
+      "style": 126,
+      "name": "모모!\n용사 키노와 슈르크에게 맡겨모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 807,
+      "style": 126,
+      "name": "그럼, 용사가 활약을\n보여 주거라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 808,
+      "style": 126,
+      "name": "모모옷!\n멜리아도 활약해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 809,
+      "style": 126,
+      "name": "네네는 키노를 지켜볼게요모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 810,
+      "style": 126,
+      "name": "모모옷?!\n누나도 도와줘모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 811,
+      "style": 126,
+      "name": "응. 나도 도와줄게, 네네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 812,
+      "style": 126,
+      "name": "모모~! 슈르크 씨가\n도와주면 정말 든든하죠모~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 813,
+      "style": 126,
+      "name": "그래. 나도 돕도록 하마, 네네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 814,
+      "style": 126,
+      "name": "모모~! 멜리아 씨가\n도와주면 정말 든든하죠모~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 815,
+      "style": 126,
+      "name": "용사 키노랑\n수행원들한테 맡겨모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 816,
+      "style": 126,
+      "name": "키노, 수행원이 아니라\n친구라고 해야지모~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 817,
+      "style": 126,
+      "name": "해냈어모! 경사야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 818,
+      "style": 126,
+      "name": "키노 덕분이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 819,
+      "style": 126,
+      "name": "다행이에요모~\n역시 슈르크 씨는 대단해요모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 820,
+      "style": 126,
+      "name": "네네가 도와준 덕분이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 821,
+      "style": 126,
+      "name": "멜리아는 잘했어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 822,
+      "style": 126,
+      "name": "그래… 고맙구나\n키노 덕분이니라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 823,
+      "style": 126,
+      "name": "다행이에요모~\n역시 멜리아 씨는 대단해요모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 824,
+      "style": 126,
+      "name": "그래… 고맙구나\n네네 덕분이니라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 825,
+      "style": 126,
+      "name": "응. 해냈어, 키노![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 826,
+      "style": 126,
+      "name": "모모! 키노는 훌륭한 용사에\n한 걸음 더 다가갔어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 827,
+      "style": 126,
+      "name": "그래. 휼륭하구나, 키노[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 828,
+      "style": 126,
+      "name": "키노도 조금은\n아빠처럼 됐을까모…?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 829,
+      "style": 126,
+      "name": "역시 아빠랑 엄마의 아들이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 830,
+      "style": 126,
+      "name": "모! 키노는\n누나의 동생이기도 해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 831,
+      "style": 126,
+      "name": "응, 네네 덕분이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 832,
+      "style": 126,
+      "name": "슈르크 씨 덕분이기도 해요모~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 833,
+      "style": 126,
+      "name": "그래. 훌륭하구나, 네네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 834,
+      "style": 126,
+      "name": "멜리아 씨 덕분이에요모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 835,
+      "style": 126,
+      "name": "키노도 도움이 됐어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 836,
+      "style": 126,
+      "name": "모! 땅끝 마을로 돌아가면\n아빠랑 엄마한테 알려 줘야지모~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 837,
+      "style": 126,
+      "name": "용사 키노 차례야모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 838,
+      "style": 126,
+      "name": "그럴지도 몰라\n같이 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 839,
+      "style": 126,
+      "name": "슈르크 씨도 궁금해요모?\n네네도 궁금해요모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 840,
+      "style": 126,
+      "name": "응. 같이 이야기를 들어 보자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 841,
+      "style": 126,
+      "name": "왠지 답답해모\n키노가 도와주고 싶어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 842,
+      "style": 126,
+      "name": "키노… 그렇다면\n이야기를 들어 보자꾸나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 843,
+      "style": 126,
+      "name": "네네가 이야기를 들어줄게요모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 844,
+      "style": 126,
+      "name": "네네, 나도 듣도록 하마[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 845,
+      "style": 126,
+      "name": "무슨 일이 있나 봐, 키노[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 846,
+      "style": 126,
+      "name": "모! 이야기를 들어 보자모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 847,
+      "style": 126,
+      "name": "잘은 모르겠지만… 무슨 일이\n있었는지 들어 봐야겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 848,
+      "style": 126,
+      "name": "모! 멜리아랑 같이\n이야기를 들을래모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 849,
+      "style": 126,
+      "name": "키노, 아빠라면\n이럴 때 어떻게 하실까모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 850,
+      "style": 126,
+      "name": "이야기를 들어 볼 거야모!\n용사니까모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 851,
+      "style": 126,
+      "name": "무슨 일이 있나 봐, 네네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 852,
+      "style": 126,
+      "name": "모모~ 네네가 이야기를\n들어 볼게요모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 853,
+      "style": 126,
+      "name": "그래. 우선은 이야기를\n들어 보자꾸나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 854,
+      "style": 126,
+      "name": "그게 좋겠어요모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 855,
+      "style": 126,
+      "name": "왜 그래모?\n배고파모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 856,
+      "style": 126,
+      "name": "키노랑 네네가 이야기를\n들어 줄게요모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 857,
+      "style": 126,
+      "name": "큰일이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 858,
+      "style": 126,
+      "name": "응, 뭔가 도울 수 있으면\n좋겠는데…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 859,
+      "style": 126,
+      "name": "안 좋은 예감이 들어요모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 860,
+      "style": 126,
+      "name": "응, 뭔가 도울 수 있으면\n좋겠는데…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 861,
+      "style": 126,
+      "name": "큰일이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 862,
+      "style": 126,
+      "name": "그래. 이대로\n내버려 둘 수는 없겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 863,
+      "style": 126,
+      "name": "안 좋은 예감이 들어요모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 864,
+      "style": 126,
+      "name": "그래. 이대로\n내버려 둘 수는 없겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 865,
+      "style": 126,
+      "name": "응. 이대로 놔둘 수는 없어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 866,
+      "style": 126,
+      "name": "모모! 용사 키노 차례야모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 867,
+      "style": 126,
+      "name": "그래. 이대로\n내버려 둘 수는 없겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 868,
+      "style": 126,
+      "name": "모모! 용사 키노 차례야모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 869,
+      "style": 126,
+      "name": "키노, 아빠라면\n이럴 때 어떻게 하실까모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 870,
+      "style": 126,
+      "name": "이야기를 들어 볼 거야모!\n용사니까모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 871,
+      "style": 126,
+      "name": "응. 이대로 놔둘 수는 없어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 872,
+      "style": 126,
+      "name": "모모~! 역시\n슈르크 씨는 대단해요모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 873,
+      "style": 126,
+      "name": "그래. 이대로\n내버려 둘 수는 없겠구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 874,
+      "style": 126,
+      "name": "모모~! 역시\n멜리아 씨는 대단해요모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 875,
+      "style": 126,
+      "name": "누나, 어떻게 할 거야모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 876,
+      "style": 126,
+      "name": "모모~ 좀 더 자세한 이야기를\n들어 볼게요모~[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

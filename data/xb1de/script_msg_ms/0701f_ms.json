@@ -1,0 +1,34 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:qst qst=460 ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "어디로 가려는 거야모?![XENO:n ]\n돌아가모~[XENO:wait wait=key ][System:PageBreak ]마을에서 리키의 무기와[XENO:n ]\n방어구를 준비해 줘모[XENO:wait wait=key ][System:PageBreak ]그게 친구의 역할이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:qst qst=399 ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:qst qst=422 ]"
+    }
+  ]
+}

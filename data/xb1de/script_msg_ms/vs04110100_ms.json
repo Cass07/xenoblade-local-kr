@@ -1,0 +1,34 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "젠장! 왜 이런 곳에 턱이 있는 건데…[XENO:n ]\n큰일이네…[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "아… 부딪힌 충격으로[XENO:n ]\n[XENO:act act=EVT_EXT7 ]프론트 서스펜션이 꺾여 버렸어[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "어쩔 수 없지… 걸어서 갈까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]모두 겁쟁이야[XENO:n ]\n나 혼자서라도 해낼 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

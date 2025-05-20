@@ -1,0 +1,334 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "하이엔터 및 노폰족 피난민은[XENO:n ]\n콜로니 6에 수용했다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "다행히 이곳은 기신병이 요새로[XENO:n ]\n만들어 둔 탓에 당분간은 버틸 수 있을 게다[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]얄궂은 일이구나[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "잔자에게서 달아나고 싶은데[XENO:n ]\n그 몸인 거신에서 벗어날 수 없다니[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]뭐, 우리가 사는 땅이니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]공주, 한 가지 확인하고 싶네[XENO:n ]\n피난 온 하이엔터는… 괜찮은 건가?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]확증은 없으나… 아마 괜찮을 것이다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]살아남은 자들은 나처럼[XENO:n ]\n모두 홈스의 혼혈이니라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그런가…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "그들이 변한다면 나 또한…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]만약 그 순간이 온다면 망설일 필요는 없다[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]정말 괜찮은 건가?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]모두 운명을 받아들일 각오는 되어 있다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]절대 그럴 일은 없어![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "그렇지 않으면 폐하와 칼리안 씨가[XENO:n ]\n멜리아에게 하이엔터의 미래를 맡긴 의미가 없어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]맞는 말이야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]하지만 멜리아[XENO:n ]\n우리는 살아남기 위해 잔자와[XENO:n ]\n…테레시아와 싸워야만 한다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "모든 테레시아가 그런 것은 아니지만[XENO:n ]\n상당수의 테레시아는 원래 하이엔터[XENO:n ]\n멜리아의 동포였던… 신하와 백성들이다[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]각오는 되어 있다고 했다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "설령 동포를 이 손으로 죽이게 된다 하여도[XENO:n ]\n살아남은 자들을 지킬 것이다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "그것이 아버님과 오라버니께서 맡긴[XENO:n ]\n의지니 말이다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]잔자에게 붙잡힌 자들의 영혼을[XENO:n ]\n해방하기 위해 나는… 싸우겠다[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]강하구나… 멜리아[XENO:n ]\n그 강함… 우리도 본받도록 하지[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]어때? 슈르크는?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]생명에 지장은 없는 것 같아[XENO:n ]\n딕슨의 총에 맞은 상처는 아물어 있었으니까[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]아마 메이너스가 마지막 남은 힘으로[XENO:n ]\n슈르크를 지켜 준 것 같아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]그런가…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]지금 리나다가 봐 주고 있어[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "피오른…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "눈을 뜨지 않아… 슈르크[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "슈르크의 의식은 어둡고 차가운[XENO:n ]\n호수 밑에 가라앉은 것처럼[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "아무리 불러도 어떤 반응도 없어…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "젠장! 잔자 녀석![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]만약 이런 상황에[XENO:n ]\n테레시아가 공격해 오거나 하면…[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그때는 슈르크 없이 싸울 수밖에 없겠지[XENO:n ]\n그러기 위해서 모두가 방비를 굳히고 있는 거니까[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]우리가 만든 무기도 조금은 도움이 될 게야[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT19 ]싸울 수밖에 없어[XENO:n ]\n끝까지 저항해 주지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]과연 저항하는 데 의미가 있는 걸까?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 125,
+      "name": "무슨 뜻이야? 알비스![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]말 그대로야. 우리는 거신에게서[XENO:n ]\n즉, 잔자로부터 생겨난 생명이지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 41,
+      "style": 125,
+      "name": "그런 우리가 잔자의 의지로 테레시아를 통해[XENO:n ]\n그 몸으로 되돌아가려 하고 있어[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 42,
+      "style": 125,
+      "name": "병에 걸리거나 수명을 다해 평범하게[XENO:n ]\n죽어도 그 시체는 거신으로 돌아가[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 43,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]어느 쪽이든 마찬가지지[XENO:n ]\n전혀 다를 것 없어. 안 그래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]아니. 전혀 다르다고![XENO:n ]\n어쨌든 일방적으로 당하는 거니까[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 45,
+      "style": 125,
+      "name": "우리들도 살아갈 권리가 있어[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그렇지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 47,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]설사 창조주라고 해도[XENO:n ]\n거기에서 태어난 생명을[XENO:n ]\n제멋대로 빼앗는 것은 도리가 아니야[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그것은 우리의 척도에 따른 사고방식이지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 49,
+      "style": 125,
+      "name": "그는 신이야. 신에게는 신의 척도와[XENO:n ]\n사고방식이 있는 게 아닐까[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그러니까 네 말은 우리는[XENO:n ]\n잠자코 죽으면 된다는 소리야?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 125,
+      "name": "그것이 신이 정한 운명이라면[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]운명을 받아들이고 가만히 앉아 죽음을 기다릴 정도로[XENO:n ]\n우리는 달관한 사람이 아니야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]끝까지 저항해 주겠어[XENO:n ]\n그러다 결국 이 목숨을 잃는다 해도[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 54,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]잔자에게는 똑같은 결과야[XENO:n ]\n그래도 싸울 거야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그래. 중요한 건 결과가 아니야[XENO:n ]\n저항하려 하는 바로 그 의지다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그것이 헛된 죽음이라 해도?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 57,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]알비스![XENO:n ]\n너는 대체 누구 편이야![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 58,
+      "style": 125,
+      "name": "그게 아니면 겁먹었어?![XENO:n ]\n테레시아를 보고 말이야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그만해라. 우리끼리[XENO:n ]\n싸워 봤자 아무 의미 없어![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 60,
+      "style": 125,
+      "name": "큭…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 61,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ](윽…)[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 62,
+      "style": 125,
+      "name": "피오른?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 63,
+      "style": 125,
+      "name": "미안. 잠시 기분 전환하러[XENO:n ]\n바람 좀 쐬고 올게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 64,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]?[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

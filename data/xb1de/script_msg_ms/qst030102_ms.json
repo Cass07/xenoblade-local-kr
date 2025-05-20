@@ -1,0 +1,99 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "어…?[XENO:n ]\n이상하네…[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "왜 그러느냐, 슈르크?[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "키트가 없어[XENO:n ]\n분명 여기에 있었는데…[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "…누가 가져간 것이냐?[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "그런 걸지도 몰라[XENO:n ]\n음~ 난감하네…[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "…음? 슈르크[XENO:n ]\n거기에 뭔가 떨어져 있다[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "뭐?[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "아, 정말이네…[XENO:n ]\n무슨 메모인가 봐[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "이건… 군수 물자 목록이야[XENO:n ]\n담당자 서명도 있어…[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "『허셀』…인가?[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "흠… 내 기억이 맞다면 근위병들 중에[XENO:n ]\n그 이름으로 불리는 자가 있었지[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "목록을 보니 거신의 어깨 여기저기에[XENO:n ]\n물자를 회수하러 다니는 모양이야[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "그래서 키트도 가져간 것 같아…[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "소재지의 단서가 될 만한 것이[XENO:n ]\n더 적혀 있지 않으냐?[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "…지금은 아마[XENO:n ]\n네르바스 묘지에 있으려나?[XENO:wait wait=key ][System:PageBreak ]회수 지점 목록에[XENO:n ]\n여기만 표시가 안 되어 있거든[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "그렇다면 그곳이겠구나[XENO:n ]\n엇갈리기 전에 가도록 하자[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 0,
+      "name": "シュルク　うなずく"
+    }
+  ]
+}

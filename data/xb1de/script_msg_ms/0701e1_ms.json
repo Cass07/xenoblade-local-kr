@@ -1,0 +1,244 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "에헴! 여기가 땅끝 마을이 자랑하는[XENO:n ]\n꽃가루 공장이야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "우와~ 이 기계 대단하다[XENO:n ]\n전부 나무로 되어 있어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "어허, 기계라고[XENO:n ]\n부르면 안 되지모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:sel sel=・기신병이 생각나니까?/・금속을 안 썼으니까? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "기신병? 그게 왜?[XENO:n ]\n기신병은 어디에도 없는데모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "기신병은 전부 기계니까 무서운 기억이[XENO:n ]\n떠오르는 걸까 싶어서[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "리키는 용사니까[XENO:n ]\n기신병 같은 건 무섭지 않아모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "그렇구나[XENO:n ]\n리키는 강하구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "슈르크는 기신병이 무서워모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:sel sel=・무서워/・하나도 안 무서워 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "그래모?[XENO:wait wait=key ][System:PageBreak ]슈르크한테는 모나드가 있으니까[XENO:n ]\n무서울 것 없어모[XENO:wait wait=key ][System:PageBreak ]리키는 오카가[XENO:n ]\n훨씬 더 무서워모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "그렇구나. 나도 화난[XENO:n ]\n피오른이 더 무서워[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]하지만 피오른은 기신병에게…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "슈르크, 왜 그래모?[XENO:n ]\n울 것 같은 표정이야모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "괜찮아. 난 안 울어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "슈르크는 강하지만[XENO:n ]\n리키가 보기에는 아직 아이야모[XENO:wait wait=key ][System:PageBreak ]울고 싶으면[XENO:n ]\n언제든 내 품을 빌려줄게모[XENO:wait wait=key ][System:PageBreak ]안겨서 실컷 울어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "고마워[XENO:wait wait=key ][System:PageBreak ]울고 싶어지면[XENO:n ]\n부비부비할게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "앗, 그건 안 돼모[XENO:wait wait=key ][System:PageBreak ]부비부비는 멜리아만의[XENO:n ]\n특권이야모![XENO:wait wait=key ][System:PageBreak ]남자는 사절이야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "뭐어? 나도 조금만[XENO:n ]\n부비부비하게 해 줘~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]무섭지는 않아. 하지만…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "역시 슈르크![XENO:wait wait=key ][System:PageBreak ]용사 리키가 눈여겨본[XENO:n ]\n친구다워모![XENO:wait wait=key ][System:PageBreak ]아주 용감해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]피오른은 기신병 때문에…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "우~! 슈르크![XENO:n ]\n모처럼 칭찬하고 있으니 싱글벙글해모![XENO:wait wait=key ][System:PageBreak ]혹시 화났어모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "어? 아, 아냐. 미안…[XENO:n ]\n화 안 났어[XENO:wait wait=key ][System:PageBreak ]리키가 훨씬 용감하구나[XENO:n ]\n싶어서 그랬어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "그랬어모?[XENO:n ]\n…음음! 그래모![XENO:wait wait=key ][System:PageBreak ]리키는 용감해모![XENO:n ]\n최강! 멋져모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "그래그래[XENO:wait wait=key ][System:PageBreak ]내가 위기에 처하면[XENO:n ]\n그때는 부탁할게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "맡겨만 줘모![XENO:n ]\n멋지게 구해 줄게모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "그 말대로야모![XENO:n ]\n기계라고 하면 금속![XENO:wait wait=key ][System:PageBreak ]하지만 이 장치는[XENO:n ]\n금속을 안 썼어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "그러고 보니 마을에서도[XENO:n ]\n금속이 거의 안 보였어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "리키 같은 노폰들은[XENO:n ]\n마크나와 함께 살아모[XENO:wait wait=key ][System:PageBreak ]마크나에 있는 것만[XENO:n ]\n쓰는 거야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "[XENO:sel sel=・여러모로 궁리했구나/・정말로 마크나에 있는 것만 썼어? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "길~고 긴~ 노폰의 역사 속에서[XENO:n ]\n많은 것들이 만들어졌어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "대단하네[XENO:n ]\n이 꽃가루 구슬이라는 것도 신기해[XENO:wait wait=key ][System:PageBreak ]열 에너지를 내면서 빛나고 있는데[XENO:n ]\n연소하는 건 또 아닌 것 같고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "노랑하고 초록하고 파랑은[XENO:n ]\n먹어도 안전한 거야모[XENO:wait wait=key ][System:PageBreak ]하지만 빨간 건…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "그러고 보니 리프트에[XENO:n ]\n빨간 게 있었지?[XENO:wait wait=key ][System:PageBreak ]조금 맛있어 보이는[XENO:n ]\n색깔이었어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "슈르크, 먹어 볼래모?[XENO:wait wait=key ][System:PageBreak ]리키는 그건 도저히 못 먹겠어모…[XENO:wait wait=key ][System:PageBreak ]배가 찌릿찌릿 우르르해서[XENO:n ]\n큰일 나모…[XENO:wait wait=key ][System:PageBreak ]그런 게 맛있어 보인다니[XENO:n ]\n슈르크도 용사라고 불러야겠어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "재밌는 소릴 하는걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "리키 상대로 사양할 것 없어모![XENO:n ]\n오카한테 말해서 요리해 달라고 할게모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "왜 그렇게 의욕이 넘치는 거야?[XENO:wait wait=key ][System:PageBreak ]괜찮을까…?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "읏, 슈르크 날카로워모[XENO:wait wait=key ][System:PageBreak ]역시 슈르크야모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "마크나를 여기저기 돌아다녔으니까[XENO:wait wait=key ][System:PageBreak ]거기서 나는 게 아니라는 것도[XENO:n ]\n조금은 알아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "풀무의 심은 새 인간한테 받은[XENO:n ]\n튼튼한 줄로 묶어모[XENO:wait wait=key ][System:PageBreak ]호무호무한테 배운 대로[XENO:n ]\n기름을 발라서[XENO:wait wait=key ][System:PageBreak ]힘을 조금만 줘도[XENO:n ]\n돌릴 수 있게 되어 있어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "오~ 꽤 많은 기술이[XENO:n ]\n융합된 거구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "노폰은 거신계 곳곳에서[XENO:n ]\n살아가고 있어모[XENO:wait wait=key ][System:PageBreak ]새로운 기술도[XENO:n ]\n금방 들어와모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "그렇구나[XENO:wait wait=key ][System:PageBreak ]여러 지역의 좋은 기술이[XENO:n ]\n노폰 문화와 융합해 가는 거네…[XENO:wait wait=key ][System:PageBreak ]대단한걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "에헤헤~ 리키가 만든 건 아니지만[XENO:n ]\n슈르크가 칭찬해 주니 기뻐모![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

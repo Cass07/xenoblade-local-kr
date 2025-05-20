@@ -1,0 +1,39 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "마키나…[XENO:n ]\n그건…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "묻고 싶은 게 잔뜩 있다는[XENO:n ]\n그런 표정이네[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]하지만 우선 우리 마을을 둘러보는 게 어때?[XENO:n ]\n분명 많은 걸 알 수 있을 거야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "이야기는 그다음이야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "나는 저 건물 정크스 앞에서[XENO:n ]\n기다리고 있을 테니까[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

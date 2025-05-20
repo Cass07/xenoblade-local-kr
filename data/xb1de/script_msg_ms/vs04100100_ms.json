@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "카르나, 쥬쥬가 갈 만한 루트 알고 있어?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]루트는 몇 가지 있지만 버기를 탔으니[XENO:n ]\n《라그엘대교》를 지나는 루트로 갔을 거야[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "《라그엘대교》?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]먼 옛날에 지어진 다리야[XENO:n ]\n딱 콜로니 9에 사람들이 살기 시작했을 무렵이지[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]좋아. 우선 그 《라그엘대교》 쪽으로 가자[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]목적지가 정해졌으니 서두르자고[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]도중에 몬스터를 만나면 나랑 슈르크가 처리할게[XENO:n ]\n카르나는 물러나 있어[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]무시하지 말아 줄래?[XENO:n ]\n나도 싸울 거야[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "내 전문은 치유 에테르야[XENO:n ]\n[XENO:act act=EVT_EXT1 ]큰 상처를 입어도 금방 치료해 줄게[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]그거 도움이 되겠는데[XENO:n ]\n위험할 때는 잘 부탁해![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

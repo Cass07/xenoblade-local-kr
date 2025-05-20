@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "기신의 중추에 들어온 것은 좋지만[XENO:n ]\n그 아포크리파 발생기라는 건 어디에 있는 거야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]그러네[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "모나드가 이런 상태라면[XENO:n ]\n에길과의 싸움은 힘들 게 뻔하고[XENO:n ]\n슈르크의 몸에 큰 부담이 될 거야[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "어떻게 해서든 발생기를 부숴야만 해[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "이 앞이야…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]슈르크?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "이 앞에서 엄청난[XENO:n ]\n압박감이 느껴져. 틀림없어…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]정말이야?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]응…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT19 ]좋아. 가자! 가서 에길을[XENO:n ]\n깜짝 놀라게 해 주자고[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

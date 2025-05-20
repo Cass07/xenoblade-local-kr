@@ -1,0 +1,109 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 5,
+      "name": "야채"
+    },
+    {
+      "$id": 2,
+      "style": 5,
+      "name": "과일"
+    },
+    {
+      "$id": 3,
+      "style": 5,
+      "name": "꽃"
+    },
+    {
+      "$id": 4,
+      "style": 5,
+      "name": "동물"
+    },
+    {
+      "$id": 5,
+      "style": 5,
+      "name": "곤충"
+    },
+    {
+      "$id": 6,
+      "style": 5,
+      "name": "자연물"
+    },
+    {
+      "$id": 7,
+      "style": 5,
+      "name": "기계류"
+    },
+    {
+      "$id": 8,
+      "style": 5,
+      "name": "수수께끼"
+    },
+    {
+      "$id": 9,
+      "style": 19,
+      "name": "컬렉피디아"
+    },
+    {
+      "$id": 10,
+      "style": 8,
+      "name": "등록 상황"
+    },
+    {
+      "$id": 11,
+      "style": 1,
+      "name": "%"
+    },
+    {
+      "$id": 12,
+      "style": 19,
+      "name": "등록하겠습니까?"
+    },
+    {
+      "$id": 13,
+      "style": 11,
+      "name": "등록"
+    },
+    {
+      "$id": 14,
+      "style": 11,
+      "name": "취소"
+    },
+    {
+      "$id": 15,
+      "style": 5,
+      "name": "소비 수:"
+    },
+    {
+      "$id": 16,
+      "style": 5,
+      "name": "소지 수:"
+    },
+    {
+      "$id": 17,
+      "style": 115,
+      "name": "Category Complete!"
+    },
+    {
+      "$id": 18,
+      "style": 115,
+      "name": "Area Complete!"
+    },
+    {
+      "$id": 19,
+      "style": 5,
+      "name": "기타"
+    }
+  ]
+}

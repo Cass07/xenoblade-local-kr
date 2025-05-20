@@ -1,0 +1,254 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "음…[XENO:n ]\n어디였더라?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]무슨 일이야, 카르나?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]……![XENO:wait wait=key ][System:PageBreak ]찾았다, 회중시계![XENO:n ]\n다행이야, 무사해서…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:sel sel=・좋은 시계네/・좀 지저분해 보이네 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]자세히 보면 장식도 세밀하고[XENO:n ]\n굉장히 귀한 물건이구나[XENO:wait wait=key ][System:PageBreak ]이건 카르나 시계야?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]응. 돌아가신 아빠가[XENO:n ]\n생전에 나한테 물려주신 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]그랬구나[XENO:wait wait=key ][System:PageBreak ]하지만 왜 여기에?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]콜로니를 탈출할 때[XENO:n ]\n떨어뜨려 버렸거든[XENO:wait wait=key ][System:PageBreak ]그걸 오다마 씨가 주워 줬어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]소중히 보관하고 있었구나[XENO:n ]\n아직 움직일 것 같아?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]그게…[XENO:wait wait=key ][System:PageBreak ]아쉽지만[XENO:n ]\n망가져 버렸나 봐[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:sel sel=・내가 수리해 줄게/・그럼 어쩔 수 없겠네 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]에테르 전지만 손에 넣으면[XENO:n ]\n어떻게든 될 것 같아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]정말…?![XENO:n ]\n부탁해도 될까?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]응. 맡겨 둬![XENO:wait wait=key ][System:PageBreak ]콜로니에 있을 때도[XENO:n ]\n자주 부탁받았었어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "정말 다행이야…[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]나 말이야, 어릴 때부터[XENO:n ]\n이 시계를 정말 좋아했어[XENO:wait wait=key ][System:PageBreak ]아빠한테 받았을 때[XENO:n ]\n굉장히 기뻤지…[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]소중한 시계였구나[XENO:wait wait=key ][System:PageBreak ]카르나를 도울 수 있어서 기뻐[XENO:n ]\n앞으로도 수리라면 나한테 맡겨[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]응. 그럴게[XENO:n ]\n고마워. 슈르크[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]희귀한 시계니까[XENO:n ]\n수리는 어려울 거 같은데[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]포기할 수밖에 없나…[XENO:n ]\n아무리 슈르크라도 못 고치지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]으음~ 어떨까?[XENO:n ]\n에테르 전지만 손에 넣으면…[XENO:wait wait=key ][System:PageBreak ]어쩌면…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]부품이라면 내가 찾을게[XENO:n ]\n부탁이야, 고쳐줄 수 없을까?[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]이 시계는 아빠의 유품이야…[XENO:wait wait=key ][System:PageBreak ]이대로 움직이지 않는다니[XENO:n ]\n너무 쓸쓸해…[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]그렇지…[XENO:wait wait=key ][System:PageBreak ]알았어[XENO:n ]\n할 수 있는 건 해 볼게![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]그렇게 말해 줘서 고마워[XENO:n ]\n부탁할게, 슈르크[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]문자판이 잘 안 보여서[XENO:n ]\n몇 시인지 잘 모르겠어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]슈르크[XENO:n ]\n말을 좀 가려서 해![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT13 ]미, 미안해…[XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][System:PageBreak ]하지만 왜 여기에?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]콜로니를 탈출할 때[XENO:n ]\n떨어뜨려 버렸거든[XENO:wait wait=key ][System:PageBreak ]그걸 오다마 씨가 주워 줬어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]잘 보니까 값비싼 시계구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:sel sel=・팔면 얼마나 나갈까?/・선물받은 거야? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "가격이 상당할 것 같은데…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT13 ]눈독 들이면 안 돼[XENO:n ]\n팔 생각은 없어![XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]아, 아니, 그런 뜻이 아니야…[XENO:wait wait=key ][XENO:act act=EVT4 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "이 시계는 말이지, 돌아가신 아빠가[XENO:n ]\n생전에 나한테 물려주신 거야[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT2 ]내겐 소중한 물건이야…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]그랬구나…[XENO:n ]\n미안해, 불쾌한 소리를 해서…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]뭐, 됐어[XENO:n ]\n이젠 안 움직이기도 하고…[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]아니, 에테르 전지만 있으면[XENO:n ]\n고칠 수 있을지도 몰라![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]정말…?[XENO:n ]\n슈르크가 고칠 수 있어?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]응. 맡겨 둬![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]콜로니에 있을 때도[XENO:n ]\n자주 부탁받았어[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]그러면 부탁해도 될까?[XENO:n ]\n잘 부탁해, 슈르크![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "이 시계는 말이지, 돌아가신 아빠가[XENO:n ]\n생전에 나한테 물려주신 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]카르나의 아버지가…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]이 시계는 말이야…[XENO:n ]\n아빠의 유품이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]그랬구나…[XENO:n ]\n하지만 안 움직이는 것 같은데?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]응. 아쉽지만[XENO:n ]\n이제 못 쓸 것 같아…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]아니, 에테르 전지만 있으면[XENO:n ]\n고칠 수 있을지도 몰라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]뭐…?![XENO:n ]\n슈르크, 그게 정말이야…?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]응. 희귀한 부품이지만[XENO:n ]\n얻을 수만 있으면 분명 다시 움직일 거야[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT1 ]수리라면 내게 맡겨![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]분명 쥬쥬도 기뻐할 거야…[XENO:n ]\n고마워. 슈르크![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    }
+  ]
+}

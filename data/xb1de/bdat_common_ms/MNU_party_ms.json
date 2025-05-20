@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 19,
+      "name": "파티"
+    },
+    {
+      "$id": 2,
+      "style": 1,
+      "name": "Lv"
+    },
+    {
+      "$id": 3,
+      "style": 1,
+      "name": "HP"
+    },
+    {
+      "$id": 4,
+      "style": 5,
+      "name": "Next"
+    },
+    {
+      "$id": 5,
+      "style": 10,
+      "name": "파티 편성"
+    },
+    {
+      "$id": 6,
+      "style": 23,
+      "name": "파티 멤버를 변경할 수 있습니다"
+    },
+    {
+      "$id": 7,
+      "style": 11,
+      "name": "예"
+    },
+    {
+      "$id": 8,
+      "style": 11,
+      "name": "아니요"
+    },
+    {
+      "$id": 9,
+      "style": 11,
+      "name": "Guest"
+    },
+    {
+      "$id": 10,
+      "style": 9,
+      "name": "Battle Member"
+    },
+    {
+      "$id": 11,
+      "style": 9,
+      "name": "Reserver"
+    },
+    {
+      "$id": 12,
+      "style": 6,
+      "name": "Leader"
+    }
+  ]
+}

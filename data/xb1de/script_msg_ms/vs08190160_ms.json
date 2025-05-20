@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ](선조를 모신 제단은[XENO:n ]\n몇 겹이나 되는 봉인 뒤에 있다)[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ](어떠한 시련이 기다리고 있을까…[XENO:n ]\n정신 바짝 차리고 임해야겠지)[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

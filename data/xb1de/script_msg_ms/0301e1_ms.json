@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "우리 콜로니가 있는 거신의 정강이와는[XENO:n ]\n전혀 다른 풍경이네요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "흠…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "언제부터 형성된 걸까요?[XENO:wait wait=key ][System:PageBreak ]이 풍경은 몇 번을 봐도[XENO:n ]\n질리지가 않아요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "호오…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "단반 씨…[XENO:n ]\n전혀 관심 없으신 거죠?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:sel sel=・음…/・그렇지 않아 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "그렇겠죠…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "음?![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]미, 미안[XENO:n ]\n딴생각을 하느라…[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]정말, 흥미가 없는 일엔[XENO:n ]\n완전히 무관심하시군요…[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "뭐라고?[XENO:n ]\n내가 그랬어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "그러셨어요[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT4 ]그럼 여기가 거신의 몸에서[XENO:n ]\n어느 부위인지 알고 계세요?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:sel sel=・무릎이지?/・대퇴부지? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]그 정도는 알고 있지[XENO:n ]\n넌 나를 누구라고 생각하는 거야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]죄, 죄송해요…[XENO:n ]\n방금 그 질문은 좀 심했네요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]그건 그렇고[XENO:n ]\n네가 좋아할 것 같군[XENO:wait wait=key ][System:PageBreak ]그, 뭐냐?[XENO:n ]\n지리라든가 지층이라든가…[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "네, 거신계는 넓으니까요[XENO:wait wait=key ][System:PageBreak ]모르는 지역을 좀 더[XENO:n ]\n찾아다녀 보고 싶어요[XENO:wait wait=key ][System:PageBreak ]특히 거신의 등은[XENO:n ]\n미지의 땅이니까요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]분명 상상도 할 수 없는 풍경이[XENO:n ]\n기다리고 있을 거예요![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]열정적이구나, 슈르크[XENO:wait wait=key ][System:PageBreak ]뭐, 나도 남몰래[XENO:n ]\n응원하도록 하지[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]남몰래 그러지 않으셔도[XENO:n ]\n되잖아요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]그 정도는 알고 있지[XENO:n ]\n넌 나를 누구라고 생각하는 거야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]단반 씨, 완전히 틀렸어요![XENO:n ]\n여긴 무릎이라고요![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]그, 그랬었나?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "정말, 제가[XENO:n ]\n알려 드렸었잖아요?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]그거 미안하게 됐군…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]단반 씨에게 한 번 더[XENO:n ]\n\"거신계의 지질학 전집\"을 빌려 드릴 테니[XENO:wait wait=key ][System:PageBreak ]제대로 읽어 주세요![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "아, 알았어…[XENO:n ]\n너한테는 정말 못 이기겠군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "네 이야기는 제대로 듣고 있었다고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]다행이다. 단반 씨가[XENO:n ]\n다른 생각을 하시는 것 같아서요…[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "옛날 지형이 어떻고 하는[XENO:n ]\n이야기였지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]뭐, 그런 이야기라고[XENO:n ]\n할 수 있죠…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "단반 씨는 정말[XENO:n ]\n흥미 없는 일엔 무관심하시네요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]뭐라고?[XENO:n ]\n내가 그랬어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "그럼 콜로니 여자들 사이에서[XENO:wait wait=key ][System:PageBreak ]얼마 전까지 인기 있었던[XENO:n ]\n음식이 뭔지 아세요?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:sel sel=・전혀 관심 없어/・아! 알고 있어 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]역시 무관심하시잖아요![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]그런 건 나랑 상관없잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "피오른을 위해서[XENO:n ]\n관심을 가져 볼 수도 있잖아요?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]음… 그렇게 말하니[XENO:n ]\n받아칠 수가 없군…[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]뭐, 사실 저도 잘 몰라요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]뭐야 그건![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]괜찮으시다면[XENO:n ]\n함께 조사해 볼까요?[XENO:wait wait=key ][System:PageBreak ]의외로 즐거울지도 모르잖아요[XENO:n ]\n지질학 공부보다는…[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]음…[XENO:n ]\n뭐, 나쁘진 않을 것 같군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]아삭한 무잖아?[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]이전에 다이어트에 도움이 된다면서[XENO:n ]\n대량으로 사다 놓는 걸 본 적 있지[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]호오… 그랬었나요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "그랬었나요… 라니[XENO:n ]\n넌 몰랐던 거냐?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]네, 처음 듣는 이야기예요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]뭐야! 네가 더 모르잖아![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]단반 씨가 알고 있을 줄은[XENO:n ]\n몰랐어요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "에테르 연구도 좋지만[XENO:n ]\n가끔은 바깥세상에도 눈을 돌려야지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]그렇네요. 노력해 볼게요![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

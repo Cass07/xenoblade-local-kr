@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]슈르크, 저기 봐모![XENO:wait wait=key ][System:PageBreak ]숨겨진 마을이 엄청 작아졌어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]정말이네[XENO:wait wait=key ][System:PageBreak ]우리가 저기서 올라왔다는 게[XENO:n ]\n믿어지지 않아[XENO:wait wait=key ][System:PageBreak ]진짜 경치 좋다![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]근사해모, 근사해모![XENO:n ]\n거신이 잘 보여모![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][System:PageBreak ]저 근처에 오카랑 아이들이[XENO:n ]\n있을까모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "그래[XENO:wait wait=key ][System:PageBreak ]저곳에서 리키가 돌아올 날을[XENO:n ]\n기다리고 있을 거야[XENO:wait wait=key ][System:PageBreak ]하지만 날 기다리는 사람은…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:sel sel=・왜 그래모?/・무슨 말을 하는 거야모? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "슈르크, 왠지 기운이 없네모[XENO:wait wait=key ][System:PageBreak ]리키에게 말할 수 있으면[XENO:n ]\n말해 봐모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "그래[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT2 ]하지만 리키에게 말해도[XENO:n ]\n별수 없을걸?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]그렇지 않아모![XENO:wait wait=key ][System:PageBreak ]슈르크, 리키를 믿어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:sel sel=・미안/・알았어 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]역시 이야기하기 좀 그래[XENO:wait wait=key ][System:PageBreak ]그다지 떠올리고 싶지 않아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT13 ]슈르크는 리키를[XENO:n ]\n믿지 않는 거야모?[XENO:wait wait=key ][System:PageBreak ]이래 봬도 애가 11명 있는[XENO:n ]\n아빠야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]왜 그렇게 알고 싶어 해?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "슈르크의 그런 표정[XENO:n ]\n리키는 보고 싶지 않아모![XENO:wait wait=key ][System:PageBreak ]참는 건 안 좋아모[XENO:wait wait=key ][System:PageBreak ]너무 참으면[XENO:n ]\n어푸어푸하게 돼모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "리키…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT15 ]하지만 억지로 말하는 것도[XENO:n ]\n안 좋아모![XENO:wait wait=key ][System:PageBreak ]그러니 리키는 슈르크가[XENO:n ]\n말하길 기다릴게모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]고마워. 리키[XENO:wait wait=key ][System:PageBreak ]말할 수 있을 때가 오면[XENO:n ]\n제대로 이야기할게[XENO:wait wait=key ][System:PageBreak ]그때까지 기다려 줄래?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]물론 언제까지고 기다릴게모![XENO:wait wait=key ][System:PageBreak ]왜냐하면 리키에게 슈르크는[XENO:wait wait=key ][System:PageBreak ]소중한 수행원…이 아니라[XENO:n ]\n친구니까모![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT1 ]자, 슬슬 돌아가자모[XENO:wait wait=key ][System:PageBreak ]다들 걱정하고 있어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]고마워. 리키[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "실은 내 부모님은[XENO:n ]\n이미 돌아가셨어[XENO:wait wait=key ][System:PageBreak ]그래서 날 기다리는 사람은 없거든[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "슈르크…[XENO:wait wait=key ][System:PageBreak ][XENO:type type=anger ][XENO:act act=EVT3 ]아, 맞다모![XENO:wait wait=key ][System:PageBreak ][XENO:type type=def ]리키 좋은 생각이 났어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "어, 뭐가 생각났는데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]리키가 슈르크의[XENO:n ]\n아빠가 되는 거야모![XENO:wait wait=key ][System:PageBreak ]그럼 오카가 슈르크의[XENO:n ]\n엄마야모![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "리키, 무슨 소리야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "모르겠어모?[XENO:wait wait=key ][System:PageBreak ]즉, 오카는 슈르크가 돌아오기를[XENO:n ]\n기다리는 거야모![XENO:wait wait=key ][System:PageBreak ]자, 이제 기다리는 사람이[XENO:n ]\n생겼어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "……[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT13 ]왜, 왜 그래모?[XENO:wait wait=key ][System:PageBreak ]더 슬퍼졌어모?[XENO:n ]\n리키가 이상한 소리를 했어모?[XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]아니, 그렇지 않아[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT1 ]고마워. 리키[XENO:wait wait=key ][System:PageBreak ]내게도 기다려 주는 사람을[XENO:n ]\n만들어 줘서[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]신경 쓰지 마모![XENO:wait wait=key ][System:PageBreak ]슈르크는 역시 어두운 얼굴보다[XENO:n ]\n웃는 얼굴이 더 나아모![XENO:wait wait=key ][System:PageBreak ]그 미소를 모두에게[XENO:n ]\n보여 주러 가자모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]아, 기다려! 리키[XENO:n ]\n나도 지금 갈게![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]정말로 고마워. 리키[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]슈르크, 그건 아니지모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]지금까지 여행하며 있었던 일들을[XENO:n ]\n떠올려 봐모![XENO:wait wait=key ][System:PageBreak ]떠올려 보면[XENO:n ]\n그런 말 못 할 거야모![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:sel sel=・여행하며 있었던 일?/・그게 어떻다는 거야? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]그래모![XENO:wait wait=key ][System:PageBreak ]슈르크가 여행하며 만난 사람이[XENO:n ]\n정~말 많잖아모?![XENO:wait wait=key ][System:PageBreak ]그 사람들은 분~명[XENO:n ]\n슈르크를 기다리고 있을 거야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "여행 중에 만났던 사람들이 나를…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]그래. 맞아모![XENO:wait wait=key ][System:PageBreak ]그 사람들을 절~대로[XENO:n ]\n잊으면 안 돼모![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT13 ]잊으면 리키 흥흥이다모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]이제 안 잊어[XENO:wait wait=key ][System:PageBreak ]리키, 네 덕분에 소중한 걸[XENO:n ]\n기억해 낼 수 있었어[XENO:wait wait=key ][System:PageBreak ]고마워[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT15 ]고, 고마워할 정도로[XENO:n ]\n대단한 건 아니야모![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT3 ]아, 단반이 불렀었어모![XENO:wait wait=key ][System:PageBreak ]미안하지만 리키 먼저 갈게모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]부끄러운가?[XENO:wait wait=key ][System:PageBreak ]정말로 고마워. 리키[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]떠올려 봤는데[XENO:wait wait=key ][System:PageBreak ]이거랑 그거랑 무슨 상관이야?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]슈르크, 모르겠어모?[XENO:n ]\n리키 울 것 같아모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]왜, 왜 리키가 슬퍼해?[XENO:wait wait=key ][System:PageBreak ]내가 뭔가 이상한 소릴 했어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "정말 모르겠어모?[XENO:wait wait=key ][System:PageBreak ]지금까지[XENO:n ]\n슈르크와 만났던 사람들[XENO:wait wait=key ][System:PageBreak ]다~들 슈르크가 돌아오기를[XENO:n ]\n기다리고 있어모[XENO:wait wait=key ][System:PageBreak ]리키 틀린 말은[XENO:n ]\n안 해모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]아![XENO:wait wait=key ][System:PageBreak ]오다마 씨와 쥬쥬[XENO:n ]\n그리고 숨겨진 마을 사람들도…[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]그래모![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT2 ]그러니까 그렇게 슬픈 말은[XENO:n ]\n하면 안 돼모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]미안해, 리키[XENO:wait wait=key ][System:PageBreak ]내가 잘못했어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]알면 됐어모![XENO:wait wait=key ][System:PageBreak ]그럼 모두가 있는 곳으로[XENO:n ]\n돌아가자모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]그래![XENO:wait wait=key ][System:PageBreak ]어쩐지 갑자기[XENO:n ]\n모두의 얼굴이 보고 싶어졌어![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]고마워. 리키[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

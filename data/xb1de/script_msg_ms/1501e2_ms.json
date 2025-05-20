@@ -1,0 +1,239 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]카르나, 리키에게[XENO:n ]\n기신병에 대해 가르쳐 줘모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]어머, 갑자기 왜 그래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "리키 호무호무와 기신병의 역사[XENO:n ]\n하나도 몰라모[XENO:wait wait=key ][System:PageBreak ]이대로는 안 돼모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:sel sel=・나한테 물어봐도…/・별일이 다 있네 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "뭐부터 말해야 좋을지[XENO:n ]\n모르겠는걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "으으…[XENO:n ]\n그럴 만도 해모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "미안해[XENO:wait wait=key ][System:PageBreak ]철들 무렵부터[XENO:n ]\n원수라고 배웠으니까[XENO:wait wait=key ][System:PageBreak ]기신병이 왜 공격하는지[XENO:n ]\n생각해 본 적은 없었어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]응응[XENO:n ]\n리키도 생각한 적 없어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]리키는 기신병을[XENO:n ]\n어떻게 생각해?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "불쌍한 기계야모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:sel sel=・그렇게 생각할 수도 있구나/・잘 모르겠는걸 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]확실히 일리 있네[XENO:n ]\n리키다워서 좋아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "그런가모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]하지만 내게는 무리야[XENO:wait wait=key ][System:PageBreak ]그런 마음의 여유는[XENO:n ]\n거의 없거든[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]카르나는 너무 많은 걸 잃었어모[XENO:wait wait=key ][System:PageBreak ]그렇게 힘들 때[XENO:n ]\n리키는 빈둥거렸었어모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]아니야, 리키[XENO:wait wait=key ][System:PageBreak ]나는 말이지[XENO:n ]\n정말 다행이라고 생각해[XENO:wait wait=key ][System:PageBreak ]땅끝 마을만이라도[XENO:n ]\n기신병의 습격을 피해서…[XENO:wait wait=key ][System:PageBreak ]리키가 홈스와 기신병의 역사를[XENO:n ]\n모르는 것도 당연해[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "으으, 카르나는 상냥해모[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT12 ]리키 뭐라고 대답해야 할지[XENO:n ]\n모르겠어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]후후, 신경 쓰지 않아도 돼[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]기신병이 불쌍하다니…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]카르나, 화났어모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]아니, 그렇지 않아[XENO:wait wait=key ][System:PageBreak ]리키에게는[XENO:n ]\n리키의 감정이 있는걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "얼굴이 달린 기신병은[XENO:n ]\n더 불쌍해모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]응. 그건 나도 그래[XENO:wait wait=key ][System:PageBreak ]홈스가 타고 있다는 걸 알았을 때[XENO:n ]\n정말 충격을 받았어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]리키 모두랑 함께 여행하면서[XENO:n ]\n많은 걸 알 수 있었어모![XENO:wait wait=key ][System:PageBreak ]무서운 일투성이지만…[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]그래도 더 많이 보고 들어서[XENO:n ]\n영리한 용사가 될 거야모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]물론 상관없는데…[XENO:n ]\n뭔가 계기가 있었어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]잘 물어봤어모[XENO:wait wait=key ][System:PageBreak ]콜로니가 기신병에게[XENO:n ]\n습격받았을 때[XENO:wait wait=key ][System:PageBreak ]땅끝 마을은 아무것도 모른 채[XENO:n ]\n평화로웠어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]하긴 마크나 일대는[XENO:n ]\n기신병의 표적이 되지 않았지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]리키 기신병은[XENO:n ]\n소문으로만 들었었어모[XENO:wait wait=key ][System:PageBreak ]감옥섬에서 처음 봤을 때[XENO:n ]\n너무 무서웠어모[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][System:PageBreak ]하지만 다들 아주 용감했어모[XENO:n ]\n리키 용사인데 한심해모…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]후후, 그건 어쩔 수 없지[XENO:wait wait=key ][System:PageBreak ]우리는 어렸을 때부터[XENO:n ]\n상대해 왔는걸[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]모두랑 리키는[XENO:n ]\n뭔가가 달라모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "[XENO:sel sel=・무슨 소리야?/・그렇지 않아 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]리키가 뭔가 오해하고 있는데?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]음~ 그런가모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "땅끝 마을의 노폰족이[XENO:n ]\n기신병과 인연이 없다고 해서[XENO:wait wait=key ][System:PageBreak ]리키에게는 함께 싸울 권리가 없다고[XENO:n ]\n우리가 생각할 것 같아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]으으, 생각 안 해모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]그러니까 신경 쓰지 마[XENO:wait wait=key ][System:PageBreak ]우리도 싸우는 동기가[XENO:n ]\n각자 달라[XENO:wait wait=key ][System:PageBreak ]짊어지고 있는 것도[XENO:n ]\n잃은 것도 다르잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]리키 카르나에게[XENO:n ]\n상담하길 잘했어모![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]조금은 기운이 났어?[XENO:wait wait=key ][System:PageBreak ]앞으로도 우리는[XENO:n ]\n계속 함께하는 동료야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]더 자신을 가져도 돼[XENO:wait wait=key ][System:PageBreak ]왜 그래?[XENO:n ]\n리키답지 않은걸?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]윽, 그래모?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "분명 리키와 기신병에게[XENO:n ]\n우리 같은 인연은 없을지도 몰라[XENO:wait wait=key ][System:PageBreak ]하지만 그렇다고 해서 리키에게는[XENO:n ]\n함께 싸울 권리가 없다고 생각하지 않아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]미안해모, 카르나[XENO:n ]\n리키 조금 안심했어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]정말이지, 그런 걱정을 했다니![XENO:wait wait=key ][System:PageBreak ]우리도 싸우는 동기가[XENO:n ]\n각자 달라[XENO:wait wait=key ][System:PageBreak ]짊어지고 있는 것도[XENO:n ]\n잃은 것도 다르잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]리키 카르나에게[XENO:n ]\n상담하길 잘했어모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]우리는 동료니까[XENO:n ]\n걱정할 필요는 없어[XENO:wait wait=key ][System:PageBreak ]앞으로도 모든 종족을 위해[XENO:n ]\n함께 싸우자[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

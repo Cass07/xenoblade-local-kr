@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "나는 일전에 딱 한 번[XENO:n ]\n이곳을 방문했던 적이 있지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "어머, 그랬었어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "그래. 아직도 생생히 기억해[XENO:wait wait=key ][System:PageBreak ]어렸을 때 피오른과 둘이서[XENO:n ]\n여기까지 왔었어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "콜로니 9에서 온 거지?[XENO:n ]\n굉장히 멀었던 거 아니야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "죽기 살기로[XENO:n ]\n테프라 동굴을 빠져나왔으니까[XENO:wait wait=key ][System:PageBreak ]얼마나 멀었는지는[XENO:n ]\n잘 기억나질 않는군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:sel sel=・놀러 온 거야?/・무슨 일 있었어? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "이봐, 이런 곳까지[XENO:n ]\n놀러 올 리가 없잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "그, 그것도 그렇네…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "그게 벌써 12년 전이었나…?[XENO:wait wait=key ][System:PageBreak ]기신병의 습격이 있어서[XENO:n ]\n콜로니에서 도망쳐 나온 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "나도 아직 어렸지만[XENO:n ]\n그날의 습격은 지금도 기억하고 있어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "피오른을 지켜야 한다는 생각으로[XENO:n ]\n머릿속이 가득 찼거든[XENO:wait wait=key ][System:PageBreak ]콜로니에서[XENO:n ]\n멀어지는 것만 생각했어[XENO:wait wait=key ][System:PageBreak ]쫓아오는 기신병들에게 도망치다 보니[XENO:n ]\n어느새 여기까지 온 거지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:sel sel=・나도 그런 경험이 있어/・어째서 그렇게 위험한 짓을?! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "콜로니 6가 습격당했을 때[XENO:n ]\n쥬쥬를 지키기 위해서 필사적이었는걸…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "그렇군. 카르나에게도[XENO:n ]\n쥬쥬라는 동생이 있었지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "그래. 그리고 내가[XENO:n ]\n의무병에 지원한 것도[XENO:wait wait=key ][System:PageBreak ]어느 정도는[XENO:n ]\n동생의 영향이 있어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "그렇군…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "단반은 어땠어?[XENO:n ]\n역시 피오른을 위해서?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "나는 어땠더라…?[XENO:wait wait=key ][System:PageBreak ]기신병이 무척 원망스러웠다[XENO:n ]\n단지 그뿐이었을지도 몰라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "하지만 그것만으론[XENO:wait wait=key ][System:PageBreak ]\"홈스의 영웅\"이라고 불리기엔[XENO:n ]\n부족하지 않았을까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "훗…그런가?[XENO:n ]\n그런 식으로 생각할 수도 있겠군…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "어째서 셸터로[XENO:n ]\n피난하지 않았던 거야?[XENO:wait wait=key ][System:PageBreak ]되려 콜로니에서 멀어지다니…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:type type=def ]그렇게 말하니[XENO:n ]\n뭐라 받아칠 말이 없군…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]미안해…[XENO:wait wait=key ][System:PageBreak ]좋아서 이런 곳까지[XENO:n ]\n왔을 리가 없지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "당연하지[XENO:wait wait=key ][System:PageBreak ]우리 남매만[XENO:n ]\n제때 셸터로 들어가지 못했거든[XENO:wait wait=key ][System:PageBreak ]그 상황에서는 콜로니에서[XENO:n ]\n탈출하는 것 말고는 방법이 없었어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "역시 그랬구나…[XENO:wait wait=key ][System:PageBreak ]나도 콜로니 6가 습격당했을 때[XENO:wait wait=key ][System:PageBreak ]동생 쥬쥬를 지키려고[XENO:n ]\n필사적으로 도망 다녔었어…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "그렇군. 카르나도 나와 똑같이[XENO:n ]\n첫째였지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "그래. 그래서 우리들[XENO:n ]\n제법 이야기가 통하는 걸지도 몰라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "괜찮다면[XENO:n ]\n내게 알려 주지 않을래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "그게 벌써 12년 전이었나…?[XENO:wait wait=key ][System:PageBreak ]기신병의 습격이 있어서[XENO:n ]\n콜로니에서 도망쳐 나온 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "그랬구나…[XENO:wait wait=key ][System:PageBreak ]나도 아직 어렸지만[XENO:n ]\n그날의 습격은 지금도 기억하고 있어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "집 주위를 기신병이 포위했을 때는[XENO:n ]\n이제 끝이라고 생각했었지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "미처 도망치지 못했던 거야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "그래. 셸터로 가던 도중에[XENO:n ]\n피오른이 잊은 물건이 있다고 해서[XENO:wait wait=key ][System:PageBreak ]집으로 가지러 갔던 게[XENO:n ]\n잘못이었지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:sel sel=・내버려 뒀으면 좋았을걸/・소중한 물건이었나 보네 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:type type=anger ]어째서 그렇게 위험한 짓을 한 거야?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "물론 카르나 말이 맞지만[XENO:wait wait=key ][System:PageBreak ]그건 어머니의 유품이었거든[XENO:wait wait=key ][System:PageBreak ]어떻게든 가지러[XENO:n ]\n가야만 했어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "그랬던 거구나…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "어떻게든 목숨은 잃지 않고 도망쳐서[XENO:n ]\n일주일 후에 다시 돌아올 수 있었어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "정말로 다행이었네[XENO:n ]\n둘 다 무사히 돌아와서…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "돌아온 후가 더 큰일이었어[XENO:n ]\n방위대장에게 맞고 나가떨어져 버렸다고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "후훗… 그럴 만도 해[XENO:n ]\n다들 걱정하고 있었지?[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "그래. 지금 생각하면 참 좋은 추억이야…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "그러니까 위험을 무릅쓰면서까지[XENO:n ]\n돌아왔던 거지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "그래. 그 말대로야[XENO:n ]\n그건 어머니의 유품이었거든…[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]어떻게든 가지러[XENO:n ]\n가야만 했어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "피오른을 먼저[XENO:n ]\n셸터에 피난시키고…[XENO:wait wait=key ][System:PageBreak ]가야겠다고 생각하진 않았어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "거기까지 생각할 여유가[XENO:n ]\n없었으니까[XENO:wait wait=key ][System:PageBreak ]그리고…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "그리고…?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "나와 떨어지고 싶지 않다고…[XENO:wait wait=key ][System:PageBreak ]함께 데려가 달라면서[XENO:n ]\n떼를 썼었거든[XENO:wait wait=key ][System:PageBreak ]펑펑 우는 피오른을[XENO:n ]\n업고 뛰는 건 정말 힘들었지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "그랬구나…[XENO:wait wait=key ][System:PageBreak ]지금도 옛날도 상냥했구나[XENO:n ]\n단반은…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "그런가? 고마워…[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

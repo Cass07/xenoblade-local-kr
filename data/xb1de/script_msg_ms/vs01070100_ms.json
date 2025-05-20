@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "고마워. 라인[XENO:n ]\n덕분에 살았어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]정말, 멋대로 혼자서 가 버리니까 그렇지[XENO:n ]\n나한테서 너무 떨어지지 말라고[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "콜로니에서 한 걸음만 밖으로 나가도[XENO:n ]\n이런 것들이 사방에 깔렸으니까 말이야[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]응[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "그래도 덕분에 이 녀석의 껍질을 얻었으니[XENO:n ]\n콜로니 사람들이 분명 기뻐할 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]그게 중요한 게 아니라…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "뭐, 됐나[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "그런 너니까[XENO:n ]\n최고의 무기를 만들 수 있는 거겠지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]이 정크 벙커도 꽤 괜찮다고[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "딕슨 씨가 만든 무기를 보고[XENO:n ]\n흉내 낸 것뿐이지만 말이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "뭐, 단반의 그 무기와는 비교할 순 없겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]모나드 말이구나[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "언젠가 그 힘의 비밀을 밝혀내고 싶어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]기대하고 있다고[XENO:n ]\n자, 콜로니로 돌아가자[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "훈련 집합 시간에 늦으면 얻어맞을 거야[XENO:n ]\n《직각 수염》한테 말이지[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]《직각 수염》?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "…아하, 방위대장 말이구나[XENO:n ]\n그 사람은 좀 무섭지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그렇다니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]미안. 방위대는 휴식 시간이었을 텐데…[XENO:n ]\n억지로 따라오게 했네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "괜찮다니까[XENO:n ]\n자, 서두르자고[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

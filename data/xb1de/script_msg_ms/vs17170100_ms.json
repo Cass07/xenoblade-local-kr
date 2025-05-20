@@ -1,0 +1,34 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "우와아아앗! 이건 뭐야?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]여긴 뭐야모? 어느새 밤이 돼 버렸어모?![XENO:n ]\n리키 쿨쿨한 거야모?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "봐, 발밑이 허공이야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "어느새 거신의 밖으로…[XENO:n ]\n게다가 육지도 바다도 없다니…[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

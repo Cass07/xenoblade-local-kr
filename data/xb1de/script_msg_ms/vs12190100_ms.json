@@ -1,0 +1,194 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "꽤 맛있는 물고기였어[XENO:n ]\n이런 기분 나쁜 땅에서도 물고기는 물고기구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]그랬어모? 냠냠했구나모[XENO:n ]\n리키도 잡아 온 보람이 있어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "그래. 고마워[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]지쳐 있던 건 멜리아뿐만이 아니야모[XENO:n ]\n단반도 왠지 슬픈 눈빛이었어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "뭐야, 너한테까지[XENO:n ]\n그렇게 보였어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "슬픈 일 리키한테 말해 봐모[XENO:n ]\n리키 들어 줄게모[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]알다시피 리키는 전설의 용사니까모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "그건 상관없잖아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "뭐, 그래도…[XENO:n ]\n이왕 말 나온 김에 들어 줄래?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "좋아모. 말해 봐모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "내 동생…[XENO:n ]\n피오른이라고 하는데[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]알고 있어모. 은색 갑옷을 입고 있었어모[XENO:n ]\n슈르크, 그 아이를 쫓아서 뛰어들었어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "그래. 슈르크랑 피오른…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "서로 호감은 가지고 있을 텐데[XENO:n ]\n그 녀석들이 아직 어려서 그렇겠지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "이게 아무래도 미적지근하다고 할까[XENO:n ]\n보고 있으면 답답해서[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "응응! 리키도 알겠어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "뭐, 그런 건 흔히 있는 이야기였지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]하지만 피오른이 저렇게 돼 버렸으니…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]슈르크를 잊었었어모[XENO:n ]\n단반도 잊었었어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "그래…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]하지만 그래도 슈르크는[XENO:n ]\n피오른을 구하는 것을 포기하지 않겠지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]나한테는 기쁜 일이지만[XENO:n ]\n슈르크한테 미안해서 말이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "단반, 지켜봐 줘모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]슈르크를 지켜봐 줘모[XENO:n ]\n피오른도 지켜봐 줘모[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT3 ]부모가 할 수 있는 건[XENO:n ]\n그 정도야모[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]아, 아니네. 단반은 부모가 아니었어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "뭐, 오빠니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "그래도 같아모[XENO:n ]\n지켜봐 주는 사람이 있다는 거[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그것만으로 힘낼 수 있어모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "그렇구나…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]그건 그렇고…[XENO:n ]\n너한테 이런 식으로 배울 게 있을 줄은[XENO:n ]\n생각 못 했어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]리키는 아이들 많이 많이 키웠어모[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "그리고 많이 많이 독립시켰어모[XENO:n ]\n얕보면 안 돼모[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]그러게 말이야[XENO:n ]\n미안했어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 125,
+      "name": "와하하하하[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

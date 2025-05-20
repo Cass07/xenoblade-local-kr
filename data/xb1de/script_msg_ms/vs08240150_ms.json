@@ -1,0 +1,404 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "슈르크 공, 앞선 그대들의[XENO:n ]\n감금과 구속을 용서하시오[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]무엇보다 이민족의[XENO:n ]\n신분으로 황국 황태자[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "아니, 멜리아 에인션트에게[XENO:n ]\n도움을 주어… 아이를 가진[XENO:n ]\n한 명의 아버지로서 감사하오[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "수고했소[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]아니에요. 중요한 의식이었는데[XENO:n ]\n저희 같은 외부인이 방해해 버려서[XENO:n ]\n죄송하게 생각하고 있어요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "행운아라오[XENO:n ]\n그 아이는[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "그대와 같은 순수한 젊은이와[XENO:n ]\n만날 수 있었으니[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "그 또한 위정자로서 빼놓을 수 없는[XENO:n ]\n덕목이라 할 수 있겠지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]듣자 하니 그대는[XENO:n ]\n기신병을 쫓고 있다던데[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "네. 제 고향에선 기신병의 공격 때문에[XENO:n ]\n수많은 사람들이 목숨을 잃었어요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "복수 때문이오?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "솔직하군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]스스로 한 결심을 다른 말로[XENO:n ]\n꾸밀 생각은 없어요[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]하지만 그 복수는 저희 홈스의[XENO:n ]\n생존과 이어질 거라고 생각해요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]확고하군[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "슈르크 공, 그대는 모나드를 다루지[XENO:n ]\n그렇다면 필히 해 둬야 할 이야기가 있소[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "제게…요?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "우리의 선조들이 이 나라를[XENO:n ]\n건국하기 훨씬 전[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "세계의 신인 거신과 이계의 신인 기신 사이에[XENO:n ]\n격렬한 전투가 있었소[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "이 전승은 홈스도 알고 있지 않소?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "네. 어렸을 때 자주 들었죠[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "전투 끝에 두 신 모두 유해만을 남겼고[XENO:n ]\n많은 생물이 멸종했다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "그 후에 유해를 대지로 삼아[XENO:n ]\n거신계의 생물들은 조금씩 수가 늘어났고[XENO:n ]\n이윽고 저희가 태어났다고 했어요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "그 거신이 지금[XENO:n ]\n눈을 뜨려 하고 있소[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "알비스도 그런 말을 했어요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "예언관의 예언만이 아니오[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "마크나에서 일어난 사건[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "테레시아는 거신과 함께 이 세계에[XENO:n ]\n탄생한 가장 오래된 생물이라 하오[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "테레시아는 에테르의 혼란을 낳지[XENO:n ]\n만약 그 혼란이 그대로 진행된다면…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]…?[XENO:wait wait=key ][XENO:jaw jaw=on ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "왜 이제 와서 에테르에[XENO:n ]\n혼란이 생긴 거죠?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "저것은 선조가 기록한 비문…[XENO:n ]\n전승이오[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "거기에는 이리 적혀 있소[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "만물의 선조 에테르가 흐트러질 때[XENO:n ]\n거신은 눈을 뜨리라[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 36,
+      "style": 125,
+      "name": "그 징조를 간과하지 말라[XENO:n ]\n징조는 거신의 검에 나타나리니[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 37,
+      "style": 125,
+      "name": "만사에 유의하고 이를 봉하면[XENO:n ]\n영겁의 번영을 약속하리라…라고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]……[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 125,
+      "name": "거신계에서 사는 자들의 생사 또한[XENO:n ]\n에테르에 큰 영향을 끼치오[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 40,
+      "style": 125,
+      "name": "필시 기신계의[XENO:n ]\n침공으로 인한 것이겠지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 41,
+      "style": 125,
+      "name": "그리고 그대들 홈스는[XENO:n ]\n거신의 검인 모나드의 봉인을 풀고[XENO:n ]\n기신계와의 전투에 사용했소[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 125,
+      "name": "분명 그렇지만[XENO:n ]\n그건…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 125,
+      "name": "알고 있소 그대들 홈스가[XENO:n ]\n생존하기 위해서는 모나드가 필요했겠지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 44,
+      "style": 125,
+      "name": "그것은 사실이오[XENO:n ]\n문책할 생각은 없소[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 45,
+      "style": 125,
+      "name": "이 비문은 요컨대 기신계와의[XENO:n ]\n전투를 가리키고 있다 생각하오[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 46,
+      "style": 125,
+      "name": "거신은 살아 있소[XENO:n ]\n이대로 기신계의 침략이 이어져[XENO:n ]\n수많은 목숨을 앗아간다면[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 47,
+      "style": 125,
+      "name": "멀지 않은 미래에 거신은 눈을 뜰 것이며[XENO:n ]\n두 신의 전투로 인해 하이엔터는…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 48,
+      "style": 125,
+      "name": "아니 거신계에서 살아가는 모든 것들이 멸망한다[XENO:n ]\n그리 말하고 있는 것이라고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 125,
+      "name": "거신계에서 살아가는 모든 것이[XENO:n ]\n멸망한다는 말씀인가요?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 125,
+      "name": "그렇소[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 51,
+      "style": 125,
+      "name": "하여 기신계의 침공은[XENO:n ]\n무슨 일이 있어도 막아야 하오[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 125,
+      "name": "[XENO:act act=EVT3 ]그렇다면 그 마음은[XENO:n ]\n저희도 같아요![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 53,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]폐하, 멜리아에게 감옥섬에 가기 위해서는[XENO:n ]\n폐하의 허락이 필요하다고 들었어요[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 54,
+      "style": 125,
+      "name": "허락해 주실 수 없을까요?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 125,
+      "name": "가서 어떻게 할 것이오?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]비전으로 보았어요. 모나드가 얼굴 달린[XENO:n ]\n기신병을 베어 쓰러뜨리는 모습을[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 57,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]저는… 그 녀석들을 쓰러뜨리고 싶어요![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 58,
+      "style": 125,
+      "name": "그러한가…[XENO:n ]\n\"그대도\" 비전으로 보았소?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 60,
+      "style": 125,
+      "name": "감옥섬에는 모나드와 마찬가지로[XENO:n ]\n황가의 선조들이 봉인한[XENO:n ]\n또 하나의 무언가가 잠들어 있다고 하오[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 61,
+      "style": 125,
+      "name": "당시의 기록이 사라져 그것이 무엇인가[XENO:n ]\n지금은 확인할 방도가 없소만[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 62,
+      "style": 125,
+      "name": "그것도 거신이 눈을 뜨는 것과[XENO:n ]\n관계가 있나요?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 63,
+      "style": 125,
+      "name": "알 수 없소. 알 수 없지만 선조들이 봉인한 이상[XENO:n ]\n우리는 그 의지를 이어 가야 하오[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 64,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]……[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 65,
+      "style": 125,
+      "name": "슈르크 공, 잠시만 생각할 시간을[XENO:n ]\n주지 않겠소?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 66,
+      "style": 125,
+      "name": "우리도 현재의[XENO:n ]\n거신계를 우려하고 있소[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 67,
+      "style": 125,
+      "name": "같은 대지에 사는 동포로서[XENO:n ]\n홈스를 소홀히 여기지 않겠소[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 68,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]…알겠습니다. 이 나라에도[XENO:n ]\n사정이 있다는 건 이해하고 있어요[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 69,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]설령 감옥섬에 가는 것을 허락하지 않으셔도[XENO:n ]\n그때는 또 다른 길을 찾겠습니다[XENO:wait wait=key ][XENO:act act=EVT_EXT12 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 70,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]미안하오[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 71,
+      "style": 125,
+      "name": "괜찮아요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 72,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]그리고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 73,
+      "style": 125,
+      "name": "네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 74,
+      "style": 125,
+      "name": "이것은 황주 솔레안 에인션트가 아닌[XENO:n ]\n한 명의 아버지로서 하는 부탁이오만…[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 75,
+      "style": 125,
+      "name": "멜리아의 버팀목이[XENO:n ]\n되어 달라고는 안 하겠소[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 76,
+      "style": 125,
+      "name": "다만 그 아이의 친구로서[XENO:n ]\n앞으로도 친밀하게 지내 줬으면 하오[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 77,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]제멋대로인 부탁임은[XENO:n ]\n잘 알고 있소[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 78,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]네![XENO:n ]\n그야 물론이죠![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

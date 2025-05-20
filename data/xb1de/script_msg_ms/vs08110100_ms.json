@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "하겠습니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "홈스와의 혼혈아인 제가[XENO:n ]\n하이엔터를 다스리기 위해서는[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "그리고 그 자리를 원한다면[XENO:n ]\n통과해야만 하는 길이라고 생각합니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "그 말이 옳다. 나의 후계자여[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "하이엔터를 다스리는 자가 되기 위한[XENO:n ]\n지름길은 편한 길이 아니라는 것을[XENO:n ]\n거신계에 보여 주어야 하느니라[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "네. 폐하[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ](그대가 황태자가 되는 일은[XENO:n ]\n영원히 없을 것이야)[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "……[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

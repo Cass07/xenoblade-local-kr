@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ](하얀 얼굴…[XENO:n ]\n게다가 그 여자애는 누구지…?)[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ](비전은 아직 본 적 없는 것이나[XENO:n ]\n만난 적 없는 사람도 보이는 건가)[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ](그것들이 초래할 무언가… 그것만[XENO:n ]\n알 수 있다면 좀 더 잘 대응할 수 있을 텐데)[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "아, 저거 봐! 현수교야![XENO:n ]\n이런 곳에 대체 누가[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]노폰족이겠지. 우리가 사는[XENO:n ]\n콜로니로 귀화한 녀석들도 많지만[XENO:n ]\n노폰족은 원래 이 마크나 원시림에서 태어났으니까[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]그 녀석들이라면 거신의 머리로[XENO:n ]\n갈 방법을 알고 있지 않을까?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그건 모르겠지만…[XENO:n ]\n아무런 대책도 없이 돌아다니는 것도 위험하지[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "우선 노폰족의 마을을 찾아볼까[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    }
+  ]
+}

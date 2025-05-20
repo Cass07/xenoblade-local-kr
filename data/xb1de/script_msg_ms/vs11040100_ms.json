@@ -1,0 +1,139 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "피오른?[XENO:n ]\n그 녀석은 단반의…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그래[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]그랬군… 너희 표정이[XENO:n ]\n우울했던 이유를 알았어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "그건 그렇고 얼굴 녀석 안에 홈스가 있다니[XENO:n ]\n우리들을 먹기만 하는 건 아니었구나[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]무무카도 얼굴 녀석이 되어 있었어[XENO:n ]\n콜로니 9을 덮친 건 그 녀석이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]흐음… 그 녀석은[XENO:n ]\n분명 그 전투 때 죽은 줄 알았는데[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]안 놀라?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "콜로니 9을[XENO:n ]\n덮친 거 말이야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "기신병 놈들의 사정은 모르겠지만[XENO:n ]\n그 자식은 원래부터 그런 놈이잖아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]딱히 이상하지도 않아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "그렇군. 무무카도…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]재밌게 됐는데[XENO:wait wait=key ][XENO:act act=EVT_EXT8 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "네?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]아무것도 아니야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]그럼 우리는[XENO:n ]\n이만 돌아갈게[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "가능하면 돕고 싶었는데[XENO:n ]\n홈스와의 연합군을 결성하는 일이나[XENO:n ]\n예언관의 직무도 있으니까[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]나도 마찬가지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]너희라면 무사히 피오른을 되찾을 수 있겠지[XENO:n ]\n그동안 우리는 싸울 준비라도 해 둘게[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]여기까지 와 주셔서 고마워요. 괜찮을 거예요[XENO:n ]\n우리끼리 해낼 테니까[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]《갤러해드 요새》는 기신병 놈들의 요충지야[XENO:n ]\n부디 정면에서 쳐들어간다든가 하는 바보짓은 하지 마[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그래. 에테르 유입구를 노릴 생각이야[XENO:n ]\n에테르 에너지를 녀석들이 양분으로 삼고 있다면[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]요새에도 그게 흘러 들어갈[XENO:n ]\n장소가 있을 테니까 거기로 가야지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "죽지 마라, 슈르크![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]네! 딕슨 씨도[XENO:n ]\n몸조심하세요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "[XENO:act act=EVT5 ]그래![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

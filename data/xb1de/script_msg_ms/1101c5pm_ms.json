@@ -1,0 +1,79 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "회원증을 가지고 계시군요[XENO:wait wait=key ][System:PageBreak ]어서 들어가시지요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "여기서는 하이모어 캐비어를[XENO:n ]\n즐기실 수 있습니다[XENO:wait wait=key ][System:PageBreak ]먹어본 사람이 모두[XENO:n ]\n포로가 될 만큼 맛있지요[XENO:wait wait=key ][System:PageBreak ]땅끝 마을에서도[XENO:n ]\n비싸고 귀중한 것이라더군요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "하이모어 캐비어…[XENO:n ]\n어쩜 이렇게 맛있을 수 있을까![XENO:wait wait=key ][System:PageBreak ]이 톡톡 터지는 식감이 최고야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "맛있어![XENO:wait wait=key ][System:PageBreak ]하이모어 캐비어는[XENO:n ]\n끊을 수가 없다니까[XENO:wait wait=key ][System:PageBreak ]한 알씩 맛보는 것도 좋고[XENO:n ]\n한꺼번에 우물거려도 좋아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "와아! 머리 모양이[XENO:n ]\n정말로 근사하네![XENO:wait wait=key ][System:PageBreak ]이렇게 고상한 스타일은[XENO:n ]\n처음 봐[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "몸도 둥글고 부드러우니…[XENO:n ]\n집에 가져가고 싶은걸?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "회원증을 갖고 있지 않으신 분은[XENO:n ]\n들어가실 수 없습니다[XENO:wait wait=key ][System:PageBreak ]돌아가 주시지요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "회원증만 갖고 있다면[XENO:n ]\n안에 들어갈 수는 있습니다[XENO:wait wait=key ][System:PageBreak ]갖고 있는 사람을 잘 찾아보시죠[XENO:n ]\n…빌려주지 않을 것 같지만 말입니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:qst qst=565 ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "회원증이 없는 이상[XENO:n ]\n들여보낼 수 없습니다[XENO:wait wait=key ][System:PageBreak ]돌아가 주시지요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "이것은… 회원증![XENO:wait wait=key ][System:PageBreak ]실례했습니다[XENO:n ]\n어서 들어가시지요[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:fade fade=outin:100 ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:fade fade=outin:60 ]"
+    }
+  ]
+}

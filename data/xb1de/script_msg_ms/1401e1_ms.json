@@ -1,0 +1,224 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "대검의 계곡에서의 대전 후[XENO:n ]\n벌써 1년이 지났군…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]그 전투에서[XENO:n ]\n많은 사람들이 죽었지…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]나는 정말 악운이 강해[XENO:wait wait=key ][System:PageBreak ]설마 그 전투에서[XENO:n ]\n살아남을 줄이야…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:sel sel=・나는 기뻤어/・그런 소리 하지 마 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]피오른도[XENO:n ]\n그렇게 기뻐했잖아[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]그랬지…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]콜로니 9에 귀환해서[XENO:n ]\n들것에 실려 가는 걸 봤을 때는[XENO:wait wait=key ][System:PageBreak ]충격을 받았지만 말이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]그때 일을[XENO:n ]\n생각나게 하지 마[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:sel sel=・그건 무리야/・마음은 알겠어 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]그렇겠지…[XENO:n ]\n꼴사나운 모습을 보였으니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]아니, 그게 아니라[XENO:wait wait=key ][System:PageBreak ]굉장히 분해서[XENO:n ]\n강렬하게 뇌리에 박혀 버렸어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT18 ]그랬군…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT5 ]나도 방위대의 일원이야[XENO:n ]\n단반과 함께 싸우고 싶었어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]네가 부담을[XENO:n ]\n느낄 필요는 없어[XENO:wait wait=key ][System:PageBreak ]콜로니 방어도[XENO:n ]\n제대로 된 임무였잖아[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]그래. 알고 있어[XENO:wait wait=key ][System:PageBreak ]다만 그때의 나는[XENO:n ]\n고민이 많았거든[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]그건 처음 듣는걸[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]지금까지 누구에게도[XENO:n ]\n말하지 않았으니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]훗, 그랬구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]그야 물론 좋은 기억은 아니겠지[XENO:wait wait=key ][System:PageBreak ]하지만 나, 굉장히 분해서[XENO:n ]\n강렬하게 뇌리에 박혀 버렸어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]분하다…라[XENO:wait wait=key ][System:PageBreak ]너, 대검의 계곡에[XENO:n ]\n가고 싶어 했었지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:act act=EVT5 ]나도 방위대의 일원이야[XENO:n ]\n단반과 함께 싸우고 싶었어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "그때의 너를 데리고 갈 수는[XENO:n ]\n없었거든[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][System:PageBreak ]하지만 지금은 달라[XENO:wait wait=key ][System:PageBreak ]너는 1년 전보다[XENO:n ]\n훨씬 강해졌어[XENO:wait wait=key ][System:PageBreak ]육체적으로도, 정신적으로도[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT19 ]언젠가 단반을 뛰어넘겠어[XENO:wait wait=key ][System:PageBreak ]더는 그런 분한 기억을[XENO:n ]\n남기고 싶지 않으니까[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]그래. 따라와[XENO:wait wait=key ][System:PageBreak ]하지만 그렇게 쉽게[XENO:n ]\n날 뛰어넘게 두지 않을 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT21 ]홈스의 영웅인[XENO:n ]\n단반의 말은 남다른걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]피오른이 얼마나[XENO:n ]\n걱정했는지 알아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]그래? …많이 걱정했나 보군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]피오른은 단반이 무사하길[XENO:n ]\n늘 바라고 있었어[XENO:wait wait=key ][System:PageBreak ]자주 혼자 공원에 가서[XENO:n ]\n눈을 감고 기도하곤 했지[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]그 녀석이?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:sel sel=・나도 마찬가지야/・난 다르지만 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]하루라도 빨리 돌아와 달라고[XENO:n ]\n매일 그렇게 기도했지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]그랬군…[XENO:n ]\n네게도 걱정을 끼쳤군[XENO:wait wait=key ][System:PageBreak ]미안하다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]하하, 새삼스럽게 뭘[XENO:n ]\n단반과 나 사이에[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]훗, 하긴 그렇지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]그때는 함께 싸우지 못했지만[XENO:wait wait=key ][System:PageBreak ]지금은 이렇게 함께할 수 있어서[XENO:n ]\n나, 꽤 기뻐[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]확실히 너는 1년 전보다[XENO:n ]\n훨씬 강해졌어[XENO:wait wait=key ][System:PageBreak ]하지만 내가 보기에는[XENO:n ]\n아직도 풋내기야[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]그렇게 말할 줄 알았어[XENO:n ]\n단반에게는 못 이기겠네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]무슨 뜻이야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]아니, 딱히 큰 뜻은 없어[XENO:wait wait=key ][System:PageBreak ]나는 반드시 돌아올 거라고[XENO:n ]\n당연하게 믿고 있었거든[XENO:wait wait=key ][XENO:act act=EVT1 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]훗, 너답군[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]하지만 지독한 상처였어[XENO:wait wait=key ][System:PageBreak ]단반이 아니었다면[XENO:n ]\n살아날 수 없었을 거야[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]피오른의 기도가 통한[XENO:n ]\n덕분일지도 모르지[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]그래. 그럴지도 몰라…[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

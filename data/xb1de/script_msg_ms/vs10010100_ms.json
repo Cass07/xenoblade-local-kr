@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "…이상과 같이 황태자 멜리아의 즉위는[XENO:n ]\n1년의 추모 기간을 가진 후로 한다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "더욱이 옥좌가 공석인 동안에는[XENO:n ]\n황태자 전하의 뜻에 따라[XENO:n ]\n내가 섭정으로서 그 직권을 행사한다[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "이것에 불복하거나 이견이 있는 자는 이 자리에서[XENO:n ]\n거신의 이름을 빌어 그 뜻을 고하라[XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "기록원과 탐구원 모두 만장일치로[XENO:n ]\n전하의 재정에 찬성키로 했습니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]제군들의 지지에 감사한다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "하여 전하[XENO:n ]\n기신계 대책 회의를 열고자[XENO:n ]\n이렇게 진언드립니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "대책 회의인가[XENO:n ]\n확실히 서둘러 방비를 단단히 해야 하지만[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "방비뿐만이 아닙니다[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]공세를 취한다는 말인가?[XENO:n ]\n황도 복구가 시급한 지금?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]저희 탐구원에 책략이 있습니다[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    }
+  ]
+}

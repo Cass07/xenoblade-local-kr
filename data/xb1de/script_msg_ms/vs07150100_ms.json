@@ -1,0 +1,104 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "뭐, 뭐뭐뭐, 뭐야모. 여기는![XENO:n ]\n리키 이런 건 처음 봤어모![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "여기는 마크나가 아니야모![XENO:n ]\n이런 곳 몰라모![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]이렇게까지 변이가 진행되었을 줄이야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]무슨 말이야?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]이게 전부 테레시아의 소행이라는 건가?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]테레시아는[XENO:n ]\n주위의 에테르장을 흡수해서 고갈시키지[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]그렇구나[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "에테르장이 고갈되면[XENO:n ]\n주위의 생태계는 크게 무너져 버려[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]슈르크, 테레시아는 사람의 마음을 읽는다[XENO:n ]\n직접적인 공격은 통하지 않는다고 생각하는 편이 좋다[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]알고 있어[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]더듬이를 날려 버리면[XENO:n ]\n생각을 읽을 수 없다는 것도[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "괜찮아. 이 모나드만 있으면[XENO:n ]\n반드시 이길 수 있어[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]그 녀석은 그대가 쓰러뜨린 분신과는 다르다![XENO:n ]\n그리 간단히 물리칠 수는 없을 것이야![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]그럴지도 몰라[XENO:n ]\n하지만 할 수밖에 없어! 그렇지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ](분신이라고는 하나[XENO:n ]\n슈르크는 한 차례 테레시아와 만났다)[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ](그런데 어째서 저렇게까지 의연하지?[XENO:n ]\n자신감… 아니, 신뢰인가)[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ](그래. 슈르크는 저 검이 가진 힘을[XENO:n ]\n전적으로 신뢰하고 있어)[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ](저 검… 모나드라고 했지…[XENO:n ]\n그렇구나!)[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

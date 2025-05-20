@@ -1,0 +1,244 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "단반, 오른팔은 괜찮아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "아, 이거 말이야?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "1년 전에 있었던 전투에서[XENO:n ]\n다쳤다면서?[XENO:wait wait=key ][System:PageBreak ]상태가 안 좋아 보였거든[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:sel sel=・걱정이 너무 많은걸/・그런 표정 짓지 마 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "무슨 소리야. 동료니까[XENO:n ]\n당연히 걱정하지![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "아, 미안해[XENO:wait wait=key ][System:PageBreak ]늘 말하잖아[XENO:n ]\n제대로 움직여[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "하지만… 단반[XENO:n ]\n오른팔 거의 안 쓰잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]더 이상은[XENO:n ]\n숨길 수 없겠군…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "사실은 이제[XENO:n ]\n움직이지 않는 거지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:sel sel=・그렇게 될지도 몰라/・그렇지 않아 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "역시 그랬구나…[XENO:wait wait=key ][System:PageBreak ]단반, 드디어 말해 줬네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "눈치채고… 있었어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "…물론이지[XENO:wait wait=key ][System:PageBreak ]하지만 \"그렇게 될지도 모른다\"는 건[XENO:n ]\n좋아질 가능성도 있다는 거지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "그래. 감각이 전혀 없는 건[XENO:n ]\n아니거든[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "저기, 리나다에게[XENO:n ]\n진찰은 받았어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "아니, 아직이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "그럼 뭐 하고 있는 거야![XENO:wait wait=key ][System:PageBreak ]단반, 정크스로 돌아가자[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "아니, 하지만…[XENO:n ]\n지금 꼭 가야 하나?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "무슨 소리야. 당연하지[XENO:wait wait=key ][System:PageBreak ]뭘 꾸물거리는 거야?[XENO:n ]\n자, 가자![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]쥬쥬가 된 기분인걸[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "그렇게 뻔한 거짓말을 해도[XENO:n ]\n하나도 좋을 거 없거든?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "아니, 그럴 생각은…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "단반이야말로[XENO:n ]\n걱정이 너무 많아[XENO:wait wait=key ][System:PageBreak ]전혀 모르고 있지?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "내가?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "나는 어떤 현실이든[XENO:n ]\n받아들일 수 있어[XENO:wait wait=key ][System:PageBreak ]아니면 내가[XENO:n ]\n울기라도 할 줄 알았어?[XENO:wait wait=key ][System:PageBreak ]단반도 아니고…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "미, 미안하군[XENO:wait wait=key ][System:PageBreak ]하지만 카르나가 무슨 말을[XENO:n ]\n하고 싶은지는 잘 알았어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "후후, 그럼 다행이고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "왼손도 나쁘지 않아[XENO:n ]\n꽤 익숙해졌거든[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "어쩐지 복잡한 기분이야[XENO:wait wait=key ][System:PageBreak ]단반이 모나드를 썼기 때문에[XENO:n ]\n1년 전 전투는 끝났지[XENO:wait wait=key ][System:PageBreak ]하지만 그 대가는…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "한쪽 팔을 못 쓰게 된 건[XENO:n ]\n아무렇지도 않아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "역시 오른팔 상태가 안 좋구나[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:sel sel=・후회는 없어/・이걸로 됐어 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "모나드가 있었기에[XENO:n ]\n기신병을 물리칠 수 있었어[XENO:wait wait=key ][System:PageBreak ]내가 하는 수밖에[XENO:n ]\n없었다고[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "단반도 참, 멋진 척하기는…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "이런 허세도 너희 덕분에[XENO:n ]\n부릴 수 있는 거야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "어머, 단반이[XENO:n ]\n그런 말을 하다니[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "이상한가?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "아니, 그렇지 않아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "아, 라인에게는 내가[XENO:n ]\n이런 소리를 했다고 말하지 마[XENO:wait wait=key ][System:PageBreak ]그 녀석이 알면[XENO:n ]\n귀찮으니까 말이야[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "후후, 알겠어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "뭐가 그걸로 됐다는 거야![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "하지만 그때 나 말고는[XENO:n ]\n모나드를 다룰 수 있는 녀석은 없었어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "그렇지만…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "내가 하는 수밖에 없었어[XENO:n ]\n그러니까 후회하지 않아[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "단반이 그렇게 말할 줄 알았어[XENO:wait wait=key ][System:PageBreak ]미안해[XENO:n ]\n난처하게 만들어서[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "아니, 괜찮아[XENO:wait wait=key ][System:PageBreak ]카르나의 마음은[XENO:n ]\n고맙게 받지[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "예견했었어?[XENO:n ]\n알비스[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "뭘?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "불쾌하네[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]화내지 마. 나는 그저[XENO:n ]\n그들을 가늠해 보고 싶었던 것뿐이야[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "그건 필요한 일이잖아?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]너의 탐구원을 방해하지는 않았어[XENO:n ]\n오히려 협력해 주었는데[XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "\"그분\" 앞에서도 그렇게 말할 수 있어?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]정보는 충분히 얻었어[XENO:n ]\n그 정도의 테레시아로는 \"그들\"을 이길 수 없어[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]그래… 긴 세월 동안 끊임없이[XENO:n ]\n\"쌓여 온 집념\" 앞에서는 말이야[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}
