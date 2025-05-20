@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520405_msg0001",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니코는…… 이치카를……\n용서할 수 없어요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520405_msg0002",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "애초에 일부러\n은신처 열쇠를 맡겼다는 건\n찾아 주길 바랐다는 말 아닌가요……?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520405_msg0003",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 말은 자기를 이해해 달라……\n용서해 달라 이 소리잖아요\n……정말 약아빠졌어……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520405_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 아니면 뫼비우스로서의\n활동 기록을 남겨 속죄하려 했다……\n그렇게 볼 수도 있지"
+  }, {
+    "$id" : 5,
+    "label" : "tlk520405_msg0005",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타이온 씨는 사람도 좋네요……\n니코는…… 그렇게 생각 못 하겠어요\n죄송해요……"
+  } ]
+}

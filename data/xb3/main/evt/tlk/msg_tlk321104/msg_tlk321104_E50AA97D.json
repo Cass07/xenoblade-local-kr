@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk321104_msg0001",
+    "talker" : "fd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타우 사람들은 괜찮을까?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk321104_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "남 걱정하기 전에……\n여기가 더 위험하지 않아? 피난 안 해?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk321104_msg0003",
+    "talker" : "fd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응…… 그치만 새로운 친구들과\n함께 있으니까 불안하진 않아"
+  }, {
+    "$id" : 4,
+    "label" : "tlk321104_msg0004",
+    "talker" : "fd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약 무슨 일이 생기면 뮤 사람들과\n열심히 도망칠 테니까 걱정하지 마"
+  }, {
+    "$id" : 5,
+    "label" : "tlk321104_msg0101",
+    "talker" : "fd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워…… 정말 기뻐"
+  }, {
+    "$id" : 6,
+    "label" : "tlk321104_msg0201",
+    "talker" : "fd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……또 와"
+  } ]
+}

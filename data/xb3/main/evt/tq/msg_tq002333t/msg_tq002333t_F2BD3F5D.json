@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002333_msg0001",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이치카는 드센 성격이랄까\n살짝 엄격한 편이지"
+  }, {
+    "$id" : 2,
+    "label" : "tq002333_msg0002",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "툭 까놓고 말하면\n마시로도 처음엔 꽤 냉대받았는데……\n그래도 절대 포기하지 않더라"
+  }, {
+    "$id" : 3,
+    "label" : "tq002333_msg0003",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 모습에 이치카도 영향을 받아서\n지금은 서로 가장 친한 친구가 된 것 같아"
+  }, {
+    "$id" : 4,
+    "label" : "tq002333_msg0004",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "처음엔 성가셔했는데, 참 대단하지?\n마시로한텐 그런 힘이 있는 것 같아"
+  } ]
+}

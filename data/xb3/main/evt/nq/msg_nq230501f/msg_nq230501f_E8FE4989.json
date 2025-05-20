@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq230501_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 어쩔 거야?\n무작정 찾을 수도 없잖아?"
+  }, {
+    "$id" : 2,
+    "label" : "nq230501_msg0002",
+    "talker" : "ne1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연하지!\n그래서 녀석들을 데려온 거다"
+  }, {
+    "$id" : 3,
+    "label" : "nq230501_msg0003",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……다수의 병사가 지나간 흔적이 보이네요\n그렇게 시간이 많이 지나지 않았어요"
+  }, {
+    "$id" : 4,
+    "label" : "nq230501_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흔적이라니…… 어디에?\n아무것도 안 보이는데?"
+  }, {
+    "$id" : 5,
+    "label" : "nq230501_msg0005",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그야 그렇겠죠\n저는 이쪽 분야의 전문이거든요"
+  }, {
+    "$id" : 6,
+    "label" : "nq230501_msg0006",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석들도 진심으로\n도망칠 생각인가 보네요\n꼼꼼하게 발자국을 지워놨어요"
+  }, {
+    "$id" : 7,
+    "label" : "nq230501_msg0007",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무리 그래도 제 눈에는\n허술해 보이네요\n흔적이 여기저기 눈에 띄거든요"
+  }, {
+    "$id" : 8,
+    "label" : "nq230501_msg0008",
+    "talker" : "ne1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "설명은 필요 없다!\n빨리 추적을 시작해라!!"
+  }, {
+    "$id" : 9,
+    "label" : "nq230501_msg0009",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 네, 네, 알겠으니까\n제발 큰 소리 좀 내지 마세요"
+  }, {
+    "$id" : 10,
+    "label" : "nq230501_msg0010",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흔적은 그쪽의 \"눈동자\"에도 공유할 테니까\n놓치지 않도록 주의해 주시라고요"
+  } ]
+}

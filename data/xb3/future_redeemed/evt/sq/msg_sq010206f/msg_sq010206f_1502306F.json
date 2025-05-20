@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<96C61EEE>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기, 매슈\n리쿠의 해머 이거 아냐?"
+  }, {
+    "$id" : 2,
+    "label" : "<12E8A21E>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 겉으로 보기에도\n평범한 해머 같지 않으니 맞을 거 같아"
+  }, {
+    "$id" : 3,
+    "label" : "<6AED4D7A>",
+    "talker" : "kq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 내도 참\n정리한다 캐 놓곤 깜빡했구마"
+  }, {
+    "$id" : 4,
+    "label" : "<F76FF87E>",
+    "talker" : "kq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "텐트 펙을 박을라 카는 데\n딱 적당한 사이즈길래 잠깐 빌렸다카이"
+  }, {
+    "$id" : 5,
+    "label" : "<92CF41A3>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 이제 돌려받아도 될까?\n진짜 주인이 찾고 있거든"
+  }, {
+    "$id" : 6,
+    "label" : "<1438F38E>",
+    "talker" : "kq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다 했응께 가져가도 괘안타\n그라믄 잘 부탁한데이"
+  }, {
+    "$id" : 7,
+    "label" : "<33D77783>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "참 나……\n다 썼으면 반납을 해야 할 거 아냐"
+  }, {
+    "$id" : 8,
+    "label" : "<9F2E986B>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 됐어\n광석하고 리쿠의 해머, 둘 다 손에 넣었으니까"
+  } ]
+}

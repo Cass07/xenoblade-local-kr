@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk711304_msg0001",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "성인이 되면\n다시 한번 개릿 씨와\n이야기하러 갈 거야!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk711304_msg0002",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론! 줄리에타와의\n결혼을 허락받기 위해서지!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk711304_msg0003",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "살아 있는 가족이 있는데\n무리해서 결별하는 일은 없었으면 좋겠어"
+  } ]
+}

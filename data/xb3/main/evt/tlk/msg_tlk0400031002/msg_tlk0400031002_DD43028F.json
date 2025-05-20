@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk0400031002_msg0001",
+    "talker" : "dn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "최후의 전투를 하러 가는 거지?\n카무나비가 간다면 나도 간다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk0400031002_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너무 위험한 곳이야\n그런 곳에 당신을 데려갈 수는……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk0400031002_msg0003",
+    "talker" : "dn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 곳이기에 더 가겠다는 거다\n만약 카무나비에게 무슨 일이라도 생기면……\n나는……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk0400031002_msg0004",
+    "talker" : "dn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……부탁하지\n동행하게 해 줘"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120303_msg0001",
+    "talker" : "YY1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선배!\n빨리 저를 두들겨 패 주시죠!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120303_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐? 무슨 뚱딴지같은 소리야?\n머리라도 다쳤어?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120303_msg0003",
+    "talker" : "YY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "디펜더란 존재는!\n아무리 맞아도 멀쩡해야 한다고요!\n맷집이 튼튼해야지, 맷집이~~!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120303_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여전히 기세 하나는 장난 아니네……\n맨날 그렇게 핏대 세우고 다니면 피곤하지 않아?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk120303_msg0005",
+    "talker" : "YY1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔 소리래요?!\n남의 시선을 끌어야 디펜더죠!!\n전신에 힘 더 빡 주고 가 보자고~~!!"
+  } ]
+}

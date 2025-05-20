@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk320406_msg0001",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 모르크나 대삼림에서 살아남으려면\n버섯에 관한 지식은 필수야"
+  }, {
+    "$id" : 2,
+    "label" : "tlk320406_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "버, 버섯?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk320406_msg0003",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 맞아\n버섯을 만만하게 보지 않는 게 좋아"
+  }, {
+    "$id" : 4,
+    "label" : "tlk320406_msg0004",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기에는 귀중하고 맛있는 버섯도 있지만\n엄청난 독버섯도 있지\n……특히 숙면 버섯은 위험해"
+  }, {
+    "$id" : 5,
+    "label" : "tlk320406_msg0005",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모르고 숲속에서 먹기라도 했다가는\n다음에 눈을 뜬 순간\n몬스터의 뱃속에 있을지도 모른다고"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk530702_msg0001",
+    "talker" : "ti1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그레이 씨는 임무 잘돼 가시나요?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk530702_msg0002",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 요즘은 애나 돌보고 있다"
+  }, {
+    "$id" : 3,
+    "label" : "tlk530702_msg0003",
+    "talker" : "ti1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러시군요……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk530702_msg0004",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk530702_msg0005",
+    "talker" : "ti1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나중에 또 이야기를 들려주세요\n그레이 씨는 제 목표이기도 하니까요"
+  } ]
+}

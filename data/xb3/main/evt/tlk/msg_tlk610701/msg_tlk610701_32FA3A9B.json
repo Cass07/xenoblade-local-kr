@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk610701_msg0001",
+    "talker" : "vj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하아…… 수용소에 있는 사람들은\n그저 노동력이라고 생각했었어……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk610701_msg0002",
+    "talker" : "vj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 배워 왔으니\n아무런 의심도 품질 않았었는데……\n조금 민망하네……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk610701_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집정관이 꾸민 짓이지\n네가 잘못한 게 아니야"
+  }, {
+    "$id" : 4,
+    "label" : "tlk610701_msg0004",
+    "talker" : "vj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래? 내 잘못이 아니구나?\n생각해 보니까 그런 것 같긴 하네"
+  }, {
+    "$id" : 5,
+    "label" : "tlk610701_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "와, 수긍하는 속도 장난 아니네……"
+  } ]
+}

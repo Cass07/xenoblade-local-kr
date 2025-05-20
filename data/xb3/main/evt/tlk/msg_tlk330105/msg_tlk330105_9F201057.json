@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk330105_msg0001",
+    "talker" : "md1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조조카 일행은 근처의 휴식지까지\n갈 생각이야모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk330105_msg0002",
+    "talker" : "md1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 뭐 사고 싶은 게 있다면\n여기서 팔게모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk330105_msg0003",
+    "talker" : "md1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우수한 노폰은 장사할 기회를 놓치지 않거든모"
+  } ]
+}

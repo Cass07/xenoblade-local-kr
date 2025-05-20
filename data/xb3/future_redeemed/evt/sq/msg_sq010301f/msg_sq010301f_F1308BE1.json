@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<B6F81C91>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도착했다. 이 안이야"
+  }, {
+    "$id" : 2,
+    "label" : "<84D46D1C>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "입구를 바위가 막고 있다더니\n혹시 직접 막았던 거야?"
+  }, {
+    "$id" : 3,
+    "label" : "<927DF945>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 실수로라도\n누가 안에 들어가면 안 되니까"
+  }, {
+    "$id" : 4,
+    "label" : "<39F240D8>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이러면 우리도 못 들어가잖아\n어떻게 하려고?"
+  }, {
+    "$id" : 5,
+    "label" : "<0EC39BA9>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐 있어 봐"
+  }, {
+    "$id" : 6,
+    "label" : "<8C87B442>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이러면 되지. 가자고"
+  }, {
+    "$id" : 7,
+    "label" : "<A9CB4DA7>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 8,
+    "label" : "<FD32F830>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……역시 렉스는 대단하네"
+  } ]
+}

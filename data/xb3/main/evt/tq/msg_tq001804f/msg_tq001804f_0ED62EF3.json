@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001804_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신비한 사람이네\n차분하면서도 왠지 모를 위엄이\n느껴진달까……"
+  }, {
+    "$id" : 2,
+    "label" : "tq001804_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그나저나 정말 괜찮은 거 맞아?\n우리에 대해 아무것도 안 물어보던데"
+  }, {
+    "$id" : 3,
+    "label" : "tq001804_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상황을 이미 파악하신 건지\n혹은 악의가 없다고 판단하신 건지……"
+  }, {
+    "$id" : 4,
+    "label" : "tq001804_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 아무러면 어때\n갑자기 안 달려든 게 어디야"
+  }, {
+    "$id" : 5,
+    "label" : "tq001804_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아, 미오. 쉬는 김에\n콜로니 좀 둘러보지 않을래?"
+  }, {
+    "$id" : 6,
+    "label" : "tq001804_msg0006",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴까? 다들 어떻게 지내는지\n궁금하기도 하니까"
+  }, {
+    "$id" : 7,
+    "label" : "tq001804_msg0007",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "겸사겸사 케베스 병사 여러분도\n함께 안내해 드리지요"
+  }, {
+    "$id" : 8,
+    "label" : "tq001804_msg0008",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 부탁 좀 하자\n누가 뭐래도 우린 \"손님\"이잖아"
+  }, {
+    "$id" : 9,
+    "label" : "tq001804_msg0009",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 병사들 이야기를 들어 봐야겠어\n……조금 신경 쓰이는 점도 있고"
+  }, {
+    "$id" : 10,
+    "label" : "tq001804_msg0010",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미오 일행이 있었던 콜로니……\n어떤 곳일까?"
+  } ]
+}

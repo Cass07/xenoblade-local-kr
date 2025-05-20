@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk110102_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보아하니\n고민은 해결된 모양이네"
+  }, {
+    "$id" : 2,
+    "label" : "tlk110102_msg0002",
+    "talker" : "XX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응! 식물은 정성껏 돌본 만큼\n잘 자라니까……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk110102_msg0003",
+    "talker" : "XX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 같이 살아가야겠다는\n긍정적인 마음이 생기더라고"
+  }, {
+    "$id" : 4,
+    "label" : "tlk110102_msg0004",
+    "talker" : "XX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 덕분에 환송자의 역할이 무엇인지\n다시 생각해 볼 수 있게 됐어"
+  }, {
+    "$id" : 5,
+    "label" : "tlk110102_msg0005",
+    "talker" : "XX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그때 이것저것 조언해 줘서\n정말 고마웠어"
+  } ]
+}

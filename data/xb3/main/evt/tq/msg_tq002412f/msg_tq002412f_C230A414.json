@@ -1,0 +1,259 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002412_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진심이야, 세나?\n그 집정관 말을 믿어?"
+  }, {
+    "$id" : 2,
+    "label" : "tq002412_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 전부 믿지는 않아\n함정일지도 모른다는 것도 알고 있어\n하지만……"
+  }, {
+    "$id" : 3,
+    "label" : "tq002412_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약…… 만약에 말이야\n방금 그 이야기가 진짜라면\n앞으로 세주 일행과는 싸우지 않아도 되고……"
+  }, {
+    "$id" : 4,
+    "label" : "tq002412_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무엇보다 세주에게도\n돌아오길 바라는 사람들이 있어……"
+  }, {
+    "$id" : 5,
+    "label" : "tq002412_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 나는……"
+  }, {
+    "$id" : 6,
+    "label" : "tq002412_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어쨌든 간에\n이대로 있을 수는 없겠네"
+  }, {
+    "$id" : 7,
+    "label" : "tq002412_msg0007",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "억측을 거듭하며\n아무것도 하지 못할 바에야\n차라리 상황을 바꿔 보자는 건가……"
+  }, {
+    "$id" : 8,
+    "label" : "tq002412_msg0008",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩌면 정말 대화로\n해결될 가능성도 있고……"
+  }, {
+    "$id" : 9,
+    "label" : "tq002412_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 콜로니 0는\n어디에 있어?"
+  }, {
+    "$id" : 10,
+    "label" : "tq002412_msg0010",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아에티아 지방……\n\"카푸트코르누 봉우리\""
+  }, {
+    "$id" : 11,
+    "label" : "tq002412_msg0011",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어라? 거기는……"
+  }, {
+    "$id" : 12,
+    "label" : "tq002412_msg0012",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 서로 싸웠던 곳 아니야?"
+  }, {
+    "$id" : 13,
+    "label" : "tq002412_msg0013",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 0의 주둔지는\n좀 더 안쪽에 위치하고 있습니다"
+  }, {
+    "$id" : 14,
+    "label" : "tq002412_msg0014",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 알겠네\n그러니 거기서 매복하고 있었구나"
+  }, {
+    "$id" : 15,
+    "label" : "tq002412_msg0015",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다만 루트에\n\"썩은 노키르아 웅덩이\"가 있습니다"
+  }, {
+    "$id" : 16,
+    "label" : "tq002412_msg0016",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "접근하면 생명 활동에\n심각한 영향을 줄 것으로 예측됩니다"
+  }, {
+    "$id" : 17,
+    "label" : "tq002412_msg0017",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 너희는\n어떻게 거길 지나다녀?"
+  }, {
+    "$id" : 18,
+    "label" : "tq002412_msg0018",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "철기병의 환경 내성 방호 기능이 있으면\n독성을 일시적으로 무효화할 수 있습니다"
+  }, {
+    "$id" : 19,
+    "label" : "tq002412_msg0019",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"철기병\"이라면\n세주가 타고 왔던 그거 말이야?"
+  }, {
+    "$id" : 20,
+    "label" : "tq002412_msg0020",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "긍정합니다"
+  }, {
+    "$id" : 21,
+    "label" : "tq002412_msg0021",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇기에 목적을 수행하기 위해선\n해당 구역에 방치된\n철기병의 회수 및 수리가 요구됩니다"
+  }, {
+    "$id" : 22,
+    "label" : "tq002412_msg0022",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 수리는 리쿠에게 부탁하자\n그래도 문제없지?"
+  }, {
+    "$id" : 23,
+    "label" : "tq002412_msg0023",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "문제없습니다"
+  }, {
+    "$id" : 24,
+    "label" : "tq002412_msg0024",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩔 수 없네모\n솜씨를 보여 주도록 할게모"
+  }, {
+    "$id" : 25,
+    "label" : "tq002412_msg0025",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 세주\n한동안 잘 부탁할게"
+  }, {
+    "$id" : 26,
+    "label" : "tq002412_msg0026",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다"
+  } ]
+}

@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk714404_msg0001",
+    "talker" : "_l1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나중에 밖에서 사는 사람들이\n시티에 찾아오면\n다양한 이야기를 듣고 싶어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk714404_msg0002",
+    "talker" : "_l1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모험가가 될 때까지\n제대로 준비해 둬야지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk714404_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 좋은 생각인걸"
+  }, {
+    "$id" : 4,
+    "label" : "tlk714404_msg0004",
+    "talker" : "_l1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "언니랑 오빠들도 시간이 나면\n이야기를 들려줘"
+  } ]
+}

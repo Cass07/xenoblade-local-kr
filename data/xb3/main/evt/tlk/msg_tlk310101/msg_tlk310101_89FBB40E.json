@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk310101_msg0001",
+    "talker" : "nc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무래도 내가\n의식을 잃었었나 보네……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk310101_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 어때?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk310101_msg0003",
+    "talker" : "nc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋진 않아"
+  }, {
+    "$id" : 4,
+    "label" : "tlk310101_msg0004",
+    "talker" : "nc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "언뜻 집정관이 온 것까진 봤는데\n그 뒷일이 기억나질 않아……"
+  } ]
+}

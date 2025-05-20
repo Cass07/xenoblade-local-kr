@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230301_msg0001",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스라는 것이\n저희한테 어떤 존재인지……\n아시나요?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230301_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세계의 적……이지……?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230301_msg0003",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 집정관의 견해입니다\n사실만 따지면 미지의 강자이며……\n규칙에서 벗어난 이물질이죠"
+  }, {
+    "$id" : 4,
+    "label" : "tlk230301_msg0004",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 특이한 존재가 있었기에\n규칙을 의심할 수 있었으니……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk230301_msg0005",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 감사하고 있어요\n……하고 싶은 말은 이게 다입니다"
+  } ]
+}

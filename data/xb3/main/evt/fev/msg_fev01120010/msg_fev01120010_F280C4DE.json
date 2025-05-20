@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<0EBBFF7B>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……잠깐, 저기 봐!"
+  }, {
+    "$id" : 2,
+    "label" : "<4FCAF89C>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "먼저 갔던 다른 반 녀석들인데?"
+  }, {
+    "$id" : 3,
+    "label" : "<36EC69FE>",
+    "talker" : "T",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "볼프인가?"
+  }, {
+    "$id" : 4,
+    "label" : "<3EFBD7C9>",
+    "talker" : "T",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하나씩 상대하면 별거 아닌 상대지만……"
+  }, {
+    "$id" : 5,
+    "label" : "<9A2E8F0C>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜 작전은 아직 시작 전이니까\n발목 잡혀 있는 거라면 도와주자"
+  }, {
+    "$id" : 6,
+    "label" : "<985F562A>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 말할 줄 알았어"
+  }, {
+    "$id" : 7,
+    "label" : "<67525B1A>",
+    "talker" : "sX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗! 너희들……"
+  }, {
+    "$id" : 8,
+    "label" : "<A6196E2D>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 가세할게!"
+  }, {
+    "$id" : 9,
+    "label" : "<2088E682>",
+    "talker" : "sX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래! 잽싸게 해치우자!"
+  } ]
+}

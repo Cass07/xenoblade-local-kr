@@ -1,0 +1,331 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq130206_msg0001",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다녀왔어"
+  }, {
+    "$id" : 2,
+    "label" : "nq130206_msg0002",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 무사히 돌아왔나 보구나"
+  }, {
+    "$id" : 3,
+    "label" : "nq130206_msg0003",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 덕분에……"
+  }, {
+    "$id" : 4,
+    "label" : "nq130206_msg0004",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나 님! 여기 계셨군요!"
+  }, {
+    "$id" : 5,
+    "label" : "nq130206_msg0005",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "연구소의 설비 확장에 대해서\n의논드리고 싶습니다만……!"
+  }, {
+    "$id" : 6,
+    "label" : "nq130206_msg0006",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말이지, 급하기는……"
+  }, {
+    "$id" : 7,
+    "label" : "nq130206_msg0007",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안해, 잠시 자리 좀 비울게"
+  }, {
+    "$id" : 8,
+    "label" : "nq130206_msg0008",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘은 고마웠어\n예정보다 보급도 빨리 진행됐고……"
+  }, {
+    "$id" : 9,
+    "label" : "nq130206_msg0009",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럭저럭 기분 전환이 됐어"
+  }, {
+    "$id" : 10,
+    "label" : "nq130206_msg0010",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도움이 됐다니 다행이야"
+  }, {
+    "$id" : 11,
+    "label" : "nq130206_msg0101",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……수고하셨습니다\n귀환한 부하들에게 보고를 받았어요"
+  }, {
+    "$id" : 12,
+    "label" : "nq130206_msg0102",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미카게가 말한 대로 다들 진지하게\n임무에 임하고 있었어……"
+  }, {
+    "$id" : 13,
+    "label" : "nq130206_msg0103",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 요타가 강한 이유를\n조금은 알게 된 것 같아"
+  }, {
+    "$id" : 14,
+    "label" : "nq130206_msg0104",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후…… 니나 님께서 얼마나\n굉장하신 분인지 아시겠죠?"
+  }, {
+    "$id" : 15,
+    "label" : "nq130206_msg0105",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……하나 확인하고 싶은데\n니나는 어디까지 계산하고 있는 거지?"
+  }, {
+    "$id" : 16,
+    "label" : "nq130206_msg0106",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물자 분배를 통한 아군 확보와\n보급 임무를 통한 다음 세대의 육성……\n그 두 가지는 밀접한 관련이 있는 것 같던데"
+  }, {
+    "$id" : 17,
+    "label" : "nq130206_msg0107",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나 님께선…… 괴로운 경험을\n반복하고 싶지 않으신 거예요"
+  }, {
+    "$id" : 18,
+    "label" : "nq130206_msg0108",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금처럼 물자를 반출하지 않았던 시절\n풍요로웠던 콜로니 요타에는\n내부에서 분쟁이 빈발했습니다"
+  }, {
+    "$id" : 19,
+    "label" : "nq130206_msg0109",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부를 얻은 자는 더한 부를 바라죠\n서로 돕거나 노력하기를 포기하고\n불성실하고 이기적인 사람이 된다는 말입니다"
+  }, {
+    "$id" : 20,
+    "label" : "nq130206_msg0110",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나 님께선 물자가 풍요롭다고 해서\n사람의 마음까지 풍요로워지는 건\n아니라는 사실을 통감하신 거죠"
+  }, {
+    "$id" : 21,
+    "label" : "nq130206_msg0111",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 일이 있었구나……"
+  }, {
+    "$id" : 22,
+    "label" : "nq130206_msg0112",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……정말 이유는 그게 다야?"
+  }, {
+    "$id" : 23,
+    "label" : "nq130206_msg0113",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 의심이 많은 성격이긴 하지만\n니나의 관점은 특히 차갑게\n느껴질 때가 있어……"
+  }, {
+    "$id" : 24,
+    "label" : "nq130206_msg0114",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "원래 그런 성격인 건가?"
+  }, {
+    "$id" : 25,
+    "label" : "nq130206_msg0115",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 26,
+    "label" : "nq130206_msg0116",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……니나 님께선 아직도\n자기 자신을 못 믿고 계세요"
+  }, {
+    "$id" : 27,
+    "label" : "nq130206_msg0117",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희는 그걸 바라볼 수밖에 없었지만……\n하지만 여러분이라면……"
+  }, {
+    "$id" : 28,
+    "label" : "nq130206_msg0118",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……? 무슨 말이야?"
+  }, {
+    "$id" : 29,
+    "label" : "nq130206_msg0119",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나 님께서도 바뀌셔야 한다……\n그런 말입니다"
+  }, {
+    "$id" : 30,
+    "label" : "nq130206_msg0120",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 이렇게밖에 말씀드릴 수\n없습니다만…… 잘 지켜봐 주세요"
+  }, {
+    "$id" : 31,
+    "label" : "nq130206_msg0121",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알았어\n염두에 두도록 하지"
+  }, {
+    "$id" : 32,
+    "label" : "nq130206_msg0122",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이야기가 딴 길로 샜네요……"
+  }, {
+    "$id" : 33,
+    "label" : "nq130206_msg0123",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예정대로 물자는 70%까지 보충했습니다\n앞으로도 평소처럼 사용하시면 됩니다"
+  }, {
+    "$id" : 34,
+    "label" : "nq130206_msg0124",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부하들을 도와주셔서\n정말로 감사했습니다"
+  } ]
+}

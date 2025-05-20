@@ -1,0 +1,214 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq210302_msg0001",
+    "talker" : "sc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기다렸어"
+  }, {
+    "$id" : 2,
+    "label" : "nq210302_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "돕는 건 상관없는데\n이런 곳에서 폭주했다간 다 무너질걸"
+  }, {
+    "$id" : 3,
+    "label" : "nq210302_msg0003",
+    "talker" : "sc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 괜찮아…… 아마도\n문제가 생기면 바로 멈추게 해 뒀거든"
+  }, {
+    "$id" : 4,
+    "label" : "nq210302_msg0004",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 말하니 참……"
+  }, {
+    "$id" : 5,
+    "label" : "nq210302_msg0005",
+    "talker" : "4",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……불안하군"
+  }, {
+    "$id" : 6,
+    "label" : "nq210302_msg0006",
+    "talker" : "sc1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 7,
+    "label" : "nq210302_msg0007",
+    "talker" : "sc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 움직이네"
+  }, {
+    "$id" : 8,
+    "label" : "nq210302_msg0008",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갑자기 움직이지 말라고!\n무섭잖아!"
+  }, {
+    "$id" : 9,
+    "label" : "nq210302_msg0009",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만…… 이제 정말 공격하진 않나 본데\n이러면 문제없는 거 아니야?"
+  }, {
+    "$id" : 10,
+    "label" : "nq210302_msg0010",
+    "talker" : "sc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 테스트는 지금부터야\n우린 그렇다 쳐도 적을 공격하지 않으면\n아무런 의미가 없잖아"
+  }, {
+    "$id" : 11,
+    "label" : "nq210302_msg0011",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그건 그런데, 이 근처에 적이 있어?"
+  }, {
+    "$id" : 12,
+    "label" : "nq210302_msg0012",
+    "talker" : "sc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 주변이라면\n돌아다니는 병사가 있을 거야"
+  }, {
+    "$id" : 13,
+    "label" : "nq210302_msg0013",
+    "talker" : "sc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "특히 최근에는 내부에\n잠입하는 녀석들이 많거든"
+  }, {
+    "$id" : 14,
+    "label" : "nq210302_msg0014",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……자율형 레브니스가\n거기까지 갈 수 있어?"
+  }, {
+    "$id" : 15,
+    "label" : "nq210302_msg0015",
+    "talker" : "sc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "성능 면에선 문제없지만 테스트 가동 상태로\n그렇게까지 움직이진 못할 거야"
+  }, {
+    "$id" : 16,
+    "label" : "nq210302_msg0016",
+    "talker" : "sc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 당신들이\n적을 데려와 줬으면 해"
+  }, {
+    "$id" : 17,
+    "label" : "nq210302_msg0017",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "데려오라고?"
+  }, {
+    "$id" : 18,
+    "label" : "nq210302_msg0018",
+    "talker" : "sc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "작동 테스트니까\n전투가 벌어지면 그쪽도\n자율형 레브니스랑 함께 싸워 줘"
+  }, {
+    "$id" : 19,
+    "label" : "nq210302_msg0019",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……꽤 번거로운 일인데\n너무 가볍게 말하는 거 아냐?"
+  }, {
+    "$id" : 20,
+    "label" : "nq210302_msg0020",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 할 수 있는 데까진 해 보자\n위험하지 않은 선에서 돕겠다고 했잖아"
+  }, {
+    "$id" : 21,
+    "label" : "nq210302_msg0021",
+    "talker" : "sc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 잘 부탁해"
+  } ]
+}

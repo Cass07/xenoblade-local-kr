@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002332_msg0001",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……앗! 혹시\n시로를 찾고 있어?"
+  }, {
+    "$id" : 2,
+    "label" : "tq002332_msg0002",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마 꽃밭에 있을 거야……\n여기서 서쪽으로 가면 나와"
+  }, {
+    "$id" : 3,
+    "label" : "tq002332_msg0101",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난…… 나 자신을\n별로 좋아하지 않아"
+  }, {
+    "$id" : 4,
+    "label" : "tq002332_msg0102",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "싸우기는 무섭고, 걸림돌이 되긴 싫으니까\n툭하면 도망치고 싶다는 생각을 해……"
+  }, {
+    "$id" : 5,
+    "label" : "tq002332_msg0103",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만…… 시로는\n함께 있겠다고 말해 주고\n이런 나를 응원해 줘"
+  }, {
+    "$id" : 6,
+    "label" : "tq002332_msg0104",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 나도……\n정말 좋아하는 시로를 위해 노력하고 싶어!"
+  } ]
+}

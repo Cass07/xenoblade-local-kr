@@ -1,0 +1,529 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012206_msg0001",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "강한 녀석과 치고받으니\n기분이 상쾌해지는걸!"
+  }, {
+    "$id" : 2,
+    "label" : "tq012206_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그것보다 항아리라는 게 혹시 이거야?"
+  }, {
+    "$id" : 3,
+    "label" : "tq012206_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이 녀석이 갖고 있었나 본데"
+  }, {
+    "$id" : 4,
+    "label" : "tq012206_msg0004a",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……?!"
+  }, {
+    "$id" : 5,
+    "label" : "tq012206_msg0004b",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래! 이거야!\n틀림없어!"
+  }, {
+    "$id" : 6,
+    "label" : "tq012206_msg0005a",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "와아…… 이게 그 항아리구나……"
+  }, {
+    "$id" : 7,
+    "label" : "tq012206_msg0005b",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래서? 안에는 뭐가 들었어?"
+  }, {
+    "$id" : 8,
+    "label" : "tq012206_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이제 와서\n비밀이라고 하진 말아 줘"
+  }, {
+    "$id" : 9,
+    "label" : "tq012206_msg0007",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래, 이건……"
+  }, {
+    "$id" : 10,
+    "label" : "tq012206_msg0008",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……"
+  }, {
+    "$id" : 11,
+    "label" : "tq012206_msg0009",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭐냐 이건?"
+  }, {
+    "$id" : 12,
+    "label" : "tq012206_msg0010",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아니…… 내가 어떻게 알아"
+  }, {
+    "$id" : 13,
+    "label" : "tq012206_msg0011",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "모못?! 이 냄새는……"
+  }, {
+    "$id" : 14,
+    "label" : "tq012206_msg0012",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "된장이에요모!"
+  }, {
+    "$id" : 15,
+    "label" : "tq012206_msg0013",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "된……장……?"
+  }, {
+    "$id" : 16,
+    "label" : "tq012206_msg0014",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래요모! 고기나 생선에 곁들이기도 하고\n야채랑 볶아도 맛있는 만능 조미료에요모!"
+  }, {
+    "$id" : 17,
+    "label" : "tq012206_msg0015",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그러니까……"
+  }, {
+    "$id" : 18,
+    "label" : "tq012206_msg0016",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……어, 그런 걸 찾고 있었던 거야?"
+  }, {
+    "$id" : 19,
+    "label" : "tq012206_msg0017",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "된장……"
+  }, {
+    "$id" : 20,
+    "label" : "tq012206_msg0018a",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아, 그렇지……!"
+  }, {
+    "$id" : 21,
+    "label" : "tq012206_msg0018b",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나와 그 녀석은……"
+  }, {
+    "$id" : 22,
+    "label" : "tq012206_msg0019",
+    "talker" : "wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]크아아악!"
+  }, {
+    "$id" : 23,
+    "label" : "tq012206_msg0020",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "조금만 기다려! 지금 도와주……"
+  }, {
+    "$id" : 24,
+    "label" : "tq012206_msg0021",
+    "talker" : "wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나리! 나는 어찌 돼도 좋아!\n하지만……"
+  }, {
+    "$id" : 25,
+    "label" : "tq012206_msg0022",
+    "talker" : "wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이건…… 이것만큼은\n나리가 맡아 줘……!!"
+  }, {
+    "$id" : 26,
+    "label" : "tq012206_msg0023a",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "바보 같은 소리 하지 마!"
+  }, {
+    "$id" : 27,
+    "label" : "tq012206_msg0023b",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "네가 애지중지하던 된장이잖아……!"
+  }, {
+    "$id" : 28,
+    "label" : "tq012206_msg0024a",
+    "talker" : "wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "미안해, 나리. 나는 여기까지야……"
+  }, {
+    "$id" : 29,
+    "label" : "tq012206_msg0024b",
+    "talker" : "wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "하지만 거기에 내 혼을 바쳤어……"
+  }, {
+    "$id" : 30,
+    "label" : "tq012206_msg0025a",
+    "talker" : "wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그걸로 최고의 된장 요리를"
+  }, {
+    "$id" : 31,
+    "label" : "tq012206_msg0025b",
+    "talker" : "wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나리 손으로……"
+  }, {
+    "$id" : 32,
+    "label" : "tq012206_msg0025c",
+    "talker" : "wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "직접 찾아 줘어어어"
+  }, {
+    "$id" : 33,
+    "label" : "tq012206_msg0026",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "파트너어어어!!"
+  }, {
+    "$id" : 34,
+    "label" : "tq012206_msg0027",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]크헉……?!"
+  }, {
+    "$id" : 35,
+    "label" : "tq012206_msg0028a",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "생각났다……"
+  }, {
+    "$id" : 36,
+    "label" : "tq012206_msg0028b",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나와 그 녀석은 이것과 어울리는\n식재료를 찾아서 여행을 했어"
+  }, {
+    "$id" : 37,
+    "label" : "tq012206_msg0029a",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "하지만 마지막으로 도착한 이곳에서"
+  }, {
+    "$id" : 38,
+    "label" : "tq012206_msg0029b",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그 녀석은 몬스터에게 잡아먹혀 버렸지"
+  }, {
+    "$id" : 39,
+    "label" : "tq012206_msg0030",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그 녀석은 내게 이걸 맡긴다고 했는데……"
+  }, {
+    "$id" : 40,
+    "label" : "tq012206_msg0031a",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "젠장! 대체 왜……"
+  }, {
+    "$id" : 41,
+    "label" : "tq012206_msg0031b",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이렇게 중요한 걸\n왜 잊어버린 거냐고!"
+  }, {
+    "$id" : 42,
+    "label" : "tq012206_msg0032",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……"
+  }, {
+    "$id" : 43,
+    "label" : "tq012206_msg0033",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그랬군, 그때 노폰 아가씨의 요리를 보며\n부족하다고 느낀 건……"
+  }, {
+    "$id" : 44,
+    "label" : "tq012206_msg0034",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……된장이었어"
+  }, {
+    "$id" : 45,
+    "label" : "tq012206_msg0035",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……"
+  }, {
+    "$id" : 46,
+    "label" : "tq012206_msg0036",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그건 그렇고 나는 고작 된장 하나에\n수십 년을 매달려 산 건가?"
+  }, {
+    "$id" : 47,
+    "label" : "tq012206_msg0037",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "정말 어처구니가 없군. 안 그래?"
+  }, {
+    "$id" : 48,
+    "label" : "tq012206_msg0038",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그게 그러니까…… 음……?"
+  }, {
+    "$id" : 49,
+    "label" : "tq012206_msg0039",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "미안했어, 형씨들"
+  }, {
+    "$id" : 50,
+    "label" : "tq012206_msg0040a",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이건 몇백 년이 지나도 안 썩는 된장이거든"
+  }, {
+    "$id" : 51,
+    "label" : "tq012206_msg0040b",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나중에 살짝 맛보게 해 줄게!"
+  }, {
+    "$id" : 52,
+    "label" : "tq012206_msg0041",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그거 정말 기쁜걸요모\n전설의 된장 기대할게요모"
+  }, {
+    "$id" : 53,
+    "label" : "tq012206_msg0042",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "있잖아, 노아"
+  }, {
+    "$id" : 54,
+    "label" : "tq012206_msg0043",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……왜 그래?"
+  }, {
+    "$id" : 55,
+    "label" : "tq012206_msg0044",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "역시 이 녀석, 두들겨 패도 되지?"
+  }, {
+    "$id" : 56,
+    "label" : "tq012206_msg0045",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……이번 한 번만이야"
+  } ]
+}

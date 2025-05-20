@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk420201_msg0001",
+    "talker" : "te1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "춤추는 노폰정에는\n캐슬에서 일하는 중요 인물도\n식사하러 온단다모~"
+  }, {
+    "$id" : 2,
+    "label" : "tlk420201_msg0002",
+    "talker" : "te1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "위사장인 시그룬 씨나\n감찰관인 루시오네 씨도 자주 오지모~"
+  }, {
+    "$id" : 3,
+    "label" : "tlk420201_msg0003",
+    "talker" : "te1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "특히 우리 가게가 자랑하는\n숙성육 비저드를\n꼭 한번 먹어 보렴모~"
+  } ]
+}

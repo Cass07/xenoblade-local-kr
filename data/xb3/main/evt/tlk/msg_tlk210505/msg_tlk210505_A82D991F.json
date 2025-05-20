@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210505_msg0001",
+    "talker" : "vZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……역시 프라우는 강하구나"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210505_msg0002",
+    "talker" : "vZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "철거신보다도 훨씬 거대한 오리진을 보고도\n여전히 싸울 의지를 버리지 않다니……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk210505_msg0003",
+    "talker" : "vZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 나는……\n프라우가 무모하게 나서지 않게 도울 뿐이야\n지금까지 그래 왔듯이, 앞으로도 계속……"
+  } ]
+}

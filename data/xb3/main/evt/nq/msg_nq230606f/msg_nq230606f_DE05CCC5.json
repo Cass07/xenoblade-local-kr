@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq230606_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거야 원…… 너희랑 싸우는 게\n이걸로 몇 번째지?"
+  }, {
+    "$id" : 2,
+    "label" : "nq230606_msg0002",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몇 번이든 상관없다\n내가 정점에 서는 그날까지\n몇 백번이라도 어울려 줘야겠어"
+  }, {
+    "$id" : 3,
+    "label" : "nq230606_msg0003",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나리도 어쨌든 간에\n우로 여러분이 마음에 드셨나 봐요"
+  }, {
+    "$id" : 4,
+    "label" : "nq230606_msg0004",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마음에 들기는 무슨!\n허튼 소리 마라!!"
+  }, {
+    "$id" : 5,
+    "label" : "nq230606_msg0005",
+    "talker" : "je1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후후……\n짜증 내는 걸 보니까 수상한데……?"
+  }, {
+    "$id" : 6,
+    "label" : "nq230606_msg0006",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "큭…… 더 이상 자비는 없다!\n그쪽의 객장과 함께 유린해 주지!!"
+  }, {
+    "$id" : 7,
+    "label" : "nq230606_msg0007",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 왜 그쪽이 짜증이야?!"
+  }, {
+    "$id" : 8,
+    "label" : "nq230606_msg0008",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한창 대화 중에 끼어들어서 미안한데\n2회전 시작해도 될까?"
+  }, {
+    "$id" : 9,
+    "label" : "nq230606_msg0009",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네 녀석의 신호따윈 필요 없다!\n초렌 부대, 출진이다!!"
+  } ]
+}

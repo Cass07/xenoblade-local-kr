@@ -1,0 +1,373 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<F81E3133>",
+    "style" : 14,
+    "name" : "스킵 타임"
+  }, {
+    "$id" : 2,
+    "label" : "<B6D503BD>",
+    "style" : 14,
+    "name" : "스킵 트래블"
+  }, {
+    "$id" : 3,
+    "label" : "<D90649B4>",
+    "style" : 14,
+    "name" : "숍"
+  }, {
+    "$id" : 4,
+    "label" : "<D48B1F92>",
+    "style" : 14,
+    "name" : "캐릭터 커스터마이즈"
+  }, {
+    "$id" : 5,
+    "label" : "<636DAA5D>",
+    "style" : 14,
+    "name" : "클래스 변경"
+  }, {
+    "$id" : 6,
+    "label" : "<9ED192E8>",
+    "style" : 14,
+    "name" : "소울 트리"
+  }, {
+    "$id" : 7,
+    "label" : "<CC75A4D1>",
+    "style" : 14,
+    "name" : "식사 효과"
+  }, {
+    "$id" : 8,
+    "label" : "<636BAA30>",
+    "style" : 14,
+    "name" : "정보 조각"
+  }, {
+    "$id" : 9,
+    "label" : "<8CAF0896>",
+    "style" : 14,
+    "name" : "퀘스트"
+  }, {
+    "$id" : 10,
+    "label" : "<D2F0D402>",
+    "style" : 14,
+    "name" : "컬렉피디아 카드"
+  }, {
+    "$id" : 11,
+    "label" : "<984CAC2F>",
+    "style" : 14,
+    "name" : "인연 맵"
+  }, {
+    "$id" : 12,
+    "label" : "<5E763537>",
+    "style" : 14,
+    "name" : "포토 모드"
+  }, {
+    "$id" : 13,
+    "label" : "<839FB587>",
+    "style" : 14,
+    "name" : "콜로니 해방"
+  }, {
+    "$id" : 14,
+    "label" : "<9AF4A8BA>",
+    "style" : 14,
+    "name" : "투하 물자"
+  }, {
+    "$id" : 15,
+    "label" : "<ED57630D>",
+    "style" : 14,
+    "name" : "에테르 채널"
+  }, {
+    "$id" : 16,
+    "label" : "<C5A2A374>",
+    "style" : 14,
+    "name" : "기억 공간"
+  }, {
+    "$id" : 17,
+    "label" : "<DA09B54B>",
+    "style" : 14,
+    "name" : "경계 레벨"
+  }, {
+    "$id" : 18,
+    "label" : "<D2591F85>",
+    "style" : 14,
+    "name" : "인연"
+  }, {
+    "$id" : 19,
+    "label" : "<44C4E4ED>",
+    "style" : 14,
+    "name" : "안대"
+  }, {
+    "$id" : 20,
+    "label" : "<9E91598A>",
+    "style" : 14,
+    "name" : "생명의 불시계"
+  }, {
+    "$id" : 21,
+    "label" : "<5CF86B28>",
+    "style" : 14,
+    "name" : "휴식 포인트"
+  }, {
+    "$id" : 22,
+    "label" : "<3B5AB688>",
+    "style" : 14,
+    "name" : "크래프트"
+  }, {
+    "$id" : 23,
+    "label" : "<751E06E3>",
+    "style" : 14,
+    "name" : "요리"
+  }, {
+    "$id" : 24,
+    "label" : "<F89A05C5>",
+    "style" : 14,
+    "name" : "보너스 EXP 레벨 업"
+  }, {
+    "$id" : 25,
+    "label" : "<BD9D54B2>",
+    "style" : 14,
+    "name" : "보너스 EXP 레벨 다운"
+  }, {
+    "$id" : 26,
+    "label" : "<804C77C9>",
+    "style" : 14,
+    "name" : "바운더리 조타"
+  }, {
+    "$id" : 27,
+    "label" : "<E1D05777>",
+    "style" : 14,
+    "name" : "환송자"
+  }, {
+    "$id" : 28,
+    "label" : "<053BF9EB>",
+    "style" : 14,
+    "name" : "아츠"
+  }, {
+    "$id" : 29,
+    "label" : "<313EBC35>",
+    "style" : 14,
+    "name" : "탤런트 아츠"
+  }, {
+    "$id" : 30,
+    "label" : "<5748CFEC>",
+    "style" : 14,
+    "name" : "롤 액트"
+  }, {
+    "$id" : 31,
+    "label" : "<7C72830C>",
+    "style" : 14,
+    "name" : "구조"
+  }, {
+    "$id" : 32,
+    "label" : "<F7BA62D2>",
+    "style" : 14,
+    "name" : "작전(지시)"
+  }, {
+    "$id" : 33,
+    "label" : "<2EAAD62C>",
+    "style" : 14,
+    "name" : "퀵 무브"
+  }, {
+    "$id" : 34,
+    "label" : "<6BF0485E>",
+    "style" : 14,
+    "name" : "노아: 인터링크"
+  }, {
+    "$id" : 35,
+    "label" : "<EB985B6C>",
+    "style" : 14,
+    "name" : "체인 어택"
+  }, {
+    "$id" : 36,
+    "label" : "<D80CB47D>",
+    "style" : 14,
+    "name" : "아츠 마스터"
+  }, {
+    "$id" : 37,
+    "label" : "<DF3C4B51>",
+    "style" : 14,
+    "name" : "스킬 마스터"
+  }, {
+    "$id" : 38,
+    "label" : "<86BF22BF>",
+    "style" : 14,
+    "name" : "서브 아츠 슬롯"
+  }, {
+    "$id" : 39,
+    "label" : "<61B0D072>",
+    "style" : 14,
+    "name" : "서브 스킬 슬롯"
+  }, {
+    "$id" : 40,
+    "label" : "<F2B18111>",
+    "style" : 14,
+    "name" : "조작 캐릭터 변경"
+  }, {
+    "$id" : 41,
+    "label" : "<2045A89B>",
+    "style" : 14,
+    "name" : "골드 드롭"
+  }, {
+    "$id" : 42,
+    "label" : "<1BE75449>",
+    "style" : 14,
+    "name" : "히어로 액세서리 커스터마이즈"
+  }, {
+    "$id" : 43,
+    "label" : "<9727FCF4>",
+    "style" : 14,
+    "name" : "클래스 습득"
+  }, {
+    "$id" : 44,
+    "label" : "<2871AD6D>",
+    "style" : 14,
+    "name" : "클래스 성장"
+  }, {
+    "$id" : 45,
+    "label" : "<30469509>",
+    "style" : 14,
+    "name" : "PC 백색 장비"
+  }, {
+    "$id" : 46,
+    "label" : "<EFC37BE8>",
+    "style" : 14,
+    "name" : "미오 각인 전환"
+  }, {
+    "$id" : 47,
+    "label" : "<4F7DB424>",
+    "style" : 14,
+    "name" : "미오 표정(심각→부드러움)"
+  }, {
+    "$id" : 48,
+    "label" : "<182DF5C1>",
+    "style" : 14,
+    "name" : "무기의 우로보로스 버전"
+  }, {
+    "$id" : 49,
+    "label" : "<1B4A6D66>",
+    "style" : 14,
+    "name" : "피리 교환(노아 / 미오 교환)"
+  }, {
+    "$id" : 50,
+    "label" : "<62890903>",
+    "style" : 14,
+    "name" : "배의 업그레이드"
+  }, {
+    "$id" : 51,
+    "label" : "<44E3FD17>",
+    "style" : 14,
+    "name" : "미오: 인터링크"
+  }, {
+    "$id" : 52,
+    "label" : "<B33EF0D7>",
+    "style" : 14,
+    "name" : "란츠: 인터링크"
+  }, {
+    "$id" : 53,
+    "label" : "<33B04867>",
+    "style" : 14,
+    "name" : "세나: 인터링크"
+  }, {
+    "$id" : 54,
+    "label" : "<3919C8F1>",
+    "style" : 14,
+    "name" : "유니: 인터링크"
+  }, {
+    "$id" : 55,
+    "label" : "<E2B15471>",
+    "style" : 14,
+    "name" : "타이온: 인터링크"
+  }, {
+    "$id" : 56,
+    "label" : "<C761585C>",
+    "style" : 14,
+    "name" : "그레이의 마스크가 없어진다"
+  }, {
+    "$id" : 57,
+    "label" : "<AC448FC5>",
+    "style" : 14,
+    "name" : "트라이던의 마스크가 없어진다"
+  }, {
+    "$id" : 58,
+    "label" : "<81D0C1D1>",
+    "style" : 14,
+    "name" : "로프 슬라이드"
+  }, {
+    "$id" : 59,
+    "label" : "<2F81DEFA>",
+    "style" : 14,
+    "name" : "월 클라이밍"
+  }, {
+    "$id" : 60,
+    "label" : "<F11E70A6>",
+    "style" : 14,
+    "name" : "샌드 스파이크"
+  }, {
+    "$id" : 61,
+    "label" : "<897E0984>",
+    "style" : 14,
+    "name" : "해저드 레지스트"
+  }, {
+    "$id" : 62,
+    "label" : "<FC228BC1>",
+    "style" : 14,
+    "name" : "내비게이션"
+  }, {
+    "$id" : 63,
+    "label" : "<A708C2E3>",
+    "style" : 14,
+    "name" : "패션"
+  }, {
+    "$id" : 64,
+    "label" : "<71E0F7EF>",
+    "style" : 14,
+    "name" : "우로보로스 스위치"
+  }, {
+    "$id" : 65,
+    "label" : "<FFFBEF74>",
+    "style" : 14,
+    "name" : "소울 링크"
+  }, {
+    "$id" : 66,
+    "label" : "<1CDCE766>",
+    "style" : 14,
+    "name" : "훈련"
+  }, {
+    "$id" : 67,
+    "label" : "<CB7B2550>",
+    "style" : 14,
+    "name" : "노아: 소울 링크 강화"
+  }, {
+    "$id" : 68,
+    "label" : "<71B49820>",
+    "style" : 14,
+    "name" : "미오: 소울 링크 강화"
+  }, {
+    "$id" : 69,
+    "label" : "<13716B90>",
+    "style" : 14,
+    "name" : "유니: 소울 링크 강화"
+  }, {
+    "$id" : 70,
+    "label" : "<42B6559C>",
+    "style" : 14,
+    "name" : "타이온: 소울 링크 강화"
+  }, {
+    "$id" : 71,
+    "label" : "<D111D3AF>",
+    "style" : 14,
+    "name" : "란츠: 소울 링크 강화"
+  }, {
+    "$id" : 72,
+    "label" : "<549C530B>",
+    "style" : 14,
+    "name" : "세나: 소울 링크 강화"
+  } ]
+}

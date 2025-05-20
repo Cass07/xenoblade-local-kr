@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310506_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……야, 이거 뭐야?!"
+  }, {
+    "$id" : 2,
+    "label" : "nq310506_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 이 녀석들이 여기 있어?!"
+  }, {
+    "$id" : 3,
+    "label" : "nq310506_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생각은 나중에 해! 온다!"
+  }, {
+    "$id" : 4,
+    "label" : "nq310506_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗…… 여기에도 있어?!"
+  }, {
+    "$id" : 5,
+    "label" : "nq310506_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우릴 노리는 건가? 아니면……"
+  }, {
+    "$id" : 6,
+    "label" : "nq310506_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어찌 됐든 일단\n이 녀석들부터 해치우자고!"
+  }, {
+    "$id" : 7,
+    "label" : "nq310506_msg0007",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……단순한 우연이라 보기에는\n이상한 것 같은데"
+  }, {
+    "$id" : 8,
+    "label" : "nq310506_msg0008",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혹시 우리랑 같은 목적으로 온 걸까……?"
+  }, {
+    "$id" : 9,
+    "label" : "nq310506_msg0009",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 진짜 중요한 물건이\n여기 있다는 뜻이겠지!"
+  } ]
+}

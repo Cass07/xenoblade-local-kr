@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831401_msg0001",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어찌저찌 빵이나 바스틸 정도는\n만들 수 있게 됐지만\n매일 이거만 먹으면 질려 버릴 검다……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831401_msg0002",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 상황에도\n식사가 가능한 걸 다행으로 생각해야지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831401_msg0003",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 딱히 빵만 있어도 별로 문제는……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831401_msg0004",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너무 게으른 생각 아님까……?\n그러면 마음의 양식은\n어디서 섭취하려는 검까"
+  }, {
+    "$id" : 5,
+    "label" : "tlk831401_msg0005",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하~ 빨리 제대로 된 조리장을 만들어서\n메뉴를 늘리든가 해야겠슴다……"
+  } ]
+}

@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<022ABF8C>",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리들 말이야\n로프 슬라이드 쓰는 거\n능숙해지지 않았어?"
+  }, {
+    "$id" : 2,
+    "label" : "<77B35AB1>",
+    "talker" : "2",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 전보다 익숙해졌어\n이거 타면 기분 좋지 않아?"
+  }, {
+    "$id" : 3,
+    "label" : "<1A802550>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "포니스 지방에서도\n본 것 같아"
+  }, {
+    "$id" : 4,
+    "label" : "<9CBA5012>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이만큼 편하게\n이동할 수 있는 것만으로도 고맙지"
+  }, {
+    "$id" : 5,
+    "label" : "<810F94C8>",
+    "talker" : "5",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보면 군이 방치해 둔\n로프의 사출 장치 같은 게\n자주 보이곤 하던데"
+  }, {
+    "$id" : 6,
+    "label" : "<8EFFD038>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……맞아, 레브니스로 옮겨서 설치한 건데\n지금은 대부분 사용하지 않을 거야"
+  }, {
+    "$id" : 7,
+    "label" : "<F531C878>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 쓰면 갈 수 있는 곳도\n더 많아지는 거 아냐?"
+  }, {
+    "$id" : 8,
+    "label" : "<AE757ADF>",
+    "talker" : "3",
+    "talkattr" : 33104,
+    "talkattr2" : 16793729,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "듣고 보니 그러네……\n란츠치고는 좋은 아이디어인데?"
+  }, {
+    "$id" : 9,
+    "label" : "<0E489378>",
+    "talker" : "5",
+    "talkattr" : 33072,
+    "talkattr2" : 12599425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "치고는은 필요 없거든!"
+  }, {
+    "$id" : 10,
+    "label" : "<94A6FBBF>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 발견하면 사용해 보자"
+  } ]
+}

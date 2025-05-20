@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<8282F0F3>",
+    "talker" : "_p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?! 명각비를 만든다고?"
+  }, {
+    "$id" : 2,
+    "label" : "<74A5F884>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 비석은 좀 힘드니까\n철판으로 대체하려고 하는데"
+  }, {
+    "$id" : 3,
+    "label" : "<FAAC3691>",
+    "talker" : "_p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇군. 그래서 철공 전문가인\n이 몸이 나설 차례란 건가?"
+  }, {
+    "$id" : 4,
+    "label" : "<4D30BBCB>",
+    "talker" : "_p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "재밌겠는데!\n그 이야기 받아들이도록 하지!"
+  }, {
+    "$id" : 5,
+    "label" : "<710CC8AB>",
+    "talker" : "_p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지만 철판을 쓰면 너무 단단해서\n잘 새겨지지 않을지도 모르는데"
+  }, {
+    "$id" : 6,
+    "label" : "<4D992D81>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "윽…… 그래?"
+  }, {
+    "$id" : 7,
+    "label" : "<3C20AFC0>",
+    "talker" : "_p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정 마\n이 몸이 쓸만한 재질의\n금속판을 준비해 둘 테니까"
+  }, {
+    "$id" : 8,
+    "label" : "<391A3C74>",
+    "talker" : "_p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "준비되면 중앙 광장에\n가져가 줄 테니 기대하고 있어!"
+  }, {
+    "$id" : 9,
+    "label" : "<F0B3B5DB>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 우리야 좋지\n고마워!"
+  } ]
+}

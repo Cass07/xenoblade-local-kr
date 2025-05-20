@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk610205_msg0001",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동쪽 섬을 제압하자고\n제안했는데 기각당했어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk610205_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk610205_msg0003",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아가씨랑 시키가 그렇게 말했으니\n내 멋대로 움직일 순 없지"
+  }, {
+    "$id" : 4,
+    "label" : "tlk610205_msg0004",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 괴로운 건 아가씨이실 텐데……\n고통을 덜어 드리지 못하는 나 자신이 한심해"
+  } ]
+}

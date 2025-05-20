@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<88D7ABF1>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무래도 먼저 온 손님이 있나 봐"
+  }, {
+    "$id" : 2,
+    "label" : "<DB910527>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그야말로 불청객 아냐?\n타이밍이 너무 나쁜데"
+  }, {
+    "$id" : 3,
+    "label" : "<E40F8122>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꼭 그렇다고 볼 순 없지\n다 생각하기 나름이라고"
+  }, {
+    "$id" : 4,
+    "label" : "<249E9CA8>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "준비 운동으로는 딱 좋잖아!"
+  }, {
+    "$id" : 5,
+    "label" : "<A4B17780>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저런 걸 상대로 준비 운동이라니\n터무니없네……"
+  }, {
+    "$id" : 6,
+    "label" : "<73B18298>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만…… 해내야 해!"
+  }, {
+    "$id" : 7,
+    "label" : "<3BA14766>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래…… 그 기세야, 니콜!"
+  }, {
+    "$id" : 8,
+    "label" : "<48021A7C>",
+    "talker" : "a1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋았어! 그럼 간다!!"
+  } ]
+}

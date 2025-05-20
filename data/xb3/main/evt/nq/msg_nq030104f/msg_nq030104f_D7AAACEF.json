@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq030104_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋았어, 방해꾼 처리 완료!"
+  }, {
+    "$id" : 2,
+    "label" : "nq030104_msg0002",
+    "talker" : "2",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이게 최선이었을까?\n이제 와서 할 말인가 싶지만"
+  }, {
+    "$id" : 3,
+    "label" : "nq030104_msg0003",
+    "talker" : "4",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐 어쨌든 그들 몫까지\n여길 잘 활용해 주면 그만이지"
+  }, {
+    "$id" : 4,
+    "label" : "nq030104_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세주, 콜로니 0 사람들은?"
+  }, {
+    "$id" : 5,
+    "label" : "nq030104_msg0005",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이미 전달했습니다\n이곳에서 곧 합류하기로 했습니다"
+  }, {
+    "$id" : 6,
+    "label" : "nq030104_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나\n아무튼 이걸로 한시름 덜었네"
+  }, {
+    "$id" : 7,
+    "label" : "nq030104_msg0007",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네……"
+  }, {
+    "$id" : 8,
+    "label" : "nq030104_msg0008",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……협조해 주셔서 감사합니다"
+  } ]
+}

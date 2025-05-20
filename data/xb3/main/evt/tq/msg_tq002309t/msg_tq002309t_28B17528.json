@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002309_msg0001",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기다리고 있었어요~!\n편하게 둘러보세요!"
+  }, {
+    "$id" : 2,
+    "label" : "tq002309_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워, 확인해 볼게"
+  }, {
+    "$id" : 3,
+    "label" : "tq002309_msg0003",
+    "talker" : "1",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "특별히 눈에 띄는 지급품은 없네……\n가짜 랭크에 걸맞은 것 같아"
+  }, {
+    "$id" : 4,
+    "label" : "tq002309_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 물자 관리는\n네가 하고 있어?"
+  }, {
+    "$id" : 5,
+    "label" : "tq002309_msg0005",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아뇨, 아마도 집정관이 할걸요~\n니코는 재고만 관리해요"
+  }, {
+    "$id" : 6,
+    "label" : "tq002309_msg0006",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집정관이……?"
+  } ]
+}

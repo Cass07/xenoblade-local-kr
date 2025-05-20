@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002422_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 저 철기병 말인데……\n역시 이제는 못 움직이는 걸까?"
+  }, {
+    "$id" : 2,
+    "label" : "tq002422_msg0002",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부정합니다"
+  }, {
+    "$id" : 3,
+    "label" : "tq002422_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 되는구나"
+  }, {
+    "$id" : 4,
+    "label" : "tq002422_msg0004",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에테르 실린더를 응용한\n대체 동력으로 전환하면\n가동 자체는 가능합니다"
+  }, {
+    "$id" : 5,
+    "label" : "tq002422_msg0005",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "출력은 기존의 불시계보다 떨어지고\n리미터 해제 기능도 없겠지만\n전투에 영향은 없습니다"
+  }, {
+    "$id" : 6,
+    "label" : "tq002422_msg0006",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……세주는 아직 싸울 수 있습니다"
+  }, {
+    "$id" : 7,
+    "label" : "tq002422_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 든든한걸?\n그럼 이제부터는\n우리와 함께 싸워 주겠어?"
+  }, {
+    "$id" : 8,
+    "label" : "tq002422_msg0008",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다\n철기병 7호기, 전열에 참가하겠습니다"
+  }, {
+    "$id" : 9,
+    "label" : "tq002422_msg0009",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다시 한번 잘 부탁해, 세주!"
+  } ]
+}

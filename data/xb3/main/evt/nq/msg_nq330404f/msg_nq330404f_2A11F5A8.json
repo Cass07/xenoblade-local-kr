@@ -1,0 +1,727 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330404_msg0001",
+    "talker" : "Wg1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가…… 강해~~!!"
+  }, {
+    "$id" : 2,
+    "label" : "nq330404_msg0002",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말도 안 돼!\n인원수도 지형도 우리가 유리한데!"
+  }, {
+    "$id" : 3,
+    "label" : "nq330404_msg0003",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그러게, 마시로가\n적인 걸 감안하더라도……"
+  }, {
+    "$id" : 4,
+    "label" : "nq330404_msg0004",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금은 더 버텨 보고 싶었는데"
+  }, {
+    "$id" : 5,
+    "label" : "nq330404_msg0101",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스의 힘도 안 썼는데!\n그런데도 이렇게 패배하다니……"
+  }, {
+    "$id" : 6,
+    "label" : "nq330404_msg0102",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 힘이 부족했다는 뜻이야"
+  }, {
+    "$id" : 7,
+    "label" : "nq330404_msg0103",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……분하네"
+  }, {
+    "$id" : 8,
+    "label" : "nq330404_msg0201",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그보다 우로보로스의\n힘이라는 거 거의 반칙 아니야?"
+  }, {
+    "$id" : 9,
+    "label" : "nq330404_msg0202",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 두 명이 한 명으로 되는데?!\n엄청 강하고 모습까지 바뀌잖아!"
+  }, {
+    "$id" : 10,
+    "label" : "nq330404_msg0203",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "멋있어 보이긴 하더라"
+  }, {
+    "$id" : 11,
+    "label" : "nq330404_msg0204",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "감탄할 때야?!"
+  }, {
+    "$id" : 12,
+    "label" : "nq330404_msg0205",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "감탄한 적 없어…… 나도 분해"
+  }, {
+    "$id" : 13,
+    "label" : "nq330404_msg0301",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 14,
+    "label" : "nq330404_msg0302",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……카나타도 그런 생각을 하는구나\n좀 더 무덤덤할 줄 알았어"
+  }, {
+    "$id" : 15,
+    "label" : "nq330404_msg0303",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스스로도 놀랐어\n이런 기분은 처음이야"
+  }, {
+    "$id" : 16,
+    "label" : "nq330404_msg0304",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "덕분에…… 많은 게 보였어"
+  }, {
+    "$id" : 17,
+    "label" : "nq330404_msg0305",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 카나랑 똑같아"
+  }, {
+    "$id" : 18,
+    "label" : "nq330404_msg0306",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분하지만…… 지금은 훈련 결과보다\n무얼 \"봤는지\"가 중요해"
+  }, {
+    "$id" : 19,
+    "label" : "nq330404_msg0307",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 모두와 얘기해 보자"
+  }, {
+    "$id" : 20,
+    "label" : "nq330404_msg0308",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은 생각이야"
+  }, {
+    "$id" : 21,
+    "label" : "nq330404_msg0309",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나, 나~! 내가 생각해 봤는데\n우리 너무 약한 것 같지 않아?!"
+  }, {
+    "$id" : 22,
+    "label" : "nq330404_msg0310",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아……\n진짜 실력이 다 드러난 느낌이었어~"
+  }, {
+    "$id" : 23,
+    "label" : "nq330404_msg0311",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그만큼 우로보로스나 뫼비우스가\n\"특별\"하다는 점도 있는 것 같아"
+  }, {
+    "$id" : 24,
+    "label" : "nq330404_msg0312",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정공법으로는 안 될 것 같았어……!"
+  }, {
+    "$id" : 25,
+    "label" : "nq330404_msg0313",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그럼 콜로니 내부에\n들어오면 그걸로 끝이구나"
+  }, {
+    "$id" : 26,
+    "label" : "nq330404_msg0314",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "못 들어오게 하면 되지 않아?\n문을 튼튼하게 만드는 거야"
+  }, {
+    "$id" : 27,
+    "label" : "nq330404_msg0315",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "언젠가 돌파당하더라도\n뭔가 할 수 있는 시간은 벌 수 있어"
+  }, {
+    "$id" : 28,
+    "label" : "nq330404_msg0316",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔가라니 어떤 걸 말하는 거야?"
+  }, {
+    "$id" : 29,
+    "label" : "nq330404_msg0317",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적의 발을 묶어둔 사이에\n최대 화력으로 한 번에 해치운다든가?"
+  }, {
+    "$id" : 30,
+    "label" : "nq330404_msg0318",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우와~~ 책사다~~~~!"
+  }, {
+    "$id" : 31,
+    "label" : "nq330404_msg0319",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "넌 가끔 무서운 말을 한단 말이지"
+  }, {
+    "$id" : 32,
+    "label" : "nq330404_msg0320",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근데 그 방법도 좋겠다\n도망칠 시간도 벌 수 있잖아"
+  }, {
+    "$id" : 33,
+    "label" : "nq330404_msg0321",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 우선 문을 강화하자!\n완~~~전 튼튼하게 만드는 거야!"
+  }, {
+    "$id" : 34,
+    "label" : "nq330404_msg0322",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 완~~~전 빨리 만들어야 해!"
+  }, {
+    "$id" : 35,
+    "label" : "nq330404_msg0323",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니코, 자재는 부탁할게!"
+  }, {
+    "$id" : 36,
+    "label" : "nq330404_msg0324",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩔 수 없네~\n니코가 소중히 아껴둔 걸 꺼내 볼까~!"
+  }, {
+    "$id" : 37,
+    "label" : "nq330404_msg0325",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약의 경우를 위해 탈출 방법도\n생각해 두고 싶은데……"
+  }, {
+    "$id" : 38,
+    "label" : "nq330404_msg0326",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "배 같은 거?"
+  }, {
+    "$id" : 39,
+    "label" : "nq330404_msg0327",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "배~~?!"
+  }, {
+    "$id" : 40,
+    "label" : "nq330404_msg0328",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "멋지다~~!!"
+  }, {
+    "$id" : 41,
+    "label" : "nq330404_msg0329",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지~~?!"
+  }, {
+    "$id" : 42,
+    "label" : "nq330404_msg0330",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거기에 아르마들도 탈 수 있을까~?"
+  }, {
+    "$id" : 43,
+    "label" : "nq330404_msg0401",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나나돈…… 도와주려고?"
+  }, {
+    "$id" : 44,
+    "label" : "nq330404_msg0402",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "더할 나위 없는 조력자네!"
+  }, {
+    "$id" : 45,
+    "label" : "nq330404_msg0501",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수단은 나중에 생각하고\n우선 떠오르는 방법은 전부 말해 보자!"
+  }, {
+    "$id" : 46,
+    "label" : "nq330404_msg0502",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금까지 해 본 적 없는 거나\n해 보려고 생각한 적 없는 것들도\n사양 말고 팍팍 말해 줘!"
+  }, {
+    "$id" : 47,
+    "label" : "nq330404_msg0503",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 필요한 것과 그렇지 않은 걸\n다시 한번 정리해 보자"
+  }, {
+    "$id" : 48,
+    "label" : "nq330404_msg0504",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마시로 말에 찬성!"
+  }, {
+    "$id" : 49,
+    "label" : "nq330404_msg0505",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니코도~!"
+  }, {
+    "$id" : 50,
+    "label" : "nq330404_msg0506",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우와, 뭔가 두근거리기 시작했어……!"
+  }, {
+    "$id" : 51,
+    "label" : "nq330404_msg0507",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아, 시로……\n오랜만에 \"그거\" 하자!"
+  }, {
+    "$id" : 52,
+    "label" : "nq330404_msg0508",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어? 여기서?"
+  }, {
+    "$id" : 53,
+    "label" : "nq330404_msg0509",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기니까 해야지!"
+  }, {
+    "$id" : 54,
+    "label" : "nq330404_msg0510",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"그거\" 하면 꾸욱 하고\n기운이 들어가잖아~"
+  }, {
+    "$id" : 55,
+    "label" : "nq330404_msg0511",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하자, 마시로"
+  }, {
+    "$id" : 56,
+    "label" : "nq330404_msg0512",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래, 하자!"
+  }, {
+    "$id" : 57,
+    "label" : "nq330404_msg0513",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동료를 믿고"
+  }, {
+    "$id" : 58,
+    "label" : "nq330404_msg0514",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자신을 믿고"
+  }, {
+    "$id" : 59,
+    "label" : "nq330404_msg0515",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "승리를 믿고!"
+  }, {
+    "$id" : 60,
+    "label" : "nq330404_msg0516",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마음을 하나로!"
+  }, {
+    "$id" : 61,
+    "label" : "nq330404_msg0517",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "살아남자! 다 함께!!"
+  }, {
+    "$id" : 62,
+    "label" : "nq330404_msg0518",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신생 콜로니 뮤의\n새로운 첫걸음이다……!"
+  }, {
+    "$id" : 63,
+    "label" : "nq330404_msg0519",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 강하구나……"
+  }, {
+    "$id" : 64,
+    "label" : "nq330404_msg0520",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게, 승패가 아니라\n그 너머를 보고 행동하려 하고 있어"
+  }, {
+    "$id" : 65,
+    "label" : "nq330404_msg0521",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다행이다, 정말……"
+  }, {
+    "$id" : 66,
+    "label" : "nq330404_msg0522",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두 함께 의논하자!"
+  }, {
+    "$id" : 67,
+    "label" : "nq330404_msg0523",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스의 힘 같은 것도\n좀 더 자세히 알고 싶어"
+  }, {
+    "$id" : 68,
+    "label" : "nq330404_msg0524",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어\n우리가 도움이 된다면……"
+  }, {
+    "$id" : 69,
+    "label" : "nq330404_msg0525",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도움이라든가 그런 게 아니라……"
+  }, {
+    "$id" : 70,
+    "label" : "nq330404_msg0526",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두 우리의 동료니까……\n함께 얘기하고 싶어"
+  }, {
+    "$id" : 71,
+    "label" : "nq330404_msg0527",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 \"다 함께\"\n살아남기 위한 작전이잖아!"
+  }, {
+    "$id" : 72,
+    "label" : "nq330404_msg0528",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하…… 그 말이 맞아"
+  }, {
+    "$id" : 73,
+    "label" : "nq330404_msg0529",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가자, 가자!"
+  }, {
+    "$id" : 74,
+    "label" : "nq330404_msg0530",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "와아~!"
+  }, {
+    "$id" : 75,
+    "label" : "nq330404_msg0531",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아……\n모두를 만나서 정말 다행이야"
+  }, {
+    "$id" : 76,
+    "label" : "nq330404_msg0532",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가, 갑자기 왜 그래……?"
+  }, {
+    "$id" : 77,
+    "label" : "nq330404_msg0533",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갑자기가 아니야\n지금까지 쭉 생각한 거야"
+  }, {
+    "$id" : 78,
+    "label" : "nq330404_msg0534",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나, 앞으로도 열심히 할게!"
+  } ]
+}

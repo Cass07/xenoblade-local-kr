@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk021602_msg0001",
+    "talker" : "mV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "압도적인 힘으로 굴복시킬 것인가\n유치한 정의감으로 설복시킬 것인가\n……어떻게 할지는 제군들 몫이야"
+  }, {
+    "$id" : 2,
+    "label" : "tlk021602_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유치하다니 무슨 말을 그렇게 해\n싸우지 않아도 되면 그게 더 낫잖아?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk021602_msg0003",
+    "talker" : "mV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 네, 옳은 말씀이십니다~\n그럼 어떻게 녀석들을 구슬리는지\n말솜씨 좀 구경해 볼까?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk021602_msg0004",
+    "talker" : "mV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아! 물론 『힘』을 행사하려거든\n사양 말고 얘기해\n폭력으로 해결하는 건 내 주특기니까. 하하하!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk021602_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk021106_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "브레브레는 어때?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk021106_msg0002",
+    "talker" : "YW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "낮잠 잘 때 잠꼬대하는 게 웃겨!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk021106_msg0003",
+    "talker" : "YW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『스키토 시럽을 넣은 카레는 이제 안 먹어모\n호추 카레의 바닷속에 낙원이 있었어모』"
+  }, {
+    "$id" : 4,
+    "label" : "tlk021106_msg0004",
+    "talker" : "YW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대체 무슨 꿈을 꾸는 걸까!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk021106_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……괜찮나 보네"
+  } ]
+}

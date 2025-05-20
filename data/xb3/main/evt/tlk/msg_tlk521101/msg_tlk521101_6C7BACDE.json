@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk521101_msg0001",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk521101_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어…… 왜 그래? 옷에 뭐 묻었어?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk521101_msg0003",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 아냐, 아냐 미안!\n우리 콜로니는\n환송자가 없어서 그냥……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk521101_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그러네…… 처음 왔을 때도\n전장에 유해가 그대로 있었지……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk521101_msg0005",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 처음에는 괴로웠지만……\n이제는 서로 격려하면서 다들 잘 지내고 있어!\n생각하기 나름이다 이 말이지!"
+  } ]
+}

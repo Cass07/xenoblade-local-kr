@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk113104_msg0001",
+    "talker" : "zX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여왕님이 가짜였다니\n우린 뭘 위해 싸워 온 거지?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk113104_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "비관하고 싶은 마음도 이해하지만\n지금은 어떻게 할지부터 생각하자"
+  }, {
+    "$id" : 3,
+    "label" : "tlk113104_msg0003",
+    "talker" : "zX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 딱히 좌절하진 않았어\n고민하는 건 내 성미에 안 맞거든!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk113104_msg0004",
+    "talker" : "zX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 할 수 있는 일이 있으면 뭐든 말해 줘\n맞다! 같이 그 뫼비우스인지 뭔지 하는\n녀석들을 때려눕히자!"
+  } ]
+}

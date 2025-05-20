@@ -1,0 +1,421 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012005_msg0001",
+    "talker" : "Wd1",
+    "talkattr" : 33209,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젠장! 로에이가 당했어!\n누가 좀 도와줘!"
+  }, {
+    "$id" : 2,
+    "label" : "tq012005_msg0002",
+    "talker" : "_c1",
+    "talkattr" : 33209,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빌어먹을…… 어떻게 돼먹은 거야!\n우리는 이런 곳에서 죽는 거냐고!"
+  }, {
+    "$id" : 3,
+    "label" : "tq012005_msg0003",
+    "talker" : "L",
+    "talkattr" : 33065,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 진정하세요\n아직 이길 가능성은 있습니다!"
+  }, {
+    "$id" : 4,
+    "label" : "tq012005_msg0004",
+    "talker" : "L",
+    "talkattr" : 33065,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몬스터 수가\n줄어들고 있어요!"
+  }, {
+    "$id" : 5,
+    "label" : "tq012005_msg0005",
+    "talker" : "L",
+    "talkattr" : 33065,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물리칠 수 없는 상대는 아니에요\n이대로 반격해서 물리칩시다!"
+  }, {
+    "$id" : 6,
+    "label" : "tq012005_msg0006",
+    "talker" : "1",
+    "talkattr" : 33065,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어!"
+  }, {
+    "$id" : 7,
+    "label" : "tq012005_msg0007",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스의 힘이 조금 예상 밖이긴 하지만\n이렇게 공포와 절망을 보게 됐으니"
+  }, {
+    "$id" : 8,
+    "label" : "tq012005_msg0008",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고맙다고 해야겠구나"
+  }, {
+    "$id" : 9,
+    "label" : "tq012005_msg0009",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생명의 불시계에서 해방된 그 안도감이\n박살 나는 기분은 어떻니?"
+  }, {
+    "$id" : 10,
+    "label" : "tq012005_msg0010",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "더 발악하지 않으면 몬스터는\n점점 더 늘어날걸?"
+  }, {
+    "$id" : 11,
+    "label" : "tq012005_msg0011",
+    "talker" : "4",
+    "talkattr" : 33065,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 연기다……!\n불을 꺼서 연기를 없애야 해!"
+  }, {
+    "$id" : 12,
+    "label" : "tq012005_msg0012",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런, 행동이 조금 굼뜨구나"
+  }, {
+    "$id" : 13,
+    "label" : "tq012005_msg0013",
+    "talker" : "4",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "의심쩍긴 했지만\n이렇게나 뻔뻔한 짓을 할 줄이야"
+  }, {
+    "$id" : 14,
+    "label" : "tq012005_msg0014",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 풀은 갈아 으깨서 태우면\n몬스터를 흥분하게 하는 향이 나지"
+  }, {
+    "$id" : 15,
+    "label" : "tq012005_msg0015",
+    "talker" : "3",
+    "talkattr" : 33184,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몬스터를 없앤다는 건\n거짓말이었냐!"
+  }, {
+    "$id" : 16,
+    "label" : "tq012005_msg0016",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 방해되는 걸 처리한다고 했지\n몬스터라고는 한마디도 안 했어"
+  }, {
+    "$id" : 17,
+    "label" : "tq012005_msg0017",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……유즈리하 외에는\n모두 새것으로 갈아 치울 생각이었지"
+  }, {
+    "$id" : 18,
+    "label" : "tq012005_msg0018",
+    "talker" : "3",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……주저리주저리\n헛소리나 지껄이기는"
+  }, {
+    "$id" : 19,
+    "label" : "tq012005_msg0019",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몬스터에게 잡아먹히는 모습을\n보려고 했는데"
+  }, {
+    "$id" : 20,
+    "label" : "tq012005_msg0020",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희 덕분에\n또 헛수고가 되게 생겼구나"
+  }, {
+    "$id" : 21,
+    "label" : "tq012005_msg0021",
+    "talker" : "4",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "또……라고?"
+  }, {
+    "$id" : 22,
+    "label" : "tq012005_msg0022",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말 안 했던가?"
+  }, {
+    "$id" : 23,
+    "label" : "tq012005_msg0023",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전에 너희 우로보로스가\n방해했었잖니"
+  }, {
+    "$id" : 24,
+    "label" : "tq012005_msg0024",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곧 성인이 될 아이를\n솎아 내려고 했는데 말이야"
+  }, {
+    "$id" : 25,
+    "label" : "tq012005_msg0025",
+    "talker" : "L",
+    "talkattr" : 33105,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아, 그때 그 몬스터들……"
+  }, {
+    "$id" : 26,
+    "label" : "tq012005_msg0026",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 내가 데려온 거란다"
+  }, {
+    "$id" : 27,
+    "label" : "tq012005_msg0027",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물어 죽인 걸 콜로니에 던져 놓으면\n유즈리하가 아주 자지러졌을 텐데"
+  }, {
+    "$id" : 28,
+    "label" : "tq012005_msg0028",
+    "talker" : "L",
+    "talkattr" : 33104,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대체…… 어째서\n그런 짓을 하시는 겁니까!"
+  }, {
+    "$id" : 29,
+    "label" : "tq012005_msg0029",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너는 성실하고 아름답지만\n굉장히 머리가 안 좋구나"
+  }, {
+    "$id" : 30,
+    "label" : "tq012005_msg0030",
+    "talker" : "uW1",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죽음을 긍정적으로 받아들이던\n콜로니 타우를 바꾸려고 한 짓이란다"
+  }, {
+    "$id" : 31,
+    "label" : "tq012005_msg0031",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "눈앞에서 누가 찢어발겨지기라도 한다면\n까무러칠 거 같아서\n몬스터를 끌어들였는데 말이지"
+  }, {
+    "$id" : 32,
+    "label" : "tq012005_msg0032",
+    "talker" : "2",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……말도 안 돼"
+  }, {
+    "$id" : 33,
+    "label" : "tq012005_msg0033",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생명의 불시계에서 해방되고\n살 수 있다는 걸 안 지 얼마 되지도 않았는데"
+  }, {
+    "$id" : 34,
+    "label" : "tq012005_msg0034",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 이렇게 죽음을 두려워하며\n괴로워하고 있어"
+  }, {
+    "$id" : 35,
+    "label" : "tq012005_msg0035",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스가\n참 훌륭한 일을 해 줬어!"
+  }, {
+    "$id" : 36,
+    "label" : "tq012005_msg0036",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래! 그 표정을 볼 수 있어서\n그 무엇과도 바꿀 수 없을 만큼 기쁘단다!"
+  }, {
+    "$id" : 37,
+    "label" : "tq012005_msg0037",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기다리고 또 기다리며 한참을 기다렸는데\n드디어 그 표정을 보게 되다니……"
+  }, {
+    "$id" : 38,
+    "label" : "tq012005_msg0038",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "최고의 순간이야!\n잘 익은 것들만이 짓는 그 표정……\n편하게 죽게 둘 순 없지"
+  }, {
+    "$id" : 39,
+    "label" : "tq012005_msg0039",
+    "talker" : "1",
+    "talkattr" : 33185,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희 족속들은\n정신 나간 짓만 골라서 하는군……!"
+  }, {
+    "$id" : 40,
+    "label" : "tq012005_msg0040",
+    "talker" : "1",
+    "talkattr" : 33185,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사람의 목숨으로\n장난치니까 재미있어?!"
+  }, {
+    "$id" : 41,
+    "label" : "tq012005_msg0041",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예뻐하는 애일수록 짓궂게 굴고 싶더라고\n그런 거 있잖니?"
+  }, {
+    "$id" : 42,
+    "label" : "tq012005_msg0042",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 잡담은 여기까지"
+  }, {
+    "$id" : 43,
+    "label" : "tq012005_msg0043",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 원망스럽다면\n이 아이들을 쓰러뜨린 후에 덤비려무나"
+  }, {
+    "$id" : 44,
+    "label" : "tq012005_msg0044",
+    "talker" : "uW1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 맞아! 그 녀석들이란다!\n너희가 만났던 날 나타났던 그 몬스터들!"
+  } ]
+}

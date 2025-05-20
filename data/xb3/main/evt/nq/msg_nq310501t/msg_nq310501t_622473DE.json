@@ -1,0 +1,124 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310501_msg0001",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "웰웰 숍에 웰컴이에요모\n오늘은 무얼 찾으시나요모?"
+  }, {
+    "$id" : 2,
+    "label" : "nq310501_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기……\n\"소설\" 있어?"
+  }, {
+    "$id" : 3,
+    "label" : "nq310501_msg0003",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "소설! 물론이죠모!\n어떤 장르가 좋으신가요모?"
+  }, {
+    "$id" : 4,
+    "label" : "nq310501_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응?\n자, 장르……?"
+  }, {
+    "$id" : 5,
+    "label" : "nq310501_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔진 잘 모르지만\n시티에서 유행한다면서?"
+  }, {
+    "$id" : 6,
+    "label" : "nq310501_msg0006",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유행 중인 소설이라!\n그건 두말할 것도 없이\n『시조행록』 시리즈의 최신간이죠모!"
+  }, {
+    "$id" : 7,
+    "label" : "nq310501_msg0007",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시조행록……?\n그게 소설의 제목이야?"
+  }, {
+    "$id" : 8,
+    "label" : "nq310501_msg0008",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇습니다모\n이 책을 구매하실 건가요모?"
+  }, {
+    "$id" : 9,
+    "label" : "nq310501_msg0009",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맛보기로 읽어 보셔도 돼요모!\n한번 생각해 보세요모"
+  }, {
+    "$id" : 10,
+    "label" : "nq310501_msg0010",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『시조행록』 시리즈는\n웰웰도 추천하는 소설이에요모!\n괜히 샀다고 후회하실 일은 없을 거예요모!"
+  }, {
+    "$id" : 11,
+    "label" : "nq310501_msg0011",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "매번 감사합니다모!\n손님! 잘 구매하신 거예요모!"
+  } ]
+}

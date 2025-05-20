@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<B9C7EA88>",
+    "talker" : "3",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티에선 모니카 같은\n\"어른\"이라는 녀석이\n작은 녀석들을 가르치는구나"
+  }, {
+    "$id" : 2,
+    "label" : "<2770419D>",
+    "talker" : "2",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "작은 녀석들이 아니고 \"아이들\"이야"
+  }, {
+    "$id" : 3,
+    "label" : "<E65F3345>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 아이들에게\n어른이 책을 읽어 줬었지\n무척 평화로운 느낌이었어"
+  }, {
+    "$id" : 4,
+    "label" : "<C69C27C4>",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게, 우리는 옛날에\n훈련이나 이론을 강요받으며\n엄청 엄하게 교육받았는데 말이야"
+  }, {
+    "$id" : 5,
+    "label" : "<B29FA354>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모니카 말대로 그게\n본래의 \"올바른 모습\"이겠지"
+  }, {
+    "$id" : 6,
+    "label" : "<357399F5>",
+    "talker" : "2",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 저 아이들이\n무기를 들고 싸우는 모습은\n상상이 잘 안 가……"
+  }, {
+    "$id" : 7,
+    "label" : "<91660543>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게르니카 씨도 모니카 씨가\n어른이 되기 전까지\n책을 읽어 줬을까?"
+  }, {
+    "$id" : 8,
+    "label" : "<C81FD37B>",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄…… 어땠으려나?"
+  }, {
+    "$id" : 9,
+    "label" : "<2C036D5C>",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이상하게도\n그런 광경은 도저히 상상이 안 돼"
+  }, {
+    "$id" : 10,
+    "label" : "<476B4DC8>",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음…… 복잡하구나……"
+  } ]
+}

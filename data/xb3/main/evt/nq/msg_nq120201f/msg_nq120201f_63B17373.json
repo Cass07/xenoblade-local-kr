@@ -1,0 +1,520 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120201_msg0001",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "덕분에 살았어"
+  }, {
+    "$id" : 2,
+    "label" : "nq120201_msg0002",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그런데 너희는 누구지?"
+  }, {
+    "$id" : 3,
+    "label" : "nq120201_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "벤이 너희를 걱정하길래\n데리러 왔어"
+  }, {
+    "$id" : 4,
+    "label" : "nq120201_msg0004",
+    "talker" : "ma1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "벤이……?\n하지만 나는 너희를 본 적이 없는데?"
+  }, {
+    "$id" : 5,
+    "label" : "nq120201_msg0101",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐라고 대답할까?"
+  }, {
+    "$id" : 6,
+    "label" : "nq120201_msg0102",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디의 동료야"
+  }, {
+    "$id" : 7,
+    "label" : "nq120201_msg0103",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 9의 병사야"
+  }, {
+    "$id" : 8,
+    "label" : "nq120201_msg0201",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 루디의 동료야"
+  }, {
+    "$id" : 9,
+    "label" : "nq120201_msg0202",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장님의……?"
+  }, {
+    "$id" : 10,
+    "label" : "nq120201_msg0203",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 사람은 레브니스 외에는\n관심이 없는 사람일 텐데?"
+  }, {
+    "$id" : 11,
+    "label" : "nq120201_msg0301",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 콜로니 9 소속 병사야"
+  }, {
+    "$id" : 12,
+    "label" : "nq120201_msg0302",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 다른 자들은?\n네 옆에 있는 자는\n아무리 봐도 아그누스 병사인데?"
+  }, {
+    "$id" : 13,
+    "label" : "nq120201_msg0303",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그들도 동료야\n사정이 있어서 동행하게 됐어"
+  }, {
+    "$id" : 14,
+    "label" : "nq120201_msg0401",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얘기를 들어 보겠다\n우리를 찾은 이유는 뭐지?"
+  }, {
+    "$id" : 15,
+    "label" : "nq120201_msg0402",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 30에 있던 생명의 불시계는\n우리가 부쉈어"
+  }, {
+    "$id" : 16,
+    "label" : "nq120201_msg0403",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희는 생명을 빼앗으며\n살아가야 하는 굴레에서\n벗어난 거야"
+  }, {
+    "$id" : 17,
+    "label" : "nq120201_msg0501",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어째서 군무장님이 여기에……"
+  }, {
+    "$id" : 18,
+    "label" : "nq120201_msg0502",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에른 일행을 데리러 왔어!\n벤이 걱정하기도 했고"
+  }, {
+    "$id" : 19,
+    "label" : "nq120201_msg0504",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "데리러 오셨다고요……? 농담도 참\n저희는 계속해서 임무를 수행하겠습니다"
+  }, {
+    "$id" : 20,
+    "label" : "nq120201_msg0505",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장님은 집정관님의 지시에 따라\n지금까지 하던 대로 해 주세요"
+  }, {
+    "$id" : 21,
+    "label" : "nq120201_msg0506",
+    "talker" : "ma1",
+    "talkattr" : 33065,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전원 바로 출발 준비해라!"
+  }, {
+    "$id" : 22,
+    "label" : "nq120201_msg0508",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 어째서?\n이제 싸우지 않아도 된단 말이야!"
+  }, {
+    "$id" : 23,
+    "label" : "nq120201_msg0601",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에른에게 무슨 말을 건넬까?"
+  }, {
+    "$id" : 24,
+    "label" : "nq120201_msg0602",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생명의 불시계는 부서졌어"
+  }, {
+    "$id" : 25,
+    "label" : "nq120201_msg0603",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디의 말을 들어 줘"
+  }, {
+    "$id" : 26,
+    "label" : "nq120201_msg0701",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 30에 있던 생명의 불시계는\n우리가 부쉈어"
+  }, {
+    "$id" : 27,
+    "label" : "nq120201_msg0702",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희는 생명을 빼앗으며\n살아가야 하는 굴레에서\n벗어난 거야"
+  }, {
+    "$id" : 28,
+    "label" : "nq120201_msg0703",
+    "talker" : "ma1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 말을……"
+  }, {
+    "$id" : 29,
+    "label" : "nq120201_msg0801",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 30의 동료잖아!\n루디 말을 좀 들어 줘!"
+  }, {
+    "$id" : 30,
+    "label" : "nq120201_msg0802",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에른……"
+  }, {
+    "$id" : 31,
+    "label" : "nq120201_msg0803",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희는 콜로니에 남아 있는\n정비사들의 몫까지\n싸워야 할 의무가 있습니다"
+  }, {
+    "$id" : 32,
+    "label" : "nq120201_msg0804",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 이제 돌아가도 상관없겠네!"
+  }, {
+    "$id" : 33,
+    "label" : "nq120201_msg0805",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 30에 있던 생명의 불시계는\n노아 일행이 부숴 줬어"
+  }, {
+    "$id" : 34,
+    "label" : "nq120201_msg0806",
+    "talker" : "ma1",
+    "talkattr" : 33065,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 35,
+    "label" : "nq120201_msg0901",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 사실이라는 증거는……?"
+  }, {
+    "$id" : 36,
+    "label" : "nq120201_msg1001",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐라고 대답할까?"
+  }, {
+    "$id" : 37,
+    "label" : "nq120201_msg1002",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 말을 믿는 것밖에 없어"
+  }, {
+    "$id" : 38,
+    "label" : "nq120201_msg1003",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"눈동자\"를 봐 줘"
+  }, {
+    "$id" : 39,
+    "label" : "nq120201_msg1101",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 말을 믿는 것밖에 없어"
+  }, {
+    "$id" : 40,
+    "label" : "nq120201_msg1201",
+    "talker" : "ma1",
+    "talkattr" : 33066,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 41,
+    "label" : "nq120201_msg1301",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"눈동자\"를 봐 줘"
+  }, {
+    "$id" : 42,
+    "label" : "nq120201_msg1302",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……?"
+  }, {
+    "$id" : 43,
+    "label" : "nq120201_msg1401",
+    "talker" : "ma1",
+    "talkattr" : 33105,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 44,
+    "label" : "nq120201_msg1402",
+    "talker" : "ma1",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생명의 불시계가 사라져 있어……"
+  }, {
+    "$id" : 45,
+    "label" : "nq120201_msg1501",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "벤은 무슨 말을……?"
+  }, {
+    "$id" : 46,
+    "label" : "nq120201_msg1601",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정비는 빼먹지 말라고\n늘 말했다면서\n뭐라고 하던데"
+  }, {
+    "$id" : 47,
+    "label" : "nq120201_msg1602",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……벤답군"
+  }, {
+    "$id" : 48,
+    "label" : "nq120201_msg1701",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정비는 빼먹지 말라던데?"
+  }, {
+    "$id" : 49,
+    "label" : "nq120201_msg1702",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇군요"
+  }, {
+    "$id" : 50,
+    "label" : "nq120201_msg1801",
+    "talker" : "ma1",
+    "talkattr" : 33065,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전원 귀환 준비!"
+  }, {
+    "$id" : 51,
+    "label" : "nq120201_msg1802",
+    "talker" : "bp1",
+    "talkattr" : 33065,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네!"
+  }, {
+    "$id" : 52,
+    "label" : "nq120201_msg1803",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워, 너희들 덕분에\n더는 불필요하게 싸울 필요가 없어졌어"
+  }, {
+    "$id" : 53,
+    "label" : "nq120201_msg1804",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "벤에게 안부 전해 줘"
+  }, {
+    "$id" : 54,
+    "label" : "nq120201_msg1901",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장님, 저희는\n콜로니 30로 귀환하겠습니다"
+  }, {
+    "$id" : 55,
+    "label" : "nq120201_msg1902",
+    "talker" : "H",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어\n조심히 돌아가"
+  } ]
+}

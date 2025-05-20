@@ -1,0 +1,43 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk714104_msg0001",
+    "talker" : "yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분하지만 아직 우리 힘으로는\n뫼비우스를 저지하기엔 역부족이었어……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk714104_msg0002",
+    "talker" : "yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티를 지키기 위해\n좀 더 많이 고민해 봐야겠어"
+  } ]
+}

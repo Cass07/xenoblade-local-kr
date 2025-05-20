@@ -1,0 +1,178 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<DB0CF2A4>",
+    "talker" : "3",
+    "talkattr" : 33152,
+    "talkattr2" : 16793730,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아, 란란"
+  }, {
+    "$id" : 2,
+    "label" : "<DB8A17C3>",
+    "talker" : "5",
+    "talkattr" : 33072,
+    "talkattr2" : 12599426,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 부르지 마"
+  }, {
+    "$id" : 3,
+    "label" : "<069C80EA>",
+    "talker" : "3",
+    "talkattr" : 33168,
+    "talkattr2" : 16793730,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그래, 란란\n괜찮지 않아, 란란?"
+  }, {
+    "$id" : 4,
+    "label" : "<6D9B10EF>",
+    "talker" : "5",
+    "talkattr" : 33176,
+    "talkattr2" : 12599426,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "허어, 그래?\n그럼 너도 유니유니라고 불러 주지"
+  }, {
+    "$id" : 5,
+    "label" : "<6967419D>",
+    "talker" : "3",
+    "talkattr" : 33184,
+    "talkattr2" : 16793729,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그만둬, 기분 나쁘니까"
+  }, {
+    "$id" : 6,
+    "label" : "<83F375DB>",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 나는…… 노아노아인가?"
+  }, {
+    "$id" : 7,
+    "label" : "<49ACB221>",
+    "talker" : "6",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는…… 세나세나?"
+  }, {
+    "$id" : 8,
+    "label" : "<1410019A>",
+    "talker" : "2",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……미오미오?"
+  }, {
+    "$id" : 9,
+    "label" : "<DC399F3E>",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔가 울음소리 같네"
+  }, {
+    "$id" : 10,
+    "label" : "<0A7D738F>",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 발음하기 힘든걸……"
+  }, {
+    "$id" : 11,
+    "label" : "<7363EB63>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 14696581,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 타이온은……"
+  }, {
+    "$id" : 12,
+    "label" : "<32D20C0C>",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 13,
+    "label" : "<8EDA5096>",
+    "talker" : "2",
+    "talkattr" : 33048,
+    "talkattr2" : 14696581,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……타이타이?"
+  }, {
+    "$id" : 14,
+    "label" : "<7F8FDAAE>",
+    "talker" : "6",
+    "talkattr" : 33048,
+    "talkattr2" : 14696580,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "온온?"
+  }, {
+    "$id" : 15,
+    "label" : "<F1FBCAA9>",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 14696579,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……타이온?"
+  }, {
+    "$id" : 16,
+    "label" : "<875ABDED>",
+    "talker" : "5",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음, 그게 낫겠어"
+  }, {
+    "$id" : 17,
+    "label" : "<3054AC32>",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……변한 게 없는데?"
+  } ]
+}

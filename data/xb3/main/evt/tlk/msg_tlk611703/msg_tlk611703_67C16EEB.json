@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk611703_msg0001",
+    "talker" : "Zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한동안 수용소에서 지내다 보니\n로스트 넘버즈가 된 이유를\n잊어버릴 것 같아……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk611703_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신은 왜 병사가 됐는데?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk611703_msg0003",
+    "talker" : "Zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 동경하는 시조님께\n다가가고 싶어서지!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk611703_msg0004",
+    "talker" : "Zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……하아, 한 번이라도 좋으니\n우로보로스 후보생 시험을 보고 싶었어"
+  } ]
+}

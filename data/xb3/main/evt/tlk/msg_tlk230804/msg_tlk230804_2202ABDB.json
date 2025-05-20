@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230804_msg0001",
+    "talker" : "bb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "드디어 아그누스 캐슬도\n해방되었군요!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230804_msg0002",
+    "talker" : "bb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "낡은 것이 끝을 맞이하고\n새로움이 싹트기 시작하는 듯한……\n그런 느낌이 드네요"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230804_msg0003",
+    "talker" : "bb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나 님께서 바라시던 새로운 시대가\n정말 머지않았습니다……!"
+  } ]
+}

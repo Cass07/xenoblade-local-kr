@@ -1,0 +1,376 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011608_msg0001",
+    "talker" : "H",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어라? 저 레브니스는……"
+  }, {
+    "$id" : 2,
+    "label" : "tq011608_msg0002",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아! 군무장님\n오셨군요"
+  }, {
+    "$id" : 3,
+    "label" : "tq011608_msg0003",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다녀왔어~!"
+  }, {
+    "$id" : 4,
+    "label" : "tq011608_msg0004",
+    "talker" : "H",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얘는 이스루기에게 빌려줬던\n레브니스지? 어떻게 된 거야?"
+  }, {
+    "$id" : 5,
+    "label" : "tq011608_msg0005",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 람다에서\n협조 요청에 응해 준 답례로\n자원 물자와 식량 등을 보내 줬어요"
+  }, {
+    "$id" : 6,
+    "label" : "tq011608_msg0006",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……와! 이렇게나 많이?!\n다음에 고맙다고 해야겠네"
+  }, {
+    "$id" : 7,
+    "label" : "tq011608_msg0007",
+    "talker" : "na1",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 군무장님!\n잠깐만요!"
+  }, {
+    "$id" : 8,
+    "label" : "tq011608_msg0008",
+    "talker" : "na1",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 4에서\n레브스트라이트를 정기적으로\n보급해 주겠다고 제안했어요!"
+  }, {
+    "$id" : 9,
+    "label" : "tq011608_msg0009",
+    "talker" : "H",
+    "talkattr" : 33113,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?! 정말?!"
+  }, {
+    "$id" : 10,
+    "label" : "tq011608_msg0010",
+    "talker" : "na1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 독에 있는 사람들에게 알리고 올게요!"
+  }, {
+    "$id" : 11,
+    "label" : "tq011608_msg0011",
+    "talker" : "4",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "각 콜로니 간의 협력 체제가\n갖춰진 것 같은걸"
+  }, {
+    "$id" : 12,
+    "label" : "tq011608_msg0012",
+    "talker" : "3",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제법인데?"
+  }, {
+    "$id" : 13,
+    "label" : "tq011608_msg0013",
+    "talker" : "H",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐?"
+  }, {
+    "$id" : 14,
+    "label" : "tq011608_msg0014",
+    "talker" : "5",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바보야\n아직도 모르겠어?"
+  }, {
+    "$id" : 15,
+    "label" : "tq011608_msg0015",
+    "talker" : "6",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디가 모두를 이어 준 거야"
+  }, {
+    "$id" : 16,
+    "label" : "tq011608_msg0016",
+    "talker" : "H",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가……?!"
+  }, {
+    "$id" : 17,
+    "label" : "tq011608_msg0017",
+    "talker" : "2",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대단하지 않아?\n다들 하는 일은 제각각인데"
+  }, {
+    "$id" : 18,
+    "label" : "tq011608_msg0018",
+    "talker" : "2",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다양한 방식으로\n서로의 일상을 도와주고 있어"
+  }, {
+    "$id" : 19,
+    "label" : "tq011608_msg0019",
+    "talker" : "1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 뭔가가 부족하면\n어딘가에 영향을 미치기 마련이고……"
+  }, {
+    "$id" : 20,
+    "label" : "tq011608_msg0020",
+    "talker" : "1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "변화가 생기고 나서야\n알게 되는 것도 많지"
+  }, {
+    "$id" : 21,
+    "label" : "tq011608_msg0021",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇구나"
+  }, {
+    "$id" : 22,
+    "label" : "tq011608_msg0022",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세상은 레브니스랑 똑같네"
+  }, {
+    "$id" : 23,
+    "label" : "tq011608_msg0023",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러 부품이 맞물려서\n움직이는 것처럼……"
+  }, {
+    "$id" : 24,
+    "label" : "tq011608_msg0024",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다양한 사람과 물건이 있기에\n세상도 움직이고…… 살아 있는 거야"
+  }, {
+    "$id" : 25,
+    "label" : "tq011608_msg0025",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디 씨와 마나나도\n세상의 부품인가요모?"
+  }, {
+    "$id" : 26,
+    "label" : "tq011608_msg0026",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리만이 아니야"
+  }, {
+    "$id" : 27,
+    "label" : "tq011608_msg0027",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 아이들도 마찬가지인걸"
+  }, {
+    "$id" : 28,
+    "label" : "tq011608_msg0028",
+    "talker" : "5",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『도구가 아니다』 이거네"
+  }, {
+    "$id" : 29,
+    "label" : "tq011608_msg0029",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응…… 지금은 아직 어렴풋하지만"
+  }, {
+    "$id" : 30,
+    "label" : "tq011608_msg0030",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 정비사야\n세상이 레브니스와 같다면 분명 만들 수 있어"
+  }, {
+    "$id" : 31,
+    "label" : "tq011608_msg0031",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 함께 살아가는\n새로운 내일의 모습을 말이야!"
+  }, {
+    "$id" : 32,
+    "label" : "tq011608_msg0032",
+    "talker" : "8",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이야기가 꽤 거창하네모"
+  }, {
+    "$id" : 33,
+    "label" : "tq011608_msg0033",
+    "talker" : "8",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……하지만 어쩔 수 없지모\n기대는 안 하고 지켜봐 줄게모"
+  }, {
+    "$id" : 34,
+    "label" : "tq011608_msg0034",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아자! 칭찬받았다!"
+  }, {
+    "$id" : 35,
+    "label" : "tq011608_msg0035",
+    "talker" : "8",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "칭찬한 거 아니야모"
+  }, {
+    "$id" : 36,
+    "label" : "tq011608_msg0036",
+    "talker" : "5",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 믿고 있어"
+  }, {
+    "$id" : 37,
+    "label" : "tq011608_msg0037",
+    "talker" : "5",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "누가 뭐래도 루디는\n케베스에서 제일가는 정비사잖아"
+  }, {
+    "$id" : 38,
+    "label" : "tq011608_msg0038",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "헤헷…… 응!"
+  }, {
+    "$id" : 39,
+    "label" : "tq011608_msg0039",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 유제트에게\n보고하러 가자"
+  } ]
+}

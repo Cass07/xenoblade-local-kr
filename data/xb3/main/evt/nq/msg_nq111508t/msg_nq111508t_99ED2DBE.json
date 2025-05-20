@@ -1,0 +1,43 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq111508_msg0001",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쿠쿠차가 말하기를 \"선인 버섯\"은\n노폰한테 자양 효과가 탁월하대"
+  }, {
+    "$id" : 2,
+    "label" : "nq111508_msg0002",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제1부유 암초에는\n위험한 몬스터가 살지만\n그 버섯만 있으면 분명 하마하마도……"
+  } ]
+}

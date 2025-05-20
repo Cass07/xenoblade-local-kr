@@ -1,0 +1,43 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330652_msg0001",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이상 없음~! 바다도 좋지만\n역시 땅이 흔들리질 않으니 마음이 놓이네요"
+  }, {
+    "$id" : 2,
+    "label" : "nq330652_msg0002",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……히마링이요?\n저는 못 봤는데 무슨 일 있나요?"
+  } ]
+}

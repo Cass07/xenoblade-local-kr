@@ -1,0 +1,547 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001703_msg0001",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "호오, 이번엔 안 도망쳤네?"
+  }, {
+    "$id" : 2,
+    "label" : "tq001703_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 3,
+    "label" : "tq001703_msg0003",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……나머지는 내가 말할게\n다들 자리를 비워 줘"
+  }, {
+    "$id" : 4,
+    "label" : "tq001703_msg0004",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "냉정해야 돼, 카이트"
+  }, {
+    "$id" : 5,
+    "label" : "tq001703_msg0005",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 언제나 냉정해"
+  }, {
+    "$id" : 6,
+    "label" : "tq001703_msg0006",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스의 움직임은 어떻지?"
+  }, {
+    "$id" : 7,
+    "label" : "tq001703_msg0007",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 불치 평원에서\n부대를 편성하고 있어"
+  }, {
+    "$id" : 8,
+    "label" : "tq001703_msg0008",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이젠 숨을 생각도 없어 보여서\n그게 좀 거슬려"
+  }, {
+    "$id" : 9,
+    "label" : "tq001703_msg0009",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "머릿수로 누를 자신이 있거나\n아니면 속임수일지도……"
+  }, {
+    "$id" : 10,
+    "label" : "tq001703_msg0010",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래 보이지만 실은\n그냥 멍청한 걸지도 모르지, 하하핫"
+  }, {
+    "$id" : 11,
+    "label" : "tq001703_msg0011",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "농담하면서 웃을 기분 아니야"
+  }, {
+    "$id" : 12,
+    "label" : "tq001703_msg0012",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "농담이라도 해야 살겠다고"
+  }, {
+    "$id" : 13,
+    "label" : "tq001703_msg0013",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "식량만 충분했으면 지구전도 가능했어\n네가 약탈만 허가했어도……"
+  }, {
+    "$id" : 14,
+    "label" : "tq001703_msg0014",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 안 된다고 했잖아\n희생이 너무 커"
+  }, {
+    "$id" : 15,
+    "label" : "tq001703_msg0015",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 어떡하자고?\n굶주림과 불안으로 다들 불만이 가득해"
+  }, {
+    "$id" : 16,
+    "label" : "tq001703_msg0016",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이대로 가면 결국\n자멸밖에 없어"
+  }, {
+    "$id" : 17,
+    "label" : "tq001703_msg0017",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그럼 싸울 이유 자체를 없애면 돼"
+  }, {
+    "$id" : 18,
+    "label" : "tq001703_msg0018",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?!"
+  }, {
+    "$id" : 19,
+    "label" : "tq001703_msg0019",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……구체적인 방법은?"
+  }, {
+    "$id" : 20,
+    "label" : "tq001703_msg0020",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생명의 불시계를 부수면 상황이 바뀔 거야"
+  }, {
+    "$id" : 21,
+    "label" : "tq001703_msg0021",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부숴……?"
+  }, {
+    "$id" : 22,
+    "label" : "tq001703_msg0022",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 아니, 지금 그게 뭔 소리야? 바보냐?"
+  }, {
+    "$id" : 23,
+    "label" : "tq001703_msg0023",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바보는 카이트겠지모"
+  }, {
+    "$id" : 24,
+    "label" : "tq001703_msg0024",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 만년 2위 지킴이라고\n놀림받는 거야모"
+  }, {
+    "$id" : 25,
+    "label" : "tq001703_msg0025",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠! 나, 남이 신경 쓰는 부분을\n그렇게 마구……!!"
+  }, {
+    "$id" : 26,
+    "label" : "tq001703_msg0026",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "애초에 뻔뻔하게 잘도 돌아왔네!\n제온한테는 무슨 수로 빌붙었냐?"
+  }, {
+    "$id" : 27,
+    "label" : "tq001703_msg0027",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모못! 빌붙은 적……"
+  }, {
+    "$id" : 28,
+    "label" : "tq001703_msg0028",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "민폐라고!\n동료가 죽는 일도, 배신당하는 일도\n이제 질렸단 말이야!!"
+  }, {
+    "$id" : 29,
+    "label" : "tq001703_msg0029",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 같은 마음이야. 그러니까……\n최대한 할 수 있는 일을 하고 싶어"
+  }, {
+    "$id" : 30,
+    "label" : "tq001703_msg0030",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 위해 돌아왔으니까"
+  }, {
+    "$id" : 31,
+    "label" : "tq001703_msg0031",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 이야기를 누가 믿을 줄 알아!"
+  }, {
+    "$id" : 32,
+    "label" : "tq001703_msg0032",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "믿을 필요는 없지\n다만 이용할 가치는 있어"
+  }, {
+    "$id" : 33,
+    "label" : "tq001703_msg0033",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너도……\n결국 그쪽에 붙는 거냐"
+  }, {
+    "$id" : 34,
+    "label" : "tq001703_msg0034",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부관인 내가 아니라, 또 노아냐고"
+  }, {
+    "$id" : 35,
+    "label" : "tq001703_msg0035",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 게 아니야"
+  }, {
+    "$id" : 36,
+    "label" : "tq001703_msg0036",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 필사적으로……!!\n……젠장!"
+  }, {
+    "$id" : 37,
+    "label" : "tq001703_msg0037",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안, 복잡하게 만들었네"
+  }, {
+    "$id" : 38,
+    "label" : "tq001703_msg0038",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오히려 이걸 노렸다며\n웃을 줄 알았는데?"
+  }, {
+    "$id" : 39,
+    "label" : "tq001703_msg0039",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸로 안심한다면 그렇게 할게"
+  }, {
+    "$id" : 40,
+    "label" : "tq001703_msg0040",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 그렇게 간단한 게 아니잖아\n사람의 마음이란 건……"
+  }, {
+    "$id" : 41,
+    "label" : "tq001703_msg0041",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……네가 무슨 생각이든\n의심은 걷히지 않는다"
+  }, {
+    "$id" : 42,
+    "label" : "tq001703_msg0042",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 말할 수 있는 건 그것뿐이야"
+  }, {
+    "$id" : 43,
+    "label" : "tq001703_msg0043",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어느 쪽이든 상관없으니\n슬슬 들려주지 않겠어?"
+  }, {
+    "$id" : 44,
+    "label" : "tq001703_msg0044",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네가 말하는\n우리의 이용 가치를"
+  }, {
+    "$id" : 45,
+    "label" : "tq001703_msg0045",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이야기를 계속하지"
+  }, {
+    "$id" : 46,
+    "label" : "tq001703_msg0046",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지형상 유리하다 해도\n우리는 비축품도 전력도 한정된 상태야\n상대도 이걸 노리고 있겠지"
+  }, {
+    "$id" : 47,
+    "label" : "tq001703_msg0047",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇기에 더욱\n너희가 첨병으로서 활약할 기회다"
+  }, {
+    "$id" : 48,
+    "label" : "tq001703_msg0048",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생각지도 못한 적으로 전의를 꺾어서……\n그걸 돌파구로 삼을 생각이구나"
+  }, {
+    "$id" : 49,
+    "label" : "tq001703_msg0049",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스와 케베스의 혼성 부대니까\n앞에서 날뛰면 그야 혼란스럽겠지"
+  }, {
+    "$id" : 50,
+    "label" : "tq001703_msg0050",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 우리가 단독으로 행동하면 되잖아"
+  }, {
+    "$id" : 51,
+    "label" : "tq001703_msg0051",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "목줄이 채워져 있으면\n답답해서 못 참겠단 말이야"
+  }, {
+    "$id" : 52,
+    "label" : "tq001703_msg0052",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "착각하고 있는 모양인데……"
+  }, {
+    "$id" : 53,
+    "label" : "tq001703_msg0053",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "배신자를 용서한 적은 없다\n내가 \"감시\"하고 있음을 잊지 마라"
+  }, {
+    "$id" : 54,
+    "label" : "tq001703_msg0054",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 알겠습니다요, 군무장님"
+  }, {
+    "$id" : 55,
+    "label" : "tq001703_msg0055",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 멍청이……"
+  }, {
+    "$id" : 56,
+    "label" : "tq001703_msg0056",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 둘은 원래 저러잖아"
+  }, {
+    "$id" : 57,
+    "label" : "tq001703_msg0057",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "목표 지점을 \"눈동자\"로 보내겠다\n즉시 작전을 이행하지"
+  }, {
+    "$id" : 58,
+    "label" : "tq001703_msg0058",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어"
+  } ]
+}

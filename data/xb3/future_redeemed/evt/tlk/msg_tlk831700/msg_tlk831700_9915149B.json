@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831700_msg0001",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……저는 옛날부터\n굼뜬 제 자신이 싫었어요……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831700_msg0002",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 파나세아 씨의 훈련을 통해\n싸우는 방법을 배우고……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831700_msg0003",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그…… 이런 저조차도\n도움이 될 수 있다는 걸 깨달아서……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831700_msg0004",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까, 음……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk831700_msg0005",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……고, 고마워요"
+  }, {
+    "$id" : 6,
+    "label" : "tlk831700_msg0006",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 말했어\n나중에 파나세아에게도 전해 줄게"
+  } ]
+}

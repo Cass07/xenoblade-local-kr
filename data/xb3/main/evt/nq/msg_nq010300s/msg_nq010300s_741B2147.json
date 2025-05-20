@@ -1,0 +1,286 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq010300_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요즘 들어 콜로니 9 내에서 식량 부족 때문에\n불만이 제기되고 있나 봐"
+  }, {
+    "$id" : 2,
+    "label" : "nq010300_msg0002",
+    "talker" : "3",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1074,
+    "style" : 126,
+    "name" : "생명의 불시계에서 기껏 해방됐다 해도\n이런 문제는 어쩔 수 없지"
+  }, {
+    "$id" : 3,
+    "label" : "nq010300_msg0003",
+    "talker" : "2",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1074,
+    "style" : 126,
+    "name" : "제온이 만든다고 했던 밭도\n성과가 나오기까진 시간이 걸릴 거고……"
+  }, {
+    "$id" : 4,
+    "label" : "nq010300_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "불만이 있는 건\n카이트뿐만이 아니잖아?"
+  }, {
+    "$id" : 5,
+    "label" : "nq010300_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이대로 방치했다간\n머지않아 불씨가 크게 번지게 될 거야"
+  }, {
+    "$id" : 6,
+    "label" : "nq010300_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 7,
+    "label" : "nq010300_msg0101",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사실대로 말하면……"
+  }, {
+    "$id" : 8,
+    "label" : "nq010300_msg0102",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "병사들 사이에서 나쁜 계획을\n세우고 있다는 정보가 들어왔다"
+  }, {
+    "$id" : 9,
+    "label" : "nq010300_msg0103",
+    "talker" : "5",
+    "talkattr" : 33104,
+    "talkattr2" : 44056705,
+    "talkattr3" : 1074,
+    "style" : 126,
+    "name" : "진짜야……?\n도대체 어떤 바보 녀석이……"
+  }, {
+    "$id" : 10,
+    "label" : "nq010300_msg0104",
+    "talker" : "I",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "폭스다. 아무래도\n인근에 있는 콜로니를\n약탈하러 갈 셈인가 보더군"
+  }, {
+    "$id" : 11,
+    "label" : "nq010300_msg0201",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 어렴풋이 알고 있을 거 같은데……"
+  }, {
+    "$id" : 12,
+    "label" : "nq010300_msg0202",
+    "talker" : "3",
+    "talkattr" : 33064,
+    "talkattr2" : 8405121,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "폭스가 사고 칠 것 같다는 얘기 말이지?"
+  }, {
+    "$id" : 13,
+    "label" : "nq010300_msg0203",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 12632193,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래"
+  }, {
+    "$id" : 14,
+    "label" : "nq010300_msg0204",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩌면……"
+  }, {
+    "$id" : 15,
+    "label" : "nq010300_msg0205",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "인근에 있는 콜로니를\n약탈하러 가려는 걸지도 몰라"
+  }, {
+    "$id" : 16,
+    "label" : "nq010300_msg0301",
+    "talker" : "6",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 수가……"
+  }, {
+    "$id" : 17,
+    "label" : "nq010300_msg0302",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맙소사…… 바보들을 때려눕혀서라도\n막으러 가야겠는데?"
+  }, {
+    "$id" : 18,
+    "label" : "nq010300_msg0303",
+    "talker" : "2",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실행으로 옮기기 전에\n막을 수 있으면 좋겠는데……"
+  }, {
+    "$id" : 19,
+    "label" : "nq010300_msg0304",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……카이트는 관여하지 않은 건가?"
+  }, {
+    "$id" : 20,
+    "label" : "nq010300_msg0305",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석이 움직였으면\n규모가 더 커졌을 거야, 그치?"
+  }, {
+    "$id" : 21,
+    "label" : "nq010300_msg0306",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생각보다 부하를 잘 챙겨서\n따르는 병사들이 많거든"
+  }, {
+    "$id" : 22,
+    "label" : "nq010300_msg0307",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬군"
+  }, {
+    "$id" : 23,
+    "label" : "nq010300_msg0401",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……카이트라면\n폭스를 막을 수 있지 않을까?"
+  }, {
+    "$id" : 24,
+    "label" : "nq010300_msg0402",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석들이니\n어차피 매일 모이는 장소인\n야외 식당에 있겠지"
+  }, {
+    "$id" : 25,
+    "label" : "nq010300_msg0403",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지\n야외 식당에 가서\n그들과 이야기를 해 보자"
+  }, {
+    "$id" : 26,
+    "label" : "nq010300_msg0501",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 32897,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카밀라라면\n뭔가 알고 있지 않을까?"
+  }, {
+    "$id" : 27,
+    "label" : "nq010300_msg0502",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "폭스랑 동기일 텐데\n게다가 요즘 자주 만나는 거 같고"
+  }, {
+    "$id" : 28,
+    "label" : "nq010300_msg0503",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카밀라도 동참하고 있다는 거야?"
+  }, {
+    "$id" : 29,
+    "label" : "nq010300_msg0504",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얘기를 들어 보기 전까지는\n딱 잘라 말할 순 없지……"
+  } ]
+}

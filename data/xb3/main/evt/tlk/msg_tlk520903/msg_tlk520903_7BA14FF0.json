@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520903_msg0001",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 달리는 게 느리다 보니\n종종 뒤에서 애들을 보는데요……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520903_msg0002",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요즘 들어 다들 별로\n웃지를 않더라고요……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520903_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "호흡이 맞질 않는다고\n아야세도 지적하던데……\n다른 애들 생각도 비슷하려나?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520903_msg0004",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "심지어 구구는\n저한테 싸웠어모? 라면서 묻더라고요~\n사실 저희가 구석조라는 걸 만들었는데……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk520903_msg0005",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 동료들이 사이좋게 지내는 모습을\n지켜보는 걸 좋아하는 모임이거든요~\n그래서 요즘 분위기는…… 조금 불편하네요~"
+  } ]
+}

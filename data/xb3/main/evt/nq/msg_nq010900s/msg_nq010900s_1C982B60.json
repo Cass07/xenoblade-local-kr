@@ -1,0 +1,187 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq010900_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아이리스 말인데"
+  }, {
+    "$id" : 2,
+    "label" : "nq010900_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직도 콜로니 9으로\n돌아오지 않았나 봐"
+  }, {
+    "$id" : 3,
+    "label" : "nq010900_msg0101",
+    "talker" : "I",
+    "talkattr" : 33104,
+    "talkattr2" : 12599425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "처음 듣는 일이군\n내가 잠시 나가 있는 사이에\n그런 일이……"
+  }, {
+    "$id" : 4,
+    "label" : "nq010900_msg0201",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 12599425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정되네\n어디로 갔는지 아는 사람 없어?"
+  }, {
+    "$id" : 5,
+    "label" : "nq010900_msg0202",
+    "talker" : "3",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "없나 봐"
+  }, {
+    "$id" : 6,
+    "label" : "nq010900_msg0203",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레브니스를 타고 나갔다니까\n어지간한 일이 아니고서야\n괜찮겠지만……"
+  }, {
+    "$id" : 7,
+    "label" : "nq010900_msg0204",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 32897,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레브니스를 타고 나간 거면\n뭔가 커다란 물건을 옮길 생각이었을까……?"
+  }, {
+    "$id" : 8,
+    "label" : "nq010900_msg0205",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 아니면\n먼 곳에 가려고 한 건가?"
+  }, {
+    "$id" : 9,
+    "label" : "nq010900_msg0206",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 9에서 떨어진 곳에\n무슨 일로……"
+  }, {
+    "$id" : 10,
+    "label" : "nq010900_msg0207",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무튼\n찾으러 갈 거지?"
+  }, {
+    "$id" : 11,
+    "label" : "nq010900_msg0208",
+    "talker" : "6",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곤경에 처했을지도 몰라\n빨리 찾으러 가자!"
+  }, {
+    "$id" : 12,
+    "label" : "nq010900_msg0209",
+    "talker" : "3",
+    "talkattr" : 33056,
+    "talkattr2" : 824197249,
+    "talkattr3" : 1074,
+    "style" : 126,
+    "name" : "그래"
+  }, {
+    "$id" : 13,
+    "label" : "nq010900_msg0210",
+    "talker" : "3",
+    "talkattr" : 33104,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아!"
+  }, {
+    "$id" : 14,
+    "label" : "nq010900_msg0211",
+    "talker" : "3",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니 흙이 어쩌고\n희망의 언덕이 어쩌고\n했던 거 같기도 하고……"
+  }, {
+    "$id" : 15,
+    "label" : "nq010900_msg0212",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "희망의 언덕?"
+  }, {
+    "$id" : 16,
+    "label" : "nq010900_msg0213",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"거기\"라면 지금은 아무것도……"
+  }, {
+    "$id" : 17,
+    "label" : "nq010900_msg0214",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 수용소 쪽은?"
+  }, {
+    "$id" : 18,
+    "label" : "nq010900_msg0215",
+    "talker" : "1",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "찾으러 가 보자"
+  } ]
+}

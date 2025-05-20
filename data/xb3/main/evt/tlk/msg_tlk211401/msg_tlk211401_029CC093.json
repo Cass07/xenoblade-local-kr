@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk211401_msg0001",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이, 이게 무슨 일이죠!\n생명의 불시계가 파괴당하다니!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk211401_msg0002",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "애초에 파괴가 불가능한 물건이었을 텐데요!\n과거에 몇 번을 실험했지만 꼼짝도 안 했는데!\n으음……! 참으로 흥미롭군요!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk211401_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부수려고 해 봤었냐……?\n너 진짜 겁도 없다"
+  } ]
+}

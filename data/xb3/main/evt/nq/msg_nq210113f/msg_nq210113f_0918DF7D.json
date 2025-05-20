@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq210113f_msg0001",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고생시켜서 미안하군\n이걸로 신청은 통과됐으니\n곧바로 식당 건설에 착수할 거야"
+  }, {
+    "$id" : 2,
+    "label" : "nq210113f_msg0002",
+    "talker" : "5",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜 생고생이라고\n모두가 찬성하는 일을 하는데\n뭐가 이렇게 번거로워?"
+  }, {
+    "$id" : 3,
+    "label" : "nq210113f_msg0003",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래……\n그렇게 생각하는 것도 당연해"
+  }, {
+    "$id" : 4,
+    "label" : "nq210113f_msg0004",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다만 이유를 해명한다면\n우리에게 어떤 방법이 최선일지\n늘 모색하고 있기 때문이지"
+  }, {
+    "$id" : 5,
+    "label" : "nq210113f_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 시후한테 돌아갈까?\n목 빠지게 기다리고 있을 거야"
+  }, {
+    "$id" : 6,
+    "label" : "nq210113f_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러자"
+  } ]
+}

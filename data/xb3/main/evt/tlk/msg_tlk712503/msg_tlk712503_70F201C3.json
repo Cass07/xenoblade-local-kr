@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk712503_msg0001",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "장로는 외부인들한테 너무 물러\n동정이라도 하는 건가?\n진정 지켜야 할 것은 시티의 안전이잖아"
+  }, {
+    "$id" : 2,
+    "label" : "tlk712503_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네 의견도 이해해\n그래도 콜로니 15의 병사들이라면\n나쁜 짓은 안 할 거야…… 아마도"
+  }, {
+    "$id" : 3,
+    "label" : "tlk712503_msg0003",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 결속이 흐트러지겠지\n가치관이 다르면 서로 충돌하기 마련이야\n사고가 난 뒤에 대처한들 늦을 텐데……"
+  } ]
+}

@@ -1,0 +1,232 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002210_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 선택한 건……"
+  }, {
+    "$id" : 2,
+    "label" : "tq002210_msg0002",
+    "talker" : "N",
+    "talkattr" : 33025,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐 기다려!!"
+  }, {
+    "$id" : 3,
+    "label" : "tq002210_msg0003",
+    "talker" : "uf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오! 캡틴, 늦었네요"
+  }, {
+    "$id" : 4,
+    "label" : "tq002210_msg0004",
+    "talker" : "N",
+    "talkattr" : 33065,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 가져왔다! 보물을 말이지!"
+  }, {
+    "$id" : 5,
+    "label" : "tq002210_msg0005",
+    "talker" : "5",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야! 우리가 먼저 왔잖아\n뒤에서 기다려!"
+  }, {
+    "$id" : 6,
+    "label" : "tq002210_msg0006",
+    "talker" : "uf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진정하세요, 이번 대결은 속도로\n겨루는 게 아니니까 같이 제출하면 돼요"
+  }, {
+    "$id" : 7,
+    "label" : "tq002210_msg0007",
+    "talker" : "N",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 좋다!"
+  }, {
+    "$id" : 8,
+    "label" : "tq002210_msg0008",
+    "talker" : "5",
+    "talkattr" : 33065,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디 내 보시지! 이게 우리의……"
+  }, {
+    "$id" : 9,
+    "label" : "tq002210_msg0009",
+    "talker" : "N",
+    "talkattr" : 33153,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보물이다!"
+  }, {
+    "$id" : 10,
+    "label" : "tq002210_msg0010",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗……!"
+  }, {
+    "$id" : 11,
+    "label" : "tq002210_msg0011",
+    "talker" : "uf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "호오…… 설마 두 팀 모두\n같은 물건을 가져올 줄이야"
+  }, {
+    "$id" : 12,
+    "label" : "tq002210_msg0012",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연해요모"
+  }, {
+    "$id" : 13,
+    "label" : "tq002210_msg0013",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "냠냠 코코넛은 둘이 먹다\n하나가 죽어도 모를 만큼\n맛있는 보물이니까요모!"
+  }, {
+    "$id" : 14,
+    "label" : "tq002210_msg0014",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭘 좀 아는걸? 아가씨\n이 녀석은 크기도 크고 맛있지!"
+  }, {
+    "$id" : 15,
+    "label" : "tq002210_msg0015",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐, 보물이 겹치면 어떻게 되지?"
+  }, {
+    "$id" : 16,
+    "label" : "tq002210_msg0016",
+    "talker" : "uf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 무승부군요\n같은 물건으론 우열을 가릴 수 없어요"
+  }, {
+    "$id" : 17,
+    "label" : "tq002210_msg0017",
+    "talker" : "N",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "류카부, 눈을 똑바로 뜨고 봐라!"
+  }, {
+    "$id" : 18,
+    "label" : "tq002210_msg0018",
+    "talker" : "N",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 냠냠 코코넛이\n더 크잖아?!"
+  }, {
+    "$id" : 19,
+    "label" : "tq002210_msg0019",
+    "talker" : "uf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "같은 건 같은 겁니다\n저는 캡틴이 상대라고 해서\n편의를 봐주지는 않아요"
+  }, {
+    "$id" : 20,
+    "label" : "tq002210_msg0020",
+    "talker" : "N",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젠장, 어쩔 수 없지\n어이, 다음으로 가자!"
+  }, {
+    "$id" : 21,
+    "label" : "tq002210_msg0021",
+    "talker" : "N",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다음은 아르카폴 반도다\n결판을 내 주마!"
+  }, {
+    "$id" : 22,
+    "label" : "tq002210_msg0022",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐랄까……\n진이 빠지는걸……"
+  }, {
+    "$id" : 23,
+    "label" : "tq002210_msg0023",
+    "talker" : "2",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게……"
+  } ]
+}

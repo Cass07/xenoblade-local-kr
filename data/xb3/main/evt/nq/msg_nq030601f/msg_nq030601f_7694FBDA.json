@@ -1,0 +1,205 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq030601_msg0001",
+    "talker" : "tY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……볼일 있어?"
+  }, {
+    "$id" : 2,
+    "label" : "nq030601_msg0002",
+    "talker" : "6",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그게……\n중요한 건 아닌데"
+  }, {
+    "$id" : 3,
+    "label" : "nq030601_msg0003",
+    "talker" : "6",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네가 아주 오래된 유물의 회수를\n담당했다고 세주한테 들었거든……"
+  }, {
+    "$id" : 4,
+    "label" : "nq030601_msg0004",
+    "talker" : "tY1",
+    "talkattr" : 33104,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 5,
+    "label" : "nq030601_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 비슷한 물건을 주운 적이 있는데\n괜찮다면 이야기를 듣고 싶어서……"
+  }, {
+    "$id" : 6,
+    "label" : "nq030601_msg0006",
+    "talker" : "tY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……유물은 발견 즉시 그 자리에서 파괴하고\n예외 없이 전부 다 처분했어"
+  }, {
+    "$id" : 7,
+    "label" : "nq030601_msg0007",
+    "talker" : "6",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐……?"
+  }, {
+    "$id" : 8,
+    "label" : "nq030601_msg0008",
+    "talker" : "tY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 임무였어. 8호는 아무것도 몰라\n얘기해 줄 것도 없고"
+  }, {
+    "$id" : 9,
+    "label" : "nq030601_msg0009",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그렇구나…… 그럼 어쩔 수 없네"
+  }, {
+    "$id" : 10,
+    "label" : "nq030601_msg0010",
+    "talker" : "tY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이제 와서 그 이야기는 왜?"
+  }, {
+    "$id" : 11,
+    "label" : "nq030601_msg0011",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음, 굳이 말하자면……\n……호기심이려나?"
+  }, {
+    "$id" : 12,
+    "label" : "nq030601_msg0012",
+    "talker" : "tY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "호기심…… 다른 뜻은 없고?"
+  }, {
+    "$id" : 13,
+    "label" : "nq030601_msg0013",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으, 응, 딱히 없는데……"
+  }, {
+    "$id" : 14,
+    "label" : "nq030601_msg0014",
+    "talker" : "tY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알겠어"
+  }, {
+    "$id" : 15,
+    "label" : "nq030601_msg0015",
+    "talker" : "tY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이쪽으로 따라와 봐"
+  }, {
+    "$id" : 16,
+    "label" : "nq030601_msg0016",
+    "talker" : "6",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 잠깐만 기다려!\n갑자기 왜 그래?"
+  }, {
+    "$id" : 17,
+    "label" : "nq030601_msg0017",
+    "talker" : "tY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "식량 창고에서 보여 주고 싶은 게 있어"
+  }, {
+    "$id" : 18,
+    "label" : "nq030601_msg0018",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐랄까, 8호는\n도무지 종잡을 수가 없네"
+  }, {
+    "$id" : 19,
+    "label" : "nq030601_msg0019",
+    "talker" : "2",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭘 보여 주려는 걸까?"
+  }, {
+    "$id" : 20,
+    "label" : "nq030601_msg0020",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄……\n일단 가 보자"
+  } ]
+}

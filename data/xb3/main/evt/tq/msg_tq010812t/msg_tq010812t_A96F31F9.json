@@ -1,0 +1,43 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq010812_msg0001",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모아야 할 것은\n라군슈타인과 스트레인지 주얼\n그리고 시르마의 내산성 등껍질일세모"
+  }, {
+    "$id" : 2,
+    "label" : "tq010812_msg0002",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 새먼에게 가서\n어떤 물건을 받아 와 줬으면 하네모"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831103_msg0001",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 고철이나 다름없었던\n에테르 용광로를 고쳤다니\n대단한데?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831103_msg0002",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 어디, 후배들을 위해\n분해해서 장치의 내부 구조를……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831103_msg0003",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그건 곤란해요……\n힘들게 고친 건데……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831103_msg0004",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하, 농담이야. 농담"
+  }, {
+    "$id" : 5,
+    "label" : "tlk831103_msg0005",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "심정은 이해가 가다 보니\n농담으로 안 들렸어……"
+  } ]
+}

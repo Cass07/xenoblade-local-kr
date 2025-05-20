@@ -1,0 +1,178 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq220806_msg0001",
+    "talker" : "Wd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 왔구나! 어땠어?"
+  }, {
+    "$id" : 2,
+    "label" : "nq220806_msg0002",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 아무래도 이 기계에 따르면\n자원은 하층에 있는 것 같아요"
+  }, {
+    "$id" : 3,
+    "label" : "nq220806_msg0003",
+    "talker" : "Wd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말?!"
+  }, {
+    "$id" : 4,
+    "label" : "nq220806_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 그런데\n하층이 위험한 건 알지?"
+  }, {
+    "$id" : 5,
+    "label" : "nq220806_msg0005",
+    "talker" : "Wd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 부분은 걱정 안 해도 돼\n자원이 발견되면\n람다가 협력해 주겠다고 했거든"
+  }, {
+    "$id" : 6,
+    "label" : "nq220806_msg0006",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거기까지 이야기가 돼 있었나요"
+  }, {
+    "$id" : 7,
+    "label" : "nq220806_msg0007",
+    "talker" : "Wd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레브니스를 빌려주겠다나 봐\n자원 발굴 목적이라면 돕겠다 하더라고"
+  }, {
+    "$id" : 8,
+    "label" : "nq220806_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 하층의 몬스터도\n별 위협은 안 되겠어"
+  }, {
+    "$id" : 9,
+    "label" : "nq220806_msg0009",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "람다 병사들은 훈련도 잘되어 있으니\n그들에게 지시를 부탁하면\n문제없을 거야"
+  }, {
+    "$id" : 10,
+    "label" : "nq220806_msg0010",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이렇게 도움을 받을 수 있다니\n정말로 기쁠 따름이네요"
+  }, {
+    "$id" : 11,
+    "label" : "nq220806_msg0011",
+    "talker" : "Wd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 난 당장 람다로 가서\n이 사실을 전하고…… 아, 그 전에"
+  }, {
+    "$id" : 12,
+    "label" : "nq220806_msg0012",
+    "talker" : "Wd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나소리 녀석한테 자원이 나왔다는 걸\n먼저 전해야겠네\n다들, 정말 고맙다!"
+  }, {
+    "$id" : 13,
+    "label" : "nq220806_msg0013",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮은 거야? 또 싸울 거 같은데"
+  }, {
+    "$id" : 14,
+    "label" : "nq220806_msg0014",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 괜찮을 거예요\n반목하는 것처럼 보이지만\n소중한 동료입니다"
+  }, {
+    "$id" : 15,
+    "label" : "nq220806_msg0015",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세리도 나소리도 서로의 능력은\n확실히 인정하고 있거든요"
+  }, {
+    "$id" : 16,
+    "label" : "nq220806_msg0016",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 다행이지"
+  }, {
+    "$id" : 17,
+    "label" : "nq220806_msg0017",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 타우를 생각하는 마음은 같으니\n분명 앞으로 더 좋은 방향을 향해\n나아갈 겁니다"
+  } ]
+}

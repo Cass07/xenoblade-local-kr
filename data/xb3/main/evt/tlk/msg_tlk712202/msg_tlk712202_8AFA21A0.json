@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk712202_msg0001",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수용소라고는 해도\n아그누스 캐슬 바로 밑에 있는 시설에\n침입하려면 엄청 힘들 거야모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk712202_msg0002",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조심해서 다녀와모\n……그리고 바운더리는\n소중히 다뤄야 해모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk712202_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어\n배의 안전은 보장할 수 없지만\n리쿠가 어떻게든 해 줄 거야"
+  } ]
+}

@@ -1,0 +1,349 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001603_msg0001",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응! 이게 좋겠어!"
+  }, {
+    "$id" : 2,
+    "label" : "tq001603_msg0002",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 그렇고……"
+  }, {
+    "$id" : 3,
+    "label" : "tq001603_msg0003",
+    "talker" : "H",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이렇게 망가진 레브니스가 있다니……"
+  }, {
+    "$id" : 4,
+    "label" : "tq001603_msg0004",
+    "talker" : "2",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "싸움의 결과는 늘 이렇게\n……참혹해"
+  }, {
+    "$id" : 5,
+    "label" : "tq001603_msg0005",
+    "talker" : "H",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응…… 참혹하고……"
+  }, {
+    "$id" : 6,
+    "label" : "tq001603_msg0006",
+    "talker" : "H",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엄청나게 수리하고 싶어"
+  }, {
+    "$id" : 7,
+    "label" : "tq001603_msg0007",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너 말이야……"
+  }, {
+    "$id" : 8,
+    "label" : "tq001603_msg0008",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나 있잖아\n예전에 다쳐서 몸도 마음도\n엉망진창이 된 적이 있었어"
+  }, {
+    "$id" : 9,
+    "label" : "tq001603_msg0009",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그때 스승님이……"
+  }, {
+    "$id" : 10,
+    "label" : "tq001603_msg0010",
+    "talker" : "5",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스승님?"
+  }, {
+    "$id" : 11,
+    "label" : "tq001603_msg0011",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 노폰들이 쓰는 말인데\n대단한 사람이라는 뜻이래"
+  }, {
+    "$id" : 12,
+    "label" : "tq001603_msg0012",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 스승님한테 들은 말인데……"
+  }, {
+    "$id" : 13,
+    "label" : "tq001603_msg0013",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『자기 자신을 아군으로 만들어라\n결코 적으로 돌려선 안 된다』라고 하더라고"
+  }, {
+    "$id" : 14,
+    "label" : "tq001603_msg0014",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자기 자신을 아군으로……"
+  }, {
+    "$id" : 15,
+    "label" : "tq001603_msg0015",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 그때부터였나\n망가진 레브니스를 보면 이것저것 떠올라"
+  }, {
+    "$id" : 16,
+    "label" : "tq001603_msg0016",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수리하면 움직일 거야"
+  }, {
+    "$id" : 17,
+    "label" : "tq001603_msg0017",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 아이들도\n자신을 포기하지 않았으면 해"
+  }, {
+    "$id" : 18,
+    "label" : "tq001603_msg0018",
+    "talker" : "2",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……다정하구나"
+  }, {
+    "$id" : 19,
+    "label" : "tq001603_msg0019",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 게 아니야"
+  }, {
+    "$id" : 20,
+    "label" : "tq001603_msg0020",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정비사는 조금 고장 났다고 해서\n포기하면 안 되는 거야"
+  }, {
+    "$id" : 21,
+    "label" : "tq001603_msg0021",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『전장에 나가서 싸우는 것만이\n전부는 아니다』라는 거지"
+  }, {
+    "$id" : 22,
+    "label" : "tq001603_msg0022",
+    "talker" : "8",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 건틀렛은\n직접 만든 거야모?"
+  }, {
+    "$id" : 23,
+    "label" : "tq001603_msg0023",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거? 건강해진 기념으로\n스승님한테 받은 거야!"
+  }, {
+    "$id" : 24,
+    "label" : "tq001603_msg0024",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 25,
+    "label" : "tq001603_msg0025",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "궁금해? 좀 더 살펴볼래?"
+  }, {
+    "$id" : 26,
+    "label" : "tq001603_msg0026",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "별로 안 궁금해모"
+  }, {
+    "$id" : 27,
+    "label" : "tq001603_msg0027",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부끄러워하지 않아도 되는데"
+  }, {
+    "$id" : 28,
+    "label" : "tq001603_msg0028",
+    "talker" : "8",
+    "talkattr" : 33040,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부끄러워한 적 없어모!"
+  }, {
+    "$id" : 29,
+    "label" : "tq001603_msg0029",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무튼 루디는\n그 스승님이란 녀석이 좋은가 보네"
+  }, {
+    "$id" : 30,
+    "label" : "tq001603_msg0030",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 진짜 엄한 사람이긴 했지만\n나보다 몇 배는 더 대단한 정비사야!"
+  }, {
+    "$id" : 31,
+    "label" : "tq001603_msg0031",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 스승님이랑 리쿠 중에\n어느 쪽이 더 대단해요모?"
+  }, {
+    "$id" : 32,
+    "label" : "tq001603_msg0032",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음~ 어느 쪽이려나\n근데 선배의 눈썰미만큼은 대단한 거 같아"
+  }, {
+    "$id" : 33,
+    "label" : "tq001603_msg0033",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런저런 얘기를 나눠 보고 싶어"
+  }, {
+    "$id" : 34,
+    "label" : "tq001603_msg0034",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기술을 헐값에 팔 마음은 없어모"
+  }, {
+    "$id" : 35,
+    "label" : "tq001603_msg0035",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나! 기대된다!"
+  }, {
+    "$id" : 36,
+    "label" : "tq001603_msg0036",
+    "talker" : "8",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……리쿠가 하는 말, 들은 거 맞아모?"
+  } ]
+}

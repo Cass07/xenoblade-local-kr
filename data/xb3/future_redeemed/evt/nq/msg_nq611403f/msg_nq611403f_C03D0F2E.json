@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<29274919>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음…… 안 되겠어\n폭주의 영향으로 회로가 불타서 끊어졌어"
+  }, {
+    "$id" : 2,
+    "label" : "<EE73FCA9>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 다리도 파손됐네\n아마 구멍에 떨어지면서 그렇게 됐겠지……"
+  }, {
+    "$id" : 3,
+    "label" : "<230655E1>",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모못~!\n레브니스 망가진 거야모?!"
+  }, {
+    "$id" : 4,
+    "label" : "<A60AF1F3>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "망가진 건 맞는데……\n수리하면 다시 움직이긴 할 거야"
+  }, {
+    "$id" : 5,
+    "label" : "<D61E970D>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고칠 수 있겠어?"
+  }, {
+    "$id" : 6,
+    "label" : "<82AEB84C>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 부품이 있다면 말이지만……"
+  }, {
+    "$id" : 7,
+    "label" : "<90A3EE18>",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부탁할게모~~!\n이대로는 엄마한테……"
+  }, {
+    "$id" : 8,
+    "label" : "<6FE29284>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 알았어, 알았다고\n잠시만 기다려"
+  }, {
+    "$id" : 9,
+    "label" : "<0B68CCFC>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니콜, 미안하지만 수리해 줄래?"
+  }, {
+    "$id" : 10,
+    "label" : "<31BF89F2>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어, 해 볼게"
+  } ]
+}

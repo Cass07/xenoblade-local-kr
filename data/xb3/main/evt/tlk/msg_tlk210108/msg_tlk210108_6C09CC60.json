@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210108_msg0001",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "드디어 결전인가……\n어쩌면 이게 군무장 대리로서\n마지막으로 하는 일이 될지도 모르겠는걸"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210108_msg0002",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 혹시나 해서 말하는데 죽을 생각은 없어\n여기서 죽어 버렸다가는\n에셀 군무장님을 뵐 낯이 없거든!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk210108_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정할 거 없어\n너 같은 녀석은\n의외로 끈질기게 살아남더라고"
+  }, {
+    "$id" : 4,
+    "label" : "tlk210108_msg0004",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼!\n……아니, 그거 칭찬 맞아?"
+  } ]
+}

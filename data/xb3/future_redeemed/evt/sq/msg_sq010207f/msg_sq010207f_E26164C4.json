@@ -1,0 +1,160 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<D530729B>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 돌아왔어, 리쿠!"
+  }, {
+    "$id" : 2,
+    "label" : "<996F3391>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "필요한 물건은 다 찾았어모?"
+  }, {
+    "$id" : 3,
+    "label" : "<FBE188C2>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 0,
+    "name" : ""
+  }, {
+    "$id" : 4,
+    "label" : "<E1C20C15>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : ""
+  }, {
+    "$id" : 5,
+    "label" : "<A52B47BB>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 0,
+    "name" : ""
+  }, {
+    "$id" : 6,
+    "label" : "<99A1AF06>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 네가 주문한 라밤 광석과……\n네 해머야"
+  }, {
+    "$id" : 7,
+    "label" : "<1C00DAEB>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모못, 고마워모!\n이제 드디어 공방 마무리에\n들어갈 수 있겠어모"
+  }, {
+    "$id" : 8,
+    "label" : "<B6739628>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠시만 밖에서 기다려모\n금방 끝낼게모"
+  }, {
+    "$id" : 9,
+    "label" : "<49A310A1>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : "리쿠의 공방이 완성되었다\n무기를 강화할 수 있게 되었다"
+  }, {
+    "$id" : 10,
+    "label" : "<99A6B75E>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대단해……!"
+  }, {
+    "$id" : 11,
+    "label" : "<22FF3AF6>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 즉석으로 만들었는데도 훌륭한 공방이네\n……집주인에게는 미안하지만"
+  }, {
+    "$id" : 12,
+    "label" : "<0133B16E>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사용 가능한 건 뭐든 써야 해모\n그게 장인의 신조야모"
+  }, {
+    "$id" : 13,
+    "label" : "<07B421EC>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쨌든 이제 우리 무기를\n더 강하게 만들 수 있다는 거지?"
+  }, {
+    "$id" : 14,
+    "label" : "<87284B71>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연하지모\n궁금하면 시험해 볼래모?\n처음 1번은 서비스로 해 줄게모"
+  }, {
+    "$id" : 15,
+    "label" : "<2DCD96EE>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 센스 있는데?\n그럼 하나 부탁할게"
+  } ]
+}

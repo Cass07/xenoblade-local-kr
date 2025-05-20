@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk611704_msg0001",
+    "talker" : "Zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "웰웰이 운영하는 상점에서\n잠깐 책을 읽고 왔는데……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk611704_msg0002",
+    "talker" : "Zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"시조행록\" 최신간이 너무 굉장해서……\n감동의 눈물이 멈추질 않아~!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk611704_msg0003",
+    "talker" : "Zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "속편을 읽을 날이 오다니~!\n감격했어!! 살아 있어서 다행이야!!"
+  } ]
+}

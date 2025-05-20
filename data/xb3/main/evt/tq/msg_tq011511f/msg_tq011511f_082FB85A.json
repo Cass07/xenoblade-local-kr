@@ -1,0 +1,358 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011511_msg0001",
+    "talker" : "mX1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아야야……"
+  }, {
+    "$id" : 2,
+    "label" : "tq011511_msg0002",
+    "talker" : "mX1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장님, 좀 더 살살……"
+  }, {
+    "$id" : 3,
+    "label" : "tq011511_msg0003",
+    "talker" : "I",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나한테 섬세한 치료를 바라지 마라\n이래 봬도 노력하는 중이다"
+  }, {
+    "$id" : 4,
+    "label" : "tq011511_msg0004",
+    "talker" : "G",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도와주마"
+  }, {
+    "$id" : 5,
+    "label" : "tq011511_msg0005",
+    "talker" : "I",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안하군, 고마……"
+  }, {
+    "$id" : 6,
+    "label" : "tq011511_msg0006",
+    "talker" : "I",
+    "talkattr" : 33105,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……?! 당신은……"
+  }, {
+    "$id" : 7,
+    "label" : "tq011511_msg0007",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이거면 되겠지"
+  }, {
+    "$id" : 8,
+    "label" : "tq011511_msg0008",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그대, 움직일 수 있겠느냐?"
+  }, {
+    "$id" : 9,
+    "label" : "tq011511_msg0009",
+    "talker" : "mX1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 네!\n이제 괜찮습니다……!"
+  }, {
+    "$id" : 10,
+    "label" : "tq011511_msg0010",
+    "talker" : "I",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "멜리아 여왕님……!\n일부러 이런 곳까지 행차하신 겁니까"
+  }, {
+    "$id" : 11,
+    "label" : "tq011511_msg0011",
+    "talker" : "G",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "백성이 궁지에 빠졌을 때 나서지 않으면\n왕이 있다 한들 무슨 소용이겠느냐"
+  }, {
+    "$id" : 12,
+    "label" : "tq011511_msg0012",
+    "talker" : "G",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "늦어져서 미안하구나, 제온\n상황을 알려 주겠느냐?"
+  }, {
+    "$id" : 13,
+    "label" : "tq011511_msg0013",
+    "talker" : "uX1",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……있잖아, 저 사람 여왕님 아니야?"
+  }, {
+    "$id" : 14,
+    "label" : "tq011511_msg0014",
+    "talker" : "vX1",
+    "talkattr" : 33105,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 진짜?!"
+  }, {
+    "$id" : 15,
+    "label" : "tq011511_msg0015",
+    "talker" : "I",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……담당 장소로 돌아가"
+  }, {
+    "$id" : 16,
+    "label" : "tq011511_msg0016",
+    "talker" : "I",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……실례했습니다"
+  }, {
+    "$id" : 17,
+    "label" : "tq011511_msg0017",
+    "talker" : "I",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오리진으로부터 받은 공격 때문에\n알페토 계곡 입구 부근에서\n낙석이 발생하여……"
+  }, {
+    "$id" : 18,
+    "label" : "tq011511_msg0018",
+    "talker" : "I",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "현재 부상자 치료와\n현지 조사를 진행하고 있습니다"
+  }, {
+    "$id" : 19,
+    "label" : "tq011511_msg0019",
+    "talker" : "I",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다만 조사대와 연락이\n끊겨 버린 탓에……"
+  }, {
+    "$id" : 20,
+    "label" : "tq011511_msg0020",
+    "talker" : "mX1",
+    "talkattr" : 33144,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방금 무슨 커다란 소리도 들렸어요!\n또 낙석이 발생했을지도 몰라요……!"
+  }, {
+    "$id" : 21,
+    "label" : "tq011511_msg0021",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 뒷일은 우리에게 맡기거라"
+  }, {
+    "$id" : 22,
+    "label" : "tq011511_msg0022",
+    "talker" : "G",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유니, 그쪽은 어떻지?"
+  }, {
+    "$id" : 23,
+    "label" : "tq011511_msg0023",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상처가 깊은 녀석은 다 치료했어\n나머진 돌아온 뒤에 해도 늦지 않아"
+  }, {
+    "$id" : 24,
+    "label" : "tq011511_msg0037",
+    "talker" : "wX1",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜? 우리 한동안 이러고 있어야 해?"
+  }, {
+    "$id" : 25,
+    "label" : "tq011511_msg0024",
+    "talker" : "3",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그만큼 기운이 있으면 괜찮아\n금방 돌아올 거라고"
+  }, {
+    "$id" : 26,
+    "label" : "tq011511_msg0025",
+    "talker" : "G",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……괜한 걱정이었군"
+  }, {
+    "$id" : 27,
+    "label" : "tq011511_msg0026",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조사대는 몇 명이야?"
+  }, {
+    "$id" : 28,
+    "label" : "tq011511_msg0027",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "3명이다. 그중 1명은\n레브니스를 조종하고 있지"
+  }, {
+    "$id" : 29,
+    "label" : "tq011511_msg0028",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……\"눈동자\"로 낙석 장소를 보냈다\n그 주변을 살펴봐 줘"
+  }, {
+    "$id" : 30,
+    "label" : "tq011511_msg0029",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어"
+  }, {
+    "$id" : 31,
+    "label" : "tq011511_msg0030",
+    "talker" : "mX1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기, 혹시 아니타를……\n여성 조사원을 발견하면, 그……"
+  }, {
+    "$id" : 32,
+    "label" : "tq011511_msg0031",
+    "talker" : "mX1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "비…… 빌려 간 건\n제대로 돌려주라고 전해 주세요!"
+  }, {
+    "$id" : 33,
+    "label" : "tq011511_msg0032",
+    "talker" : "mX1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "돌려주러 올 때까지\n계속 기다릴 거라고……"
+  }, {
+    "$id" : 34,
+    "label" : "tq011511_msg0033",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……반드시 전하마"
+  }, {
+    "$id" : 35,
+    "label" : "tq011511_msg0034",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들, 힘든 일을 겪게 해서 미안하다\n조금만 더 참아 다오"
+  }, {
+    "$id" : 36,
+    "label" : "tq011511_msg0035",
+    "talker" : "uX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여왕님이시야말로\n부디 옥체에 큰일 없으시기를……!"
+  }, {
+    "$id" : 37,
+    "label" : "tq011511_msg0036",
+    "talker" : "vX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동료들을 잘 부탁드립니다!"
+  } ]
+}

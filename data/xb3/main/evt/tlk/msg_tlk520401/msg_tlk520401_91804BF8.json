@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520401_msg0001",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집정관은 나쁜 사람들이군요~\n막 그렇게 와닿지는 않지만……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520401_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "넌 다른 애들보다\n침착하네……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520401_msg0003",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그도 그럴게 니코는 앞으로 먹을 식사를\n어떻게 할지가 더 걱정되거든요~"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520401_msg0004",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 기억이 사라져 버린 거나\n그 외에도 이것저것 걱정하고 있지만\n생각이 안 나는 걸 애써 봐야 소용없고 하니"
+  }, {
+    "$id" : 5,
+    "label" : "tlk520401_msg0005",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고민해도 달라질 게 없는 일은\n굳이 고민하지 않기로 했어요~"
+  } ]
+}

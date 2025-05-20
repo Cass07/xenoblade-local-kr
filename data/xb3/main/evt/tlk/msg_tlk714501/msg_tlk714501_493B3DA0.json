@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk714501_msg0001",
+    "talker" : "Wm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "할아버지랑 할머니는\n책을 자주 읽어 줘"
+  }, {
+    "$id" : 2,
+    "label" : "tlk714501_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "할아버지랑 할머니라면……\n저 쭈글쭈글한 사람들?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk714501_msg0003",
+    "talker" : "Wm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아"
+  }, {
+    "$id" : 4,
+    "label" : "tlk714501_msg0004",
+    "talker" : "Wm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아빠의 아빠와 아빠의 엄마\n엄마의 아빠와 엄마의 엄마를\n말하는 거야"
+  }, {
+    "$id" : 5,
+    "label" : "tlk714501_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 소리인지 전혀 모르겠어……"
+  } ]
+}

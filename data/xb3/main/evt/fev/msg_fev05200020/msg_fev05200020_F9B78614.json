@@ -1,0 +1,493 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<CD949AE8>",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모, 기다리고 있었다모!\n배 준비가 다 됐어모"
+  }, {
+    "$id" : 2,
+    "label" : "<474260B0>",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들, 부탁한다\n수용소에서 곤도를 탈출시켜 줘"
+  }, {
+    "$id" : 3,
+    "label" : "<DB8A279B>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부탁한다니……\n모니카는 안 가는 거야?"
+  }, {
+    "$id" : 4,
+    "label" : "<FF88E10A>",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 중간까지는 동행하겠지만\n수용소 잠입 작전은\n너희에게 맡기고 싶어"
+  }, {
+    "$id" : 5,
+    "label" : "<A3423AE7>",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로스트 넘버즈가 현재 맡은 임무는\n이게 다가 아니라서 말이야"
+  }, {
+    "$id" : 6,
+    "label" : "<177F0C50>",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희만으로도 충분히\n마칠 수 있는 작전이라고 생각하지만……\n그래도 내 힘이 필요하다면 동행할게"
+  }, {
+    "$id" : 7,
+    "label" : "<56810F29>",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 중간까지는 동행하겠지만\n잠입 작전은 너희에게 맡기고 싶어"
+  }, {
+    "$id" : 8,
+    "label" : "<DA119389>",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로스트 넘버즈가 현재 맡은 임무는\n이게 다가 아니라서 말이야"
+  }, {
+    "$id" : 9,
+    "label" : "<FE05276A>",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠입 작전 중의 지시는\n잰슨에게 맡길게"
+  }, {
+    "$id" : 10,
+    "label" : "<E0227661>",
+    "talker" : "vl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다"
+  }, {
+    "$id" : 11,
+    "label" : "<2905B235>",
+    "talker" : "vl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부디 발목 잡지만 말라고\n\"우로보로스\""
+  }, {
+    "$id" : 12,
+    "label" : "<2BD9F582>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희야말로"
+  }, {
+    "$id" : 13,
+    "label" : "<C06B82A3>",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "새먼, 항로를 말해 줘"
+  }, {
+    "$id" : 14,
+    "label" : "<2DD212DD>",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모"
+  }, {
+    "$id" : 15,
+    "label" : "<0D50BB66>",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엣헴모!"
+  }, {
+    "$id" : 16,
+    "label" : "<095F34D9>",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전에도 말했다시피\n이 바운더리를 타고 엘티아해를 건너\n캐슬 바로 밑에 있는 수용소로 갈 거야모"
+  }, {
+    "$id" : 17,
+    "label" : "<9EE3B44B>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "검은 안개에 숨어들어 가는 작전이었지?"
+  }, {
+    "$id" : 18,
+    "label" : "<BDB5E5AB>",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모! 하지만\n여기서부터가 중요해모"
+  }, {
+    "$id" : 19,
+    "label" : "<8F10AAB6>",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무사히 도착했다고 해도\n섬은 절벽으로 빙~ 둘러져 있어모"
+  }, {
+    "$id" : 20,
+    "label" : "<0E2FF113>",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바운더리는 수상 전용……\n이다음부터는 자력으로\n어떻게든 해야 해모"
+  }, {
+    "$id" : 21,
+    "label" : "<E775C11E>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼, 우리는 들키지 않도록\n열심히 절벽을 타면 되는 거야?"
+  }, {
+    "$id" : 22,
+    "label" : "<F16F0252>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "열심히 하는 것만으로\n오를 수 있다면 좋겠지만……"
+  }, {
+    "$id" : 23,
+    "label" : "<36E3CE74>",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 무리겠지"
+  }, {
+    "$id" : 24,
+    "label" : "<F6D55CD9>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수용소는 아그누스 캐슬에 있어서\n경비는 어지간한 콜로니보다 삼엄할 테니……"
+  }, {
+    "$id" : 25,
+    "label" : "<D13BED4D>",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 점이 걸리니까"
+  }, {
+    "$id" : 26,
+    "label" : "<29AA9F3D>",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수용소에 가기 전에\n여기보다 좀 더 가까운 비닝섬에\n잠복시켜 둔 병사를 만나러 가는 거지"
+  }, {
+    "$id" : 27,
+    "label" : "<43D3C18E>",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수용소에 가기 전에\n여기보다 좀 더 가까운 비닝섬에\n잠복시켜 둔 병사를 만나 봐"
+  }, {
+    "$id" : 28,
+    "label" : "<D1C37ACF>",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이름은 \"키사메\"\n그녀는 유일하게 희망의 언덕에서\n탈출에 성공한 병사야"
+  }, {
+    "$id" : 29,
+    "label" : "<BA6589BB>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "탈출한 이야기를 들어 보면\n잠입할 수단을 찾는 데\n도움이 될지도 모른다 그거로군"
+  }, {
+    "$id" : 30,
+    "label" : "<B06F6053>",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "비닝섬은 항로 선상에 있으니\n통신 장애에 시달리는 것보다는\n직접 만나서 얘기하는 게 빠를 거야"
+  }, {
+    "$id" : 31,
+    "label" : "<D972D191>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇겠네"
+  }, {
+    "$id" : 32,
+    "label" : "<0E3FA675>",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 슬슬 출발하자"
+  }, {
+    "$id" : 33,
+    "label" : "<4FA359BA>",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 이야기는 끝이야\n출발할 준비를 마쳐 줘"
+  }, {
+    "$id" : 34,
+    "label" : "<A438C08D>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래"
+  }, {
+    "$id" : 35,
+    "label" : "<F00FEC8C>",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모\n건투를 빈다모"
+  }, {
+    "$id" : 36,
+    "label" : "<D1DFCC2B>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어라? 새먼 씨가\n조종하는 거 아니었어?"
+  }, {
+    "$id" : 37,
+    "label" : "<E1C1FC66>",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "새먼은 철야로 너덜너덜이야모\n더 이상 혹사시키지 말아 줘모"
+  }, {
+    "$id" : 38,
+    "label" : "<EF29D8FB>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 누가 조종을……?"
+  }, {
+    "$id" : 39,
+    "label" : "<E4BFE340>",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조종 방법은 너희들\n전원의 \"눈동자\"에 보내 놨어모\n하고 싶은 사람이 하면 돼모"
+  }, {
+    "$id" : 40,
+    "label" : "<A16D5F66>",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 바운더리를 부쉈다간\n절대로 용서하지 않을 줄 알아모"
+  }, {
+    "$id" : 41,
+    "label" : "<5748E40B>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 좀 힘들겠는데……"
+  }, {
+    "$id" : 42,
+    "label" : "<529327D7>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어쩔 수 없네모\n리쿠가 조종할게모"
+  }, {
+    "$id" : 43,
+    "label" : "<49EA4D39>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "할 수 있겠어?"
+  }, {
+    "$id" : 44,
+    "label" : "<75B805F0>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레브니스를 움직이는 것보다 쉬워모"
+  }, {
+    "$id" : 45,
+    "label" : "<6ED62E29>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠는 우리 콜로니에서\n정비를 담당했으니까"
+  }, {
+    "$id" : 46,
+    "label" : "<72855581>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 일에는 익숙할 테니\n나는 리쿠에게 맡겨도\n문제없을 거라고 보는데……"
+  }, {
+    "$id" : 47,
+    "label" : "<9EDD2DAA>",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부탁해도 되겠어?"
+  }, {
+    "$id" : 48,
+    "label" : "<5DD3A01D>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모\n발 뻗고 구경이나 해모"
+  }, {
+    "$id" : 49,
+    "label" : "<6AEA846C>",
+    "talker" : "vl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋을대로 해"
+  }, {
+    "$id" : 50,
+    "label" : "<FADB8FEA>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힘내세요모~"
+  }, {
+    "$id" : 51,
+    "label" : "<6DF5EA8F>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜 여왕님을 찾으려면\n수용소에 있는 곤도가 꼭 필요해……"
+  }, {
+    "$id" : 52,
+    "label" : "<4D1ACCEA>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "구출 작전, 반드시 성공시키자"
+  } ]
+}

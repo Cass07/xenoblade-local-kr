@@ -1,0 +1,232 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<29B40AC2>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오오, 왔다, 왔어!"
+  }, {
+    "$id" : 2,
+    "label" : "<CC336A72>",
+    "talker" : "up1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "됐어모!\n이제 드디어 위로 올라갈 수 있어모!"
+  }, {
+    "$id" : 3,
+    "label" : "<30F70CD7>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜 큰일 했네. 고마워"
+  }, {
+    "$id" : 4,
+    "label" : "<34F197C4>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네……\n도움이 되어서 다행이에요"
+  }, {
+    "$id" : 5,
+    "label" : "<20C2C406>",
+    "talker" : "up1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 고마워모!\n이제 다시 장사를 재개할 수 있어모!"
+  }, {
+    "$id" : 6,
+    "label" : "<CD8CD022>",
+    "talker" : "up1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시르시르, 꼭 보답하고 싶어모\n뭔가 필요한 물건 없어모?"
+  }, {
+    "$id" : 7,
+    "label" : "<8F3CE79C>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 마음은 고마운데\n갑자기 물어본들……"
+  }, {
+    "$id" : 8,
+    "label" : "<F358E769>",
+    "talker" : "up1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 이런 건 어때모?"
+  }, {
+    "$id" : 9,
+    "label" : "<DE3538EB>",
+    "talker" : "up1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰 카라반의 인기 상품\n두근두근 캠프 세트야모!"
+  }, {
+    "$id" : 10,
+    "label" : "<531FD0E3>",
+    "talker" : "up1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노숙할 일이 많은 여행자들도\n이거만 있으면 쾌적하게 지낼 수 있어모!"
+  }, {
+    "$id" : 11,
+    "label" : "<68DD9EB7>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오호, 그거 좋네……\n확실히 이런 물건이 있으면 편하지"
+  }, {
+    "$id" : 12,
+    "label" : "<E257ECC2>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말로 받아도 될까?"
+  }, {
+    "$id" : 13,
+    "label" : "<09A3FCC8>",
+    "talker" : "up1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시르시르도 카라반이라고모\n빚을 진 채로 떠나 버리면\n예의가 아니지모"
+  }, {
+    "$id" : 14,
+    "label" : "<BB0F69F9>",
+    "talker" : "up1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "딱히 재고 처분할 생각으로\n떠넘기는 건 아냐모\n그러니 안심해도 돼모"
+  }, {
+    "$id" : 15,
+    "label" : "<D0875B60>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……과연"
+  }, {
+    "$id" : 16,
+    "label" : "<1AAA45BA>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 아무렴 어때\n어쨌든 고맙게 쓸게"
+  }, {
+    "$id" : 17,
+    "label" : "<063C0CAC>",
+    "talker" : "up1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시르시르는 당분간\n\"승강기 앞 휴식지\"에서 장사할 거야모"
+  }, {
+    "$id" : 18,
+    "label" : "<B907D6CB>",
+    "talker" : "up1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가끔 와서 뭐라도 사 주면\n시르시르는 더 기쁠 거야모~"
+  }, {
+    "$id" : 19,
+    "label" : "<F74053B9>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 기회가 되면 그럴게"
+  }, {
+    "$id" : 20,
+    "label" : "<13BB2F24>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 우리도 위쪽으로 가자"
+  }, {
+    "$id" : 21,
+    "label" : "<EE5BAC5A>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시간이 지체된 만큼\n그녀와의 거리도 벌어졌을 거야\n서두를 필요가 있어"
+  }, {
+    "$id" : 22,
+    "label" : "<4806EB95>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네……"
+  }, {
+    "$id" : 23,
+    "label" : "<A96B7D8E>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : ""
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002000_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "있잖아, 정말 이 길이 맞는 거지?"
+  }, {
+    "$id" : 2,
+    "label" : "tq002000_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "응……\n길은 있는 거 같은데"
+  }, {
+    "$id" : 3,
+    "label" : "tq002000_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "여길 빠져나가려면 골치 아프겠어"
+  }, {
+    "$id" : 4,
+    "label" : "tq002000_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……하지만 여기서 머뭇거릴 시간이 없어"
+  }, {
+    "$id" : 5,
+    "label" : "tq002000_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "어차피 다른 길도 없잖아?\n자, 서둘러서 가자"
+  } ]
+}

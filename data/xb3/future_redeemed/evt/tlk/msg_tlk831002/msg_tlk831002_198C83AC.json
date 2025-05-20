@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831002_msg0001",
+    "talker" : "qq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어째서 예기치 못한\n동작이 일어나는 거지……\n으음…… 원인이 뭘까……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831002_msg0002",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어쩌면 적과 아군의 식별 패턴에\n문제가 있는 걸지도 몰라"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831002_msg0003",
+    "talker" : "qq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네……?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831002_msg0004",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까…… 실제로 싸워 봤을 때\n타깃이 우리가 아니라\n\"자기 자신\"으로 되어 있는 경우가 있었거든……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk831002_msg0005",
+    "talker" : "qq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그렇구나……!\n고마워요, 도움이 됐어요!"
+  }, {
+    "$id" : 6,
+    "label" : "tlk831002_msg0006",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 그래……\n도움이 됐다니 다행이네"
+  } ]
+}

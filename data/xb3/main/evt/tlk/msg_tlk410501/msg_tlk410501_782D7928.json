@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk410501_msg0001",
+    "talker" : "je1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 너희한테서……\n평범하지 않은 냄새가 나……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk410501_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?!\n혹시 땀내 나 지금……?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk410501_msg0003",
+    "talker" : "je1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그보다 더 자극적이고\n복잡하게 얽힌 향기……\n이렇게 말하면 알겠어?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk410501_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……??"
+  } ]
+}

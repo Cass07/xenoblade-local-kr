@@ -1,0 +1,241 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq010202_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직 쓸 수 있을 거 같으니 가져가자"
+  }, {
+    "$id" : 2,
+    "label" : "nq010202_msg0101",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오! 이건 아직 쓸 만해 보이네"
+  }, {
+    "$id" : 3,
+    "label" : "nq010202_msg0201",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아주 멀쩡하잖아~ 가져가야지"
+  }, {
+    "$id" : 4,
+    "label" : "nq010202_msg0301",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 아직 충분히 쓸 수 있겠어"
+  }, {
+    "$id" : 5,
+    "label" : "nq010202_msg0401",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기능에 문제는 없어 보이는군"
+  }, {
+    "$id" : 6,
+    "label" : "nq010202_msg0501",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "찾았다! 이건 아직 쓸 수 있을 거 같아"
+  }, {
+    "$id" : 7,
+    "label" : "nq010202_msg3001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안해, 콜로니 9을 위해서 잘 쓸게"
+  }, {
+    "$id" : 8,
+    "label" : "nq010202_msg3101",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동료를 위해 받아 가는 거야"
+  }, {
+    "$id" : 9,
+    "label" : "nq010202_msg3201",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이거 받아 갈게"
+  }, {
+    "$id" : 10,
+    "label" : "nq010202_msg3301",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "살아 있는 사람들을 위해 쓰도록 할게"
+  }, {
+    "$id" : 11,
+    "label" : "nq010202_msg3401",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기왕 받아 가는 거니까\n유용하게 쓸게"
+  }, {
+    "$id" : 12,
+    "label" : "nq010202_msg3501",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안해요\n당신 물건을 받아 갈게요"
+  }, {
+    "$id" : 13,
+    "label" : "nq010202_msg4001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전투 식량이네\n이건 아직 먹을 수 있겠어!"
+  }, {
+    "$id" : 14,
+    "label" : "nq010202_msg4101",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 전투 식량은 상태가 꽤 좋은데!\n좋았어, 가져가자!"
+  }, {
+    "$id" : 15,
+    "label" : "nq010202_msg4201",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오! 이거라면\n먹을 수 있겠는데?"
+  }, {
+    "$id" : 16,
+    "label" : "nq010202_msg4301",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "포장은…… 괜찮네\n아직 먹을 수 있겠어"
+  }, {
+    "$id" : 17,
+    "label" : "nq010202_msg4401",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상하진 않은 거 같으니\n이건 가져가야겠군"
+  }, {
+    "$id" : 18,
+    "label" : "nq010202_msg4501",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗……! 이거 아직\n먹을 수 있을 것 같아!"
+  }, {
+    "$id" : 19,
+    "label" : "nq010202_msg1001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋았어, 이 정도 모으면 충분하겠지"
+  }, {
+    "$id" : 20,
+    "label" : "nq010202_msg1101",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 정도 모으면 충분하려나?"
+  }, {
+    "$id" : 21,
+    "label" : "nq010202_msg1201",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 이 정도면 됐겠지"
+  }, {
+    "$id" : 22,
+    "label" : "nq010202_msg1301",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 충분히 모은 거 같네"
+  }, {
+    "$id" : 23,
+    "label" : "nq010202_msg1401",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "더 모으면 운반하기 힘들겠군"
+  }, {
+    "$id" : 24,
+    "label" : "nq010202_msg1501",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한가득 모았어!"
+  } ]
+}

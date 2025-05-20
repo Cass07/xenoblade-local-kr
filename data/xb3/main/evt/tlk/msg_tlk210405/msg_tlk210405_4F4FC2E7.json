@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210405_msg0001",
+    "talker" : "uZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……라슬로한테\n제레미 얘기 들었어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210405_msg0002",
+    "talker" : "uZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요르데를 다치게 한 건 용서 못 할 짓이야\n솔직히 한 방 먹여 줘야\n내 기분이 풀릴 거 같은데……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk210405_msg0003",
+    "talker" : "uZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 그 녀석이 고립돼서\n불안했던 거라고 생각하면 참……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk210405_msg0004",
+    "talker" : "uZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "같은 전술반으로서\n그 녀석 얘기를 좀 더\n들어 줄 걸 그랬나 싶더라고……"
+  } ]
+}

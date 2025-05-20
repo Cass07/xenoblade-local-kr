@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk320304_msg0001",
+    "talker" : "Xd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "롱아샘의 물이\n그냥 평범한 물이었다고?!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk320304_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응…… 그런 것 같아"
+  }, {
+    "$id" : 3,
+    "label" : "tlk320304_msg0003",
+    "talker" : "Xd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이럴 수가…… 그 먼 거리를 다닌 게\n모두 헛수고였다니……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk320304_msg0004",
+    "talker" : "Xd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "심지어 동료가 다치기도 했어\n모두 그 힘이 샘솟는 물 때문이었는데……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk320304_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제부터 잘하면 되지 뭘\n근처에서도 같은 물을 퍼 올 수 있으니깐"
+  } ]
+}

@@ -1,0 +1,160 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq991404_msg0001",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기가 종착점인가 보군\n운이 다했다고 해야 하나?"
+  }, {
+    "$id" : 2,
+    "label" : "nq991404_msg0002",
+    "talker" : "cf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "히이익! 부, 부탁이야! 살려 줘!\n목숨만은 제발……"
+  }, {
+    "$id" : 3,
+    "label" : "nq991404_msg0003",
+    "talker" : "cf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이럴 줄 알았나?"
+  }, {
+    "$id" : 4,
+    "label" : "nq991404_msg0004",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음……?!"
+  }, {
+    "$id" : 5,
+    "label" : "nq991404_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으악?! 뭐, 뭐야!"
+  }, {
+    "$id" : 6,
+    "label" : "nq991404_msg0006",
+    "talker" : "cf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하! 보기 좋게 걸렸군!\n이래서 단순 무식한 녀석들은\n다루기 쉽다니까"
+  }, {
+    "$id" : 7,
+    "label" : "nq991404_msg0007",
+    "talker" : "cf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스스로 강자라고 떠드는 놈일수록\n약자한테 잘 덤벼들지…… 내 분석이 맞았어!"
+  }, {
+    "$id" : 8,
+    "label" : "nq991404_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬군…… 꼴사납게 도주한 건\n함정으로 유도하기 위한 연기였나"
+  }, {
+    "$id" : 9,
+    "label" : "nq991404_msg0009",
+    "talker" : "cf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흥, 너희에게 고통을 주기 위해서라면\n체면도 얼마든지 구길 수 있다"
+  }, {
+    "$id" : 10,
+    "label" : "nq991404_msg0010",
+    "talker" : "cf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희만 없었다면……\n내가 케베스를 승리로 이끌어서\n여왕에게 영관을 받을 수 있었는데!"
+  }, {
+    "$id" : 11,
+    "label" : "nq991404_msg0011",
+    "talker" : "cf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "절대…… 절대로 용서할 수 없어!\n내 화려한 책략을 이용해\n너희들을 전부 몰살해 버리겠다!!"
+  }, {
+    "$id" : 12,
+    "label" : "nq991404_msg0012",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭔가 타이온 같은 녀석이네"
+  }, {
+    "$id" : 13,
+    "label" : "nq991404_msg0013",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐! 무례하잖아!\n방금 네가 한 말 취소해!"
+  }, {
+    "$id" : 14,
+    "label" : "nq991404_msg0014",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바보야! 싸움은 나중에 해!\n지금 꽤 위험한 상황이라는 거 잊었어?!"
+  }, {
+    "$id" : 15,
+    "label" : "nq991404_msg0015",
+    "talker" : "cf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "위기의식이 없는 녀석들이군!\n그 방심이 생사를 가른다는\n사실을 가르쳐 주마!"
+  } ]
+}

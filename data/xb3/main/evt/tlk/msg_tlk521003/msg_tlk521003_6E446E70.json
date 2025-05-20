@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk521003_msg0001",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "구구에게는 사람들이\n다 비슷하게 보여모\n그래서 냄새로 구분을 하는데모……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk521003_msg0002",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이치카 씨만은 냄새가 나지 않았어모\n너희는 알고 있었어모?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk521003_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무래도 냄새로\n식별하는 건 힘들지……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk521003_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그나저나 그걸 알고 있었으면\n좀 더 빨리 알려 주지 그랬냐?!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk521003_msg0005",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모못, 최근에는 쓸쓸한 냄새가 나더라고모!\n그래서 까먹어 버렸어모. 미안해모~"
+  } ]
+}

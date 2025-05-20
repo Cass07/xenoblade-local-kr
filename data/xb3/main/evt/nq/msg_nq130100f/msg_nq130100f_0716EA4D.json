@@ -1,0 +1,421 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<FDF2FC56>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 4의 물자 관련 일로\n궁금한 게 있는데……"
+  }, {
+    "$id" : 2,
+    "label" : "nq130100_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나\n너희는 왜 그들을 도와줬지……?"
+  }, {
+    "$id" : 3,
+    "label" : "nq130100_msg0003",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "질문이 이상하지 않아?"
+  }, {
+    "$id" : 4,
+    "label" : "nq130100_msg0004",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생명의 불시계에서 해방된 지금\n콜로니 4는 아군이야"
+  }, {
+    "$id" : 5,
+    "label" : "nq130100_msg0005",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동료를 돕는 데\n무슨 이유가 필요해?"
+  }, {
+    "$id" : 6,
+    "label" : "nq130100_msg0006",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 물자를 나눠 주는 점은 이해할 수 있어\n내가 말하고 싶은 건……"
+  }, {
+    "$id" : 7,
+    "label" : "nq130100_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스의 콜로니가 어떻게\n케베스에서 부족한 물자를\n\"정확하게\" 파악하고 있냐는 거지?"
+  }, {
+    "$id" : 8,
+    "label" : "nq130100_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 나도 신경 쓰였어"
+  }, {
+    "$id" : 9,
+    "label" : "nq130100_msg0009",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……후후, 역시 예리한걸"
+  }, {
+    "$id" : 10,
+    "label" : "nq130100_msg0010",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 최신 정보를 언제든\n손쉽게 얻을 수 있어"
+  }, {
+    "$id" : 11,
+    "label" : "nq130100_msg0011",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내통자를 심어 뒀다는\n말은 아니지……?"
+  }, {
+    "$id" : 12,
+    "label" : "nq130100_msg0012",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 위험한 짓은 안 해\n난 너희와 똑같은 일을 할 뿐이야"
+  }, {
+    "$id" : 13,
+    "label" : "nq130100_msg0013",
+    "talker" : "K",
+    "talkattr" : 51968,
+    "talkattr2" : 2113794,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 식으로 말이지……"
+  }, {
+    "$id" : 14,
+    "label" : "nq130100_msg0014",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!\n컬렉피디아 카드?!"
+  }, {
+    "$id" : 15,
+    "label" : "nq130100_msg0015",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "개발자는 나라고 말했잖아?"
+  }, {
+    "$id" : 16,
+    "label" : "nq130100_msg0016",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아군의 정보만\n열람할 수 있을 줄 알았어?"
+  }, {
+    "$id" : 17,
+    "label" : "nq130100_msg0017",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니, 이거……"
+  }, {
+    "$id" : 18,
+    "label" : "nq130100_msg0018",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스의 기밀을 누설해서\n케베스에서도 사용하게 한 거 아니야?"
+  }, {
+    "$id" : 19,
+    "label" : "nq130100_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아…… 그때는\n편리하다고만 생각했는데……"
+  }, {
+    "$id" : 20,
+    "label" : "nq130100_msg0020",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적의 상황을 살피기 위한 수단이었나……\n그렇게 사용하는 방법이 있었다니……"
+  }, {
+    "$id" : 21,
+    "label" : "nq130100_msg0021",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……중요한 건 그다음이야"
+  }, {
+    "$id" : 22,
+    "label" : "nq130100_msg0022",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 전쟁은 절묘한 균형을 유지하고 있다는 걸\n물자의 흐름을 파악하다가 눈치챘어"
+  }, {
+    "$id" : 23,
+    "label" : "nq130100_msg0023",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마치 결판이 나지 않기를 바라는 것 같았지"
+  }, {
+    "$id" : 24,
+    "label" : "nq130100_msg0024",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 다시 말해 전쟁 그 자체를\n뒤에서 조종하는 녀석이 있다는 거야……"
+  }, {
+    "$id" : 25,
+    "label" : "nq130100_msg0025",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『규칙이라는 건 그 자체로\n만든 자의 의도가 담겨 있다』……"
+  }, {
+    "$id" : 26,
+    "label" : "nq130100_msg0026",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나가 한 말은\n이런 뜻이었구나"
+  }, {
+    "$id" : 27,
+    "label" : "nq130100_msg0027",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거기까지 눈치챘는데\n용케 살아남았네……"
+  }, {
+    "$id" : 28,
+    "label" : "nq130100_msg0028",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "계속 모르는 척해야지 어쩌겠어?\n눈치채 봤자 달리 방법이 없잖아"
+  }, {
+    "$id" : 29,
+    "label" : "nq130100_msg0029",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러다 우로보로스가……\n세계의 \"적\"이 나타났지"
+  }, {
+    "$id" : 30,
+    "label" : "nq130100_msg0030",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적의 적은\n아군이 될 수 있다는 건가"
+  }, {
+    "$id" : 31,
+    "label" : "nq130100_msg0031",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이해해 줘서 기쁜걸"
+  }, {
+    "$id" : 32,
+    "label" : "nq130100_msg0032",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아군이라……\n말치레로 끝나지 않기를 바란다"
+  }, {
+    "$id" : 33,
+    "label" : "nq130100_msg0033",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여전히 쌀쌀맞네……\n그럼 이런 건 어떨까?"
+  }, {
+    "$id" : 34,
+    "label" : "nq130100_msg0034",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희를 저장고로 안내할게\n콜로니 요타의 심장과도 같은 곳이야"
+  }, {
+    "$id" : 35,
+    "label" : "nq130100_msg0035",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약 보급 물자가 필요하다면\n거길 자유롭게 사용해도 돼"
+  }, {
+    "$id" : 36,
+    "label" : "nq130100_msg0036",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어때?"
+  }, {
+    "$id" : 37,
+    "label" : "nq130100_msg0037",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물자 분배를 우리한테 맡기겠다고?"
+  }, {
+    "$id" : 38,
+    "label" : "nq130100_msg0038",
+    "talker" : "K",
+    "talkattr" : 41472,
+    "talkattr2" : 2113794,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정확히는 저장고를 관리 중인\n미카게와 얘기해 봐야겠지"
+  }, {
+    "$id" : 39,
+    "label" : "nq130100_msg0039",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마음은 고맙지만\n그건 왠지 미안하니까……"
+  }, {
+    "$id" : 40,
+    "label" : "nq130100_msg0040",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안해\n이미 연락했어"
+  }, {
+    "$id" : 41,
+    "label" : "nq130100_msg0041",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "벌써?!"
+  }, {
+    "$id" : 42,
+    "label" : "nq130100_msg0042",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시간은 한정되어 있으니까\n서두르는 게 좋잖아?"
+  }, {
+    "$id" : 43,
+    "label" : "nq130100_msg0043",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저장고는 조금 설명하기 어려운 곳에 있어\n우선 원환의 동굴로 가자"
+  }, {
+    "$id" : 44,
+    "label" : "nq130100_msg0044",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "입구에 있는 라이조한테 말하면\n더 안쪽으로 들어갈 수 있을 거야"
+  } ]
+}

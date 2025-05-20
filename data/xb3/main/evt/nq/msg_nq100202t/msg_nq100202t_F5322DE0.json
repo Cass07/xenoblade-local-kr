@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq100202_msg0001",
+    "talker" : "Xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타가네 선생님께 이미 전해 들었습니다모"
+  }, {
+    "$id" : 2,
+    "label" : "nq100202_msg0002",
+    "talker" : "Xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "공사다망하신 선생님을 대신해\n제1비서인 저 시쿠쿠가\n노폰 코인을 관리해 드리겠습니다모"
+  }, {
+    "$id" : 3,
+    "label" : "nq100202_msg0003",
+    "talker" : "Xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이미 아시는 대로 노폰 코인에는\n금색과 은색이 있습니다모"
+  }, {
+    "$id" : 4,
+    "label" : "nq100202_msg0004",
+    "talker" : "Xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상품에 해당하는 개수만큼 가져와 주시면\n교환해 드리겠습니다모"
+  }, {
+    "$id" : 5,
+    "label" : "nq100202_msg0005",
+    "talker" : "Xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 상품을 마련했으니\n준비가 다 되셨으면\n다시 시쿠쿠에게 말씀해 주십시오모"
+  } ]
+}

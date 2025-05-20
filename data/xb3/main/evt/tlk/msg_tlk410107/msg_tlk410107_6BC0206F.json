@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk410107_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기, 초렌\n옛날에 시그룬이랑 무슨 일 있었어?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk410107_msg0002",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가르쳐 줄 이유가 없다"
+  }, {
+    "$id" : 3,
+    "label" : "tlk410107_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가르쳐 주면 우리가\n한판 붙어 줄게!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk410107_msg0004",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……거절하지"
+  }, {
+    "$id" : 5,
+    "label" : "tlk410107_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜……?\n어지간히 말하기 싫은가 보네……"
+  } ]
+}

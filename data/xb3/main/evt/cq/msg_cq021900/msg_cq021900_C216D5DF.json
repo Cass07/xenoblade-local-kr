@@ -1,0 +1,628 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "cq021900_0001",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]공격 애드리브"
+  }, {
+    "$id" : 2,
+    "label" : "cq021900_0002",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]놀라는 애드리브"
+  }, {
+    "$id" : 3,
+    "label" : "cq021900_0003",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]놀라는 애드리브"
+  }, {
+    "$id" : 4,
+    "label" : "cq021900_0004",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]공격 애드리브"
+  }, {
+    "$id" : 5,
+    "label" : "cq021900_0005",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]공격 애드리브"
+  }, {
+    "$id" : 6,
+    "label" : "cq021900_0006",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]공격 애드리브"
+  }, {
+    "$id" : 7,
+    "label" : "cq021900_0007",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]공격 애드리브"
+  }, {
+    "$id" : 8,
+    "label" : "cq021900_0008",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]공격 애드리브"
+  }, {
+    "$id" : 9,
+    "label" : "cq021900_0010",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……!"
+  }, {
+    "$id" : 10,
+    "label" : "cq021900_0015",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]몬도 방어 애드리브"
+  }, {
+    "$id" : 11,
+    "label" : "cq021900_0020",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이, 이럴 수가……!"
+  }, {
+    "$id" : 12,
+    "label" : "cq021900_0030",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "(미야비……)"
+  }, {
+    "$id" : 13,
+    "label" : "cq021900_0040",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "(들려?)"
+  }, {
+    "$id" : 14,
+    "label" : "cq021900_0045",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "(나야, 미오!)"
+  }, {
+    "$id" : 15,
+    "label" : "cq021900_0050",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "(기억나?)"
+  }, {
+    "$id" : 16,
+    "label" : "cq021900_0055",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "(내게 처음 환송자의 본분을\n가르쳐 준 그날)"
+  }, {
+    "$id" : 17,
+    "label" : "cq021900_0060",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "(생명의 빛이 하늘 높이 떠오르던 그날)"
+  }, {
+    "$id" : 18,
+    "label" : "cq021900_0070",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "(난 그날 이후로 쭉 연주해 왔어)"
+  }, {
+    "$id" : 19,
+    "label" : "cq021900_0073",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "(너에게 넘겨받은)"
+  }, {
+    "$id" : 20,
+    "label" : "cq021900_0076",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "(이 선율을……)"
+  }, {
+    "$id" : 21,
+    "label" : "cq021900_0080",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "(미야비……)"
+  }, {
+    "$id" : 22,
+    "label" : "cq021900_0085",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "(내게 생명을 전해 준 사람……)"
+  }, {
+    "$id" : 23,
+    "label" : "cq021900_0090",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "(이번에는 내가 줄 차례야……)"
+  }, {
+    "$id" : 24,
+    "label" : "cq021900_0100",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "미오……"
+  }, {
+    "$id" : 25,
+    "label" : "cq021900_0105",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "도와줘……"
+  }, {
+    "$id" : 26,
+    "label" : "cq021900_0110",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "(조금만 참아, 미야비……)"
+  }, {
+    "$id" : 27,
+    "label" : "cq021900_0115",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "(지금 구해 줄게)"
+  }, {
+    "$id" : 28,
+    "label" : "cq021900_0120",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "노…… 노아……"
+  }, {
+    "$id" : 29,
+    "label" : "cq021900_0130",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "미오……"
+  }, {
+    "$id" : 30,
+    "label" : "cq021900_0140",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "미오……"
+  }, {
+    "$id" : 31,
+    "label" : "cq021900_0150",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "어, 어떻게 이런 일이……"
+  }, {
+    "$id" : 32,
+    "label" : "cq021900_0160",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "기억 같은 건"
+  }, {
+    "$id" : 33,
+    "label" : "cq021900_0165",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "전부 깨끗이 지워졌을 텐데……"
+  }, {
+    "$id" : 34,
+    "label" : "cq021900_0170",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "와이……"
+  }, {
+    "$id" : 35,
+    "label" : "cq021900_0180",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "환송자의 선율은\n그저 음표의 나열이 아니야"
+  }, {
+    "$id" : 36,
+    "label" : "cq021900_0190",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "연주하는 사람과"
+  }, {
+    "$id" : 37,
+    "label" : "cq021900_0195",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "연주를 듣는 사람의 마음을 구현한 거야"
+  }, {
+    "$id" : 38,
+    "label" : "cq021900_0200",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나는 미야비에게 이어받은 마음을 구현해서"
+  }, {
+    "$id" : 39,
+    "label" : "cq021900_0205",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "말을 걸었을 뿐이야!"
+  }, {
+    "$id" : 40,
+    "label" : "cq021900_0210",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "있을 수 없는 일입니다……"
+  }, {
+    "$id" : 41,
+    "label" : "cq021900_0215",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "제트의 이치를 거스르다니……"
+  }, {
+    "$id" : 42,
+    "label" : "cq021900_0220",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우로보로스에게 그만한 힘은 없을 텐데요"
+  }, {
+    "$id" : 43,
+    "label" : "cq021900_0230",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "종언의 검?!"
+  }, {
+    "$id" : 44,
+    "label" : "cq021900_0235",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그 검이 도와주기라도 했다는 말입니까?!"
+  }, {
+    "$id" : 45,
+    "label" : "cq021900_0250",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그렇다면……"
+  }, {
+    "$id" : 46,
+    "label" : "cq021900_0255",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "확인해 보는 수밖에 없겠군요!"
+  }, {
+    "$id" : 47,
+    "label" : "cq021900_0256",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]주춤하는 애드리브"
+  }, {
+    "$id" : 48,
+    "label" : "cq021900_0257",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]주춤하는 애드리브"
+  }, {
+    "$id" : 49,
+    "label" : "cq021900_0258",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]주춤하는 애드리브"
+  }, {
+    "$id" : 50,
+    "label" : "cq021900_0259",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]주춤하는 애드리브"
+  }, {
+    "$id" : 51,
+    "label" : "cq021900_0260",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]주춤하는 애드리브"
+  }, {
+    "$id" : 52,
+    "label" : "cq021900_0261",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]주춤하는 애드리브"
+  }, {
+    "$id" : 53,
+    "label" : "cq021900_0265",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뫼비우스가 변했어!"
+  }, {
+    "$id" : 54,
+    "label" : "cq021900_0270",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이번엔 저 녀석인가!"
+  }, {
+    "$id" : 55,
+    "label" : "cq021900_0280",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "케이라는 녀석보다 거대한데……"
+  }, {
+    "$id" : 56,
+    "label" : "cq021900_0290",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "무지막지하게 크네……"
+  }, {
+    "$id" : 57,
+    "label" : "cq021900_0300",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "노아! 미오!"
+  }, {
+    "$id" : 58,
+    "label" : "cq021900_0305",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "해치우자!"
+  }, {
+    "$id" : 59,
+    "label" : "cq021900_0310",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래!"
+  }, {
+    "$id" : 60,
+    "label" : "cq021900_0315",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "저 녀석을 쓰러뜨리고 이 콜로니를 해방하자!"
+  }, {
+    "$id" : 61,
+    "label" : "cq021900_0320",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "생명의 불시계에서 해방된 당신들에게"
+  }, {
+    "$id" : 62,
+    "label" : "cq021900_0325",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "제 뫼비우스의 힘은 의미가 없겠지요……"
+  }, {
+    "$id" : 63,
+    "label" : "cq021900_0330",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "따라서!"
+  }, {
+    "$id" : 64,
+    "label" : "cq021900_0340",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "제 마음, 이 육체의 온 힘을 쏟아서"
+  }, {
+    "$id" : 65,
+    "label" : "cq021900_0345",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "때려눕혀 드리겠습니다!"
+  }, {
+    "$id" : 66,
+    "label" : "cq021900_0350",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "자! 한번 덤벼 보시죠!"
+  }, {
+    "$id" : 67,
+    "label" : "cq021900_0355",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "투쟁의 서막입니다!!"
+  } ]
+}

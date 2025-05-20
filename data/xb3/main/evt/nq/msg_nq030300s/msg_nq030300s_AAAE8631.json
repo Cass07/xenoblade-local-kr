@@ -1,0 +1,124 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq030300_msg0001",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수용소 주변에 서식하는 몬스터가\n최근 들어 증가하는 추세를 보이고 있습니다"
+  }, {
+    "$id" : 2,
+    "label" : "nq030300_msg0002",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몬스터가? 갑자기 왜……"
+  }, {
+    "$id" : 3,
+    "label" : "nq030300_msg0003",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 원인으로는\n여러 요인이 있을 것으로 추측됩니다만……"
+  }, {
+    "$id" : 4,
+    "label" : "nq030300_msg0004",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몬스터를 퇴치하던 죄수들이 일제히 퇴거한 것이\n주된 원인이 아닐까 합니다"
+  }, {
+    "$id" : 5,
+    "label" : "nq030300_msg0005",
+    "talker" : "5",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으엑, 그 일 말인가……\n안 좋은 기억이 떠올랐어"
+  }, {
+    "$id" : 6,
+    "label" : "nq030300_msg0006",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금까지는 죄수들이\n정기적으로 몬스터를 퇴치했기 때문에\n개체 수가 억제된 것으로 보입니다"
+  }, {
+    "$id" : 7,
+    "label" : "nq030300_msg0007",
+    "talker" : "6",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오…… 그 작업도\n의미가 있는 일이었구나?"
+  }, {
+    "$id" : 8,
+    "label" : "nq030300_msg0008",
+    "talker" : "3",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 태평한 소리나 할 때야?\n꽤 위험한 상황이라고!"
+  }, {
+    "$id" : 9,
+    "label" : "nq030300_msg0009",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동의합니다"
+  }, {
+    "$id" : 10,
+    "label" : "nq030300_msg0010",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 0에서도 조만간\n소탕 작전을 진행할 예정입니다"
+  }, {
+    "$id" : 11,
+    "label" : "nq030300_msg0011",
+    "talker" : "6",
+    "talkattr" : 33056,
+    "talkattr2" : 58736769,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 우리도 도와줄게\n후다닥 퇴치해 버리자, 세주"
+  } ]
+}

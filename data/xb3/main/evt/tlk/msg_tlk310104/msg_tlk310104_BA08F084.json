@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk310104_msg0001",
+    "talker" : "nc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "코주를 도와준 건 너희들이지?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk310104_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 그게 최선이라고 판단했어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk310104_msg0003",
+    "talker" : "nc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거야 원…… 멋대로 그러면 곤란해\n콜로니 람다에는 규율이 있어"
+  }, {
+    "$id" : 4,
+    "label" : "tlk310104_msg0004",
+    "talker" : "nc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 규율을 지킴으로써\n콜로니 내부의 결속이 강화되지"
+  }, {
+    "$id" : 5,
+    "label" : "tlk310104_msg0005",
+    "talker" : "nc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "코주는 열의가 넘치는 만큼 감화되기 쉬우니\n독단적인 행위는 자중해 줬으면 좋겠어"
+  } ]
+}

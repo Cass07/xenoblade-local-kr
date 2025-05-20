@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq991403_msg0001",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무래도 녀석은\n여기를 통해 외벽으로 도망친 것 같군"
+  }, {
+    "$id" : 2,
+    "label" : "nq991403_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 앞은 분명……\n어나이얼레이터가 있는 장소였지?"
+  }, {
+    "$id" : 3,
+    "label" : "nq991403_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 지금은 아무것도 없으니까\n그냥 막다른 길일 텐데……"
+  }, {
+    "$id" : 4,
+    "label" : "nq991403_msg0004",
+    "talker" : "me1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하! 그게 정말이라면~\n기막히게 멍청한 녀석이군! 안 그래?!"
+  }, {
+    "$id" : 5,
+    "label" : "nq991403_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  } ]
+}

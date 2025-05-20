@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120705_msg0001",
+    "talker" : "cb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "친구 대포……!!\n정말 재밌어 보여요오"
+  }, {
+    "$id" : 2,
+    "label" : "nq120705_msg0002",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지?! 같이 만들자!"
+  }, {
+    "$id" : 3,
+    "label" : "nq120705_msg0003",
+    "talker" : "cb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "피이…… 하지만 스즈는 지금\n다른 연구 때문에 손을 뗄 수가 없어서요……"
+  }, {
+    "$id" : 4,
+    "label" : "nq120705_msg0004",
+    "talker" : "cb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아! 대신 이걸 줄게요!"
+  }, {
+    "$id" : 5,
+    "label" : "nq120705_msg0005",
+    "talker" : "cb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스즈 특제 전투 식량!\n그 이름은……"
+  }, {
+    "$id" : 6,
+    "label" : "nq120705_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디, 얼른 돌아가자!"
+  } ]
+}

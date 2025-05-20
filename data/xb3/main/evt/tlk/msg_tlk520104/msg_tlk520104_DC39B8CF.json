@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520104_msg0001",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부관은 정해지지 않았지만……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520104_msg0002",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마시로가 열심히 하겠다고\n마음먹었으니까\n나는 그걸 응원할 거야!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520104_msg0003",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스티커 모으기 자체는 반응 좋았잖아!\n응! 분명 잘할 수 있을 거야!"
+  } ]
+}

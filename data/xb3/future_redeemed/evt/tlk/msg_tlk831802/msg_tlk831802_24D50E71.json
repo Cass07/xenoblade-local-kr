@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831802_msg0001",
+    "talker" : "xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이요는 좋은 친구라서\n많은 걸 배우고 있어요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831802_msg0002",
+    "talker" : "xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한때는 서로 적이었다니\n지금은 도저히 믿기지 않네요……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831802_msg0003",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……다들 놀아나고 있는 거지\n뫼비우스 녀석들의 손바닥 위에서"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831802_msg0004",
+    "talker" : "xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그걸 깨달을 수 있었던 저는\n오히려 운이 좋았던 거군요"
+  }, {
+    "$id" : 5,
+    "label" : "tlk831802_msg0005",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  } ]
+}

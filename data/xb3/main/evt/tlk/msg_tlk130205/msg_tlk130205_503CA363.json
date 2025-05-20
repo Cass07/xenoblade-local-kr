@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk130205_msg0001",
+    "talker" : "nY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말…… 감사합니다\n9호와의 관계가 다시 회복된 건\n전부 여러분 덕분이에요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk130205_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워할 것 없어\n애초에 내가 꺼낸 이야기인걸"
+  }, {
+    "$id" : 3,
+    "label" : "tlk130205_msg0003",
+    "talker" : "nY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 9호도 사실\n여러분에게 감사하고 있을 거예요"
+  }, {
+    "$id" : 4,
+    "label" : "tlk130205_msg0004",
+    "talker" : "nY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명 지금도 너무 심한 말을 한 건 아닌지\n끙끙대고 있을 거예요…… 아마도요"
+  } ]
+}

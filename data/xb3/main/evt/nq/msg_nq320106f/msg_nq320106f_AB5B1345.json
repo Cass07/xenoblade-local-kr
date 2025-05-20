@@ -1,0 +1,412 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq320106_msg0001",
+    "talker" : "qf1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "휘두르는 힘이 약해졌어!\n자, 한 번 더!"
+  }, {
+    "$id" : 2,
+    "label" : "nq320106_msg0002",
+    "talker" : "wk1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응!"
+  }, {
+    "$id" : 3,
+    "label" : "nq320106_msg0003",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기서 뭐 하는 거야?"
+  }, {
+    "$id" : 4,
+    "label" : "nq320106_msg0004",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 너희구나"
+  }, {
+    "$id" : 5,
+    "label" : "nq320106_msg0005",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보면 알잖아?\n시노와 특훈하는 중이지"
+  }, {
+    "$id" : 6,
+    "label" : "nq320106_msg0006",
+    "talker" : "6",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 걱정할 필요 없었나 봐"
+  }, {
+    "$id" : 7,
+    "label" : "nq320106_msg0007",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그건 그래도\n저 자식, 이게 무슨 민폐야"
+  }, {
+    "$id" : 8,
+    "label" : "nq320106_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 굳이 시티 밖에서 특훈하는 거야?"
+  }, {
+    "$id" : 9,
+    "label" : "nq320106_msg0009",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 부탁했어\n아빠한테 특훈하는 걸\n비밀로 하고 싶었거든"
+  }, {
+    "$id" : 10,
+    "label" : "nq320106_msg0010",
+    "talker" : "qf1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "깜짝 놀라게 하려고 그랬대\n재밌을 것 같지 않냐!"
+  }, {
+    "$id" : 11,
+    "label" : "nq320106_msg0201",
+    "talker" : "3",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네 흉악한 생김새에 놀란 녀석이\n시노를 구해 달라면서 소란이었어"
+  }, {
+    "$id" : 12,
+    "label" : "nq320106_msg0202",
+    "talker" : "qf1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?! 시노가 위험해?!"
+  }, {
+    "$id" : 13,
+    "label" : "nq320106_msg0203",
+    "talker" : "6",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토르톤 너 때문에 착각했다는 뜻이잖아!"
+  }, {
+    "$id" : 14,
+    "label" : "nq320106_msg0204",
+    "talker" : "qf1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 뭘 했다고……"
+  }, {
+    "$id" : 15,
+    "label" : "nq320106_msg0205",
+    "talker" : "fk1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "움직이지 마라!!\n콜로니 15에서 온 남자!"
+  }, {
+    "$id" : 16,
+    "label" : "nq320106_msg0206",
+    "talker" : "qf1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나?"
+  }, {
+    "$id" : 17,
+    "label" : "nq320106_msg0207",
+    "talker" : "fk1",
+    "talkattr" : 33153,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "핫~하하하!\n꼬리를 드러냈군, 외지인 녀석!"
+  }, {
+    "$id" : 18,
+    "label" : "nq320106_msg0208",
+    "talker" : "fk1",
+    "talkattr" : 33153,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어린이를 유괴했다는 신고가 들어왔다!\n네 녀석을 연행하겠다! 각오해라!"
+  }, {
+    "$id" : 19,
+    "label" : "nq320106_msg0209",
+    "talker" : "qf1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 꼬리 같은 거 안 났어!!"
+  }, {
+    "$id" : 20,
+    "label" : "nq320106_msg0210",
+    "talker" : "4",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토르톤이 계속 말하게 뒀다간\n일이 더 복잡해지겠어……"
+  }, {
+    "$id" : 21,
+    "label" : "nq320106_msg0301",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떡할까?"
+  }, {
+    "$id" : 22,
+    "label" : "nq320106_msg0401",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토르톤을 넘긴다"
+  }, {
+    "$id" : 23,
+    "label" : "nq320106_msg0402",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토르톤을 감싼다"
+  }, {
+    "$id" : 24,
+    "label" : "nq320106_msg0501",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토르톤을 데려가려는 거면\n마음대로 데려가"
+  }, {
+    "$id" : 25,
+    "label" : "nq320106_msg0502",
+    "talker" : "wk1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?! 나쁜 짓도 안 했는데?!"
+  }, {
+    "$id" : 26,
+    "label" : "nq320106_msg0503",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안 했으니까 그래\n조사하면 무죄임을 바로 알 테니까"
+  }, {
+    "$id" : 27,
+    "label" : "nq320106_msg0504",
+    "talker" : "wk1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그치만……"
+  }, {
+    "$id" : 28,
+    "label" : "nq320106_msg0601",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 오해가 있었나 봐\n우리가 토르톤의 무죄를 증명할게"
+  }, {
+    "$id" : 29,
+    "label" : "nq320106_msg0602",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토르톤은 내 선생님이야\n아무 잘못도 없어!"
+  }, {
+    "$id" : 30,
+    "label" : "nq320106_msg0701",
+    "talker" : "fk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어이쿠, 애가 어른들 얘기하는 데\n끼어들면 못써"
+  }, {
+    "$id" : 31,
+    "label" : "nq320106_msg0702",
+    "talker" : "wk1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어린이든 어른이든\n상관없잖아!!"
+  }, {
+    "$id" : 32,
+    "label" : "nq320106_msg0703",
+    "talker" : "fk1",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 상관있어!!\n이 이상 참견하면……"
+  }, {
+    "$id" : 33,
+    "label" : "nq320106_msg0704",
+    "talker" : "qf1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시노를 괴롭히지 마!"
+  }, {
+    "$id" : 34,
+    "label" : "nq320106_msg0705",
+    "talker" : "qf1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "넌 그냥 내가 마음에 안 드는 거지?\n싸우고 싶으면 따라가 주마!"
+  }, {
+    "$id" : 35,
+    "label" : "nq320106_msg0706",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "친구한테 민폐를 끼칠 정도로\n꼴사나운 녀석이 될 생각은 없어"
+  }, {
+    "$id" : 36,
+    "label" : "nq320106_msg0707",
+    "talker" : "wk1",
+    "talkattr" : 33128,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토르톤……"
+  }, {
+    "$id" : 37,
+    "label" : "nq320106_msg0708",
+    "talker" : "wk1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 건 완전 불합리해!"
+  }, {
+    "$id" : 38,
+    "label" : "nq320106_msg0709",
+    "talker" : "wk1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아빠한테 전부 말할래\n토르톤을 구해 달라고 할 거야"
+  }, {
+    "$id" : 39,
+    "label" : "nq320106_msg0710",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "비밀인 거 아니었어?"
+  }, {
+    "$id" : 40,
+    "label" : "nq320106_msg0711",
+    "talker" : "wk1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"친구를 버리는 짓은\n꼴사나운 녀석이나 하는 짓이야\""
+  }, {
+    "$id" : 41,
+    "label" : "nq320106_msg0712",
+    "talker" : "wk1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지?"
+  }, {
+    "$id" : 42,
+    "label" : "nq320106_msg0801",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "히라치한테 가 보자"
+  }, {
+    "$id" : 43,
+    "label" : "nq320106_msg0802",
+    "talker" : "wk1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응!"
+  } ]
+}

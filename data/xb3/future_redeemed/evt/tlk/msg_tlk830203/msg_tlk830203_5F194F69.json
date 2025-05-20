@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830203_msg0001",
+    "talker" : "up1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 브로로가\n노폰 메달을 다 모았다는 게\n정말이야모?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830203_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "소식 빠르네……\n뭐, 사실이야"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830203_msg0003",
+    "talker" : "up1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "믿을 수 없어모……\n시르시르가 했을 때는\n좀 더 오래 걸렸었는데모……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830203_msg0004",
+    "talker" : "up1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "의외의 라이벌 출현이야모\n역시 그 \"실력자\"의 자식인가모……!"
+  } ]
+}

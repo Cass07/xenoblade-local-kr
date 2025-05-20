@@ -1,0 +1,463 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<9DAEB6C9>",
+    "style" : 11,
+    "name" : "선택"
+  }, {
+    "$id" : 2,
+    "label" : "<3189B7A5>",
+    "style" : 11,
+    "name" : "결정"
+  }, {
+    "$id" : 3,
+    "label" : "<CD0B72D8>",
+    "style" : 11,
+    "name" : "돌아가기"
+  }, {
+    "$id" : 4,
+    "label" : "<340F0735>",
+    "style" : 11,
+    "name" : "닫기"
+  }, {
+    "$id" : 5,
+    "label" : "<FBFFCCF0>",
+    "style" : 11,
+    "name" : "확인"
+  }, {
+    "$id" : 6,
+    "label" : "<1BCA3C07>",
+    "style" : 11,
+    "name" : "교체하기"
+  }, {
+    "$id" : 7,
+    "label" : "<8B85474B>",
+    "style" : 11,
+    "name" : ""
+  }, {
+    "$id" : 8,
+    "label" : "<DAC4FA17>",
+    "style" : 11,
+    "name" : "제거하기"
+  }, {
+    "$id" : 9,
+    "label" : "<8041544B>",
+    "style" : 11,
+    "name" : "빠른 저장"
+  }, {
+    "$id" : 10,
+    "label" : "<DB0A515B>",
+    "style" : 11,
+    "name" : "인터링크"
+  }, {
+    "$id" : 11,
+    "label" : "<721349C4>",
+    "style" : 11,
+    "name" : "인터링크 해제"
+  }, {
+    "$id" : 12,
+    "label" : "<C1470AF2>",
+    "style" : 11,
+    "name" : "스테이터스 상세"
+  }, {
+    "$id" : 13,
+    "label" : "<B109E185>",
+    "style" : 11,
+    "name" : "장비 상세"
+  }, {
+    "$id" : 14,
+    "label" : "<93694ECA>",
+    "style" : 11,
+    "name" : "클래스 상세"
+  }, {
+    "$id" : 15,
+    "label" : "<62E707DD>",
+    "style" : 11,
+    "name" : "노폰 코인 사용"
+  }, {
+    "$id" : 16,
+    "label" : "<0C94793D>",
+    "style" : 11,
+    "name" : "모델 회전"
+  }, {
+    "$id" : 17,
+    "label" : "<BD0CEEDD>",
+    "style" : 11,
+    "name" : "모델 표시 전환"
+  }, {
+    "$id" : 18,
+    "label" : "<0ADE53A5>",
+    "style" : 11,
+    "name" : "(길게 누르기) 습득"
+  }, {
+    "$id" : 19,
+    "label" : "<25DAADF3>",
+    "style" : 11,
+    "name" : "소울 링크"
+  }, {
+    "$id" : 20,
+    "label" : "<872DE4A6>",
+    "style" : 11,
+    "name" : "소울 핵 리스트"
+  }, {
+    "$id" : 21,
+    "label" : "<4311E795>",
+    "style" : 11,
+    "name" : ""
+  }, {
+    "$id" : 22,
+    "label" : "<ADCCEAC9>",
+    "style" : 11,
+    "name" : "줌"
+  }, {
+    "$id" : 23,
+    "label" : "<8C45D922>",
+    "style" : 11,
+    "name" : "모든 콜로니 정세 표시"
+  }, {
+    "$id" : 24,
+    "label" : "<87BAED02>",
+    "style" : 11,
+    "name" : "인연 맵"
+  }, {
+    "$id" : 25,
+    "label" : "<33292B17>",
+    "style" : 11,
+    "name" : "상세 표시"
+  }, {
+    "$id" : 26,
+    "label" : "<EB727E37>",
+    "style" : 11,
+    "name" : "원하는 물건 표시"
+  }, {
+    "$id" : 27,
+    "label" : "<5E39390E>",
+    "style" : 11,
+    "name" : "컬렉피디아 카드"
+  }, {
+    "$id" : 28,
+    "label" : "<12425C92>",
+    "style" : 11,
+    "name" : "취소"
+  }, {
+    "$id" : 29,
+    "label" : "<C208C5CD>",
+    "style" : 11,
+    "name" : "구매"
+  }, {
+    "$id" : 30,
+    "label" : "<1E09B361>",
+    "style" : 11,
+    "name" : "교환"
+  }, {
+    "$id" : 31,
+    "label" : "<B74B04B5>",
+    "style" : 11,
+    "name" : "판매"
+  }, {
+    "$id" : 32,
+    "label" : "<A130EC2E>",
+    "style" : 11,
+    "name" : "구매 후 장비하기"
+  }, {
+    "$id" : 33,
+    "label" : "<2DFC3350>",
+    "style" : 11,
+    "name" : "교환 후 장비하기"
+  }, {
+    "$id" : 34,
+    "label" : "<4F77B682>",
+    "style" : 11,
+    "name" : "배경 보기"
+  }, {
+    "$id" : 35,
+    "label" : "<65832885>",
+    "style" : 11,
+    "name" : "레벨 선택"
+  }, {
+    "$id" : 36,
+    "label" : "<0F008D08>",
+    "style" : 11,
+    "name" : "커서 스피드"
+  }, {
+    "$id" : 37,
+    "label" : "<37E3319C>",
+    "style" : 11,
+    "name" : "유저 마커"
+  }, {
+    "$id" : 38,
+    "label" : "<9AF37E0B>",
+    "style" : 11,
+    "name" : "(길게 누르기) 마커 삭제"
+  }, {
+    "$id" : 39,
+    "label" : "<29BD503C>",
+    "style" : 11,
+    "name" : "리스트 검색"
+  }, {
+    "$id" : 40,
+    "label" : "<835726F3>",
+    "style" : 11,
+    "name" : "즐겨찾기"
+  }, {
+    "$id" : 41,
+    "label" : "<5A8DF954>",
+    "style" : 11,
+    "name" : "갱신 필터"
+  }, {
+    "$id" : 42,
+    "label" : "<6576EF3D>",
+    "style" : 11,
+    "name" : "전부 확인 완료"
+  }, {
+    "$id" : 43,
+    "label" : "<69CB7F2A>",
+    "style" : 11,
+    "name" : "식사 효과 리스트"
+  }, {
+    "$id" : 44,
+    "label" : "<A8C725C9>",
+    "style" : 11,
+    "name" : "조작 가이드"
+  }, {
+    "$id" : 45,
+    "label" : "<C2B170B3>",
+    "style" : 11,
+    "name" : "재생"
+  }, {
+    "$id" : 46,
+    "label" : "<FB3F9C4B>",
+    "style" : 11,
+    "name" : "커스텀 설정"
+  }, {
+    "$id" : 47,
+    "label" : "<A2EB28C5>",
+    "style" : 11,
+    "name" : "타이틀 리스트"
+  }, {
+    "$id" : 48,
+    "label" : "<7F8AEEF2>",
+    "style" : 11,
+    "name" : "무작위 선택"
+  }, {
+    "$id" : 49,
+    "label" : "<E141174C>",
+    "style" : 0,
+    "name" : "[ML:space ]"
+  }, {
+    "$id" : 50,
+    "label" : "<B4CFA472>",
+    "style" : 9,
+    "name" : "왼쪽 돌리기"
+  }, {
+    "$id" : 51,
+    "label" : "<385905E0>",
+    "style" : 9,
+    "name" : "오른쪽 돌리기"
+  }, {
+    "$id" : 52,
+    "label" : "<0876011D>",
+    "style" : 9,
+    "name" : "종료하기"
+  }, {
+    "$id" : 53,
+    "label" : "<6DFA65EF>",
+    "style" : 9,
+    "name" : "전진"
+  }, {
+    "$id" : 54,
+    "label" : "<82D91E4B>",
+    "style" : 9,
+    "name" : "후진"
+  }, {
+    "$id" : 55,
+    "label" : "<A7D79DAE>",
+    "style" : 9,
+    "name" : "오토 런"
+  }, {
+    "$id" : 56,
+    "label" : "<392D58C1>",
+    "style" : 9,
+    "name" : "(길게 누르기) 내리기"
+  }, {
+    "$id" : 57,
+    "label" : "<EFBEA9D1>",
+    "style" : 9,
+    "name" : "발도"
+  }, {
+    "$id" : 58,
+    "label" : "<C1ED7D83>",
+    "style" : 9,
+    "name" : "선실로 이동"
+  }, {
+    "$id" : 59,
+    "label" : "<CAF9CE57>",
+    "style" : 11,
+    "name" : "바로 가기 편집"
+  }, {
+    "$id" : 60,
+    "label" : "<A507421B>",
+    "style" : 11,
+    "name" : "편집 종료"
+  }, {
+    "$id" : 61,
+    "label" : "<E76A9FE4>",
+    "style" : 11,
+    "name" : "카메라 거리"
+  }, {
+    "$id" : 62,
+    "label" : "<7C2F9231>",
+    "style" : 11,
+    "name" : "카메라 시점"
+  }, {
+    "$id" : 63,
+    "label" : "<7151B63E>",
+    "style" : 11,
+    "name" : "카메라 리셋"
+  }, {
+    "$id" : 64,
+    "label" : "<079A6E8D>",
+    "style" : 11,
+    "name" : "타깃 에너미"
+  }, {
+    "$id" : 65,
+    "label" : "<5126B476>",
+    "style" : 11,
+    "name" : "스펙"
+  }, {
+    "$id" : 66,
+    "label" : "<1AFBE12E>",
+    "style" : 11,
+    "name" : "장비 자동 장착"
+  }, {
+    "$id" : 67,
+    "label" : "<86661355>",
+    "style" : 11,
+    "name" : "발도 / 납도"
+  }, {
+    "$id" : 68,
+    "label" : "<8B5EE7BC>",
+    "style" : 11,
+    "name" : "일러스트"
+  }, {
+    "$id" : 69,
+    "label" : "<970937CC>",
+    "style" : 11,
+    "name" : "보이스"
+  }, {
+    "$id" : 70,
+    "label" : "<F6A376EE>",
+    "style" : 11,
+    "name" : "일러스트 전환"
+  }, {
+    "$id" : 71,
+    "label" : "<05357075>",
+    "style" : 11,
+    "name" : "이동"
+  }, {
+    "$id" : 72,
+    "label" : "<51BD423F>",
+    "style" : 11,
+    "name" : "아이콘 필터"
+  }, {
+    "$id" : 73,
+    "label" : "<B31E52CB>",
+    "style" : 11,
+    "name" : "전원 레벨 업"
+  }, {
+    "$id" : 74,
+    "label" : "<FB216F0C>",
+    "style" : 11,
+    "name" : "초기 설정으로 되돌리기"
+  }, {
+    "$id" : 75,
+    "label" : "<248E493E>",
+    "style" : 11,
+    "name" : "리셋"
+  }, {
+    "$id" : 76,
+    "label" : "<302C33C9>",
+    "style" : 11,
+    "name" : "받기"
+  }, {
+    "$id" : 77,
+    "label" : "<C650CAA4>",
+    "style" : 11,
+    "name" : "플레이 방법"
+  }, {
+    "$id" : 78,
+    "label" : "<2F7179CF>",
+    "style" : 11,
+    "name" : "다시 시작"
+  }, {
+    "$id" : 79,
+    "label" : "<DEC65CA9>",
+    "style" : 11,
+    "name" : "도전의 땅으로 돌아가기"
+  }, {
+    "$id" : 80,
+    "label" : "<C585B5BC>",
+    "style" : 11,
+    "name" : "불러오기"
+  }, {
+    "$id" : 81,
+    "label" : "<7D0B9EA1>",
+    "style" : 11,
+    "name" : "저장"
+  }, {
+    "$id" : 82,
+    "label" : "<EF6C3720>",
+    "style" : 11,
+    "name" : "상세 확인"
+  }, {
+    "$id" : 83,
+    "label" : "<F38C605A>",
+    "style" : 11,
+    "name" : "명칭 설정"
+  }, {
+    "$id" : 84,
+    "label" : "<0B990A70>",
+    "style" : 11,
+    "name" : "파티 편성 저장"
+  }, {
+    "$id" : 85,
+    "label" : "<AD218D5F>",
+    "style" : 11,
+    "name" : "가격 정보"
+  }, {
+    "$id" : 86,
+    "label" : "<26AE7289>",
+    "style" : 11,
+    "name" : "셔플"
+  }, {
+    "$id" : 87,
+    "label" : "<B58B1F1B>",
+    "style" : 11,
+    "name" : "보유 엠블럼"
+  }, {
+    "$id" : 88,
+    "label" : "<D38EBE29>",
+    "style" : 11,
+    "name" : "종료"
+  }, {
+    "$id" : 89,
+    "label" : "<D7ED8B24>",
+    "style" : 11,
+    "name" : "모드 전환"
+  }, {
+    "$id" : 90,
+    "label" : "<E681CF11>",
+    "style" : 11,
+    "name" : "헬프"
+  } ]
+}

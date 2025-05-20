@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq230300_msg0001",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……\"이젤 부대\"는\n어떤 녀석들이야?"
+  }, {
+    "$id" : 2,
+    "label" : "nq230300_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "주로 원거리 공격과 전선 지원……\n요컨대 후방을 담당하는 부대야"
+  }, {
+    "$id" : 3,
+    "label" : "nq230300_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 콜로니 11의 식당이\n그 사람들 관할이라나 봐"
+  }, {
+    "$id" : 4,
+    "label" : "nq230300_msg0004",
+    "talker" : "3",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……식당이? 왜?"
+  }, {
+    "$id" : 5,
+    "label" : "nq230300_msg0005",
+    "talker" : "2",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄……\n그래도 일단 이젤 부대의 병사들은\n대부분 거기에 있다고 보면 돼"
+  }, {
+    "$id" : 6,
+    "label" : "nq230300_msg0006",
+    "talker" : "5",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다시 말해서 걔들을 포섭하면\n맛있는 밥을 마음껏 먹을 수 있다는 말이군!"
+  }, {
+    "$id" : 7,
+    "label" : "nq230300_msg0007",
+    "talker" : "6",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 그거 괜찮네!\n의욕이 좀 생기는걸?"
+  }, {
+    "$id" : 8,
+    "label" : "nq230300_msg0008",
+    "talker" : "3",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 식으로 생각할 수 있는\n너희가 진심으로 부러울 따름이다……"
+  } ]
+}

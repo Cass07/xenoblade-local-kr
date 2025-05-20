@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830500_msg0001",
+    "talker" : "jq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "본인 앞에서는 절대 말 못 하지만\n사오미 씨한테는 감사하고 있어요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830500_msg0002",
+    "talker" : "jq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사오미 씨가 동료들 가운데서 사고를 일으키면\n어느새 저도 그 안에 들어가 있게 되는데……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830500_msg0003",
+    "talker" : "jq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이래저래 휘말리다 보니\n리버레이터 사람들과 이야기할 기회도 늘어서\n자연스럽게 어울리게 되더라고요"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830500_msg0004",
+    "talker" : "jq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사오미 씨가 없었더라면\n저는 계속 고립된 채였겠죠\n……어떻든 간에 대단한 사람이기는 해요"
+  }, {
+    "$id" : 5,
+    "label" : "tlk830500_msg0005",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 적응하게 돼서 다행이네요"
+  }, {
+    "$id" : 6,
+    "label" : "tlk830500_msg0006",
+    "talker" : "jq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하…… 그러게요\n그쪽도요"
+  } ]
+}

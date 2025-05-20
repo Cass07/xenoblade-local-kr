@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831901_msg0001",
+    "talker" : "yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기 있는 케베스와 아그누스 병사는\n다들 시티 사람들이 해방한 사람들이야\n나도 그중 하나지"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831901_msg0002",
+    "talker" : "yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 지방에 파병되기 전에는\n설마 이렇게 될 거라고는\n꿈에도 생각 못 했어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831901_msg0003",
+    "talker" : "yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 여기 주민들은 다 친절하고\n케베스에도 말이 통하는 녀석이 있으니\n별다른 불만은 없지만 말이야"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831901_msg0004",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흐음……\n적응이 빠른 편이구나"
+  }, {
+    "$id" : 5,
+    "label" : "tlk831901_msg0005",
+    "talker" : "yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하, 내가 둔감한 것뿐일지도 몰라\n다들 그렇다고 할 수는 없으니까"
+  }, {
+    "$id" : 6,
+    "label" : "tlk831901_msg0006",
+    "talker" : "yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "현실을 못 받아들이는 병사가 역시 많긴 해\n그들에게는 아직 시간이 필요한 것 같아"
+  } ]
+}

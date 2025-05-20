@@ -1,0 +1,394 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<B232D209>",
+    "talker" : "qq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 수고가 많으시네요\n슈르크 씨, 렉스 씨"
+  }, {
+    "$id" : 2,
+    "label" : "<950B9430>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 안녕\n너도 고생이 많네"
+  }, {
+    "$id" : 3,
+    "label" : "<370EF6D7>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, \"그 녀석\"의 진척은 어때?"
+  }, {
+    "$id" : 4,
+    "label" : "<4A7C638E>",
+    "talker" : "qq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지, 진척 말씀이시죠……?\n으음, 그게요……"
+  }, {
+    "$id" : 5,
+    "label" : "<7DA359DA>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기초적인 가동에는 문제없어\n다만 좀 막히는 부분이 생겼단 말이지"
+  }, {
+    "$id" : 6,
+    "label" : "<6BDA2A14>",
+    "talker" : "qq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗, 누나"
+  }, {
+    "$id" : 7,
+    "label" : "<D811CD94>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『누나』라고 부르면 안 되지\n일할 때는 \"치프\"잖아?"
+  }, {
+    "$id" : 8,
+    "label" : "<4476000D>",
+    "talker" : "qq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미, 미아…… 죄송해요, 치프"
+  }, {
+    "$id" : 9,
+    "label" : "<7C65759C>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그쪽 신입들은\n처음 보지?"
+  }, {
+    "$id" : 10,
+    "label" : "<18D6087A>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 이름은 레이실\n리버레이터의 정비사야"
+  }, {
+    "$id" : 11,
+    "label" : "<D3ADED8B>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 이쪽은 내 동생 해밀"
+  }, {
+    "$id" : 12,
+    "label" : "<38FE9E1F>",
+    "talker" : "qq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안녕하세요……"
+  }, {
+    "$id" : 13,
+    "label" : "<A6178E8F>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 남매구나?\n잘 부탁해"
+  }, {
+    "$id" : 14,
+    "label" : "<D109956F>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근데 방금 말하는 걸 보니\n그걸 당신들이 만들었나 봐?"
+  }, {
+    "$id" : 15,
+    "label" : "<BD5A0E1F>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼, 우리가 만들었지"
+  }, {
+    "$id" : 16,
+    "label" : "<45BCF581>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 녀석은 아머먼트를 토대로\n개량 개발된 시험기야"
+  }, {
+    "$id" : 17,
+    "label" : "<84D554E4>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아머먼트 자체는\n슈르크와 리쿠가 설계했지만\n비용 문제로 양산이 불가능해서 말이야"
+  }, {
+    "$id" : 18,
+    "label" : "<907CAD4B>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 양산에 적합하도록 소형화하고\n겸사겸사 기동성도 개선한 거야"
+  }, {
+    "$id" : 19,
+    "label" : "<B85D6061>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 기체가 저런 사이즈면\n사람이 들어갈 공간이 없지 않나요……?"
+  }, {
+    "$id" : 20,
+    "label" : "<4FF2CA76>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보통 그렇게 생각하겠지?\n사실 저 기체에는\n비밀이 숨겨져 있거든"
+  }, {
+    "$id" : 21,
+    "label" : "<65E023B8>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "비밀?"
+  }, {
+    "$id" : 22,
+    "label" : "<8539C33C>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 녀석은 말이지……\n\"자율 기능\"이 들어가 있어"
+  }, {
+    "$id" : 23,
+    "label" : "<DD00E21F>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스스로 판단하고 행동하는 거지……\n그야말로 사람처럼 말이야"
+  }, {
+    "$id" : 24,
+    "label" : "<28A9C23A>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……진짜로?"
+  }, {
+    "$id" : 25,
+    "label" : "<33EF0E24>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 저걸\n\"오토마톤\"이라고 불러"
+  }, {
+    "$id" : 26,
+    "label" : "<BBE6158B>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약 완성되면\n인원 부족 문제가 대폭 해소될 거야"
+  }, {
+    "$id" : 27,
+    "label" : "<B9BD5711>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 실력이 뛰어난 레이실하고\n해밀에게 개발을 맡기고 있는 거지"
+  }, {
+    "$id" : 28,
+    "label" : "<558BB136>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 리더가 직접 준 의뢰이니만큼\n우리도 최선을 다해 힘내서\n개발을 진행 중이었는데……"
+  }, {
+    "$id" : 29,
+    "label" : "<EC2C49BE>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제일 중요한 자율 기능이 정말 어려워\n아무리 해도 똑똑해지질 않지 뭐야"
+  }, {
+    "$id" : 30,
+    "label" : "<8C4C01BA>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전투 중에 갑자기 멈춰 버린다든가\n벽을 향해 뛴다든가…… 아주 지긋지긋해"
+  }, {
+    "$id" : 31,
+    "label" : "<97FC3D94>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음…… 역시 그런가……"
+  }, {
+    "$id" : 32,
+    "label" : "<9A811511>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다양한 행동을 시키면서\n패턴을 학습시키고는 있는데도 이래"
+  }, {
+    "$id" : 33,
+    "label" : "<E52E38BC>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거참 골치 아프군……\n우리가 도울 만한 일은 없나?"
+  }, {
+    "$id" : 34,
+    "label" : "<901B243F>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음~ 글쎄……"
+  }, {
+    "$id" : 35,
+    "label" : "<13F09D5F>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 진척도 확인할 겸\n얘하고 한번 싸워 줄래?"
+  }, {
+    "$id" : 36,
+    "label" : "<3D7880F1>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마침 전투용 데이터를\n뽑아야겠다 싶던 참이거든"
+  }, {
+    "$id" : 37,
+    "label" : "<E577BFE9>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮겠어?\n아직 미완성이라면서?"
+  }, {
+    "$id" : 38,
+    "label" : "<D42CBE39>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하, 걱정 마\n이 녀석도 그렇게 약하진 않아\n아무리 그래도 전투 병기라고"
+  }, {
+    "$id" : 39,
+    "label" : "<1A41B713>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "장소는…… 그렇지\n대공포 아래에 딱 적당한 공간이 있는데\n그곳으로 할까?"
+  }, {
+    "$id" : 40,
+    "label" : "<0D8FCCCF>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "해밀, 데이터 수집 준비해\n병기 업데이트도 잊지 말고"
+  }, {
+    "$id" : 41,
+    "label" : "<E4DE03DE>",
+    "talker" : "qq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어, 누…… 치프"
+  } ]
+}

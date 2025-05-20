@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk832004_msg0001",
+    "talker" : "zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "최근 들어 시티 사람들이 늘어난 거 같아\n구출이 순조로운 듯하니 좋은 일이네"
+  }, {
+    "$id" : 2,
+    "label" : "tlk832004_msg0002",
+    "talker" : "zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이제는 식량 문제도 신경 써야겠어\n공간도 점점 좁아지고 있고\n방위에 필요한 인재 선발도……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk832004_msg0003",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 그 뭐냐……\n폐 끼쳐서 미안해"
+  }, {
+    "$id" : 4,
+    "label" : "tlk832004_msg0004",
+    "talker" : "zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 나야말로 미안\n딱히 불평하려던 건 아냐"
+  }, {
+    "$id" : 5,
+    "label" : "tlk832004_msg0005",
+    "talker" : "zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 일은 좋아서 하는 일이거든\n그러니 걱정 말고 나한테 맡겨"
+  } ]
+}

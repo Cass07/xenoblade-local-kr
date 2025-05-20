@@ -1,0 +1,448 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq240401_msg0001",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하아……"
+  }, {
+    "$id" : 2,
+    "label" : "nq240401_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기……\n당신이 최근 이 주변에서\n\"회화\"를 그린다는 사람인가요?"
+  }, {
+    "$id" : 3,
+    "label" : "nq240401_msg0003",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하아아아아아아……"
+  }, {
+    "$id" : 4,
+    "label" : "nq240401_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무, 무슨 일 있었어?"
+  }, {
+    "$id" : 5,
+    "label" : "nq240401_msg0005",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분, 제 얘기 좀 들어 주세요!"
+  }, {
+    "$id" : 6,
+    "label" : "nq240401_msg0006",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 이래 봬도 \"초상화\"를 그리기 위해\n집정관 케이 님을 섬기던\n병사였습니다만……"
+  }, {
+    "$id" : 7,
+    "label" : "nq240401_msg0007",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "초상화?\n회화랑은 다른 거야?"
+  }, {
+    "$id" : 8,
+    "label" : "nq240401_msg0008",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "초상화란 회화의 일종입니다!"
+  }, {
+    "$id" : 9,
+    "label" : "nq240401_msg0009",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케이 님에게 명령받은 대로\n그 자태를 초상화로 그리는 것이……\n저의 사명이었습니다만……"
+  }, {
+    "$id" : 10,
+    "label" : "nq240401_msg0010",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요전에 케이 님이 우로보로스인지 뭔지 하는\n녀석들의 손에 당했다는 비보를 듣고\n저는 삶의 목적을 잃고 말았습니다……"
+  }, {
+    "$id" : 11,
+    "label" : "nq240401_msg0011",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "삶의 목적이라니, 무슨 호들갑을……"
+  }, {
+    "$id" : 12,
+    "label" : "nq240401_msg0012",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 정열을 못다 버린 저는\n집정관님이 계신 캐슬이면 어떨까 싶어서\n돌아온 것입니다"
+  }, {
+    "$id" : 13,
+    "label" : "nq240401_msg0013",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 현실은\n그딴 걸로 적을 쓰러뜨릴 수 있겠냐며\n일축당하기 일쑤죠……"
+  }, {
+    "$id" : 14,
+    "label" : "nq240401_msg0014",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이젠 제 초상화를 기대하며\n평가해 주는 사람은 아이오니온\n어디에도 존재하지 않습니다"
+  }, {
+    "$id" : 15,
+    "label" : "nq240401_msg0015",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자기 할 말만 하는 녀석이네"
+  }, {
+    "$id" : 16,
+    "label" : "nq240401_msg0016",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 그렇고\n여러분은 뭐 하시는 분들이죠?"
+  }, {
+    "$id" : 17,
+    "label" : "nq240401_msg0017",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우린……"
+  }, {
+    "$id" : 18,
+    "label" : "nq240401_msg0018",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서, 설마!\n여러분이 그 우로보로스……?!"
+  }, {
+    "$id" : 19,
+    "label" : "nq240401_msg0019",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오해하지 마\n위협할 생각은 전혀 없으니까"
+  }, {
+    "$id" : 20,
+    "label" : "nq240401_msg0020",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다만 그 회화…… 아니, 초상화랬나\n그걸 우리한테 보여 주겠어?"
+  }, {
+    "$id" : 21,
+    "label" : "nq240401_msg0021",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 네에……\n그건 상관없는데……"
+  }, {
+    "$id" : 22,
+    "label" : "nq240401_msg0022",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇군, 캔버스라는 판에\n다양한 색채의 염료와\n부드러운 붓으로 그린 사람의 모습……"
+  }, {
+    "$id" : 23,
+    "label" : "nq240401_msg0023",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 초상화라고 하는 건가"
+  }, {
+    "$id" : 24,
+    "label" : "nq240401_msg0024",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 초상화는\n케이 님이 저에게 가르쳐 주신\n\"문화\"라는 개념입니다"
+  }, {
+    "$id" : 25,
+    "label" : "nq240401_msg0025",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 일반적인 병사는 그 가치를\n모르기에 실낱같은 희망을 걸고\n캐슬로 돌아온 겁니다만……"
+  }, {
+    "$id" : 26,
+    "label" : "nq240401_msg0026",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무도 상대해 주질 않아서\n난처한 상황이었다는 말이지?"
+  }, {
+    "$id" : 27,
+    "label" : "nq240401_msg0027",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……네"
+  }, {
+    "$id" : 28,
+    "label" : "nq240401_msg0028",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 그 문화라는 게\n싸울 때 도움이 되지는 않겠지"
+  }, {
+    "$id" : 29,
+    "label" : "nq240401_msg0029",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "문화……"
+  }, {
+    "$id" : 30,
+    "label" : "nq240401_msg0030",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아, 유니\n아까 분명 모니카한테\n문화라는 말을 들었다고 했지?"
+  }, {
+    "$id" : 31,
+    "label" : "nq240401_msg0031",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 어, 그런데……"
+  }, {
+    "$id" : 32,
+    "label" : "nq240401_msg0032",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그게 사실인가요?!"
+  }, {
+    "$id" : 33,
+    "label" : "nq240401_msg0101",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티에 있는 웰웰이라는 노폰이\n그런 쪽에는 빠삭하다고 들었어"
+  }, {
+    "$id" : 34,
+    "label" : "nq240401_msg0201",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티에 있는 웰웰이라는 노폰이\n그런 쪽에는 빠삭할 거야"
+  }, {
+    "$id" : 35,
+    "label" : "nq240401_msg0301",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티라……\n들어 본 적 없는 콜로니지만\n왠지 문화의 향기가 느껴지네요"
+  }, {
+    "$id" : 36,
+    "label" : "nq240401_msg0302",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……맞다!"
+  }, {
+    "$id" : 37,
+    "label" : "nq240401_msg0303",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분, 혹시 괜찮으시면\n그 시티라는 곳에 제 그림을 가져가서\n보여 주시면 안 될까요?!"
+  }, {
+    "$id" : 38,
+    "label" : "nq240401_msg0304",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 우리가 왜 그래야 하는데……"
+  }, {
+    "$id" : 39,
+    "label" : "nq240401_msg0305",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "문화의 뜻을 지닌 분이라면\n제 초상화의 진가를\n틀림없이 알아볼 거예요!"
+  }, {
+    "$id" : 40,
+    "label" : "nq240401_msg0306",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지 않으면……\n그렇지 않으면 저느으으은……"
+  }, {
+    "$id" : 41,
+    "label" : "nq240401_msg0307",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 울지 마……"
+  }, {
+    "$id" : 42,
+    "label" : "nq240401_msg0308",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 가 보자\n뭔진 몰라도 곤란해 보이잖아"
+  }, {
+    "$id" : 43,
+    "label" : "nq240401_msg0309",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "할 수 없지"
+  }, {
+    "$id" : 44,
+    "label" : "nq240401_msg0310",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오오! 정말 감사합니다!"
+  }, {
+    "$id" : 45,
+    "label" : "nq240401_msg0311",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 초상화는 맡기겠습니다"
+  }, {
+    "$id" : 46,
+    "label" : "nq240401_msg0312",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 웰웰의 가게에 가서\n이 초상화의 가치를 물어보고 올게"
+  }, {
+    "$id" : 47,
+    "label" : "nq240401_msg0313",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제가 지금까지 그린 것 중에서\n가장 자신 있는 작품입니다!\n잘 부탁드려요!"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230505_msg0001",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나 님의 교우 관계가\n넓어지는 건 반가운 일이지만……\n다소 독특한 분들이 많은 것 같아요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230505_msg0002",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 아미고라는 레브니스도\n대체 어디를 봐서 친구라는 건지\n전혀 모르겠는데 말이죠……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230505_msg0003",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스즈자쿠로가 친하게 지내고 싶다길래\n일단 연구동 옆에 배치해 두긴 했어요"
+  }, {
+    "$id" : 4,
+    "label" : "tlk230505_msg0004",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk230505_msg0005",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실내에 배치할 걸 그랬을까요?\n친구를 밖에다 방치하는 게\n좀…… 그렇기는 하죠……?"
+  } ]
+}

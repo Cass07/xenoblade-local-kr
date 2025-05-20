@@ -1,0 +1,340 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012200_msg0001",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노아, 다음 행선지 말인데……"
+  }, {
+    "$id" : 2,
+    "label" : "tq012200_msg0002",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐, 형씨. 잠깐\n들르고 싶은 곳이 있는데"
+  }, {
+    "$id" : 3,
+    "label" : "tq012200_msg0003",
+    "talker" : "4",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……나는 형씨도 아니고\n네 말을 들어 줄 의무도 없어"
+  }, {
+    "$id" : 4,
+    "label" : "tq012200_msg0004",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근데 그 들르고 싶은 곳이\n실은 몇 군데 되거든"
+  }, {
+    "$id" : 5,
+    "label" : "tq012200_msg0005",
+    "talker" : "4",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 멋대로 떠드는 거지?\n네 이야기를 들어 줄 시간은 없어"
+  }, {
+    "$id" : 6,
+    "label" : "tq012200_msg0006",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 이미 백 년쯤 지난\n어느 추운 날에 있었던 일이지……"
+  }, {
+    "$id" : 7,
+    "label" : "tq012200_msg0007",
+    "talker" : "4",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐! 듣고 있어?\n내 말 좀 들으라고!"
+  }, {
+    "$id" : 8,
+    "label" : "tq012200_msg0008",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 그 당시 여행을 하고 있었지\n강한 녀석을 찾기 위한 여행이었어……"
+  }, {
+    "$id" : 9,
+    "label" : "tq012200_msg0009",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금이랑 별반 다를 게 없는데?"
+  }, {
+    "$id" : 10,
+    "label" : "tq012200_msg0010",
+    "talker" : "3",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대꾸해 주지 마"
+  }, {
+    "$id" : 11,
+    "label" : "tq012200_msg0011",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러던 어느 날, 나는 그 녀석을 만났다"
+  }, {
+    "$id" : 12,
+    "label" : "tq012200_msg0012",
+    "talker" : "2",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석?"
+  }, {
+    "$id" : 13,
+    "label" : "tq012200_msg0013",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 별난 녀석이었어\n제대로 싸우지도 못하는 사내였지"
+  }, {
+    "$id" : 14,
+    "label" : "tq012200_msg0014",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 그때 녀석은 나에게\n중요한 물건을 맡겼어"
+  }, {
+    "$id" : 15,
+    "label" : "tq012200_msg0015",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나…… 하지만 그렇게\n오래전이라면 그 사람은 이미……"
+  }, {
+    "$id" : 16,
+    "label" : "tq012200_msg0016",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들에게는 미안하지만\n내 눈엔 사람의 일생 같은 건\n한순간에 불과해"
+  }, {
+    "$id" : 17,
+    "label" : "tq012200_msg0017",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쨌든 녀석한테 넘겨받은 게\n항아리였던 거 같은데\n그거 말고는 아무것도 기억이 안 나"
+  }, {
+    "$id" : 18,
+    "label" : "tq012200_msg0018",
+    "talker" : "4",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "였던 것 같은데? 아무것도 기억이 안 난다고?\n……역시 듣는 건 시간 낭비였군"
+  }, {
+    "$id" : 19,
+    "label" : "tq012200_msg0019",
+    "talker" : "6",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 그거랑 가고 싶은 곳이랑\n무슨 상관이 있는 거야?"
+  }, {
+    "$id" : 20,
+    "label" : "tq012200_msg0020",
+    "talker" : "N",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은 질문이야, 아가씨"
+  }, {
+    "$id" : 21,
+    "label" : "tq012200_msg0021",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 그 녀석과 돌아다닌 곳에 표시를\n남겨 뒀던 게 불현듯 떠올랐거든"
+  }, {
+    "$id" : 22,
+    "label" : "tq012200_msg0022",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잊어버리면 곤란하니까\n돌아다녔던 곳 여기저기에\n내 거대한 손자국을 남겨 놨었어"
+  }, {
+    "$id" : 23,
+    "label" : "tq012200_msg0023",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기저기라니……"
+  }, {
+    "$id" : 24,
+    "label" : "tq012200_msg0024",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 갑자기 지금\n콜로니 감마 근처에 있는 호수 주변에\n자국을 남겼던 기억이 떠오른 거지"
+  }, {
+    "$id" : 25,
+    "label" : "tq012200_msg0025",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 쉽게 찾을 수 있어?"
+  }, {
+    "$id" : 26,
+    "label" : "tq012200_msg0026",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 지금은 그 표시 말고는\n생각나는 게 없어"
+  }, {
+    "$id" : 27,
+    "label" : "tq012200_msg0027",
+    "talker" : "N",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……옛날에는 철거신을 타고\n각지를 돌아다녔는데 말이야"
+  }, {
+    "$id" : 28,
+    "label" : "tq012200_msg0028",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "철거신을 그런 이유로 사용했다고?\n정말 제정신이 아냐……"
+  }, {
+    "$id" : 29,
+    "label" : "tq012200_msg0029",
+    "talker" : "N",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하긴 그래서 다른 콜로니와\n싸움이 일어나기도 했었지! 하하하!"
+  }, {
+    "$id" : 30,
+    "label" : "tq012200_msg0030",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐…… 물건을 찾는 일쯤은\n도와줘도 되지 않을까?"
+  }, {
+    "$id" : 31,
+    "label" : "tq012200_msg0031",
+    "talker" : "4",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하, 하지만……!"
+  }, {
+    "$id" : 32,
+    "label" : "tq012200_msg0032",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 우리가 그것만 계속\n찾아다닐 수는 없어"
+  }, {
+    "$id" : 33,
+    "label" : "tq012200_msg0033",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 갑자기 생각났을 때나\n비슷한 걸 발견했을 때는 찾아볼 수 있지"
+  }, {
+    "$id" : 34,
+    "label" : "tq012200_msg0034",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐, 그 정도라면 괜찮지만"
+  }, {
+    "$id" : 35,
+    "label" : "tq012200_msg0035",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안하게 됐어, 형씨들!\n뭐, 기억 한구석에 새겨 두기만 해도 충분해"
+  } ]
+}

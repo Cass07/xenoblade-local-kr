@@ -1,0 +1,151 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq020602_msg0001",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗! 미오 선배, 저거 보세요!"
+  }, {
+    "$id" : 2,
+    "label" : "nq020602_msg0002",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기에 뭔가 떨어져 있어요!\n뭔지 보러 가시지 않을래요?"
+  }, {
+    "$id" : 3,
+    "label" : "nq020602_msg0003",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "어떻게 할까?"
+  }, {
+    "$id" : 4,
+    "label" : "nq020602_msg0004",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "가기를 망설인다"
+  }, {
+    "$id" : 5,
+    "label" : "nq020602_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "키리에, 그것보단\n가고 싶은 곳이 있다고 하지 않았어?"
+  }, {
+    "$id" : 6,
+    "label" : "nq020602_msg0006",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아! 그랬죠!\n하마터면 깜빡할 뻔했네요……"
+  }, {
+    "$id" : 7,
+    "label" : "nq020602_msg0007",
+    "talker" : "2",
+    "talkattr" : 33026,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마 키리에는 평소에 이러다가\n길을 잃어버리는 거겠지……"
+  }, {
+    "$id" : 8,
+    "label" : "nq020602_msg0008",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "호기심에 이끌리는 것도 조금은 자제해 봐"
+  }, {
+    "$id" : 9,
+    "label" : "nq020602_msg0009",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 미오 선배! 자제할게요!"
+  }, {
+    "$id" : 10,
+    "label" : "nq020602_msg0104",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "보러 간다"
+  }, {
+    "$id" : 11,
+    "label" : "nq020602_msg0105",
+    "talker" : "2",
+    "talkattr" : 33026,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마 키리에는 평소에 이러다가\n길을 잃어버리는 거겠지……"
+  }, {
+    "$id" : 12,
+    "label" : "nq020602_msg0106",
+    "talker" : "2",
+    "talkattr" : 33026,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 지금은 우리랑 같이 있으니까\n분명 괜찮을 거야……"
+  }, {
+    "$id" : 13,
+    "label" : "nq020602_msg0107",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 한번 가 보자"
+  }, {
+    "$id" : 14,
+    "label" : "nq020602_msg0108",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네!"
+  } ]
+}

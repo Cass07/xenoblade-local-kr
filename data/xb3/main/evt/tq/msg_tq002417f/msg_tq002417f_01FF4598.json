@@ -1,0 +1,331 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002417_msg0001",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세주, 이거 설마……"
+  }, {
+    "$id" : 2,
+    "label" : "tq002417_msg0002",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "4호는…… 철기병에\n그 생명을 바친 겁니다"
+  }, {
+    "$id" : 3,
+    "label" : "tq002417_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐, 그게 무슨 말이야?"
+  }, {
+    "$id" : 4,
+    "label" : "tq002417_msg0004",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "철기병은 생명의 불에 의해 가동됩니다"
+  }, {
+    "$id" : 5,
+    "label" : "tq002417_msg0005",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동력이 되는 생명의 불시계는\n탑승자의 생명의 불과 동기화되어 있죠"
+  }, {
+    "$id" : 6,
+    "label" : "tq002417_msg0006",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐, 생명의 불시계라고?\n그렇다면 철기병은……"
+  }, {
+    "$id" : 7,
+    "label" : "tq002417_msg0007",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 규모는 다르지만\n저것 또한 철거신이라 할 수 있죠"
+  }, {
+    "$id" : 8,
+    "label" : "tq002417_msg0008",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 철기병의 불시계에는\n\"리미터\" 해제 기능도 갖춰져 있습니다"
+  }, {
+    "$id" : 9,
+    "label" : "tq002417_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리미터 해제……?"
+  }, {
+    "$id" : 10,
+    "label" : "tq002417_msg0010",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생명의 불을 대량으로 소비하는 것으로\n기체 성능을 한계까지 끌어올리는 기능입니다"
+  }, {
+    "$id" : 11,
+    "label" : "tq002417_msg0011",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 해방하면\n그것만으로 1기인 병사가 군무장에\n필적하는 힘을 발휘하죠……"
+  }, {
+    "$id" : 12,
+    "label" : "tq002417_msg0012",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 생명이 가져오는 힘이야말로 철기병의……\n저희 콜로니 0의 진수라고 할 수 있답니다!"
+  }, {
+    "$id" : 13,
+    "label" : "tq002417_msg0013",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……애초에 콜로니 0란 뭐지?\n너희는 도대체 정체가 뭐야!"
+  }, {
+    "$id" : 14,
+    "label" : "tq002417_msg0014",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희는 말하자면\n이 전쟁의 \"연출가\"입니다"
+  }, {
+    "$id" : 15,
+    "label" : "tq002417_msg0015",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전황의 조작, 선동 공작,\n정보 통제, 제3세력의 배제……"
+  }, {
+    "$id" : 16,
+    "label" : "tq002417_msg0016",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희가 아무도 모르게 노력하고 있기 때문에\n전쟁은 끝나지 않고 균형을 유지하고 있습니다\n그렇게 생명의 인과는 순환하고 있죠……"
+  }, {
+    "$id" : 17,
+    "label" : "tq002417_msg0017",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "즉 세계의 이치를 존속하게 하는……\n그것이야말로 저희에게 주어진 사명입니다!"
+  }, {
+    "$id" : 18,
+    "label" : "tq002417_msg0018",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 허황된 주장을 위해\n아이들을 저런 것에 태우다니……!"
+  }, {
+    "$id" : 19,
+    "label" : "tq002417_msg0019",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "허, 결국 너도 병사의 목숨따윈\n어떻게 되든 신경 안 쓴다 이거네!"
+  }, {
+    "$id" : 20,
+    "label" : "tq002417_msg0020",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "결코 그렇지 않습니다!"
+  }, {
+    "$id" : 21,
+    "label" : "tq002417_msg0021",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 그들의 생명이 더없이 소중하며\n무엇보다 존귀한 것이라 생각합니다"
+  }, {
+    "$id" : 22,
+    "label" : "tq002417_msg0022",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무구한 생명의 빛이 세상에 몸 바쳐 하나가 되며\n뫼비우스가 추구하는 영원의 초석이 되죠……"
+  }, {
+    "$id" : 23,
+    "label" : "tq002417_msg0023",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그만"
+  }, {
+    "$id" : 24,
+    "label" : "tq002417_msg0024",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 숭고한 행동에 영혼을 바치는 그들을\n지켜보는 것이야말로 제 최고의 기쁨……"
+  }, {
+    "$id" : 25,
+    "label" : "tq002417_msg0025",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말, 참으로 참으로 멋진 일입니다\n여러분께서도 그렇게 생각하시지 않……"
+  }, {
+    "$id" : 26,
+    "label" : "tq002417_msg0026",
+    "talker" : "6",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그만하라고!"
+  }, {
+    "$id" : 27,
+    "label" : "tq002417_msg0027",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 실례했습니다\n혹 제가 불쾌함을 살 행동이라도……"
+  }, {
+    "$id" : 28,
+    "label" : "tq002417_msg0028",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 건 아무래도 상관없어!"
+  }, {
+    "$id" : 29,
+    "label" : "tq002417_msg0029",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너는…… 너 같은 건\n세주를 소중하다 말할 자격이 없어!"
+  }, {
+    "$id" : 30,
+    "label" : "tq002417_msg0030",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 당장 너를 쓰러뜨리고 세주를……\n모두를 불시계로부터 해방시키겠어!"
+  }, {
+    "$id" : 31,
+    "label" : "tq002417_msg0031",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도대체 무엇이 문제죠?\n애초에 저는 싸울 생각이……"
+  }, {
+    "$id" : 32,
+    "label" : "tq002417_msg0032",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너 그거 진심으로 하는 소리냐?"
+  }, {
+    "$id" : 33,
+    "label" : "tq002417_msg0033",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어찌 하든 싸우실 생각인 거군요?"
+  }, {
+    "$id" : 34,
+    "label" : "tq002417_msg0034",
+    "talker" : "pW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……교섭은 결렬입니까?\n실로 유감입니다만 어쩔 수 없죠"
+  } ]
+}

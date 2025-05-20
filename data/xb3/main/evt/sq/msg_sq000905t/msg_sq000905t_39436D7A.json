@@ -1,0 +1,142 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq000905_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭘 보고 있어?"
+  }, {
+    "$id" : 2,
+    "label" : "sq000905_msg0002",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "간수들의 위치를 보고 있어"
+  }, {
+    "$id" : 3,
+    "label" : "sq000905_msg0003",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곤도를 탈출시킬 때\n조금이라도 도움이 됐으면 해서"
+  }, {
+    "$id" : 4,
+    "label" : "sq000905_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나……"
+  }, {
+    "$id" : 5,
+    "label" : "sq000905_msg0005",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니 웬만하면\n눈에 띄고 싶지 않은데"
+  }, {
+    "$id" : 6,
+    "label" : "sq000905_msg0006",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안하지만\n다른 곳에서 작업해 줄래?"
+  }, {
+    "$id" : 7,
+    "label" : "sq000905_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴게"
+  }, {
+    "$id" : 8,
+    "label" : "sq000905_msg0008",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아, 그렇지\n이거 가져가"
+  }, {
+    "$id" : 9,
+    "label" : "sq000905_msg0009",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죄수들끼리 오래 이야기하면\n간수 녀석들이 올 거야"
+  }, {
+    "$id" : 10,
+    "label" : "sq000905_msg0010",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "계획이 들통나면\n큰일 난다고\n어서 가"
+  }, {
+    "$id" : 11,
+    "label" : "sq000905_msg0101",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기 간수들은\n전장에서 목숨을 뺏지 않아도\n살아갈 수 있어"
+  }, {
+    "$id" : 12,
+    "label" : "sq000905_msg0102",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서인지 여기는\n다른 군보다 병력이 유난히 약해"
+  }, {
+    "$id" : 13,
+    "label" : "sq000905_msg0103",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 그렇다고 해도\n방심할 수는 없지만 말이야"
+  } ]
+}

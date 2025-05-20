@@ -1,0 +1,205 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq240600_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "히스랑 비네가 말한\n에테르 채굴장 이야기, 어떻게 생각해?"
+  }, {
+    "$id" : 2,
+    "label" : "nq240600_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 아그누스와 전쟁이 재개되니 뭐니\n하던 거 말하는 거야?"
+  }, {
+    "$id" : 3,
+    "label" : "nq240600_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "비네가 조사 중이라며?\n그 녀석들이라면 괜찮겠지"
+  }, {
+    "$id" : 4,
+    "label" : "nq240600_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하긴 그 실력이라면\n상대가 누구든 간에\n애먹을 일은 없겠지만……"
+  }, {
+    "$id" : 5,
+    "label" : "nq240600_msg0005",
+    "talker" : "2",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔가 마음에 걸리는 점이라도 있어?"
+  }, {
+    "$id" : 6,
+    "label" : "nq240600_msg0006",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무리 신뢰 관계를 쌓은 사이라지만 그렇게\n임무 내용을 술술 말하는 건 이상하지 않아?"
+  }, {
+    "$id" : 7,
+    "label" : "nq240600_msg0007",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니 비네 씨는\n『다른 명령 계통한테 방해받고 있다』라고\n말했었지"
+  }, {
+    "$id" : 8,
+    "label" : "nq240600_msg0008",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩌면 우리가 협력해 주길\n바랐던 게 아닐까?"
+  }, {
+    "$id" : 9,
+    "label" : "nq240600_msg0009",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 위사대는 여왕의 직속이잖아?\n그것보다 더 높은 명령 계통이 있나?"
+  }, {
+    "$id" : 10,
+    "label" : "nq240600_msg0010",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……적어도 그쪽에서 조사를 하다가\n어딘가에서 막힌 건 분명해"
+  }, {
+    "$id" : 11,
+    "label" : "nq240600_msg0011",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 원인은 분명\n캐슬이라는 조직 내에 있는\n역학 관계에 영향을 받았을 거야"
+  }, {
+    "$id" : 12,
+    "label" : "nq240600_msg0012",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 우리에게 대놓고 협력을 부탁하는 대신\n임무 내용을 말한 건가……"
+  }, {
+    "$id" : 13,
+    "label" : "nq240600_msg0013",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아직은 추측에 불과하지만\n가능성은 높아"
+  }, {
+    "$id" : 14,
+    "label" : "nq240600_msg0014",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "참 성가시게도 구네\n솔직하게 부탁하면 그만인 걸"
+  }, {
+    "$id" : 15,
+    "label" : "nq240600_msg0015",
+    "talker" : "5",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하는 수 없지……\n일단 가 보자!"
+  }, {
+    "$id" : 16,
+    "label" : "nq240600_msg0016",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응……\n아그누스와 전쟁을 재개하다니\n무슨 수를 써서라도 막아야 해!"
+  }, {
+    "$id" : 17,
+    "label" : "nq240600_msg0017",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그런데 채굴장은 어디야?"
+  }, {
+    "$id" : 18,
+    "label" : "nq240600_msg0018",
+    "talker" : "4",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말이지 너는……"
+  }, {
+    "$id" : 19,
+    "label" : "nq240600_msg0019",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에테르 채굴장은\n우리가 케베스 캐슬에\n침입했을 때 지나간 반입구 근처야"
+  }, {
+    "$id" : 20,
+    "label" : "nq240600_msg0020",
+    "talker" : "1",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아! 그럼 준비가 끝나는 대로\n그쪽으로 가자!"
+  } ]
+}

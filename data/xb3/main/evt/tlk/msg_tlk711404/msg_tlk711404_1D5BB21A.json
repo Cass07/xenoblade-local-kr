@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk711404_msg0001",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "샤니아가 많이 힘들어했다는 사실은\n알고 있었어요. 하지만……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk711404_msg0002",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무리 사정이 힘들어도 그렇지\n시티를 파괴하려 하다니요……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk711404_msg0003",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "샤니아 일은 참 안쓰럽게 됐지만……\n무엇보다 리드 가문 사람들이 걱정되네요"
+  } ]
+}

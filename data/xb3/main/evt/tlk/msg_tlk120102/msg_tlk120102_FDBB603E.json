@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120102_msg0001",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선배들의 교육이라니……!\n너무 기대돼요!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120102_msg0002",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게시판에서 희망하는 교육을\n고르면 되는 거랬죠?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120102_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "키리에는\n미오의 교육을 고를 거지?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120102_msg0004",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아앗! 어떻게 아셨어요?!\n여, 역시 선배……!\n뭐든지 다 아시는군요!"
+  } ]
+}

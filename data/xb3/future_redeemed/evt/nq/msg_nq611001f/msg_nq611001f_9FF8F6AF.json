@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<2385357F>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물속에 서식하고 머리가 크며\n여러 개의 촉수가 나 있다……"
+  }, {
+    "$id" : 2,
+    "label" : "<C4709E15>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 들은 그대로의 특징이로군\n저게 틀림없어"
+  }, {
+    "$id" : 3,
+    "label" : "<3C3B6387>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐, 설마……\n저게 당신이 말한 그 \"식재료\"야?"
+  }, {
+    "$id" : 4,
+    "label" : "<B50BB615>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정 마\n보기엔 저래도 씹는 맛이 있어서\n확실히 맛있었다고"
+  }, {
+    "$id" : 5,
+    "label" : "<4FF5136B>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말이야……?\n좀처럼 믿기지 않는데"
+  }, {
+    "$id" : 6,
+    "label" : "<50DA97CC>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "누가 뭐라 하든 그 요리에는\n저 녀석의 촉수가 빠질 순 없어"
+  }, {
+    "$id" : 7,
+    "label" : "<D70B002A>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기, 선생님……\n대체 무슨 말씀이시죠?"
+  }, {
+    "$id" : 8,
+    "label" : "<E0E8F3C7>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 신경 쓸 거 없어\n아무튼 여긴 나한테 맡겨 둬"
+  }, {
+    "$id" : 9,
+    "label" : "<2E9C5BB0>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 네……"
+  } ]
+}

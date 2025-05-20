@@ -1,0 +1,313 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq020303_msg0100",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "적이 어태커를 노릴 때의 적절한 대처를 고르시오"
+  }, {
+    "$id" : 2,
+    "label" : "nq020303_msg0101",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "한층 더 강한 공격을 가한다"
+  }, {
+    "$id" : 3,
+    "label" : "nq020303_msg0102",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "공격을 자제하고 디펜더의 지원을 기다린다"
+  }, {
+    "$id" : 4,
+    "label" : "nq020303_msg0103",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "포기한다"
+  }, {
+    "$id" : 5,
+    "label" : "nq020303_msg0200",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "체인 어택에서 가장 중요한 요소를 고르시오"
+  }, {
+    "$id" : 6,
+    "label" : "nq020303_msg0201",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "타이밍"
+  }, {
+    "$id" : 7,
+    "label" : "nq020303_msg0202",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "모두의 뜨거운 마음"
+  }, {
+    "$id" : 8,
+    "label" : "nq020303_msg0203",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "파티의 역할 균형"
+  }, {
+    "$id" : 9,
+    "label" : "nq020303_msg0300",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "클래스 특유의 기술을 고르시오"
+  }, {
+    "$id" : 10,
+    "label" : "nq020303_msg0301",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "스페셜 아츠"
+  }, {
+    "$id" : 11,
+    "label" : "nq020303_msg0302",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "유니크 아츠"
+  }, {
+    "$id" : 12,
+    "label" : "nq020303_msg0303",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "탤런트 아츠"
+  }, {
+    "$id" : 13,
+    "label" : "nq020303_msg0400",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "콤보 루트 중 틀린 것을 고르시오"
+  }, {
+    "$id" : 14,
+    "label" : "nq020303_msg0401",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "브레이크→다운→라이징→스매시"
+  }, {
+    "$id" : 15,
+    "label" : "nq020303_msg0402",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "브레이크→다운→스턴→버스트"
+  }, {
+    "$id" : 16,
+    "label" : "nq020303_msg0403",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "브레이크→다운→스턴→스틸 하트"
+  }, {
+    "$id" : 17,
+    "label" : "nq020303_msg0500",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "적의 주의를 끄는 역할을 고르시오"
+  }, {
+    "$id" : 18,
+    "label" : "nq020303_msg0501",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "적에게 노려지는 병사"
+  }, {
+    "$id" : 19,
+    "label" : "nq020303_msg0502",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "디펜더"
+  }, {
+    "$id" : 20,
+    "label" : "nq020303_msg0503",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "강한 녀석"
+  }, {
+    "$id" : 21,
+    "label" : "nq020303_msg0600",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "적을 약화시키는 공격을 고르시오"
+  }, {
+    "$id" : 22,
+    "label" : "nq020303_msg0601",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "버프"
+  }, {
+    "$id" : 23,
+    "label" : "nq020303_msg0602",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "디버프"
+  }, {
+    "$id" : 24,
+    "label" : "nq020303_msg0603",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "패시브"
+  }, {
+    "$id" : 25,
+    "label" : "nq020303_msg0700",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "특정 적이 위기 상황에 보이는 상태를 고르시오"
+  }, {
+    "$id" : 26,
+    "label" : "nq020303_msg0701",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "분노 상태"
+  }, {
+    "$id" : 27,
+    "label" : "nq020303_msg0702",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "각성 상태"
+  }, {
+    "$id" : 28,
+    "label" : "nq020303_msg0703",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "광화 상태"
+  }, {
+    "$id" : 29,
+    "label" : "nq020303_msg0800",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "스턴 상태가 주는 이점 중, 틀린 것을 고르시오"
+  }, {
+    "$id" : 30,
+    "label" : "nq020303_msg0801",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "공격이 반드시 명중한다"
+  }, {
+    "$id" : 31,
+    "label" : "nq020303_msg0802",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "아군 전체의 HP가 회복된다"
+  }, {
+    "$id" : 32,
+    "label" : "nq020303_msg0803",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "일반적인 아츠로는 어그로가 상승하지 않는다"
+  } ]
+}

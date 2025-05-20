@@ -1,0 +1,727 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002409_msg0001",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐, 세나\n이번에는 우리도 같이 갈게"
+  }, {
+    "$id" : 2,
+    "label" : "tq002409_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 하지만……"
+  }, {
+    "$id" : 3,
+    "label" : "tq002409_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정하지 마. 뒤에서 보고만 있을 테니까\n얘기하는 건 세나에게 맡길게"
+  }, {
+    "$id" : 4,
+    "label" : "tq002409_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으, 응 그렇다면야……"
+  }, {
+    "$id" : 5,
+    "label" : "tq002409_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시, 실례합니다……\n잠깐 괜찮을까?"
+  }, {
+    "$id" : 6,
+    "label" : "tq002409_msg0006",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "문제없습니다\n또 심문하시겠습니까?"
+  }, {
+    "$id" : 7,
+    "label" : "tq002409_msg0007",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 그건 아니고\n저번에 실례되는 행동을 해 버렸잖아……"
+  }, {
+    "$id" : 8,
+    "label" : "tq002409_msg0008",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 사과도 할 겸\n오늘은 먹을 걸 가져왔어"
+  }, {
+    "$id" : 9,
+    "label" : "tq002409_msg0009",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 10,
+    "label" : "tq002409_msg0010",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "배가 고플 거 같아서 말이야……\n이건 주먹밥이라고 하는 건데……"
+  }, {
+    "$id" : 11,
+    "label" : "tq002409_msg0011",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네"
+  }, {
+    "$id" : 12,
+    "label" : "tq002409_msg0012",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 손재주가 없어서\n이런 거밖에 못 만들거든……"
+  }, {
+    "$id" : 13,
+    "label" : "tq002409_msg0013",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……네"
+  }, {
+    "$id" : 14,
+    "label" : "tq002409_msg0014",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 맛은 보증할게\n미오도 맛있다고 해 줬어\n아, 미오가 누구냐면……"
+  }, {
+    "$id" : 15,
+    "label" : "tq002409_msg0015",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……네"
+  }, {
+    "$id" : 16,
+    "label" : "tq002409_msg0016",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아! 미안!\n먼저 먹어도 괜찮아"
+  }, {
+    "$id" : 17,
+    "label" : "tq002409_msg0017",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "먹겠습니다"
+  }, {
+    "$id" : 18,
+    "label" : "tq002409_msg0018",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 어때?"
+  }, {
+    "$id" : 19,
+    "label" : "tq002409_msg0019",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "질문의 의도를……\n파악할 수…… 없습니다……"
+  }, {
+    "$id" : 20,
+    "label" : "tq002409_msg0020",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맛있어?\n잘 만들어진 거 같아?"
+  }, {
+    "$id" : 21,
+    "label" : "tq002409_msg0021",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "첫 번째 질문에…… 대해서는\n『맛있다』라고…… 7호는 판단합니다"
+  }, {
+    "$id" : 22,
+    "label" : "tq002409_msg0022",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저, 정말? 다행이다……"
+  }, {
+    "$id" : 23,
+    "label" : "tq002409_msg0023",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "두 번째 질문에…… 대해서는……\n고압력으로 압축되어…… 약간 딱딱하고……\n염분도 과합니다……"
+  }, {
+    "$id" : 24,
+    "label" : "tq002409_msg0024",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "윽……\n하, 하지만 그게 장점인걸!\n포만감이 드는 게 좋지 않아?"
+  }, {
+    "$id" : 25,
+    "label" : "tq002409_msg0025",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……동의합니다"
+  }, {
+    "$id" : 26,
+    "label" : "tq002409_msg0026",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어?"
+  }, {
+    "$id" : 27,
+    "label" : "tq002409_msg0027",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이러한 식량을\n7호는 처음 먹어봅니다"
+  }, {
+    "$id" : 28,
+    "label" : "tq002409_msg0028",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 0의 사람들에게도\n맛보여 주고 싶다고 생각합니다"
+  }, {
+    "$id" : 29,
+    "label" : "tq002409_msg0029",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래?"
+  }, {
+    "$id" : 30,
+    "label" : "tq002409_msg0030",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "특히 9호는 지급품인 합성 식량에\n싫증이 난 듯했습니다……"
+  }, {
+    "$id" : 31,
+    "label" : "tq002409_msg0031",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "칼로리 섭취량이 많은 3호도\n이거라면 만족할 거라고 생각되며……"
+  }, {
+    "$id" : 32,
+    "label" : "tq002409_msg0032",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우려되는 점은 6호에게 염분량을 지적받을 시\n약간의 조정을 피할 수 없을 듯합니다만……"
+  }, {
+    "$id" : 33,
+    "label" : "tq002409_msg0033",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 34,
+    "label" : "tq002409_msg0034",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……? 무슨 일 있습니까?"
+  }, {
+    "$id" : 35,
+    "label" : "tq002409_msg0035",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 아무것도 아니야\n괜찮다면 더 들려줬으면 해"
+  }, {
+    "$id" : 36,
+    "label" : "tq002409_msg0036",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다\n설명을 이어가겠습니다"
+  }, {
+    "$id" : 37,
+    "label" : "tq002409_msg0037",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "주먹밥은 맛있었어?"
+  }, {
+    "$id" : 38,
+    "label" : "tq002409_msg0038",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 질문은\n이미 대답한 것으로 기억합니다"
+  }, {
+    "$id" : 39,
+    "label" : "tq002409_msg0039",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 주먹밥은 마음에 들어?"
+  }, {
+    "$id" : 40,
+    "label" : "tq002409_msg0040",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "긍정합니다"
+  }, {
+    "$id" : 41,
+    "label" : "tq002409_msg0041",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래? 다행이다\n나중에 또 만들어 줄게"
+  }, {
+    "$id" : 42,
+    "label" : "tq002409_msg0042",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네"
+  }, {
+    "$id" : 43,
+    "label" : "tq002409_msg0043",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……평범하게 밥 먹고\n평범하게 이야기하고 있잖아"
+  }, {
+    "$id" : 44,
+    "label" : "tq002409_msg0044",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직까진 수상한 점은 없네\n……말투가 기묘한 것만 빼고 말이지"
+  }, {
+    "$id" : 45,
+    "label" : "tq002409_msg0045",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좀 더 세나에게 맡겨 보자"
+  }, {
+    "$id" : 46,
+    "label" : "tq002409_msg0046",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너 있잖아\n이름이 없다고 했지?"
+  }, {
+    "$id" : 47,
+    "label" : "tq002409_msg0047",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 말한 것으로 기억합니다"
+  }, {
+    "$id" : 48,
+    "label" : "tq002409_msg0048",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면…… \"세주\"는 어때?"
+  }, {
+    "$id" : 49,
+    "label" : "tq002409_msg0049",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 50,
+    "label" : "tq002409_msg0050",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어라?"
+  }, {
+    "$id" : 51,
+    "label" : "tq002409_msg0051",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그건 암호 같은 것입니까?"
+  }, {
+    "$id" : 52,
+    "label" : "tq002409_msg0052",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 그런 게 아니고……\n세주라는 이름이 어떻냐 이거지"
+  }, {
+    "$id" : 53,
+    "label" : "tq002409_msg0053",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "논리가 비약되었습니다\n합리적인 설명을……"
+  }, {
+    "$id" : 54,
+    "label" : "tq002409_msg0054",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 어렵게 생각할 건 아니고……\n계속 『너』라고 하면 불편하잖아"
+  }, {
+    "$id" : 55,
+    "label" : "tq002409_msg0055",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "7호는……"
+  }, {
+    "$id" : 56,
+    "label" : "tq002409_msg0056",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래! 『7호』니까 \"세븐\"의 \"세\"에\n\"주먹밥\"에서도 한 자 따서 『세주』"
+  }, {
+    "$id" : 57,
+    "label" : "tq002409_msg0057",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후자의 명칭이 왜 채택되었는지 불명확합니다"
+  }, {
+    "$id" : 58,
+    "label" : "tq002409_msg0058",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건…… 방금 네가\n주먹밥이 좋다고 하길래……"
+  }, {
+    "$id" : 59,
+    "label" : "tq002409_msg0059",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 저기 세나 씨……?\n아무리 그래도 그건 아니지 않아?"
+  }, {
+    "$id" : 60,
+    "label" : "tq002409_msg0060",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세나…… 너 설마\n머릿속에 근육만 남아 버린 건 아니지?"
+  }, {
+    "$id" : 61,
+    "label" : "tq002409_msg0061",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안, 세나\n나는 너를 이해할 수가 없었어"
+  }, {
+    "$id" : 62,
+    "label" : "tq002409_msg0062",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜~ 다들 너무해……\n괜찮은 것 같은데, \"세주\""
+  }, {
+    "$id" : 63,
+    "label" : "tq002409_msg0063",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나, 나도 그렇게 생각해\n친근감 있어 보인달까…… 응"
+  }, {
+    "$id" : 64,
+    "label" : "tq002409_msg0064",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아하하…… 그런데 별일이네\n세나가 이렇게까지 말할 줄이야"
+  }, {
+    "$id" : 65,
+    "label" : "tq002409_msg0065",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그런가?\n……아니, 그 말이 맞네"
+  }, {
+    "$id" : 66,
+    "label" : "tq002409_msg0066",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 미오, 나는 이 아이를……"
+  }, {
+    "$id" : 67,
+    "label" : "tq002409_msg0067",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 68,
+    "label" : "tq002409_msg0068",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미, 미안해\n갑자기 이상한 소릴 해서…… 싫었지?"
+  }, {
+    "$id" : 69,
+    "label" : "tq002409_msg0069",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……규정상 호칭에 대해\n특별한 제약은 없습니다"
+  }, {
+    "$id" : 70,
+    "label" : "tq002409_msg0070",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응?"
+  }, {
+    "$id" : 71,
+    "label" : "tq002409_msg0071",
+    "talker" : "eW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "7호를 어떤 호칭으로 부르더라도\n그에 대해 거부할 권한을\n7호는 가지고 있지 않습니다"
+  }, {
+    "$id" : 72,
+    "label" : "tq002409_msg0072",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇다면 너를 세주라 불러도\n상관없다는 거지?"
+  }, {
+    "$id" : 73,
+    "label" : "tq002409_msg0073",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……긍정합니다"
+  }, {
+    "$id" : 74,
+    "label" : "tq002409_msg0074",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸 긍정하네……"
+  }, {
+    "$id" : 75,
+    "label" : "tq002409_msg0075",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후, 잘됐네 세나"
+  }, {
+    "$id" : 76,
+    "label" : "tq002409_msg0076",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응!"
+  }, {
+    "$id" : 77,
+    "label" : "tq002409_msg0077",
+    "talker" : "6",
+    "talkattr" : 33026,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직 모르는 점도 많지만……\n그래도……"
+  }, {
+    "$id" : 78,
+    "label" : "tq002409_msg0078",
+    "talker" : "6",
+    "talkattr" : 33026,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 아이를 \"7호\"라고 부르는 건\n역시 아니라는 생각이 들어……"
+  } ]
+}

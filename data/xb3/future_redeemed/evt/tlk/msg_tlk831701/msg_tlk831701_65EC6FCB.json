@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831701_msg0001",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831701_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그래? 기운이 없네?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831701_msg0003",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……콜로니 바깥으로 나갔다가\n몬스터에게 들켜서 쫓겨 다녔어요\n……분명 안 들키게 잘 숨었는데"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831701_msg0004",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적들 중에는 시각뿐 아니라\n기척으로 이쪽을 감지하는 타입도 있어\n아마 그런 녀석이었겠지"
+  }, {
+    "$id" : 5,
+    "label" : "tlk831701_msg0005",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으…… 그런가요\n방심했네요……"
+  }, {
+    "$id" : 6,
+    "label" : "tlk831701_msg0006",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번엔 무사했지만 또 모르니까\n다음부터는 조심해"
+  } ]
+}

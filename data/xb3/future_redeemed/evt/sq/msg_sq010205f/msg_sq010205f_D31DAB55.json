@@ -1,0 +1,151 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<EC4B2C0F>",
+    "talker" : "dq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어서 오세요\n필요한 물건 있으신가요?"
+  }, {
+    "$id" : 2,
+    "label" : "<5BED4936>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰스러운 장식이 있는\n묘한 해머를 찾고 있어\n이쪽으로 보내졌다고 들었는데"
+  }, {
+    "$id" : 3,
+    "label" : "<B900BA13>",
+    "talker" : "dq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아……! 그 쓰기 불편해 보이는\n이상한 해머 말씀이시군요"
+  }, {
+    "$id" : 4,
+    "label" : "<907CF826>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아마 그거 맞을 거야\n아무튼 그건 리쿠 물건이니 돌려줄 수 있을까?"
+  }, {
+    "$id" : 5,
+    "label" : "<A228B75C>",
+    "talker" : "dq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 말이죠……\n조금 전에 누가 잠깐 빌리겠다면서\n여기서 가져가 버려서요……"
+  }, {
+    "$id" : 6,
+    "label" : "<C101991B>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런……\n누가 가져갔는지는 알아?"
+  }, {
+    "$id" : 7,
+    "label" : "<F4B768CA>",
+    "talker" : "dq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어…… 저도 작업하는 중이었어서\n얼굴까지는 확인 못 했는데요……"
+  }, {
+    "$id" : 8,
+    "label" : "<A2B2D554>",
+    "talker" : "dq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명 중앙 광장에서 쓰겠다 그랬어요\n어디에 쓸 생각인지는 모르겠지만요……"
+  }, {
+    "$id" : 9,
+    "label" : "<DF85F30F>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나……"
+  }, {
+    "$id" : 10,
+    "label" : "<7D1FC46B>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠, 어디부터 찾으면 될까……"
+  }, {
+    "$id" : 11,
+    "label" : "<32DE9D67>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "중앙 광장에서\n해머가 필요할 만한 현장은\n별로 많지 않을걸"
+  }, {
+    "$id" : 12,
+    "label" : "<B1812702>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 직접 돌아보면\n의외로 금방 찾을지도 몰라"
+  }, {
+    "$id" : 13,
+    "label" : "<F0CEEB28>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇군……\n귀찮지만 그게 차라리 빠르겠네"
+  }, {
+    "$id" : 14,
+    "label" : "<D21674DE>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 광장을 샅샅이 뒤져 볼까?"
+  } ]
+}

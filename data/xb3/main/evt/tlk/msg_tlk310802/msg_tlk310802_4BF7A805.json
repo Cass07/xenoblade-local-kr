@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk310802_msg0001",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희가 에테르 채굴에\n협력해 줬다면서?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk310802_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "협력이라고 할 정도는 아니야……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk310802_msg0003",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희가 협력해 주지 않았다면\n시간이 더 오래 걸렸을 테지……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk310802_msg0004",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 갱도는 향후 람다에게\n분명 중요한 장소가 될 거야"
+  }, {
+    "$id" : 5,
+    "label" : "tlk310802_msg0005",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워!"
+  } ]
+}

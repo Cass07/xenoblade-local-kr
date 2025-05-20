@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq311311_msg1000",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : "회화나무 잎을 건넸다"
+  }, {
+    "$id" : 2,
+    "label" : "nq311311_msg0001",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 이 정도면 충분해!\n이제 관은 문제없겠어"
+  }, {
+    "$id" : 3,
+    "label" : "nq311311_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "원로원 쪽은 어땠어?"
+  }, {
+    "$id" : 4,
+    "label" : "nq311311_msg0003",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후…… 상처에 소금은\n뿌리면 안 되는 법이라네, 젊은이……"
+  }, {
+    "$id" : 5,
+    "label" : "nq311311_msg0004",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐…… 깔끔하게 해결한 건 아니지만\n그런 게 뭐가 중요하겠어"
+  }, {
+    "$id" : 6,
+    "label" : "nq311311_msg0005",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신성인들한테도 곧 연락이 가겠지만\n그래도 너희가 먼저 가서\n크라이트한테 말 좀 전해 줄래?"
+  }, {
+    "$id" : 7,
+    "label" : "nq311311_msg0006",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석이라면 아주 원만하게\n이것저것 해결해 줄 테니까 말이지"
+  } ]
+}

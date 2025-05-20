@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk610803_msg0001",
+    "talker" : "wj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티와 케베스와\n협력한다는 말은"
+  }, {
+    "$id" : 2,
+    "label" : "tlk610803_msg0002",
+    "talker" : "wj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 가트라테스에 탈 수 있다는 건가?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk610803_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 아직 모르지만\n너를 태우면 왠지 위험할 것 같아"
+  }, {
+    "$id" : 4,
+    "label" : "tlk610803_msg0004",
+    "talker" : "wj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정 붙들어 매\n내 레브니스 조종 실력은 기가 막히거든"
+  }, {
+    "$id" : 5,
+    "label" : "tlk610803_msg0005",
+    "talker" : "wj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "날뛸 생각에……\n벌써부터 온몸이 근질거리는데!"
+  } ]
+}

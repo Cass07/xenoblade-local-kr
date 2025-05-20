@@ -1,0 +1,187 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<5639A031>",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐 좀 물어봐도 되겠나?"
+  }, {
+    "$id" : 2,
+    "label" : "<B02C51AD>",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어머, 뭔데?"
+  }, {
+    "$id" : 3,
+    "label" : "<A93332DC>",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "온천이라는 걸 아나?"
+  }, {
+    "$id" : 4,
+    "label" : "<B62FB656>",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이제 와서 그 단어를 들을 줄은\n생각도 못 했네"
+  }, {
+    "$id" : 5,
+    "label" : "<FB00AE6F>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 그럼 알고 있다는 거야?"
+  }, {
+    "$id" : 6,
+    "label" : "<17FF0BAF>",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼, 그럼…… 물론이지\n귀에 못이 박힐 만큼 들었는걸"
+  }, {
+    "$id" : 7,
+    "label" : "<119D051D>",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몸에 난 상처가 낫고 마음에 온기를 주며\n사람들의 유대감이 깊어지는 장소라던데"
+  }, {
+    "$id" : 8,
+    "label" : "<E15176EE>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그렇게 대단한 거구나……"
+  }, {
+    "$id" : 9,
+    "label" : "<77B382F9>",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 나는 가 본 적이 없어\n듣기론 이미 몇십 년 전에\n말라 버렸다던데……"
+  }, {
+    "$id" : 10,
+    "label" : "<E552B37C>",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 존재하지 않는 건가?"
+  }, {
+    "$id" : 11,
+    "label" : "<5765CBA2>",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무 데나 있는 게 아니거든\n지금 시티에서 온천에 대해 아는 사람은……"
+  }, {
+    "$id" : 12,
+    "label" : "<CAE40F09>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아는 사람이 또 있어?"
+  }, {
+    "$id" : 13,
+    "label" : "<E2D4DFC1>",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 있지. 그 사람이라면\n가르쳐 줄지도 몰라"
+  }, {
+    "$id" : 14,
+    "label" : "<DEC3A880>",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이름이…… 으음……"
+  }, {
+    "$id" : 15,
+    "label" : "<0973DDD3>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 좀 떠올려 봐\n이대로 못 찾으면 이스루기가\n지쳐서 말라비틀어질 거라고"
+  }, {
+    "$id" : 16,
+    "label" : "<EEC82455>",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 그 정도로 지친 건 아니다만……"
+  }, {
+    "$id" : 17,
+    "label" : "<D0979765>",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 잡학왕이라고 불리던데\n그 사람이라면 알고 있을 거야"
+  }, {
+    "$id" : 18,
+    "label" : "<4C4BAAC9>",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇군, 고마워"
+  } ]
+}

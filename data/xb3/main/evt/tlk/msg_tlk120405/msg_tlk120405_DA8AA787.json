@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120405_msg0001",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "키리에가 무사해서 다행이에요\n그런데…… 분위기가 조금 달라졌네요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120405_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그게 보여?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120405_msg0003",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 자세히 설명은 못 하겠지만……\n전보다 좀 늠름해진 것 같은 느낌?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120405_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 말을 키리에한테 직접 해 줘\n분명 기뻐할 거야"
+  }, {
+    "$id" : 5,
+    "label" : "tlk120405_msg0005",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음…… 그만둘게요\n들으면 우쭐대서 또 무리할 것 같아요"
+  } ]
+}

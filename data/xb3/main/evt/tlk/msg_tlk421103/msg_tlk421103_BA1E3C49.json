@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk421103_msg0001",
+    "talker" : "Wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "춤추는 노폰정에 가 봤어?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk421103_msg0002",
+    "talker" : "Wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "장래가 유망한 젊은이를 올바르게 키우는 게\n자기 역할이라면서, 오카카 씨가\n항상 음식을 곱빼기로 해 주시거든"
+  }, {
+    "$id" : 3,
+    "label" : "tlk421103_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐……?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk421103_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우린 그런 적 없는데……?!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk421103_msg0005",
+    "talker" : "Wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗……\n이번에는 내가 이겼군"
+  } ]
+}

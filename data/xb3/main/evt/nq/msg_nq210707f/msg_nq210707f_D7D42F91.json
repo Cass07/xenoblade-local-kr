@@ -1,0 +1,169 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq210707_msg0001",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "현재 상황은 어때?"
+  }, {
+    "$id" : 2,
+    "label" : "nq210707_msg0002",
+    "talker" : "wc1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희였구나, 와 줘서 다행이야\n적이 이 위쪽까지 접근했어"
+  }, {
+    "$id" : 3,
+    "label" : "nq210707_msg0003",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "위쪽……"
+  }, {
+    "$id" : 4,
+    "label" : "nq210707_msg0004",
+    "talker" : "wc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금부터 다른 부대를 소집해서\n요격하러 가려는……"
+  }, {
+    "$id" : 5,
+    "label" : "nq210707_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기다려, 로쇼\n너는 \"정면\"으로 가"
+  }, {
+    "$id" : 6,
+    "label" : "nq210707_msg0006",
+    "talker" : "wc1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐라고?"
+  }, {
+    "$id" : 7,
+    "label" : "nq210707_msg0007",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스군이 이제 와서\n위쪽을 제압하러 온다는 게 수상해"
+  }, {
+    "$id" : 8,
+    "label" : "nq210707_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 거면 처음부터\n다른 곳으로 유인해서 이쪽을 쳤겠지"
+  }, {
+    "$id" : 9,
+    "label" : "nq210707_msg0009",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서로의 전력을 다 소모한 것도 아니고\n이 상황에 도박을 하려는 것처럼 보이지도 않아"
+  }, {
+    "$id" : 10,
+    "label" : "nq210707_msg0010",
+    "talker" : "wc1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "과연, 일리 있어\n그래서?"
+  }, {
+    "$id" : 11,
+    "label" : "nq210707_msg0011",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 생각엔 전술적으로 유도하기 위해서\n위쪽으로 접근한 거라고 봐"
+  }, {
+    "$id" : 12,
+    "label" : "nq210707_msg0012",
+    "talker" : "wc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……좋아, 네 말을 믿고\n우리는 수비가 허술한 곳으로 가겠어"
+  }, {
+    "$id" : 13,
+    "label" : "nq210707_msg0013",
+    "talker" : "5",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 대장님이군\n이럴 땐 판단이 빠르네"
+  }, {
+    "$id" : 14,
+    "label" : "nq210707_msg0014",
+    "talker" : "wc1",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗…… 이렇게 보여도\n전투 부대를 이끄는 몸이거든"
+  }, {
+    "$id" : 15,
+    "label" : "nq210707_msg0015",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "위쪽은 우리가 제압할게\n자율형 레브니스가 배치되어 있으니\n어려운 일은 아닐 거야"
+  }, {
+    "$id" : 16,
+    "label" : "nq210707_msg0016",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 진짜 결전이야! 다들, 가자!"
+  } ]
+}

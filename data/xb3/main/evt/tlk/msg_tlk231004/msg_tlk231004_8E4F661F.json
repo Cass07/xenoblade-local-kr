@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk231004_msg0001",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여긴 노폰이 워낙 많으니\n도무지 분간이 되질 않아……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk231004_msg0002",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나사를 잘 조이는 게 레파파고……\n어라? 우베베였나?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk231004_msg0003",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가쿠……\n만일 노폰한테도 뒤지는\n꼴사나운 일솜씨를 보였다간…… 알지?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk231004_msg0004",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무, 물론이죠!\n정신 똑바로 차리고 일하겠습니다!"
+  } ]
+}

@@ -1,0 +1,385 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq030606_msg0001",
+    "talker" : "vY1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오래 기다리셨습니다~!\n10호가 왔어요~"
+  }, {
+    "$id" : 2,
+    "label" : "nq030606_msg0002",
+    "talker" : "6",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아! 어서 와\n수고 많았어"
+  }, {
+    "$id" : 3,
+    "label" : "nq030606_msg0003",
+    "talker" : "tY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "10호, 그림은……?"
+  }, {
+    "$id" : 4,
+    "label" : "nq030606_msg0004",
+    "talker" : "vY1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후후~ 진정들 하시고~\n지금 바로 가져올게~!"
+  }, {
+    "$id" : 5,
+    "label" : "nq030606_msg0005",
+    "talker" : "1",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건……"
+  }, {
+    "$id" : 6,
+    "label" : "nq030606_msg0006",
+    "talker" : "2",
+    "talkattr" : 33096,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 7,
+    "label" : "nq030606_msg0007",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이게 집정관이\n\"세계의 질서를 위협하는 존재\"라고\n말하던 그건가……?"
+  }, {
+    "$id" : 8,
+    "label" : "nq030606_msg0008",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흐음, 글쎄\n좀 더 끔찍한 걸 상상했는데"
+  }, {
+    "$id" : 9,
+    "label" : "nq030606_msg0009",
+    "talker" : "6",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아이들이 참 행복해 보이네\n분명 무척 사이가 좋겠지?"
+  }, {
+    "$id" : 10,
+    "label" : "nq030606_msg0010",
+    "talker" : "2",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응…… 뭔가 마음이 따뜻해지는\n포근한 분위기가 느껴져"
+  }, {
+    "$id" : 11,
+    "label" : "nq030606_msg0011",
+    "talker" : "3",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게, 이건 이거대로 나쁘지 않아"
+  }, {
+    "$id" : 12,
+    "label" : "nq030606_msg0012",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……? 왜 그래?"
+  }, {
+    "$id" : 13,
+    "label" : "nq030606_msg0013",
+    "talker" : "tY1",
+    "talkattr" : 33064,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 14,
+    "label" : "nq030606_msg0014",
+    "talker" : "vY1",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어라~?\n8호, 설마 너 지금 울어?"
+  }, {
+    "$id" : 15,
+    "label" : "nq030606_msg0015",
+    "talker" : "tY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가르쳐 줘, 10호\n콜로니 0는 대체 뭐야……?"
+  }, {
+    "$id" : 16,
+    "label" : "nq030606_msg0016",
+    "talker" : "vY1",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으응……? 왜 그래, 갑자기?\n그나저나 그건 왜 물어?"
+  }, {
+    "$id" : 17,
+    "label" : "nq030606_msg0017",
+    "talker" : "tY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "8호랑 다른 사람들은 \"저 아이들\" 같은 존재를\n세계에서 없애기 위해 싸워 온 거야?"
+  }, {
+    "$id" : 18,
+    "label" : "nq030606_msg0018",
+    "talker" : "tY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기에 그려져 있는 누군가의 행복을\n파괴하기 위해서 임무를 수행해 온 거야……?"
+  }, {
+    "$id" : 19,
+    "label" : "nq030606_msg0019",
+    "talker" : "tY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 끔찍한 짓들이……\n정말 용서받아도 되는 걸까……?"
+  }, {
+    "$id" : 20,
+    "label" : "nq030606_msg0020",
+    "talker" : "vY1",
+    "talkattr" : 33064,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 21,
+    "label" : "nq030606_msg0021",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "8호……"
+  }, {
+    "$id" : 22,
+    "label" : "nq030606_msg0022",
+    "talker" : "tY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 0는…… 8호와 모두는……\n태어나지 말아야 했을까……?"
+  }, {
+    "$id" : 23,
+    "label" : "nq030606_msg0023",
+    "talker" : "6",
+    "talkattr" : 33105,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건……!"
+  }, {
+    "$id" : 24,
+    "label" : "nq030606_msg0024",
+    "talker" : "vY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐 어때, 8호\n그런 건 신경 쓸 것 없어"
+  }, {
+    "$id" : 25,
+    "label" : "nq030606_msg0025",
+    "talker" : "tY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "10호…… 하지만……!"
+  }, {
+    "$id" : 26,
+    "label" : "nq030606_msg0026",
+    "talker" : "vY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확실히 10호도 다른 사람들도……\n무언가를 파괴하지 않으면\n살아갈 수 없는 인간이었지만……"
+  }, {
+    "$id" : 27,
+    "label" : "nq030606_msg0027",
+    "talker" : "vY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대신에 지금부터 지켜나가는 거야\n이 세계도, 모든 사람들도……"
+  }, {
+    "$id" : 28,
+    "label" : "nq030606_msg0028",
+    "talker" : "vY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기에 그려진 아이들도, 전부 다 지키자"
+  }, {
+    "$id" : 29,
+    "label" : "nq030606_msg0029",
+    "talker" : "tY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지켜……? 8호랑 모두가……?"
+  }, {
+    "$id" : 30,
+    "label" : "nq030606_msg0030",
+    "talker" : "tY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……바뀔 수 있을까?\n지금까지의…… 콜로니 0의 방식에서……"
+  }, {
+    "$id" : 31,
+    "label" : "nq030606_msg0031",
+    "talker" : "vY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거야 지금 7호를 보면\n확실히 알 수 있잖아"
+  }, {
+    "$id" : 32,
+    "label" : "nq030606_msg0032",
+    "talker" : "tY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런가…… 그래서 7호는\n모두를 위해서 계속……"
+  }, {
+    "$id" : 33,
+    "label" : "nq030606_msg0033",
+    "talker" : "2",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "문득 드는 생각이지만……\n뫼비우스가 왜 저 회화를\n위험하다고 했는지 알 것 같아"
+  }, {
+    "$id" : 34,
+    "label" : "nq030606_msg0034",
+    "talker" : "6",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응…… 나도 알 것 같아, 미오"
+  }, {
+    "$id" : 35,
+    "label" : "nq030606_msg0035",
+    "talker" : "vY1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……앗! 맞다, 맞아!\n리안다 씨가 말이야~\n이 회화에 제목을 붙여 줬어"
+  }, {
+    "$id" : 36,
+    "label" : "nq030606_msg0036",
+    "talker" : "4",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제목이라니……?"
+  }, {
+    "$id" : 37,
+    "label" : "nq030606_msg0037",
+    "talker" : "vY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떤 회화든 반드시 제목이 있대\n원래는 그린 사람이 붙인다고 하던데……"
+  }, {
+    "$id" : 38,
+    "label" : "nq030606_msg0038",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "호~오\n그래서 리안다는 뭐라고 붙였는데?"
+  }, {
+    "$id" : 39,
+    "label" : "nq030606_msg0039",
+    "talker" : "vY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음~ 뭐였더라……\n무슨 뜻인지는 잘 모르겠지만……"
+  }, {
+    "$id" : 40,
+    "label" : "nq030606_msg0040",
+    "talker" : "vY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……『형제』라더라"
+  } ]
+}

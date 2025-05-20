@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq200101_msg0001",
+    "talker" : "rd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정적을 만드는 물이야모"
+  }, {
+    "$id" : 2,
+    "label" : "nq200101_msg0002",
+    "talker" : "rd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "건드려서는 안 되고\n긴의 시간도 녹여모"
+  }, {
+    "$id" : 3,
+    "label" : "nq200101_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……대체 무슨 뜻일까……?"
+  }, {
+    "$id" : 4,
+    "label" : "nq200101_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "위험하다고 알려 주는 거 아닐까……?"
+  }, {
+    "$id" : 5,
+    "label" : "nq200101_msg0005",
+    "talker" : "rd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "긴은 땅의 소리를 듣기 위해 걸어갈 거야모"
+  } ]
+}

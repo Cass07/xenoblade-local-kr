@@ -1,0 +1,349 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq000908_msg0001",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희에게는 늘 도움만 받는군\n고맙다, 무언가 답례를……"
+  }, {
+    "$id" : 2,
+    "label" : "tq000908_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 왜 자율형 레브니스가\n우리를 공격한 거야?"
+  }, {
+    "$id" : 3,
+    "label" : "tq000908_msg0003",
+    "talker" : "vc1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……재기동되면 적을 무차별로 공격하도록\n설정되어 있었을지도 몰라"
+  }, {
+    "$id" : 4,
+    "label" : "tq000908_msg0004",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 건가"
+  }, {
+    "$id" : 5,
+    "label" : "tq000908_msg0005",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "강제로 재기동된 탓에\n다른 명령이 발생했다는 말이군"
+  }, {
+    "$id" : 6,
+    "label" : "tq000908_msg0006",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 수가……"
+  }, {
+    "$id" : 7,
+    "label" : "tq000908_msg0007",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번 일이 발생한 경위는\n기술부에 조사를 맡기도록 하지"
+  }, {
+    "$id" : 8,
+    "label" : "tq000908_msg0008",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "필요한 장비이긴 하지만\n위험이 따르는 이상 신중해야 해"
+  }, {
+    "$id" : 9,
+    "label" : "tq000908_msg0009",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자 그럼, 너희에게는\n역시 답례를 해야겠는걸"
+  }, {
+    "$id" : 10,
+    "label" : "tq000908_msg0010",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말했잖아, 보답을 바라고\n도와준 건 아니라고"
+  }, {
+    "$id" : 11,
+    "label" : "tq000908_msg0011",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 이대로는 내가 미안하지\n크게 빚진 것도 있으니까"
+  }, {
+    "$id" : 12,
+    "label" : "tq000908_msg0012",
+    "talker" : "1",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 말해도 딱히……\n뭐 바라는 거 있어?"
+  }, {
+    "$id" : 13,
+    "label" : "tq000908_msg0013",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄……"
+  }, {
+    "$id" : 14,
+    "label" : "tq000908_msg0014",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 제 부탁을 하나만……"
+  }, {
+    "$id" : 15,
+    "label" : "tq000908_msg0015",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 뭐든 말해 다오\n너에게도 폐를 끼쳤으니까"
+  }, {
+    "$id" : 16,
+    "label" : "tq000908_msg0016",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다시 한번 당신과 함께\n싸우고 싶습니다"
+  }, {
+    "$id" : 17,
+    "label" : "tq000908_msg0017",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?"
+  }, {
+    "$id" : 18,
+    "label" : "tq000908_msg0018",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제가 가는 길이 틀리지 않았다는 걸\n당신께서도 알아주셨으면 합니다\n군무장님"
+  }, {
+    "$id" : 19,
+    "label" : "tq000908_msg0019",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……타이온"
+  }, {
+    "$id" : 20,
+    "label" : "tq000908_msg0020",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그런가"
+  }, {
+    "$id" : 21,
+    "label" : "tq000908_msg0021",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 군무장으로서 할 일도 있으니\n항상 함께할 수는 없을지도 몰라"
+  }, {
+    "$id" : 22,
+    "label" : "tq000908_msg0022",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 나도, 람다도\n타이온…… 아니, 너희의 힘이\n되어 주겠다고 맹세하지"
+  }, {
+    "$id" : 23,
+    "label" : "tq000908_msg0023",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "필요할 때는 언제든지 불러 다오\n어디에 있든 달려갈 테니"
+  }, {
+    "$id" : 24,
+    "label" : "tq000908_msg0024",
+    "talker" : "4",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 감사합니다! 군무장님"
+  }, {
+    "$id" : 25,
+    "label" : "tq000908_msg0025",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 너희에게 지지 않도록\n정진해야겠군"
+  }, {
+    "$id" : 26,
+    "label" : "tq000908_msg0026",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 람다는 앞으로도 계속해서\n발전해 나가야 하니까"
+  }, {
+    "$id" : 27,
+    "label" : "tq000908_msg0027",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 거라면\n우리가 도와줄 수 있어"
+  }, {
+    "$id" : 28,
+    "label" : "tq000908_msg0028",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 아무리 그래도\n거기까지 너희에게 부탁하기엔……"
+  }, {
+    "$id" : 29,
+    "label" : "tq000908_msg0029",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 동료잖아\n동료한테 의지하는 게\n나쁜 일은 아니야"
+  }, {
+    "$id" : 30,
+    "label" : "tq000908_msg0030",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 31,
+    "label" : "tq000908_msg0031",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……후후\n그래, 동료라……"
+  }, {
+    "$id" : 32,
+    "label" : "tq000908_msg0032",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희는 너무 착해서 탈이군"
+  }, {
+    "$id" : 33,
+    "label" : "tq000908_msg0033",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야? 도와주겠다는데\n그렇게 말할 거야?"
+  }, {
+    "$id" : 34,
+    "label" : "tq000908_msg0034",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 나쁜 뜻은 아니었다\n때가 되면 부탁하지"
+  }, {
+    "$id" : 35,
+    "label" : "tq000908_msg0035",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "언제든지……\n언제든지 불러 주세요"
+  }, {
+    "$id" : 36,
+    "label" : "tq000908_msg0036",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은 동료를 만난 것 같구나……\n타이온"
+  } ]
+}

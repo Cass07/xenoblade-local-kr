@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk130103_msg0001",
+    "talker" : "lY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 론이 흔히 쓰는 수법 중 하나인데\n\"수수료\"라고 하면서 원가보다도\n더 큰 대가를 청구할 때가 있어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk130103_msg0002",
+    "talker" : "lY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석한테 전부 맡기는 건 위험해\n최악의 경우 수용소를 리모델링하기는커녕\n수용소를 압류당할 가능성마저 있지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk130103_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "완전 악당이잖아?\n늦은 감도 있긴 한데, 정말 괜찮은 거 맞지?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk130103_msg0004",
+    "talker" : "lY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……다른 방도가 없긴 했지만\n론과의 거래를 중개한 건 6호니까\n그 녀석은 6호가 책임지고 감시하겠어"
+  } ]
+}

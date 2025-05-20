@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk712403_msg0001",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "설마 케베스군의 잔당을\n이 시티에 들이게 될 줄이야"
+  }, {
+    "$id" : 2,
+    "label" : "tlk712403_msg0002",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무리 히라치의 은인이라지만\n장로가 참 대단한 결단을 내렸어……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk712403_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "폐 끼쳐서 미안해\n하지만 콜로니 15 사람들은\n모두 좋은 사람이고……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk712403_msg0004",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 잘 아니까 걱정 마\n그보단 구태여 충고 하나 하겠는데"
+  }, {
+    "$id" : 5,
+    "label" : "tlk712403_msg0005",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "개릿을 조심해\n신념이 있는 자라서 적대할지도 몰라\n……그러지 않기를 바라고 있다만"
+  } ]
+}

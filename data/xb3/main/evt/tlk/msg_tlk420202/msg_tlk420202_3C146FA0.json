@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk420202_msg0001",
+    "talker" : "te1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얼마 전에 쿠라쿠라 씨가 찾아와서\n악기 연주를 다 했지 뭐니모~"
+  }, {
+    "$id" : 2,
+    "label" : "tlk420202_msg0002",
+    "talker" : "te1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 집정관한테 금지당할 일도 없으니\n식사와 함께 멋진 음색까지\n즐길 수 있겠다고 다들 기뻐했어모~"
+  }, {
+    "$id" : 3,
+    "label" : "tlk420202_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말만 들어도 근사했을 거 같아……\n나도 들어 봤으면 좋았을 텐데"
+  }, {
+    "$id" : 4,
+    "label" : "tlk420202_msg0004",
+    "talker" : "te1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래! 그러니 다음에는 꼭 와 주렴모~"
+  } ]
+}

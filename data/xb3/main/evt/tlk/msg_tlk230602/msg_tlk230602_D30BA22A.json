@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230602_msg0001",
+    "talker" : "Zb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한때 실버까지 올라갔다 한들\n콜로니는 아직 발전하는 도중이니……\n결코 안심할 수는 없소"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230602_msg0002",
+    "talker" : "Zb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "싸움의 추세가 변한 지금\n다시 한번 병사의 육성을 재검토하고……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230602_msg0003",
+    "talker" : "Zb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"살아가는 일\"이 좀 더\n즐거워지도록 바꿔 나가고 싶소!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk230602_msg0004",
+    "talker" : "Zb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러기 위해서는 이 소인도……\n계속해서 견문을 넓혀야 할 것이오!"
+  } ]
+}

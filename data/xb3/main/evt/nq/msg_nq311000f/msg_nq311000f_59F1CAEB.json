@@ -1,0 +1,142 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq311000_msg0001",
+    "talker" : "kl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "헉……\n헉……\n으윽……"
+  }, {
+    "$id" : 2,
+    "label" : "nq311000_msg0101",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮아?"
+  }, {
+    "$id" : 3,
+    "label" : "nq311000_msg0201",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기……\n괜찮아?"
+  }, {
+    "$id" : 4,
+    "label" : "nq311000_msg0301",
+    "talker" : "kl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왠지…… 가슴이 답답해서……"
+  }, {
+    "$id" : 5,
+    "label" : "nq311000_msg0302",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐만 있어 봐"
+  }, {
+    "$id" : 6,
+    "label" : "nq311000_msg0303",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "라운드 힐링"
+  }, {
+    "$id" : 7,
+    "label" : "nq311000_msg0304",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직도 힘들어 보여요모"
+  }, {
+    "$id" : 8,
+    "label" : "nq311000_msg0305",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "효과가 없나?"
+  }, {
+    "$id" : 9,
+    "label" : "nq311000_msg0401",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "의료 시설로 데려가야겠어\n거기에 가면 뭔가 방법이 있을지도 몰라"
+  }, {
+    "$id" : 10,
+    "label" : "nq311000_msg0402",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 도울게"
+  }, {
+    "$id" : 11,
+    "label" : "nq311000_msg0501",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아츠로 회복이 안 되면\n의료 시설로 데려가 보자"
+  }, {
+    "$id" : 12,
+    "label" : "nq311000_msg0502",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선생님이라면 대처법을 알지도 몰라"
+  }, {
+    "$id" : 13,
+    "label" : "nq311000_msg0503",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 좋겠어"
+  } ]
+}

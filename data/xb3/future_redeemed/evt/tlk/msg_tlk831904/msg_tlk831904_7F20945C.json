@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831904_msg0001",
+    "talker" : "yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얼마 전에 새로 온 케베스 병사에게\n말을 걸었더니 엄청 놀라더라\n그거 진짜 너도 봤어야 했는데"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831904_msg0002",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇겠지\n적이 말을 걸어오다니\n보통은 생각할 수 없는 일이니까"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831904_msg0003",
+    "talker" : "yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "베르톨트도 처음에는 그런 느낌이었지만\n지금은 나하고 콤비니까\n금방 친해질 수 있을 거야"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831904_msg0004",
+    "talker" : "yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그쪽도 케베스 병사가 보이거든\n안부 인사나 한번 해 보는 건 어때?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk831904_msg0005",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……생각은 해 볼게"
+  } ]
+}

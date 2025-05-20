@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq240191_msg0001",
+    "talker" : "we1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기 훈련병들은\n대부분 간부 후보생들인데"
+  }, {
+    "$id" : 2,
+    "label" : "nq240191_msg0002",
+    "talker" : "we1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직 3기밖에 안 됐으면서\n지식만은 8기나 9기 녀석들이랑\n비교해도 뒤지지 않는다니 대단할 따름이지"
+  }, {
+    "$id" : 3,
+    "label" : "nq240191_msg0003",
+    "talker" : "we1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 그래서 그런지\n전부터 다른 콜로니 병사들을\n깔보는 경향이 있거든"
+  }, {
+    "$id" : 4,
+    "label" : "nq240191_msg0004",
+    "talker" : "we1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "막상 실전에 투입되면\n현장의 병사들이랑 충돌하지 않을까\n걱정된단 말이지"
+  }, {
+    "$id" : 5,
+    "label" : "nq240191_msg0005",
+    "talker" : "we1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "더 늦기 전에 누가 그 높은 콧대를\n꺾어 주면 좋겠는데……"
+  } ]
+}

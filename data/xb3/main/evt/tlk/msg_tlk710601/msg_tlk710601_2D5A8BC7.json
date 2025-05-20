@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk710601_msg0001",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "형들이랑 누나들은\n싸울 때 다양한 무기를 쓰잖아\n주로 쓸 무기는 어떻게 정했어?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk710601_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떻게 정했냐고?\n음…… 그냥 다루기 쉬운 걸\n고른 것 같은데……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk710601_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시노는 그게 왜 궁금한데?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk710601_msg0004",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "참고 좀 하려고 그러지!\n무기야 꺼내라면 뭐든 꺼낼 수야 있지만\n정작 다루는 게 어설프면 이길 수가 없잖아?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk710601_msg0005",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 무기를 하나 고른 다음\n기술을 연마해서 언젠가 나도 아빠처럼\n우로보로스 후보생이 될 거야!"
+  } ]
+}

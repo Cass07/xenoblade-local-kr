@@ -1,0 +1,53 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<3B21E823>",
+    "style" : 15,
+    "name" : "다운을 부여한다"
+  }, {
+    "$id" : 2,
+    "label" : "<AA7A117F>",
+    "style" : 15,
+    "name" : "스매시를 부여한다"
+  }, {
+    "$id" : 3,
+    "label" : "<80703E37>",
+    "style" : 15,
+    "name" : "버스트를 부여한다"
+  }, {
+    "$id" : 4,
+    "label" : "<EA895783>",
+    "style" : 15,
+    "name" : "전투 불능이 되지 않는다"
+  }, {
+    "$id" : 5,
+    "label" : "<D873B8D8>",
+    "style" : 15,
+    "name" : "우로보로스로 쓰러뜨린다"
+  }, {
+    "$id" : 6,
+    "label" : "<2905F288>",
+    "style" : 15,
+    "name" : "체인 어택으로 쓰러뜨린다"
+  }, {
+    "$id" : 7,
+    "label" : "<880FA8D7>",
+    "style" : 15,
+    "name" : "에너미를 격파한다"
+  }, {
+    "$id" : 8,
+    "label" : "<BB694AE2>",
+    "style" : 15,
+    "name" : ""
+  } ]
+}

@@ -1,0 +1,484 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011900_msg0001",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수단을 가릴 때가 아니야\n어서 니나 님께 전해 줘!"
+  }, {
+    "$id" : 2,
+    "label" : "tq011900_msg0002",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 도저히 승낙하실 거 같지……"
+  }, {
+    "$id" : 3,
+    "label" : "tq011900_msg0003",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "즐거워 보이네\n나도 끼워 줄래?"
+  }, {
+    "$id" : 4,
+    "label" : "tq011900_msg0004",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗, 니나 님?!"
+  }, {
+    "$id" : 5,
+    "label" : "tq011900_msg0005",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기…… 차근차근 설명을……!"
+  }, {
+    "$id" : 6,
+    "label" : "tq011900_msg0006",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮아, 코토리\n그에게 직접 듣고 싶어"
+  }, {
+    "$id" : 7,
+    "label" : "tq011900_msg0007",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 30와!\n기술을 교류하고 싶습니다!!"
+  }, {
+    "$id" : 8,
+    "label" : "tq011900_msg0008",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 9,
+    "label" : "tq011900_msg0009",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……계속해 봐"
+  }, {
+    "$id" : 10,
+    "label" : "tq011900_msg0010",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내키지 않아 하시는 건 알고 있습니다!"
+  }, {
+    "$id" : 11,
+    "label" : "tq011900_msg0011",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 생명의 불시계에서 해방되어\n케베스와 아그누스의 장벽이\n무너진 지금이야말로……"
+  }, {
+    "$id" : 12,
+    "label" : "tq011900_msg0012",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기술 교류에 도전해야 할 때입니다\n성공한다면 양국의 평화로 이어지기도……"
+  }, {
+    "$id" : 13,
+    "label" : "tq011900_msg0013",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 30와 무슨 일 있었어?"
+  }, {
+    "$id" : 14,
+    "label" : "tq011900_msg0014",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……전에 딱 한 번\n싸운 적이 있었는데"
+  }, {
+    "$id" : 15,
+    "label" : "tq011900_msg0015",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "완패했어요……"
+  }, {
+    "$id" : 16,
+    "label" : "tq011900_msg0016",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그때만큼 니나 님의 예상이\n완전히 빗나간 적은 없었죠"
+  }, {
+    "$id" : 17,
+    "label" : "tq011900_msg0017",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 이후로 말만 들어도\n머리가 아프시다며 치를 떠시는데……"
+  }, {
+    "$id" : 18,
+    "label" : "tq011900_msg0018",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "누가 누구 때문에 치를 떤다고?"
+  }, {
+    "$id" : 19,
+    "label" : "tq011900_msg0019",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나쁠 거 없지, 기술 교류\n그럼 해 볼까?"
+  }, {
+    "$id" : 20,
+    "label" : "tq011900_msg0020",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말입니까?!"
+  }, {
+    "$id" : 21,
+    "label" : "tq011900_msg0021",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나 님……"
+  }, {
+    "$id" : 22,
+    "label" : "tq011900_msg0022",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스 최고의 기술력을 가진\n콜로니 30니까 아무 문제도 없어"
+  }, {
+    "$id" : 23,
+    "label" : "tq011900_msg0023",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정~말 요만~큼도"
+  }, {
+    "$id" : 24,
+    "label" : "tq011900_msg0024",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 신경 쓰고 계셔……"
+  }, {
+    "$id" : 25,
+    "label" : "tq011900_msg0025",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "코토리, 바로 통신을 부탁해\n내가 콜로니 30로 가겠다고 전해 줘"
+  }, {
+    "$id" : 26,
+    "label" : "tq011900_msg0026",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 알겠습니다!"
+  }, {
+    "$id" : 27,
+    "label" : "tq011900_msg0027",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가쿠는 현지에서 합류하자\n반드시 성과를 낼 수 있는 거지?"
+  }, {
+    "$id" : 28,
+    "label" : "tq011900_msg0028",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론입니다!\n바로 출발하겠습니다"
+  }, {
+    "$id" : 29,
+    "label" : "tq011900_msg0029",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실력은 좋긴 한데…… 루디니까\n그렇게 걱정 안 해도 되지 않나?"
+  }, {
+    "$id" : 30,
+    "label" : "tq011900_msg0030",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예를 들어 지금 콜로니 30에서……"
+  }, {
+    "$id" : 31,
+    "label" : "tq011900_msg0031",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "심각한 물 부족 현상이 발생했다고 한다면\n무슨 생각이 들어?"
+  }, {
+    "$id" : 32,
+    "label" : "tq011900_msg0032",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 그야……\n수로가 고장 났다든가?"
+  }, {
+    "$id" : 33,
+    "label" : "tq011900_msg0033",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수원지가 바싹 말랐다거나……"
+  }, {
+    "$id" : 34,
+    "label" : "tq011900_msg0034",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "틀렸어\n정답은 콜로니의 대청소야"
+  }, {
+    "$id" : 35,
+    "label" : "tq011900_msg0035",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐라고?! 뭐 그런 게 다 있어?"
+  }, {
+    "$id" : 36,
+    "label" : "tq011900_msg0036",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유감이지만\n실제로 있었던 일이야"
+  }, {
+    "$id" : 37,
+    "label" : "tq011900_msg0037",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐랄까…… 루디답네……"
+  }, {
+    "$id" : 38,
+    "label" : "tq011900_msg0038",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰이 많은 탓도 있겠지\n그들은 독자적인 규칙에 따라 살고 있으니까"
+  }, {
+    "$id" : 39,
+    "label" : "tq011900_msg0039",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바로 그거야\n그래서 더욱 파고들 가치가 있어"
+  }, {
+    "$id" : 40,
+    "label" : "tq011900_msg0040",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상대를 알고 대비하는 건\n전투의 기본이야"
+  }, {
+    "$id" : 41,
+    "label" : "tq011900_msg0041",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나에게 콜로니 30는\n지금도 적이야?"
+  }, {
+    "$id" : 42,
+    "label" : "tq011900_msg0042",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적이든 아군이든 관계없어\n빈틈을 보이는 쪽이 진다는 말이야"
+  }, {
+    "$id" : 43,
+    "label" : "tq011900_msg0043",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신뢰하지 않는 게……\n네 전략이야?"
+  }, {
+    "$id" : 44,
+    "label" : "tq011900_msg0044",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 말이 하고 싶은 거야?"
+  }, {
+    "$id" : 45,
+    "label" : "tq011900_msg0045",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상처받지 않기 위해\n먼저 상처를 체험해 본다……\n그게 합리적인지를 묻는 거야"
+  }, {
+    "$id" : 46,
+    "label" : "tq011900_msg0046",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……견해의 차이야"
+  }, {
+    "$id" : 47,
+    "label" : "tq011900_msg0047",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저마다 사고방식이 다르겠지만\n거긴 좋은 콜로니야"
+  }, {
+    "$id" : 48,
+    "label" : "tq011900_msg0048",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 괜찮다면 기술 교류에\n우리가 동행해도 될까?"
+  }, {
+    "$id" : 49,
+    "label" : "tq011900_msg0049",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디도 소개할 수 있으니까"
+  }, {
+    "$id" : 50,
+    "label" : "tq011900_msg0052",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래, 너희가 있으면 확실히\n저쪽이 경계를 풀지도 모르지"
+  }, {
+    "$id" : 51,
+    "label" : "tq011900_msg0053",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 어디 한번 기대해 볼까?"
+  } ]
+}

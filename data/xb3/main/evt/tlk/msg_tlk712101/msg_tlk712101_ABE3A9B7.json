@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk712101_msg0001",
+    "talker" : "fl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나한테 묻고 싶은 게\n여러모로 많이 있겠지만……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk712101_msg0002",
+    "talker" : "fl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부상을 입거나 병에 걸린 게 아니라면\n의료 시설엔 발을 들이지 말거라"
+  }, {
+    "$id" : 3,
+    "label" : "tlk712101_msg0003",
+    "talker" : "fl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희가 있으면 소란스러워지거든\n안정이 필요한 사람들을 위해\n너희가 배려해 줘"
+  }, {
+    "$id" : 4,
+    "label" : "tlk712101_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 작은 아기 말이구나"
+  }, {
+    "$id" : 5,
+    "label" : "tlk712101_msg0005",
+    "talker" : "fl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 그 외에도 중병을 앓고 계신\n어르신도 있고…… 슬프게도\n서서히 꺼져 가는 생명이 너무 많아"
+  } ]
+}

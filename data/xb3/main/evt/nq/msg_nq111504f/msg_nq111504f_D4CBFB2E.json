@@ -1,0 +1,250 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq111504_msg0001",
+    "talker" : "Za1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "올레샤 반장!"
+  }, {
+    "$id" : 2,
+    "label" : "nq111504_msg0002",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "드랭크?\n당신, 콜로니 4를 떠났다고 들었는데……"
+  }, {
+    "$id" : 3,
+    "label" : "nq111504_msg0003",
+    "talker" : "Za1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빨리 하마하마 좀 봐 줘!\n꽤 위험한 상태 같아……!"
+  }, {
+    "$id" : 4,
+    "label" : "nq111504_msg0004",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……! 알겠어\n거기 있는 침대로 옮겨 줘"
+  }, {
+    "$id" : 5,
+    "label" : "nq111504_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "올레샤\n하마하마는 어때……?"
+  }, {
+    "$id" : 6,
+    "label" : "nq111504_msg0006",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 지금은 많이 안정됐어\n아마 피로가 누적돼서 탈이 났나 봐"
+  }, {
+    "$id" : 7,
+    "label" : "nq111504_msg0007",
+    "talker" : "Za1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "피로 누적……?\n여행하느라 고생한 건 맞지만\n그렇다고 쓰러질 정도는……"
+  }, {
+    "$id" : 8,
+    "label" : "nq111504_msg0008",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하마하마는 허약한 체질이야\n다른 노폰보다 체력이 약하니\n몸 상태도 금세 나빠지지"
+  }, {
+    "$id" : 9,
+    "label" : "nq111504_msg0009",
+    "talker" : "Za1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "헉……?!"
+  }, {
+    "$id" : 10,
+    "label" : "nq111504_msg0010",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마 정비 개발반의 일도\n쉬엄쉬엄하지 않으면 힘들었을 거야"
+  }, {
+    "$id" : 11,
+    "label" : "nq111504_msg0011",
+    "talker" : "Za1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……! 그, 그럼 하마하마가\n일을 자주 빼먹었던 이유가……"
+  }, {
+    "$id" : 12,
+    "label" : "nq111504_msg0012",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……설마 얘가 몸이 약한 걸\n지금까지 몰랐어?"
+  }, {
+    "$id" : 13,
+    "label" : "nq111504_msg0013",
+    "talker" : "Za1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 14,
+    "label" : "nq111504_msg0014",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기, 올레샤\n하마하마를 도울 방법이 없을까?"
+  }, {
+    "$id" : 15,
+    "label" : "nq111504_msg0015",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흐음…… 방법이 없지는 않아"
+  }, {
+    "$id" : 16,
+    "label" : "nq111504_msg0016",
+    "talker" : "Za1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저, 정말?!\n어떻게 하면 돼?!"
+  }, {
+    "$id" : 17,
+    "label" : "nq111504_msg0017",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제1부유 암초에\n\"선인 버섯\"이라는 버섯이 자라"
+  }, {
+    "$id" : 18,
+    "label" : "nq111504_msg0018",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"선인 버섯\"?"
+  }, {
+    "$id" : 19,
+    "label" : "nq111504_msg0019",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전에 쿠쿠차가 말하길\n노폰한테 자양 효과가\n탁월한 버섯이라더라"
+  }, {
+    "$id" : 20,
+    "label" : "nq111504_msg0020",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 버섯을 달여서\n강장제를 조제하거나, 아니면……"
+  }, {
+    "$id" : 21,
+    "label" : "nq111504_msg0021",
+    "talker" : "Za1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어!\n바로 채집해 올게!!"
+  }, {
+    "$id" : 22,
+    "label" : "nq111504_msg0022",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗……! 잠깐만!"
+  }, {
+    "$id" : 23,
+    "label" : "nq111504_msg0023",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 갈게\n제1부유 암초랬지?"
+  }, {
+    "$id" : 24,
+    "label" : "nq111504_msg0024",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 맞아\n흉악한 몬스터가 사는 위험한 곳이니까\n아무쪼록 조심해야 해"
+  }, {
+    "$id" : 25,
+    "label" : "nq111504_msg0025",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 더더욱 저 녀석\n혼자 가게 두면 안 되지\n빨리 쫓아가자"
+  } ]
+}

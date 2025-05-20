@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk713202_msg0001",
+    "talker" : "ql1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스에 잡혀갔던\n동료들이 돌아오다니!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk713202_msg0002",
+    "talker" : "ql1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 다시는 잡혀간 녀석들이랑\n영영 못 만날 거라고 생각했는데!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk713202_msg0003",
+    "talker" : "ql1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "참으로 경사스러운 일이구먼!\n축배를 들어야겠어!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk713202_msg0004",
+    "talker" : "6",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "항상 마시고 있으면서……"
+  } ]
+}

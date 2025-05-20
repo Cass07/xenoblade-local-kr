@@ -1,0 +1,493 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq010905_msg0001",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거기 당신, 잠깐 말 좀 묻지"
+  }, {
+    "$id" : 2,
+    "label" : "tq010905_msg0007",
+    "talker" : "zl1",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔데 그러느냐, 설마 다 같이 모여서\n늙은이를 괴롭힐 셈이냐?"
+  }, {
+    "$id" : 3,
+    "label" : "tq010905_msg0008",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 우리는\n온천이란 걸 찾고 있는데……"
+  }, {
+    "$id" : 4,
+    "label" : "tq010905_msg0009",
+    "talker" : "zl1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐라?"
+  }, {
+    "$id" : 5,
+    "label" : "tq010905_msg0010",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "온천을……"
+  }, {
+    "$id" : 6,
+    "label" : "tq010905_msg0011",
+    "talker" : "zl1",
+    "talkattr" : 33177,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "온천이라면 이 늙은이한테 묻거라!"
+  }, {
+    "$id" : 7,
+    "label" : "tq010905_msg0012",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 물어보잖아"
+  }, {
+    "$id" : 8,
+    "label" : "tq010905_msg0013",
+    "talker" : "zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 온천을 찾는다던 게 자네들인가\n이 늙은이라면 진정한 온천이 뭔지\n알려 주지 않을까 생각한 게로구나?"
+  }, {
+    "$id" : 9,
+    "label" : "tq010905_msg0014",
+    "talker" : "zl1",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어린데도 참으로 훌륭하구먼!\n마음에 들었다!"
+  }, {
+    "$id" : 10,
+    "label" : "tq010905_msg0015",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건…… 온천에 대해\n가르쳐 주겠다는 뜻일까?"
+  }, {
+    "$id" : 11,
+    "label" : "tq010905_msg0016",
+    "talker" : "2",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음…… 글쎄……"
+  }, {
+    "$id" : 12,
+    "label" : "tq010905_msg0017",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "온천을 잘 아는 사람은\n이미 죽었다고 들었는데"
+  }, {
+    "$id" : 13,
+    "label" : "tq010905_msg0018",
+    "talker" : "zl1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 영감의 헛소리겠지\n이 늙은이가 살아 있지 않느냐!"
+  }, {
+    "$id" : 14,
+    "label" : "tq010905_msg0019",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 온천이 뭔지 가르쳐 줘"
+  }, {
+    "$id" : 15,
+    "label" : "tq010905_msg0020",
+    "talker" : "zl1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 젊었을 적에 온천 순례를 다녔다네\n그것도 아주 많이, 4곳 정도를 돌아다녔지"
+  }, {
+    "$id" : 16,
+    "label" : "tq010905_msg0021",
+    "talker" : "zl1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그중에 내가 제일 좋아한 곳은\n노르딜 온천이라는 곳이었어"
+  }, {
+    "$id" : 17,
+    "label" : "tq010905_msg0022",
+    "talker" : "zl1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당시 나는 허리가 좋지 못했었는데\n들어가자마자 단번에 회복됐지. 굉장했어~"
+  }, {
+    "$id" : 18,
+    "label" : "tq010905_msg0023",
+    "talker" : "zl1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가장 신기했던 곳은 족욕탕이었다네\n발만 담갔는데도 허리가 회복됐어! 대단했지~\n처음 족욕탕을 만든 사람은 분명 천재일 게야"
+  }, {
+    "$id" : 19,
+    "label" : "tq010905_msg0024",
+    "talker" : "zl1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 4곳밖에 못 찾았네만\n숨겨진 비밀의 탕이 있다지 뭐냐\n분명 그곳도 허리에……"
+  }, {
+    "$id" : 20,
+    "label" : "tq010905_msg0025",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐만, 당신 허리 이야기를\n듣고 싶은 게 아니라고"
+  }, {
+    "$id" : 21,
+    "label" : "tq010905_msg0026",
+    "talker" : "zl1",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음?"
+  }, {
+    "$id" : 22,
+    "label" : "tq010905_msg0027",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "온천의 위치를 알고 싶은 거야\n4곳이나 있다면 그곳을……"
+  }, {
+    "$id" : 23,
+    "label" : "tq010905_msg0028",
+    "talker" : "zl1",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이미 없어졌을 텐데?"
+  }, {
+    "$id" : 24,
+    "label" : "tq010905_msg0029",
+    "talker" : "6",
+    "talkattr" : 33105,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?!"
+  }, {
+    "$id" : 25,
+    "label" : "tq010905_msg0030",
+    "talker" : "A",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "없는…… 건가"
+  }, {
+    "$id" : 26,
+    "label" : "tq010905_msg0031",
+    "talker" : "zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자네들 같은 젊은이들이 전쟁이다 뭐다 해서\n폭파하거나 묻어 버렸지 않나"
+  }, {
+    "$id" : 27,
+    "label" : "tq010905_msg0032",
+    "talker" : "4",
+    "talkattr" : 33120,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 28,
+    "label" : "tq010905_msg0033",
+    "talker" : "zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "온천은 땅속에서 솟는 뜨거운 물을 말한다네\n그게 솟지 않으면 어쩔 도리가 없지\n땅을 파면 나올지도 모르겠다마는……"
+  }, {
+    "$id" : 29,
+    "label" : "tq010905_msg0034",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "땅을 파라니, 말이 쉽지……"
+  }, {
+    "$id" : 30,
+    "label" : "tq010905_msg0035",
+    "talker" : "zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 이 시국에 땅을 파는 녀석이 있다면\n그야 정신 나간 녀석이지"
+  }, {
+    "$id" : 31,
+    "label" : "tq010905_msg0036",
+    "talker" : "4",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기껏 찾은 정보원이었는데…… 아쉽군"
+  }, {
+    "$id" : 32,
+    "label" : "tq010905_msg0037",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "낙담하지 마라, 타이온\n최선을 다한 결과라면\n순순히 받아들여야지"
+  }, {
+    "$id" : 33,
+    "label" : "tq010905_msg0038",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "온천에는 다다르지 못했지만\n꽤 뜻깊은 시간이었다"
+  }, {
+    "$id" : 34,
+    "label" : "tq010905_msg0039",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장님……"
+  }, {
+    "$id" : 35,
+    "label" : "tq010905_msg0040",
+    "talker" : "zl1",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐~가 『군무장님……』이냐!\n이 늙은이의 말을\n끝까지 들으란 말이다!"
+  }, {
+    "$id" : 36,
+    "label" : "tq010905_msg0041",
+    "talker" : "zl1",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 찾지 못한 비밀의 탕이 있다고 하지 않았나\n……아니, 엄밀히 말하면\n있을지도 모른다고 해야겠구먼"
+  }, {
+    "$id" : 37,
+    "label" : "tq010905_msg0042",
+    "talker" : "5",
+    "talkattr" : 33105,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜야?!"
+  }, {
+    "$id" : 38,
+    "label" : "tq010905_msg0043",
+    "talker" : "zl1",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 한창 젊었을 적에 들은 소문이라\n신빙성이 높다고 하긴 어렵네마는……"
+  }, {
+    "$id" : 39,
+    "label" : "tq010905_msg0044",
+    "talker" : "zl1",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "브라스 열천 지대에 그게 있댔나?"
+  }, {
+    "$id" : 40,
+    "label" : "tq010905_msg0045",
+    "talker" : "zl1",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그곳은 안팎으로 몬스터가 우글거려서\n나는 결국 도달할 수 없었다네"
+  }, {
+    "$id" : 41,
+    "label" : "tq010905_msg0046",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "희망이 아직 남아 있다는 건가"
+  }, {
+    "$id" : 42,
+    "label" : "tq010905_msg0047",
+    "talker" : "zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예전부터 그곳에 도전한 녀석들은 많았지만\n모두 살아 돌아오질 못했지……\n그만큼 위험한 곳일세"
+  }, {
+    "$id" : 43,
+    "label" : "tq010905_msg0048",
+    "talker" : "zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있을지도 모르지만 없을지도 몰라\n그러니 가 보라고는 못 하겠구먼"
+  }, {
+    "$id" : 44,
+    "label" : "tq010905_msg0049",
+    "talker" : "5",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가 볼 만하겠는데?\n안 그래? 이스루기"
+  }, {
+    "$id" : 45,
+    "label" : "tq010905_msg0050",
+    "talker" : "A",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 가 볼 만하겠군\n있을지도 모르지만 없을지도 모른다라……\n불확실한 요소가 많을수록 의욕이 나는 법이지"
+  }, {
+    "$id" : 46,
+    "label" : "tq010905_msg0051",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "특이하네~\n헛걸음칠지도 모르는데?"
+  }, {
+    "$id" : 47,
+    "label" : "tq010905_msg0052",
+    "talker" : "A",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미지의 존재를 추구하는 행위가\n이렇게 달아오르는 일이라곤 생각도 못 했어"
+  }, {
+    "$id" : 48,
+    "label" : "tq010905_msg0053",
+    "talker" : "zl1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "허허! 그 상태로 온천에 들어갔다간\n타 죽을지도 모르겠구먼"
+  }, {
+    "$id" : 49,
+    "label" : "tq010905_msg0054",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠, 주의하지\n정말 고맙다"
+  }, {
+    "$id" : 50,
+    "label" : "tq010905_msg0055",
+    "talker" : "zl1",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어이쿠, 그래\n깜빡한 게 있군"
+  }, {
+    "$id" : 51,
+    "label" : "tq010905_msg0056",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응?"
+  }, {
+    "$id" : 52,
+    "label" : "tq010905_msg0057",
+    "talker" : "zl1",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "온천에 들어가는 법을 알려 주마\n자, 귀 좀 가까이 대 보거라"
+  } ]
+}

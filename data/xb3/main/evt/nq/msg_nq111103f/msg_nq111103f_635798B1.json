@@ -1,0 +1,196 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq111103_msg0001",
+    "talker" : "kc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……좋아! 잠금 해제!\n언제든 열 수 있어!"
+  }, {
+    "$id" : 2,
+    "label" : "nq111103_msg0002",
+    "talker" : "lc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정비 개발반인 하마하마와 드랭크에게\n불가능한 일은 없슴다모~!"
+  }, {
+    "$id" : 3,
+    "label" : "nq111103_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너흰 또 언제 돌아왔냐……"
+  }, {
+    "$id" : 4,
+    "label" : "nq111103_msg0004",
+    "talker" : "kc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 그럼~ 뭐가 들어 있을까~\n난 먹을 게 들어 있으면 참 좋겠는데!"
+  }, {
+    "$id" : 5,
+    "label" : "nq111103_msg0005",
+    "talker" : "lc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "달콤한 소시지가 있으면 좋겠슴다모!"
+  }, {
+    "$id" : 6,
+    "label" : "nq111103_msg0006",
+    "talker" : "kc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이게 뭐야?"
+  }, {
+    "$id" : 7,
+    "label" : "nq111103_msg0007",
+    "talker" : "lc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "달콤한 소시지가 아님다모……"
+  }, {
+    "$id" : 8,
+    "label" : "nq111103_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠…… 전투에 쓰이는 물자가 대부분이네\n이것도 나름대로 쓸 만하겠어"
+  }, {
+    "$id" : 9,
+    "label" : "nq111103_msg0009",
+    "talker" : "kc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음…… 그럼 필요 없어"
+  }, {
+    "$id" : 10,
+    "label" : "nq111103_msg0010",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "필요 없다고?\n가져가서 손해 볼 건 없잖아"
+  }, {
+    "$id" : 11,
+    "label" : "nq111103_msg0011",
+    "talker" : "kc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아냐, 우린 딱히 싸울 일도 없는걸"
+  }, {
+    "$id" : 12,
+    "label" : "nq111103_msg0012",
+    "talker" : "lc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇슴다모\n먹을 게 아니면 볼일 없슴다모"
+  }, {
+    "$id" : 13,
+    "label" : "nq111103_msg0013",
+    "talker" : "kc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고생해서 얻었으니 너희한테 줄게\n우릴 도와준 답례야"
+  }, {
+    "$id" : 14,
+    "label" : "nq111103_msg0014",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 아깝기도 하니까\n준다면 사양하지 않고 받을게\n고마워"
+  }, {
+    "$id" : 15,
+    "label" : "nq111103_msg0015",
+    "talker" : "kc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에이, 됐어!\n너희한테 도움이 됐다면\n우리도 조금은 은혜를 갚는 셈이니까!"
+  }, {
+    "$id" : 16,
+    "label" : "nq111103_msg0016",
+    "talker" : "lc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇슴다모! 누군가를 돕는 건\n멋진 일임다모~!"
+  }, {
+    "$id" : 17,
+    "label" : "nq111103_msg0017",
+    "talker" : "kc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋았어! 하마하마!\n다음 장소를 향해 출발이다!"
+  }, {
+    "$id" : 18,
+    "label" : "nq111103_msg0018",
+    "talker" : "lc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠슴다모! 파트너!!"
+  }, {
+    "$id" : 19,
+    "label" : "nq111103_msg0019",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 전까지 다퉜던 주제에\n정말 맘 편하게들 사네……"
+  } ]
+}

@@ -1,0 +1,223 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq010403_msg0001",
+    "talker" : "jZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "히익"
+  }, {
+    "$id" : 2,
+    "label" : "nq010403_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그만둬!!"
+  }, {
+    "$id" : 3,
+    "label" : "nq010403_msg0003",
+    "talker" : "eX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야, 왜 방해하는 거냐"
+  }, {
+    "$id" : 4,
+    "label" : "nq010403_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죽일 필요까진 없잖아"
+  }, {
+    "$id" : 5,
+    "label" : "nq010403_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너, 빨리 어딘가로 사라져 버려!!"
+  }, {
+    "$id" : 6,
+    "label" : "nq010403_msg0006",
+    "talker" : "eX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "처리해 두지 않으면\n다시 쳐들어올 거 아냐"
+  }, {
+    "$id" : 7,
+    "label" : "nq010403_msg0007",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 거처를 옮겨야지"
+  }, {
+    "$id" : 8,
+    "label" : "nq010403_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "!"
+  }, {
+    "$id" : 9,
+    "label" : "nq010403_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스 병사야"
+  }, {
+    "$id" : 10,
+    "label" : "nq010403_msg0010",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐, 방금 그 소리는……"
+  }, {
+    "$id" : 11,
+    "label" : "nq010403_msg0011",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 12,
+    "label" : "nq010403_msg0012",
+    "talker" : "oZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐~"
+  }, {
+    "$id" : 13,
+    "label" : "nq010403_msg0013",
+    "talker" : "pZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "들어 줘\n우리는 콜로니 9의……"
+  }, {
+    "$id" : 14,
+    "label" : "nq010403_msg0014",
+    "talker" : "kZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스 병사를 왜 처리하지 않았지?"
+  }, {
+    "$id" : 15,
+    "label" : "nq010403_msg0015",
+    "talker" : "pZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?"
+  }, {
+    "$id" : 16,
+    "label" : "nq010403_msg0016",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이게 무슨……!!"
+  }, {
+    "$id" : 17,
+    "label" : "nq010403_msg0017",
+    "talker" : "kZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 9은\n캐슬을 배신한 콜로니 맞지?"
+  }, {
+    "$id" : 18,
+    "label" : "nq010403_msg0018",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 녀석들, 위험해……"
+  }, {
+    "$id" : 19,
+    "label" : "nq010403_msg0019",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "해치울 수밖에 없나"
+  }, {
+    "$id" : 20,
+    "label" : "nq010403_msg0020",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐……"
+  }, {
+    "$id" : 21,
+    "label" : "nq010403_msg0021",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "같은 케베스 병사랑 싸우라는 거야……?"
+  }, {
+    "$id" : 22,
+    "label" : "nq010403_msg0022",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  } ]
+}

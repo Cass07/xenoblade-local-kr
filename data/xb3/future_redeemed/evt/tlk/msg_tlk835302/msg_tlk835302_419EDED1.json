@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk835302_msg0001",
+    "talker" : "@p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가드가 견고한 상대에게는\n선회하면서 싸우는 것이 좋습니다!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk835302_msg0002",
+    "talker" : "@p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "공격하는 방향에 따라서는\n유효타를 낼 수 있지요!\n위치 선정은 전투의 기본입니다!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk835302_msg0003",
+    "talker" : "@p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……라고 교본에 실려 있었으니\n오늘부터 백 번 암송하는 특훈부터\n시작해야겠군요!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk835302_msg0004",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 소용이 있어……?"
+  } ]
+}

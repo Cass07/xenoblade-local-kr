@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<FD015525>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "렉스……\n뭔가 요리를 만들고 싶다는 듯한 표정이네"
+  }, {
+    "$id" : 2,
+    "label" : "<E7604E19>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 언제 그런 표정을 지었다고 그래?"
+  }, {
+    "$id" : 3,
+    "label" : "<3C2469C2>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 생각이 있는 건 맞아……"
+  }, {
+    "$id" : 4,
+    "label" : "<635BE57E>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "베라리타 바스틸\n너희도 좋아하지?"
+  }, {
+    "$id" : 5,
+    "label" : "<FB0CE266>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안한데 먹어 본 적이 없어"
+  }, {
+    "$id" : 6,
+    "label" : "<0DE3233A>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇군……\n젊은 녀석들이니 당연히\n이걸 아주 좋아할 줄 알았는데"
+  }, {
+    "$id" : 7,
+    "label" : "<9346D873>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 요리길래……"
+  }, {
+    "$id" : 8,
+    "label" : "<660743B3>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 식재료를 모으자\n좋아할지 아닐지는 먹어 보고 정하면 되잖아"
+  } ]
+}

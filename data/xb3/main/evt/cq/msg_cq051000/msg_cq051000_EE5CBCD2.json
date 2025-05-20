@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "cq051000_0010",
+    "talker" : "xV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "정보대로 수송기 숫자가 꽤 있는걸"
+  }, {
+    "$id" : 2,
+    "label" : "cq051000_0020",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "하지만 무척 조용해\n사람도 거의 없는 것 같아"
+  }, {
+    "$id" : 3,
+    "label" : "cq051000_0030",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "다들 자고 있는 거 아냐?"
+  }, {
+    "$id" : 4,
+    "label" : "cq051000_0040",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "위병이 적으면 오히려 좋지"
+  }, {
+    "$id" : 5,
+    "label" : "cq051000_0050",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "모니카, 요람은 저 수송기 안에 있는 거지?"
+  }, {
+    "$id" : 6,
+    "label" : "cq051000_0060",
+    "talker" : "xV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래, 아마도"
+  }, {
+    "$id" : 7,
+    "label" : "cq051000_0070",
+    "talker" : "xV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "내려가서 조사하자"
+  }, {
+    "$id" : 8,
+    "label" : "cq051000_0080",
+    "talker" : "xV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "오른쪽으로 돌아가면\n몰래 접근할 수 있을 거야"
+  }, {
+    "$id" : 9,
+    "label" : "cq051000_0090",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "알겠어"
+  } ]
+}

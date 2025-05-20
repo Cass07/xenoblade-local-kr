@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq010108_msg0001",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빌리에라 구릉은 말이지\n생명의 불시계에서 해방되기 전에\n광범위하게 전투를 벌인 곳인데"
+  }, {
+    "$id" : 2,
+    "label" : "nq010108_msg0002",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캐리가 가끔 울하고 같이\n다녀왔다고 보고하더라고"
+  }, {
+    "$id" : 3,
+    "label" : "nq010108_msg0003",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그때 죽은 사람들을\n아직 다 환송하지 못한 것 같던데……"
+  }, {
+    "$id" : 4,
+    "label" : "nq010108_msg0004",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약 남겨진 동료를 발견하면\n노아도 환송해 주지 않을래?"
+  } ]
+}

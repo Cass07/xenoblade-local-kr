@@ -1,0 +1,43 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk211601_msg0001",
+    "talker" : "aa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얼마 전에 엄청나게 강한 버닛에게\n하마터면 혼쭐이 날 뻔했슴다모……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk211601_msg0002",
+    "talker" : "aa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "겉으로 봐서는 평범한 버닛 같았는데\n그런 녀석은 난생처음이었슴다모\n귀엽게 생겼다고 만만히 보면 안 되겠슴다모"
+  } ]
+}

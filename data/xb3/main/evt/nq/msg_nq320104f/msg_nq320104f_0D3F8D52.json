@@ -1,0 +1,142 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq320104_msg0001",
+    "talker" : "1",
+    "talkattr" : 33065,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮아?!"
+  }, {
+    "$id" : 2,
+    "label" : "nq320104_msg0002",
+    "talker" : "in1",
+    "talkattr" : 33065,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아! 도와줘!\n시노가…… 시노가 위험해!!"
+  }, {
+    "$id" : 3,
+    "label" : "nq320104_msg0003",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대체 무슨 일이야?!"
+  }, {
+    "$id" : 4,
+    "label" : "nq320104_msg0004",
+    "talker" : "in1",
+    "talkattr" : 33128,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이상한 반다나를 한 큰 남자가\n시노를 데려가 버렸단다!"
+  }, {
+    "$id" : 5,
+    "label" : "nq320104_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 15 사람 중 누군가일까?"
+  }, {
+    "$id" : 6,
+    "label" : "nq320104_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……토르톤일지도 몰라"
+  }, {
+    "$id" : 7,
+    "label" : "nq320104_msg0007",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "머리는 끔찍하게 둔하지만\n나쁜 녀석들은 아니야"
+  }, {
+    "$id" : 8,
+    "label" : "nq320104_msg0008",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런고로 그렇게 걱정하지 않아도……"
+  }, {
+    "$id" : 9,
+    "label" : "nq320104_msg0009",
+    "talker" : "in1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 지금 무슨 말이니!!\n여섯 씨족의 도련님이야!\n빨리 도와주러 가야지!"
+  }, {
+    "$id" : 10,
+    "label" : "nq320104_msg0010",
+    "talker" : "in1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『디다라섬이라면 방해하는\n녀석들도 없을 거야!』라면서\n무서운 얼굴로 말했단 말이야"
+  }, {
+    "$id" : 11,
+    "label" : "nq320104_msg0011",
+    "talker" : "in1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만일 시노한테\n무슨 일이라도 생기면……"
+  }, {
+    "$id" : 12,
+    "label" : "nq320104_msg0012",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어, 알겠다고!\n우리가 데려오면 되잖아!"
+  }, {
+    "$id" : 13,
+    "label" : "nq320104_msg0013",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 디다라섬으로 가 보자!"
+  } ]
+}

@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk113203_msg0001",
+    "talker" : "@X1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카밀라는 정말 대단해\n군수과에서 일과 시간이 끝나면\n그다음엔 밭일을 도와주고 다니나 봐"
+  }, {
+    "$id" : 2,
+    "label" : "tlk113203_msg0002",
+    "talker" : "@X1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "피곤하지 않냐고 물어봤더니\n즐겁다고 하는 거 있지?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk113203_msg0003",
+    "talker" : "@X1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요즘은 입만 열면\n감자랑 폭스 얘기뿐이고……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk113203_msg0004",
+    "talker" : "@X1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부러워~!\n나도 뭔가 즐거운 일을 찾고 싶다!!"
+  } ]
+}

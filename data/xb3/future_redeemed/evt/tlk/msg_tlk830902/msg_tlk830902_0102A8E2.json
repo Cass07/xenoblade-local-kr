@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830902_msg0001",
+    "talker" : "pq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "키이리에게 걱정을 끼쳤으니\n뭐라도 해서 갚아 주고 싶은데……\n뭘 하면 좋을까요?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830902_msg0002",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어려울 것 없지\n곁에 있어 주면 돼"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830902_msg0003",
+    "talker" : "pq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……네?\n그런 거 가지고 될까요?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830902_msg0004",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사소해 보여도 가장 중요한 일이거든\n언젠간 너도 알게 될걸?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk830902_msg0005",
+    "talker" : "pq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇군요…… 알겠어요\n조언 감사합니다"
+  } ]
+}

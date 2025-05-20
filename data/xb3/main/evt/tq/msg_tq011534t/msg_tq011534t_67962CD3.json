@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011534_msg0001",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뫼비우스와의 결전을 앞두고\n각자 준비를 진행하고 있습니다만……"
+  }, {
+    "$id" : 2,
+    "label" : "tq011534_msg0002",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무래도 세계의 운명을 건 싸움이다 보니\n불안에 떠는 자도 적지 않습니다"
+  }, {
+    "$id" : 3,
+    "label" : "tq011534_msg0003",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꼭 센틀 큰길에 들러 주세요\n다들 멜리아 님의 모습을 보면 기뻐할 겁니다"
+  } ]
+}

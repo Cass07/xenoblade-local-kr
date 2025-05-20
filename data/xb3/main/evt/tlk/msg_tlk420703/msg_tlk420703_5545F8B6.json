@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk420703_msg0001",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분과 여기 계신 분들께\n큰 폐를 끼치고 말았네요……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk420703_msg0002",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루시오네 씨의 속셈을\n전혀 눈치채지 못했습니다……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk420703_msg0003",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그녀를 동지이자 우수한 사람이라며\n굳게 믿었던 저의 불찰입니다……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk420703_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 너무 자책하진 마\n내가 보기엔 넌 좋은 사람이니까……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk420703_msg0005",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……네"
+  } ]
+}

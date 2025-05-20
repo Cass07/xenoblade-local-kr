@@ -1,0 +1,313 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq230205_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "드디어 찾았다!\n괜히 사람 고생시키고 말이야!"
+  }, {
+    "$id" : 2,
+    "label" : "nq230205_msg0002",
+    "talker" : "je1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어머…… 의외로 빨리 왔네……\n역시 대단하다고 칭찬이라도 해 줄까?"
+  }, {
+    "$id" : 3,
+    "label" : "nq230205_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "칭찬 같은 건 필요 없으니까\n빨리 초렌이나 만나게 해 줘"
+  }, {
+    "$id" : 4,
+    "label" : "nq230205_msg0004",
+    "talker" : "je1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후후…… 그래\n그러기로 했지"
+  }, {
+    "$id" : 5,
+    "label" : "nq230205_msg0005",
+    "talker" : "je1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠시만 기다려\n지금 대장한테 연락할 테니까"
+  }, {
+    "$id" : 6,
+    "label" : "nq230205_msg0006",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스, 대체 무슨 꿍꿍이지?\n작전 행동 중에\n이 초렌을 부를 줄이야"
+  }, {
+    "$id" : 7,
+    "label" : "nq230205_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 말 좀 들어 봐\n이제 와서 콜로니 람다와\n싸워 봐야 아무 의미 없어"
+  }, {
+    "$id" : 8,
+    "label" : "nq230205_msg0008",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……호오?"
+  }, {
+    "$id" : 9,
+    "label" : "nq230205_msg0009",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이미 람다의 불시계는 파괴됐어\n콜로니 11과 똑같은 상황이야\n무슨 말인지 알겠지?"
+  }, {
+    "$id" : 10,
+    "label" : "nq230205_msg0010",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그렇군\n……그래서 어쩌라는 거지?"
+  }, {
+    "$id" : 11,
+    "label" : "nq230205_msg0011",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩌라니……"
+  }, {
+    "$id" : 12,
+    "label" : "nq230205_msg0012",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금까지 초렌 부대는\n람다를 공격할 준비를 해 왔다"
+  }, {
+    "$id" : 13,
+    "label" : "nq230205_msg0013",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희가 뭐라고 떠들든\n그 사실은 변하지 않지\n……앞으로 일어날 일도 마찬가지다"
+  }, {
+    "$id" : 14,
+    "label" : "nq230205_msg0014",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 건 내 알 바 아니라고\n됐으니까 병사나 어서……!"
+  }, {
+    "$id" : 15,
+    "label" : "nq230205_msg0015",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 촌 나리\n대화 중에 끼어들어서 죄송한데요"
+  }, {
+    "$id" : 16,
+    "label" : "nq230205_msg0016",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……스트라이더인가\n정찰은 어쩌고 왔지?"
+  }, {
+    "$id" : 17,
+    "label" : "nq230205_msg0017",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죄송하게 됐습니다\n급하게 보고드릴 게 있거든요"
+  }, {
+    "$id" : 18,
+    "label" : "nq230205_msg0018",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……말해 봐"
+  }, {
+    "$id" : 19,
+    "label" : "nq230205_msg0019",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게…… 결론부터 말하자면\n케베스의 전투 부대가\n람다를 향해서 침공 중입니다"
+  }, {
+    "$id" : 20,
+    "label" : "nq230205_msg0020",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……! 케베스라고?\n너희와는 다른 부대인가?"
+  }, {
+    "$id" : 21,
+    "label" : "nq230205_msg0021",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐…… 그렇게 됐습니다\n불시계가 사라진 혼란을 틈타\n공격하려는 거겠죠"
+  }, {
+    "$id" : 22,
+    "label" : "nq230205_msg0022",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "람다도 전성기 같지 않은 터라\n그 녀석들 좀 위험하겠는데요?"
+  }, {
+    "$id" : 23,
+    "label" : "nq230205_msg0023",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "같잖군…… 전쟁의 전자도 모르는\n비열한 녀석들 같으니"
+  }, {
+    "$id" : 24,
+    "label" : "nq230205_msg0024",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이대로라면 저희와 충돌할 거 같은데\n어떻게 할까요, 나리?"
+  }, {
+    "$id" : 25,
+    "label" : "nq230205_msg0025",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흥, 뻔하지 않나\n선수를 쳐서 람다를 습격한다"
+  }, {
+    "$id" : 26,
+    "label" : "nq230205_msg0026",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다\n뭐, 그러실 줄 알았지만요"
+  }, {
+    "$id" : 27,
+    "label" : "nq230205_msg0027",
+    "talker" : "je1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후후……\n드디어 싸울 수 있겠네……"
+  }, {
+    "$id" : 28,
+    "label" : "nq230205_msg0028",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전열을 가다듬어라!\n초렌 부대, 출격이다!"
+  }, {
+    "$id" : 29,
+    "label" : "nq230205_msg0029",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 잠깐 기다려!\n우리 얘기를……!"
+  }, {
+    "$id" : 30,
+    "label" : "nq230205_msg0030",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 어떡해!\n이대로면 람다가……"
+  }, {
+    "$id" : 31,
+    "label" : "nq230205_msg0031",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스의 전투 부대 쪽은 어쩌지?\n그쪽도 말려야 하잖아?"
+  }, {
+    "$id" : 32,
+    "label" : "nq230205_msg0032",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~! 젠장!\n일단 저 전투광 녀석들부터\n말리고 나서 생각하자고!"
+  } ]
+}

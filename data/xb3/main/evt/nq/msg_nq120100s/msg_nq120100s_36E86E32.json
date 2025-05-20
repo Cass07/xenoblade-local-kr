@@ -1,0 +1,160 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120100_msg0001",
+    "talker" : "6",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 30에는 노폰이 많네"
+  }, {
+    "$id" : 2,
+    "label" : "nq120100_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스에는\n이렇게 많은 노폰이 사는\n콜로니가 없긴 했지"
+  }, {
+    "$id" : 3,
+    "label" : "nq120100_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠……"
+  }, {
+    "$id" : 4,
+    "label" : "nq120100_msg0004",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 이렇게 많으면\n괴짜 녀석 한둘쯤은\n자연스럽게 생기나 봐"
+  }, {
+    "$id" : 5,
+    "label" : "nq120100_msg0005",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "환송자의 피리를 부는\n노폰이 있다고 하더라"
+  }, {
+    "$id" : 6,
+    "label" : "nq120100_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 들었어"
+  }, {
+    "$id" : 7,
+    "label" : "nq120100_msg0007",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 녀석들 말로는\n연주를 너무 못해서\n민폐라고 그랬지만 말이야"
+  }, {
+    "$id" : 8,
+    "label" : "nq120100_msg0008",
+    "talker" : "1",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 안에서 불고 있었다는 건\n연습하고 있는 거 아닐까?"
+  }, {
+    "$id" : 9,
+    "label" : "nq120100_msg0009",
+    "talker" : "2",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴지도 몰라"
+  }, {
+    "$id" : 10,
+    "label" : "nq120100_msg0101",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니…… 케베스에는\n환송자 연수라는 게 있었지?"
+  }, {
+    "$id" : 11,
+    "label" : "nq120100_msg0102",
+    "talker" : "2",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "연수를 받으면\n노폰도 환송자가 될 수 있어?"
+  }, {
+    "$id" : 12,
+    "label" : "nq120100_msg0103",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적어도 내가 연수를 받았을 땐\n노폰은 없었어"
+  }, {
+    "$id" : 13,
+    "label" : "nq120100_msg0202",
+    "talker" : "2",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "환송자를 목표로 하는 노폰이라……\n만나 보고 싶네"
+  }, {
+    "$id" : 14,
+    "label" : "nq120100_msg0204",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 콜로니 30의 거주 구역으로 가 볼래?\n그쪽을 지나다니다 보면\n피리 소리가 곧잘 들린대"
+  }, {
+    "$id" : 15,
+    "label" : "nq120100_msg0203",
+    "talker" : "1",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한번 가 볼까?"
+  } ]
+}

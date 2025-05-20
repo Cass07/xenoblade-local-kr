@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk410504_msg0001",
+    "talker" : "je1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……정말 끔찍한 냄새였어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk410504_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 소리야?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk410504_msg0003",
+    "talker" : "je1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 병사들…… 마치 무기물처럼……\n생명의 냄새가 전혀 나질 않았어……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk410504_msg0004",
+    "talker" : "je1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만…… 상대가 유해라면 납득이 가네\n유해 냄새는…… 도저히 익숙해지질 않으니까"
+  } ]
+}

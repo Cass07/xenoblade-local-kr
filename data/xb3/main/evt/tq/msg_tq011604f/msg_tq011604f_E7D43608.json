@@ -1,0 +1,232 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011604_msg0001",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다녀왔어!"
+  }, {
+    "$id" : 2,
+    "label" : "tq011604_msg0002",
+    "talker" : "5",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어때, 푹 쉬고 있어?"
+  }, {
+    "$id" : 3,
+    "label" : "tq011604_msg0003",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래……"
+  }, {
+    "$id" : 4,
+    "label" : "tq011604_msg0004",
+    "talker" : "ha1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다녀오기만 하면 되는 일이었는데\n너무 늦은 거 아니야?"
+  }, {
+    "$id" : 5,
+    "label" : "tq011604_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실은 사정이 있어서……"
+  }, {
+    "$id" : 6,
+    "label" : "tq011604_msg0006",
+    "talker" : "na1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죄송합니다, 유제트 씨!"
+  }, {
+    "$id" : 7,
+    "label" : "tq011604_msg0007",
+    "talker" : "na1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레브스트라이트가 없다고\n노폰들이 야단이라서요……"
+  }, {
+    "$id" : 8,
+    "label" : "tq011604_msg0008",
+    "talker" : "ha1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석들, 결국 다 써 버린 건가"
+  }, {
+    "$id" : 9,
+    "label" : "tq011604_msg0009",
+    "talker" : "6",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "중요한 물건이야?"
+  }, {
+    "$id" : 10,
+    "label" : "tq011604_msg0010",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레브니스를 정비하는 데 쓰는 광석이야\n그걸 쓰면 움직임이 훨씬 더 좋아져!"
+  }, {
+    "$id" : 11,
+    "label" : "tq011604_msg0011",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 콜로니 4에 사정을 얘기하고\n양도받기로 손은 써 뒀어"
+  }, {
+    "$id" : 12,
+    "label" : "tq011604_msg0012",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그러니 조금만 더\n노폰들을 달래 줄래?"
+  }, {
+    "$id" : 13,
+    "label" : "tq011604_msg0013",
+    "talker" : "na1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네…… 노력해 볼게요"
+  }, {
+    "$id" : 14,
+    "label" : "tq011604_msg0014",
+    "talker" : "xa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유제트 씨\n방금 연락이 왔는데……"
+  }, {
+    "$id" : 15,
+    "label" : "tq011604_msg0015",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 다 의지하고 있구나"
+  }, {
+    "$id" : 16,
+    "label" : "tq011604_msg0016",
+    "talker" : "2",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이래선 의무실에서\n쉬고 있는 의미가 없겠는걸"
+  }, {
+    "$id" : 17,
+    "label" : "tq011604_msg0017",
+    "talker" : "ha1",
+    "talkattr" : 33113,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐?! 준비해 줄 수 없다니……\n그게 무슨 소리야?!"
+  }, {
+    "$id" : 18,
+    "label" : "tq011604_msg0018",
+    "talker" : "xa1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게…… 자세한 것까지는……"
+  }, {
+    "$id" : 19,
+    "label" : "tq011604_msg0019",
+    "talker" : "xa1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 4의 솔론이라는 사람이\n그렇게 전해 달라 했다고만……"
+  }, {
+    "$id" : 20,
+    "label" : "tq011604_msg0020",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기, 노아……"
+  }, {
+    "$id" : 21,
+    "label" : "tq011604_msg0021",
+    "talker" : "1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 같은 생각이야"
+  }, {
+    "$id" : 22,
+    "label" : "tq011604_msg0022",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가보자, 콜로니 4로"
+  }, {
+    "$id" : 23,
+    "label" : "tq011604_msg0023",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응!"
+  } ]
+}

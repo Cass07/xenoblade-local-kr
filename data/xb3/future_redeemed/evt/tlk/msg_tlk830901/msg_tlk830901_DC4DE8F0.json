@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830901_msg0001",
+    "talker" : "pq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에테르 타워는\n주위를 넓게 검색해서\n정보를 수집하는 장치예요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830901_msg0002",
+    "talker" : "pq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기동하면 범위 안에 있는\n물자를 발견할 수도 있죠"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830901_msg0003",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "편리한 물건이네\n보이면 이용해 볼게"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830901_msg0004",
+    "talker" : "pq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "슈르크 씨는 정말 대단하세요\n저런 물건까지 만드시다니"
+  }, {
+    "$id" : 5,
+    "label" : "tlk830901_msg0005",
+    "talker" : "pq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "덕분에 주변 조사도 순식간에 진행되어서\n이렇게 지반을 다질 수 있게 됐잖아요"
+  }, {
+    "$id" : 6,
+    "label" : "tlk830901_msg0006",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오~\n역시 리더다 이건가?"
+  } ]
+}

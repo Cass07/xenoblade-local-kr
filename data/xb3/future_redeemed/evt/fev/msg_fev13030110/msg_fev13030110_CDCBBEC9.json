@@ -1,0 +1,151 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<898417A0>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 도착했어\n여기라면 일단 안전해"
+  }, {
+    "$id" : 2,
+    "label" : "<40E4686A>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기 있는 텐트를 써\n너희를 위해 준비해 뒀어"
+  }, {
+    "$id" : 3,
+    "label" : "<C37721ED>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 감사히 쓰도록 할게"
+  }, {
+    "$id" : 4,
+    "label" : "<4A398627>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "휴~\n오랜만에 지붕이 있는 곳에서 자겠네"
+  }, {
+    "$id" : 5,
+    "label" : "<59079DC9>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 6,
+    "label" : "<9BD74055>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 7,
+    "label" : "<E26D36AB>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기 있는 동료들한테는 사정을 이야기해 뒀으니\n그렇게 경계 안 해도 안 잡아간다고"
+  }, {
+    "$id" : 8,
+    "label" : "<628C929A>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇게 말하면 믿을 거 같아?"
+  }, {
+    "$id" : 9,
+    "label" : "<A870F766>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그만하고 밥이라도 먹으면서 진정해\n배도 고플 거 아냐?"
+  }, {
+    "$id" : 10,
+    "label" : "<994868F2>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "딱히 나는……"
+  }, {
+    "$id" : 11,
+    "label" : "<D21244F5>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 12,
+    "label" : "<E39038BE>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘은 편히 쉬어\n불침번은 우리가 설게"
+  }, {
+    "$id" : 13,
+    "label" : "<1B5C0E46>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내일 아침에 거점으로 출발할 거니까\n피로가 남지 않도록 잘 쉬어 둬"
+  }, {
+    "$id" : 14,
+    "label" : "<DFFB8881>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 내일 보자"
+  } ]
+}

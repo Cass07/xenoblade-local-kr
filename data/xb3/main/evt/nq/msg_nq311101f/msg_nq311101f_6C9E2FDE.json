@@ -1,0 +1,124 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq311101_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 잘들 지냈어?"
+  }, {
+    "$id" : 2,
+    "label" : "nq311101_msg0002",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗?!"
+  }, {
+    "$id" : 3,
+    "label" : "nq311101_msg0003",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "들켰다, 도망쳐!"
+  }, {
+    "$id" : 4,
+    "label" : "nq311101_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야?! 왜 도망치는데?!"
+  }, {
+    "$id" : 5,
+    "label" : "nq311101_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보아하니\n들키기 싫은 뭔가가 있었나 본데"
+  }, {
+    "$id" : 6,
+    "label" : "nq311101_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜 나쁜 일을 꾸미고 있었다 그거야?"
+  }, {
+    "$id" : 7,
+    "label" : "nq311101_msg0007",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나한테 물어서 어쩌려고?\n확인할 상대는 따로 있잖아"
+  }, {
+    "$id" : 8,
+    "label" : "nq311101_msg0008",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시노랑 애들한테 물어보자"
+  }, {
+    "$id" : 9,
+    "label" : "nq311101_msg0009",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오…… 술래잡기? 질 수 없지……"
+  }, {
+    "$id" : 10,
+    "label" : "nq311101_msg0010",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아서라, 그렇게 진심으로 쫓아가면\n애들이 겁먹을 거 아냐……"
+  }, {
+    "$id" : 11,
+    "label" : "nq311101_msg0011",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "승부를 겨루는 것도 아니니까\n원만하게 가자고"
+  } ]
+}

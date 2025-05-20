@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq240691_msg0001",
+    "talker" : "we1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요즘 캐슬 근처에 있는\n에테르 채굴장에 이상한 소문이 돌고 있어"
+  }, {
+    "$id" : 2,
+    "label" : "nq240691_msg0002",
+    "talker" : "we1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘은 모르지만 일부 병사가\n아그누스와의 전쟁을 재개하기 위해\n자원을 횡령하고 있다는 듯하던데……"
+  }, {
+    "$id" : 3,
+    "label" : "nq240691_msg0003",
+    "talker" : "we1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 입장에서 보면\n말도 안 되는 헛소리지"
+  }, {
+    "$id" : 4,
+    "label" : "nq240691_msg0004",
+    "talker" : "we1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거기 책임자는\n오귀스트라는 녀석인데\n훈련병 때부터 알던 사이야"
+  }, {
+    "$id" : 5,
+    "label" : "nq240691_msg0005",
+    "talker" : "we1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "답답할 정도로 착실한 그 녀석이\n캐슬의 뜻을 거스르다니\n상상도 못 할 일이지"
+  }, {
+    "$id" : 6,
+    "label" : "nq240691_msg0101",
+    "talker" : "we1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에테르 채굴장의 책임자는\n오귀스트라는 녀석인데\n훈련병 때부터 알던 사이야"
+  }, {
+    "$id" : 7,
+    "label" : "nq240691_msg0102",
+    "talker" : "we1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "답답할 정도로 착실한 그 녀석이\n캐슬의 뜻을 거스르다니\n상상도 못 할 일이지"
+  } ]
+}

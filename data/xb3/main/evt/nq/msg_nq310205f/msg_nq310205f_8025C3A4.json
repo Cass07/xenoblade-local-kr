@@ -1,0 +1,268 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310205_msg0001",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "와, 대단해!\n정말 안으로 들어왔어~!"
+  }, {
+    "$id" : 2,
+    "label" : "nq310205_msg0002",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 아무것도 없는데……?"
+  }, {
+    "$id" : 3,
+    "label" : "nq310205_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇지도 않은 거 같아"
+  }, {
+    "$id" : 4,
+    "label" : "nq310205_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기에 메모가 있어……"
+  }, {
+    "$id" : 5,
+    "label" : "nq310205_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"시조에게 바칠 공물을 가지고 돌아와라\""
+  }, {
+    "$id" : 6,
+    "label" : "nq310205_msg0006",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 7,
+    "label" : "nq310205_msg0007",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다음 수수께끼야~!"
+  }, {
+    "$id" : 8,
+    "label" : "nq310205_msg0008",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대체 얼마나 준비해 놓은 거야……"
+  }, {
+    "$id" : 9,
+    "label" : "nq310205_msg0009",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마…… 이다음이 마지막일 거야모"
+  }, {
+    "$id" : 10,
+    "label" : "nq310205_msg0010",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떻게 알아?"
+  }, {
+    "$id" : 11,
+    "label" : "nq310205_msg0011",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 수수께끼의 답을\n알았으니까모"
+  }, {
+    "$id" : 12,
+    "label" : "nq310205_msg0012",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 알 거 같아!\n『시조』라는 건 시조의 동상 말하는 거지?"
+  }, {
+    "$id" : 13,
+    "label" : "nq310205_msg0013",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 아니야모. 『시조』에는\n처음 시작한 사람이라는 뜻도 있어모……"
+  }, {
+    "$id" : 14,
+    "label" : "nq310205_msg0014",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니 이건\n수수께끼를 만든 사람……"
+  }, {
+    "$id" : 15,
+    "label" : "nq310205_msg0015",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기기쿠의 친구를\n가리키는 거야모"
+  }, {
+    "$id" : 16,
+    "label" : "nq310205_msg0016",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 공물은……?"
+  }, {
+    "$id" : 17,
+    "label" : "nq310205_msg0017",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것도 간단해모\n답은 『시조』가 좋아하는 것……"
+  }, {
+    "$id" : 18,
+    "label" : "nq310205_msg0018",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바스틸이야모!"
+  }, {
+    "$id" : 19,
+    "label" : "nq310205_msg0019",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야\n그냥 심부름이었어……?"
+  }, {
+    "$id" : 20,
+    "label" : "nq310205_msg0020",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "심부름이 아니야모"
+  }, {
+    "$id" : 21,
+    "label" : "nq310205_msg0021",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜는 이다음……\n기기쿠가 풀 수 없었던 어려운 문제야모"
+  }, {
+    "$id" : 22,
+    "label" : "nq310205_msg0022",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마지막 수수께끼를 풀 땐……\n모두가 힘을 빌려줬으면 좋겠어모"
+  }, {
+    "$id" : 23,
+    "label" : "nq310205_msg0023",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아~!\n전부 맞혀 버리자!"
+  }, {
+    "$id" : 24,
+    "label" : "nq310205_msg0024",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 맡겨 줘!\n무슨 수수께끼든 내 보라고!"
+  }, {
+    "$id" : 25,
+    "label" : "nq310205_msg0025",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 와서 거절할 생각이었으면\n처음부터 돕지도 않았어"
+  }, {
+    "$id" : 26,
+    "label" : "nq310205_msg0026",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……고마워모"
+  }, {
+    "$id" : 27,
+    "label" : "nq310205_msg0027",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 바스틸을 사야 해모\n내가 추천하는 맛집으로 가자모"
+  } ]
+}

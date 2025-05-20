@@ -1,0 +1,331 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq030100_msg0001",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……콜로니 0의 주요 임무는\n케베스와 아그누스의 전황 유지입니다"
+  }, {
+    "$id" : 2,
+    "label" : "nq030100_msg0002",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "따라서 콜로니 0 인원의 행동 범위는\n아이오니온 전 지역이며\n한곳에 머무르는 일은 거의 없습니다"
+  }, {
+    "$id" : 3,
+    "label" : "nq030100_msg0003",
+    "talker" : "1",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "휴식이나 보급을 위한 거점도 없어?"
+  }, {
+    "$id" : 4,
+    "label" : "nq030100_msg0004",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "긍정합니다. 모든 것은 작전 구역으로\n이동할 때 이루어집니다"
+  }, {
+    "$id" : 5,
+    "label" : "nq030100_msg0005",
+    "talker" : "3",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무리 그래도 그건 너무하네……\n그러다간 몸이 못 버틸 거야"
+  }, {
+    "$id" : 6,
+    "label" : "nq030100_msg0006",
+    "talker" : "2",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이젠 임무를 수행할 필요도 없으니까\n이참에 정착할 곳을 찾아보는 게 어때?"
+  }, {
+    "$id" : 7,
+    "label" : "nq030100_msg0007",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 58736769,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 미오 말에 찬성이야\n세주 생각은 어때?"
+  }, {
+    "$id" : 8,
+    "label" : "nq030100_msg0008",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 32897,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……거주 환경의 개선은\n세주도 우선해야 할 사항 중\n하나로 생각하고 있었습니다"
+  }, {
+    "$id" : 9,
+    "label" : "nq030100_msg0009",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두를 위해서라도……\n일단 안전한 장소를\n확보하고 싶습니다"
+  }, {
+    "$id" : 10,
+    "label" : "nq030100_msg0010",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예를 들면 말인데, 다른 콜로니에\n이 애들을 받아 달라고 교섭해 보는 건 어떨까?"
+  }, {
+    "$id" : 11,
+    "label" : "nq030100_msg0011",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그건 어려울 거야"
+  }, {
+    "$id" : 12,
+    "label" : "nq030100_msg0012",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사정을 얘기하면\n콜로니 0의 존재가 드러날 테고"
+  }, {
+    "$id" : 13,
+    "label" : "nq030100_msg0013",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사건의 전말을 알고 있는 우리라면 모를까\n보통이라면 경계받을 게 뻔해"
+  }, {
+    "$id" : 14,
+    "label" : "nq030100_msg0014",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 15,
+    "label" : "nq030100_msg0015",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 시티도 안 되려나……"
+  }, {
+    "$id" : 16,
+    "label" : "nq030100_msg0016",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캐슬도 무리겠지\n뭐 당연한 일이긴 한데……"
+  }, {
+    "$id" : 17,
+    "label" : "nq030100_msg0017",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캐슬……"
+  }, {
+    "$id" : 18,
+    "label" : "nq030100_msg0018",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아니, 란츠\n그렇지 않을지도 몰라"
+  }, {
+    "$id" : 19,
+    "label" : "nq030100_msg0019",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 무슨 소리야, 노아?"
+  }, {
+    "$id" : 20,
+    "label" : "nq030100_msg0020",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스 캐슬의……\n\"수용소\"라면 어떨까?"
+  }, {
+    "$id" : 21,
+    "label" : "nq030100_msg0021",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "차라리 그곳을 거주 환경으로 삼는 게\n어지간한 콜로니보다 낫지 않겠어?"
+  }, {
+    "$id" : 22,
+    "label" : "nq030100_msg0022",
+    "talker" : "5",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오! 그러네!"
+  }, {
+    "$id" : 23,
+    "label" : "nq030100_msg0023",
+    "talker" : "5",
+    "talkattr" : 33105,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1074,
+    "style" : 126,
+    "name" : "……아니 잠깐, 진심이야?!"
+  }, {
+    "$id" : 24,
+    "label" : "nq030100_msg0024",
+    "talker" : "6",
+    "talkattr" : 33104,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1074,
+    "style" : 126,
+    "name" : "내, 내 말이!\n세주랑 아이들더러\n그런 곳에 살라고……?"
+  }, {
+    "$id" : 25,
+    "label" : "nq030100_msg0025",
+    "talker" : "1",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여, 역시 안 되려나……?"
+  }, {
+    "$id" : 26,
+    "label" : "nq030100_msg0026",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아뇨…… 타당한 선택이라고 생각합니다"
+  }, {
+    "$id" : 27,
+    "label" : "nq030100_msg0027",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생존에 필요한 조건들을 만족하는 데다\n외침에도 견고한 방위 시스템까지……"
+  }, {
+    "$id" : 28,
+    "label" : "nq030100_msg0028",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 0의 거점 후보로\n이보다 더 적합한 장소는 없다고 판단됩니다"
+  }, {
+    "$id" : 29,
+    "label" : "nq030100_msg0029",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그래? 음……\n뭐, 세주가 그래도 괜찮다면야……"
+  }, {
+    "$id" : 30,
+    "label" : "nq030100_msg0030",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "찬물 끼얹어서 미안한데, 그 수용소는\n지금도 캐슬이 관리하고 있을 거야"
+  }, {
+    "$id" : 31,
+    "label" : "nq030100_msg0031",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이미 방치 중이기는 하겠지만\n미리 얘기해 둬야 하지 않을까?"
+  }, {
+    "$id" : 32,
+    "label" : "nq030100_msg0032",
+    "talker" : "1",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타이온 말이 맞아\n일단 아그누스 캐슬로 가서\n거주 허가부터 구해 보자"
+  }, {
+    "$id" : 33,
+    "label" : "nq030100_msg0033",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 되도록 서둘러야겠어"
+  }, {
+    "$id" : 34,
+    "label" : "nq030100_msg0034",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 애들을 계속\n노숙시킬 수도 없는 노릇이니까"
+  } ]
+}

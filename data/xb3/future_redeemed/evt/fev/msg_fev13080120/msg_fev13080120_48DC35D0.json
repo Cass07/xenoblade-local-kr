@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<2BCCBC22>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이곳은 \"지령실\"이야"
+  }, {
+    "$id" : 2,
+    "label" : "<69392090>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부대장 간의 보고나\n작전 회의, 전체 관리 등이 여기서 이루어지지\n그야말로 리버레이터의 중추라고나 할까"
+  }, {
+    "$id" : 3,
+    "label" : "<603CEE89>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분, 오래 기다리셨습니다"
+  }, {
+    "$id" : 4,
+    "label" : "<CB6C09B7>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "매슈 씨 일행분들께서\n당분간 주무실 장소가 준비됐습니다"
+  }, {
+    "$id" : 5,
+    "label" : "<7E4F029D>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 고생했다"
+  }, {
+    "$id" : 6,
+    "label" : "<9882B651>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 지금부터 안내하겠습니다"
+  }, {
+    "$id" : 7,
+    "label" : "<95FFC7B0>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 부탁할게"
+  } ]
+}

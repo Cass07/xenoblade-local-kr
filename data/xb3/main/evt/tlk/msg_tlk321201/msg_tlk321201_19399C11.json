@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk321201_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실버 콜로니에 온 감상은 어때?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk321201_msg0002",
+    "talker" : "gd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하나부터 열까지 상상을 뛰어넘어\n우리랑 전혀 달라……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk321201_msg0003",
+    "talker" : "gd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔가 조금이라도 배워서 돌아가야겠어……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk321201_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힘내, 서두르진 말고"
+  }, {
+    "$id" : 5,
+    "label" : "tlk321201_msg0005",
+    "talker" : "gd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연하지!"
+  } ]
+}

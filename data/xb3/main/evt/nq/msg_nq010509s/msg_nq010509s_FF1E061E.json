@@ -1,0 +1,277 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq010509_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 25182337,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나, 콜로니 뮤에 제안할\n쫀득쫀득 감자의 레시피 말인데……"
+  }, {
+    "$id" : 2,
+    "label" : "nq010509_msg0002",
+    "talker" : "tV",
+    "talkattr" : 33176,
+    "talkattr2" : 8421505,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모!\n조사는 빈틈없이 했어요모"
+  }, {
+    "$id" : 3,
+    "label" : "nq010509_msg0003",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 뮤 사람들은\n귀여운 걸 좋아하는 모양이에요모"
+  }, {
+    "$id" : 4,
+    "label" : "nq010509_msg0004",
+    "talker" : "4",
+    "talkattr" : 33104,
+    "talkattr2" : 25182337,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "식사에 귀여움이라니……\n합리적이지 못한 것 같은데……"
+  }, {
+    "$id" : 5,
+    "label" : "nq010509_msg0005",
+    "talker" : "tV",
+    "talkattr" : 33064,
+    "talkattr2" : 14696577,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지 않아요모!\n좋아하는 게 있으면\n밥이 더 맛있어진다고요모"
+  }, {
+    "$id" : 6,
+    "label" : "nq010509_msg0006",
+    "talker" : "tV",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단은 겉모습으로\n마음을 사로잡는 거예요모"
+  }, {
+    "$id" : 7,
+    "label" : "nq010509_msg0007",
+    "talker" : "I",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "과연……\n훌륭한 작전이군"
+  }, {
+    "$id" : 8,
+    "label" : "nq010509_msg0008",
+    "talker" : "2",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "식감에 대한 얘기도 했었지\n바삭바삭한 게 인기 있나 봐"
+  }, {
+    "$id" : 9,
+    "label" : "nq010509_msg0009",
+    "talker" : "4",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "귀엽고 식감이 바삭바삭한\n감자 요리……?"
+  }, {
+    "$id" : 10,
+    "label" : "nq010509_msg0010",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전혀 상상이 안 가는군……"
+  }, {
+    "$id" : 11,
+    "label" : "nq010509_msg0011",
+    "talker" : "tV",
+    "talkattr" : 33176,
+    "talkattr2" : 32897,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 부분은 마나나에게 맡겨 주세요모!"
+  }, {
+    "$id" : 12,
+    "label" : "nq010509_msg0012",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몇 번이라도 먹고 싶어지는\n귀엽고 맛있는 요리를 만들게요모"
+  }, {
+    "$id" : 13,
+    "label" : "nq010509_msg0013",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 25182338,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "구체적으로 어떻게 할 거지?\n내가 도울 일은……"
+  }, {
+    "$id" : 14,
+    "label" : "nq010509_msg0014",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 44056705,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "딱히 없어요모"
+  }, {
+    "$id" : 15,
+    "label" : "nq010509_msg0015",
+    "talker" : "I",
+    "talkattr" : 33120,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래……"
+  }, {
+    "$id" : 16,
+    "label" : "nq010509_msg0016",
+    "talker" : "5",
+    "talkattr" : 33056,
+    "talkattr2" : 44056705,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 풀 죽을 건 없잖아……"
+  }, {
+    "$id" : 17,
+    "label" : "nq010509_msg0017",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 생각해 둔 이미지는 있어요모"
+  }, {
+    "$id" : 18,
+    "label" : "nq010509_msg0018",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 뮤 사람들에게\n지금 바로 공개할 수 있어요모\n자신만만하다고요모!"
+  }, {
+    "$id" : 19,
+    "label" : "nq010509_msg0019",
+    "talker" : "I",
+    "talkattr" : 33152,
+    "talkattr2" : 25182341,
+    "talkattr3" : 1073,
+    "style" : 126,
+    "name" : "오……! 그렇군……!!"
+  }, {
+    "$id" : 20,
+    "label" : "nq010509_msg0020",
+    "talker" : "3",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 발표회를 해 볼까!"
+  }, {
+    "$id" : 21,
+    "label" : "nq010509_msg0021",
+    "talker" : "2",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나, 쫀득쫀득 감자 말고\n필요한 재료는 없어?"
+  }, {
+    "$id" : 22,
+    "label" : "nq010509_msg0022",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쫀득쫀득 감자가 6개\n향기로운 아르돈 고기가 3개\n엠프리스 레터스는 2개면 되고……"
+  }, {
+    "$id" : 23,
+    "label" : "nq010509_msg0028",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그다음엔 촉촉한 토마토 1개랑\n천수 당근이 2개 있으면 끝이에요!"
+  }, {
+    "$id" : 24,
+    "label" : "nq010509_msg0023",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 25182337,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠다, 금방 준비해 오지"
+  }, {
+    "$id" : 25,
+    "label" : "nq010509_msg0024",
+    "talker" : "5",
+    "talkattr" : 33056,
+    "talkattr2" : 44056706,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너 말이야……\n실은 꽤 기대하고 있지?"
+  }, {
+    "$id" : 26,
+    "label" : "nq010509_msg0025",
+    "talker" : "I",
+    "talkattr" : 33072,
+    "talkattr2" : 16793729,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……군말이 많다, 란츠"
+  }, {
+    "$id" : 27,
+    "label" : "nq010509_msg0026",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "재료가 갖춰지면\n콜로니 뮤로 갈까?"
+  }, {
+    "$id" : 28,
+    "label" : "nq010509_msg0027",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "밭의 상태를 보고 나서\n니코에게 요리에 대해 말해 주자"
+  } ]
+}

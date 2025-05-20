@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk710203_msg0001",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "줄리에타도 애쓰고 있지만\n가문의 압박을 이겨 내려고\n이 악물고 노력하는 병사가 한 명 더 있어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk710203_msg0002",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스 후보생인 올리브야\n그 애는 여섯 씨족의 분가 출신인데\n가문이 대대로 보수파를 따랐거든……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk710203_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보수파 사람도\n우로보로스 후보생이 될 수 있어?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk710203_msg0004",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보기 드문 경우이긴 하지\n보수파는 뫼비우스와의 싸움을\n회의적인 시각으로 봐서…… 반대가 심했대"
+  }, {
+    "$id" : 5,
+    "label" : "tlk710203_msg0005",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데도 올리브는\n그 높은 장벽을 부숴 버렸지\n하여간 대단한 녀석이야"
+  } ]
+}

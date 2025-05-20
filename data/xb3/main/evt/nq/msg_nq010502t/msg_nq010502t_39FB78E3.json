@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq010502_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "솔론, 할 얘기가 있는데……"
+  }, {
+    "$id" : 2,
+    "label" : "nq010502_msg0002",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음……? 무슨 일이시죠?"
+  }, {
+    "$id" : 3,
+    "label" : "nq010502_msg0003",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇군요\n쫀득쫀득 감자라고요……"
+  }, {
+    "$id" : 4,
+    "label" : "nq010502_msg0004",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "익숙하지 않은 식재료라는 점이\n조금 불안하긴 하군요"
+  }, {
+    "$id" : 5,
+    "label" : "nq010502_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……역시 어렵겠어?"
+  }, {
+    "$id" : 6,
+    "label" : "nq010502_msg0006",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아뇨, 저희 콜로니는 늘\n식량 문제와 싸우는 처지라……"
+  }, {
+    "$id" : 7,
+    "label" : "nq010502_msg0007",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "문제를 해결할 발판이 된다면\n재배 방법을 꼭 가르쳐 주셨으면\n좋겠다고 생각했습니다"
+  }, {
+    "$id" : 8,
+    "label" : "nq010502_msg0008",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "검토할 시간을 조금 주시겠습니까?"
+  }, {
+    "$id" : 9,
+    "label" : "nq010502_msg0009",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래……! 고마워\n잘 부탁하지"
+  }, {
+    "$id" : 10,
+    "label" : "nq010502_msg0010",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리들은 일단 콜로니 9으로 돌아가자"
+  } ]
+}

@@ -1,0 +1,313 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011811_msg0001",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "키리에……!"
+  }, {
+    "$id" : 2,
+    "label" : "tq011811_msg0002",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시, 시도 군무장님……"
+  }, {
+    "$id" : 3,
+    "label" : "tq011811_msg0003",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮습니까?! 다친 곳은……"
+  }, {
+    "$id" : 4,
+    "label" : "tq011811_msg0004",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아으…… 죄송해요……\n다, 다리에 힘이 풀려서……"
+  }, {
+    "$id" : 5,
+    "label" : "tq011811_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 무사해 보여\n다행이야……"
+  }, {
+    "$id" : 6,
+    "label" : "tq011811_msg0006",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 간신히 최악의 사태는\n면한 것 같네요…… 하지만……"
+  }, {
+    "$id" : 7,
+    "label" : "tq011811_msg0007",
+    "talker" : "kY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 모습, 말투, 행동거지……\n이전과는 마치 다른 사람 같지만……"
+  }, {
+    "$id" : 8,
+    "label" : "tq011811_msg0008",
+    "talker" : "kY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이곳을 알고 있다는 건 역시……\n내 눈이 틀리지 않았다는 뜻이겠지"
+  }, {
+    "$id" : 9,
+    "label" : "tq011811_msg0009",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……당신 혼자야?\n다른 사람은?"
+  }, {
+    "$id" : 10,
+    "label" : "tq011811_msg0010",
+    "talker" : "kY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 철거신을 봐라"
+  }, {
+    "$id" : 11,
+    "label" : "tq011811_msg0011",
+    "talker" : "kY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 불시계에서 빛나는\n마지막 생명이…… 바로 나다"
+  }, {
+    "$id" : 12,
+    "label" : "tq011811_msg0012",
+    "talker" : "kY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동료들은 여기서 죽었지\n……몰살당했다"
+  }, {
+    "$id" : 13,
+    "label" : "tq011811_msg0013",
+    "talker" : "kY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 카이의 군무장……\n\"멸진\"이라는 별명을 가진 남자에게 말이지……"
+  }, {
+    "$id" : 14,
+    "label" : "tq011811_msg0014",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너는…… 그 싸움에서 살아남은 자인가?"
+  }, {
+    "$id" : 15,
+    "label" : "tq011811_msg0015",
+    "talker" : "kY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 그렇다…… \"녀석\"과 같지"
+  }, {
+    "$id" : 16,
+    "label" : "tq011811_msg0016",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……당신의 바람은 알고 있다\n하지만 어째서 이런 짓을……"
+  }, {
+    "$id" : 17,
+    "label" : "tq011811_msg0017",
+    "talker" : "kY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 나약한 병사를 미끼로 쓴 것 말이냐?"
+  }, {
+    "$id" : 18,
+    "label" : "tq011811_msg0018",
+    "talker" : "kY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하, 이렇게라도 하지 않으면\n너는 나한테서 도망치려 하겠지"
+  }, {
+    "$id" : 19,
+    "label" : "tq011811_msg0019",
+    "talker" : "kY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가짜 이름과 모습으로\n과거로부터 도망쳤듯이"
+  }, {
+    "$id" : 20,
+    "label" : "tq011811_msg0020",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……과거는 항상 나와 공존한다\n결코 도망칠 수 없어"
+  }, {
+    "$id" : 21,
+    "label" : "tq011811_msg0021",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇기에 나는 다른 길을 선택했지\n……과거를 짊어지고 살아가기 위해서"
+  }, {
+    "$id" : 22,
+    "label" : "tq011811_msg0022",
+    "talker" : "kY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 그럴듯한 핑계를 둘러댄다고\n유해가 된 병사들이 납득할 거 같나?"
+  }, {
+    "$id" : 23,
+    "label" : "tq011811_msg0023",
+    "talker" : "kY1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……웃기지 마라!"
+  }, {
+    "$id" : 24,
+    "label" : "tq011811_msg0024",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 25,
+    "label" : "tq011811_msg0025",
+    "talker" : "kY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……나, 나는 이걸 위해서 살아왔어!\n추하게 살아남은 비참함을 견뎌 왔다고!"
+  }, {
+    "$id" : 26,
+    "label" : "tq011811_msg0026",
+    "talker" : "kY1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만! 그것도 곧 끝이다!\n너를 죽이고 그 목숨을 동료에게 바친다면……!"
+  }, {
+    "$id" : 27,
+    "label" : "tq011811_msg0027",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐가 어찌 됐든 싸우겠다는 건가……!\n정녕 다른 길은 없나"
+  }, {
+    "$id" : 28,
+    "label" : "tq011811_msg0028",
+    "talker" : "kY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "큭! 그만둬! 나를 내, 내려다보지 마!\n나를 벌레 보듯 쳐다보지 마……!"
+  }, {
+    "$id" : 29,
+    "label" : "tq011811_msg0029",
+    "talker" : "kY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나, 나는 이제 약자가 아니야!\n동료를 내버리지 않았다고……!"
+  }, {
+    "$id" : 30,
+    "label" : "tq011811_msg0030",
+    "talker" : "kY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죽여 버리겠어, 죽여 버릴 거라고……!\n잘도 날…… 똑똑히 깨닫게……"
+  }, {
+    "$id" : 31,
+    "label" : "tq011811_msg0031",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시도, 조심해!\n저 케베스 병사…… 상태가 이상해!"
+  }, {
+    "$id" : 32,
+    "label" : "tq011811_msg0032",
+    "talker" : "kY1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기서 죽어라아아! \"오가아아아이!\""
+  } ]
+}

@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk44000210_msg0001",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사부……\n이 말은 꼭 해야겠어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk44000210_msg0002",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 진심으로 사부를 존경해\n사부가 살아가는 모습을 더 보고 배우고 싶어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk44000210_msg0003",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 앞으로 무슨 일이 있든 간에\n난 사부를 따라갈 거야!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk44000210_msg0004",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "파나세아, 너……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk44000210_msg0005",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미, 미안\n나답지 않은 말이었던 것 같네……"
+  }, {
+    "$id" : 6,
+    "label" : "tlk44000210_msg0007",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워, 파나세아\n네 성장이 자랑스러워. 진심이야"
+  } ]
+}

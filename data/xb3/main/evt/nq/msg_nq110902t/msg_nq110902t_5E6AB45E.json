@@ -1,0 +1,169 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq110902_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네가 드랭크야?"
+  }, {
+    "$id" : 2,
+    "label" : "nq110902_msg0002",
+    "talker" : "Za1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 그래, 맞는데\n나한테 무슨 볼일 있어?"
+  }, {
+    "$id" : 3,
+    "label" : "nq110902_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "딘젤이 말 좀 전해 달라고……"
+  }, {
+    "$id" : 4,
+    "label" : "nq110902_msg0004",
+    "talker" : "Za1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 어차피 주먹이 어떻다느니 했지?\n늘 그런 사람이니 신경 쓸 필요 없어"
+  }, {
+    "$id" : 5,
+    "label" : "nq110902_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하마하마는 여기 없어?"
+  }, {
+    "$id" : 6,
+    "label" : "nq110902_msg0006",
+    "talker" : "Za1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하마하마?\n그 녀석 또 사라졌어?"
+  }, {
+    "$id" : 7,
+    "label" : "nq110902_msg0007",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "또?"
+  }, {
+    "$id" : 8,
+    "label" : "nq110902_msg0008",
+    "talker" : "Za1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "항상 그러거든\n금세 땡땡이치고 어딘가로 가 버려\n……뭐 나도 남 말할 처지는 아니긴 한데"
+  }, {
+    "$id" : 9,
+    "label" : "nq110902_msg0009",
+    "talker" : "Za1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석은 너무 대놓고 땡땡이친다니까\n눈치껏 좀 하라고\n내가 늘 말해도 소용없어"
+  }, {
+    "$id" : 10,
+    "label" : "nq110902_msg0010",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇군\n그 반장이 부아가 치밀 만도 해"
+  }, {
+    "$id" : 11,
+    "label" : "nq110902_msg0011",
+    "talker" : "Za1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 그렇고 너희도 참 별나다\n아는 노폰도 아닌데 걱정을 다 하고"
+  }, {
+    "$id" : 12,
+    "label" : "nq110902_msg0012",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 문제에 휘말렸을지도 모르는데\n모르는 척할 수는 없잖아?"
+  }, {
+    "$id" : 13,
+    "label" : "nq110902_msg0013",
+    "talker" : "Za1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "윽…… 그건 그렇지\n그래도 내 후배니까……"
+  }, {
+    "$id" : 14,
+    "label" : "nq110902_msg0014",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하마하마가 사라진 걸 알고 있다면\n어디로 갔는지 짐작 가는 곳도 있어?"
+  }, {
+    "$id" : 15,
+    "label" : "nq110902_msg0015",
+    "talker" : "Za1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 아마 네우스 호수일걸\n그 녀석, 거기서 자주 낮잠 자거든"
+  }, {
+    "$id" : 16,
+    "label" : "nq110902_msg0016",
+    "talker" : "Za1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희가 간다면 나도 따라갈게\n너희만 고생시키기도 뭐하니까"
+  } ]
+}

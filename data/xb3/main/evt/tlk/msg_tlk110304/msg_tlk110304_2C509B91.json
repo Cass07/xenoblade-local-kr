@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk110304_msg0001",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마론이 찾은 건\n로스트 넘버즈 병사의 물건이었군……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk110304_msg0002",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 찾은 열쇠는\n시티 같은 곳에서\n쓸모가 있을지도 몰라"
+  }, {
+    "$id" : 3,
+    "label" : "tlk110304_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 창고……?\n아니면 병사의 방 열쇠일까?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk110304_msg0004",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐……?!\n시티 병사가 생활하는 방은\n문을 잠글 수 있다는 말이야?!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk110304_msg0005",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대단한데……\n가서 한번 보고 싶어"
+  } ]
+}

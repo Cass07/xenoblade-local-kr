@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq110607_msg0001",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보고는 둘한테서 따로 받았습니다\n맹활약하셨다고 들었는데요"
+  }, {
+    "$id" : 2,
+    "label" : "nq110607_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맹활약이라고 할 만큼\n대단한 일을 하진 않았는데"
+  }, {
+    "$id" : 3,
+    "label" : "nq110607_msg0003",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희가 하는 일은 단순하고\n눈에 띄지 않을지도 모릅니다"
+  }, {
+    "$id" : 4,
+    "label" : "nq110607_msg0004",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 누군가 하지 않으면\n콜로니가 제대로 운영되지 않죠……"
+  }, {
+    "$id" : 5,
+    "label" : "nq110607_msg0005",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떻게 보면 저희에게는\n이곳이 전장인 셈입니다"
+  }, {
+    "$id" : 6,
+    "label" : "nq110607_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나……"
+  }, {
+    "$id" : 7,
+    "label" : "nq110607_msg0007",
+    "talker" : "Wa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래요모\n미코코랑 자재 조달반이 없었으면\n콜로니는 진작에 사라졌을 거예요모"
+  }, {
+    "$id" : 8,
+    "label" : "nq110607_msg0008",
+    "talker" : "_Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그보다는 반장님께서 안 계셨다면\n정말 위태로웠을 것 같은데……"
+  }, {
+    "$id" : 9,
+    "label" : "nq110607_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "또 무슨 일이 생기면 말해 줘\n우리도 최대한 도와줄게"
+  }, {
+    "$id" : 10,
+    "label" : "nq110607_msg0010",
+    "talker" : "Wa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "드디어 한숨 돌리겠네모……\n매일 도와줬으면 좋겠어모"
+  }, {
+    "$id" : 11,
+    "label" : "nq110607_msg0011",
+    "talker" : "_Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신세 많이 졌어!\n정말 고마워!"
+  }, {
+    "$id" : 12,
+    "label" : "nq110607_msg0012",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자재 조달반 일동 모두\n여러분의 협력에 깊이 감사드립니다"
+  } ]
+}

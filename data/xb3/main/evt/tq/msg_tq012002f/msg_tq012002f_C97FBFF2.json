@@ -1,0 +1,277 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012002_msg0001",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 정도 있으면 충분하지?"
+  }, {
+    "$id" : 2,
+    "label" : "tq012002_msg0002",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 우로보로스야!\n일 처리가 빠르네~"
+  }, {
+    "$id" : 3,
+    "label" : "tq012002_msg0003",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래서 그건 어떻게 쓰려고?"
+  }, {
+    "$id" : 4,
+    "label" : "tq012002_msg0004",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸 갈아 으깨서\n모닥불에 태울 거란다"
+  }, {
+    "$id" : 5,
+    "label" : "tq012002_msg0005",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아주 좋은 향기가 퍼진다고 하니까\n냄새에 끌려서 오겠지?"
+  }, {
+    "$id" : 6,
+    "label" : "tq012002_msg0006",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얘, 거기 너! 이것 좀 도우렴"
+  }, {
+    "$id" : 7,
+    "label" : "tq012002_msg0007",
+    "talker" : "Yd1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네? 아! 네……"
+  }, {
+    "$id" : 8,
+    "label" : "tq012002_msg0008",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……나 참, 대체 뭐야"
+  }, {
+    "$id" : 9,
+    "label" : "tq012002_msg0009",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "냄새에 끌린다……라"
+  }, {
+    "$id" : 10,
+    "label" : "tq012002_msg0010",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜? 그게 어쨌는데?"
+  }, {
+    "$id" : 11,
+    "label" : "tq012002_msg0011",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……음, 아니"
+  }, {
+    "$id" : 12,
+    "label" : "tq012002_msg0012",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어휴, 정말……\n숲속은 벌레가 많아서 못 살겠어……"
+  }, {
+    "$id" : 13,
+    "label" : "tq012002_msg0013",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 네…… 뭐 그래도\n벌레가 연기를 싫어한다잖아요……"
+  }, {
+    "$id" : 14,
+    "label" : "tq012002_msg0014",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "벌레 중에서도 다리가 많은 녀석은\n딱 질색이야. 너는 어떠니?"
+  }, {
+    "$id" : 15,
+    "label" : "tq012002_msg0015",
+    "talker" : "Yd1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그렇군요…… 저야 익숙해져서\n딱히 싫어하는 건……"
+  }, {
+    "$id" : 16,
+    "label" : "tq012002_msg0016",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어머, 그렇니?"
+  }, {
+    "$id" : 17,
+    "label" : "tq012002_msg0017",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 동네는\n좀처럼 할 일이 없다니까"
+  }, {
+    "$id" : 18,
+    "label" : "tq012002_msg0018",
+    "talker" : "Yd1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 뭐……\n저희는 익숙한걸요……"
+  }, {
+    "$id" : 19,
+    "label" : "tq012002_msg0019",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연히 그렇겠지\n너는 무슨 말을 하는 거니?"
+  }, {
+    "$id" : 20,
+    "label" : "tq012002_msg0020",
+    "talker" : "Yd1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 죄송합니다"
+  }, {
+    "$id" : 21,
+    "label" : "tq012002_msg0021",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방금 받은 풀을 집어넣으렴\n그럼 준비는 끝이란다"
+  }, {
+    "$id" : 22,
+    "label" : "tq012002_msg0022",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디 가시게요?"
+  }, {
+    "$id" : 23,
+    "label" : "tq012002_msg0023",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우후후…… 우로보로스의 힘을\n지켜볼까 싶어서 말이야"
+  }, {
+    "$id" : 24,
+    "label" : "tq012002_msg0024",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모닥불이 피어오르는 연기가\n마치 개전의 봉화 같구나"
+  }, {
+    "$id" : 25,
+    "label" : "tq012002_msg0025",
+    "talker" : "Yd1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네? 그게 대체 무슨……"
+  }, {
+    "$id" : 26,
+    "label" : "tq012002_msg0026",
+    "talker" : "Wd1",
+    "talkattr" : 33105,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……큰일이야!\n또 녀석들이 나타났다고!!"
+  }, {
+    "$id" : 27,
+    "label" : "tq012002_msg0027",
+    "talker" : "Yd1",
+    "talkattr" : 33105,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……?!"
+  }, {
+    "$id" : 28,
+    "label" : "tq012002_msg0028",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좀 더 노력해야 할 거 같구나\n보다 더 나은 삶을 누리려면 말이야"
+  } ]
+}

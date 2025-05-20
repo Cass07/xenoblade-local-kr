@@ -1,0 +1,277 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011710_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안녕, 카이트"
+  }, {
+    "$id" : 2,
+    "label" : "tq011710_msg0002",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭔데?"
+  }, {
+    "$id" : 3,
+    "label" : "tq011710_msg0003",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은 소식이야\n밭에 적합한 땅을 찾았어"
+  }, {
+    "$id" : 4,
+    "label" : "tq011710_msg0004",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말이야?! 잘됐네!"
+  }, {
+    "$id" : 5,
+    "label" : "tq011710_msg0005",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 6,
+    "label" : "tq011710_msg0006",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니…… 잘도 저질렀달까\n쓸데없는 짓 하지 말라 이거지……"
+  }, {
+    "$id" : 7,
+    "label" : "tq011710_msg0007",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……우리랑은 같이 못 하겠어?"
+  }, {
+    "$id" : 8,
+    "label" : "tq011710_msg0008",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다고는…… 말 안 했는데……"
+  }, {
+    "$id" : 9,
+    "label" : "tq011710_msg0009",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정신 차려, 밭 담당자\n도울 거야, 안 도울 거야?"
+  }, {
+    "$id" : 10,
+    "label" : "tq011710_msg0010",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "할 거야! 내 일이니까"
+  }, {
+    "$id" : 11,
+    "label" : "tq011710_msg0011",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래서 뭘 심으려고?"
+  }, {
+    "$id" : 12,
+    "label" : "tq011710_msg0012",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쫀득쫀득 감자다\n유즈리하가 기르는 법도 알려 줬지"
+  }, {
+    "$id" : 13,
+    "label" : "tq011710_msg0013",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "결국 그거냐……"
+  }, {
+    "$id" : 14,
+    "label" : "tq011710_msg0014",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 투덜대지 마\n그건 정말 맛있었으니까"
+  }, {
+    "$id" : 15,
+    "label" : "tq011710_msg0015",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "됐고\n감자나 빨리 줘"
+  }, {
+    "$id" : 16,
+    "label" : "tq011710_msg0016",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 17,
+    "label" : "tq011710_msg0017",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……왜 그러는데?"
+  }, {
+    "$id" : 18,
+    "label" : "tq011710_msg0018",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇군, 씨감자가 필요했지"
+  }, {
+    "$id" : 19,
+    "label" : "tq011710_msg0019",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "준비 안 했어?!"
+  }, {
+    "$id" : 20,
+    "label" : "tq011710_msg0020",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게……\n토룡초 찾는 데 집중하느라……"
+  }, {
+    "$id" : 21,
+    "label" : "tq011710_msg0021",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가끔 이런 때도 있는 거지"
+  }, {
+    "$id" : 22,
+    "label" : "tq011710_msg0022",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……너답지 않게 왜 그래?\n상한 거라도 주워 먹었어?"
+  }, {
+    "$id" : 23,
+    "label" : "tq011710_msg0023",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……나도 실수는 해"
+  }, {
+    "$id" : 24,
+    "label" : "tq011710_msg0027",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 싶지 않아도……\n누구든 그럴 수 있지"
+  }, {
+    "$id" : 25,
+    "label" : "tq011710_msg0025",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……됐으니까 빨리 가져오기나 해"
+  }, {
+    "$id" : 26,
+    "label" : "tq011710_msg0026",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쫀득쫀득 감자라고 했나?\n일단 그거 10개 정도!"
+  }, {
+    "$id" : 27,
+    "label" : "tq011710_msg0029",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서둘러 준비하지\n밭에서 합류할 수 있겠나?"
+  }, {
+    "$id" : 28,
+    "label" : "tq011710_msg0028",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어……\n장소만 \"눈동자\"로 보내 줘"
+  } ]
+}

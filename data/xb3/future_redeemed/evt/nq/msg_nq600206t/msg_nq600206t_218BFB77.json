@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<528E0A5F>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 구체 발견!"
+  }, {
+    "$id" : 2,
+    "label" : "<588AE0F0>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 조각이 있던 곳으로 돌아갈까?"
+  }, {
+    "$id" : 3,
+    "label" : "<F2078690>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "찾았다, 이 구체야"
+  }, {
+    "$id" : 4,
+    "label" : "<934108D2>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거면 끝인가?\n일단 조각이 있는 장소로 돌아가자"
+  }, {
+    "$id" : 5,
+    "label" : "<CADE1B3E>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……찾았다\n정말로 있었구나"
+  }, {
+    "$id" : 6,
+    "label" : "<A865BAF6>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거면 다 된 건가?\n조각이 있는 곳으로 돌아가자"
+  }, {
+    "$id" : 7,
+    "label" : "<87D316CE>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……찾았다\n그 구체하고 똑같은 거구나"
+  }, {
+    "$id" : 8,
+    "label" : "<0B8EB00C>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 다 모았어\n어서 조각에다 끼워 보자"
+  }, {
+    "$id" : 9,
+    "label" : "<F499EA7D>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……여기 있다. 그 구체와 같아"
+  }, {
+    "$id" : 10,
+    "label" : "<E02A3653>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거면 끝이겠지?\n조각에 끼워 보자"
+  }, {
+    "$id" : 11,
+    "label" : "<871A4894>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "찾았다\n그 구체하고 같은 물건이군"
+  }, {
+    "$id" : 12,
+    "label" : "<8A945806>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 조각이 있는 곳으로 갈까?\n그럼 뭐가 나오려나……"
+  } ]
+}

@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq221002t_msg0001",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마기가 어디로 갔는지 알고 있나요?"
+  }, {
+    "$id" : 2,
+    "label" : "nq221002t_msg0002",
+    "talker" : "gd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갑자기 무슨 일이람…… 아마기한테는\n아케슈 고기를 부탁한다고 말했으니\n사냥하러 간 거 아니야?"
+  }, {
+    "$id" : 3,
+    "label" : "nq221002t_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아케슈는 어디서 서식해?"
+  }, {
+    "$id" : 4,
+    "label" : "nq221002t_msg0004",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……하층 근처죠"
+  }, {
+    "$id" : 5,
+    "label" : "nq221002t_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 이거 큰일 난 거잖아……!"
+  }, {
+    "$id" : 6,
+    "label" : "nq221002t_msg0006",
+    "talker" : "gd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 사람도 몇 명 같이 가지 않았어?\n아마기가 말했잖아\n기본적으로 그 근처에 혼자선 가지 말라고"
+  }, {
+    "$id" : 7,
+    "label" : "nq221002t_msg0007",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아뇨, 아마기는 혼자서\n가 버렸어요……"
+  }, {
+    "$id" : 8,
+    "label" : "nq221002t_msg0008",
+    "talker" : "gd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 수가……!"
+  }, {
+    "$id" : 9,
+    "label" : "nq221002t_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가자! 서둘러 쫓아가야 해!"
+  } ]
+}

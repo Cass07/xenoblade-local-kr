@@ -1,0 +1,151 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<5047E0DF>",
+    "talker" : "6",
+    "talkattr" : 33096,
+    "talkattr2" : 32897,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아, 마나나\n나미 씨가 있는 콜로니에서\n포르타라는 작물을 키우잖아?"
+  }, {
+    "$id" : 2,
+    "label" : "<557A9CE6>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 어떤 요리에 쓰는 거야?"
+  }, {
+    "$id" : 3,
+    "label" : "<8246E958>",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 반죽으로 만들어요모"
+  }, {
+    "$id" : 4,
+    "label" : "<708F2D23>",
+    "talker" : "6",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "반죽?"
+  }, {
+    "$id" : 5,
+    "label" : "<47989879>",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "먼저 말려 둔 포르타를\n부드득부드득 갈아서 가루로 만들어요모"
+  }, {
+    "$id" : 6,
+    "label" : "<B051B890>",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 나서 가루가 된 포르타에 물을 넣고\n정성 들여 조물조물해 줘요모"
+  }, {
+    "$id" : 7,
+    "label" : "<B52ED7CE>",
+    "talker" : "6",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흐음"
+  }, {
+    "$id" : 8,
+    "label" : "<F6533C33>",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 쫀득쫀득한 반죽이 완성되는데요모\n그걸 굽거나 찌면 여러 가지\n요리에 활용할 수 있어요모"
+  }, {
+    "$id" : 9,
+    "label" : "<FFB79B91>",
+    "talker" : "6",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나……"
+  }, {
+    "$id" : 10,
+    "label" : "<2E81F3A9>",
+    "talker" : "tV",
+    "talkattr" : 33048,
+    "talkattr2" : 32897,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말 나온 김에\n다음에 같이 만들어 봐요모"
+  }, {
+    "$id" : 11,
+    "label" : "<72F30BFA>",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힘이 센 세나 씨가 주무르면\n분명 좋은 반죽이 완성될 거예요모!"
+  }, {
+    "$id" : 12,
+    "label" : "<7D50347B>",
+    "talker" : "6",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응! 해 볼래!"
+  }, {
+    "$id" : 13,
+    "label" : "<938D298B>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 블레이드로\n있는 힘껏 반죽해 볼게!"
+  }, {
+    "$id" : 14,
+    "label" : "<A86FD1D3>",
+    "talker" : "tV",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸로 하면 반죽이 아니라\n곤죽이 될 거예요모!"
+  } ]
+}

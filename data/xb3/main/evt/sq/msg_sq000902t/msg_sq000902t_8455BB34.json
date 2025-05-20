@@ -1,0 +1,124 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq000902_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수용소에서는\n늘 이런 일을 해?"
+  }, {
+    "$id" : 2,
+    "label" : "sq000902_msg0002",
+    "talker" : "Yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 식량 채집 작업 말고도\n자원을 채굴하라고 하는 날도 있어"
+  }, {
+    "$id" : 3,
+    "label" : "sq000902_msg0003",
+    "talker" : "Yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐가 됐든 온종일\n중노동만 하는 거지"
+  }, {
+    "$id" : 4,
+    "label" : "sq000902_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나"
+  }, {
+    "$id" : 5,
+    "label" : "sq000902_msg0005",
+    "talker" : "Yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들\n아직 다 못 모았지?"
+  }, {
+    "$id" : 6,
+    "label" : "sq000902_msg0006",
+    "talker" : "Yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거 줄게"
+  }, {
+    "$id" : 7,
+    "label" : "sq000902_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "넌 괜찮아?"
+  }, {
+    "$id" : 8,
+    "label" : "sq000902_msg0008",
+    "talker" : "Yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "탈출하기 전에\n힘이 다해 버리면 안 되잖아"
+  }, {
+    "$id" : 9,
+    "label" : "sq000902_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워, 덕분에 살았다"
+  }, {
+    "$id" : 10,
+    "label" : "sq000902_msg0101",
+    "talker" : "Yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리들을 죽여도\n생명의 양식인지 뭔지는 안 되잖아?\n그래서 이렇게 실컷 부려 먹는 거지"
+  }, {
+    "$id" : 11,
+    "label" : "sq000902_msg0102",
+    "talker" : "Yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스 녀석들에게\n함부로 쓰다 버리는 목숨이 될 생각은\n없다는 걸 똑똑히 알려 주겠어"
+  } ]
+}

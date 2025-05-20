@@ -1,0 +1,124 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310907_msg0001",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기다리고 있었어요!\n여러분, 이쪽이에요!"
+  }, {
+    "$id" : 2,
+    "label" : "nq310907_msg0002",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기 보이네요!"
+  }, {
+    "$id" : 3,
+    "label" : "nq310907_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "들켰나……?"
+  }, {
+    "$id" : 4,
+    "label" : "nq310907_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니\n부딪혀서 멈춘 거 같은데……?"
+  }, {
+    "$id" : 5,
+    "label" : "nq310907_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하긴 여기가 워낙 좁아야지"
+  }, {
+    "$id" : 6,
+    "label" : "nq310907_msg0006",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "습격 포인트까지는 아직 거리가 있어\n당분간 상황을 지켜보……"
+  }, {
+    "$id" : 7,
+    "label" : "nq310907_msg0007",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 공격해야 해요!!"
+  }, {
+    "$id" : 8,
+    "label" : "nq310907_msg0008",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?!"
+  }, {
+    "$id" : 9,
+    "label" : "nq310907_msg0009",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "각오해라아아!!"
+  }, {
+    "$id" : 10,
+    "label" : "nq310907_msg0010",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "줄리에타 혼자\n싸우게 둬선 안 돼!"
+  }, {
+    "$id" : 11,
+    "label" : "nq310907_msg0011",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 가자!!"
+  } ]
+}

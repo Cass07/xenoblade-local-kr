@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk710310_msg0001",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 33571458,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보스……\n이번에도 직접 들어가려고요?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk710310_msg0002",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 4211203,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사전에 통지했잖아\n불만 있어?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk710310_msg0003",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 33570945,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아뇨, 마지막까지 \"최전선\"으로\n나가시는 걸 보면, 반담 가문의 피가\n그곳으로 이끄는 건가 싶어서요"
+  }, {
+    "$id" : 4,
+    "label" : "tlk710310_msg0004",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 33570945,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제트 녀석한테 게르니카 씨의 몫까지\n시원하게 날려 주고 오세요\n저희 쪽에서도 최선을 다해 지원하겠습니다"
+  }, {
+    "$id" : 5,
+    "label" : "tlk710310_msg0005",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 4210817,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워…… 트래비스"
+  } ]
+}

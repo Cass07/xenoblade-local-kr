@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330552_msg0001",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떻게 됐어?!\n적은 해치웠어?!"
+  }, {
+    "$id" : 2,
+    "label" : "nq330552_msg0101",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐?! 여기로 온다고?!"
+  }, {
+    "$id" : 3,
+    "label" : "nq330552_msg0102",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐만~?! 마음의 준비가……!"
+  }, {
+    "$id" : 4,
+    "label" : "nq330552_msg0201",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대왕 대합이 잡힐 만한 곳은\n암초뿔 모래사장이나\n크레센 해안 근처 아닐까~?"
+  }, {
+    "$id" : 5,
+    "label" : "nq330552_msg0202",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쨌든 커다란 조개니까\n보면 바로 알 거야!"
+  }, {
+    "$id" : 6,
+    "label" : "nq330552_msg0301",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대왕 대합은 찾았어?"
+  }, {
+    "$id" : 7,
+    "label" : "nq330552_msg0302",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이러니저러니 해도 기다리는 동안\n캡틴이랑 많이 친해져 버렸어~"
+  } ]
+}

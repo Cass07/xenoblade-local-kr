@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk140403_msg0001",
+    "talker" : "_Y1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "7명이 모이는 게\n대체 몇 년 만인지 모르겠어모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk140403_msg0002",
+    "talker" : "_Y1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "인간과 어울리는 노폰이 있는가 하면\n그렇지 않은 노폰도 있지……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk140403_msg0003",
+    "talker" : "_Y1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 나처럼 번영만을\n고민하는 노폰도 있어모"
+  }, {
+    "$id" : 4,
+    "label" : "tlk140403_msg0004",
+    "talker" : "_Y1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다양한 가치관을 가진 노폰이 있으니\n모두를 하나로 묶는 건 어려운 일이야모"
+  } ]
+}

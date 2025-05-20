@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<39B9B937>",
+    "talker" : "Yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아……\n드디어 다른 사람을 만났네요"
+  }, {
+    "$id" : 2,
+    "label" : "<AADC4C6D>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "구하러 왔어\n우리와 함께 가자"
+  }, {
+    "$id" : 3,
+    "label" : "<CB2A9D3E>",
+    "talker" : "Yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "감사드려요\n벌써 며칠을 헤매고 있었거든요……"
+  }, {
+    "$id" : 4,
+    "label" : "<7E330AFC>",
+    "talker" : "Yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 세공사 캐시라고 해요\n잠시 신세 좀 질게요"
+  }, {
+    "$id" : 5,
+    "label" : "<8EF8051E>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : "캐시를 콜로니 9에서 보호하게 되었다"
+  } ]
+}

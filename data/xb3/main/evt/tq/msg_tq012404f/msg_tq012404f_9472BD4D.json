@@ -1,0 +1,331 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012404_msg0001",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기, 실례지만\n잠깐 물어볼 게 있는데……"
+  }, {
+    "$id" : 2,
+    "label" : "tq012404_msg0002",
+    "talker" : "rc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음? 그래, 딱히 상관없는데……"
+  }, {
+    "$id" : 3,
+    "label" : "tq012404_msg0003",
+    "talker" : "rc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아앗?!"
+  }, {
+    "$id" : 4,
+    "label" : "tq012404_msg0004",
+    "talker" : "rc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 어떻게 저 녀석이 콜로니 내부에……!\n대체 어디로 침입했지?!"
+  }, {
+    "$id" : 5,
+    "label" : "tq012404_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 잠깐만……! 갑자기 왜 그래?"
+  }, {
+    "$id" : 6,
+    "label" : "tq012404_msg0006",
+    "talker" : "rc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시치미 떼지 마!\n그 레브니스로 우릴 습격했잖아!"
+  }, {
+    "$id" : 7,
+    "label" : "tq012404_msg0007",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐어~~?!"
+  }, {
+    "$id" : 8,
+    "label" : "tq012404_msg0008",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 뭐야?\n수송대를 습격한 범인은……"
+  }, {
+    "$id" : 9,
+    "label" : "tq012404_msg0009",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 10,
+    "label" : "tq012404_msg0010",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 오해야!\n우리는 아무것도 안 했고, 세주도……!"
+  }, {
+    "$id" : 11,
+    "label" : "tq012404_msg0011",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진정해, 세나"
+  }, {
+    "$id" : 12,
+    "label" : "tq012404_msg0012",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그치만……!"
+  }, {
+    "$id" : 13,
+    "label" : "tq012404_msg0013",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확인차 물어보는데, 네가 본 레브니스가\n정말 이 기체인 게 확실해?"
+  }, {
+    "$id" : 14,
+    "label" : "tq012404_msg0014",
+    "talker" : "rc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?! 그렇다고 했잖……"
+  }, {
+    "$id" : 15,
+    "label" : "tq012404_msg0015",
+    "talker" : "rc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응? 잠깐만\n잘 보니 조금 다른 것 같기도……"
+  }, {
+    "$id" : 16,
+    "label" : "tq012404_msg0101",
+    "talker" : "rc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니 너희는\n전에 우릴 도와준……"
+  }, {
+    "$id" : 17,
+    "label" : "tq012404_msg0102",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 눈치챘냐\n동요하는 것도 정도가 있지"
+  }, {
+    "$id" : 18,
+    "label" : "tq012404_msg0201",
+    "talker" : "rc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니 너희는\n분명 이스루기 군무장님의……"
+  }, {
+    "$id" : 19,
+    "label" : "tq012404_msg0202",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 맞아\n이제 알아보겠어?"
+  }, {
+    "$id" : 20,
+    "label" : "tq012404_msg0301",
+    "talker" : "rc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시, 실례했군……!\n하지만 그 레브니스는……"
+  }, {
+    "$id" : 21,
+    "label" : "tq012404_msg0302",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "현재 조사 중입니다\n범인을 찾아내기 위해 정보 제공을 요청합니다"
+  }, {
+    "$id" : 22,
+    "label" : "tq012404_msg0303",
+    "talker" : "rc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……정보라면 그 건을 지금\n소대장인 시토네가 조사하고 있어"
+  }, {
+    "$id" : 23,
+    "label" : "tq012404_msg0304",
+    "talker" : "rc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "협력해 줄 생각이라면\n우선 시토네랑 이야기해 봐"
+  }, {
+    "$id" : 24,
+    "label" : "tq012404_msg0305",
+    "talker" : "rc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금쯤이면 뭔가 정보를 얻었을 거야\n유력한 단서면 좋겠는데……"
+  }, {
+    "$id" : 25,
+    "label" : "tq012404_msg0306",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니……\n대체 뭐가 어떻게 된 거야?"
+  }, {
+    "$id" : 26,
+    "label" : "tq012404_msg0307",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 27,
+    "label" : "tq012404_msg0308",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮아, 세주\n모두 너를 믿고 있으니까"
+  }, {
+    "$id" : 28,
+    "label" : "tq012404_msg0309",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론이지\n콜로니 0에 있는 녀석들이\n그랬을 리도 없고 말이야"
+  }, {
+    "$id" : 29,
+    "label" : "tq012404_msg0310",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진상을 규명하려면……\n모든 가능성을 고려해야 합니다"
+  }, {
+    "$id" : 30,
+    "label" : "tq012404_msg0311",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바꿔 말하면 아직 범인이 철기병이라고\n확신할 수도 없다는 거지…… 안 그래?"
+  }, {
+    "$id" : 31,
+    "label" : "tq012404_msg0312",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……동의합니다"
+  }, {
+    "$id" : 32,
+    "label" : "tq012404_msg0313",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……맞아\n우리가 제대로 확인하자고"
+  }, {
+    "$id" : 33,
+    "label" : "tq012404_msg0314",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 확인하겠습니다. 반드시……"
+  }, {
+    "$id" : 34,
+    "label" : "tq012404_msg0315",
+    "talker" : "dW1",
+    "talkattr" : 33026,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이것이 우연인지, 아니면……"
+  } ]
+}

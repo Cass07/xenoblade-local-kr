@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "cq010150_0010",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이 다리 건너편이지?"
+  }, {
+    "$id" : 2,
+    "label" : "cq010150_0020",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래……"
+  }, {
+    "$id" : 3,
+    "label" : "cq010150_0025",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "역시 정면으로 들어가는 건 힘들겠군"
+  }, {
+    "$id" : 4,
+    "label" : "cq010150_0030",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……"
+  }, {
+    "$id" : 5,
+    "label" : "cq010150_0040",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "왼쪽에 있는 부유도를 건너서 가자"
+  }, {
+    "$id" : 6,
+    "label" : "cq010150_0045",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그럼 기지 안쪽으로 들어갈 수 있을 거야"
+  }, {
+    "$id" : 7,
+    "label" : "cq010150_0050",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "들어간 후엔 목적지까지 최단 루트로 가면 돼"
+  }, {
+    "$id" : 8,
+    "label" : "cq010150_0060",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그리고 파편을 획득하면\n잽싸게 탈출하는 거지"
+  }, {
+    "$id" : 9,
+    "label" : "cq010150_0070",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "맞아"
+  }, {
+    "$id" : 10,
+    "label" : "cq010150_0080",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그 방법밖에 없겠네\n알겠어"
+  } ]
+}

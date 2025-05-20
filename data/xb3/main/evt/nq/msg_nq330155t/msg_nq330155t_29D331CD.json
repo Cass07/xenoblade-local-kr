@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330155_msg0001",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왠지 모르게 모이라는 이유를\n대충 눈치챘어"
+  }, {
+    "$id" : 2,
+    "label" : "nq330155_msg0002",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 뮤도 한 걸음 나아갈 때야……\n다 함께 극복해야 돼"
+  }, {
+    "$id" : 3,
+    "label" : "nq330155_msg0003",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이치카도 여기 있었으면\n그렇게 말했을 거야"
+  } ]
+}

@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq230208_msg0001",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다음은 여러분이 기다리시던……\n주력 부대 등장입니다요~"
+  }, {
+    "$id" : 2,
+    "label" : "nq230208_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하나도 안 기다렸지만 올 테면 와 봐!\n혼쭐을 내 줄 테니까!"
+  }, {
+    "$id" : 3,
+    "label" : "nq230208_msg0003",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗…… 좋은 기세다!\n잠재된 투쟁 본능에 몸을 맡기고\n자신의 모든 것을 해방해라!"
+  }, {
+    "$id" : 4,
+    "label" : "nq230208_msg0004",
+    "talker" : "je1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아쉽지만 이걸로 마지막……\n마음껏 싸워 보자……"
+  } ]
+}

@@ -1,0 +1,142 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq320101_msg0001",
+    "talker" : "rf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "필요하면 언제든지 말해\n내가 힘을 빌려줄게"
+  }, {
+    "$id" : 2,
+    "label" : "nq320101_msg0002",
+    "talker" : "kl1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마음은 고맙지만……\n나는 당신들이 무서워"
+  }, {
+    "$id" : 3,
+    "label" : "nq320101_msg0003",
+    "talker" : "kl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "덩치도 크고, 목소리도 크고……"
+  }, {
+    "$id" : 4,
+    "label" : "nq320101_msg0004",
+    "talker" : "rf1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그랬구나"
+  }, {
+    "$id" : 5,
+    "label" : "nq320101_msg0005",
+    "talker" : "rf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모습이 안 보이면 될지도 몰라"
+  }, {
+    "$id" : 6,
+    "label" : "nq320101_msg0006",
+    "talker" : "rf1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 안 무섭지?!"
+  }, {
+    "$id" : 7,
+    "label" : "nq320101_msg0007",
+    "talker" : "kl1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기…… 다 보여"
+  }, {
+    "$id" : 8,
+    "label" : "nq320101_msg0008",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마음을 다 열지는\n않은 것 같긴 해도……"
+  }, {
+    "$id" : 9,
+    "label" : "nq320101_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정할 정도는 아니었네\n이 정도면 우리가 관여하지 않아도……"
+  }, {
+    "$id" : 10,
+    "label" : "nq320101_msg0010",
+    "talker" : "hj1",
+    "talkattr" : 33025,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꺄아아아아아악?!"
+  }, {
+    "$id" : 11,
+    "label" : "nq320101_msg0011",
+    "talker" : "2",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "비명?"
+  }, {
+    "$id" : 12,
+    "label" : "nq320101_msg0012",
+    "talker" : "5",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 일이 난 거야?!"
+  }, {
+    "$id" : 13,
+    "label" : "nq320101_msg0013",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쨌든 가 보자!"
+  } ]
+}

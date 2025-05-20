@@ -1,0 +1,178 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<D72143F5>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래, 알았어\n그쪽도 조심해"
+  }, {
+    "$id" : 2,
+    "label" : "<AC97C7CD>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잰슨 일행은 전원\n같은 방에 있다는 거 같아"
+  }, {
+    "$id" : 3,
+    "label" : "<67F09299>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 밖에서 침입한 걸\n눈치채지 못했다면"
+  }, {
+    "$id" : 4,
+    "label" : "<A166B24C>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "작전의 첫 단계는\n성공이라고 봐도 되겠지"
+  }, {
+    "$id" : 5,
+    "label" : "<2C17859F>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제는 어떻게 곤도에게\n협력을 요청할지가 관건이네"
+  }, {
+    "$id" : 6,
+    "label" : "<C1A863DD>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아"
+  }, {
+    "$id" : 7,
+    "label" : "<5779C142>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"너희가 지금을 부수고 있다\"……"
+  }, {
+    "$id" : 8,
+    "label" : "<873360AB>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 무슨 뜻일까?"
+  }, {
+    "$id" : 9,
+    "label" : "<1ACDA82D>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모르겠어……"
+  }, {
+    "$id" : 10,
+    "label" : "<553B740A>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 그걸 포함해서\n다시 한번 곤도와 얘기해 보고 싶어"
+  }, {
+    "$id" : 11,
+    "label" : "<802B1D7E>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얘기하고 싶다 해도\n여기서 요란하게 날뛰기라도\n하지 않는 이상, 나가는 건……"
+  }, {
+    "$id" : 12,
+    "label" : "<804395E1>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "날뛰지 않아도 나갈 수 있겠는데모"
+  }, {
+    "$id" : 13,
+    "label" : "<279A24F4>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떻게 된 거지……?"
+  }, {
+    "$id" : 14,
+    "label" : "<5D68F0D1>",
+    "talker" : "pm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네 녀석들 신참이지?\n빨리 가지 않으면\n밥그릇만 핥게 될 거다"
+  }, {
+    "$id" : 15,
+    "label" : "<D3D20343>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "밥이라고요모?!"
+  }, {
+    "$id" : 16,
+    "label" : "<AC125514>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보아하니 자유롭게 다녀도 되나 본데?"
+  }, {
+    "$id" : 17,
+    "label" : "<BC63A27B>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곤도를 찾으러 가자"
+  } ]
+}

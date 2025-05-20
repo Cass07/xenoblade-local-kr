@@ -1,0 +1,286 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq320303_msg0001",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐, 너희들"
+  }, {
+    "$id" : 2,
+    "label" : "nq320303_msg0002",
+    "talker" : "qf1",
+    "talkattr" : 33153,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캡틴!"
+  }, {
+    "$id" : 3,
+    "label" : "nq320303_msg0003",
+    "talker" : "rf1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여긴 어쩐 일로?"
+  }, {
+    "$id" : 4,
+    "label" : "nq320303_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희가 로스트 넘버즈로서\n어떻게 활동하는지 궁금하대"
+  }, {
+    "$id" : 5,
+    "label" : "nq320303_msg0005",
+    "talker" : "N",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 너희가 뭘 하든\n자유라고 생각하는데\n아가씨들이 너무 신경 쓰인다잖냐"
+  }, {
+    "$id" : 6,
+    "label" : "nq320303_msg0006",
+    "talker" : "pf1",
+    "talkattr" : 33153,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 캡틴이야!"
+  }, {
+    "$id" : 7,
+    "label" : "nq320303_msg0007",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서, 정말로 로스트 넘버즈의\n임무를 수행하고 있는 거야?"
+  }, {
+    "$id" : 8,
+    "label" : "nq320303_msg0008",
+    "talker" : "qf1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 맞아"
+  }, {
+    "$id" : 9,
+    "label" : "nq320303_msg0009",
+    "talker" : "vf1",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 시티 녀석들보다 훨씬 튼튼하잖아?\n실은 그게 제법 쓸 만한 능력인가 봐"
+  }, {
+    "$id" : 10,
+    "label" : "nq320303_msg0010",
+    "talker" : "N",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 그런 너희보다 훨씬 더 튼튼한데"
+  }, {
+    "$id" : 11,
+    "label" : "nq320303_msg0011",
+    "talker" : "vf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번엔 이 섬에서 이런 것들을 모아 오래"
+  }, {
+    "$id" : 12,
+    "label" : "nq320303_msg0012",
+    "talker" : "pf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어딘가에 숨겨져 있다고 하더라!"
+  }, {
+    "$id" : 13,
+    "label" : "nq320303_msg0013",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬군\n보물찾기라는 건가……"
+  }, {
+    "$id" : 14,
+    "label" : "nq320303_msg0014",
+    "talker" : "N",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은 생각이 떠올랐다"
+  }, {
+    "$id" : 15,
+    "label" : "nq320303_msg0015",
+    "talker" : "N",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희랑 우리 중 빨리 발견한 쪽이\n승리라는 건 어때?"
+  }, {
+    "$id" : 16,
+    "label" : "nq320303_msg0016",
+    "talker" : "5",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "또냐……"
+  }, {
+    "$id" : 17,
+    "label" : "nq320303_msg0017",
+    "talker" : "uf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사양하겠습니다"
+  }, {
+    "$id" : 18,
+    "label" : "nq320303_msg0018",
+    "talker" : "N",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하아~ 반응이 시시하네!"
+  }, {
+    "$id" : 19,
+    "label" : "nq320303_msg0019",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 쟤들도 질린 거지……"
+  }, {
+    "$id" : 20,
+    "label" : "nq320303_msg0020",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여긴 캡틴한테 맡기겠습니다\n우린 다른 섬에도 짐작 가는 곳이\n있으니까 거기로 가죠"
+  }, {
+    "$id" : 21,
+    "label" : "nq320303_msg0021",
+    "talker" : "rf1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 진짜 하려고?"
+  }, {
+    "$id" : 22,
+    "label" : "nq320303_msg0022",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이러면 우리 목적이 더 빨리 달성되잖아?"
+  }, {
+    "$id" : 23,
+    "label" : "nq320303_msg0023",
+    "talker" : "vf1",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 토르톤 말에 찬성이야\n다들, 가자"
+  }, {
+    "$id" : 24,
+    "label" : "nq320303_msg0024",
+    "talker" : "rf1",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알겠어"
+  }, {
+    "$id" : 25,
+    "label" : "nq320303_msg0025",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 캡틴\n보물을 손에 넣으면\n센트리지 항구에서 합류하죠"
+  }, {
+    "$id" : 26,
+    "label" : "nq320303_msg0026",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왠지 이야기가 제멋대로 진행됐네……"
+  }, {
+    "$id" : 27,
+    "label" : "nq320303_msg0027",
+    "talker" : "N",
+    "talkattr" : 33128,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게…… 소외된 기분인데……"
+  }, {
+    "$id" : 28,
+    "label" : "nq320303_msg0028",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서, 어쩔래?\n보물찾기는 할 거야?"
+  }, {
+    "$id" : 29,
+    "label" : "nq320303_msg0029",
+    "talker" : "N",
+    "talkattr" : 33065,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼!\n그건 빼놓을 수 없지!"
+  } ]
+}

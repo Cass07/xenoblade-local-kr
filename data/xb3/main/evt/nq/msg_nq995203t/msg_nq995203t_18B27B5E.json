@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq995203_msg0001",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "슈리? 당연히 알고 있지\n한때 여기서 화제였거든"
+  }, {
+    "$id" : 2,
+    "label" : "nq995203_msg0002",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "주로 물자를 회수하는 부대에 있었는데\n전투도 능숙한 병사였어"
+  }, {
+    "$id" : 3,
+    "label" : "nq995203_msg0003",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 병사는 귀중한 편이지\n물자 컨테이너는 회수하거나 수송할 때\n적들이 노리는 일이 많잖아"
+  }, {
+    "$id" : 4,
+    "label" : "nq995203_msg0004",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무리 회수부나 보급부가 후방 지원이라지만\n싸울 사람이 없으면 죽도 밥도 안 돼"
+  }, {
+    "$id" : 5,
+    "label" : "nq995203_msg0005",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적한테 뺏길 바에야 폭파해 버리겠다\n그런 정확한 상황 판단 능력이 필요해"
+  }, {
+    "$id" : 6,
+    "label" : "nq995203_msg0006",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 정신 바짝 차려야지\n언제 무슨 일이 일어날지 모르잖아"
+  }, {
+    "$id" : 7,
+    "label" : "nq995203_msg0101",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물자 컨테이너 회수에는 많은 위험이 따라\n적한테 뺏길 바에야 폭파해서\n미련 없이 버려야 할 때도 있어"
+  } ]
+}

@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk140103_msg0001",
+    "talker" : "yY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 9에서 아주 맛있는 감자를\n수확할 수 있게 됐다면서요모?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk140103_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아\n밭에서 기르고 있어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk140103_msg0003",
+    "talker" : "yY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다음에 먹으러 가야겠어요모\n맛있으면 소문내 드릴게요모"
+  }, {
+    "$id" : 4,
+    "label" : "tlk140103_msg0004",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꼭 들러 줘\n틀림없이 마음에 들 거다"
+  } ]
+}

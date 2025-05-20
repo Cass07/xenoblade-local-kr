@@ -1,0 +1,124 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq000110_msg0001",
+    "talker" : "nd1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어서 오십쇼모!\n찾는 거 있어모?!"
+  }, {
+    "$id" : 2,
+    "label" : "nq000110_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어우, 시끄러워"
+  }, {
+    "$id" : 3,
+    "label" : "nq000110_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우린 시르지르의 명부 작성을 돕고 있어\n그래서 여기 들른 건데……"
+  }, {
+    "$id" : 4,
+    "label" : "nq000110_msg0004",
+    "talker" : "nd1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나, 완벽하게 파악했어모!!\n시르지르한테 선물을 주고 싶어서\n사러 왔구나모?!!"
+  }, {
+    "$id" : 5,
+    "label" : "nq000110_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "완벽에 가깝게 틀렸거든"
+  }, {
+    "$id" : 6,
+    "label" : "nq000110_msg0006",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "돌을 받아 오라고 해서……"
+  }, {
+    "$id" : 7,
+    "label" : "nq000110_msg0007",
+    "talker" : "nd1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬어모?!!\n그럼 이걸 줄게모!!"
+  }, {
+    "$id" : 8,
+    "label" : "nq000110_msg0008",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 화통이라도 삶아 먹었나……"
+  }, {
+    "$id" : 9,
+    "label" : "nq000110_msg0009",
+    "talker" : "nd1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "장사는 첫째도 목청, 둘째도 목청\n셋, 넷은 없고 다섯째도 목청이야모!!!!"
+  }, {
+    "$id" : 10,
+    "label" : "nq000110_msg0010",
+    "talker" : "nd1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지리지리는 케하케바의 목청을 칭찬해 줬어모!\n그래서 케하케바는 큰 목소리로\n접객하는 거야모!!"
+  }, {
+    "$id" : 11,
+    "label" : "nq000110_msg0011",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기, 기운찬 건 좋은 일이지……\n아무튼 받은 돌은 잘 전달할게……"
+  } ]
+}

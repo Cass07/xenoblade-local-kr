@@ -1,0 +1,286 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq240102_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엇! 그 녀석들, 아직 안 왔잖아!"
+  }, {
+    "$id" : 2,
+    "label" : "nq240102_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "헤헷, 우리가 이겼군!"
+  }, {
+    "$id" : 3,
+    "label" : "nq240102_msg0003",
+    "talker" : "Xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까……\n예비용 에테르 실린더가……"
+  }, {
+    "$id" : 4,
+    "label" : "nq240102_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐! 왜 이렇게 늦었어?"
+  }, {
+    "$id" : 5,
+    "label" : "nq240102_msg0005",
+    "talker" : "Xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말도 안 돼?! 벌써 돌아왔어?!"
+  }, {
+    "$id" : 6,
+    "label" : "nq240102_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우린 진작에 끝났거든?"
+  }, {
+    "$id" : 7,
+    "label" : "nq240102_msg0007",
+    "talker" : "Xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "큭, 도중에 물자만 부족하지 않았더라도\n우리가 이겼을 텐데……"
+  }, {
+    "$id" : 8,
+    "label" : "nq240102_msg0008",
+    "talker" : "Wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 아직 패배를 인정하지 않았어!\n다시 한번 겨루면, 그땐 분명……!"
+  }, {
+    "$id" : 9,
+    "label" : "nq240102_msg0009",
+    "talker" : "_e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그만해……\n준비를 게을리한 실수는\n순순히 인정해야지……"
+  }, {
+    "$id" : 10,
+    "label" : "nq240102_msg0010",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "헷, 의외로 깔끔히 받아들이는걸"
+  }, {
+    "$id" : 11,
+    "label" : "nq240102_msg0011",
+    "talker" : "_e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연하지. 실패를 배우지 않고서야\n어떻게 캐슬의 병사를 자부할 수 있겠어"
+  }, {
+    "$id" : 12,
+    "label" : "nq240102_msg0012",
+    "talker" : "Xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아! 나도 반드시\n위사장님처럼 되고 말 거야!"
+  }, {
+    "$id" : 13,
+    "label" : "nq240102_msg0013",
+    "talker" : "Xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이까짓 패배로\n좌절하고 있을 시간 없어!"
+  }, {
+    "$id" : 14,
+    "label" : "nq240102_msg0014",
+    "talker" : "_e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번 경쟁은 분하긴 하지만\n좋은 훈련이 됐어. 그건 고맙다고 해 두지"
+  }, {
+    "$id" : 15,
+    "label" : "nq240102_msg0015",
+    "talker" : "Wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다음엔 언제 올 거야?\n이겼다고 발 빼면 용서 안 해!"
+  }, {
+    "$id" : 16,
+    "label" : "nq240102_msg0016",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들……"
+  }, {
+    "$id" : 17,
+    "label" : "nq240102_msg0017",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하, 이래서야 우리도 질 수 없겠네\n그렇지, 란츠?"
+  }, {
+    "$id" : 18,
+    "label" : "nq240102_msg0018",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그들도 나름대로 시행착오를 거듭하고 있었어\n우리도 본받아야겠는걸"
+  }, {
+    "$id" : 19,
+    "label" : "nq240102_msg0019",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "막무가내로 나서는 네 성격도\n후배 육성에 도움이 됐다는 건가"
+  }, {
+    "$id" : 20,
+    "label" : "nq240102_msg0020",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후배……"
+  }, {
+    "$id" : 21,
+    "label" : "nq240102_msg0021",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후배라…… 그러고 보니 콜로니 9 녀석들을\n그런 식으로 생각해 본 적이 한 번도 없었네"
+  }, {
+    "$id" : 22,
+    "label" : "nq240102_msg0022",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 딱히 선배가 되고 싶은 건 아니지만\n이렇게 나와야 재미있지!"
+  }, {
+    "$id" : 23,
+    "label" : "nq240102_msg0023",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 너희들!"
+  }, {
+    "$id" : 24,
+    "label" : "nq240102_msg0024",
+    "talker" : "_e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 뭐야?"
+  }, {
+    "$id" : 25,
+    "label" : "nq240102_msg0025",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나중에 또 겨뤄 보자!"
+  }, {
+    "$id" : 26,
+    "label" : "nq240102_msg0026",
+    "talker" : "_e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……흥, 바라던 바다"
+  }, {
+    "$id" : 27,
+    "label" : "nq240102_msg0027",
+    "talker" : "Wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 다음번엔 우리가 이길 거야!"
+  }, {
+    "$id" : 28,
+    "label" : "nq240102_msg0028",
+    "talker" : "Xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도망치지나 마!"
+  }, {
+    "$id" : 29,
+    "label" : "nq240102_msg0029",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 기대하고 있을게"
+  } ]
+}

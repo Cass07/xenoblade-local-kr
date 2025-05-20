@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120704_msg0001",
+    "talker" : "tc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "호오…… 무기치고는\n발상이 참 독특한걸?"
+  }, {
+    "$id" : 2,
+    "label" : "nq120704_msg0002",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지?!\n같이 만들자!"
+  }, {
+    "$id" : 3,
+    "label" : "nq120704_msg0003",
+    "talker" : "tc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무척 흥미롭고\n나도 꼭 협력해 주고 싶기는 하지만\n지금 내가 많이 바쁘거든……"
+  }, {
+    "$id" : 4,
+    "label" : "nq120704_msg0004",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나\n그럼 나중에 도와줘"
+  }, {
+    "$id" : 5,
+    "label" : "nq120704_msg0005",
+    "talker" : "tc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 개발이 잘되길 바랄게"
+  } ]
+}

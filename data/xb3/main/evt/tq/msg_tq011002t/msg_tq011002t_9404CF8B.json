@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011002_msg0001",
+    "talker" : "pl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희도 요리 콘테스트에 나가니?\n이번에도 볼만하겠구나"
+  }, {
+    "$id" : 2,
+    "label" : "tq011002_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혹시 지금까지 콘테스트에서\n어떤 요리가 나왔어?"
+  }, {
+    "$id" : 3,
+    "label" : "tq011002_msg0003",
+    "talker" : "pl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄다~ 특이한 음식부터\n익숙한 음식까지\n다양하게 나왔지"
+  }, {
+    "$id" : 4,
+    "label" : "tq011002_msg0004",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다양하게……"
+  }, {
+    "$id" : 5,
+    "label" : "tq011002_msg0005",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그…… 보통 어떤 요리를\n먹으면 좋아할까요?"
+  }, {
+    "$id" : 6,
+    "label" : "tq011002_msg0006",
+    "talker" : "pl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐든지 대환영이란다!\n네가 만들고 싶은 걸 만들렴"
+  }, {
+    "$id" : 7,
+    "label" : "tq011002_msg0007",
+    "talker" : "pl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어차피 당일까진\n누가 심사하는지도 알 수 없거든"
+  }, {
+    "$id" : 8,
+    "label" : "tq011002_msg0008",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나……"
+  }, {
+    "$id" : 9,
+    "label" : "tq011002_msg0009",
+    "talker" : "pl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래도 만약 나라면\n많은 사람의 입맛에 맞게 요리할 거 같구나"
+  } ]
+}

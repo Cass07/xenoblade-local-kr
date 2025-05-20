@@ -1,0 +1,178 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq030702_msg0001",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 이후로 몬스터는 어때?\n또 늘거나 하진 않았어?"
+  }, {
+    "$id" : 2,
+    "label" : "nq030702_msg0002",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 그 후로 다 같이\n협의해서 2조 교대제로\n퇴치하고 있습니다"
+  }, {
+    "$id" : 3,
+    "label" : "nq030702_msg0003",
+    "talker" : "6",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나, 세주 일행은 강하니까\n함께 힘을 합치면 분명 괜찮을 거야"
+  }, {
+    "$id" : 4,
+    "label" : "nq030702_msg0004",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동의……하고 싶습니다만\n반드시 그렇다고 단정 지을 수는 없습니다"
+  }, {
+    "$id" : 5,
+    "label" : "nq030702_msg0005",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "구성된 조원에 따라서는\n서로 간의 충돌이 발생하기도 합니다\n9호와 3호 때처럼……"
+  }, {
+    "$id" : 6,
+    "label" : "nq030702_msg0006",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집정관의 지휘하에 있던 시절에는\n그런 문제가 일어나지 않도록\n엄격한 통제가 이뤄지고 있었습니다만……"
+  }, {
+    "$id" : 7,
+    "label" : "nq030702_msg0007",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 하지만 동료라고 해서\n항상 사이가 좋은 건 아니잖아?"
+  }, {
+    "$id" : 8,
+    "label" : "nq030702_msg0008",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오히려…… 동료라서\n자주 다투기도 하는 거야"
+  }, {
+    "$id" : 9,
+    "label" : "nq030702_msg0009",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 가끔 미오랑\n다툴 때가 있거든"
+  }, {
+    "$id" : 10,
+    "label" : "nq030702_msg0010",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇습니까?"
+  }, {
+    "$id" : 11,
+    "label" : "nq030702_msg0011",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예전에는 그러지 않았어\n나도 모르게 꾹 참기도 하고……"
+  }, {
+    "$id" : 12,
+    "label" : "nq030702_msg0012",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 지금은 서로 솔직하게\n하고 싶은 말을 하는 관계가 됐어"
+  }, {
+    "$id" : 13,
+    "label" : "nq030702_msg0013",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 다투기도 하는 거라고 생각하면\n의외로 나쁘지 않은 거 아닐까?"
+  }, {
+    "$id" : 14,
+    "label" : "nq030702_msg0014",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그런 식으로 생각해 본 적은 없었습니다\n참고해야겠습니다"
+  }, {
+    "$id" : 15,
+    "label" : "nq030702_msg0015",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 세주도\n나한테 할 말이 있으면\n사양하지 말고 말해 줘"
+  }, {
+    "$id" : 16,
+    "label" : "nq030702_msg0016",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗! 물론 나뿐만 아니라\n콜로니 0 사람들한테도 그래야 해?"
+  }, {
+    "$id" : 17,
+    "label" : "nq030702_msg0017",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……노력해 보겠습니다"
+  } ]
+}

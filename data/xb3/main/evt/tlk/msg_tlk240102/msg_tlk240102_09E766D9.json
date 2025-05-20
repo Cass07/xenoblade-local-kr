@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk240102_msg0001",
+    "talker" : "xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로프 위를 이동할 수 있게 됐다면서모?\n대단하네모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk240102_msg0002",
+    "talker" : "xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엘시 폭포의 벽면에도\n로프가 있었으니까\n한번 가 봐모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk240102_msg0003",
+    "talker" : "xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 또 리비 평원 끄트머리에도\n있었던 거 같아모"
+  } ]
+}

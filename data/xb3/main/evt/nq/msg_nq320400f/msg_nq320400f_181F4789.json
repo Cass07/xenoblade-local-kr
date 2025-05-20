@@ -1,0 +1,556 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq320400_msg0001",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 잠깐 한숨 돌리고 갈까?"
+  }, {
+    "$id" : 2,
+    "label" : "nq320400_msg0002",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?"
+  }, {
+    "$id" : 3,
+    "label" : "nq320400_msg0003",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실례 좀 할게"
+  }, {
+    "$id" : 4,
+    "label" : "nq320400_msg0004",
+    "talker" : "ql1",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야, 또 온 거냐?\n너는 하도 크니\n방해돼서 못 살겠다!"
+  }, {
+    "$id" : 5,
+    "label" : "nq320400_msg0005",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "섭섭한 말 하지 마, 영감"
+  }, {
+    "$id" : 6,
+    "label" : "nq320400_msg0006",
+    "talker" : "ql1",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너 같은 것들이 우글우글 몰려오면\n소란스러워서 견딜 수가 있어야지, 원!"
+  }, {
+    "$id" : 7,
+    "label" : "nq320400_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아는 사람이야?"
+  }, {
+    "$id" : 8,
+    "label" : "nq320400_msg0008",
+    "talker" : "N",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 내 친구야\n안 그래, 영감?"
+  }, {
+    "$id" : 9,
+    "label" : "nq320400_msg0009",
+    "talker" : "ql1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "똑같이 시티에서 겉도는 처지니\n내가 좀 놀아 준 것뿐이다!\n나를 영감이라고 부르더구나"
+  }, {
+    "$id" : 10,
+    "label" : "nq320400_msg0010",
+    "talker" : "N",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하! 영감이랑 나는\n이 근처에서 의기투합한 사이거든!"
+  }, {
+    "$id" : 11,
+    "label" : "nq320400_msg0011",
+    "talker" : "N",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가끔 이렇게 밤새도록 술을 마시곤 해!"
+  }, {
+    "$id" : 12,
+    "label" : "nq320400_msg0012",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너한테도 요상한 지인이 다 있구나"
+  }, {
+    "$id" : 13,
+    "label" : "nq320400_msg0013",
+    "talker" : "ql1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 뭐 하러 온 거냐?\n너희한테 술은 이르잖아?"
+  }, {
+    "$id" : 14,
+    "label" : "nq320400_msg0014",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 이유가 필요해, 영감\n재미있는 이야기는 없나 들으러 온 거야"
+  }, {
+    "$id" : 15,
+    "label" : "nq320400_msg0015",
+    "talker" : "ql1",
+    "talkattr" : 33185,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "술안주가 될 만한 이야기는 없다!"
+  }, {
+    "$id" : 16,
+    "label" : "nq320400_msg0016",
+    "talker" : "ql1",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 양자로 거둔 노폰 녀석은 맨날\n놀기만 하고 좋은 일이라곤 하나도 없어"
+  }, {
+    "$id" : 17,
+    "label" : "nq320400_msg0017",
+    "talker" : "N",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "늙으면 살아 있기만 해도 그게 좋은 날이지!"
+  }, {
+    "$id" : 18,
+    "label" : "nq320400_msg0018",
+    "talker" : "ql1",
+    "talkattr" : 33153,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동감이다! 덩치는 큰 주제에 제법 달변이군!"
+  }, {
+    "$id" : 19,
+    "label" : "nq320400_msg0019",
+    "talker" : "ql1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니\n네가 가져온 된장은 맛있었지\n그날은 좋은 날이었다"
+  }, {
+    "$id" : 20,
+    "label" : "nq320400_msg0020",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야, 트라이던\n그때 그 된장 나눠 준 거야?"
+  }, {
+    "$id" : 21,
+    "label" : "nq320400_msg0021",
+    "talker" : "N",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 술안주로 딱 좋더라고"
+  }, {
+    "$id" : 22,
+    "label" : "nq320400_msg0022",
+    "talker" : "ql1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 할아버지가 된장 담그는 걸 좋아했었지\n그 할아버지의 된장 맛이 떠오르더군"
+  }, {
+    "$id" : 23,
+    "label" : "nq320400_msg0023",
+    "talker" : "N",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "영감의 할아버지는\n꽤 좋은 취미를 지녔는걸"
+  }, {
+    "$id" : 24,
+    "label" : "nq320400_msg0024",
+    "talker" : "ql1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 할아버지도\n된장에 어울리는 식재료를 찾겠다고\n시티를 뛰쳐나갔는데 그 뒤로 소식불통이었지"
+  }, {
+    "$id" : 25,
+    "label" : "nq320400_msg0025",
+    "talker" : "ql1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디서 죽었는지도 몰라"
+  }, {
+    "$id" : 26,
+    "label" : "nq320400_msg0026",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "할아버지는 밖에 안 나가?"
+  }, {
+    "$id" : 27,
+    "label" : "nq320400_msg0027",
+    "talker" : "ql1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗, 나는 이래 보여도\n젊었을 적엔 힘이 장사였거든"
+  }, {
+    "$id" : 28,
+    "label" : "nq320400_msg0028",
+    "talker" : "ql1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "병에 걸린 할머니가 반한 적도 있었지\n뭐 결국 온천 찾는 할아버지랑\n둘이 가까워졌지만 말이다!"
+  }, {
+    "$id" : 29,
+    "label" : "nq320400_msg0029",
+    "talker" : "ql1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 할머니랑 온천 할아버지는\n결혼 직전까지 간 사이었는데……"
+  }, {
+    "$id" : 30,
+    "label" : "nq320400_msg0030",
+    "talker" : "4",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐만 기다려 봐\n지금 무슨 이야기 중이야?"
+  }, {
+    "$id" : 31,
+    "label" : "nq320400_msg0031",
+    "talker" : "ql1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "결국 녀석들의 혼담은 깨져서……\n……나는 무슨 이야기를 하는 거지?"
+  }, {
+    "$id" : 32,
+    "label" : "nq320400_msg0032",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "또 딴소리 시작한 거였지 뭘\n술안주는 뭐로 할까 얘기하는 중이었잖아?"
+  }, {
+    "$id" : 33,
+    "label" : "nq320400_msg0033",
+    "talker" : "5",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것도 아니거든"
+  }, {
+    "$id" : 34,
+    "label" : "nq320400_msg0034",
+    "talker" : "ql1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "술안주라……\n그 된장을 맛보고 떠오른 건데"
+  }, {
+    "$id" : 35,
+    "label" : "nq320400_msg0035",
+    "talker" : "ql1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 할아버지가 어딘가에서 따 온\n맛있는 과일이 있었거든"
+  }, {
+    "$id" : 36,
+    "label" : "nq320400_msg0036",
+    "talker" : "N",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오호라, 그건 흥미로운걸"
+  }, {
+    "$id" : 37,
+    "label" : "nq320400_msg0037",
+    "talker" : "ql1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 맛에, 그 희귀함……\n그건 그야말로 \"전설\"의 과일이었지……"
+  }, {
+    "$id" : 38,
+    "label" : "nq320400_msg0038",
+    "talker" : "ql1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 그땐 아직 어렸지만\n눈물이 날 정도로 엄청나게 맛있어서\n몸이 떨릴 정도였어"
+  }, {
+    "$id" : 39,
+    "label" : "nq320400_msg0039",
+    "talker" : "ql1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죽기 전에 한 번 더 먹어 보고 싶군"
+  }, {
+    "$id" : 40,
+    "label" : "nq320400_msg0059",
+    "talker" : "ql1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 그럼 추억담은 여기까지 하고\n오늘은 오늘 술을 마셔 볼까"
+  }, {
+    "$id" : 41,
+    "label" : "nq320400_msg0040",
+    "talker" : "N",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기다려, 영감"
+  }, {
+    "$id" : 42,
+    "label" : "nq320400_msg0041",
+    "talker" : "ql1",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응?"
+  }, {
+    "$id" : 43,
+    "label" : "nq320400_msg0042",
+    "talker" : "N",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 가져올게"
+  }, {
+    "$id" : 44,
+    "label" : "nq320400_msg0043",
+    "talker" : "2",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?!"
+  }, {
+    "$id" : 45,
+    "label" : "nq320400_msg0044",
+    "talker" : "N",
+    "talkattr" : 33065,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전설이라고 하는데\n가만히 있을 우리가 아니지!\n안 그래?!"
+  }, {
+    "$id" : 46,
+    "label" : "nq320400_msg0045",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 가만히 있을 수 있는데"
+  }, {
+    "$id" : 47,
+    "label" : "nq320400_msg0046",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기다리고 있어, 영감\n술에 어울릴지는 모르겠지만\n전설을 보게 해 주지"
+  }, {
+    "$id" : 48,
+    "label" : "nq320400_msg0047",
+    "talker" : "ql1",
+    "talkattr" : 33153,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 흥미롭군!\n풋내기가 전설을 붙잡을 수 있을지\n보는 재미가 있겠어!"
+  }, {
+    "$id" : 49,
+    "label" : "nq320400_msg0048",
+    "talker" : "N",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 그런 걸 아주 좋아하거든\n조금만 기다려, 영감\n그 전설을 가져다줄게"
+  }, {
+    "$id" : 50,
+    "label" : "nq320400_msg0049",
+    "talker" : "ql1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아 그래, 얼마든지 기다려 주마\n그걸 다시 한번 먹을 수 있다면\n죽어도 계속 기다려야지"
+  }, {
+    "$id" : 51,
+    "label" : "nq320400_msg0050",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 그럼 가자! 너희들!"
+  }, {
+    "$id" : 52,
+    "label" : "nq320400_msg0051",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가는 건 좋은데……\n무작정 돌아다닌다고 찾을 수 있어?"
+  }, {
+    "$id" : 53,
+    "label" : "nq320400_msg0052",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나, 뭐 아는 거 있어?"
+  }, {
+    "$id" : 54,
+    "label" : "nq320400_msg0053",
+    "talker" : "9",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모르크나 대삼림에서 봤던\n반짝 무화과를 기억하시나요모?"
+  }, {
+    "$id" : 55,
+    "label" : "nq320400_msg0054",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 그건가……"
+  }, {
+    "$id" : 56,
+    "label" : "nq320400_msg0055",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 먹을 수 있게 됐는지\n아직 모르잖아?"
+  }, {
+    "$id" : 57,
+    "label" : "nq320400_msg0056",
+    "talker" : "2",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음…… 일단 가 보는 수밖에 없겠네"
+  }, {
+    "$id" : 58,
+    "label" : "nq320400_msg0057",
+    "talker" : "N",
+    "talkattr" : 33153,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이야기는 다 끝났나 보군!\n전설인지 뭔지를 붙잡아 보자고!"
+  }, {
+    "$id" : 59,
+    "label" : "nq320400_msg0058",
+    "talker" : "ql1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희는 뭐냐?\n술이라면 못 준다!"
+  } ]
+}

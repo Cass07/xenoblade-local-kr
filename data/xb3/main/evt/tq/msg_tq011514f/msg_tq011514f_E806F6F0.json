@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011514_msg0001",
+    "talker" : "sX1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으으……"
+  }, {
+    "$id" : 2,
+    "label" : "tq011514_msg0002",
+    "talker" : "2",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "발이 끼었어……\n조심스럽게 치워야 해"
+  }, {
+    "$id" : 3,
+    "label" : "tq011514_msg0003",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아츠를 쓰면 위험하겠구나\n그렇다면……"
+  }, {
+    "$id" : 4,
+    "label" : "tq011514_msg0004",
+    "talker" : "5",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 나설 차례야, 세나"
+  }, {
+    "$id" : 5,
+    "label" : "tq011514_msg0005",
+    "talker" : "6",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응! 힘 쓰는 일이라면\n우리한테 맡겨!"
+  }, {
+    "$id" : 6,
+    "label" : "tq011514_msg0006",
+    "talker" : "G",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이제 괜찮을 것이다"
+  }, {
+    "$id" : 7,
+    "label" : "tq011514_msg0007",
+    "talker" : "xX1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가, 감사합니다……!"
+  }, {
+    "$id" : 8,
+    "label" : "tq011514_msg0008",
+    "talker" : "2",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혹시 무슨 일이 생기면 안 되니까\n여기서 조금만 더 기다려"
+  } ]
+}

@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002602_msg0001",
+    "talker" : "XZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들! 어디 소속이냐!"
+  }, {
+    "$id" : 2,
+    "label" : "tq002602_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스 소속 병사야"
+  }, {
+    "$id" : 3,
+    "label" : "tq002602_msg0003",
+    "talker" : "YZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희, 복면 쓴 남자 못 봤나?\n우리는 그 녀석을 쫓고 있는데……"
+  }, {
+    "$id" : 4,
+    "label" : "tq002602_msg0004",
+    "talker" : "XZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐만! 아그누스 병사들과 같이 있다는 건\n이 녀석들이 소문의 우로보로스 아냐?!"
+  }, {
+    "$id" : 5,
+    "label" : "tq002602_msg0005",
+    "talker" : "YZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여왕님께 반항하는 반역자들인가!"
+  }, {
+    "$id" : 6,
+    "label" : "tq002602_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 무슨 소릴……"
+  }, {
+    "$id" : 7,
+    "label" : "tq002602_msg0007",
+    "talker" : "XZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시치미 떼면 넘어갈 줄 알았나!\n이봐, 해치우자!"
+  }, {
+    "$id" : 8,
+    "label" : "tq002602_msg0008",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……쳇, 아까부터\n대체 뭐냐고!"
+  } ]
+}

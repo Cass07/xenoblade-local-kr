@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210703_msg0001",
+    "talker" : "xZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가끔 우리 같은 취사병을\n전선에서 싸우지도 못하는 겁쟁이 취급하는\n병사가 있는데 말이지……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210703_msg0002",
+    "talker" : "xZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "참 나, 그럼 자기들은 밥 없이\n계속 싸울 수나 있냐고"
+  }, {
+    "$id" : 3,
+    "label" : "tlk210703_msg0003",
+    "talker" : "xZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니에서는 모두 똑같이 싸우고 있어\n각자의 전장에서 말이지……\n아, 이건 맥시 반장님께서 하셨던 말씀이야"
+  } ]
+}

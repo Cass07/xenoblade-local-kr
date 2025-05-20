@@ -1,0 +1,367 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011101_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기는 뭐야……?\n저거 \"요람\"이지?"
+  }, {
+    "$id" : 2,
+    "label" : "tq011101_msg0002",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 방…… 기억나는군"
+  }, {
+    "$id" : 3,
+    "label" : "tq011101_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔가 아는 거 있어? 카무나비?"
+  }, {
+    "$id" : 4,
+    "label" : "tq011101_msg0004",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는…… 여기서 눈을 떴고\n미야비 일행과 만났다"
+  }, {
+    "$id" : 5,
+    "label" : "tq011101_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 저 \"요람\"은……"
+  }, {
+    "$id" : 6,
+    "label" : "tq011101_msg0006",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그냥 \"요람\"이 아니다\n생명을 성인에 가까운 상태로\n성장시키는 기능이 있지"
+  }, {
+    "$id" : 7,
+    "label" : "tq011101_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 된 거였나……\n와이는 이걸 이용해서\n뭄바와 사람들을 재생시킨 거였어"
+  }, {
+    "$id" : 8,
+    "label" : "tq011101_msg0008",
+    "talker" : "dn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……카무나비, 그 \"요람\"은\n아직 사용할 수 있나?"
+  }, {
+    "$id" : 9,
+    "label" : "tq011101_msg0009",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "장치는 간신히 움직이는 모양인데……\n왜 그런 걸 묻지?"
+  }, {
+    "$id" : 10,
+    "label" : "tq011101_msg0010",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐, 에셀, 설마……"
+  }, {
+    "$id" : 11,
+    "label" : "tq011101_msg0011",
+    "talker" : "dn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……우리의 적은 상식을 초월한 존재로\n사람들의 생명을 양식으로 삼는 괴물들이다"
+  }, {
+    "$id" : 12,
+    "label" : "tq011101_msg0012",
+    "talker" : "dn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희는 그런 녀석들과\n싸우고 있는데 나는……"
+  }, {
+    "$id" : 13,
+    "label" : "tq011101_msg0013",
+    "talker" : "dn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금의 나로는\n내 몸을 지키는 게 고작이지"
+  }, {
+    "$id" : 14,
+    "label" : "tq011101_msg0014",
+    "talker" : "dn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "할 수 있는 일이라곤\n모두의 걸림돌이 되지 않도록\n뒤에서 지켜보는 것뿐……"
+  }, {
+    "$id" : 15,
+    "label" : "tq011101_msg0015",
+    "talker" : "dn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만……\n이 \"요람\"을 사용한다면……"
+  }, {
+    "$id" : 16,
+    "label" : "tq011101_msg0016",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에셀……"
+  }, {
+    "$id" : 17,
+    "label" : "tq011101_msg0017",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그대에게는 시티로 돌아가서\n평온하게 살아간다는 선택지도 있다"
+  }, {
+    "$id" : 18,
+    "label" : "tq011101_msg0018",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데도 굳이 싸우기 위해\n전쟁의 소용돌이로 몸을 던져\n자신의 목숨을 사용하겠다는 건가?"
+  }, {
+    "$id" : 19,
+    "label" : "tq011101_msg0019",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그대는 항상 그랬지"
+  }, {
+    "$id" : 20,
+    "label" : "tq011101_msg0020",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말을 꺼냈을 때는 이미 각오가 끝난 다음이었어"
+  }, {
+    "$id" : 21,
+    "label" : "tq011101_msg0021",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇다면\n그대의 바람대로 해"
+  }, {
+    "$id" : 22,
+    "label" : "tq011101_msg0022",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카무나비…… 괜찮겠어?\n에셀이 우리의 싸움에 휘말려도……"
+  }, {
+    "$id" : 23,
+    "label" : "tq011101_msg0023",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에셀의 길은 에셀이 정한다\n처음부터 각오하고 있었지"
+  }, {
+    "$id" : 24,
+    "label" : "tq011101_msg0024",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "애당초 평온한 삶을 바랐다면\n우리와 동행하지 않았을 터……"
+  }, {
+    "$id" : 25,
+    "label" : "tq011101_msg0025",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『길』은 처음부터\n그녀 마음속에 있었던 거겠지"
+  }, {
+    "$id" : 26,
+    "label" : "tq011101_msg0026",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건……\n물론 그렇지만……"
+  }, {
+    "$id" : 27,
+    "label" : "tq011101_msg0027",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……걱정되는 건 나도 마찬가지다"
+  }, {
+    "$id" : 28,
+    "label" : "tq011101_msg0028",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 다름 아닌 내가\n『싸움의 길』을 찾고자 살아가고 있으니……"
+  }, {
+    "$id" : 29,
+    "label" : "tq011101_msg0029",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "길을 찾는 동지로서……\n그 각오와 의사를 존중하고 싶다"
+  }, {
+    "$id" : 30,
+    "label" : "tq011101_msg0030",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다름 아닌 에셀의\n\"자유\"를 위해서라도"
+  }, {
+    "$id" : 31,
+    "label" : "tq011101_msg0031",
+    "talker" : "dn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카무나비……"
+  }, {
+    "$id" : 32,
+    "label" : "tq011101_msg0032",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 나 혼자서\n전부 결정할 수는 없지"
+  }, {
+    "$id" : 33,
+    "label" : "tq011101_msg0033",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리의 의사는 전했다\n모두의 의견을 들려주지 않겠나?"
+  }, {
+    "$id" : 34,
+    "label" : "tq011101_msg0034",
+    "talker" : "dn1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 35,
+    "label" : "tq011101_msg0035",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어떡할까?"
+  }, {
+    "$id" : 36,
+    "label" : "tq011101_msg0036",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "에셀을 성장시킬까?"
+  }, {
+    "$id" : 37,
+    "label" : "tq011101_msg0037",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "예"
+  }, {
+    "$id" : 38,
+    "label" : "tq011101_msg0137",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "아니요"
+  } ]
+}

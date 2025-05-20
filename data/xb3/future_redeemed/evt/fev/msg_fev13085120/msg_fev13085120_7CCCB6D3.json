@@ -1,0 +1,187 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<D5185A64>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이곳이 여러분의 텐트입니다"
+  }, {
+    "$id" : 2,
+    "label" : "<A46F24C0>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 9에 있는 시설 또한\n자유롭게 이용하셔도 상관없습니다"
+  }, {
+    "$id" : 3,
+    "label" : "<AB96EE05>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어, 한동안 신세 좀 질게\n여러모로 고마워"
+  }, {
+    "$id" : 4,
+    "label" : "<E023F984>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아뇨, 이게 제 일인걸요"
+  }, {
+    "$id" : 5,
+    "label" : "<19C29B0D>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면……\n휴식을 취하기에는 좀 이르니까\n잠깐 이 주변을 둘러볼까?"
+  }, {
+    "$id" : 6,
+    "label" : "<871F81FF>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아, 맞다"
+  }, {
+    "$id" : 7,
+    "label" : "<00BF1E7C>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠가 너희한테 볼일이 있다고 그랬어\n나중에 찾아가 줄 수 있을까?"
+  }, {
+    "$id" : 8,
+    "label" : "<63BE468A>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 리쿠가 누군데?"
+  }, {
+    "$id" : 9,
+    "label" : "<C87C7F89>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아, 그렇구나\n매슈는 아직 못 만나 봤던가?"
+  }, {
+    "$id" : 10,
+    "label" : "<B53F91A1>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 리버레이터에게 협력하는\n노폰족 정비사야\n꽤 실력이 뛰어나"
+  }, {
+    "$id" : 11,
+    "label" : "<2304704D>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흐음~\n그래서, 그 녀석은 어디 있는데?"
+  }, {
+    "$id" : 12,
+    "label" : "<CC8505B8>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 9 입구 근처에\n내 \"아는 사람\"의 저택이었던\n폐가가 있는데"
+  }, {
+    "$id" : 13,
+    "label" : "<DCD5A31E>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전에 내 스승이나 마찬가지인 사람에 대해\n이야기했던 저택이 있었잖아?"
+  }, {
+    "$id" : 14,
+    "label" : "<07E40531>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠는 그곳을 빌려서\n자기 공방을 만들려 한다나 봐"
+  }, {
+    "$id" : 15,
+    "label" : "<C120B119>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "공방……!"
+  }, {
+    "$id" : 16,
+    "label" : "<FC320D10>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 흥미진진한가 보다? 니콜"
+  }, {
+    "$id" : 17,
+    "label" : "<8826859E>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 가 보고 싶어, 지금 당장!"
+  }, {
+    "$id" : 18,
+    "label" : "<D061C4EA>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하, 알았어\n그럼 휴식하기 전에 들러 보자"
+  } ]
+}

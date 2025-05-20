@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230104_msg0001",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전부터 궁금했는데……\n왜 부하한테 경호를 안 맡기는 거야?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230104_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네가 꼭 여기에 있어야만 하는\n사정이라도 있어?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230104_msg0003",
+    "talker" : "@a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 있으면…… 니나 님이……\n과거를…… 떠올리고 마니까……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk230104_msg0004",
+    "talker" : "@a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "공범자들이 나눌 수 있는 건……\n미래가 아니라…… 고통이다……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk230104_msg0005",
+    "talker" : "@a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……니나 님을……\n구해 줘서 고맙다"
+  } ]
+}

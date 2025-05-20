@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk540402_msg0001",
+    "talker" : "oj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희는 나미를\n알고 있었나 보네"
+  }, {
+    "$id" : 2,
+    "label" : "tlk540402_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk540402_msg0003",
+    "talker" : "oj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 굳이 말할 것 없어\n우린 바깥세상에 나가 본 적이 없으니\n모르는 게 산더미같이 많은 건 당연해"
+  }, {
+    "$id" : 4,
+    "label" : "tlk540402_msg0004",
+    "talker" : "oj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다만 이곳에서 한 번도 나간 적이 없는\n나미를 안다는 게 조금 의아했을 뿐이야"
+  } ]
+}

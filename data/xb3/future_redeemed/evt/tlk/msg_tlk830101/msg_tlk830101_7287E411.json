@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830101_msg0001",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갑작스럽겠지만\n여기서 퀴즈야모오!!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830101_msg0002",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "던전에서 기대할 만한 요소로는\n뭐가 있을까모오?!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830101_msg0003",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기대?\n음…… 보물 같은 거?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830101_msg0004",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아까웠어모오!\n정답은 \"퍼즐 풀기\"야모오!!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk830101_msg0005",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타가네는 이런 퍼즐 장치를\n만드는 걸 정말 좋아해모오!!"
+  }, {
+    "$id" : 6,
+    "label" : "tlk830101_msg0006",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐든 좋으니 아이디어가 있으면\n꼭 타가네에게 말해 줬으면 해모오!"
+  } ]
+}

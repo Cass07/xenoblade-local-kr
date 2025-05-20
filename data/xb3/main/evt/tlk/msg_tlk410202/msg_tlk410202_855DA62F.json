@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk410202_msg0001",
+    "talker" : "ge1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아셰라가 \"피에 굶주린 짐승\"이라……\n적절한 표현이군"
+  }, {
+    "$id" : 2,
+    "label" : "tlk410202_msg0002",
+    "talker" : "ge1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실제로 그 녀석은 사람의 가죽을 뒤집어쓴\n짐승이라 할 수 있지. 몸과 마음 그리고……\n기술마저 전부 상식을 초월했어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk410202_msg0003",
+    "talker" : "ge1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "녀석을 사냥하면 여태껏 겪어 본 적 없는\n흥분과 만족감을 느낄 수 있겠지? 크크크……"
+  } ]
+}

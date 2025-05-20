@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<CF4873E5>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곧 작전 시간이야"
+  }, {
+    "$id" : 2,
+    "label" : "<313D4379>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "작전 내용을 확인할게"
+  }, {
+    "$id" : 3,
+    "label" : "<B6B20B3E>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 임무는\n알페토 계곡에 나타났다고 하는"
+  }, {
+    "$id" : 4,
+    "label" : "<C82CE31E>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "의문의 에테르원을 조사하고\n파괴하는 것까지야"
+  }, {
+    "$id" : 5,
+    "label" : "<C30B0E58>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "작전 포인트는 이미 마킹해 뒀어모\n맵을 확인해모"
+  }, {
+    "$id" : 6,
+    "label" : "<52DAC3F5>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선행 부대는 먼저\n접촉 예상 지점에 도착해 있을 거야"
+  }, {
+    "$id" : 7,
+    "label" : "<8008993A>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 슬슬 출발하자"
+  }, {
+    "$id" : 8,
+    "label" : "<E6212F75>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래!"
+  }, {
+    "$id" : 9,
+    "label" : "<70B9C748>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캐슬의 칙명으로 온 임무인지 뭔지\n잘은 모르겠지만"
+  }, {
+    "$id" : 10,
+    "label" : "<6E100D5C>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빨리 해치우고 가자고"
+  } ]
+}

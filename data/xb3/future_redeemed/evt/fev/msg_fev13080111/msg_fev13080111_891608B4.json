@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<18F61CCE>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 광장은\n콜로니 9의 중심 같은 장소야"
+  }, {
+    "$id" : 2,
+    "label" : "<4ABAF06A>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물자 보급부터 식사 제공까지\n어지간한 건 여기서 다 이루어져"
+  }, {
+    "$id" : 3,
+    "label" : "<1AB59B18>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오~ 꽤 사람이 많네\n시티가 생각나는걸"
+  }, {
+    "$id" : 4,
+    "label" : "<16DD37F6>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "관심 있으면 보고 갈래?"
+  }, {
+    "$id" : 5,
+    "label" : "<185C7BED>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래도 되나요?"
+  }, {
+    "$id" : 6,
+    "label" : "<92A2EDF3>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "딱히 서두를 필요도 없으니\n너희 좋을 대로 해"
+  }, {
+    "$id" : 7,
+    "label" : "<CD142AD6>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 광장 나가는 곳에서 기다릴 테니까\n구경 끝나면 말 걸어"
+  }, {
+    "$id" : 8,
+    "label" : "<5DEE6BDA>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 그렇게 할게\n가자, 얘들아"
+  } ]
+}

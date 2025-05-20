@@ -1,0 +1,250 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310906_msg0001",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……줄리에타\n어째서 몰래 병사로 지원한 거냐?"
+  }, {
+    "$id" : 2,
+    "label" : "nq310906_msg0002",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아버지께선 다 아시면서\n물으시는 거죠?"
+  }, {
+    "$id" : 3,
+    "label" : "nq310906_msg0003",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 반대할 걸 예상하고\n몰래 지원한 거라면……"
+  }, {
+    "$id" : 4,
+    "label" : "nq310906_msg0004",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네 멋대로 내린 결정을\n내가 용납하지 않을 거라는 것도\n잘 알고 있겠지?"
+  }, {
+    "$id" : 5,
+    "label" : "nq310906_msg0101",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "첫 출전은 제법 잘 싸웠다고 하더구나"
+  }, {
+    "$id" : 6,
+    "label" : "nq310906_msg0102",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네……?"
+  }, {
+    "$id" : 7,
+    "label" : "nq310906_msg0201",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘부로 로스트 넘버즈를 그만두거라"
+  }, {
+    "$id" : 8,
+    "label" : "nq310906_msg0202",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "싫어요"
+  }, {
+    "$id" : 9,
+    "label" : "nq310906_msg0203",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "싫다고……?"
+  }, {
+    "$id" : 10,
+    "label" : "nq310906_msg0301",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무리 딸이라고 해도\n매듭은 확실히 지어야겠지"
+  }, {
+    "$id" : 11,
+    "label" : "nq310906_msg0302",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너를 도일 가문에서 파문하겠다"
+  }, {
+    "$id" : 12,
+    "label" : "nq310906_msg0303",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐라고요……?!"
+  }, {
+    "$id" : 13,
+    "label" : "nq310906_msg0304",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "따님 이야기는\n듣지도 않으시는 건가요?!"
+  }, {
+    "$id" : 14,
+    "label" : "nq310906_msg0305",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "줄리에타, 너도 마찬가지야!"
+  }, {
+    "$id" : 15,
+    "label" : "nq310906_msg0306",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮아요!\n이제 저도……!"
+  }, {
+    "$id" : 16,
+    "label" : "nq310906_msg0308",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집안에 얽매이는 일 없이\n로메로와 함께\n시티를 지킬 수 있겠네요"
+  }, {
+    "$id" : 17,
+    "label" : "nq310906_msg0309",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "줄리에타……"
+  }, {
+    "$id" : 18,
+    "label" : "nq310906_msg0310",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보수를 줘야겠군\n여러모로 도와줘서 고마워"
+  }, {
+    "$id" : 19,
+    "label" : "nq310906_msg0311",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "개릿한테 알려 준 거, 너지?"
+  }, {
+    "$id" : 20,
+    "label" : "nq310906_msg0312",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론이지\n보고 없이 넘어갈 일이 아니라고"
+  }, {
+    "$id" : 21,
+    "label" : "nq310906_msg0313",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무려 여섯 씨족 일가의 따님인데\n함부로 전장에 데려갈 순 없잖아!"
+  }, {
+    "$id" : 22,
+    "label" : "nq310906_msg0314",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼……!"
+  }, {
+    "$id" : 23,
+    "label" : "nq310906_msg0315",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실전에 데려가겠다는 허가는\n제대로 받아 뒀다 이 말이지"
+  }, {
+    "$id" : 24,
+    "label" : "nq310906_msg0401",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "개릿도\n솔직하게 인정하면 될 텐데"
+  }, {
+    "$id" : 25,
+    "label" : "nq310906_msg0501",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여섯 씨족도 편한 게 아니라니까 역시"
+  } ]
+}

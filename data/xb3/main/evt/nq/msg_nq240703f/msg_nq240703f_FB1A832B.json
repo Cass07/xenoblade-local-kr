@@ -1,0 +1,241 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq240703_msg0001",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오! 여러분!\n지난번에는 정말 신세 많이……"
+  }, {
+    "$id" : 2,
+    "label" : "nq240703_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안, 트리히 씨\n지금은 그것보다\n먼저 전해야 할 게 있어"
+  }, {
+    "$id" : 3,
+    "label" : "nq240703_msg0003",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 네……?\n그게 대체 무슨……?"
+  }, {
+    "$id" : 4,
+    "label" : "nq240703_msg0004",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 뜻밖이군요……\n감찰관 중 누군가가\n아그누스 침공을 꾀하고 있다니……"
+  }, {
+    "$id" : 5,
+    "label" : "nq240703_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그쪽이\n그 『누군가』가 아녔으면 하는데"
+  }, {
+    "$id" : 6,
+    "label" : "nq240703_msg0006",
+    "talker" : "ye1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당치도 않습니다!\n그런 짓을 했다간 지금까지 한 고생이\n전부 물거품이 될 거라고요!"
+  }, {
+    "$id" : 7,
+    "label" : "nq240703_msg0007",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신이 아그누스와의 화합을 바라는 걸 알아\n그러니 힘을 빌려줬으면 해"
+  }, {
+    "$id" : 8,
+    "label" : "nq240703_msg0008",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그렇군요……"
+  }, {
+    "$id" : 9,
+    "label" : "nq240703_msg0009",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 말은 즉, 같은 감찰관으로서\n주모자로 짐작 가는 자가 있느냐……\n그걸 물어보시는 거죠?"
+  }, {
+    "$id" : 10,
+    "label" : "nq240703_msg0010",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "눈치가 빨라서 좋네\n그래서, 어때?"
+  }, {
+    "$id" : 11,
+    "label" : "nq240703_msg0011",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 제가 아는 한\n감찰관 중에 그럴 만한 인물은……"
+  }, {
+    "$id" : 12,
+    "label" : "nq240703_msg0012",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번에도 틀렸나……"
+  }, {
+    "$id" : 13,
+    "label" : "nq240703_msg0013",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죄, 죄송합니다……\n대신 한 가지 제안이 있습니다"
+  }, {
+    "$id" : 14,
+    "label" : "nq240703_msg0014",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사실 오늘 새로운 감찰관이\n부임할 예정이거든요"
+  }, {
+    "$id" : 15,
+    "label" : "nq240703_msg0015",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "새로운 감찰관?"
+  }, {
+    "$id" : 16,
+    "label" : "nq240703_msg0016",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 제가 주장한 아그누스와의\n융화 정책에 동의한 사람입니다\n무척 우수한 감찰관이지요"
+  }, {
+    "$id" : 17,
+    "label" : "nq240703_msg0017",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그녀와 대화해 보시는 건 어떨까요?"
+  }, {
+    "$id" : 18,
+    "label" : "nq240703_msg0018",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 트리히 씨가 그렇게까지\n말한다면 대화해 볼게"
+  }, {
+    "$id" : 19,
+    "label" : "nq240703_msg0019",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곧 있으면 도착하실 겁니다\n수문을 열 준비를 해 뒀으니……"
+  }, {
+    "$id" : 20,
+    "label" : "nq240703_msg0020",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음? 뭐지?!"
+  }, {
+    "$id" : 21,
+    "label" : "nq240703_msg0021",
+    "talker" : "pk1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하, 항구 쪽에서 폭발이 일어났다!"
+  }, {
+    "$id" : 22,
+    "label" : "nq240703_msg0022",
+    "talker" : "qk1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적습인가?!\n대체 무슨 일이야!!"
+  }, {
+    "$id" : 23,
+    "label" : "nq240703_msg0023",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하, 항구라고요……?!\n이런 맙소사……!"
+  }, {
+    "$id" : 24,
+    "label" : "nq240703_msg0024",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어이, 이봐! 기다려!"
+  } ]
+}

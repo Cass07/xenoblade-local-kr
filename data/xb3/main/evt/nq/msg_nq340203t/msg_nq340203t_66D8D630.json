@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq340203_msg0001",
+    "talker" : "uj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시키? 그 녀석은 람다의 군무장과\n아는 사이라던데……"
+  }, {
+    "$id" : 2,
+    "label" : "nq340203_msg0002",
+    "talker" : "uj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 시키는 내무국에 있었으니까\n군무장급 간부들을 많이 알고 지냈겠지"
+  }, {
+    "$id" : 3,
+    "label" : "nq340203_msg0101",
+    "talker" : "uj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시키는 람다의 군무장과 아는 사이래\n발이 넓은 편인가 봐"
+  }, {
+    "$id" : 4,
+    "label" : "nq340203_msg0201",
+    "talker" : "uj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "식량? 아, 그거……\n시키가 돕는다고 했었지"
+  } ]
+}

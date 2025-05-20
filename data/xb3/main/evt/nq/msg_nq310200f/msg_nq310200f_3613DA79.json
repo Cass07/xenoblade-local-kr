@@ -1,0 +1,430 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310200_msg0001",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부탁이야모\n제발 같이 해 줘모"
+  }, {
+    "$id" : 2,
+    "label" : "nq310200_msg0002",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시노, 같이 하자~!"
+  }, {
+    "$id" : 3,
+    "label" : "nq310200_msg0003",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으~음……\n지금이라도 누굴 꼬셔 볼까……?"
+  }, {
+    "$id" : 4,
+    "label" : "nq310200_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 일 있어?"
+  }, {
+    "$id" : 5,
+    "label" : "nq310200_msg0005",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗! 누나들이랑 형들?!"
+  }, {
+    "$id" : 6,
+    "label" : "nq310200_msg0006",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "와! 우로보로스다!"
+  }, {
+    "$id" : 7,
+    "label" : "nq310200_msg0007",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혹시 수수께끼 풀이라고 알아?\n우리랑 같이 하자~"
+  }, {
+    "$id" : 8,
+    "label" : "nq310200_msg0008",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수수께끼 풀이……?"
+  }, {
+    "$id" : 9,
+    "label" : "nq310200_msg0009",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수수께끼를 푸는 놀이래!\n하지만 생각보다 어려워서……"
+  }, {
+    "$id" : 10,
+    "label" : "nq310200_msg0010",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마침 같이 풀 친구를 찾고 있었어"
+  }, {
+    "$id" : 11,
+    "label" : "nq310200_msg0011",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 수수께끼는 특별해모……\n애들만 하는 거야모"
+  }, {
+    "$id" : 12,
+    "label" : "nq310200_msg0012",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜? 누가 풀든 똑같은 거 아니야?"
+  }, {
+    "$id" : 13,
+    "label" : "nq310200_msg0013",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 다 같이 하자~"
+  }, {
+    "$id" : 14,
+    "label" : "nq310200_msg0014",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 이걸 만든 기기쿠는 어른이잖아?\n그러니 상관없을 거야~"
+  }, {
+    "$id" : 15,
+    "label" : "nq310200_msg0015",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "크윽……!\n정곡을 찌르네모……"
+  }, {
+    "$id" : 16,
+    "label" : "nq310200_msg0016",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐…… 진짜 곤란하면\n도와줄 순 있는데……"
+  }, {
+    "$id" : 17,
+    "label" : "nq310200_msg0017",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곤란해!\n못 풀면 분하기도 하고……"
+  }, {
+    "$id" : 18,
+    "label" : "nq310200_msg0018",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수가 좀 많단 말이야~~\n부탁할게~~!"
+  }, {
+    "$id" : 19,
+    "label" : "nq310200_msg0019",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩔 수 없네……"
+  }, {
+    "$id" : 20,
+    "label" : "nq310200_msg0020",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 조금만 도와줄게"
+  }, {
+    "$id" : 21,
+    "label" : "nq310200_msg0021",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야호!"
+  }, {
+    "$id" : 22,
+    "label" : "nq310200_msg0022",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워~!"
+  }, {
+    "$id" : 23,
+    "label" : "nq310200_msg0023",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알았어모\n규칙을 설명해 줄게모"
+  }, {
+    "$id" : 24,
+    "label" : "nq310200_msg0024",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 수수께끼는 시티 어딘가에 있는\n상자 3개의 위치를 표시하고 있어모……"
+  }, {
+    "$id" : 25,
+    "label" : "nq310200_msg0025",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흩어져서 1개씩 수수께끼를 풀고\n찾은 상자를 여기로 가져오면 돼모"
+  }, {
+    "$id" : 26,
+    "label" : "nq310200_msg0026",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상자는 구체적으로 어떤 걸 말하는 거야?"
+  }, {
+    "$id" : 27,
+    "label" : "nq310200_msg0027",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "겉보기와 모양이 다 제각각이야모\n그 이상은 기밀 사항이야모"
+  }, {
+    "$id" : 28,
+    "label" : "nq310200_msg0028",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 정답인 상자에는\nX자 표시가 새겨져 있대!"
+  }, {
+    "$id" : 29,
+    "label" : "nq310200_msg0029",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 보고 구분하면 되는 거구나?"
+  }, {
+    "$id" : 30,
+    "label" : "nq310200_msg0030",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스 팀이 풀어야 하는\n수수께끼는……"
+  }, {
+    "$id" : 31,
+    "label" : "nq310200_msg0031",
+    "talker" : "zk1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"열다섯 빛의 기슭\"이야모!"
+  }, {
+    "$id" : 32,
+    "label" : "nq310200_msg0032",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 그게 뭔데?"
+  }, {
+    "$id" : 33,
+    "label" : "nq310200_msg0033",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 수수께끼지?!\n무슨 뜻인지 전혀 모르겠어……"
+  }, {
+    "$id" : 34,
+    "label" : "nq310200_msg0034",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "단서는 있네\n『기슭』이라는 건……"
+  }, {
+    "$id" : 35,
+    "label" : "nq310200_msg0035",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어딘가의 아래쪽에\n그 상자가 있다는 말 아니야?"
+  }, {
+    "$id" : 36,
+    "label" : "nq310200_msg0036",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 열다섯 빛이라는 표현……"
+  }, {
+    "$id" : 37,
+    "label" : "nq310200_msg0037",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수많은 광원이 있는 어딘가의 아래를\n조사해 보라는 뜻이겠지"
+  }, {
+    "$id" : 38,
+    "label" : "nq310200_msg0038",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대체 어딜 말하는 걸까……?"
+  }, {
+    "$id" : 39,
+    "label" : "nq310200_msg0039",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모못, 그만 의논하고\n두 사람은 본인들 수수께끼나 생각해모"
+  }, {
+    "$id" : 40,
+    "label" : "nq310200_msg0040",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 시간을 보내다간\n수수께끼를 풀지 못할 거야모"
+  }, {
+    "$id" : 41,
+    "label" : "nq310200_msg0041",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어……"
+  }, {
+    "$id" : 42,
+    "label" : "nq310200_msg0042",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋~~아!\n무슨 일이 있어도 찾아내겠어~!"
+  }, {
+    "$id" : 43,
+    "label" : "nq310200_msg0043",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도~!!"
+  }, {
+    "$id" : 44,
+    "label" : "nq310200_msg0044",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 후딱 찾아내자고!"
+  }, {
+    "$id" : 45,
+    "label" : "nq310200_msg0045",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 짐작 가는 광원 아래쪽을 찾아보자"
+  } ]
+}

@@ -1,0 +1,277 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012400_msg0001",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 세주도\n여기 생활에 익숙해졌어?"
+  }, {
+    "$id" : 2,
+    "label" : "tq012400_msg0002",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "긍정합니다\n순조롭게 환경에 적응하고 있습니다"
+  }, {
+    "$id" : 3,
+    "label" : "tq012400_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기서 산다고 했을 때는\n말도 안 된다고 생각했는데\n의외로 어떻게든 되네"
+  }, {
+    "$id" : 4,
+    "label" : "tq012400_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔가 부족한 게 있거나\n갖고 싶은 게 있으면 사양 말고 말해"
+  }, {
+    "$id" : 5,
+    "label" : "tq012400_msg0005",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그럼"
+  }, {
+    "$id" : 6,
+    "label" : "tq012400_msg0006",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한 가지…… 요청해도 되겠습니까?"
+  }, {
+    "$id" : 7,
+    "label" : "tq012400_msg0007",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론이지! 뭔데?"
+  }, {
+    "$id" : 8,
+    "label" : "tq012400_msg0008",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세나가……"
+  }, {
+    "$id" : 9,
+    "label" : "tq012400_msg0009",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 내가?"
+  }, {
+    "$id" : 10,
+    "label" : "tq012400_msg0010",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세나가 만든 주먹밥을, 그……\n콜로니 사람들과 함께……"
+  }, {
+    "$id" : 11,
+    "label" : "tq012400_msg0011",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞다……! 그러고 보니\n전에 그런 얘기를 했었지?"
+  }, {
+    "$id" : 12,
+    "label" : "tq012400_msg0012",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……여기에 오기까지 모두에게\n번번이 수고를 끼쳤으니……"
+  }, {
+    "$id" : 13,
+    "label" : "tq012400_msg0013",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하다못해 조금이라도……\n어떤 형태로든 보답해 주고 싶어서……"
+  }, {
+    "$id" : 14,
+    "label" : "tq012400_msg0014",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 그렇구나\n정말 좋은 아이디어야"
+  }, {
+    "$id" : 15,
+    "label" : "tq012400_msg0015",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 정말 주먹밥으로 괜찮겠어?\n맛있는 음식이라면 그거 말고도……"
+  }, {
+    "$id" : 16,
+    "label" : "tq012400_msg0016",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……세나의 주먹밥이 좋습니다"
+  }, {
+    "$id" : 17,
+    "label" : "tq012400_msg0017",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘됐네, 세나\n정말 마음에 들었나 봐"
+  }, {
+    "$id" : 18,
+    "label" : "tq012400_msg0018",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아하하…… 그렇게까지 말해 줬으니\n나도 최선을 다해야겠네"
+  }, {
+    "$id" : 19,
+    "label" : "tq012400_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 순백미가 꽤 많이\n필요하지 않을까?"
+  }, {
+    "$id" : 20,
+    "label" : "tq012400_msg0020",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 이번엔 모두가 먹을 양이 필요하니까\n또 콜로니 람다에서 나눠 받아야겠어"
+  }, {
+    "$id" : 21,
+    "label" : "tq012400_msg0021",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세주도 돕겠습니다\n철기병의 머니퓰레이터라면\n주먹밥을 만드는 것도 가능합니다"
+  }, {
+    "$id" : 22,
+    "label" : "tq012400_msg0022",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워, 세주!\n기대하고 있을게. 아하하하……"
+  }, {
+    "$id" : 23,
+    "label" : "tq012400_msg0023",
+    "talker" : "lY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "7호, 출격하려고?"
+  }, {
+    "$id" : 24,
+    "label" : "tq012400_msg0024",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "긍정합니다\n……무슨 일 있습니까, 6호?"
+  }, {
+    "$id" : 25,
+    "label" : "tq012400_msg0025",
+    "talker" : "lY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안하지만 둘이서 얘기할 수 있을까?\n급히 보고할 일이 있어"
+  }, {
+    "$id" : 26,
+    "label" : "tq012400_msg0026",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세나, 괜찮습니까?"
+  }, {
+    "$id" : 27,
+    "label" : "tq012400_msg0027",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 우린 신경 쓰지 마\n근처에서 기다리고 있을게"
+  }, {
+    "$id" : 28,
+    "label" : "tq012400_msg0028",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다\n보고가 끝나는 대로 합류하겠습니다"
+  } ]
+}

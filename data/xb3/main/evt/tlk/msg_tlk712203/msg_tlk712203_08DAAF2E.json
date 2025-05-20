@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk712203_msg0001",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티 자체가 표적이 될 줄은\n예상도 못 했어모……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk712203_msg0002",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앞으로도 분명 예상 밖의 일이 일어날 거야모\n그래서 새먼은 최대한 준비하기로 했어모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk712203_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭘 준비하려고?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk712203_msg0004",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건…… 비밀이야모!"
+  } ]
+}

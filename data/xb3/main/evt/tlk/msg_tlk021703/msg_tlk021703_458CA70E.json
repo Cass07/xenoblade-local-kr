@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk021703_msg0001",
+    "talker" : "aW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다시 한번 보물찾기 하지 않겠어?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk021703_msg0002",
+    "talker" : "aW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번엔 우로보로스 일행 대\n트라이던 패밀리의 승부다!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk021703_msg0003",
+    "talker" : "aW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떠냐?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk021703_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "질 수 없지!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk021703_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하고 싶은 건 세나 너 혼자인데……"
+  } ]
+}

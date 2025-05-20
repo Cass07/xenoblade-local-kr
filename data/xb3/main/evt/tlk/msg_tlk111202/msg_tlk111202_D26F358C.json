@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk111202_msg0001",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카이트랑 애들이 알려 줬는데\n다른 콜로니의 케베스 병사들은\n우릴 적으로 보고 있대"
+  }, {
+    "$id" : 2,
+    "label" : "tlk111202_msg0002",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우린 이제 도망칠 곳이 없지만……\n그래도 캐슬을 배반한 콜로니가\n우리뿐만은 아니지?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk111202_msg0003",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힘을 합치면 어떻게든 될 거야\n저항도 없이 그저 죽어 줄 생각은 없다고……!"
+  } ]
+}

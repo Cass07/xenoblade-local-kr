@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210903_msg0001",
+    "talker" : "zZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "황야에 피어오르는 흙먼지 때문에\n병사들의 호흡 기관에 이상 증상이 보여요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210903_msg0002",
+    "talker" : "zZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 여기 시설만 가지고는\n다 대응할 수도 없고 방진 마스크도 없는데……\n으음…… 어떻게 해야 하지……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk210903_msg0003",
+    "talker" : "zZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음…… 글렀어, 좋은 생각이 전혀 안 떠올라\n나중에 올레샤 반장님께 지시를 받아야겠어"
+  } ]
+}

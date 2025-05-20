@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011001_msg0001",
+    "talker" : "dl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희도 요리 콘테스트에 참가하게?\n그거 기대되는걸"
+  }, {
+    "$id" : 2,
+    "label" : "tq011001_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼! 기대해도 좋을 거야"
+  }, {
+    "$id" : 3,
+    "label" : "tq011001_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것 관련해서 묻고 싶은 게 있는데\n콘테스트에서는 대체로\n어떤 요리가 인기 있었어?"
+  }, {
+    "$id" : 4,
+    "label" : "tq011001_msg0004",
+    "talker" : "dl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄……\n콕 집어서 말하자면\n자극적인 요리 아닐까?"
+  }, {
+    "$id" : 5,
+    "label" : "tq011001_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자극적인 요리?"
+  }, {
+    "$id" : 6,
+    "label" : "tq011001_msg0006",
+    "talker" : "dl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몸을 쓰는 사람이 많으니\n맛이 진하고 양이 많은 요리를\n먹고 싶어 하는 걸지도 모르겠네"
+  }, {
+    "$id" : 7,
+    "label" : "tq011001_msg0007",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "듣고 보니 인기 있을 만도 하겠네요"
+  }, {
+    "$id" : 8,
+    "label" : "tq011001_msg0008",
+    "talker" : "dl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후, 어디까지나 하나의 의견 정도로\n받아들여 줘, 응원할게!"
+  } ]
+}

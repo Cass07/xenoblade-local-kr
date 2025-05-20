@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk111201_msg0001",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노아와 뭄바에다\n선대 군무장님까지 떠나신 뒤로\n콜로니 9은 쇠락하고 말았어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk111201_msg0002",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제온을 지지해 주고 싶긴 했지만\n다들 사기가 계속 떨어지기만 했거든"
+  }, {
+    "$id" : 3,
+    "label" : "tlk111201_msg0003",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노아도 그렇고 다들 이렇게 돌아와 줬으니까\n분명 다시 예전 같은 콜로니가 될 거야"
+  } ]
+}

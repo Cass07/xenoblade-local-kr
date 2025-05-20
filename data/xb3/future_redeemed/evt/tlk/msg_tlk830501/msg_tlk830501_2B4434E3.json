@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830501_msg0001",
+    "talker" : "jq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 차림…… 혹시 당신도\n생명의 불시계로부터 해방된 사람인가요?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830501_msg0002",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 말하는 걸 보니\n그쪽도 혹시……?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830501_msg0003",
+    "talker" : "jq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 다른 지방에서 해방된 이후로\n계속 시티에 있었어요"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830501_msg0004",
+    "talker" : "jq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 리버레이터에게 협력하며\n이런저런 일들을 돕고 있죠"
+  }, {
+    "$id" : 5,
+    "label" : "tlk830501_msg0005",
+    "talker" : "jq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇지만\n이곳에서는 신참이라서\n많은 도움이 되진 않는 것 같네요……"
+  } ]
+}

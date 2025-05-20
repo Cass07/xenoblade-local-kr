@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk835802_msg0001",
+    "talker" : "Zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기, 매슈\n너희 할아버지 일…… 들었어\n그리고 나엘 일도……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk835802_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk835802_msg0003",
+    "talker" : "Zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……만약 매슈까지\n사라지면 나……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk835802_msg0004",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……난 괜찮아\n그런 일은 절대로 없을 거야"
+  }, {
+    "$id" : 5,
+    "label" : "tlk835802_msg0005",
+    "talker" : "Zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……약속한 거다\n멋대로 사라지면\n엉덩이에 주사기 꽂아 버릴 거야?"
+  }, {
+    "$id" : 6,
+    "label" : "tlk835802_msg0006",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 진짜로 하려는 건 아니지?\n네가 말하니까 농담 같지 않다고"
+  } ]
+}

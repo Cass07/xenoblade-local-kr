@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002413_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어때 리쿠?\n고칠 수 있을 거 같아?"
+  }, {
+    "$id" : 2,
+    "label" : "tq002413_msg0002",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……보니까 외장을 수리하면\n될 거 같아모. 바로 손볼게모"
+  }, {
+    "$id" : 3,
+    "label" : "tq002413_msg0003",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모훗~ 드디어 끝났다모"
+  }, {
+    "$id" : 4,
+    "label" : "tq002413_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어때? 움직일 거 같아?"
+  }, {
+    "$id" : 5,
+    "label" : "tq002413_msg0005",
+    "talker" : "P",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동력 라인 이상 없음, 각종 센서 양호\n……철기병 7호기 정상 가동 중"
+  }, {
+    "$id" : 6,
+    "label" : "tq002413_msg0006",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮은가 보네\n그럼 안내를 부탁해도 될까?"
+  }, {
+    "$id" : 7,
+    "label" : "tq002413_msg0007",
+    "talker" : "P",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다\n루트를 확보하겠습니다"
+  }, {
+    "$id" : 8,
+    "label" : "tq002413_msg0100",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : "세주가 일시적으로\n파티에 가입했습니다"
+  } ]
+}

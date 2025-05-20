@@ -1,0 +1,403 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq230703_msg0001",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "굳이 여기까지 온 걸 보면\n역시 캐슬이랑 관련된 일인가?"
+  }, {
+    "$id" : 2,
+    "label" : "nq230703_msg0002",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 그것도 있지만……\n공적인 장소에서\n치부를 드러낼 순 없으니 말이지"
+  }, {
+    "$id" : 3,
+    "label" : "nq230703_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 치부……?"
+  }, {
+    "$id" : 4,
+    "label" : "nq230703_msg0004",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "며칠 전에 위사대 일부가 무장봉기를 일으키고\n캐슬에 틀어박히는 폭거를 일으켰어"
+  }, {
+    "$id" : 5,
+    "label" : "nq230703_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐……?! 무장봉기라고?"
+  }, {
+    "$id" : 6,
+    "label" : "nq230703_msg0006",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 그들은 캐슬의 일부 구역을 점거했지만\n그 후 고착 상태가 지속되면서 이 지경이 됐지"
+  }, {
+    "$id" : 7,
+    "label" : "nq230703_msg0007",
+    "talker" : "me1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "점거라니 그거 또 일이 재밌게 됐는데?"
+  }, {
+    "$id" : 8,
+    "label" : "nq230703_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 위사대에서 반항 세력이 나타났다고?\n어쩌다가 그런 일이……"
+  }, {
+    "$id" : 9,
+    "label" : "nq230703_msg0009",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……충성심이 강한 위사대였기에 더욱\n그 여왕이 가짜였다는 현실을\n받아들이기 어려워하는 병사도 많아"
+  }, {
+    "$id" : 10,
+    "label" : "nq230703_msg0010",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 병사들의 최선봉에 선\n4명의 소대장이\n지금 캐슬을 점거 중이지"
+  }, {
+    "$id" : 11,
+    "label" : "nq230703_msg0011",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그들은 \"여왕의 네 날개\"라는 집단을 자칭하며\n위사장인 나한테 2가지 요구 사항을 보냈어"
+  }, {
+    "$id" : 12,
+    "label" : "nq230703_msg0012",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"여왕의 네 날개\"……\n굉장히 불손한 이름이군"
+  }, {
+    "$id" : 13,
+    "label" : "nq230703_msg0013",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 뭘 요구했는데?"
+  }, {
+    "$id" : 14,
+    "label" : "nq230703_msg0014",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "위사대의 지휘권 양도와\n……우로보로스의 신병 인도야"
+  }, {
+    "$id" : 15,
+    "label" : "nq230703_msg0015",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리?"
+  }, {
+    "$id" : 16,
+    "label" : "nq230703_msg0016",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"세계 동란의 원흉은\n반역자인 우로보로스에게 있으며\n그 숙청은 여왕 폐하의 의지이다\""
+  }, {
+    "$id" : 17,
+    "label" : "nq230703_msg0017",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그들이 발표한 성명의 일부야\n물론 나는 그 어떤 요구도 들어줄 생각은 없어"
+  }, {
+    "$id" : 18,
+    "label" : "nq230703_msg0018",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠, 그렇군…… 이해했다"
+  }, {
+    "$id" : 19,
+    "label" : "nq230703_msg0019",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요구를 받아들이지 않기로 했으면\n역적 녀석들을 제압하는 선택지뿐이겠군"
+  }, {
+    "$id" : 20,
+    "label" : "nq230703_msg0020",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 위사대가 위사대와 싸우게 된다면\n더 큰 내부 분열이 유발될 터"
+  }, {
+    "$id" : 21,
+    "label" : "nq230703_msg0021",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 \"전\" 위사대인\n우리가 나서게 됐다…… 내 말이 맞나?"
+  }, {
+    "$id" : 22,
+    "label" : "nq230703_msg0022",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래, 네가 생각한 대로야"
+  }, {
+    "$id" : 23,
+    "label" : "nq230703_msg0023",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "위사대의 내막을 아는 외부 세력……\n이번 일의 적임자를 너희로 판단했어"
+  }, {
+    "$id" : 24,
+    "label" : "nq230703_msg0024",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "큭큭큭, 옛 동료와 싸우게 만들다니\n너도 제법 치졸한 짓을 꾸밀 줄 알게 됐군"
+  }, {
+    "$id" : 25,
+    "label" : "nq230703_msg0025",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 좋다!\n그 임무, 이 초렌이 맡아 주지!"
+  }, {
+    "$id" : 26,
+    "label" : "nq230703_msg0026",
+    "talker" : "me1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "더러운 일이라면 대환영이지!\n무슨 일이 생겨도\n\"사고\" 처리하면 그만이니까!"
+  }, {
+    "$id" : 27,
+    "label" : "nq230703_msg0027",
+    "talker" : "le1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "주제 모르고 설치는 피라미들의 콧대를\n아예 꺾어 줍시다, 초렌 씨!"
+  }, {
+    "$id" : 28,
+    "label" : "nq230703_msg0028",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐 기다려 줘!\n그 임무 말인데\n우리도 참가하면 안 될까?"
+  }, {
+    "$id" : 29,
+    "label" : "nq230703_msg0029",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……흠?"
+  }, {
+    "$id" : 30,
+    "label" : "nq230703_msg0030",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 나서 주는 건 고맙지만……\n그들의 요구 때문에 그러는 거라면\n딱히 너희 잘못이……"
+  }, {
+    "$id" : 31,
+    "label" : "nq230703_msg0031",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 그것도 있긴 한데\n뭐랄까…… 그……"
+  }, {
+    "$id" : 32,
+    "label" : "nq230703_msg0032",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그냥 까놓고 말해, 노아\n이 녀석들한테 맡기자니 불안하다고"
+  }, {
+    "$id" : 33,
+    "label" : "nq230703_msg0033",
+    "talker" : "le1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하! 걱정하지 마\n수단을 안 가리면 웬만한 일은\n어떻게든 해결되는 법이라고"
+  }, {
+    "$id" : 34,
+    "label" : "nq230703_msg0034",
+    "talker" : "ke1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제압이나 몰살이나 그게 그거잖아요~\n이번 임무도 어렵지 않겠네요~ 우후후~"
+  }, {
+    "$id" : 35,
+    "label" : "nq230703_msg0035",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……미안\n역시 너희도 동행하는 편이 좋겠어"
+  }, {
+    "$id" : 36,
+    "label" : "nq230703_msg0036",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래……\n선 안 넘도록 잘 감시할게"
+  }, {
+    "$id" : 37,
+    "label" : "nq230703_msg0037",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……다시 한번 확인하겠는데\n우리 임무는 적 부대를 진압하고\n주범을 \"멀쩡한 상태\"로 확보한다…… 맞지?"
+  }, {
+    "$id" : 38,
+    "label" : "nq230703_msg0038",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 전부 맞아\n말려들게 해 놓고 이런 말 하긴 뭣하지만\n고맙다…… 진심으로……"
+  }, {
+    "$id" : 39,
+    "label" : "nq230703_msg0039",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흥, 감시를 붙이건 말건 상관없다\n이야기가 끝났으면 당장 출격하지"
+  }, {
+    "$id" : 40,
+    "label" : "nq230703_msg0040",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 네 사람은 무슨 수로 찾아?\n캐슬 어디에 있는지도 모르는데"
+  }, {
+    "$id" : 41,
+    "label" : "nq230703_msg0041",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전장에서 마주치는 자는 모두 적이다"
+  }, {
+    "$id" : 42,
+    "label" : "nq230703_msg0042",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "닥치는 대로 박살 내다 보면\n언젠가는 표적에 닿겠지"
+  } ]
+}

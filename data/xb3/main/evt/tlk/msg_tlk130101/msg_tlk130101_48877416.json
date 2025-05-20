@@ -1,0 +1,43 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk130101_msg0001",
+    "talker" : "lY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뫼비우스를 따를 필요가 없어졌어도\n콜로니 0가 그동안 해 왔던 일이\n없던 일이 되지는 않아"
+  }, {
+    "$id" : 2,
+    "label" : "tlk130101_msg0002",
+    "talker" : "lY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 안전한 장소로 몸을 피해야 해\n7호도 그 점을 인지하고 있을 텐데……"
+  } ]
+}

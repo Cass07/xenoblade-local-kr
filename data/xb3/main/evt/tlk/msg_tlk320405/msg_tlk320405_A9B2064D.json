@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk320405_msg0001",
+    "talker" : "Yd1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희 하층에 갔었어?!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk320405_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어…… 응……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk320405_msg0003",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나 원 참…… 가지 말라니까 그러네"
+  }, {
+    "$id" : 4,
+    "label" : "tlk320405_msg0004",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마기랑 너희가 갔던 하층에는\n흉악한 몬스터가 사는 동굴이 있다고"
+  }, {
+    "$id" : 5,
+    "label" : "tlk320405_msg0005",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그쪽으로는 절대로 가까이 가면 안 돼"
+  } ]
+}

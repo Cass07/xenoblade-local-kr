@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk611505_msg0001",
+    "talker" : "Xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오리진에 간댔지?\n내 몫까지 잘 싸워 줘……\n이렇게 말하면 너무 염치없나?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk611505_msg0002",
+    "talker" : "Xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아머리 조종사로\n복귀하지 않겠냐는\n말을 들었는데……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk611505_msg0003",
+    "talker" : "Xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "공백기가 너무 길었고\n전장에 돌아가기도 무섭더라……\n너희는 지면 안 돼!"
+  } ]
+}

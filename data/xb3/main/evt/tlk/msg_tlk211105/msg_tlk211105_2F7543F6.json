@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk211105_msg0001",
+    "talker" : "_Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "솔론 반장님께선 화도 잘 안 내시고\n일도 빠르고 정확하신 데다\n부하한테도 다정하시고 배려심도 깊으셔……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk211105_msg0002",
+    "talker" : "_Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쳇! 무슨 초인이냐고!\n……무심코 소리 지르고 싶을 만큼\n아무튼 대단한 사람이야~"
+  }, {
+    "$id" : 3,
+    "label" : "tlk211105_msg0003",
+    "talker" : "_Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸 뭐라고 하지 음……\n존경을 뛰어넘어서 이제는 무섭기까지 해!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk211105_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괴, 굉장히 복잡한 감정이구나……"
+  } ]
+}

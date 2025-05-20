@@ -1,0 +1,2698 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<5309A988>",
+    "style" : 79,
+    "name" : "최대 HP가 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 2,
+    "label" : "<C6437B5F>",
+    "style" : 79,
+    "name" : "최대 HP가 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 3,
+    "label" : "<39FA6C74>",
+    "style" : 79,
+    "name" : "공격력이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 4,
+    "label" : "<1BE16B7B>",
+    "style" : 79,
+    "name" : "회복력이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 5,
+    "label" : "<FC26CF0F>",
+    "style" : 79,
+    "name" : "손재주가 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 6,
+    "label" : "<6A807402>",
+    "style" : 79,
+    "name" : "속도가 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 7,
+    "label" : "<DA280E87>",
+    "style" : 79,
+    "name" : "크리티컬 확률이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 8,
+    "label" : "<531429EA>",
+    "style" : 79,
+    "name" : "물리 방어가 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 9,
+    "label" : "<60672594>",
+    "style" : 79,
+    "name" : "에테르 방어가 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 10,
+    "label" : "<7E13CB85>",
+    "style" : 79,
+    "name" : "가드 확률이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 11,
+    "label" : "<67B92EBC>",
+    "style" : 79,
+    "name" : "최대 HP [ML:EnhanceParam paramtype=1 ] 증가"
+  }, {
+    "$id" : 12,
+    "label" : "<00D8AD82>",
+    "style" : 79,
+    "name" : "공격력 [ML:EnhanceParam paramtype=1 ] 증가"
+  }, {
+    "$id" : 13,
+    "label" : "<96845AF7>",
+    "style" : 79,
+    "name" : "회복력 [ML:EnhanceParam paramtype=1 ] 증가"
+  }, {
+    "$id" : 14,
+    "label" : "<25700D19>",
+    "style" : 79,
+    "name" : "손재주 [ML:EnhanceParam paramtype=1 ] 증가"
+  }, {
+    "$id" : 15,
+    "label" : "<8C820745>",
+    "style" : 79,
+    "name" : "속도 [ML:EnhanceParam paramtype=1 ] 증가"
+  }, {
+    "$id" : 16,
+    "label" : "<22D84240>",
+    "style" : 79,
+    "name" : "크리티컬 확률 [ML:EnhanceParam paramtype=1 ]% 증가"
+  }, {
+    "$id" : 17,
+    "label" : "<6A935B43>",
+    "style" : 79,
+    "name" : "물리 방어 [ML:EnhanceParam paramtype=1 ]% 증가"
+  }, {
+    "$id" : 18,
+    "label" : "<5E63E977>",
+    "style" : 79,
+    "name" : "에테르 방어 [ML:EnhanceParam paramtype=1 ]% 증가"
+  }, {
+    "$id" : 19,
+    "label" : "<ACCD6B50>",
+    "style" : 79,
+    "name" : "가드 확률 [ML:EnhanceParam paramtype=1 ]% 증가"
+  }, {
+    "$id" : 20,
+    "label" : "<C4B868CE>",
+    "style" : 79,
+    "name" : "육생 생물에게 주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 21,
+    "label" : "<564CA266>",
+    "style" : 79,
+    "name" : "수생 생물에게 주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 22,
+    "label" : "<693A60AE>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 23,
+    "label" : "<980E1196>",
+    "style" : 79,
+    "name" : "비행 생물에게 주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 24,
+    "label" : "<34637330>",
+    "style" : 79,
+    "name" : "공격을 회피하고 추가로\n비행 생물에게 주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 25,
+    "label" : "<E79E3354>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 26,
+    "label" : "<F18462EA>",
+    "style" : 79,
+    "name" : "케베스군에게 주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 27,
+    "label" : "<EF78D8B0>",
+    "style" : 79,
+    "name" : "아그누스군에게 주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 28,
+    "label" : "<51731EE9>",
+    "style" : 79,
+    "name" : "획득하는 어그로가 많고 추가로\n아그누스군에게 주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 29,
+    "label" : "<CFCCCCF7>",
+    "style" : 79,
+    "name" : "기계에게 주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 30,
+    "label" : "<4C011F2C>",
+    "style" : 79,
+    "name" : "대미지를 받았을 때\n공격력의 [ML:EnhanceParam paramtype=1 ]%만큼 대미지를 준다"
+  }, {
+    "$id" : 31,
+    "label" : "<2C68AC58>",
+    "style" : 79,
+    "name" : "공격을 회피했을 때\n공격력의 [ML:EnhanceParam paramtype=1 ]%만큼 대미지를 준다"
+  }, {
+    "$id" : 32,
+    "label" : "<0790C228>",
+    "style" : 79,
+    "name" : "오토 어택이 히트했을 때 자신의 HP 회복\n최대 회복량은 회복력의 [ML:EnhanceParam paramtype=3 ]%"
+  }, {
+    "$id" : 33,
+    "label" : "<6EE2F327>",
+    "style" : 79,
+    "name" : "오토 어택이 히트했을 때 자신의 HP 회복\n최대 회복량은 회복력의 [ML:EnhanceParam paramtype=3 ]% 효과・소"
+  }, {
+    "$id" : 34,
+    "label" : "<57D782B2>",
+    "style" : 79,
+    "name" : "오토 어택이 히트했을 때 자신의 HP 회복\n최대 회복량은 회복력의 [ML:EnhanceParam paramtype=3 ]% 효과・중"
+  }, {
+    "$id" : 35,
+    "label" : "<2C1F109A>",
+    "style" : 79,
+    "name" : "오토 어택이 히트했을 때 자신의 HP 회복\n최대 회복량은 회복력의 [ML:EnhanceParam paramtype=3 ]% 효과・대"
+  }, {
+    "$id" : 36,
+    "label" : "<2873E058>",
+    "style" : 79,
+    "name" : "아츠가 히트했을 때 주위 아군의 HP 회복\n최대 회복량은 회복력의 [ML:EnhanceParam paramtype=3 ]%"
+  }, {
+    "$id" : 37,
+    "label" : "<9E6B7232>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 38,
+    "label" : "<29E8469A>",
+    "style" : 79,
+    "name" : "크리티컬 대미지 보너스 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 39,
+    "label" : "<B1DA4072>",
+    "style" : 79,
+    "name" : "오토 어택으로 공격했을 때\n[ML:EnhanceParam paramtype=1 ]% 확률로 공격이 2회 발생한다"
+  }, {
+    "$id" : 40,
+    "label" : "<32410922>",
+    "style" : 79,
+    "name" : "정면에서 공격했을 때\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 41,
+    "label" : "<8A0D76AE>",
+    "style" : 79,
+    "name" : "공격을 회피하고 추가로 정면 공격했을 때\n주는 대미지가 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 42,
+    "label" : "<ABC98644>",
+    "style" : 79,
+    "name" : "측면에서 공격했을 때\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 43,
+    "label" : "<874DC5CF>",
+    "style" : 79,
+    "name" : "후방에서 공격했을 때\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 44,
+    "label" : "<1DC83C3F>",
+    "style" : 79,
+    "name" : "다운 상태인 적을 공격했을 때\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 45,
+    "label" : "<2ADE2F56>",
+    "style" : 79,
+    "name" : "라이징 상태인 적을 공격했을 때\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 46,
+    "label" : "<E6FDDC5C>",
+    "style" : 79,
+    "name" : "라이징 상태인 적에게 주는 대미지가\n[ML:EnhanceParam paramtype=1 ]% 상승하고 아츠 중 공격을 회피"
+  }, {
+    "$id" : 47,
+    "label" : "<B49249BE>",
+    "style" : 79,
+    "name" : "스매시 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 48,
+    "label" : "<7B2CE5B5>",
+    "style" : 79,
+    "name" : "스턴 상태인 적을 공격했을 때\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 49,
+    "label" : "<B3055920>",
+    "style" : 79,
+    "name" : "버스트로 적의 분노를 가라앉히는 시간\n[ML:EnhanceParam paramtype=1 ]% 연장"
+  }, {
+    "$id" : 50,
+    "label" : "<BCD2C45F>",
+    "style" : 79,
+    "name" : "자신보다 레벨이 높은 적을 공격했을 때\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 51,
+    "label" : "<4D71AF67>",
+    "style" : 79,
+    "name" : "전투 불능인 아군이 있을 때\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 52,
+    "label" : "<EB83103E>",
+    "style" : 79,
+    "name" : "[ML:EnhanceParam paramtype=1 ]% 확률로 공격이 가드 무효가 된다"
+  }, {
+    "$id" : 53,
+    "label" : "<1D2277F7>",
+    "style" : 79,
+    "name" : "가드를 무효화하고\n추가로 방어 무시 대미지를 준다"
+  }, {
+    "$id" : 54,
+    "label" : "<78A02176>",
+    "style" : 79,
+    "name" : "HP가 [ML:EnhanceParam paramtype=1 ]% 이하일 때\n주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 55,
+    "label" : "<C47CDC72>",
+    "style" : 79,
+    "name" : "HP가 [ML:EnhanceParam paramtype=1 ]% 이상일 때\n주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 56,
+    "label" : "<C3B26637>",
+    "style" : 79,
+    "name" : "HP가 100%일 때\n주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 57,
+    "label" : "<FC9CBF99>",
+    "style" : 79,
+    "name" : "전투 시작 후 [ML:EnhanceParam paramtype=1 ]초 동안\n주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 58,
+    "label" : "<2C19DE90>",
+    "style" : 79,
+    "name" : "적을 전투 불능으로 만들 때마다\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 59,
+    "label" : "<ADCBA62A>",
+    "style" : 79,
+    "name" : "브레이크 유효 시간 [ML:EnhanceParam paramtype=1 ]% 연장"
+  }, {
+    "$id" : 60,
+    "label" : "<8FCFC856>",
+    "style" : 79,
+    "name" : "다운 유효 시간 [ML:EnhanceParam paramtype=1 ]% 연장"
+  }, {
+    "$id" : 61,
+    "label" : "<40F5A785>",
+    "style" : 79,
+    "name" : "라이징 유효 시간 [ML:EnhanceParam paramtype=1 ]% 연장"
+  }, {
+    "$id" : 62,
+    "label" : "<E59BE277>",
+    "style" : 79,
+    "name" : "스턴 유효 시간 [ML:EnhanceParam paramtype=1 ]% 연장"
+  }, {
+    "$id" : 63,
+    "label" : "<F68906C8>",
+    "style" : 79,
+    "name" : "오토 어택으로 주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 64,
+    "label" : "<039E8EBF>",
+    "style" : 79,
+    "name" : "오토 어택의 크리티컬 확률이\n원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 65,
+    "label" : "<4DC3F28F>",
+    "style" : 79,
+    "name" : "오토 어택의 명중률이\n원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 66,
+    "label" : "<EFD6EB65>",
+    "style" : 79,
+    "name" : "자신을 타깃 중인 적을 공격했을 때\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 67,
+    "label" : "<050257F5>",
+    "style" : 79,
+    "name" : "실내에 있을 때\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 68,
+    "label" : "<8FA744EF>",
+    "style" : 79,
+    "name" : "실외에 있을 때\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 69,
+    "label" : "<66E2C88B>",
+    "style" : 79,
+    "name" : "공격 대상의 브레이크 저항력\n[ML:EnhanceParam paramtype=1 ]% 감소"
+  }, {
+    "$id" : 70,
+    "label" : "<D77816A4>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 71,
+    "label" : "<5E44B5C3>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 72,
+    "label" : "<6F765DB7>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 73,
+    "label" : "<B589CB2D>",
+    "style" : 79,
+    "name" : "가드가 발생했을 때\n[ML:EnhanceParam paramtype=1 ]% 확률로 대미지를 0으로 만든다"
+  }, {
+    "$id" : 74,
+    "label" : "<F9170C58>",
+    "style" : 79,
+    "name" : "가드가 발생했을 때 [ML:EnhanceParam paramtype=1 ]% 확률로\n물리 속성 공격을 흡수한다"
+  }, {
+    "$id" : 75,
+    "label" : "<93EA0262>",
+    "style" : 79,
+    "name" : "가드가 발생했을 때 [ML:EnhanceParam paramtype=1 ]% 확률로\n에테르 속성 공격을 흡수한다"
+  }, {
+    "$id" : 76,
+    "label" : "<7B3371B2>",
+    "style" : 79,
+    "name" : "아츠 중 받은 공격을 흡수하여\n일정 시간 강화 상태가 된다"
+  }, {
+    "$id" : 77,
+    "label" : "<A5180447>",
+    "style" : 79,
+    "name" : "가드가 발생했을 때 공격력의 [ML:EnhanceParam paramtype=1 ]%만큼\n적에게 대미지를 주고 어그로를 획득한다"
+  }, {
+    "$id" : 78,
+    "label" : "<4249D5C6>",
+    "style" : 79,
+    "name" : "가드가 발생했을 때 [ML:EnhanceParam paramtype=1 ]% 확률로 공격 반사\n※공격을 흡수했을 경우에는 반사할 수 없다"
+  }, {
+    "$id" : 79,
+    "label" : "<9C22885B>",
+    "style" : 79,
+    "name" : "HP가 [ML:EnhanceParam paramtype=1 ]% 이하일 때\n회피율이 원래의 [ML:EnhanceParam paramtype=2 ]%만큼 상승"
+  }, {
+    "$id" : 80,
+    "label" : "<04CA8442>",
+    "style" : 79,
+    "name" : "이동 중 회피율이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 81,
+    "label" : "<688DB1A5>",
+    "style" : 79,
+    "name" : "정지 또는 오토 어택 중\n회피율이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 82,
+    "label" : "<16C363B1>",
+    "style" : 79,
+    "name" : "아츠 중 회피율이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 83,
+    "label" : "<94F98D21>",
+    "style" : 79,
+    "name" : "HP가 [ML:EnhanceParam paramtype=1 ]% 이하일 때\n가드 확률 [ML:EnhanceParam paramtype=2 ]% 증가"
+  }, {
+    "$id" : 84,
+    "label" : "<DA07A394>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 85,
+    "label" : "<5F82A9BA>",
+    "style" : 79,
+    "name" : "HP가 [ML:EnhanceParam paramtype=1 ]% 이하일 때\n받는 대미지 [ML:EnhanceParam paramtype=2 ]% 감소"
+  }, {
+    "$id" : 86,
+    "label" : "<5390072E>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 87,
+    "label" : "<39375936>",
+    "style" : 79,
+    "name" : "브레이크 저항력 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 88,
+    "label" : "<1A2BA1DA>",
+    "style" : 79,
+    "name" : "다운 저항력 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 89,
+    "label" : "<A5A3170A>",
+    "style" : 79,
+    "name" : "라이징 저항력 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 90,
+    "label" : "<22CFD633>",
+    "style" : 79,
+    "name" : "스매시 저항력 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 91,
+    "label" : "<1E5037A9>",
+    "style" : 79,
+    "name" : "스턴 저항력 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 92,
+    "label" : "<6DFBDA5C>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 93,
+    "label" : "<81734921>",
+    "style" : 79,
+    "name" : "블로 저항력 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 94,
+    "label" : "<8E1DF3B7>",
+    "style" : 79,
+    "name" : "넉 백 저항력 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 95,
+    "label" : "<2BCB6027>",
+    "style" : 79,
+    "name" : "오토 어택의 어그로 획득량 [ML:EnhanceParam paramtype=1 ]% 감소"
+  }, {
+    "$id" : 96,
+    "label" : "<841CCC08>",
+    "style" : 79,
+    "name" : "오토 어택의 어그로 획득량 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 97,
+    "label" : "<F4291D0D>",
+    "style" : 79,
+    "name" : "아츠의 어그로 획득량 [ML:EnhanceParam paramtype=1 ]% 감소"
+  }, {
+    "$id" : 98,
+    "label" : "<14C93EC8>",
+    "style" : 79,
+    "name" : "아츠의 어그로 획득량 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 99,
+    "label" : "<1AB1FFC9>",
+    "style" : 79,
+    "name" : "방어를 무시하는 대미지를 주고\n추가로 아츠의 어그로 획득량 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 100,
+    "label" : "<47055F0A>",
+    "style" : 79,
+    "name" : "공격을 회피하고\n추가로 아츠의 어그로 획득량 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 101,
+    "label" : "<8E88557E>",
+    "style" : 79,
+    "name" : "시간에 따라 감소하는 어그로량 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 102,
+    "label" : "<4B454F2E>",
+    "style" : 79,
+    "name" : "매초마다 어그로를 조금씩 획득한다"
+  }, {
+    "$id" : 103,
+    "label" : "<64813517>",
+    "style" : 79,
+    "name" : "매초마다 어그로를 조금씩 획득한다\n효과・소"
+  }, {
+    "$id" : 104,
+    "label" : "<DD035830>",
+    "style" : 79,
+    "name" : "매초마다 어그로를 조금씩 획득한다\n효과・중"
+  }, {
+    "$id" : 105,
+    "label" : "<F85DE7E0>",
+    "style" : 79,
+    "name" : "매초마다 어그로를 조금씩 획득한다\n효과・대"
+  }, {
+    "$id" : 106,
+    "label" : "<BFD40CCE>",
+    "style" : 79,
+    "name" : "매초마다 어그로를 조금씩 획득한다\n효과・특대"
+  }, {
+    "$id" : 107,
+    "label" : "<D60DC966>",
+    "style" : 79,
+    "name" : "어그로를 일정량 지닌 상태로\n전투가 시작된다"
+  }, {
+    "$id" : 108,
+    "label" : "<D079F3EB>",
+    "style" : 79,
+    "name" : "주는 대미지에 따라 획득하는 어그로\n[ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 109,
+    "label" : "<2C2ABFA7>",
+    "style" : 79,
+    "name" : "구조했을 때의 상대 HP가 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 110,
+    "label" : "<8E09634C>",
+    "style" : 79,
+    "name" : "구조한 상대의 HP를 [ML:EnhanceParam paramtype=1 ]% 상승\n자신의 회복력 [ML:EnhanceParam paramtype=2 ] 증가"
+  }, {
+    "$id" : 111,
+    "label" : "<B665D362>",
+    "style" : 79,
+    "name" : "아츠를 사용할 때 주위 아군의 HP 회복\n회복량은 아츠 실행자의 회복력의 [ML:EnhanceParam paramtype=1 ]%"
+  }, {
+    "$id" : 112,
+    "label" : "<7EEF21F4>",
+    "style" : 79,
+    "name" : "회복 아츠의 HP 회복량 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 113,
+    "label" : "<9AF02DC5>",
+    "style" : 79,
+    "name" : "회복 아츠의 어그로 획득량 [ML:EnhanceParam paramtype=1 ]% 감소"
+  }, {
+    "$id" : 114,
+    "label" : "<6A1BF48C>",
+    "style" : 79,
+    "name" : "자신의 회복량이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 115,
+    "label" : "<A3A733CA>",
+    "style" : 79,
+    "name" : "대미지를 받았을 때 [ML:EnhanceParam paramtype=1 ]% 확률로\nHP가 회복력의 [ML:EnhanceParam paramtype=2 ]%만큼 회복"
+  }, {
+    "$id" : 116,
+    "label" : "<81263DBC>",
+    "style" : 79,
+    "name" : "대미지를 받았을 때 [ML:EnhanceParam paramtype=1 ]% 확률로 주위\n아군의 HP를 회복력의 [ML:EnhanceParam paramtype=2 ]%만큼 회복"
+  }, {
+    "$id" : 117,
+    "label" : "<FF1B90BF>",
+    "style" : 79,
+    "name" : "캔슬했을 때 주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 118,
+    "label" : "<932476DD>",
+    "style" : 79,
+    "name" : "공격을 회피하고 추가로 캔슬했을 때\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 119,
+    "label" : "<A97194EB>",
+    "style" : 79,
+    "name" : "[ML:EnhanceParam paramtype=1 ]% 확률로 전투 불능을 HP 1로 버티고\n5초간 무적(전투당 1번 한정, 중복 불가)"
+  }, {
+    "$id" : 120,
+    "label" : "<5A2E9306>",
+    "style" : 79,
+    "name" : "야간 명중률이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 121,
+    "label" : "<3CC76588>",
+    "style" : 79,
+    "name" : "주간 명중률이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 122,
+    "label" : "<1DCFBAED>",
+    "style" : 79,
+    "name" : "자신이 발동한 버프 효과 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 123,
+    "label" : "<6C8E96CD>",
+    "style" : 79,
+    "name" : "자신이 발동한 버프 효과 시간\n[ML:EnhanceParam paramtype=1 ]% 연장"
+  }, {
+    "$id" : 124,
+    "label" : "<BDA2609D>",
+    "style" : 79,
+    "name" : "적에게 부여한 디버프 효과 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 125,
+    "label" : "<FAEF87E0>",
+    "style" : 79,
+    "name" : "적에게 부여한 디버프 효과 시간\n[ML:EnhanceParam paramtype=1 ]% 연장"
+  }, {
+    "$id" : 126,
+    "label" : "<2D930692>",
+    "style" : 79,
+    "name" : "디버프 성공률 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 127,
+    "label" : "<D46C49D8>",
+    "style" : 79,
+    "name" : "아츠가 히트했을 때\n디버프 효과 시간 [ML:EnhanceParam paramtype=1 ]% 연장"
+  }, {
+    "$id" : 128,
+    "label" : "<66F46FB7>",
+    "style" : 79,
+    "name" : "크리티컬이 발생했을 때 체인 게이지 상승"
+  }, {
+    "$id" : 129,
+    "label" : "<B371BA2D>",
+    "style" : 79,
+    "name" : "아츠를 사용할 때 체인 게이지 상승"
+  }, {
+    "$id" : 130,
+    "label" : "<53C7149A>",
+    "style" : 79,
+    "name" : "전투에 참가한 적 하나당\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 131,
+    "label" : "<331B7589>",
+    "style" : 79,
+    "name" : "사격 공격의 사정거리가 연장된다"
+  }, {
+    "$id" : 132,
+    "label" : "<F858E02E>",
+    "style" : 79,
+    "name" : "전투 불능이 됐을 때\n아군 전체의 HP [ML:EnhanceParam paramtype=1 ]% 회복"
+  }, {
+    "$id" : 133,
+    "label" : "<48CD4526>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 134,
+    "label" : "<D91969E9>",
+    "style" : 79,
+    "name" : "아츠가 히트했을 때 [ML:EnhanceParam paramtype=1 ]% 확률로\n적의 리캐스트를 0으로 만든다"
+  }, {
+    "$id" : 135,
+    "label" : "<5557395B>",
+    "style" : 79,
+    "name" : "적에게 공격을 가드당해도\n튕김 상태가 되지 않는다"
+  }, {
+    "$id" : 136,
+    "label" : "<17B34315>",
+    "style" : 79,
+    "name" : "HP가 [ML:EnhanceParam paramtype=1 ]% 이하인 적을 [ML:EnhanceParam paramtype=2 ]% 확률로\n전투 불능으로 만든다(보스와 유니크 제외)"
+  }, {
+    "$id" : 137,
+    "label" : "<2FA36360>",
+    "style" : 79,
+    "name" : "공격을 회피하고 빈사인 적을 일정 확률로\n전투 불능으로 만든다(보스와 유니크 제외)"
+  }, {
+    "$id" : 138,
+    "label" : "<1467A210>",
+    "style" : 79,
+    "name" : "아군 전체의 명중률과 회피율이\n원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승(중첩 불가)"
+  }, {
+    "$id" : 139,
+    "label" : "<421A8D34>",
+    "style" : 79,
+    "name" : "공격의 어그로 획득량 [ML:EnhanceParam paramtype=1 ]% 감소"
+  }, {
+    "$id" : 140,
+    "label" : "<7D22A1BA>",
+    "style" : 79,
+    "name" : "물리 방어, 에테르 방어 [ML:EnhanceParam paramtype=1 ]% 증가"
+  }, {
+    "$id" : 141,
+    "label" : "<9363AA85>",
+    "style" : 79,
+    "name" : "[ML:EnhanceParam paramtype=1 ]% 확률로 자신의 공격이\n반드시 명중하고 적의 공격을 회피한다"
+  }, {
+    "$id" : 142,
+    "label" : "<4A08A63E>",
+    "style" : 79,
+    "name" : "[ML:EnhanceParam paramtype=1 ]% 확률로 적의 공격을 반사한다"
+  }, {
+    "$id" : 143,
+    "label" : "<B1B1DC0B>",
+    "style" : 79,
+    "name" : "다운, 라이징 상태인 대상에게\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 144,
+    "label" : "<4CD5ADB0>",
+    "style" : 79,
+    "name" : "적을 전투 불능으로 만들었을 때\n아군 전체의 HP [ML:EnhanceParam paramtype=1 ]% 회복"
+  }, {
+    "$id" : 145,
+    "label" : "<B00D0637>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 146,
+    "label" : "<E74F3CC0>",
+    "style" : 79,
+    "name" : "빈사, 전투 불능 아군이 있을 때 주는 대미지\n[ML:EnhanceParam paramtype=1 ]% 상승 / 받는 대미지 [ML:EnhanceParam paramtype=2 ]% 감소"
+  }, {
+    "$id" : 147,
+    "label" : "<9FB346A7>",
+    "style" : 79,
+    "name" : "빈사, 전투 불능 아군이 있을 때 주는 대미지\n상승 효과・소"
+  }, {
+    "$id" : 148,
+    "label" : "<5FA03956>",
+    "style" : 79,
+    "name" : "빈사, 전투 불능 아군이 있을 때 주는 대미지\n상승 효과・대"
+  }, {
+    "$id" : 149,
+    "label" : "<18959100>",
+    "style" : 79,
+    "name" : "적의 콤보, 리액션을\n[ML:EnhanceParam paramtype=1 ]% 확률로 막는다"
+  }, {
+    "$id" : 150,
+    "label" : "<78E518C0>",
+    "style" : 79,
+    "name" : "보스 또는 유니크 몬스터가 있을 때\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 151,
+    "label" : "<96CD585A>",
+    "style" : 79,
+    "name" : "아츠를 사용할 때 [ML:EnhanceParam paramtype=1 ]% 확률로\n리캐스트가 소비되지 않는다"
+  }, {
+    "$id" : 152,
+    "label" : "<1DAE9123>",
+    "style" : 79,
+    "name" : "[ML:EnhanceParam paramtype=1 ]% 확률로 방어를 무시한다"
+  }, {
+    "$id" : 153,
+    "label" : "<D5BAE2BD>",
+    "style" : 79,
+    "name" : "방어 무시 대미지를 준다"
+  }, {
+    "$id" : 154,
+    "label" : "<9F4C816C>",
+    "style" : 79,
+    "name" : "오토 어택 발생 간격이\n[ML:EnhanceParam paramtype=1 ]% 단축된다"
+  }, {
+    "$id" : 155,
+    "label" : "<92EC8869>",
+    "style" : 79,
+    "name" : "오토 어택의 동작이 [ML:EnhanceParam paramtype=1 ]% 빨라지고\n발생 간격이 [ML:EnhanceParam paramtype=2 ]% 단축된다"
+  }, {
+    "$id" : 156,
+    "label" : "<28C6F149>",
+    "style" : 79,
+    "name" : "아츠를 사용할 때\nHP가 현재 HP의 [ML:EnhanceParam paramtype=1 ]%만큼 감소된다"
+  }, {
+    "$id" : 157,
+    "label" : "<085E0D88>",
+    "style" : 79,
+    "name" : "아츠를 사용할 때 HP가 현재 HP의\n[ML:EnhanceParam paramtype=1 ]%만큼 감소. 방어 무시 대미지를 준다"
+  }, {
+    "$id" : 158,
+    "label" : "<4E595539>",
+    "style" : 79,
+    "name" : "아츠를 사용할 때 HP가 현재 HP의\n[ML:EnhanceParam paramtype=1 ]%만큼 감소. 크리티컬 확률이 높다"
+  }, {
+    "$id" : 159,
+    "label" : "<9A7409A3>",
+    "style" : 79,
+    "name" : "아츠가 히트했을 때\n자신의 어그로를 감소시킨다"
+  }, {
+    "$id" : 160,
+    "label" : "<D836AC24>",
+    "style" : 79,
+    "name" : "크리티컬이 발생했을 때\n사용한 아츠의 리캐스트가 [ML:EnhanceParam paramtype=1 ]% 회복된다"
+  }, {
+    "$id" : 161,
+    "label" : "<7A976163>",
+    "style" : 79,
+    "name" : "HP가 [ML:EnhanceParam paramtype=3 ]% 이하일 때\n매초 HP가 [ML:EnhanceParam paramtype=1 ]% 회복된다"
+  }, {
+    "$id" : 162,
+    "label" : "<4462E22B>",
+    "style" : 79,
+    "name" : "탤런트 아츠를 사용할 때마다\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 163,
+    "label" : "<8F78FF0F>",
+    "style" : 79,
+    "name" : "대미지를 받았을 때 공격한 대상에게\n[ML:EnhanceParam paramtype=1 ]% 확률로 넉 백을 가한다"
+  }, {
+    "$id" : 164,
+    "label" : "<21A16DB2>",
+    "style" : 79,
+    "name" : "캔슬 성공의 판정 시간 [ML:EnhanceParam paramtype=1 ]% 연장"
+  }, {
+    "$id" : 165,
+    "label" : "<65DE5CC6>",
+    "style" : 79,
+    "name" : "아츠가 히트했을 때 아군 전체의 HP 회복\n최대 회복량은 회복력의 [ML:EnhanceParam paramtype=3 ]%"
+  }, {
+    "$id" : 166,
+    "label" : "<107E5E45>",
+    "style" : 79,
+    "name" : "방어 무시 대미지를 주고 아군 전체의\nHP 회복(최대 회복량은 회복력의 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 167,
+    "label" : "<8984DB17>",
+    "style" : 79,
+    "name" : "가드 아츠 중 일정 시간마다\nHP가 [ML:EnhanceParam paramtype=1 ]% 회복된다"
+  }, {
+    "$id" : 168,
+    "label" : "<5A24C585>",
+    "style" : 79,
+    "name" : "[ML:EnhanceParam paramtype=1 ]% 확률로 사격 공격을 회피한다"
+  }, {
+    "$id" : 169,
+    "label" : "<6957C274>",
+    "style" : 79,
+    "name" : "전투 불능이 됐을 때\n어그로가 리셋되지 않고 [ML:EnhanceParam paramtype=1 ]% 남는다"
+  }, {
+    "$id" : 170,
+    "label" : "<7D50055A>",
+    "style" : 79,
+    "name" : "아군이 전투 불능 될 때마다\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 171,
+    "label" : "<5F31F212>",
+    "style" : 79,
+    "name" : "크리티컬이 발생할 때마다 주는 대미지와\n크리티컬 확률이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 172,
+    "label" : "<E19824E5>",
+    "style" : 79,
+    "name" : "주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승\n받는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 173,
+    "label" : "<A1BCB4AF>",
+    "style" : 79,
+    "name" : "받는 대미지 [ML:EnhanceParam paramtype=1 ]% 감소\n주는 대미지 [ML:EnhanceParam paramtype=2 ]% 감소"
+  }, {
+    "$id" : 174,
+    "label" : "<C33FCF5C>",
+    "style" : 79,
+    "name" : "모든 디버프 저항력을 [ML:EnhanceParam paramtype=1 ]%만큼 얻는다"
+  }, {
+    "$id" : 175,
+    "label" : "<BB19869F>",
+    "style" : 79,
+    "name" : "자신이 받은 디버프의 유효 시간이\n[ML:EnhanceParam paramtype=1 ]% 단축된다"
+  }, {
+    "$id" : 176,
+    "label" : "<C999EA6A>",
+    "style" : 79,
+    "name" : "캔슬할 때마다\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 177,
+    "label" : "<DB94DB26>",
+    "style" : 79,
+    "name" : "유니크 몬스터를 쓰러뜨렸을 때\n아츠나 스킬을 습득할 수 있다"
+  }, {
+    "$id" : 178,
+    "label" : "<1E6E2A8F>",
+    "style" : 79,
+    "name" : "체인 어택 중 적의 물리 방어와 에테르\n방어를 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 저하시킨다"
+  }, {
+    "$id" : 179,
+    "label" : "<E6C43345>",
+    "style" : 79,
+    "name" : "공격이 히트했을 때 대상의 디버프가\n일정 범위 내의 다른 적에게도 발생한다"
+  }, {
+    "$id" : 180,
+    "label" : "<3E7DC817>",
+    "style" : 79,
+    "name" : "전투 불능이 아닌 아군의\n아츠 리캐스트가 [ML:EnhanceParam paramtype=1 ]% 회복된다(자신 제외)"
+  }, {
+    "$id" : 181,
+    "label" : "<373035C0>",
+    "style" : 79,
+    "name" : "아츠 중인 적에게\n넉 백을 가한다"
+  }, {
+    "$id" : 182,
+    "label" : "<83FCC413>",
+    "style" : 79,
+    "name" : "아츠 중인 적에게\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 183,
+    "label" : "<3D339EDB>",
+    "style" : 79,
+    "name" : "아츠 중인 적에게\n크리티컬 확률이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 184,
+    "label" : "<0CC49A5D>",
+    "style" : 79,
+    "name" : "아츠 중인 적에게\n명중률이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 185,
+    "label" : "<AAA3A70B>",
+    "style" : 79,
+    "name" : "아츠 리캐스트를 소비하여 주는 대미지 상승\n소비 아츠 수가 많을수록 대미지가 상승한다"
+  }, {
+    "$id" : 186,
+    "label" : "<9E8984DF>",
+    "style" : 79,
+    "name" : "HP가 [ML:EnhanceParam paramtype=1 ]% 이하인 적을 공격했을 때\n주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 187,
+    "label" : "<7C6ABA0C>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 188,
+    "label" : "<5AB03095>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 189,
+    "label" : "<AC5453EC>",
+    "style" : 79,
+    "name" : "적이 공격을 회피할 때마다 명중률이\n원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 190,
+    "label" : "<5554BF22>",
+    "style" : 79,
+    "name" : "디버프 상태인 적을 공격했을 때\n주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 191,
+    "label" : "<DC20A8B9>",
+    "style" : 79,
+    "name" : "출혈 디버프 상태인 적을 공격했을 때\n주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 192,
+    "label" : "<6052EE95>",
+    "style" : 79,
+    "name" : "작열 디버프 상태인 적을 공격했을 때\n주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 193,
+    "label" : "<057D5641>",
+    "style" : 79,
+    "name" : "아츠가 히트했을 때\n적에게 무작위 디버프 [ML:EnhanceParam paramtype=1 ]개 부여"
+  }, {
+    "$id" : 194,
+    "label" : "<2E10C73D>",
+    "style" : 79,
+    "name" : "자신에게 무작위 버프 [ML:EnhanceParam paramtype=1 ]개 부여"
+  }, {
+    "$id" : 195,
+    "label" : "<7A634D75>",
+    "style" : 79,
+    "name" : "아군 전체에게 무작위 버프 [ML:EnhanceParam paramtype=1 ]개 부여"
+  }, {
+    "$id" : 196,
+    "label" : "<0A8C1505>",
+    "style" : 0,
+    "name" : "아군 전체에게 무작위 버프 [ML:EnhanceParam paramtype=1 ]개 부여\n아츠를 사용했을 때 히트 게이지가 상승한다"
+  }, {
+    "$id" : 197,
+    "label" : "<578BA492>",
+    "style" : 79,
+    "name" : "전투 불능이 됐을 때 일정 범위 내의 적에게\n공격력의 [ML:EnhanceParam paramtype=2 ]%만큼 대미지를 준다"
+  }, {
+    "$id" : 198,
+    "label" : "<36DD8958>",
+    "style" : 79,
+    "name" : "전투 불능이 됐을 때\n아군 전체의 아츠 리캐스트 [ML:EnhanceParam paramtype=1 ]% 회복"
+  }, {
+    "$id" : 199,
+    "label" : "<995E375E>",
+    "style" : 79,
+    "name" : "캔슬해서 사용한 아츠가 회피,\n가드당하지 않는다 ※적 아츠 효과 우선"
+  }, {
+    "$id" : 200,
+    "label" : "<9414851E>",
+    "style" : 79,
+    "name" : "아츠 사용 중 받는 대미지 [ML:EnhanceParam paramtype=1 ]% 감소"
+  }, {
+    "$id" : 201,
+    "label" : "<A004F40D>",
+    "style" : 79,
+    "name" : "적에게 방어 무시 대미지를 주고\n아츠 사용 중 받는 대미지 [ML:EnhanceParam paramtype=1 ]% 감소"
+  }, {
+    "$id" : 202,
+    "label" : "<02D23265>",
+    "style" : 79,
+    "name" : "리캐스트가 찬 아츠가\n많을수록 주는 대미지 상승"
+  }, {
+    "$id" : 203,
+    "label" : "<4BD5AA34>",
+    "style" : 79,
+    "name" : "리캐스트가 차지 않은 아츠가\n많을수록 주는 대미지 상승"
+  }, {
+    "$id" : 204,
+    "label" : "<922B3D3D>",
+    "style" : 79,
+    "name" : "출혈 디버프로 주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 205,
+    "label" : "<7EF2340A>",
+    "style" : 79,
+    "name" : "작열 디버프로 주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 206,
+    "label" : "<07C55B53>",
+    "style" : 79,
+    "name" : "연속으로 오토 어택을 하면\n공격 속도가 상승해 발생 간격이 단축된다"
+  }, {
+    "$id" : 207,
+    "label" : "<CFEF5B97>",
+    "style" : 79,
+    "name" : "연속으로 오토 어택을 하면 공격 속도가\n상승해 발생 간격이 단축된다 효과・소"
+  }, {
+    "$id" : 208,
+    "label" : "<17D714DC>",
+    "style" : 79,
+    "name" : "연속으로 오토 어택을 하면 공격 속도가\n상승해 발생 간격이 단축된다 효과・중"
+  }, {
+    "$id" : 209,
+    "label" : "<3E8055AC>",
+    "style" : 79,
+    "name" : "연속으로 오토 어택을 하면 공격 속도가\n상승해 발생 간격이 단축된다 효과・대"
+  }, {
+    "$id" : 210,
+    "label" : "<3E310D20>",
+    "style" : 79,
+    "name" : "스탠스 유효 시간 [ML:EnhanceParam paramtype=1 ]% 연장"
+  }, {
+    "$id" : 211,
+    "label" : "<A976A2E1>",
+    "style" : 79,
+    "name" : "버프를 받았을 때 HP [ML:EnhanceParam paramtype=1 ]% 회복"
+  }, {
+    "$id" : 212,
+    "label" : "<4E9AF72B>",
+    "style" : 79,
+    "name" : "후방에서 공격한 아츠가 히트했을 때\n적에게 바인드를 부여한다"
+  }, {
+    "$id" : 213,
+    "label" : "<2780FA73>",
+    "style" : 79,
+    "name" : "후방에서 공격한 아츠가 히트했을 때\n적에게 출혈을 부여한다"
+  }, {
+    "$id" : 214,
+    "label" : "<78C9EDC7>",
+    "style" : 79,
+    "name" : "후방에서 공격한 아츠가 히트했을 때\n적에게 레지스트 다운을 부여한다"
+  }, {
+    "$id" : 215,
+    "label" : "<809CF19E>",
+    "style" : 79,
+    "name" : "오토 어택이 히트했을 때\n[ML:EnhanceParam paramtype=1 ]% 확률로 슬립이 해제되지 않는다"
+  }, {
+    "$id" : 216,
+    "label" : "<12D586F1>",
+    "style" : 79,
+    "name" : "아츠가 히트했을 때\n[ML:EnhanceParam paramtype=1 ]% 확률로 슬립이 해제되지 않는다"
+  }, {
+    "$id" : 217,
+    "label" : "<EF164C76>",
+    "style" : 79,
+    "name" : "융합 아츠로 주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 218,
+    "label" : "<B8738156>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 219,
+    "label" : "<68385DF4>",
+    "style" : 79,
+    "name" : "적의 타깃이 됐을 때\n어그로 감소량 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 220,
+    "label" : "<B528BB7D>",
+    "style" : 79,
+    "name" : "공격을 회피할 때\n공격한 적의 어그로를 획득한다"
+  }, {
+    "$id" : 221,
+    "label" : "<2C723449>",
+    "style" : 79,
+    "name" : "공격을 회피할 때 공격한 적의 어그로 획득\n효과・소"
+  }, {
+    "$id" : 222,
+    "label" : "<31FF40B3>",
+    "style" : 79,
+    "name" : "공격을 회피할 때 공격한 적의 어그로 획득\n효과・대"
+  }, {
+    "$id" : 223,
+    "label" : "<B6CB14C3>",
+    "style" : 79,
+    "name" : "공격이 히트할 때마다\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승 (최대 [ML:EnhanceParam paramtype=3 ]%)\n미스 발생 시 리셋된다"
+  }, {
+    "$id" : 224,
+    "label" : "<5F01D012>",
+    "style" : 79,
+    "name" : "선제 공격을 가했을 때 [ML:EnhanceParam paramtype=1 ]% 확률로\n아군 전체에게 공격 업을 부여한다"
+  }, {
+    "$id" : 225,
+    "label" : "<5DEC0AD3>",
+    "style" : 79,
+    "name" : "자신과 동일한 버프를 아군 전체에게 부여"
+  }, {
+    "$id" : 226,
+    "label" : "<305B2A7B>",
+    "style" : 79,
+    "name" : "현재 유효한 버프 수에 따라\n주는 대미지 상승"
+  }, {
+    "$id" : 227,
+    "label" : "<1EA7D511>",
+    "style" : 79,
+    "name" : "블로, 라이징을 낙법으로 무효화한다"
+  }, {
+    "$id" : 228,
+    "label" : "<D7F09C0F>",
+    "style" : 79,
+    "name" : "블로, 라이징을 낙법으로 무효화하고\n[ML:EnhanceParam paramtype=1 ]% 확률로 공격 업 상태가 된다"
+  }, {
+    "$id" : 229,
+    "label" : "<D839A6F2>",
+    "style" : 79,
+    "name" : "디펜더 이외의 클래스가 타깃이 됐을 때\n리캐스트 속도 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 230,
+    "label" : "<F8A502F8>",
+    "style" : 79,
+    "name" : "엘리먼트를 방출할 때마다\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 231,
+    "label" : "<618D01C9>",
+    "style" : 79,
+    "name" : "공격이 히트했을 때 [ML:EnhanceParam paramtype=1 ]% 확률로\n공격력 [ML:EnhanceParam paramtype=2 ]%의 방어 무시 대미지를 준다"
+  }, {
+    "$id" : 232,
+    "label" : "<D6F29427>",
+    "style" : 79,
+    "name" : "공격이 히트했을 때 [ML:EnhanceParam paramtype=1 ]% 확률로\n회복력 [ML:EnhanceParam paramtype=2 ]%의 방어 무시 대미지를 준다"
+  }, {
+    "$id" : 233,
+    "label" : "<385EB3E4>",
+    "style" : 79,
+    "name" : "넉 백, 블로를 가했을 때\n[ML:EnhanceParam paramtype=1 ]% 확률로 추가 대미지를 준다"
+  }, {
+    "$id" : 234,
+    "label" : "<B26414FF>",
+    "style" : 79,
+    "name" : "아군을 회복시킬 때마다\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 235,
+    "label" : "<7A6CB502>",
+    "style" : 79,
+    "name" : "일정 범위 내의 아군이 받는 공격을\n[ML:EnhanceParam paramtype=2 ]% 확률로 방해한다"
+  }, {
+    "$id" : 236,
+    "label" : "<D12A4DF1>",
+    "style" : 79,
+    "name" : "필드 효과 시간 [ML:EnhanceParam paramtype=1 ]% 연장"
+  }, {
+    "$id" : 237,
+    "label" : "<46ECC77B>",
+    "style" : 79,
+    "name" : "필드로 주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 238,
+    "label" : "<BFE152FF>",
+    "style" : 79,
+    "name" : "필드가 소멸했을 때\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 239,
+    "label" : "<AF133D3C>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 240,
+    "label" : "<E0BB7532>",
+    "style" : 79,
+    "name" : "구조 속도 [ML:EnhanceParam paramtype=1 ]% 상승\n자신의 회복력 [ML:EnhanceParam paramtype=2 ] 증가"
+  }, {
+    "$id" : 241,
+    "label" : "<D67CC306>",
+    "style" : 79,
+    "name" : "힐러 이외의 롤도\n구조가 가능해진다"
+  }, {
+    "$id" : 242,
+    "label" : "<76C9A830>",
+    "style" : 79,
+    "name" : "[ML:EnhanceParam paramtype=1 ]% 확률로 적의 공격을 회피한다"
+  }, {
+    "$id" : 243,
+    "label" : "<D2548AE5>",
+    "style" : 79,
+    "name" : "물리 아츠로 주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 244,
+    "label" : "<45145A9B>",
+    "style" : 79,
+    "name" : "에테르 아츠로 주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 245,
+    "label" : "<2ADE1428>",
+    "style" : 79,
+    "name" : "리액션 성공률 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 246,
+    "label" : "<1B5979E9>",
+    "style" : 79,
+    "name" : "탤런트 아츠 리캐스트가\n[ML:EnhanceParam paramtype=1 ]% 찬 상태에서 전투 시작"
+  }, {
+    "$id" : 247,
+    "label" : "<B77067C9>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 248,
+    "label" : "<AF2FBED5>",
+    "style" : 79,
+    "name" : "가드의 대미지 감소율 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 249,
+    "label" : "<DD1B4212>",
+    "style" : 79,
+    "name" : "자신이 버스트를 발생시켰을 때 아군 전체의\nHP를 회복력의 [ML:EnhanceParam paramtype=2 ]%만큼 회복시킨다"
+  }, {
+    "$id" : 250,
+    "label" : "<F2C338C7>",
+    "style" : 79,
+    "name" : "공격이 히트했을 때 적의 물리 방어 [ML:EnhanceParam paramtype=1 ]%\n저하시키고 대미지 / 효과는 공격 시에만 적용"
+  }, {
+    "$id" : 251,
+    "label" : "<B8244DAD>",
+    "style" : 79,
+    "name" : "공격이 히트했을 때 적의 에테르 방어 [ML:EnhanceParam paramtype=1 ]%\n저하시키고 대미지 / 효과는 공격 시에만 적용"
+  }, {
+    "$id" : 252,
+    "label" : "<FD07A5C0>",
+    "style" : 79,
+    "name" : "공격이 히트할 때마다 크리티컬 확률이\n전투 시작 시의 [ML:EnhanceParam paramtype=1 ]%만큼 상승(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 253,
+    "label" : "<2C1CFD1B>",
+    "style" : 79,
+    "name" : "디버프를 해제할 때마다 자신의 회복력이\n원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 254,
+    "label" : "<1A244443>",
+    "style" : 79,
+    "name" : "아군에게 버프를 부여할 때마다\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 255,
+    "label" : "<987DC241>",
+    "style" : 79,
+    "name" : "적에게 디버프를 부여할 때마다\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 256,
+    "label" : "<6FAB2660>",
+    "style" : 79,
+    "name" : "명중률이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 257,
+    "label" : "<90C26C46>",
+    "style" : 79,
+    "name" : "공격을 회피하고 추가로\n명중률이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 258,
+    "label" : "<FBA33163>",
+    "style" : 79,
+    "name" : "일정 범위 내의 아군 리캐스트 증가량\n[ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 259,
+    "label" : "<38D5E2DA>",
+    "style" : 79,
+    "name" : "공격이 히트했을 때\n대상의 버프를 [ML:EnhanceParam paramtype=1 ]% 확률로 해제한다"
+  }, {
+    "$id" : 260,
+    "label" : "<DBA42412>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 261,
+    "label" : "<DA90136D>",
+    "style" : 79,
+    "name" : "일정 범위 내의 아군이 받는 대미지\n[ML:EnhanceParam paramtype=2 ]% 감소"
+  }, {
+    "$id" : 262,
+    "label" : "<17011203>",
+    "style" : 79,
+    "name" : "각성했을 때 주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 263,
+    "label" : "<DDE6B52D>",
+    "style" : 79,
+    "name" : "적에게 방어 무시 대미지를 주고\n추가로 각성했을 때 주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 264,
+    "label" : "<63B24417>",
+    "style" : 79,
+    "name" : "받은 대미지가 최대 HP의 [ML:EnhanceParam paramtype=1 ]% 이상\n축적됐을 때 각성 상태가 된다"
+  }, {
+    "$id" : 265,
+    "label" : "<13A1B9F2>",
+    "style" : 79,
+    "name" : "아츠를 사용할 때 엘리먼트를 모두 소비하여\n주는 대미지를 상승시킨다"
+  }, {
+    "$id" : 266,
+    "label" : "<06C755D3>",
+    "style" : 79,
+    "name" : "아군이 주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승\n적의 가드 확률 [ML:EnhanceParam paramtype=2 ]% 감소(중첩 불가)"
+  }, {
+    "$id" : 267,
+    "label" : "<D3D5B5B8>",
+    "style" : 79,
+    "name" : "엘리먼트로 주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승\n엘리먼트 버프 효과 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 268,
+    "label" : "<55C45B48>",
+    "style" : 79,
+    "name" : "엘리먼트로 주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 269,
+    "label" : "<C353B2C7>",
+    "style" : 79,
+    "name" : "아군이 받는 대미지 [ML:EnhanceParam paramtype=1 ]% 감소\nHP 회복량 [ML:EnhanceParam paramtype=2 ]% 상승(중첩 불가)"
+  }, {
+    "$id" : 270,
+    "label" : "<22C48F11>",
+    "style" : 79,
+    "name" : "구조한 아군에게\n대미지 아머를 부여한다"
+  }, {
+    "$id" : 271,
+    "label" : "<ADEC18AB>",
+    "style" : 79,
+    "name" : "크리티컬이 발생했을 때 적의 방어를 무시\n추가로 대미지 보너스 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 272,
+    "label" : "<A9524C7A>",
+    "style" : 79,
+    "name" : "히트 게이지가 높을수록 주는 대미지 상승\n효과・소"
+  }, {
+    "$id" : 273,
+    "label" : "<25E7A3D3>",
+    "style" : 79,
+    "name" : "히트 게이지가 높을수록 주는 대미지 상승\n효과・대"
+  }, {
+    "$id" : 274,
+    "label" : "<FE279BCA>",
+    "style" : 79,
+    "name" : "아츠가 히트했을 때 브레이크, 다운,\n라이징, 스턴 효과 시간을 연장한다"
+  }, {
+    "$id" : 275,
+    "label" : "<82FE00A5>",
+    "style" : 79,
+    "name" : "회피할 때마다 공격력의 [ML:EnhanceParam paramtype=1 ]% 대미지를\n주고 주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 276,
+    "label" : "<3711AA9F>",
+    "style" : 79,
+    "name" : "자신이 타깃 중인 적한테 공격받았을 때\n회피율 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 277,
+    "label" : "<B95F20F0>",
+    "style" : 79,
+    "name" : "뫼비우스에게 주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승\n추가로 가드 불능"
+  }, {
+    "$id" : 278,
+    "label" : "<90E27804>",
+    "style" : 79,
+    "name" : "아군이 아주 적은 HP로 모두 부활하지만\n오버히트 상태가 되며 적의 어그로도 획득한다"
+  }, {
+    "$id" : 279,
+    "label" : "<C2F12F2C>",
+    "style" : 79,
+    "name" : "아군이 적은 HP로 모두 부활하지만\n오버히트 상태가 되며 적의 어그로도 획득한다"
+  }, {
+    "$id" : 280,
+    "label" : "<A3A7F43C>",
+    "style" : 79,
+    "name" : "일정 범위 내의 적에게 매초\n공격력의 [ML:EnhanceParam paramtype=2 ]%만큼 대미지를 준다"
+  }, {
+    "$id" : 281,
+    "label" : "<63D554B8>",
+    "style" : 79,
+    "name" : "아군 전체에 부여된 버프 수에 따라\n주는 대미지 상승 효과・소(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 282,
+    "label" : "<796E76BC>",
+    "style" : 79,
+    "name" : "아군 전체에 부여된 버프 수에 따라\n주는 대미지 상승 효과・대(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 283,
+    "label" : "<7C425688>",
+    "style" : 79,
+    "name" : "모든 적의 디버프 저항력 [ML:EnhanceParam paramtype=1 ]% 감소"
+  }, {
+    "$id" : 284,
+    "label" : "<00448BA9>",
+    "style" : 79,
+    "name" : "모든 적의 디버프 유효 시간 [ML:EnhanceParam paramtype=1 ]% 연장"
+  }, {
+    "$id" : 285,
+    "label" : "<5E9858C7>",
+    "style" : 79,
+    "name" : "모든 적의 디버프 유효 시간 [ML:EnhanceParam paramtype=1 ]% 연장\n(중첩 불가)"
+  }, {
+    "$id" : 286,
+    "label" : "<1A3C164B>",
+    "style" : 79,
+    "name" : "모든 적의 디버프 유효 시간이\n단축되지 않게 한다"
+  }, {
+    "$id" : 287,
+    "label" : "<B59766AD>",
+    "style" : 79,
+    "name" : "아군 전체 버프 유효 시간 [ML:EnhanceParam paramtype=1 ]% 연장"
+  }, {
+    "$id" : 288,
+    "label" : "<2B8707F8>",
+    "style" : 79,
+    "name" : "아군 전체 버프 유효 시간 [ML:EnhanceParam paramtype=1 ]% 연장\n(중첩 불가)"
+  }, {
+    "$id" : 289,
+    "label" : "<C34D4985>",
+    "style" : 79,
+    "name" : "아군 전체의 버프 유효 시간이\n단축되지 않게 한다"
+  }, {
+    "$id" : 290,
+    "label" : "<A06D0BEF>",
+    "style" : 79,
+    "name" : "적 전체에 부여된 디버프 수에 따라\n주는 대미지 상승 효과・소(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 291,
+    "label" : "<47672ACB>",
+    "style" : 79,
+    "name" : "적 전체에 부여된 디버프 수에 따라\n주는 대미지 상승 효과・대(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 292,
+    "label" : "<0BBAE1B7>",
+    "style" : 79,
+    "name" : "아츠 중 아군 전체의 받는 대미지\n[ML:EnhanceParam paramtype=1 ]% 감소. 자신이 공격받으면 반격한다"
+  }, {
+    "$id" : 293,
+    "label" : "<1FBB1E90>",
+    "style" : 79,
+    "name" : "아츠 중 콤보, 리액션에\n[ML:EnhanceParam paramtype=1 ]% 저항력을 얻는다"
+  }, {
+    "$id" : 294,
+    "label" : "<D2DBD195>",
+    "style" : 79,
+    "name" : "자신을 타깃 중인 적의 수에 따라\n주는 대미지 상승 효과・소(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 295,
+    "label" : "<4420F17C>",
+    "style" : 79,
+    "name" : "자신을 타깃 중인 적의 수에 따라\n주는 대미지 상승 효과・대(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 296,
+    "label" : "<BDA12D70>",
+    "style" : 79,
+    "name" : "자신을 타깃 중인 적의 수에 따라\n주는 대미지 상승 효과・중(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 297,
+    "label" : "<26AEC39B>",
+    "style" : 79,
+    "name" : "적의 가드를 무효화하고 무효화할 때마다\n[ML:EnhanceParam paramtype=1 ]% 확률로 브레이크를 부여한다"
+  }, {
+    "$id" : 298,
+    "label" : "<AE1B827D>",
+    "style" : 79,
+    "name" : "자신이 콤보, 리액션을 발생시킬 때마다\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 299,
+    "label" : "<3A32FD3B>",
+    "style" : 79,
+    "name" : "콤보 상태인 적에게 주는 대미지 상승\n효과・소"
+  }, {
+    "$id" : 300,
+    "label" : "<D97D9E7A>",
+    "style" : 79,
+    "name" : "콤보 상태인 적에게 주는 대미지 상승\n효과・대"
+  }, {
+    "$id" : 301,
+    "label" : "<D7FF5B5F>",
+    "style" : 79,
+    "name" : "슬립 저항력을\n[ML:EnhanceParam paramtype=2 ]% 얻는다"
+  }, {
+    "$id" : 302,
+    "label" : "<635FA1E8>",
+    "style" : 79,
+    "name" : "아츠 봉쇄 저항력을\n[ML:EnhanceParam paramtype=2 ]% 얻는다"
+  }, {
+    "$id" : 303,
+    "label" : "<D7C3E0F3>",
+    "style" : 79,
+    "name" : "회복 봉쇄 저항력을\n[ML:EnhanceParam paramtype=2 ]% 얻는다"
+  }, {
+    "$id" : 304,
+    "label" : "<A604527D>",
+    "style" : 79,
+    "name" : "바인드 저항력을\n[ML:EnhanceParam paramtype=2 ]% 얻는다"
+  }, {
+    "$id" : 305,
+    "label" : "<14E43D21>",
+    "style" : 79,
+    "name" : "타깃 록 저항력을\n[ML:EnhanceParam paramtype=2 ]% 얻는다"
+  }, {
+    "$id" : 306,
+    "label" : "<D6B5A179>",
+    "style" : 79,
+    "name" : "가드 봉쇄 저항력을\n[ML:EnhanceParam paramtype=2 ]% 얻는다"
+  }, {
+    "$id" : 307,
+    "label" : "<363F8EC3>",
+    "style" : 79,
+    "name" : "일정 시간 내에 다른 아츠를 사용하면\n아츠 효과가 상승한다"
+  }, {
+    "$id" : 308,
+    "label" : "<147A2E9E>",
+    "style" : 79,
+    "name" : "적을 전투 불능으로 만들었을 때\n아군 전체의 아츠 리캐스트 [ML:EnhanceParam paramtype=1 ]% 회복"
+  }, {
+    "$id" : 309,
+    "label" : "<5066F00B>",
+    "style" : 79,
+    "name" : "크리티컬이 발생할 때마다\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 310,
+    "label" : "<CD43B50D>",
+    "style" : 79,
+    "name" : "라이징 상태인 적을 공격했을 때\n크리티컬 확률이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 311,
+    "label" : "<94D2A619>",
+    "style" : 79,
+    "name" : "빈사 상태인 아군이 있을 때\n회복 아츠의 리캐스트 속도 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 312,
+    "label" : "<A2FCCDCD>",
+    "style" : 79,
+    "name" : "아군이 전투 불능이 됐을 때\n자신의 어그로 [ML:EnhanceParam paramtype=1 ]% 감소"
+  }, {
+    "$id" : 313,
+    "label" : "<F3FFBD63>",
+    "style" : 79,
+    "name" : "적의 공격을 회피했을 때 [ML:EnhanceParam paramtype=1 ]% 확률로\n파워 차지가 부여된다"
+  }, {
+    "$id" : 314,
+    "label" : "<48DD3761>",
+    "style" : 79,
+    "name" : "적의 공격을 회피했을 때 [ML:EnhanceParam paramtype=1 ]% 확률로\n리캐스트 업이 부여된다"
+  }, {
+    "$id" : 315,
+    "label" : "<7CB69536>",
+    "style" : 79,
+    "name" : "아군이 빈사 상태일 때 [ML:EnhanceParam paramtype=1 ]% 확률로\n적에게 타깃 록을 부여한다(발동 간격 존재)"
+  }, {
+    "$id" : 316,
+    "label" : "<83FCF14A>",
+    "style" : 79,
+    "name" : "전투 시간이 경과할수록\n주는 대미지가 상승한다"
+  }, {
+    "$id" : 317,
+    "label" : "<5958F8E5>",
+    "style" : 79,
+    "name" : "오토 어택이 히트했을 때\n자신의 어그로를 [ML:EnhanceParam paramtype=1 ]% 감소시킨다"
+  }, {
+    "$id" : 318,
+    "label" : "<37D01519>",
+    "style" : 79,
+    "name" : "크리티컬 확률 [ML:EnhanceParam paramtype=1 ]% 상승\n추가로 대미지 보너스 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 319,
+    "label" : "<9E26B950>",
+    "style" : 79,
+    "name" : "전투 불능인 아군의 수에 따라\n구조 속도 상승"
+  }, {
+    "$id" : 320,
+    "label" : "<C466B02C>",
+    "style" : 79,
+    "name" : "일정 시간 대미지를 받지 않으면\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 321,
+    "label" : "<6A7594DB>",
+    "style" : 79,
+    "name" : "적을 쓰러뜨렸을 때 [ML:EnhanceParam paramtype=1 ]% 확률로\n각성과 크리티컬 강화를 부여"
+  }, {
+    "$id" : 322,
+    "label" : "<C090F7CB>",
+    "style" : 79,
+    "name" : "최대 HP가 절반으로 감소하지만\n주는 대미지가 [ML:EnhanceParam paramtype=1 ]% 상승한다"
+  }, {
+    "$id" : 323,
+    "label" : "<D65B1C3E>",
+    "style" : 79,
+    "name" : "자신과 같은 롤인 아군이 많을수록\n오토 어택 발생이 빨라진다"
+  }, {
+    "$id" : 324,
+    "label" : "<3110D7E4>",
+    "style" : 79,
+    "name" : "소울 해커가 습득한 아츠, 스킬이\n많을수록 주는 대미지 상승"
+  }, {
+    "$id" : 325,
+    "label" : "<1FD976D8>",
+    "style" : 79,
+    "name" : "소울 해커가 습득한 아츠, 스킬이\n많을수록 받는 대미지 감소"
+  }, {
+    "$id" : 326,
+    "label" : "<0148229E>",
+    "style" : 79,
+    "name" : "소울 해커가 습득한 아츠, 스킬이\n많을수록 HP 회복량 상승"
+  }, {
+    "$id" : 327,
+    "label" : "<A16755CC>",
+    "style" : 79,
+    "name" : "회복 아츠의 회복량 [ML:EnhanceParam paramtype=2 ]% 감소\n리캐스트 증가량 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 328,
+    "label" : "<B49626BF>",
+    "style" : 79,
+    "name" : "아군이 전투 불능이 됐을 때 [ML:EnhanceParam paramtype=1 ]% 확률로\n무작위 버프가 [ML:EnhanceParam paramtype=2 ]개 부여된다"
+  }, {
+    "$id" : 329,
+    "label" : "<99BBE917>",
+    "style" : 79,
+    "name" : "리캐스트가 찬 아츠가 존재하지 않을 때\n받는 대미지 [ML:EnhanceParam paramtype=1 ]% 감소"
+  }, {
+    "$id" : 330,
+    "label" : "<D7CB3D2E>",
+    "style" : 79,
+    "name" : "아군이 전투 불능이 됐을 때\n자신의 모든 아츠 리캐스트 [ML:EnhanceParam paramtype=1 ]% 회복"
+  }, {
+    "$id" : 331,
+    "label" : "<F8A291BF>",
+    "style" : 79,
+    "name" : "가드했을 때 무작위 아츠의 리캐스트가\n[ML:EnhanceParam paramtype=1 ]% 회복된다"
+  }, {
+    "$id" : 332,
+    "label" : "<29C7B277>",
+    "style" : 79,
+    "name" : "자신이 빈사 상태가 됐을 때\nHP [ML:EnhanceParam paramtype=1 ]% 회복(발동 간격 존재)"
+  }, {
+    "$id" : 333,
+    "label" : "<C2CEA6CA>",
+    "style" : 79,
+    "name" : "전투 불능에서 복귀하면 모든 적에게\n타깃 록을 부여(발동 간격 존재)"
+  }, {
+    "$id" : 334,
+    "label" : "<00D3F2A3>",
+    "style" : 79,
+    "name" : "전투 불능에서 복귀하면 한동안 주는 대미지\n[ML:EnhanceParam paramtype=1 ]% 상승 / 받는 대미지 [ML:EnhanceParam paramtype=2 ]% 감소"
+  }, {
+    "$id" : 335,
+    "label" : "<B49F4ACF>",
+    "style" : 79,
+    "name" : "빈사 상태일 때 받는 대미지를 [ML:EnhanceParam paramtype=1 ]%\n상승시키고 무작위 아군이 대신 받게 한다"
+  }, {
+    "$id" : 336,
+    "label" : "<40ED50DF>",
+    "style" : 79,
+    "name" : "아츠가 히트했을 때\n자신에게 파워 차지가 부여된다"
+  }, {
+    "$id" : 337,
+    "label" : "<1D66D1AE>",
+    "style" : 79,
+    "name" : "아츠가 히트했을 때\n다른 아츠의 리캐스트가 [ML:EnhanceParam paramtype=1 ]% 회복된다"
+  }, {
+    "$id" : 338,
+    "label" : "<ECCE9E13>",
+    "style" : 79,
+    "name" : "아츠 중 적의 공격을 회피한다"
+  }, {
+    "$id" : 339,
+    "label" : "<5E1BB978>",
+    "style" : 79,
+    "name" : "아츠 중 적의 공격을 가드한다"
+  }, {
+    "$id" : 340,
+    "label" : "<98BAD261>",
+    "style" : 79,
+    "name" : "크리티컬 확률이 높고\n아츠 중 적의 공격을 회피한다"
+  }, {
+    "$id" : 341,
+    "label" : "<0B62A32D>",
+    "style" : 79,
+    "name" : "적에게 방어 무시 대미지를 주고\n추가로 아츠 중 적의 공격을 회피한다"
+  }, {
+    "$id" : 342,
+    "label" : "<2EFDD188>",
+    "style" : 79,
+    "name" : "아츠 중 적의 공격을 회피하지만\n크리티컬 확률이 낮다"
+  }, {
+    "$id" : 343,
+    "label" : "<741922AC>",
+    "style" : 79,
+    "name" : "크리티컬 확률이 높다"
+  }, {
+    "$id" : 344,
+    "label" : "<E681FDD1>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 345,
+    "label" : "<42A0A4EF>",
+    "style" : 0,
+    "name" : "공격이 히트했을 때 추가로 명중 다운 부여"
+  }, {
+    "$id" : 346,
+    "label" : "<6393454D>",
+    "style" : 79,
+    "name" : "아츠를 사용할 때\n추가로 크리티컬 업 부여"
+  }, {
+    "$id" : 347,
+    "label" : "<25A64690>",
+    "style" : 79,
+    "name" : "아츠를 사용할 때\n추가로 크리티컬 강화 부여"
+  }, {
+    "$id" : 348,
+    "label" : "<C0EFF2FD>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 349,
+    "label" : "<620A3482>",
+    "style" : 79,
+    "name" : "적에게 방어 무시 대미지를 주고\n추가로 브레이크, 다운, 라이징을 부여한다"
+  }, {
+    "$id" : 350,
+    "label" : "<A85A53B6>",
+    "style" : 79,
+    "name" : "아츠 중 넉 백과 블로 무효"
+  }, {
+    "$id" : 351,
+    "label" : "<4E5E5F18>",
+    "style" : 79,
+    "name" : "자신의 어그로가 반감된다"
+  }, {
+    "$id" : 352,
+    "label" : "<7A9C9C8B>",
+    "style" : 79,
+    "name" : "자신의 어그로가 제거된다"
+  }, {
+    "$id" : 353,
+    "label" : "<4074074A>",
+    "style" : 79,
+    "name" : "회피율이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승\n주는 대미지 [ML:EnhanceParam paramtype=2 ]% 감소"
+  }, {
+    "$id" : 354,
+    "label" : "<C8035248>",
+    "style" : 79,
+    "name" : "받는 대미지 [ML:EnhanceParam paramtype=1 ]% 감소\n주는 대미지 [ML:EnhanceParam paramtype=2 ]% 감소"
+  }, {
+    "$id" : 355,
+    "label" : "<2E4E08CE>",
+    "style" : 79,
+    "name" : "공격이 가드 불능이 되고\n주는 대미지도 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 356,
+    "label" : "<CA251E16>",
+    "style" : 79,
+    "name" : "오토 어택, 아츠 공격 속도 상승\n받는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 357,
+    "label" : "<B2982262>",
+    "style" : 79,
+    "name" : "필드 범위 내에 있을 때 주는 대미지\n[ML:EnhanceParam paramtype=1 ]% 상승 / 받는 대미지 [ML:EnhanceParam paramtype=2 ]% 감소"
+  }, {
+    "$id" : 358,
+    "label" : "<CBBB5282>",
+    "style" : 79,
+    "name" : "아츠 리캐스트 속도 [ML:EnhanceParam paramtype=1 ]% 상승\n받는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 359,
+    "label" : "<4931053C>",
+    "style" : 79,
+    "name" : "주는 대미지가 [ML:EnhanceParam paramtype=1 ]% 상승하지만\n아츠를 사용할 때 HP가 감소한다"
+  }, {
+    "$id" : 360,
+    "label" : "<2D11069A>",
+    "style" : 79,
+    "name" : "일정 범위 내의 적에게 지속 대미지를 주고\n어그로 획득량이 상승한다"
+  }, {
+    "$id" : 361,
+    "label" : "<C8253AA3>",
+    "style" : 79,
+    "name" : "주위 아군의 HP를 지속적으로 회복시키고\n추가로 리캐스트 속도도 [ML:EnhanceParam paramtype=1 ]% 상승시킨다"
+  }, {
+    "$id" : 362,
+    "label" : "<D551AC83>",
+    "style" : 79,
+    "name" : "주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승\n받는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 363,
+    "label" : "<5AB4AD2E>",
+    "style" : 79,
+    "name" : "가드 확률이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승\n주는 대미지 [ML:EnhanceParam paramtype=2 ]% 감소"
+  }, {
+    "$id" : 364,
+    "label" : "<54002C42>",
+    "style" : 79,
+    "name" : "크리티컬 확률이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승\n추가로 대미지 보너스 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 365,
+    "label" : "<ABE09223>",
+    "style" : 79,
+    "name" : "후방 공격으로 주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승\n공격할 때 획득하는 어그로 감소"
+  }, {
+    "$id" : 366,
+    "label" : "<E75D3279>",
+    "style" : 79,
+    "name" : "주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승\n공격할 때 획득하는 어그로 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 367,
+    "label" : "<10B84A3A>",
+    "style" : 79,
+    "name" : "주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승\n받는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 368,
+    "label" : "<EE82CD76>",
+    "style" : 79,
+    "name" : "아츠 리캐스트 속도 [ML:EnhanceParam paramtype=1 ]% 상승\n오토 어택 발생 간격 [ML:EnhanceParam paramtype=2 ]% 단축"
+  }, {
+    "$id" : 369,
+    "label" : "<8B7D9F29>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 370,
+    "label" : "<BAE820F0>",
+    "style" : 79,
+    "name" : "받는 대미지 [ML:EnhanceParam paramtype=1 ]% 감소\n주는 대미지 [ML:EnhanceParam paramtype=2 ]% 감소"
+  }, {
+    "$id" : 371,
+    "label" : "<4889DB2F>",
+    "style" : 79,
+    "name" : "회피율이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승\n주는 대미지 [ML:EnhanceParam paramtype=2 ]% 감소"
+  }, {
+    "$id" : 372,
+    "label" : "<2B083807>",
+    "style" : 79,
+    "name" : "체인 어택 중 공격이 적의 방어를\n[ML:EnhanceParam paramtype=1 ]% 확률로 무시"
+  }, {
+    "$id" : 373,
+    "label" : "<DE198F52>",
+    "style" : 79,
+    "name" : "어태커, 힐러의 어그로를\n[ML:EnhanceParam paramtype=1 ]% 감소"
+  }, {
+    "$id" : 374,
+    "label" : "<931708A0>",
+    "style" : 79,
+    "name" : "체인 어택 중 적의 물리 방어\n[ML:EnhanceParam paramtype=1 ]% 저하"
+  }, {
+    "$id" : 375,
+    "label" : "<6AD9B27D>",
+    "style" : 79,
+    "name" : "체인 어택 중 적의 에테르 방어\n[ML:EnhanceParam paramtype=1 ]% 저하"
+  }, {
+    "$id" : 376,
+    "label" : "<82B3F4C8>",
+    "style" : 79,
+    "name" : "체인 어택 중 공격이\n[ML:EnhanceParam paramtype=1 ]% 확률로 가드 불능"
+  }, {
+    "$id" : 377,
+    "label" : "<DC5AA422>",
+    "style" : 79,
+    "name" : "행동이 회복되는 인원을 1명 추가시키고\n[ML:EnhanceParam paramtype=1 ]% 확률로 [ML:EnhanceParam paramtype=2 ]명 더 추가"
+  }, {
+    "$id" : 378,
+    "label" : "<B763B01D>",
+    "style" : 79,
+    "name" : "[ML:EnhanceParam paramtype=1 ]% 확률로 전투 불능인 캐릭터를\n모두 부활시키고 체인 어택에 참가시킨다"
+  }, {
+    "$id" : 379,
+    "label" : "<590C0E0F>",
+    "style" : 79,
+    "name" : "파티 전체의 HP를 [ML:EnhanceParam paramtype=1 ]% 회복시키고\n아군 전체에게 리제너레이션을 부여"
+  }, {
+    "$id" : 380,
+    "label" : "<189FE95A>",
+    "style" : 79,
+    "name" : "디펜더의 어그로를 [ML:EnhanceParam paramtype=1 ]% 상승시키고\n아군 전체에게 공격 업을 부여"
+  }, {
+    "$id" : 381,
+    "label" : "<613193B2>",
+    "style" : 79,
+    "name" : "디펜더의 어그로를 [ML:EnhanceParam paramtype=1 ]% 상승시키고\n아군 전체에게 대미지 아머를 부여"
+  }, {
+    "$id" : 382,
+    "label" : "<62EDC34B>",
+    "style" : 79,
+    "name" : "체인 어택 중 대미지 [ML:EnhanceParam paramtype=1 ]%만큼 HP 회복\n최대 회복량은 회복력의 [ML:EnhanceParam paramtype=3 ]%"
+  }, {
+    "$id" : 383,
+    "label" : "<31AB7369>",
+    "style" : 79,
+    "name" : "체인 어택 중 크리티컬 확률\n[ML:EnhanceParam paramtype=1 ]% 증가"
+  }, {
+    "$id" : 384,
+    "label" : "<1CEF8E14>",
+    "style" : 79,
+    "name" : "체인 어택 중 빈사 상태인 적에게\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 385,
+    "label" : "<741C6BBC>",
+    "style" : 79,
+    "name" : "체인 게이지를 회복시키고\n아군 전체에게 파워 차지를 부여"
+  }, {
+    "$id" : 386,
+    "label" : "<755027AA>",
+    "style" : 79,
+    "name" : "체인 어택 중 크리티컬 대미지 보너스\n[ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 387,
+    "label" : "<82982A4A>",
+    "style" : 79,
+    "name" : "대미지 배율을 [ML:EnhanceParam paramtype=1 ]% 상승시키고\n아군 전체에게 크리티컬 업을 부여"
+  }, {
+    "$id" : 388,
+    "label" : "<A8C5A895>",
+    "style" : 79,
+    "name" : "대미지 배율을 [ML:EnhanceParam paramtype=1 ]% 상승시키고\n아군 전체에게 공격 업을 부여"
+  }, {
+    "$id" : 389,
+    "label" : "<D35702CA>",
+    "style" : 79,
+    "name" : "대미지 배율을 [ML:EnhanceParam paramtype=1 ]% 상승시키고\n아군 전체에게 파워 차지를 부여"
+  }, {
+    "$id" : 390,
+    "label" : "<983B68D9>",
+    "style" : 79,
+    "name" : "대미지 배율 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 391,
+    "label" : "<A0EA0A32>",
+    "style" : 79,
+    "name" : "대미지 배율을 대폭 상승시키고\n적의 방어를 무시하는 대미지를 준다"
+  }, {
+    "$id" : 392,
+    "label" : "<4FA8E2D2>",
+    "style" : 79,
+    "name" : "대미지 배율을 대폭 상승시키고\n어태커, 힐러의 어그로를 감소시킨다"
+  }, {
+    "$id" : 393,
+    "label" : "<CD330B5E>",
+    "style" : 79,
+    "name" : "대미지 배율을 대폭 상승시키고\n아군 전체의 HP를 전부 회복시킨다"
+  }, {
+    "$id" : 394,
+    "label" : "<A0EA5E8C>",
+    "style" : 79,
+    "name" : "대미지 배율을 대폭 상승시키고\n아군 전체의 HP를 전부 회복시킨다"
+  }, {
+    "$id" : 395,
+    "label" : "<8C14729A>",
+    "style" : 79,
+    "name" : "대미지 배율을 대폭 상승시키고\n어태커, 힐러의 어그로를 감소시킨다"
+  }, {
+    "$id" : 396,
+    "label" : "<B28B2765>",
+    "style" : 79,
+    "name" : "대미지 배율을 대폭 상승시키고\n적의 방어를 무시하는 대미지를 준다"
+  }, {
+    "$id" : 397,
+    "label" : "<65098250>",
+    "style" : 79,
+    "name" : "시간에 따라 상승하는 히트 게이지 감소"
+  }, {
+    "$id" : 398,
+    "label" : "<C9144CFF>",
+    "style" : 79,
+    "name" : "범위 공격 아츠의 범위 [ML:EnhanceParam paramtype=1 ]% 확장"
+  }, {
+    "$id" : 399,
+    "label" : "<9AD188E2>",
+    "style" : 79,
+    "name" : "범위 공격 아츠의 범위 [ML:EnhanceParam paramtype=1 ]% 확장\n범위 공격 아츠로 주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 400,
+    "label" : "<34194B3A>",
+    "style" : 79,
+    "name" : "리액션, 콤보를 받았을 때\n모든 아츠 리캐스트 [ML:EnhanceParam paramtype=1 ]% 회복"
+  }, {
+    "$id" : 401,
+    "label" : "<F8580C3F>",
+    "style" : 79,
+    "name" : "물속에 있을 때\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 402,
+    "label" : "<C852E482>",
+    "style" : 79,
+    "name" : "물속에 있을 때\n리캐스트 속도 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 403,
+    "label" : "<8110CED4>",
+    "style" : 79,
+    "name" : "육지에 있을 때\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 404,
+    "label" : "<FE303B40>",
+    "style" : 79,
+    "name" : "육지에 있을 때\n리캐스트 속도 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 405,
+    "label" : "<5E18DC99>",
+    "style" : 79,
+    "name" : "자신이 디버프 상태일 때\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 406,
+    "label" : "<606A140E>",
+    "style" : 79,
+    "name" : "적을 전투 불능으로 만들 때마다\n받는 대미지 [ML:EnhanceParam paramtype=1 ]% 감소(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 407,
+    "label" : "<126CF251>",
+    "style" : 79,
+    "name" : "측면에서 공격했을 때\n적을 브레이크한다"
+  }, {
+    "$id" : 408,
+    "label" : "<463DAC98>",
+    "style" : 79,
+    "name" : "정면에서 공격했을 때\n적을 다운시킨다"
+  }, {
+    "$id" : 409,
+    "label" : "<6EB83ED8>",
+    "style" : 79,
+    "name" : "측면에서 공격했을 때\n적을 다운시킨다"
+  }, {
+    "$id" : 410,
+    "label" : "<6949EAB3>",
+    "style" : 79,
+    "name" : "측면에서 공격했을 때\n적을 라이징 상태로 만든다"
+  }, {
+    "$id" : 411,
+    "label" : "<1FFD9CFA>",
+    "style" : 79,
+    "name" : "측면에서 공격했을 때\n적을 스턴시킨다"
+  }, {
+    "$id" : 412,
+    "label" : "<02BFCC80>",
+    "style" : 79,
+    "name" : "정면에서 공격했을 때\n적을 블로시킨다"
+  }, {
+    "$id" : 413,
+    "label" : "<68B27E4C>",
+    "style" : 79,
+    "name" : "측면에서 공격했을 때\n크리티컬 확률이 원래의 [ML:EnhanceParam paramtype=2 ]%만큼 상승"
+  }, {
+    "$id" : 414,
+    "label" : "<9AC78239>",
+    "style" : 79,
+    "name" : "후방에서 공격했을 때\n크리티컬 확률이 원래의 [ML:EnhanceParam paramtype=2 ]%만큼 상승"
+  }, {
+    "$id" : 415,
+    "label" : "<D64D8406>",
+    "style" : 79,
+    "name" : "일정 범위 내의 빈사 상태 아군이 받는\n공격을 대신 받고 받는 대미지 [ML:EnhanceParam paramtype=2 ]% 감소"
+  }, {
+    "$id" : 416,
+    "label" : "<E9AEE9FB>",
+    "style" : 79,
+    "name" : "일정 범위 내의 아군이 공격받았을 때\n적에게 공격력의 [ML:EnhanceParam paramtype=2 ]%만큼 대미지를 준다"
+  }, {
+    "$id" : 417,
+    "label" : "<68BC7E61>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 418,
+    "label" : "<FCAA134F>",
+    "style" : 79,
+    "name" : "필드의 효과 범위・소"
+  }, {
+    "$id" : 419,
+    "label" : "<CB093835>",
+    "style" : 79,
+    "name" : "필드의 효과 범위・중"
+  }, {
+    "$id" : 420,
+    "label" : "<6502D5FC>",
+    "style" : 79,
+    "name" : "필드의 효과 범위・대"
+  }, {
+    "$id" : 421,
+    "label" : "<CD295DE8>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 422,
+    "label" : "<1CFAA6F7>",
+    "style" : 79,
+    "name" : "인터링크 레벨 3일 때 공격 범위가\n적 전체로 확장되며 적을 브레이크한다"
+  }, {
+    "$id" : 423,
+    "label" : "<69F1C117>",
+    "style" : 79,
+    "name" : "인터링크 레벨 3일 때 공격 범위가\n적 전체로 확장되며 적을 다운시킨다"
+  }, {
+    "$id" : 424,
+    "label" : "<3D5686E8>",
+    "style" : 79,
+    "name" : "인터링크 레벨 3일 때 공격 범위가 적\n전체로 확장되며 적을 라이징 상태로 만든다"
+  }, {
+    "$id" : 425,
+    "label" : "<6C479D53>",
+    "style" : 79,
+    "name" : "인터링크 레벨 3일 때 공격 범위가\n적 전체로 확장되며 적을 스매시한다"
+  }, {
+    "$id" : 426,
+    "label" : "<3BA40FAA>",
+    "style" : 79,
+    "name" : "인터링크 레벨 3일 때 공격 범위가\n적 전체로 확장되며 적을 스턴시킨다"
+  }, {
+    "$id" : 427,
+    "label" : "<C42BBAD5>",
+    "style" : 79,
+    "name" : "인터링크 레벨 3일 때 공격 범위가\n적 전체로 확장되며 적을 버스트한다"
+  }, {
+    "$id" : 428,
+    "label" : "<A31F3EC2>",
+    "style" : 79,
+    "name" : "퀵 무브 중 회피율이\n원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승"
+  }, {
+    "$id" : 429,
+    "label" : "<2A8DD748>",
+    "style" : 79,
+    "name" : "퀵 무브에서 아츠를 사용했을 때\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 430,
+    "label" : "<9BF0ABE1>",
+    "style" : 79,
+    "name" : "퀵 무브 실행 시 [ML:EnhanceParam paramtype=1 ]M 이내에 있는 적에게\n공격력의 [ML:EnhanceParam paramtype=2 ]%만큼 대미지를 준다"
+  }, {
+    "$id" : 431,
+    "label" : "<49C6EF96>",
+    "style" : 79,
+    "name" : "인터링크 레벨 상승이 [ML:EnhanceParam paramtype=1 ]% 빨라진다"
+  }, {
+    "$id" : 432,
+    "label" : "<EB58D375>",
+    "style" : 79,
+    "name" : "아군을 구조했을 때\n내 아츠의 리캐스트가 [ML:EnhanceParam paramtype=1 ]% 회복된다"
+  }, {
+    "$id" : 433,
+    "label" : "<818271B7>",
+    "style" : 79,
+    "name" : "마스터 아츠 리캐스트가\n[ML:EnhanceParam paramtype=1 ]% 찬 상태에서 전투 시작"
+  }, {
+    "$id" : 434,
+    "label" : "<9A497F53>",
+    "style" : 79,
+    "name" : "우로보로스 파워 리캐스트가\n[ML:EnhanceParam paramtype=1 ]% 찬 상태에서 전투 시작"
+  }, {
+    "$id" : 435,
+    "label" : "<2C79A628>",
+    "style" : 79,
+    "name" : "롤이 디펜더가 된다\n높은 HP로 적의 공격을 버텨 낸다"
+  }, {
+    "$id" : 436,
+    "label" : "<4923D77A>",
+    "style" : 79,
+    "name" : "롤이 디펜더가 된다\n적의 공격을 잘 회피한다"
+  }, {
+    "$id" : 437,
+    "label" : "<8B7CD055>",
+    "style" : 79,
+    "name" : "롤이 어태커가 된다\n공격력이 높고 명중이 살짝 낮다"
+  }, {
+    "$id" : 438,
+    "label" : "<DA48A359>",
+    "style" : 79,
+    "name" : "롤이 어태커가 된다\n명중과 회피가 뛰어난 밸런스 타입"
+  }, {
+    "$id" : 439,
+    "label" : "<ADC1695A>",
+    "style" : 79,
+    "name" : "롤이 힐러가 된다\n높은 회복력으로 아군을 지원할 수 있다"
+  }, {
+    "$id" : 440,
+    "label" : "<4647D22B>",
+    "style" : 79,
+    "name" : "롤이 힐러가 된다\n평균적인 능력을 지닌 올 라운더"
+  }, {
+    "$id" : 441,
+    "label" : "<8E339D69>",
+    "style" : 79,
+    "name" : "클래스 적성이 상승한다"
+  }, {
+    "$id" : 442,
+    "label" : "<04B1559D>",
+    "style" : 79,
+    "name" : "아츠 팔레트에 세팅할 수 있는\n위치 특효 아츠의 수 [ML:EnhanceParam paramtype=1 ]개 증가"
+  }, {
+    "$id" : 443,
+    "label" : "<FA86ACEC>",
+    "style" : 79,
+    "name" : "아츠 팔레트에 세팅할 수 있는\n필드 아츠의 수 [ML:EnhanceParam paramtype=1 ]개 증가"
+  }, {
+    "$id" : 444,
+    "label" : "<8BD50345>",
+    "style" : 79,
+    "name" : "아츠를 아츠로 캔슬했을 때 발생하는\n히트 게이지의 증가량이 감소"
+  }, {
+    "$id" : 445,
+    "label" : "<15949C8E>",
+    "style" : 79,
+    "name" : "아츠를 아츠로 캔슬할 수 있다\n추가로 아츠로 주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 446,
+    "label" : "<829BC283>",
+    "style" : 79,
+    "name" : "아츠를 아츠로 캔슬할 수 있다\n단, 히트 게이지가 상승한다"
+  }, {
+    "$id" : 447,
+    "label" : "<A288F765>",
+    "style" : 79,
+    "name" : "일정 범위 내의 아군이 받는 공격을\n[ML:EnhanceParam paramtype=2 ]% 확률로 흡수한다"
+  }, {
+    "$id" : 448,
+    "label" : "<69B80C1B>",
+    "style" : 79,
+    "name" : "모든 캐릭터의 TP가 [ML:EnhanceParam paramtype=1 ] 상승"
+  }, {
+    "$id" : 449,
+    "label" : "<2505B0E4>",
+    "style" : 79,
+    "name" : "모든 캐릭터의 TP가 무작위로 [ML:EnhanceParam paramtype=1 ]~[ML:EnhanceParam paramtype=2 ] 상승"
+  }, {
+    "$id" : 450,
+    "label" : "<CBC0CA40>",
+    "style" : 79,
+    "name" : "체인 어택을 발동할 때 TP가 [ML:EnhanceParam paramtype=1 ] 상승"
+  }, {
+    "$id" : 451,
+    "label" : "<5C82B517>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 452,
+    "label" : "<4E881815>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 453,
+    "label" : "<236EE105>",
+    "style" : 79,
+    "name" : "첫 번째 순서가 됐을 때 TP×150%"
+  }, {
+    "$id" : 454,
+    "label" : "<6A2775A6>",
+    "style" : 79,
+    "name" : "첫 번째 순서가 됐을 때 TP×150%"
+  }, {
+    "$id" : 455,
+    "label" : "<34C30D19>",
+    "style" : 79,
+    "name" : "선택됐을 때 다음에 행동하는 캐릭터의\nTP×125% ※이 오더 중에만 유효"
+  }, {
+    "$id" : 456,
+    "label" : "<4B64FC6F>",
+    "style" : 79,
+    "name" : "선택됐을 때 다음에 행동하는 캐릭터의\nTP×125% ※이 오더 중에만 유효"
+  }, {
+    "$id" : 457,
+    "label" : "<9C6C5DA3>",
+    "style" : 79,
+    "name" : "자신이 오더를 달성하면\n반드시 BRAVO가 된다"
+  }, {
+    "$id" : 458,
+    "label" : "<EAB6DD3A>",
+    "style" : 79,
+    "name" : "자신이 오더를 달성하면\n반드시 BRAVO가 된다"
+  }, {
+    "$id" : 459,
+    "label" : "<B1804D75>",
+    "style" : 79,
+    "name" : "선택됐을 때 자신의 TP×100%만큼 미오의\nTP 증가(미오가 행동 가능한 경우, 최대 99)"
+  }, {
+    "$id" : 460,
+    "label" : "<AB1C1870>",
+    "style" : 79,
+    "name" : "첫 번째 순서가 됐을 때 TP×200%\n단, 복귀 시 TP는 선택 전으로 되돌아간다"
+  }, {
+    "$id" : 461,
+    "label" : "<151DFE26>",
+    "style" : 79,
+    "name" : "첫 번째 순서가 됐을 때 TP×200%\n단, 복귀 시 TP는 선택 전으로 되돌아간다"
+  }, {
+    "$id" : 462,
+    "label" : "<01D91606>",
+    "style" : 79,
+    "name" : "자신이 오더를 달성했을 때 가장 TP가 높은\n캐릭터의 TP를 [ML:EnhanceParam paramtype=1 ] 상승시킨 후 복귀시킨다"
+  }, {
+    "$id" : 463,
+    "label" : "<44C6B89A>",
+    "style" : 79,
+    "name" : "자신이 오더를 달성했을 때 가장 TP가 높은\n캐릭터의 TP를 [ML:EnhanceParam paramtype=1 ] 상승시킨 후 복귀시킨다"
+  }, {
+    "$id" : 464,
+    "label" : "<CDB02C55>",
+    "style" : 79,
+    "name" : "자신이 오더를 달성했을 때\n자신 이외의 캐릭터를 전부 복귀시킨다"
+  }, {
+    "$id" : 465,
+    "label" : "<D8C4E8D5>",
+    "style" : 79,
+    "name" : "자신이 오더를 달성했을 때\n자신 이외의 캐릭터를 전부 복귀시킨다"
+  }, {
+    "$id" : 466,
+    "label" : "<D8B89E90>",
+    "style" : 79,
+    "name" : "자신의 행동으로 오더가 100% 이상이 되어도\n달성되지 않고 다음 캐릭터를 선택할 수 있다"
+  }, {
+    "$id" : 467,
+    "label" : "<9C5F69C2>",
+    "style" : 79,
+    "name" : "자신의 행동으로 오더가 100% 이상이 되어도\n달성되지 않고 다음 캐릭터를 선택할 수 있다"
+  }, {
+    "$id" : 468,
+    "label" : "<0FE50271>",
+    "style" : 79,
+    "name" : "선택됐을 때 적이 기계일 경우에는\nTP가 [ML:EnhanceParam paramtype=2 ] 상승한다"
+  }, {
+    "$id" : 469,
+    "label" : "<608CB22C>",
+    "style" : 79,
+    "name" : "선택됐을 때 적이 기계일 경우에는\nTP가 [ML:EnhanceParam paramtype=2 ] 상승한다"
+  }, {
+    "$id" : 470,
+    "label" : "<9DF3E002>",
+    "style" : 79,
+    "name" : "자신이 복귀했을 때 TP가 [ML:EnhanceParam paramtype=1 ] 상승한다"
+  }, {
+    "$id" : 471,
+    "label" : "<33BC21F9>",
+    "style" : 79,
+    "name" : "자신이 복귀했을 때 TP가 [ML:EnhanceParam paramtype=1 ] 상승한다"
+  }, {
+    "$id" : 472,
+    "label" : "<6E5C449C>",
+    "style" : 79,
+    "name" : "선택됐을 때 자신을 제외한\n행동 가능한 캐릭터의 TP가 [ML:EnhanceParam paramtype=1 ] 상승"
+  }, {
+    "$id" : 473,
+    "label" : "<AF12D6B5>",
+    "style" : 79,
+    "name" : "선택됐을 때 자신을 제외한\n행동 가능한 캐릭터의 TP가 [ML:EnhanceParam paramtype=1 ] 상승"
+  }, {
+    "$id" : 474,
+    "label" : "<548BA6BA>",
+    "style" : 79,
+    "name" : "첫 번째 순서가 됐을 때 TP×125%\n추가로 공격이 모두 크리티컬이 된다"
+  }, {
+    "$id" : 475,
+    "label" : "<A1B5DECE>",
+    "style" : 79,
+    "name" : "첫 번째 순서가 됐을 때 TP×125%\n추가로 공격이 모두 크리티컬이 된다"
+  }, {
+    "$id" : 476,
+    "label" : "<D66CC4B2>",
+    "style" : 79,
+    "name" : "선택됐을 때 대미지 배율이 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 477,
+    "label" : "<550A488E>",
+    "style" : 79,
+    "name" : "선택됐을 때 대미지 배율이 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 478,
+    "label" : "<789B8E4C>",
+    "style" : 79,
+    "name" : "자신이 오더를 달성하면 반드시 AMAZING이\n되지만 이 체인 어택 중에는 중복되지 않는다"
+  }, {
+    "$id" : 479,
+    "label" : "<C3586FC3>",
+    "style" : 79,
+    "name" : "자신이 오더를 달성하면 반드시 AMAZING이\n되지만 이 체인 어택 중에는 중복되지 않는다"
+  }, {
+    "$id" : 480,
+    "label" : "<8E41B392>",
+    "style" : 79,
+    "name" : "자신이 복귀했을 때\nTP가 [ML:EnhanceParam paramtype=1 ] 상승 혹은 [ML:EnhanceParam paramtype=2 ] 감소"
+  }, {
+    "$id" : 481,
+    "label" : "<FC005873>",
+    "style" : 79,
+    "name" : "자신이 복귀했을 때\nTP가 [ML:EnhanceParam paramtype=1 ] 상승 혹은 [ML:EnhanceParam paramtype=2 ] 감소"
+  }, {
+    "$id" : 482,
+    "label" : "<9E749F5A>",
+    "style" : 79,
+    "name" : "선택됐을 때 자신을 제외한\n행동 가능한 캐릭터의 TP×120%"
+  }, {
+    "$id" : 483,
+    "label" : "<FC1E11AD>",
+    "style" : 79,
+    "name" : "선택됐을 때 자신을 제외한\n행동 가능한 캐릭터의 TP×120%"
+  }, {
+    "$id" : 484,
+    "label" : "<882C8620>",
+    "style" : 79,
+    "name" : "자신이 오더를 달성했을 때 TP×150%"
+  }, {
+    "$id" : 485,
+    "label" : "<95E00756>",
+    "style" : 79,
+    "name" : "자신이 오더를 달성했을 때 TP×150%"
+  }, {
+    "$id" : 486,
+    "label" : "<C0519FC2>",
+    "style" : 79,
+    "name" : "선택됐을 때 일반적인 복귀 인원과 별개로\n반드시 자신이 추가로 복귀한다"
+  }, {
+    "$id" : 487,
+    "label" : "<9BE28594>",
+    "style" : 79,
+    "name" : "선택됐을 때 일반적인 복귀 인원과 별개로\n반드시 자신이 추가로 복귀한다"
+  }, {
+    "$id" : 488,
+    "label" : "<DA315257>",
+    "style" : 79,
+    "name" : "참가한 오더가 달성됐을 때\n상승하는 대미지 배율이 1.5배가 된다"
+  }, {
+    "$id" : 489,
+    "label" : "<6321DDCF>",
+    "style" : 79,
+    "name" : "참가한 오더가 달성됐을 때\n상승하는 대미지 배율이 1.5배가 된다"
+  }, {
+    "$id" : 490,
+    "label" : "<88B0D207>",
+    "style" : 79,
+    "name" : "공격을 회피했을 때 [ML:EnhanceParam paramtype=3 ]% 확률로\nHP가 [ML:EnhanceParam paramtype=1 ]% 회복된다"
+  }, {
+    "$id" : 491,
+    "label" : "<27F4D308>",
+    "style" : 79,
+    "name" : "공격을 회피했을 때 모든 아츠의 리캐스트가\n[ML:EnhanceParam paramtype=1 ]% 회복된다 ※탤런트 아츠 제외"
+  }, {
+    "$id" : 492,
+    "label" : "<CA0C3817>",
+    "style" : 79,
+    "name" : "자신이 전투 불능 상태가 될 때마다\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 493,
+    "label" : "<AC31AE04>",
+    "style" : 79,
+    "name" : "공격을 회피하고 자신이 전투 불능 상태가 될\n때마다 주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 494,
+    "label" : "<1D8B0D0B>",
+    "style" : 79,
+    "name" : "자신이 전투 불능 상태가 될 때마다\n리캐스트 증가량 [ML:EnhanceParam paramtype=1 ]% 상승(최대 [ML:EnhanceParam paramtype=3 ]%)"
+  }, {
+    "$id" : 495,
+    "label" : "<9FBDCF1E>",
+    "style" : 79,
+    "name" : "자신이 오더를 달성했을 때 가장 TP가 낮은\n캐릭터의 TP를 [ML:EnhanceParam paramtype=1 ] 상승시킨 후 복귀시킨다"
+  }, {
+    "$id" : 496,
+    "label" : "<520D1C80>",
+    "style" : 79,
+    "name" : "자신이 오더를 달성했을 때 가장 TP가 낮은\n캐릭터의 TP를 [ML:EnhanceParam paramtype=1 ] 상승시킨 후 복귀시킨다"
+  }, {
+    "$id" : 497,
+    "label" : "<259F6678>",
+    "style" : 79,
+    "name" : "공격을 회피하고 아츠의 어그로 획득량이\n[ML:EnhanceParam paramtype=1 ]% 상승하지만, 크리티컬 확률이 낮다"
+  }, {
+    "$id" : 498,
+    "label" : "<0CF8E3C0>",
+    "style" : 79,
+    "name" : "회피율이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼 상승\n공격할 때 획득하는 어그로 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 499,
+    "label" : "<DE112C03>",
+    "style" : 79,
+    "name" : "일정 범위 내의 아군이 공격받았을 때\n무작위 아츠 1개의 리캐스트 [ML:EnhanceParam paramtype=2 ]% 회복"
+  }, {
+    "$id" : 500,
+    "label" : "<A4205BD0>",
+    "style" : 79,
+    "name" : "크리티컬이 발생했을 때 주위 아군의 HP 회복\n최대 회복량은 회복력의 [ML:EnhanceParam paramtype=3 ]%"
+  }, {
+    "$id" : 501,
+    "label" : "<BC4A5FFE>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 502,
+    "label" : "<4D18CECE>",
+    "style" : 79,
+    "name" : "아군 전체의 크리티컬 확률 [ML:EnhanceParam paramtype=1 ]% 상승\n대미지 보너스 [ML:EnhanceParam paramtype=2 ]% 상승(중첩 불가)"
+  }, {
+    "$id" : 503,
+    "label" : "<2DC06672>",
+    "style" : 79,
+    "name" : "필드 효과 범위 안에 있을 때\n주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 504,
+    "label" : "<C7C16005>",
+    "style" : 79,
+    "name" : "필드 설치 상한 수가 3에서 4로 증가\n(중첩 불가)"
+  }, {
+    "$id" : 505,
+    "label" : "<9586EFC5>",
+    "style" : 79,
+    "name" : "선택됐을 때 자신을 제외한 행동 가능 캐릭터\nTP [ML:EnhanceParam paramtype=1 ] 상승 / 자신의 TP [ML:EnhanceParam paramtype=2 ] 감소"
+  }, {
+    "$id" : 506,
+    "label" : "<EFB95786>",
+    "style" : 79,
+    "name" : "선택됐을 때 자신을 제외한 행동 가능 캐릭터\nTP [ML:EnhanceParam paramtype=1 ] 상승 / 자신의 TP [ML:EnhanceParam paramtype=2 ] 감소"
+  }, {
+    "$id" : 507,
+    "label" : "<B1E3AE21>",
+    "style" : 79,
+    "name" : "최대 HP, 공격력, 회복력이 원래의 [ML:EnhanceParam paramtype=1 ]%만큼\n상승하고, 퀵 무브 시 꽃잎이 휘날린다"
+  }, {
+    "$id" : 508,
+    "label" : "<EE5CEA1C>",
+    "style" : 79,
+    "name" : "파티 전체가 주는 대미지 [ML:EnhanceParam paramtype=1 ]% 감소\n받는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 509,
+    "label" : "<E829ED2A>",
+    "style" : 79,
+    "name" : "유니언 콤보로 주는 대미지 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 510,
+    "label" : "<4D3F4379>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 511,
+    "label" : "<E472FEB3>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 512,
+    "label" : "<E8340395>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 513,
+    "label" : "<A54D5E63>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 514,
+    "label" : "<62D6C1CA>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 515,
+    "label" : "<12E49F4B>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 516,
+    "label" : "<8211DE64>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 517,
+    "label" : "<F5A8E03C>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 518,
+    "label" : "<5F842B29>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 519,
+    "label" : "<014C9C3F>",
+    "style" : 79,
+    "name" : "공격이 히트했을 때\n추가로 작열 부여"
+  }, {
+    "$id" : 520,
+    "label" : "<619315DA>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 521,
+    "label" : "<0B9CC60F>",
+    "style" : 79,
+    "name" : "탤런트 아츠가 히트했을 때\n모든 아츠의 리캐스트가 [ML:EnhanceParam paramtype=1 ]% 회복된다"
+  }, {
+    "$id" : 522,
+    "label" : "<963A1878>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 523,
+    "label" : "<F92B6EBC>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 524,
+    "label" : "<46585D86>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 525,
+    "label" : "<C05EF926>",
+    "style" : 79,
+    "name" : "후방 공격으로 배틀 시작 시\n파티 전체에게 리캐스트 업을 부여한다"
+  }, {
+    "$id" : 526,
+    "label" : "<A466B856>",
+    "style" : 79,
+    "name" : "측면 공격으로 배틀 시작 시\n파티 전체에게 대타를 부여한다"
+  }, {
+    "$id" : 527,
+    "label" : "<3F1C391A>",
+    "style" : 79,
+    "name" : "측면 공격으로 배틀 시작 시\n파티 전체에게 대미지 아머를 부여한다"
+  }, {
+    "$id" : 528,
+    "label" : "<E6E43177>",
+    "style" : 79,
+    "name" : "후방 공격으로 배틀 시작 시\n파티 전체에게 크리티컬 업을 부여한다"
+  }, {
+    "$id" : 529,
+    "label" : "<8A5866E6>",
+    "style" : 79,
+    "name" : "측면 공격으로 배틀 시작 시\n적에게 라이징을 부여한다"
+  }, {
+    "$id" : 530,
+    "label" : "<99BA3524>",
+    "style" : 79,
+    "name" : "후방 공격으로 배틀 시작 시\n일정 범위 내의 적에게 브레이크를 부여한다"
+  }, {
+    "$id" : 531,
+    "label" : "<C8A399CF>",
+    "style" : 79,
+    "name" : "안개수에게 주는 대미지 [ML:EnhanceParam paramtype=2 ]% 상승"
+  }, {
+    "$id" : 532,
+    "label" : "<48BA2127>",
+    "style" : 79,
+    "name" : "적의 약점을 공격했을 때\n대미지 보너스 [ML:EnhanceParam paramtype=1 ]% 상승"
+  }, {
+    "$id" : 533,
+    "label" : "<E0B342F9>",
+    "style" : 79,
+    "name" : "첫 번째 순서가 됐을 때 TP×130%\n추가로 공격이 모두 크리티컬이 된다"
+  }, {
+    "$id" : 534,
+    "label" : "<F7D68247>",
+    "style" : 79,
+    "name" : "유니언 필살기 리캐스트가\n[ML:EnhanceParam paramtype=1 ]% 찬 상태에서 전투 시작"
+  }, {
+    "$id" : 535,
+    "label" : "<F10A15EA>",
+    "style" : 79,
+    "name" : "파티가 받는 공격을 일정 시간 무효화한다\n효과 시간: 15초 / 사용 가능 횟수: 1회"
+  }, {
+    "$id" : 536,
+    "label" : "<BAD64C5F>",
+    "style" : 79,
+    "name" : "파티가 받는 공격을 일정 시간 무효화한다\n효과 시간: 20초 / 사용 가능 횟수: 1회"
+  }, {
+    "$id" : 537,
+    "label" : "<DA31D1E3>",
+    "style" : 79,
+    "name" : "파티가 받는 공격을 일정 시간 무효화한다\n효과 시간: 15초 / 사용 가능 횟수: 2회"
+  } ]
+}

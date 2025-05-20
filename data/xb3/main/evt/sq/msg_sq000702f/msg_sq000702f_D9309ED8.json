@@ -1,0 +1,286 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq000702_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미네 씨?\n우린 새먼 씨 심부름으로 왔어"
+  }, {
+    "$id" : 2,
+    "label" : "sq000702_msg0002",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래? 무슨 일로 왔니?"
+  }, {
+    "$id" : 3,
+    "label" : "sq000702_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "급하게 대량의 연료가 필요한데……"
+  }, {
+    "$id" : 4,
+    "label" : "sq000702_msg0004",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서론은 됐어"
+  }, {
+    "$id" : 5,
+    "label" : "sq000702_msg0005",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보나 마나 새먼이\n또 터무니없는 소릴 한 거지?"
+  }, {
+    "$id" : 6,
+    "label" : "sq000702_msg0006",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건……"
+  }, {
+    "$id" : 7,
+    "label" : "sq000702_msg0007",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗, 알 만해\n그래서 뭐가 필요하대?"
+  }, {
+    "$id" : 8,
+    "label" : "sq000702_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에테르 실린더 300개……"
+  }, {
+    "$id" : 9,
+    "label" : "sq000702_msg0009",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어이쿠, 많기도 해라"
+  }, {
+    "$id" : 10,
+    "label" : "sq000702_msg0010",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어\n마련해 줄게"
+  }, {
+    "$id" : 11,
+    "label" : "sq000702_msg0011",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이렇게 말해 주고 싶지만\n요즘 들어 \"보수파\" 녀석들이\n성가시게 굴어서 말이야"
+  }, {
+    "$id" : 12,
+    "label" : "sq000702_msg0012",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 지금 여유분까지\n확보하진 못하는 상황이야"
+  }, {
+    "$id" : 13,
+    "label" : "sq000702_msg0013",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보수파라면……"
+  }, {
+    "$id" : 14,
+    "label" : "sq000702_msg0014",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "싸움을 환영하지 않는 자들을 말하는 거였지"
+  }, {
+    "$id" : 15,
+    "label" : "sq000702_msg0015",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티도 완전히 단결된 조직이 아니라는 건\n어렴풋이 알고 있나 보네"
+  }, {
+    "$id" : 16,
+    "label" : "sq000702_msg0016",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바깥세상의 전쟁을 방관하고\n뫼비우스와도 싸우지 않고\n현상 유지에 힘쓰며……"
+  }, {
+    "$id" : 17,
+    "label" : "sq000702_msg0017",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티를 견고히 수비해야 한다고\n생각하는 보수적인 사상을 가진\n사람들이 제법 있어"
+  }, {
+    "$id" : 18,
+    "label" : "sq000702_msg0018",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 이야기가 샜네\n그래서 에테르 실린더 말인데……"
+  }, {
+    "$id" : 19,
+    "label" : "sq000702_msg0019",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리한테 주기 싫어서\n필요 이상으로 확보해 둔 몫이 있을 거야\n그걸 받아 가면 돼"
+  }, {
+    "$id" : 20,
+    "label" : "sq000702_msg0020",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어?\n하지만 좀 전에 사이가 나쁘다고……"
+  }, {
+    "$id" : 21,
+    "label" : "sq000702_msg0021",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그쪽에도 말이 통하는\n애가 있거든"
+  }, {
+    "$id" : 22,
+    "label" : "sq000702_msg0022",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇군, 그쪽 파벌도\n결속이 단단하지는 않다는 건가"
+  }, {
+    "$id" : 23,
+    "label" : "sq000702_msg0023",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 그 사람을 만나 볼게"
+  }, {
+    "$id" : 24,
+    "label" : "sq000702_msg0024",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 해"
+  }, {
+    "$id" : 25,
+    "label" : "sq000702_msg0025",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이름은 미요리\n물자 보관고를 관리하는 애야"
+  }, {
+    "$id" : 26,
+    "label" : "sq000702_msg0026",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『노폰이 필요하대모』라고 하면\n바로 말이 통할 거야"
+  }, {
+    "$id" : 27,
+    "label" : "sq000702_msg0027",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『노폰이 필요하대모』……?"
+  }, {
+    "$id" : 28,
+    "label" : "sq000702_msg0028",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물자 보관고는\n시티 바깥에 있어\n조심해서 갔다 와"
+  }, {
+    "$id" : 29,
+    "label" : "sq000702_msg0029",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어, 고마워"
+  } ]
+}

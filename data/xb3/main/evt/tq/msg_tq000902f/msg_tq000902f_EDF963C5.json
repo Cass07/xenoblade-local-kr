@@ -1,0 +1,196 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq000902_msg0001",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지반은 안정된 상태였을 텐데\n대체 무슨 일이……"
+  }, {
+    "$id" : 2,
+    "label" : "tq000902_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐, 저길 봐"
+  }, {
+    "$id" : 3,
+    "label" : "tq000902_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기가 무너진 거구나"
+  }, {
+    "$id" : 4,
+    "label" : "tq000902_msg0004",
+    "talker" : "6",
+    "talkattr" : 33025,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗, 몬스터가 있어!"
+  }, {
+    "$id" : 5,
+    "label" : "tq000902_msg0005",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에테르 농도가 짙은 곳에서 살던 녀석들이\n여기까지 나온 걸지도 몰라"
+  }, {
+    "$id" : 6,
+    "label" : "tq000902_msg0006",
+    "talker" : "1",
+    "talkattr" : 33025,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빨리 가자!"
+  }, {
+    "$id" : 7,
+    "label" : "tq000902_msg0007",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기서 바로 갈 수 있는 곳이 아니야\n돌아서 가야겠는데……"
+  }, {
+    "$id" : 8,
+    "label" : "tq000902_msg0008",
+    "talker" : "5",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레브니스가 있으니까\n그걸로 단숨에 끝내 버릴 순 없어?"
+  }, {
+    "$id" : 9,
+    "label" : "tq000902_msg0009",
+    "talker" : "vc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레브니스를 기동하기 위해선\n각 부대 대장의 허가가 필요해"
+  }, {
+    "$id" : 10,
+    "label" : "tq000902_msg0011",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 긴급한 상황에서\n무슨 그런 태평한 소리를……"
+  }, {
+    "$id" : 11,
+    "label" : "tq000902_msg0012",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희는 여기서 대기해라\n2차 피해를 생각해서 우리만 가겠다"
+  }, {
+    "$id" : 12,
+    "label" : "tq000902_msg0013",
+    "talker" : "vc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 군무장님……"
+  }, {
+    "$id" : 13,
+    "label" : "tq000902_msg0014",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갱도 입구 보강을 마치면\n일부 철수한다"
+  }, {
+    "$id" : 14,
+    "label" : "tq000902_msg0015",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나머지는 위생 부대와 연계하여\n부상자를 치료하도록"
+  }, {
+    "$id" : 15,
+    "label" : "tq000902_msg0016",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 명령은 특별 조치다\n책임은 내가 질 테니\n각 부대에 그렇게 전달해라"
+  }, {
+    "$id" : 16,
+    "label" : "tq000902_msg0017",
+    "talker" : "vc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네!"
+  }, {
+    "$id" : 17,
+    "label" : "tq000902_msg0018",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 너희는……"
+  }, {
+    "$id" : 18,
+    "label" : "tq000902_msg0019",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮습니다. 맡겨 주세요"
+  }, {
+    "$id" : 19,
+    "label" : "tq000902_msg0020",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래\n미안하지만 부탁하지"
+  } ]
+}

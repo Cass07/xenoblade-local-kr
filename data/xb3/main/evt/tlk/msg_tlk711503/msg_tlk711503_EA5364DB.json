@@ -1,0 +1,43 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk711503_msg0001",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "외부인을 시티에 끌어들이면\n위험이 늘어날 뿐이거늘……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk711503_msg0002",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "반담과 오츠가 책임을 진다고 하더라도\n문제가 생긴 뒤에 대처해 봤자\n이미 늦는다는 걸 단단히 지적해 둬야겠군"
+  } ]
+}

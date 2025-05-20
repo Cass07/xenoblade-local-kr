@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011803_msg0001a",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이즈노메~! 카무키~!"
+  }, {
+    "$id" : 2,
+    "label" : "tq011803_msg0001b",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들~! 어딨어~?"
+  }, {
+    "$id" : 3,
+    "label" : "tq011803_msg0002",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으…… 이렇게 중요할 때\n미아가 되다니……"
+  }, {
+    "$id" : 4,
+    "label" : "tq011803_msg0003",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩌지, 이대로 가다간……"
+  }, {
+    "$id" : 5,
+    "label" : "tq011803_msg0004",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니야…… 여기서 멈췄다간\n더더욱 형편없어질 거야!"
+  }, {
+    "$id" : 6,
+    "label" : "tq011803_msg0005",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 미오 선배처럼\n리더로서 모범을 보여야지!"
+  }, {
+    "$id" : 7,
+    "label" : "tq011803_msg0006",
+    "talker" : "kY1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk111603_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐, 요즘 뭐 하고 지내?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk111603_msg0002",
+    "talker" : "yV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요즘엔 레브니스 정비 방법이나\n조종 방법을 배우고 있어\n세계를 구경하러 돌아다니려면 필수잖아?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk111603_msg0003",
+    "talker" : "yV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아이리스랑 만나기로 약속했으니까\n빨리 익혀서 만나러 가야지"
+  }, {
+    "$id" : 4,
+    "label" : "tlk111603_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "약속 잘 지켜\n아이리스는 화나면 엄청 무섭거든"
+  }, {
+    "$id" : 5,
+    "label" : "tlk111603_msg0005",
+    "talker" : "yV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 그래?! 의외네……\n화내면 어떤 표정을 지을지 궁금하긴 하다"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk510802_msg0001",
+    "talker" : "vf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토도로키라는 사람의 연주를\n공원에서 들은 적이 있어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk510802_msg0002",
+    "talker" : "vf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근데 환송자의 피리 말고\n다른 물건으로도 연주를 하더라고……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk510802_msg0003",
+    "talker" : "vf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 모르는 것투성이야……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk510802_msg0004",
+    "talker" : "vf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 그 점이 흥미롭고 재밌어……\n시티로 오길 참 잘한 것 같아"
+  }, {
+    "$id" : 5,
+    "label" : "tlk510802_msg0005",
+    "talker" : "vf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 다툴 때도 있긴 하지만 말이야"
+  } ]
+}

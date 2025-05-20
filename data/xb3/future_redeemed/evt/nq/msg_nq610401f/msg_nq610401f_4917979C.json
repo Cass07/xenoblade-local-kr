@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<4BC1304C>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기다렸지?\n이쪽은 언제든지 좋아"
+  }, {
+    "$id" : 2,
+    "label" : "<DFC9E4E4>",
+    "talker" : "qq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모, 모니터링 시작하겠습니다"
+  }, {
+    "$id" : 3,
+    "label" : "<44D59120>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋았어~\n가볍게 운동하는 셈 치고 상대해 볼까?"
+  }, {
+    "$id" : 4,
+    "label" : "<AF2727E3>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오토마톤, 출격!"
+  } ]
+}

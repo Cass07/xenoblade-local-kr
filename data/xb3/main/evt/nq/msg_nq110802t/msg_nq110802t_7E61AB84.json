@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq110802_msg0001",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"기계 장갑 카르테기아\"는\n라비아 사구도에 있다고 합니다!"
+  }, {
+    "$id" : 2,
+    "label" : "nq110802_msg0002",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아! 당부드리건대 부품까지\n같이 부수지 않도록 주의해 주세요!"
+  }, {
+    "$id" : 3,
+    "label" : "nq110802_msg0003",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안 그러면! 제가 딘젤 반장님에게\n죽는 것보다 더 끔찍한 꼴을 당하거든요!\n꼭! 부탁드릴게요!"
+  } ]
+}

@@ -1,0 +1,232 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq000107_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부탁한 물건은 전부 모았어"
+  }, {
+    "$id" : 2,
+    "label" : "sq000107_msg0002",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 방금 막 확인한 참이야\n정말 고마워"
+  }, {
+    "$id" : 3,
+    "label" : "sq000107_msg0003",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노아랑 너희들 덕분에\n필요한 물건을 전부 마련할 수 있을 것 같아"
+  }, {
+    "$id" : 4,
+    "label" : "sq000107_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래?\n도움이 됐다니 다행이네"
+  }, {
+    "$id" : 5,
+    "label" : "sq000107_msg0005",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번 일은 작전이 끝난 다음에 꼭 보답할게\n그러니 살아서 다시 만나자"
+  }, {
+    "$id" : 6,
+    "label" : "sq000107_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연히 그래야지"
+  }, {
+    "$id" : 7,
+    "label" : "sq000107_msg0007",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 컬렉피디아 카드를 안 써 봤는데\n보니까 제법 편리하구나"
+  }, {
+    "$id" : 8,
+    "label" : "sq000107_msg0008",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동료들 간에 어떤 물건이 필요한지\n알 수 있어서 꽤 편리해"
+  }, {
+    "$id" : 9,
+    "label" : "sq000107_msg0009",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 모으는\n포춘 클로버만 해도\n쉽게 찾기가 힘든데"
+  }, {
+    "$id" : 10,
+    "label" : "sq000107_msg0010",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "찾아 달라고 등록해 두면\n가지고 있는 녀석이 줄 때도 있고……\n뭐 그런 느낌이야!"
+  }, {
+    "$id" : 11,
+    "label" : "sq000107_msg0011",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고작 풀때기 찾는 데 쓴다고?\n시시하기는"
+  }, {
+    "$id" : 12,
+    "label" : "sq000107_msg0012",
+    "talker" : "3",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐가 어째?!"
+  }, {
+    "$id" : 13,
+    "label" : "sq000107_msg0013",
+    "talker" : "T",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 병사니까\n내일도 살아 있을지 알 수 없지만……"
+  }, {
+    "$id" : 14,
+    "label" : "sq000107_msg0014",
+    "talker" : "T",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "날 아는 누군가가 날 기억하고\n신경 써 준다는 게 참 좋더라"
+  }, {
+    "$id" : 15,
+    "label" : "sq000107_msg0015",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 누가 만들었는지는 몰라도\n정말 좋은 기술이라 생각해"
+  }, {
+    "$id" : 16,
+    "label" : "sq000107_msg0016",
+    "talker" : "T",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보면 너도 가끔 『눈동자』로\n콜로니 9 동료들을 확인하던데?"
+  }, {
+    "$id" : 17,
+    "label" : "sq000107_msg0017",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지"
+  }, {
+    "$id" : 18,
+    "label" : "sq000107_msg0018",
+    "talker" : "T",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 잊지 말고\n매일 확인해 주라고"
+  }, {
+    "$id" : 19,
+    "label" : "sq000107_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하, 하고 있어"
+  }, {
+    "$id" : 20,
+    "label" : "sq000107_msg0020",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "슬슬 집합 장소로 가는 편이 좋겠어모"
+  }, {
+    "$id" : 21,
+    "label" : "sq000107_msg0021",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아 참, 그랬지"
+  }, {
+    "$id" : 22,
+    "label" : "sq000107_msg0022",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 콜로니 9 정문으로\n집합하는 거였지?"
+  }, {
+    "$id" : 23,
+    "label" : "sq000107_msg0023",
+    "talker" : "T",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "출격 준비가 되는 대로 가자"
+  } ]
+}

@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<65D64CC8>",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음……\n필요하다는 건 알겠지만\n안대 쓰고 싸우긴 힘드네……"
+  }, {
+    "$id" : 2,
+    "label" : "<82487588>",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 18890881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 그래, 세나……\n적과의 거리가 가늠이 안 돼서\n가끔 제 실력이 안 나온단 말이지"
+  }, {
+    "$id" : 3,
+    "label" : "<2F5B79F9>",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 뫼비우스의 소굴로 들어가면\n이것만큼 도움 되는 것도 없을 거야"
+  }, {
+    "$id" : 4,
+    "label" : "<59481F3F>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모니카한테 안대를 받기 전까진\n우리가 하는 일은 뫼비우스한테\n죄다 새어 나간 거나 다름없었지"
+  }, {
+    "$id" : 5,
+    "label" : "<0D017DAE>",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 콜로니 4나 람다에서\n기습당한 거야\n검은 안개 속에서는 예외지만……"
+  }, {
+    "$id" : 6,
+    "label" : "<36EB38E3>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다곤 해도 계속 검은 안개 속에\n숨어 있을 순 없는 노릇이잖아"
+  }, {
+    "$id" : 7,
+    "label" : "<B6999D30>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "언제 소멸 현상이 일어날지 모르니까……\n너무 위험해"
+  }, {
+    "$id" : 8,
+    "label" : "<827BE215>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으……\n역시 안대는 꼭 써야겠네……"
+  }, {
+    "$id" : 9,
+    "label" : "<07E2CCBB>",
+    "talker" : "1",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로스트 넘버즈도\n항상 착용하고 있지는 않으니까\n우리도 필요한 순간에만 쓰면 돼"
+  } ]
+}

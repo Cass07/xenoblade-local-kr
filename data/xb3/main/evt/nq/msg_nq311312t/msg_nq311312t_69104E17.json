@@ -1,0 +1,160 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq311312_msg0001",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그게 정말이야?!\n그렇다면 우리도 준비해야겠는걸……"
+  }, {
+    "$id" : 2,
+    "label" : "nq311312_msg0002",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 대접할 메뉴부터 정하고……\n아니지, 가지고 있는 식재료부터\n확인해 봐야 하나……"
+  }, {
+    "$id" : 3,
+    "label" : "nq311312_msg0003",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : ""
+  }, {
+    "$id" : 4,
+    "label" : "nq311312_msg0004",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : ""
+  }, {
+    "$id" : 5,
+    "label" : "nq311312_msg0005",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : ""
+  }, {
+    "$id" : 6,
+    "label" : "nq311312_msg0006",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : ""
+  }, {
+    "$id" : 7,
+    "label" : "nq311312_msg0007",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : ""
+  }, {
+    "$id" : 8,
+    "label" : "nq311312_msg0008",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 부족한 재료는……\n퍼퓸 허브하고 박피 나물\n그리고 속닥속닥 토마토 같은데?"
+  }, {
+    "$id" : 9,
+    "label" : "nq311312_msg0009",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 재료들만 있으면\n나머지는 어떻게든 될 거 같은데……"
+  }, {
+    "$id" : 10,
+    "label" : "nq311312_msg0010",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : ""
+  }, {
+    "$id" : 11,
+    "label" : "nq311312_msg0011",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "재료 쪽은 우리한테 맡겨\n꼭 늦지 않게 준비할게"
+  }, {
+    "$id" : 12,
+    "label" : "nq311312_msg0012",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "살았다, 정말 고마워!\n나는 다른 것들을 준비해 놓을게"
+  }, {
+    "$id" : 13,
+    "label" : "nq311312_msg0013",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다 모으면\n나한테 말해 주겠어?"
+  }, {
+    "$id" : 14,
+    "label" : "nq311312_msg0101",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "퍼퓸 허브하고\n박피 나물……"
+  }, {
+    "$id" : 15,
+    "label" : "nq311312_msg0102",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 속닥속닥 토마토가 있으면\n어떻게든 될 거 같아"
+  } ]
+}

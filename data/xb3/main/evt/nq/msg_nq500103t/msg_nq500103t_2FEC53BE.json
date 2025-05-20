@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<896A0767>",
+    "talker" : "ip1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰 크리스털・홍과\n클래스 습득도를 교환하시겠습니까모?"
+  }, {
+    "$id" : 2,
+    "label" : "<42DD987E>",
+    "talker" : "ip1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "교환해 드렸습니다모\n돕게 되어 영광입니다모!"
+  }, {
+    "$id" : 3,
+    "label" : "<C6A0362C>",
+    "talker" : "ip1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저도 대선인님과 함께\n응원하겠습니다모!"
+  }, {
+    "$id" : 4,
+    "label" : "<5A76E769>",
+    "talker" : "ip1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "습득 가능한 클래스가 없어 보이네요모\n도움이 될 거 같을 때 다시 방문해 주세요모!"
+  } ]
+}

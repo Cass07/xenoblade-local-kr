@@ -1,0 +1,124 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<00FC5CCE>",
+    "talker" : "4",
+    "talkattr" : 33096,
+    "talkattr2" : 23085195,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니 리쿠\n노폰 카라반은\n레브니스를 타고 다니지?"
+  }, {
+    "$id" : 2,
+    "label" : "<91A12691>",
+    "talker" : "XW1",
+    "talkattr" : 33024,
+    "talkattr2" : 14696586,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아모\n갑자기 그건 왜 물어모?"
+  }, {
+    "$id" : 3,
+    "label" : "<23DF96E8>",
+    "talker" : "4",
+    "talkattr" : 33096,
+    "talkattr2" : 32897,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일반적인 레브니스는 콜로니에서\n멀리 떨어진 곳에서는 사용할 수 없어\n에테르 실린더로는 한계가 있으니까"
+  }, {
+    "$id" : 4,
+    "label" : "<BF5815DA>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 카라반은 세계 곳곳에 있잖아\n어떻게 가능한 거지?"
+  }, {
+    "$id" : 5,
+    "label" : "<9C94FA7D>",
+    "talker" : "XW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이유는 간단해모\n카라반의 레브니스는 작고 가볍거든모"
+  }, {
+    "$id" : 6,
+    "label" : "<E56D4EB6>",
+    "talker" : "XW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무기도 싣지 않았고, 웬만해선 싸우지 않아모\n그래서 에테르 소비량이 매우 적은 편이야모"
+  }, {
+    "$id" : 7,
+    "label" : "<2F9EFFB0>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 건가……\n그래서 장기간 사용할 수 있는 거군"
+  }, {
+    "$id" : 8,
+    "label" : "<A7698D7D>",
+    "talker" : "XW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흔히 말하는 친환경이라는 거야모"
+  }, {
+    "$id" : 9,
+    "label" : "<3E0BEC57>",
+    "talker" : "4",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……? 친환경이라니?"
+  }, {
+    "$id" : 10,
+    "label" : "<6EEA4411>",
+    "talker" : "XW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……연비가 좋다는 의미야모"
+  }, {
+    "$id" : 11,
+    "label" : "<BF018333>",
+    "talker" : "4",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇군, 좋은 걸 배웠어\n고마워, 리쿠"
+  } ]
+}

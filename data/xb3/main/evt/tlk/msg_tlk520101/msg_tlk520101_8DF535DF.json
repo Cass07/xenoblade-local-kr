@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520101_msg0001",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 뮤 사람들은\n나한테 맡겨 줘!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520101_msg0002",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직 뭘 하면 좋을지는 모르겠지만\n사정을 아는 건 나뿐이니까……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520101_msg0003",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마시로를 혼자 두진 않을 거야\n이치카가 남긴 것을 나도 함께 짊어지겠어"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk836202_msg0001",
+    "talker" : "Xr1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바루바루와 그레그레가\n너희에 대해 이야기해 줬어~"
+  }, {
+    "$id" : 2,
+    "label" : "tlk836202_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 만났어?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk836202_msg0003",
+    "talker" : "Xr1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응~ 같이 버섯으로 식사했어~"
+  }, {
+    "$id" : 4,
+    "label" : "tlk836202_msg0004",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바깥은 위험하니까\n혼자 나가면 안 돼……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk836202_msg0005",
+    "talker" : "Xr1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네~\n죄송합니다~"
+  } ]
+}

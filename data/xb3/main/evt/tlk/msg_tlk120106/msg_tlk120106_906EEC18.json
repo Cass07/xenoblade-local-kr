@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120106_msg0001",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유니 선배! 이소라를 위해\n군의 선생님을 불러 주셨다고 들었어요!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120106_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응? 걔가 군의를\n지망한다는 거 알고 있었어?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120106_msg0003",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네! 1기 때부터 친구였거든요!\n서로 비밀은 만들지 말자고 약속했으니까요!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120106_msg0004",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이소라는 무척 사려 깊은 애라\n틀림없이 좋은 군의가 될 거예요!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk120106_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 그래\n친구인 키리에가 그렇게 말했으니\n반드시 될 거야"
+  } ]
+}

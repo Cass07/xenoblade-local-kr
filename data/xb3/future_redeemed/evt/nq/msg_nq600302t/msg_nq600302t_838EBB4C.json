@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<49493F3E>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 찾았다!"
+  }, {
+    "$id" : 2,
+    "label" : "<F46943BC>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디 보자, 다음 메시지는……"
+  }, {
+    "$id" : 3,
+    "label" : "<4CC096CD>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"하나의 승천, 넷의 비상\n광망의 인도는 시작의 땅으로\""
+  }, {
+    "$id" : 4,
+    "label" : "<89043E47>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번에도 또\n장소에 대한 단서인가 봐"
+  }, {
+    "$id" : 5,
+    "label" : "<F4686BE8>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "광망…… 빛줄기 같은 거……?"
+  }, {
+    "$id" : 6,
+    "label" : "<833BD62D>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혹시 우리……\n빙빙 돌려지고 있는 거 아냐?"
+  }, {
+    "$id" : 7,
+    "label" : "<EE487D62>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 말 말라고\n이런 건 즐기는 사람이 승자니까"
+  }, {
+    "$id" : 8,
+    "label" : "<22A5F825>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 이렇게까지 공을 들여 놨으니\n무의미하게 끝날 거 같진 않아"
+  }, {
+    "$id" : 9,
+    "label" : "<BE733B9A>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래그래, 에이 말이 맞아\n그러니 좀 더 따라가 보자고"
+  } ]
+}

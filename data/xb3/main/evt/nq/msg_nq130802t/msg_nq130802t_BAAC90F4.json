@@ -1,0 +1,178 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq130802_msg0001",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미사카는 아마\n아직 정보 총괄실에 있을 거예요"
+  }, {
+    "$id" : 2,
+    "label" : "nq130802_msg0002",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세키에이반은 많이 바쁜 편이라……\n무슨 사정이 있을지도 모르거든요"
+  }, {
+    "$id" : 3,
+    "label" : "nq130802_msg0003",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제가 전달을 부탁했다고\n전해 주실 수 있을까요?"
+  }, {
+    "$id" : 4,
+    "label" : "nq130802_msg0101",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수고했어\n서클릿은 미사카한테 건네주고 왔어"
+  }, {
+    "$id" : 5,
+    "label" : "nq130802_msg0102",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "표창식도 조금 전에 무사히 끝났어요\n여러모로 정말 감사합니다"
+  }, {
+    "$id" : 6,
+    "label" : "nq130802_msg0103",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세키에이반이 많이 바쁘다고 듣기는 했는데\n미사카도 역시 많이 피곤했나 봐"
+  }, {
+    "$id" : 7,
+    "label" : "nq130802_msg0104",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "컬렉피디아 카드의 동향을 추적하려면\n끈기와 집중력이 필요하거든요……"
+  }, {
+    "$id" : 8,
+    "label" : "nq130802_msg0105",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 \"수확일\"처럼\n수고에 보답하는 시스템을 만들고 싶었어요……"
+  }, {
+    "$id" : 9,
+    "label" : "nq130802_msg0106",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 이 평가 시스템은\n코토리의 아이디어야?"
+  }, {
+    "$id" : 10,
+    "label" : "nq130802_msg0107",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나 님께서 협력해 주신 덕분에……\n어떻게 실현은 했죠"
+  }, {
+    "$id" : 11,
+    "label" : "nq130802_msg0108",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "평가 시스템이라면 보통\n생명의 불시계 랭크나\n성인식을 통해서도 이뤄지지만……"
+  }, {
+    "$id" : 12,
+    "label" : "nq130802_msg0109",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 결과가 나오기까지 너무 오래 걸려서\n짧은 시간에 작용하는 시스템을\n꼭 만들고 싶었어요"
+  }, {
+    "$id" : 13,
+    "label" : "nq130802_msg0110",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나\n병사들의 높은 숙련도가 그것 때문이었어"
+  }, {
+    "$id" : 14,
+    "label" : "nq130802_msg0111",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하긴 개인의 이익에 직결되는데\n사기가 오르는 게 당연하지"
+  }, {
+    "$id" : 15,
+    "label" : "nq130802_msg0112",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 전투에 소질이 없어서……\n이런 방식으로밖에 못 하지만\n앞으로도 모두의 힘이 되고 싶어요"
+  }, {
+    "$id" : 16,
+    "label" : "nq130802_msg0113",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니가 해방된 지금은\n할 수 있는 일이 잔뜩 있으니까요!"
+  }, {
+    "$id" : 17,
+    "label" : "nq130802_msg0114",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분\n정말로 감사합니다!"
+  } ]
+}

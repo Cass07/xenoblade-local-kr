@@ -1,0 +1,466 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001100_msg0001",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]으앗"
+  }, {
+    "$id" : 2,
+    "label" : "tq001100_msg0002",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이 녀석 정말 다친 거 맞아?"
+  }, {
+    "$id" : 3,
+    "label" : "tq001100_msg0003",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……읏"
+  }, {
+    "$id" : 4,
+    "label" : "tq001100_msg0004",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "쓸데없는 저항은 그만둬라"
+  }, {
+    "$id" : 5,
+    "label" : "tq001100_msg0005",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "승패는 이미 정해졌다\n얌전히 투항해라!"
+  }, {
+    "$id" : 6,
+    "label" : "tq001100_msg0006",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "끈질기군"
+  }, {
+    "$id" : 7,
+    "label" : "tq001100_msg0007",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나, 카무나비"
+  }, {
+    "$id" : 8,
+    "label" : "tq001100_msg0008",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "적의 농간에 놀아나진 않는다"
+  }, {
+    "$id" : 9,
+    "label" : "tq001100_msg0009",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "당신의 적은"
+  }, {
+    "$id" : 10,
+    "label" : "tq001100_msg0010",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……!"
+  }, {
+    "$id" : 11,
+    "label" : "tq001100_msg0011",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이제 없어"
+  }, {
+    "$id" : 12,
+    "label" : "tq001100_msg0012",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그대는……"
+  }, {
+    "$id" : 13,
+    "label" : "tq001100_msg0013",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "감정이 갑자기 돌아와서\n혼란스러운 거지?"
+  }, {
+    "$id" : 14,
+    "label" : "tq001100_msg0014",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "놀라게 해서 미안해"
+  }, {
+    "$id" : 15,
+    "label" : "tq001100_msg0015",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "여러분, 무기를 거두어 주세요"
+  }, {
+    "$id" : 16,
+    "label" : "tq001100_msg0016",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "미오……"
+  }, {
+    "$id" : 17,
+    "label" : "tq001100_msg0017",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "괜찮아"
+  }, {
+    "$id" : 18,
+    "label" : "tq001100_msg0018",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "카무나비는 무방비 상태인 적을\n공격하지 않아"
+  }, {
+    "$id" : 19,
+    "label" : "tq001100_msg0019",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "어째서 그렇게 단언할 수 있지?"
+  }, {
+    "$id" : 20,
+    "label" : "tq001100_msg0020",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "당신이 추구하는 『싸움의 길』은\n그렇지 않을 테니까"
+  }, {
+    "$id" : 21,
+    "label" : "tq001100_msg0021",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……대단한 배짱이군"
+  }, {
+    "$id" : 22,
+    "label" : "tq001100_msg0022",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "내게 무슨 용무지?"
+  }, {
+    "$id" : 23,
+    "label" : "tq001100_msg0023",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "얘기해 봐라"
+  }, {
+    "$id" : 24,
+    "label" : "tq001100_msg0024",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "결론부터 말하겠어"
+  }, {
+    "$id" : 25,
+    "label" : "tq001100_msg0025",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우리와 함께 시티로 가 줘"
+  }, {
+    "$id" : 26,
+    "label" : "tq001100_msg0026",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "시티?"
+  }, {
+    "$id" : 27,
+    "label" : "tq001100_msg0027",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "어디 있는 콜로니지?"
+  }, {
+    "$id" : 28,
+    "label" : "tq001100_msg0028",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "콜로니라 해야 하나…… 설명하기 힘든걸"
+  }, {
+    "$id" : 29,
+    "label" : "tq001100_msg0029",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "특별한 곳이야\n여기보다 안전하다는 건 장담해"
+  }, {
+    "$id" : 30,
+    "label" : "tq001100_msg0030",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "물론 부당하게 구속하거나\n무언가를 강요할 의도는 없어"
+  }, {
+    "$id" : 31,
+    "label" : "tq001100_msg0031",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그럼 나에게 왜 이런 얘길 하나?"
+  }, {
+    "$id" : 32,
+    "label" : "tq001100_msg0032",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그대들이 원하는 것은 뭐지?"
+  }, {
+    "$id" : 33,
+    "label" : "tq001100_msg0033",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "당신이 당신답게 살아가길 원해"
+  }, {
+    "$id" : 34,
+    "label" : "tq001100_msg0034",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나답게……?"
+  }, {
+    "$id" : 35,
+    "label" : "tq001100_msg0035",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "신념대로 살아가는 법을\n우리에게 가르쳐 준 사람이 있었어"
+  }, {
+    "$id" : 36,
+    "label" : "tq001100_msg0036a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래서 당신도……"
+  }, {
+    "$id" : 37,
+    "label" : "tq001100_msg0036b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "자유롭게 살아가길 바라는 거야"
+  }, {
+    "$id" : 38,
+    "label" : "tq001100_msg0037",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "자유……"
+  }, {
+    "$id" : 39,
+    "label" : "tq001100_msg0038",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……윽"
+  }, {
+    "$id" : 40,
+    "label" : "tq001100_msg0039",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "카무나비?"
+  }, {
+    "$id" : 41,
+    "label" : "tq001100_msg0040",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "신경 쓰지…… 마라"
+  }, {
+    "$id" : 42,
+    "label" : "tq001100_msg0041",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "통증이 좀 느껴질 뿐이다"
+  }, {
+    "$id" : 43,
+    "label" : "tq001100_msg0042",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "설마 아직도\n미야비의 영향이……?"
+  }, {
+    "$id" : 44,
+    "label" : "tq001100_msg0043",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아니, 이건 태생적인 문제다"
+  }, {
+    "$id" : 45,
+    "label" : "tq001100_msg0044",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "눈이 안 보이는 것 말고는 별문제 없다"
+  }, {
+    "$id" : 46,
+    "label" : "tq001100_msg0045",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "설마 오와 싸웠을 때……?"
+  }, {
+    "$id" : 47,
+    "label" : "tq001100_msg0046",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그럴지도 몰라"
+  }, {
+    "$id" : 48,
+    "label" : "tq001100_msg0047",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그 고통과 맞바꿔서\n카무나비는 자유를 얻었어"
+  }, {
+    "$id" : 49,
+    "label" : "tq001100_msg0048",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "어쩌면 지금도……"
+  } ]
+}

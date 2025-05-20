@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk320806_msg0001",
+    "talker" : "cd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "터킨 녀석들이\n아마기를 잡아먹으려 했다고?!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk320806_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응…… 조금만 더 늦었다면\n큰일났을지도 몰라……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk320806_msg0003",
+    "talker" : "cd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 자식들…… 절대 용서 못 해!\n보이는 족족 잡아다 구워 먹어 버리겠어!"
+  } ]
+}

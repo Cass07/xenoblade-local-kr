@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830202_msg0001",
+    "talker" : "up1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "브로로의 엄마는\n카라반에서도 유명한\n\"실력자\" 노폰이야모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830202_msg0002",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 아는 사이야?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830202_msg0003",
+    "talker" : "up1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예전에 거래를 한 적이 있어모\n정신을 차려 보니 내가 엄청 손해더라고모!\n흥정도 정도껏 잘해야지모……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830202_msg0004",
+    "talker" : "up1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "행상으로는 틀림없는 일류야모\n하지만 자식인 브로로는\n게으르고 한량인 노폰이지모"
+  }, {
+    "$id" : 5,
+    "label" : "tlk830202_msg0005",
+    "talker" : "up1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아주머니한테 쫓겨날 만도 해모\n한동안 세상 풍파에 시달려 보라지모"
+  } ]
+}

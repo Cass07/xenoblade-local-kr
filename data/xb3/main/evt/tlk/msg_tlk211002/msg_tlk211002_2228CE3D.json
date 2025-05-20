@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk211002_msg0001",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "철거신의 종류에 따라서는\n자활을 위한 물자를 생산하는 플랜트가\n탑재된 타입도 있다고 합니다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk211002_msg0002",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전술반이 주변 지역을 조사해 본 결과\n마침 다나 사막과 리비 평원에\n그 철거신의 잔해가 있다는 것 같다는데……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk211002_msg0003",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "철거신의 근간부에 결합해 있기 때문인지\n플랜트만 회수하는 건 어렵다고 하더군요……\n너무 안타깝습니다"
+  }, {
+    "$id" : 4,
+    "label" : "tlk211002_msg0004",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "현장에서 플랜트를 가동시켜서\n이용하는 건 괜찮을까요……"
+  } ]
+}

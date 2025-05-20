@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq020304_msg0001",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이상\n전투와 관련된 문제는 여기까지야\n일단 휴식 시간을 좀 가질게"
+  }, {
+    "$id" : 2,
+    "label" : "nq020304_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후우……"
+  }, {
+    "$id" : 3,
+    "label" : "nq020304_msg0003",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꽤 애먹어 하시는 것 같던데\n너무 실망시키진 말아 주세요"
+  }, {
+    "$id" : 4,
+    "label" : "nq020304_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 걱정은 안 해도 돼\n나도 하겠다고 마음먹은 이상\n좋은 성적을 낼 거니까"
+  }, {
+    "$id" : 5,
+    "label" : "nq020304_msg0005",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 됐습니다\n중간에 도망치는 일도\n없기를 바라죠"
+  }, {
+    "$id" : 6,
+    "label" : "nq020304_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 마지막까지 다 할게"
+  }, {
+    "$id" : 7,
+    "label" : "nq020304_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타이온, 다음 내용은 뭐야?"
+  }, {
+    "$id" : 8,
+    "label" : "nq020304_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정세와 관련된 문제야\n이런 지식도 전투에선 중요하지"
+  }, {
+    "$id" : 9,
+    "label" : "nq020304_msg0009",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타이온 씨 말씀대로예요\n물론 저는 빠짐없이 숙지하고 있지만요"
+  }, {
+    "$id" : 10,
+    "label" : "nq020304_msg0010",
+    "talker" : "1",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……혹시 모르니 복습해 둬야겠는데"
+  } ]
+}

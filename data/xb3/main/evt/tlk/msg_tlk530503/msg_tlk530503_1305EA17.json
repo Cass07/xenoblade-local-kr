@@ -1,0 +1,43 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk530503_msg0001",
+    "talker" : "dk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요즘 아그누스와 케베스\n그리고 시티 녀석들의 결속력이 굉장하다지모?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk530503_msg0002",
+    "talker" : "dk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고츠고츠와 다른 노폰들도\n서로 도우며 하나로 뭉치면\n세상이 더 좋아질 거란 생각이 들어모"
+  } ]
+}

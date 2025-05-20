@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk021405_msg0001",
+    "talker" : "WW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 어떤지 보러 온 거야?\n난 괜찮아…… 모두와 함께니까"
+  }, {
+    "$id" : 2,
+    "label" : "tlk021405_msg0002",
+    "talker" : "WW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상대가 제트라고 할지라도\n평소처럼 전력을 다해 싸우겠어\n동료들의 기대를 저버리고 싶지 않거든"
+  }, {
+    "$id" : 3,
+    "label" : "tlk021405_msg0003",
+    "talker" : "WW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까…… 미래에서 함께 웃기로 하자"
+  } ]
+}

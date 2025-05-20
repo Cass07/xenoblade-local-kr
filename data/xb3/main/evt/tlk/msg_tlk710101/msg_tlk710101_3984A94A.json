@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk710101_msg0001",
+    "talker" : "rk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카키츠바타 대장님 보면\n종종 강압적이실 때가 있잖아?\n처음에는 무서운 사람처럼 보이지만……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk710101_msg0002",
+    "talker" : "rk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래 봬도 부하를 잘 챙겨 주시는 분이셔\n게다가 신병을 잘 육성하기로도 유명하시지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk710101_msg0003",
+    "talker" : "rk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『나는 아이를 낳지 않으니까 그 대신\n사람을 기르는 일에 힘을 쏟고 싶다』라고\n말씀하시는 걸 예전에 들었는데……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk710101_msg0004",
+    "talker" : "rk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티에는 아이가 있는 사람이 많아서\n뒤에서 헐뜯는 사람이 많았나 보더라고\n그래도 내 삶은 내가 정한다며 웃으시더라"
+  }, {
+    "$id" : 5,
+    "label" : "tlk710101_msg0005",
+    "talker" : "rk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……멋지지 않아?\n나도 대장님처럼\n내가 원하는 삶을 살고 있는 걸까……"
+  } ]
+}

@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002214_msg0001",
+    "talker" : "tf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 무슨 일이야? 손님들"
+  }, {
+    "$id" : 2,
+    "label" : "tq002214_msg0002",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 일이냐니…… 너야말로\n대체 여기서 뭐 하는 거야?"
+  }, {
+    "$id" : 3,
+    "label" : "tq002214_msg0003",
+    "talker" : "tf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꾸물거릴 때가 아니야, 손님들\n어서 몬스터를 쓰러뜨려야지……\n근데 내가 설명했던가?"
+  }, {
+    "$id" : 4,
+    "label" : "tq002214_msg0004",
+    "talker" : "3",
+    "talkattr" : 33072,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한 적 없어! 네가 없어서\n다른 녀석한테 들었다고!"
+  }, {
+    "$id" : 5,
+    "label" : "tq002214_msg0005",
+    "talker" : "tf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 더욱 서둘러야겠네!\n이런 곳에서 시간을 낭비하면 지게 될걸?"
+  }, {
+    "$id" : 6,
+    "label" : "tq002214_msg0006",
+    "talker" : "3",
+    "talkattr" : 33072,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "발자국을 따라왔더니\n여기에 도착했다고!"
+  }, {
+    "$id" : 7,
+    "label" : "tq002214_msg0007",
+    "talker" : "6",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗! 여기도 발자국이 있어!"
+  }, {
+    "$id" : 8,
+    "label" : "tq002214_msg0008",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩔 수 없지…… 이 발자국을 따라가 볼까?"
+  }, {
+    "$id" : 9,
+    "label" : "tq002214_msg0009",
+    "talker" : "tf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘해 봐, 손님들!\n어물쩍거리다간 캡틴에게\n따라잡힐 거야"
+  } ]
+}

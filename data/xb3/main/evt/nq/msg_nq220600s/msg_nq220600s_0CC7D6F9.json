@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq220600_msg0001",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 타우에 노폰이 늘었다며\n다들 얘기하더라"
+  }, {
+    "$id" : 2,
+    "label" : "nq220600_msg0002",
+    "talker" : "XW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰은 어디든지 있지모"
+  }, {
+    "$id" : 3,
+    "label" : "nq220600_msg0003",
+    "talker" : "tV",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아요모\n씩씩하게 살아가고 있어요모"
+  }, {
+    "$id" : 4,
+    "label" : "nq220600_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무섭다는 말도 들리던데\n무섭게 생긴 노폰도 있나 보네"
+  }, {
+    "$id" : 5,
+    "label" : "nq220600_msg0005",
+    "talker" : "L",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에이시가 데려온 노폰이면\n나쁜 노폰은 아닐 텐데요……"
+  }, {
+    "$id" : 6,
+    "label" : "nq220600_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "먹성 좋은 노폰은\n마나나만 있는 줄 알았다니까"
+  }, {
+    "$id" : 7,
+    "label" : "nq220600_msg0007",
+    "talker" : "tV",
+    "talkattr" : 33072,
+    "talkattr2" : 16793729,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실례잖아요모!"
+  }, {
+    "$id" : 8,
+    "label" : "nq220600_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부질없는 말다툼은 그만하고\n직접 보러 가는 게 어때?"
+  }, {
+    "$id" : 9,
+    "label" : "nq220600_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇네, 그 노폰에게도\n얘기를 들어 봐야겠어"
+  } ]
+}

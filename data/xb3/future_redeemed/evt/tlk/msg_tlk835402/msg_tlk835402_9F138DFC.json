@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk835402_msg0001",
+    "talker" : "_p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "주문한 대로 저 명각비는\n해체도 가능하게끔 만들었어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk835402_msg0002",
+    "talker" : "_p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안주할 땅을 찾을 때까지는\n몇 번이든 운반하게 될 테니까 말이지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk835402_msg0003",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워, 라이고\n만족스러운 작업물이야"
+  }, {
+    "$id" : 4,
+    "label" : "tlk835402_msg0004",
+    "talker" : "_p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "크하하, 그거 고맙군!\n뭐, 언젠가는 더 훌륭한 물건을\n만들어 내야겠지"
+  } ]
+}

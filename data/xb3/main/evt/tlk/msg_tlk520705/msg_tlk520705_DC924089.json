@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520705_msg0001",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗, 타이온 씨!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520705_msg0002",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "함정에 대해 아이디어를 주셔서\n정말 감사합니다!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520705_msg0003",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "문에 다다르기 전에\n적의 전력을 얼마나 줄일 수 있는가……\n그 생각은 정말 놀라웠어요!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520705_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 아이디어는 내가 아니고\n란츠가 낸 거였는데……\n어쨌든 쓸 만할 것 같으면 검토해 봐"
+  }, {
+    "$id" : 5,
+    "label" : "tlk520705_msg0005",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 맡겨만 주세요!"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk832005_msg0001",
+    "talker" : "zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "슈르크 씨와 렉스 씨가\n만들어 주신 인수인계 자료 덕에\n이쪽은 어떻게든 될 거 같아요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk832005_msg0002",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 다행이군\n밤새 작업한 보람이 있었어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk832005_msg0003",
+    "talker" : "zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하, 정말 대단하시네요\n이 지시대로만 따르면\n거의 모든 상황에 대처할 수 있겠어요"
+  }, {
+    "$id" : 4,
+    "label" : "tlk832005_msg0004",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뒷일은 네게 맡길게, 카롬"
+  }, {
+    "$id" : 5,
+    "label" : "tlk832005_msg0005",
+    "talker" : "zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 부재중에는 제가 철저하게 지킬 테니\n걱정 말고 다녀오세요!"
+  } ]
+}

@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq995304_msg0001",
+    "talker" : "3",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스 측 정보를 말소해서\n아그누스에게 피해를 줬댔지?"
+  }, {
+    "$id" : 2,
+    "label" : "nq995304_msg0002",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야영지 장소를 파악했는데도\n그렇게 한 이유를 모르겠어……"
+  }, {
+    "$id" : 3,
+    "label" : "nq995304_msg0003",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군율을 위반한 정도가 아니라\n처형당해도 이상하지 않아"
+  }, {
+    "$id" : 4,
+    "label" : "nq995304_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게…… 정보가 없어서\n적한테 당했다는 얘기도\n진짜 자주 들었잖아"
+  }, {
+    "$id" : 5,
+    "label" : "nq995304_msg0005",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만…… 그만한 짓을 했는데\n어째서 조도를 살려 두고 있는 거지?"
+  }, {
+    "$id" : 6,
+    "label" : "nq995304_msg0006",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음…… 그 정보가\n정확히 어떤 정보였는지\n직접 물어보는 게 좋을 것 같아"
+  }, {
+    "$id" : 7,
+    "label" : "nq995304_msg0007",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 더 빠르겠다"
+  }, {
+    "$id" : 8,
+    "label" : "nq995304_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아…… 가 보자"
+  } ]
+}

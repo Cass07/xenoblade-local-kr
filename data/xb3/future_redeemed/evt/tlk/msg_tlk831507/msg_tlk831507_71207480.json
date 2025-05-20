@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831507_msg0001",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……릭키"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831507_msg0002",
+    "talker" : "vq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 네……?\n왜 그러세요, 매슈 씨?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831507_msg0003",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831507_msg0004",
+    "talker" : "vq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어…… 죄, 죄송해요!\n제가 뭐 잘못이라도 했나요?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk831507_msg0005",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이 싸움이 끝나면\n나랑 진지하게 얘기 좀 하자. 알았지?"
+  }, {
+    "$id" : 6,
+    "label" : "tlk831507_msg0006",
+    "talker" : "vq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네? 아, 네……"
+  }, {
+    "$id" : 7,
+    "label" : "tlk831507_msg0007",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거야 원……"
+  } ]
+}

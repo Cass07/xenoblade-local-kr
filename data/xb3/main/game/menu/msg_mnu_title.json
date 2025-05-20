@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<1B4D09E5>",
+    "style" : 19,
+    "name" : "Press Any Button"
+  }, {
+    "$id" : 2,
+    "label" : "<90367717>",
+    "style" : 15,
+    "name" : "NEW GAME"
+  }, {
+    "$id" : 3,
+    "label" : "<7E9B62AE>",
+    "style" : 15,
+    "name" : "NEW GAME+"
+  }, {
+    "$id" : 4,
+    "label" : "<F9B12929>",
+    "style" : 15,
+    "name" : "CONTINUE"
+  }, {
+    "$id" : 5,
+    "label" : "<FB0FE944>",
+    "style" : 15,
+    "name" : "LOAD GAME"
+  }, {
+    "$id" : 6,
+    "label" : "<E375E7C7>",
+    "style" : 15,
+    "name" : "EVENTS THEATER"
+  }, {
+    "$id" : 7,
+    "label" : "<0481736A>",
+    "style" : 15,
+    "name" : "OPTION"
+  }, {
+    "$id" : 8,
+    "label" : "<88C6C9F2>",
+    "style" : 19,
+    "name" : "게임 난이도를 설정해 주십시오"
+  }, {
+    "$id" : 9,
+    "label" : "<5242FAC7>",
+    "style" : 59,
+    "name" : "게임 난이도는 메뉴 내의 옵션에서\n언제든지 변경할 수 있습니다"
+  }, {
+    "$id" : 10,
+    "label" : "<3D628B52>",
+    "style" : 59,
+    "name" : "자동 저장, 빠른 저장, 사용자 저장의 상태를 비교한 다음\n가장 최신 시간대인 저장 데이터로 게임을 시작합니다"
+  }, {
+    "$id" : 11,
+    "label" : "<A8A2EFCC>",
+    "style" : 29,
+    "name" : "© Nintendo / MONOLITHSOFT"
+  }, {
+    "$id" : 12,
+    "label" : "<F93F80B1>",
+    "style" : 5,
+    "name" : "Ver."
+  }, {
+    "$id" : 13,
+    "label" : "<8AC668B9>",
+    "style" : 15,
+    "name" : "INFORMATION"
+  }, {
+    "$id" : 14,
+    "label" : "<42C526D2>",
+    "style" : 59,
+    "name" : "게임이 업데이트되었습니다"
+  }, {
+    "$id" : 15,
+    "label" : "<2DA12AD0>",
+    "style" : 59,
+    "name" : "자세한 내용은 타이틀 화면의\n[ML:icon icon=btn_minus ]INFORMATION에서 확인할 수 있습니다"
+  } ]
+}

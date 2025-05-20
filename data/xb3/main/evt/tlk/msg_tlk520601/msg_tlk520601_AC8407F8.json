@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520601_msg0001",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마시로가 부재중일 땐 우리한테 맡겨 둬!\n다 같이 어떻게든 해 볼게"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520601_msg0002",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 대신, 밖에서 마시로를\n잘 챙겨 줬으면 좋겠어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520601_msg0003",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자기와 똑같이 남들도 강화해 줄 수 있는 게\n마시로의 강점이거든"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520601_msg0004",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "디펜더가 곁에 있으면\n더 끈질기게 싸울 수 있을 거야"
+  } ]
+}

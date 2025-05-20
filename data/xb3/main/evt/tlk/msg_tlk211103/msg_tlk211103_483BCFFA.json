@@ -1,0 +1,43 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk211103_msg0001",
+    "talker" : "_Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에테르 채널을 발견하면\n에테르 실린더로 남김없이 회수할 것!\n……자재 조달반의 철칙이지!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk211103_msg0002",
+    "talker" : "_Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젬 크래프트나 레브니스 가동부터……\n철거신의 비상용 전력도 되는 등\n용도가 무궁무진하거든!!"
+  } ]
+}

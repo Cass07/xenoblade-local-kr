@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq995101_msg0001",
+    "talker" : "lk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토마는 동료를 소중히 여기는 남자야"
+  }, {
+    "$id" : 2,
+    "label" : "nq995101_msg0002",
+    "talker" : "lk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스군과 있었던 전투에서\n일망타진을 당할 위기에 처한 부대가 있었는데"
+  }, {
+    "$id" : 3,
+    "label" : "nq995101_msg0003",
+    "talker" : "lk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러자 그는 자리를 박차고 적군에게 돌격했지\n그리고 동료가 퇴각할 때까지 후위를 지켰어"
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk521004_msg0001",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아르마들이 늘어나니\n콜로니가 더 활기가 도는 것 같아모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk521004_msg0002",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데…… 가끔씩\n꽃을 먹으려는 것 같아모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk521004_msg0003",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꽃은……\n구구가 지키겠어모……!!"
+  } ]
+}

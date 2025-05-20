@@ -1,0 +1,160 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq990601_msg0001",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "밖에 있는 아르마들은 괜찮을까~?"
+  }, {
+    "$id" : 2,
+    "label" : "nq990601_msg0002",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가끔 겁에 질린 소리가 들리던데……\n엄청 불안해지네~"
+  }, {
+    "$id" : 3,
+    "label" : "nq990601_msg0003",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 일이 생겼나……?\n조금 신경 쓰여"
+  }, {
+    "$id" : 4,
+    "label" : "nq990601_msg0004",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지~?\n살펴보러 가야 하나……"
+  }, {
+    "$id" : 5,
+    "label" : "nq990601_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 건 우리한테 맡겨 두라고\n너희는 해야 할 일이 있잖아?"
+  }, {
+    "$id" : 6,
+    "label" : "nq990601_msg0006",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고, 고마워요~"
+  }, {
+    "$id" : 7,
+    "label" : "nq990601_msg0007",
+    "talker" : "Zg1",
+    "talkattr" : 41984,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 잘 부탁드려요\n위치는 \"눈동자\"에 보내 둘게요"
+  }, {
+    "$id" : 8,
+    "label" : "nq990601_msg0101",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쓸데없는 걱정이라고 생각하지만……"
+  }, {
+    "$id" : 9,
+    "label" : "nq990601_msg0102",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아르마들에 대해\n뭔가 알아낸 게 있으면 알려 주세요~"
+  }, {
+    "$id" : 10,
+    "label" : "nq990601_msg0201",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 아르마들이 겁에 질렸던 건\n몬스터 때문인가요……?"
+  }, {
+    "$id" : 11,
+    "label" : "nq990601_msg0202",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 사냥터를 넓히기 위해서\n무리 지어 여기저기를 습격했었나 봐"
+  }, {
+    "$id" : 12,
+    "label" : "nq990601_msg0203",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나~\n그러면 이제 안심해도 되려나……"
+  }, {
+    "$id" : 13,
+    "label" : "nq990601_msg0204",
+    "talker" : "Zg1",
+    "talkattr" : 41472,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아르마를 도와주셔서 고마워요~\n타로에게도 보고해 둘게요~"
+  }, {
+    "$id" : 14,
+    "label" : "nq990601_msg0301",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 달리는 게 느려서\n스티커는 별로 모으지 못했지만……"
+  }, {
+    "$id" : 15,
+    "label" : "nq990601_msg0302",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서로 도와 가는 모두를 보면\n뭔가 힘이 솟는 거 같아요~"
+  } ]
+}

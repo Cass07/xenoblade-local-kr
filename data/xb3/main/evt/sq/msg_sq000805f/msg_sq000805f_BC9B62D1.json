@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq000805_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바라에나에서 획득한 건\n아그누스 캐슬 위성 요새의 평면도인가……\n제법 쓸 만한 정보를 찾았는데?"
+  }, {
+    "$id" : 2,
+    "label" : "sq000805_msg0101",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 이것만으로\n작전을 세우기엔 불안 요소가 커"
+  }, {
+    "$id" : 3,
+    "label" : "sq000805_msg0102",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가능하다면 정보를\n좀 더 확보하고 싶은데……"
+  }, {
+    "$id" : 4,
+    "label" : "sq000805_msg0103",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하……\n신중한 건 변함이 없네"
+  }, {
+    "$id" : 5,
+    "label" : "sq000805_msg0104",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번에는 평소보다\n신중해야 해"
+  }, {
+    "$id" : 6,
+    "label" : "sq000805_msg0105",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서베인섬에 있는\n엘티아 중계 기지에도\n쓸 만한 정보가 있을지 몰라"
+  }, {
+    "$id" : 7,
+    "label" : "sq000805_msg0106",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 한번 가 보자"
+  }, {
+    "$id" : 8,
+    "label" : "sq000805_msg0201",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정보를 제법 모았으니\n키사메가 있는 비닝섬으로 돌아가자"
+  } ]
+}

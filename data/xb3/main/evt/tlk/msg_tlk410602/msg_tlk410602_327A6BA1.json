@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk410602_msg0001",
+    "talker" : "ke1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "윗분들은 최후의 결전에 정신이 팔려서\n방심하고 계시는 것 같은데요~?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk410602_msg0002",
+    "talker" : "ke1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 틈에 케베스의 여왕을 제거하고\n권력을 장악하는 것도 가능하겠는데……\n우로보로스 여러분~? 어떻게 생각하세요~?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk410602_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄~?\n당장 확실한 건 뫼비우스를 처리하면\n그다음은 네 차례라는 거야!!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk410602_msg0004",
+    "talker" : "ke1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아하하하하하하! 농담이에요~\n사람이 무슨 장난을 모르시네~"
+  } ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq990205_msg0001",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모…… 요즘 정비 구역에 있던\n물건들이 안 보는 사이에\n사라지고 있는 것 같아모……"
+  }, {
+    "$id" : 2,
+    "label" : "nq990205_msg0002",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안전이 제일 중요하니까\n원인을 밝혀내지 못하면\n건조를 진행할 수 없어모……"
+  } ]
+}

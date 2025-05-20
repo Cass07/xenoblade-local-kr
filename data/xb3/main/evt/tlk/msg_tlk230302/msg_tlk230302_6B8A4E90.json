@@ -1,0 +1,43 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230302_msg0001",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분의 활약 덕분인지……\n최근 컬렉피디아 사용법에\n약간 변화가 보이기 시작했습니다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230302_msg0002",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가끔 이상한 의뢰도 보이지만\n평소대로 이용해 주시면 되겠습니다\n보수도 변함없이 지급될 거고요"
+  } ]
+}

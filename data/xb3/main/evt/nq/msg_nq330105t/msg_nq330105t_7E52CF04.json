@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330105_msg0001",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 시로다!\n니코를 만나러 온 거야?"
+  }, {
+    "$id" : 2,
+    "label" : "nq330105_msg0002",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……광장으로 모이라고?\n뭐야, 일 때문이었구나……"
+  }, {
+    "$id" : 3,
+    "label" : "nq330105_msg0003",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어\n준비가 끝나면 바로 갈게~!"
+  }, {
+    "$id" : 4,
+    "label" : "nq330105_msg0101",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "준비가 끝나면 바로 갈게~!"
+  }, {
+    "$id" : 5,
+    "label" : "nq330105_msg0201",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아아~ 먹을 게 알아서 늘었으면 좋을 텐데……"
+  }, {
+    "$id" : 6,
+    "label" : "nq330105_msg0202",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……농담이에요~\n니코가 이러면 안 되죠~"
+  }, {
+    "$id" : 7,
+    "label" : "nq330105_msg0203",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정하지 마세요!\n엄청난 걸 가지고 돌아올게요~!"
+  } ]
+}

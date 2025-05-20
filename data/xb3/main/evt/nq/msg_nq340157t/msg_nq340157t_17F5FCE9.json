@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq340157_msg0001",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시키 녀석이 아가씨를 찾아다닌 모양입니다"
+  }, {
+    "$id" : 2,
+    "label" : "nq340157_msg0101",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아가씨께선 아그누스 녀석들과\n이야기할 게 많으신지 바빠 보이시더라"
+  }, {
+    "$id" : 3,
+    "label" : "nq340157_msg0201",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아교와 함께 여기 남아 있을게\n미안하지만 잘 부탁한다!"
+  }, {
+    "$id" : 4,
+    "label" : "nq340157_msg0301",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 아가씨께서 같이 계시니\n하나도 불안할 거 없겠네요!"
+  } ]
+}

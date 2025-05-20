@@ -1,0 +1,142 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<92198595>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힘들진 않아?"
+  }, {
+    "$id" : 2,
+    "label" : "<039E5E41>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "살짝\n아까 그 몬스터 강했잖아"
+  }, {
+    "$id" : 3,
+    "label" : "<D47077D6>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래도 이 정도는 괜찮아"
+  }, {
+    "$id" : 4,
+    "label" : "<949454E5>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 방금 전 전투에서 다들\n우로보로스의 능력을 과도하게 썼어……"
+  }, {
+    "$id" : 5,
+    "label" : "<B0EB80B9>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쉴 틈도 없이 다시 인터링크하는\n상황은 피하는 게 좋겠어"
+  }, {
+    "$id" : 6,
+    "label" : "<6FFB13AD>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……맞는 말이야"
+  }, {
+    "$id" : 7,
+    "label" : "<8637C4A3>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "딱히 인터링크만 안 하면\n문제없는 거 아냐?"
+  }, {
+    "$id" : 8,
+    "label" : "<6EC7DC1E>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만에 하나 발생할 리스크를\n생각해서 말하는 거야"
+  }, {
+    "$id" : 9,
+    "label" : "<E04BDBBE>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네네"
+  }, {
+    "$id" : 10,
+    "label" : "<8E2AD04B>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디서 조금만 쉬자"
+  }, {
+    "$id" : 11,
+    "label" : "<7D466B19>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 앞에 쉬기 적절해 보이는 장소가 있어"
+  }, {
+    "$id" : 12,
+    "label" : "<E7E12384>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 거기서 재정비하자"
+  }, {
+    "$id" : 13,
+    "label" : "<67333E61>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래!"
+  } ]
+}

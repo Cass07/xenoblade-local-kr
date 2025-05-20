@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk021202_msg0001",
+    "talker" : "cW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곤란한 상황에 처하면 언제든 날 불러\n나라도 괜찮다면 힘을 보태지"
+  }, {
+    "$id" : 2,
+    "label" : "tlk021202_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고맙기는 한데\n진짜 말도 안 되는 타이밍에\n부르면 어쩌려고?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk021202_msg0003",
+    "talker" : "cW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮아\n그때 도왔어야 했다면서\n후회하고 싶지 않으니까"
+  }, {
+    "$id" : 4,
+    "label" : "tlk021202_msg0004",
+    "talker" : "cW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 후회는……\n뭄바 하나로 족해"
+  } ]
+}

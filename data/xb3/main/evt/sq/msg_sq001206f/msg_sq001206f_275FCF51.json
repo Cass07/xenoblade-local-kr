@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq001206_msg0001",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모모모……"
+  }, {
+    "$id" : 2,
+    "label" : "sq001206_msg0002",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이상해모\n오리진의 금속 반응은 있는데\n금속 같은 물건은 안 보여모"
+  }, {
+    "$id" : 3,
+    "label" : "sq001206_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "위치 정보는 여기가 틀림없는데……"
+  }, {
+    "$id" : 4,
+    "label" : "sq001206_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "새먼 씨가 틀린 거 아냐?"
+  }, {
+    "$id" : 5,
+    "label" : "sq001206_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 리는 없을 것 같은데……"
+  }, {
+    "$id" : 6,
+    "label" : "sq001206_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩌면 땅속에\n파묻혀 있는 걸지도 몰라"
+  }, {
+    "$id" : 7,
+    "label" : "sq001206_msg0007",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐~~~?\n그 말은 이 주변을\n다 파헤치자는 거야?"
+  }, {
+    "$id" : 8,
+    "label" : "sq001206_msg0008",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어!\n열심히 파 볼게!"
+  }, {
+    "$id" : 9,
+    "label" : "sq001206_msg0009",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진심이야……?"
+  } ]
+}

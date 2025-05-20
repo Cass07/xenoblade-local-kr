@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk320807_msg0001",
+    "talker" : "cd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐, 로프 슬라이드는\n잘 활용하고 있어?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk320807_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 덕분에\n숲속으로 이동하는 것도 편해졌어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk320807_msg0003",
+    "talker" : "cd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로프는 여기 말고도\n여기저기 깔려 있으니까 말이지"
+  }, {
+    "$id" : 4,
+    "label" : "tlk320807_msg0004",
+    "talker" : "cd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 곳에서도 분명 도움이 될 거야\n알려 준 유즈리하한테 고맙다고 해!"
+  } ]
+}

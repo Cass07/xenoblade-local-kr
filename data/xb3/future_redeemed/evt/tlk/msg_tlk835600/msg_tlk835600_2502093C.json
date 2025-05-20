@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk835600_msg0001",
+    "talker" : "Xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두 피니한테 친절해서\n피니는 이곳이 좋아!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk835600_msg0002",
+    "talker" : "Xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어서 아빠랑 엄마도 왔으면 좋겠다~"
+  }, {
+    "$id" : 3,
+    "label" : "tlk835600_msg0003",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……분명 금방 돌아오실 거야\n그러니 오빠 말 잘 들으면서\n기다려야 하는 거 알지?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk835600_msg0004",
+    "talker" : "Xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응!\n피니는 열심히 도우면서\n착하게 있을게!"
+  } ]
+}

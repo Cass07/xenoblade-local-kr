@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk44000310_msg0001",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희 리버레이터는\n원래 서로 다른 세계에 살고 있었습니다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk44000310_msg0002",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "슈르크 씨와 파나세아는 \"거신계\"\n저하고 선생님은 \"아르스트\"\n……그런 이름이었죠"
+  }, {
+    "$id" : 3,
+    "label" : "tlk44000310_msg0003",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아이오니온이 탄생함과 동시에\n수많은 사람들이 오리진과 동화했지만\n저희 같은 \"예외\"도 있었습니다"
+  }, {
+    "$id" : 4,
+    "label" : "tlk44000310_msg0004",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "린카나 다른 사람들은\n왜 동화가 안 된 건데?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk44000310_msg0005",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……모릅니다\n어째서 저희가 존재하는지\n이유는 알 수 없지만……"
+  }, {
+    "$id" : 6,
+    "label" : "tlk44000310_msg0006",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것은 저희들이……\n이 세계에서 맡게 된\n\"역할\"일지도 모르겠네요"
+  }, {
+    "$id" : 7,
+    "label" : "tlk44000310_msg0007",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역할……"
+  }, {
+    "$id" : 8,
+    "label" : "tlk44000310_msg0008",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 그렇게 복잡한 문제는 아냐"
+  }, {
+    "$id" : 9,
+    "label" : "tlk44000310_msg0009",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나하고 린카는 있어야 해서 있는 거고\n너희를 만나기 위해 여기 있는 거야\n……분명 그게 다일 거라고"
+  } ]
+}

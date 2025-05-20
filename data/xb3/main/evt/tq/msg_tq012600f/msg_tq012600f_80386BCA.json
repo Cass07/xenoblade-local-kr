@@ -1,0 +1,268 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012600_msg0001",
+    "talker" : "dl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신, 잠깐 괜찮아?"
+  }, {
+    "$id" : 2,
+    "label" : "tq012600_msg0002",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 무슨 일이지?"
+  }, {
+    "$id" : 3,
+    "label" : "tq012600_msg0003",
+    "talker" : "dl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전에 말한 거 말인데……"
+  }, {
+    "$id" : 4,
+    "label" : "tq012600_msg0004",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 5,
+    "label" : "tq012600_msg0005",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하여간…… 그 무뚝뚝한\n표정 좀 어떻게 해 봐"
+  }, {
+    "$id" : 6,
+    "label" : "tq012600_msg0006",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이들도 곤란해하잖아"
+  }, {
+    "$id" : 7,
+    "label" : "tq012600_msg0007",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 리 없다"
+  }, {
+    "$id" : 8,
+    "label" : "tq012600_msg0008",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 곤란한데"
+  }, {
+    "$id" : 9,
+    "label" : "tq012600_msg0009",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하, 곤란하다잖아\n그래도 뭐, 어쩔 수 없지\n이 녀석은 원래 이런 남자니까"
+  }, {
+    "$id" : 10,
+    "label" : "tq012600_msg0010",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니 그레이는\n결혼했었지?"
+  }, {
+    "$id" : 11,
+    "label" : "tq012600_msg0011",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나\n너희 아는 사이였지?"
+  }, {
+    "$id" : 12,
+    "label" : "tq012600_msg0012",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그레이 씨의 파트너잖아\n당연히 알고 있지"
+  }, {
+    "$id" : 13,
+    "label" : "tq012600_msg0013",
+    "talker" : "dl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후, 맞아"
+  }, {
+    "$id" : 14,
+    "label" : "tq012600_msg0014",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아기는 없어?"
+  }, {
+    "$id" : 15,
+    "label" : "tq012600_msg0015",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 16,
+    "label" : "tq012600_msg0016",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하, 아무리 너라도\n예상치 못한 일격에는 약하구나"
+  }, {
+    "$id" : 17,
+    "label" : "tq012600_msg0017",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……잡담은 됐고\n용건만 짧게 말해"
+  }, {
+    "$id" : 18,
+    "label" : "tq012600_msg0018",
+    "talker" : "dl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방금까지 조사해 봤는데……"
+  }, {
+    "$id" : 19,
+    "label" : "tq012600_msg0019",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……여기선 누가 들을지 모르니\n장소를 마련하지\n자세한 건 거기서 얘기하자"
+  }, {
+    "$id" : 20,
+    "label" : "tq012600_msg0020",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대체 무슨 얘기인데?"
+  }, {
+    "$id" : 21,
+    "label" : "tq012600_msg0021",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희랑은 상관없는……"
+  }, {
+    "$id" : 22,
+    "label" : "tq012600_msg0022",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 이들의 도움도 받아야겠어"
+  }, {
+    "$id" : 23,
+    "label" : "tq012600_msg0023",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?"
+  }, {
+    "$id" : 24,
+    "label" : "tq012600_msg0024",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 일에는 협조적이니까\n분명 너에게 도움이 될 거야"
+  }, {
+    "$id" : 25,
+    "label" : "tq012600_msg0025",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래…… 알겠다"
+  }, {
+    "$id" : 26,
+    "label" : "tq012600_msg0026",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 로자나, 뒷일은 맡길게"
+  }, {
+    "$id" : 27,
+    "label" : "tq012600_msg0027",
+    "talker" : "dl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 고마워, 모니카"
+  } ]
+}

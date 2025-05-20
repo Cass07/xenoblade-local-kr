@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk310405_msg0001",
+    "talker" : "qc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자기 행동은 스스로 책임져야 한다……\n그런 단순한 것조차 못 지켜 왔어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk310405_msg0002",
+    "talker" : "qc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리들은 앞으로\n그런 현실과 마주해야만 할 거야"
+  }, {
+    "$id" : 3,
+    "label" : "tlk310405_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "천천히 변해가면 돼\n무리하지 말고…… 천천히 말이지"
+  } ]
+}

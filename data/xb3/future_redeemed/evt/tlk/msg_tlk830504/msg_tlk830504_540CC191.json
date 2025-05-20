@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830504_msg0001",
+    "talker" : "jq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기…… 사오미 씨가\n『나도 오리진에 데려가』라고\n계속 소란을 피우고 있는데요……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830504_msg0002",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거야 원, 또 시작인가……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830504_msg0003",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 진짜 사오미를 위해서라도\n꽉 붙들고 있어야 하는 거 알지?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830504_msg0004",
+    "talker" : "jq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 당연히 알죠\n사오미 씨는 제가 붙잡고 있을게요"
+  }, {
+    "$id" : 5,
+    "label" : "tlk830504_msg0005",
+    "talker" : "jq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부디 여러분은 무사히 다녀오시길……!"
+  } ]
+}

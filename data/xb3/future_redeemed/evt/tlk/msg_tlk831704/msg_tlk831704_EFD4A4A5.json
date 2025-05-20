@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831704_msg0001",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티 재건……\n그…… 저도 돕고 싶어요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831704_msg0002",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금은 싸울 줄도 알고……\n게다가 없어져 버린 가족도\n찾고 싶거든요……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831704_msg0003",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 네게도 부탁할게\n물론 가족도 찾아야겠지만"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831704_msg0004",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……열심히 할게요"
+  } ]
+}

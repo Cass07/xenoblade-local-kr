@@ -1,0 +1,385 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq240504_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훔교, 요즘은 좀 어때?"
+  }, {
+    "$id" : 2,
+    "label" : "nq240504_msg0002",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 노아구나!\n말할 것도 없이 최고로 좋지!"
+  }, {
+    "$id" : 3,
+    "label" : "nq240504_msg0003",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지, 아교!"
+  }, {
+    "$id" : 4,
+    "label" : "nq240504_msg0004",
+    "talker" : "jW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론이지!\n너희도 잘 지내는 것 같은데?"
+  }, {
+    "$id" : 5,
+    "label" : "nq240504_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아교 씨도 건강해 보이네요"
+  }, {
+    "$id" : 6,
+    "label" : "nq240504_msg0006",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "과연, 이분들이\n캐슬에 머물러 계시는\n시티 분들이시군요"
+  }, {
+    "$id" : 7,
+    "label" : "nq240504_msg0007",
+    "talker" : "jW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음? 본 적 없는 사람인데\n너희 동료야?"
+  }, {
+    "$id" : 8,
+    "label" : "nq240504_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 그게……"
+  }, {
+    "$id" : 9,
+    "label" : "nq240504_msg0009",
+    "talker" : "jW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흐음, 그랬군\n시티에 대해 알고 싶단 말이지"
+  }, {
+    "$id" : 10,
+    "label" : "nq240504_msg0010",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 꼭 알고 싶습니다\n당사자인 여러분들의\n이야기를 들어 보고 싶어요"
+  }, {
+    "$id" : 11,
+    "label" : "nq240504_msg0011",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……좋아\n노아 일행이 데려온 건데\n거절하면 안 되겠지, 아교?"
+  }, {
+    "$id" : 12,
+    "label" : "nq240504_msg0012",
+    "talker" : "jW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론이지!\n이참에 뭐든 물어봐!"
+  }, {
+    "$id" : 13,
+    "label" : "nq240504_msg0013",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 바라 마지않던 대답이로군요\n진심으로 감사드립니다"
+  }, {
+    "$id" : 14,
+    "label" : "nq240504_msg0014",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분\n잠시만 시간을 주실 수 있을는지……"
+  }, {
+    "$id" : 15,
+    "label" : "nq240504_msg0015",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 실컷 얘기하고 와\n우리는 적당히 시간 때우고 있을게"
+  }, {
+    "$id" : 16,
+    "label" : "nq240504_msg0016",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "감사합니다\n그럼 잠시 후에……"
+  }, {
+    "$id" : 17,
+    "label" : "nq240504_msg0017",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직 멀었으려나……?"
+  }, {
+    "$id" : 18,
+    "label" : "nq240504_msg0018",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오! 다 끝난 모양인데"
+  }, {
+    "$id" : 19,
+    "label" : "nq240504_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아교랑 훔교와 나눈 대화는 어땠어?"
+  }, {
+    "$id" : 20,
+    "label" : "nq240504_msg0020",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 하나부터 열까지 전부 다\n흥미로운 이야기였습니다만……"
+  }, {
+    "$id" : 21,
+    "label" : "nq240504_msg0021",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 문제라도 있어?"
+  }, {
+    "$id" : 22,
+    "label" : "nq240504_msg0022",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 너무 흥미로워서\n아무리 시간이 많아도 부족해요"
+  }, {
+    "$id" : 23,
+    "label" : "nq240504_msg0023",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니 저는 여기에\n잠시 머무를까 합니다"
+  }, {
+    "$id" : 24,
+    "label" : "nq240504_msg0024",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐어?! 머무르겠다니, 진심이야?"
+  }, {
+    "$id" : 25,
+    "label" : "nq240504_msg0025",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 아교 씨와 훔교 씨\n그리고 아그누스 대표인 시키 씨께서도\n흔쾌히 받아들여 주셨습니다"
+  }, {
+    "$id" : 26,
+    "label" : "nq240504_msg0026",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그렇게까지……"
+  }, {
+    "$id" : 27,
+    "label" : "nq240504_msg0027",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 지금까지 감찰관으로서\n캐슬이 얼마나…… 나아가서\n케베스가 얼마나 번영할지 생각해 왔습니다"
+  }, {
+    "$id" : 28,
+    "label" : "nq240504_msg0028",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 위해서라면 적대하는 세력은\n모두 전멸시켜야 한다고 생각했죠"
+  }, {
+    "$id" : 29,
+    "label" : "nq240504_msg0029",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 30,
+    "label" : "nq240504_msg0030",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만……\n이젠 어리석은 짓입니다"
+  }, {
+    "$id" : 31,
+    "label" : "nq240504_msg0031",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 희생으로 이루어진 번영만을\n그토록 고집했었는지……"
+  }, {
+    "$id" : 32,
+    "label" : "nq240504_msg0032",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "트리히 씨……"
+  }, {
+    "$id" : 33,
+    "label" : "nq240504_msg0033",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 여러분 덕분에\n제 눈이 뜨였습니다"
+  }, {
+    "$id" : 34,
+    "label" : "nq240504_msg0034",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스와 아그누스\n그리고 시티……"
+  }, {
+    "$id" : 35,
+    "label" : "nq240504_msg0035",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그들이 협력하는 모습을 보고\n저는 이게 세상의 진정한 모습이라는\n확신이 들었습니다"
+  }, {
+    "$id" : 36,
+    "label" : "nq240504_msg0036",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 우선 그들과 함께 살며\n그들을 \"아는\" 것부터\n시작하려고 합니다"
+  }, {
+    "$id" : 37,
+    "label" : "nq240504_msg0037",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알겠어\n그럼 우리 역할은 여기서 끝이네"
+  }, {
+    "$id" : 38,
+    "label" : "nq240504_msg0038",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분, 지금까지 함께해 주셔서\n정말로 감사드립니다"
+  }, {
+    "$id" : 39,
+    "label" : "nq240504_msg0039",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 앞으로 여기서 많은 걸 배우고\n저 나름의 결론을 도출해 보려고 합니다"
+  }, {
+    "$id" : 40,
+    "label" : "nq240504_msg0040",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스의…… 아니\n아이오니온의 미래를 위해서요"
+  } ]
+}

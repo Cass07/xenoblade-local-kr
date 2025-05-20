@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk231001_msg0001",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스가 나타나지 않았다면\n다음엔 콜로니 4랑 싸울 예정이었어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk231001_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 4랑……?\n다른 상위 콜로니가 아니라?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk231001_msg0003",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 지금은 랭크가 더트지만\n철거신은 실버 때 거잖아?\n만만찮은 존재임은 변함없어"
+  }, {
+    "$id" : 4,
+    "label" : "tlk231001_msg0004",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 성가신 철거신의 발을 묶은 뒤\n식량을 고갈시키는 작전을 실행하려 했는데\n정말 그랬다면 어떻게 됐을까?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk231001_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……실현되지 않아서 다행이야\n우리의 존재가 뜻밖의 공을 세웠네"
+  } ]
+}

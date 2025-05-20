@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk113202_msg0001",
+    "talker" : "@X1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노아랑 너희가 떠난 뒤로\n콜로니 9의 상황은 정말 최악이었어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk113202_msg0002",
+    "talker" : "@X1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 랭크도\n아이언으로 올라가기 직전이었는데\n브론즈로 떨어져 버렸고……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk113202_msg0003",
+    "talker" : "@X1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적도 잔~뜩 쳐들어오는데\n매일 살아남으려고 발악을 했다니까"
+  }, {
+    "$id" : 4,
+    "label" : "tlk113202_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk113202_msg0005",
+    "talker" : "@X1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 왜 사과하는 거야?\n잘못은 뫼비우스가 했잖아\n노아도 나쁜 짓 했어?!"
+  } ]
+}

@@ -1,0 +1,322 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<40B4F40D>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안하다. 기다리게 했군"
+  }, {
+    "$id" : 2,
+    "label" : "<C86C8506>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상관없어\n이제 시작하려던 참이니까"
+  }, {
+    "$id" : 3,
+    "label" : "<0A662CDE>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면\n앞으로의 행동에 대해서인데……"
+  }, {
+    "$id" : 4,
+    "label" : "<B7748BBD>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거야 이미 정해진 거 아냐?"
+  }, {
+    "$id" : 5,
+    "label" : "<23795BE7>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 오리진인가 하는 거에 진입해서\n알파를 날려 버리고 나엘을 되찾아야지!"
+  }, {
+    "$id" : 6,
+    "label" : "<59D04968>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐, 그렇게 말할 줄 알았다\n우리 방침하고 별로 차이도 없으니까 말이야"
+  }, {
+    "$id" : 7,
+    "label" : "<AD07DBA6>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오리진에 가려면\n우선 \"감옥섬\"으로 갈 필요가 있어"
+  }, {
+    "$id" : 8,
+    "label" : "<375D319E>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "감옥섬?"
+  }, {
+    "$id" : 9,
+    "label" : "<FE15722A>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "감옥섬은\n이 센트옴니아 지방의 북쪽 끝……\n험준한 지형의 한가운데에 있어"
+  }, {
+    "$id" : 10,
+    "label" : "<BEDCD509>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그곳에 오리진으로 통하는 길이 있지"
+  }, {
+    "$id" : 11,
+    "label" : "<493AF95C>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 문제가 하나 있습니다"
+  }, {
+    "$id" : 12,
+    "label" : "<F36FC98B>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 문제?"
+  }, {
+    "$id" : 13,
+    "label" : "<28876A93>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "감옥섬의 입구는 탑의 측면……\n그것도 꽤 상공에 위치해 있습니다"
+  }, {
+    "$id" : 14,
+    "label" : "<EC904365>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조사대가 관측한 결과에 따르면\n육로로 도달하는 것은 불가능하다고 판명되었죠"
+  }, {
+    "$id" : 15,
+    "label" : "<7C1741B5>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티 사람들이 소유한 아머리도\n현재는 고장이 났기 때문에\n하늘로 갈 방법도 없습니다"
+  }, {
+    "$id" : 16,
+    "label" : "<160227B8>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갑자기 막다른 길이네……\n뭔가 방법은 없어?"
+  }, {
+    "$id" : 17,
+    "label" : "<8BF392C0>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정 마\n이미 손은 써 놨어"
+  }, {
+    "$id" : 18,
+    "label" : "<ED69EE4E>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에테르 슬라이드 장치를\n수직 상승 용도로 개조하면 돼\n그걸 써서 감옥섬 측면에 붙는 거지"
+  }, {
+    "$id" : 19,
+    "label" : "<14941BF4>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말하자면\n\"에테르 리프트\"라고 할 수 있겠네"
+  }, {
+    "$id" : 20,
+    "label" : "<FED67244>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "개조에 필요한 절차에 대해서는\n나중에 리쿠의 공방에서 설명할게"
+  }, {
+    "$id" : 21,
+    "label" : "<358D67F8>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇군\n어쨌든 그 에테르 리프트라는 걸\n준비해야 한다는 거지?"
+  }, {
+    "$id" : 22,
+    "label" : "<B9EC9ADB>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 바로……"
+  }, {
+    "$id" : 23,
+    "label" : "<FFE597E6>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "매슈!"
+  }, {
+    "$id" : 24,
+    "label" : "<61A39557>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 왜 그래, 니콜?"
+  }, {
+    "$id" : 25,
+    "label" : "<6F97EBBD>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그게…… 음……"
+  }, {
+    "$id" : 26,
+    "label" : "<B18F0210>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "할 말이 있어\n여기 있는 모두에게"
+  }, {
+    "$id" : 27,
+    "label" : "<F55E209E>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐길래 그래? 새삼스럽게"
+  }, {
+    "$id" : 28,
+    "label" : "<EF0C8124>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……정말 중요한 이야기야"
+  }, {
+    "$id" : 29,
+    "label" : "<9B7B7117>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 30,
+    "label" : "<8BA4F446>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래, 알았어"
+  }, {
+    "$id" : 31,
+    "label" : "<D5657201>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이곳은 좀 어수선하니\n다른 곳에서 할까?"
+  }, {
+    "$id" : 32,
+    "label" : "<B26F3AB2>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응\n그럼 우리 텐트로……"
+  }, {
+    "$id" : 33,
+    "label" : "<D5358F1C>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어!"
+  } ]
+}

@@ -1,0 +1,160 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012607_msg0001",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물어보고 싶은 게 있다"
+  }, {
+    "$id" : 2,
+    "label" : "tq012607_msg0002",
+    "talker" : "el1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로자나 씨에 대한 건가요모?"
+  }, {
+    "$id" : 3,
+    "label" : "tq012607_msg0003",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래"
+  }, {
+    "$id" : 4,
+    "label" : "tq012607_msg0004",
+    "talker" : "el1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요즘은 바빠 보여서요모\n타루타루도 3일쯤 못 만났어요모"
+  }, {
+    "$id" : 5,
+    "label" : "tq012607_msg0005",
+    "talker" : "el1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오토마톤을 좀 더\n손보고 싶었는데 말이죠모"
+  }, {
+    "$id" : 6,
+    "label" : "tq012607_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오토마톤?"
+  }, {
+    "$id" : 7,
+    "label" : "tq012607_msg0007",
+    "talker" : "el1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아요모\n오토마톤을 조정하고 있었어요모"
+  }, {
+    "$id" : 8,
+    "label" : "tq012607_msg0008",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그레이, 너도 알고 있었어?"
+  }, {
+    "$id" : 9,
+    "label" : "tq012607_msg0009",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……몰랐다\n들은 적도 없고"
+  }, {
+    "$id" : 10,
+    "label" : "tq012607_msg0010",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 그 조정된 오토마톤은\n지금 어디에 있지?"
+  }, {
+    "$id" : 11,
+    "label" : "tq012607_msg0011",
+    "talker" : "el1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "눈에 띄지 않는 곳에 있다고 들었어요모\n타루타루는 잘 모르겠네요모"
+  }, {
+    "$id" : 12,
+    "label" : "tq012607_msg0012",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오토마톤을 조정하고 있었는데\n오토마톤이 어딨는지 모른다고?"
+  }, {
+    "$id" : 13,
+    "label" : "tq012607_msg0013",
+    "talker" : "el1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기밀 사항이라고 했어요모"
+  }, {
+    "$id" : 14,
+    "label" : "tq012607_msg0014",
+    "talker" : "el1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "눈을 가리고 걷게 했어요모\n시티 안인 거 같긴 한데\n끄트머리까지 걸어간 듯해요모……"
+  }, {
+    "$id" : 15,
+    "label" : "tq012607_msg0015",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았다\n그 정도면 됐어"
+  } ]
+}

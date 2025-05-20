@@ -1,0 +1,418 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<1401DC7F>",
+    "style" : 14,
+    "name" : "ORDERED"
+  }, {
+    "$id" : 2,
+    "label" : "<F344035F>",
+    "style" : 7,
+    "name" : "QUEST CLEAR"
+  }, {
+    "$id" : 3,
+    "label" : "<68D78829>",
+    "style" : 7,
+    "name" : "CLEAR"
+  }, {
+    "$id" : 4,
+    "label" : "<C97428A5>",
+    "style" : 11,
+    "name" : "전부"
+  }, {
+    "$id" : 5,
+    "label" : "<4ED571C8>",
+    "style" : 11,
+    "name" : "메인 스토리"
+  }, {
+    "$id" : 6,
+    "label" : "<50E3CAAB>",
+    "style" : 11,
+    "name" : "히어로 퀘스트"
+  }, {
+    "$id" : 7,
+    "label" : "<301A5CCC>",
+    "style" : 11,
+    "name" : "노멀 퀘스트"
+  }, {
+    "$id" : 8,
+    "label" : "<A6B57E39>",
+    "style" : 11,
+    "name" : "컬렉피디아 카드"
+  }, {
+    "$id" : 9,
+    "label" : "<C42AB299>",
+    "style" : 11,
+    "name" : ""
+  }, {
+    "$id" : 10,
+    "label" : "<045B40FB>",
+    "style" : 11,
+    "name" : ""
+  }, {
+    "$id" : 11,
+    "label" : "<F4C8A3A3>",
+    "style" : 11,
+    "name" : ""
+  }, {
+    "$id" : 12,
+    "label" : "<4933933C>",
+    "style" : 11,
+    "name" : ""
+  }, {
+    "$id" : 13,
+    "label" : "<B7A584A7>",
+    "style" : 4,
+    "name" : "보수 물품"
+  }, {
+    "$id" : 14,
+    "label" : "<CFD2CDBB>",
+    "style" : 4,
+    "name" : "보수 금액"
+  }, {
+    "$id" : 15,
+    "label" : "<E70E567C>",
+    "style" : 4,
+    "name" : "경험치"
+  }, {
+    "$id" : 16,
+    "label" : "<FC12D256>",
+    "style" : 11,
+    "name" : "인연 포인트"
+  }, {
+    "$id" : 17,
+    "label" : "<36A03B76>",
+    "style" : 4,
+    "name" : "SP"
+  }, {
+    "$id" : 18,
+    "label" : "<17A01678>",
+    "style" : 4,
+    "name" : "EXP"
+  }, {
+    "$id" : 19,
+    "label" : "<B7BD03C1>",
+    "style" : 11,
+    "name" : "????"
+  }, {
+    "$id" : 20,
+    "label" : "<E4EF3F1C>",
+    "style" : 5,
+    "name" : "퀘스트명"
+  }, {
+    "$id" : 21,
+    "label" : "<58FAD703>",
+    "style" : 5,
+    "name" : "추천 레벨"
+  }, {
+    "$id" : 22,
+    "label" : "<246BD994>",
+    "style" : 9,
+    "name" : "의뢰 내용"
+  }, {
+    "$id" : 23,
+    "label" : "<2AB9A4A7>",
+    "style" : 9,
+    "name" : "달성 조건"
+  }, {
+    "$id" : 24,
+    "label" : "<1E29F323>",
+    "style" : 9,
+    "name" : ""
+  }, {
+    "$id" : 25,
+    "label" : "<B54E7FA6>",
+    "style" : 9,
+    "name" : "수집"
+  }, {
+    "$id" : 26,
+    "label" : "<42292CA9>",
+    "style" : 9,
+    "name" : "토벌"
+  }, {
+    "$id" : 27,
+    "label" : "<89B5120F>",
+    "style" : 9,
+    "name" : "대화하기"
+  }, {
+    "$id" : 28,
+    "label" : "<52CD5E8E>",
+    "style" : 9,
+    "name" : "조사하기"
+  }, {
+    "$id" : 29,
+    "label" : "<BBB46528>",
+    "style" : 9,
+    "name" : "상담"
+  }, {
+    "$id" : 30,
+    "label" : "<F02F0FCA>",
+    "style" : 9,
+    "name" : "목적지"
+  }, {
+    "$id" : 31,
+    "label" : "<4C082B67>",
+    "style" : 9,
+    "name" : "추적"
+  }, {
+    "$id" : 32,
+    "label" : "<DEDC09D1>",
+    "style" : 9,
+    "name" : "넘기기"
+  }, {
+    "$id" : 33,
+    "label" : "<E0FC13E8>",
+    "style" : 9,
+    "name" : "컬렉피디아 카드"
+  }, {
+    "$id" : 34,
+    "label" : "<4E9C30BE>",
+    "style" : 9,
+    "name" : "동행"
+  }, {
+    "$id" : 35,
+    "label" : "<6B4018BD>",
+    "style" : 9,
+    "name" : "행동"
+  }, {
+    "$id" : 36,
+    "label" : "<2DB1B1E6>",
+    "style" : 9,
+    "name" : "복합"
+  }, {
+    "$id" : 37,
+    "label" : "<712F24A8>",
+    "style" : 9,
+    "name" : "선택"
+  }, {
+    "$id" : 38,
+    "label" : "<C751B348>",
+    "style" : 19,
+    "name" : "지정된 물건을 모은다"
+  }, {
+    "$id" : 39,
+    "label" : "<3F81ECB7>",
+    "style" : 19,
+    "name" : "지정된 적을 토벌한다"
+  }, {
+    "$id" : 40,
+    "label" : "<4A1AD153>",
+    "style" : 19,
+    "name" : "지정된 인물과 대화한다"
+  }, {
+    "$id" : 41,
+    "label" : "<FFA236B4>",
+    "style" : 19,
+    "name" : "지정된 물건을 조사한다"
+  }, {
+    "$id" : 42,
+    "label" : "<4CE5ED51>",
+    "style" : 19,
+    "name" : "휴식 포인트에서 상담한다"
+  }, {
+    "$id" : 43,
+    "label" : "<8ED27F21>",
+    "style" : 19,
+    "name" : "지정된 장소로 간다"
+  }, {
+    "$id" : 44,
+    "label" : "<1E84044F>",
+    "style" : 19,
+    "name" : "흔적을 추적한다"
+  }, {
+    "$id" : 45,
+    "label" : "<3DD93B91>",
+    "style" : 19,
+    "name" : "지정된 물건을 넘긴다"
+  }, {
+    "$id" : 46,
+    "label" : "<55614D46>",
+    "style" : 19,
+    "name" : "지정된 컬렉피디아 카드를 완성한다"
+  }, {
+    "$id" : 47,
+    "label" : "<EE4121CF>",
+    "style" : 19,
+    "name" : "지정된 인물을 따라간다"
+  }, {
+    "$id" : 48,
+    "label" : "<38CCCFAE>",
+    "style" : 19,
+    "name" : "지정된 행동을 실행한다"
+  }, {
+    "$id" : 49,
+    "label" : "<8B8A5EE4>",
+    "style" : 19,
+    "name" : "모든 목적을 달성한다"
+  }, {
+    "$id" : 50,
+    "label" : "<7D48597F>",
+    "style" : 19,
+    "name" : "목적을 하나 달성한다"
+  }, {
+    "$id" : 51,
+    "label" : "<FF678CF6>",
+    "style" : 19,
+    "name" : "액티브 활성화"
+  }, {
+    "$id" : 52,
+    "label" : "<1E8D4547>",
+    "style" : 19,
+    "name" : "액티브 해제"
+  }, {
+    "$id" : 53,
+    "label" : "<C7DEBCE0>",
+    "style" : 19,
+    "name" : "목표 장소"
+  }, {
+    "$id" : 54,
+    "label" : "<30D3F36E>",
+    "style" : 15,
+    "name" : "액티브 퀘스트 등록"
+  }, {
+    "$id" : 55,
+    "label" : "<EABA2970>",
+    "style" : 15,
+    "name" : "액티브 퀘스트 해제"
+  }, {
+    "$id" : 56,
+    "label" : "<EED187FE>",
+    "style" : 11,
+    "name" : ""
+  }, {
+    "$id" : 57,
+    "label" : "<D1F3F1A1>",
+    "style" : 13,
+    "name" : "정보 획득"
+  }, {
+    "$id" : 58,
+    "label" : "<0D5F70A0>",
+    "style" : 11,
+    "name" : "COMPLETE"
+  }, {
+    "$id" : 59,
+    "label" : "<92949A95>",
+    "style" : 11,
+    "name" : "닫기"
+  }, {
+    "$id" : 60,
+    "label" : "<EC924ED3>",
+    "style" : 0,
+    "name" : "m"
+  }, {
+    "$id" : 61,
+    "label" : "<1BC73ED9>",
+    "style" : 11,
+    "name" : "요리 레시피"
+  }, {
+    "$id" : 62,
+    "label" : "<8FD801E4>",
+    "style" : 11,
+    "name" : "현재 목적"
+  }, {
+    "$id" : 63,
+    "label" : "<13AF7608>",
+    "style" : 11,
+    "name" : "퀘스트 전환"
+  }, {
+    "$id" : 64,
+    "label" : "<D560716C>",
+    "style" : 11,
+    "name" : "목적지 주변 에어리어 맵"
+  }, {
+    "$id" : 65,
+    "label" : "<EAC6264F>",
+    "style" : 11,
+    "name" : "필수 히어로"
+  }, {
+    "$id" : 66,
+    "label" : "<5CE9AEB0>",
+    "style" : 5,
+    "name" : "퀘스트 갱신"
+  }, {
+    "$id" : 67,
+    "label" : "<08EC4389>",
+    "style" : 59,
+    "name" : "히어로의 참가가 필요한 퀘스트입니다\n지정 히어로를 파티에 추가하겠습니까?"
+  }, {
+    "$id" : 68,
+    "label" : "<A4DF9E4A>",
+    "style" : 59,
+    "name" : "메인 스토리 진행에 필요한 퀘스트입니다\n액티브 등록하겠습니까?"
+  }, {
+    "$id" : 69,
+    "label" : "<1CF56A51>",
+    "style" : 59,
+    "name" : "파티가 고정되어 있습니다\n히어로 참가 퀘스트를 액티브 활성화할 수 없습니다"
+  }, {
+    "$id" : 70,
+    "label" : "<F0676443>",
+    "style" : 59,
+    "name" : "파티에서 이탈해 있는 히어로가 필요합니다\n히어로 참가 퀘스트를 액티브 활성화할 수 없습니다"
+  }, {
+    "$id" : 71,
+    "label" : "<8E6CE5BD>",
+    "style" : 11,
+    "name" : "원하는 물건 리스트"
+  }, {
+    "$id" : 72,
+    "label" : "<73303E01>",
+    "style" : 11,
+    "name" : "등록 완료"
+  }, {
+    "$id" : 73,
+    "label" : "<56940C13>",
+    "style" : 11,
+    "name" : "인연 맵 갱신"
+  }, {
+    "$id" : 74,
+    "label" : "<312CE984>",
+    "style" : 5,
+    "name" : "의뢰인"
+  }, {
+    "$id" : 75,
+    "label" : "<987B6ADC>",
+    "style" : 5,
+    "name" : "등록하기"
+  }, {
+    "$id" : 76,
+    "label" : "<D78E7584>",
+    "style" : 3,
+    "name" : "+[ML:number digit=3 ]"
+  }, {
+    "$id" : 77,
+    "label" : "<48D117BA>",
+    "style" : 8,
+    "name" : "[ML:number digit=6 ] EXP"
+  }, {
+    "$id" : 78,
+    "label" : "<92973383>",
+    "style" : 2,
+    "name" : "x[ML:number digit=2 ]"
+  }, {
+    "$id" : 79,
+    "label" : "<D2EC496E>",
+    "style" : 9,
+    "name" : "에테르 스피어"
+  }, {
+    "$id" : 80,
+    "label" : "<72528AE5>",
+    "style" : 19,
+    "name" : "에어리어 제압"
+  }, {
+    "$id" : 81,
+    "label" : "<7074FCCF>",
+    "style" : 59,
+    "name" : "퀘스트 진행에 필요한 퀘스트입니다\n액티브 등록하겠습니까?"
+  } ]
+}

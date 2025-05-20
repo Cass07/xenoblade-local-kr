@@ -1,0 +1,655 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq210501_msg0001",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들은 무슨 일로 왔어?"
+  }, {
+    "$id" : 2,
+    "label" : "nq210501_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에테르가 풍부하다고 들었는데\n다른 곳에도 사용할 수 없을까 해서 왔어"
+  }, {
+    "$id" : 3,
+    "label" : "nq210501_msg0003",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그런 거였구나\n그래, 너희 말대로 에테르를\n차고 넘칠 만큼 채굴하고 있지"
+  }, {
+    "$id" : 4,
+    "label" : "nq210501_msg0004",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에테르 탐지기가 완성된 뒤로\n작업이 아주 순조롭게 진행되고 있거든"
+  }, {
+    "$id" : 5,
+    "label" : "nq210501_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "과연\n그래서 채굴 효율이 오른 건가"
+  }, {
+    "$id" : 6,
+    "label" : "nq210501_msg0006",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저건 나랑 호츠마가 개발한 거야\n에테르 채널을 효율적으로\n발견하고 싶었거든"
+  }, {
+    "$id" : 7,
+    "label" : "nq210501_msg0007",
+    "talker" : "3",
+    "talkattr" : 33112,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 굉장한걸"
+  }, {
+    "$id" : 8,
+    "label" : "nq210501_msg0008",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "덕분에 에테르는 잘 회수하고 있는데\n최근엔 남아돌고 있어"
+  }, {
+    "$id" : 9,
+    "label" : "nq210501_msg0009",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 복에 겨운 소리긴 하지\n너무 많이 채굴돼서 고민이라니"
+  }, {
+    "$id" : 10,
+    "label" : "nq210501_msg0010",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "남은 건 쓰기 나름이겠지?"
+  }, {
+    "$id" : 11,
+    "label" : "nq210501_msg0011",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아까도 그런 말을 하던데\n무슨 좋은 방법이라도 있어?"
+  }, {
+    "$id" : 12,
+    "label" : "nq210501_msg0069",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "무슨 좋은 방법이라도 있어?"
+  }, {
+    "$id" : 13,
+    "label" : "nq210501_msg0012",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "모든 콜로니에 무상으로 제공하자"
+  }, {
+    "$id" : 14,
+    "label" : "nq210501_msg0013",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "어려운 콜로니에 무상으로 제공하자"
+  }, {
+    "$id" : 15,
+    "label" : "nq210501_msg0014",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "희망하는 콜로니를 모집해서 제공하자"
+  }, {
+    "$id" : 16,
+    "label" : "nq210501_msg0015",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 그 생각은 해 봤는데\n우리 측에 이득이 없다고 기각당했어"
+  }, {
+    "$id" : 17,
+    "label" : "nq210501_msg0016",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 지형국의 이타리 씨는\n고지식한 사람이니까 그럴 줄 알았어……"
+  }, {
+    "$id" : 18,
+    "label" : "nq210501_msg0018",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음…… 무상으로 제공하긴 어려워"
+  }, {
+    "$id" : 19,
+    "label" : "nq210501_msg0019",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 비슷한 제안을 해 봤는데\n소대장님께 기각당했어"
+  }, {
+    "$id" : 20,
+    "label" : "nq210501_msg0020",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나쁜 사람은 아니지만\n규정을 중시하는 성격이거든"
+  }, {
+    "$id" : 21,
+    "label" : "nq210501_msg0021",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뒤따르는 대가 같은 게 없다면\n이타리 씨는 물론이고 시후 대장님 같은\n대장급들의 허가도 못 받을 거야"
+  }, {
+    "$id" : 22,
+    "label" : "nq210501_msg0022",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조건이나 제공할 콜로니를\n조금 더 좁히면 좋을 텐데……\n그러면 가능할지도 몰라"
+  }, {
+    "$id" : 23,
+    "label" : "nq210501_msg0023",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쨌든 남아도는 에테르를\n그대로 둘 수도 없는 노릇이니까"
+  }, {
+    "$id" : 24,
+    "label" : "nq210501_msg0024",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……복잡한 문제군"
+  }, {
+    "$id" : 25,
+    "label" : "nq210501_msg0025",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근처에 있는 콜로니 중에\n골라서 검토해 볼까……?"
+  }, {
+    "$id" : 26,
+    "label" : "nq210501_msg0070",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "근처에 있는 콜로니 중에 골라서 검토해 볼까?"
+  }, {
+    "$id" : 27,
+    "label" : "nq210501_msg0026",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "가까이에 있는 콜로니 타우와 협력한다"
+  }, {
+    "$id" : 28,
+    "label" : "nq210501_msg0027",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "콜로니 4와 협력한다"
+  }, {
+    "$id" : 29,
+    "label" : "nq210501_msg0028",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "콜로니 30와 협력한다"
+  }, {
+    "$id" : 30,
+    "label" : "nq210501_msg0029",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……콜로니 타우라\n거긴 교역해도 이득이 없으니까 안 될 거야"
+  }, {
+    "$id" : 31,
+    "label" : "nq210501_msg0030",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 콜로니 4가 어떤 곳인지\n잘 모르지만……"
+  }, {
+    "$id" : 32,
+    "label" : "nq210501_msg0031",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에테르에 걸맞은 교환 조건을\n제시할 수 있는 콜로니야?"
+  }, {
+    "$id" : 33,
+    "label" : "nq210501_msg0032",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 콜로니라면 레브니스 기술을\n대가로 에테르를 줄 수 있겠어"
+  }, {
+    "$id" : 34,
+    "label" : "nq210501_msg0033",
+    "talker" : "5",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……하여간 이래서야\n에테르고 뭐고 하나도 못 주겠네"
+  }, {
+    "$id" : 35,
+    "label" : "nq210501_msg0034",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 콜로니는 허가를 받으려면\n윗사람들을 납득시킬\n마땅한 이유가 있어야 해"
+  }, {
+    "$id" : 36,
+    "label" : "nq210501_msg0035",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 30처럼 어떤 대가가 있어야지\n아니면 허가해 주지 않을 거야"
+  }, {
+    "$id" : 37,
+    "label" : "nq210501_msg0036",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜 성가시네"
+  }, {
+    "$id" : 38,
+    "label" : "nq210501_msg0037",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 그렇게 생각해\n……나도 에테르를 좀 더 널리\n제공해 주고 싶은 마음은 굴뚝같아"
+  }, {
+    "$id" : 39,
+    "label" : "nq210501_msg0038",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 나는 그쪽 일은 잘 몰라\n결국 좋은 아이디어가 없어서\n지금 이러고 있는 거지"
+  }, {
+    "$id" : 40,
+    "label" : "nq210501_msg0039",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다고 해도……\n나도 그런 쪽으로는 머리가 안 돌아간다고"
+  }, {
+    "$id" : 41,
+    "label" : "nq210501_msg0040",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "본질적인 대가를 얻을 수 있다면\n허가해 주겠지"
+  }, {
+    "$id" : 42,
+    "label" : "nq210501_msg0041",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……? 그게 무슨 소리야?"
+  }, {
+    "$id" : 43,
+    "label" : "nq210501_msg0071",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "본질적인 대가라니?"
+  }, {
+    "$id" : 44,
+    "label" : "nq210501_msg0042",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "역시 무상으로 제공하자"
+  }, {
+    "$id" : 45,
+    "label" : "nq210501_msg0043",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "직접 팔러 가자"
+  }, {
+    "$id" : 46,
+    "label" : "nq210501_msg0044",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "노폰을 통해 보급하자"
+  }, {
+    "$id" : 47,
+    "label" : "nq210501_msg0045",
+    "talker" : "5",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 그냥 주는 것 말고는 안 떠올라"
+  }, {
+    "$id" : 48,
+    "label" : "nq210501_msg0046",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응…… 어차피 다 못 쓸 거면\n그냥 줘도 괜찮지 않을까 싶은데……"
+  }, {
+    "$id" : 49,
+    "label" : "nq210501_msg0047",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "직접 팔러 가는 건 어때?"
+  }, {
+    "$id" : 50,
+    "label" : "nq210501_msg0048",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "판매도 나쁘지 않은 방법이지만\n우리끼리 옮기려면 조금 힘들지도 몰라"
+  }, {
+    "$id" : 51,
+    "label" : "nq210501_msg0049",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "큰 힘을 들이지 않아야 하니\n직접 팔러 가는 방법은 어렵다 이건가……"
+  }, {
+    "$id" : 52,
+    "label" : "nq210501_msg0050",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대가도 얻고 고생할 필요도 없는\n방법이 딱 하나 있어"
+  }, {
+    "$id" : 53,
+    "label" : "nq210501_msg0051",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 뭔데?"
+  }, {
+    "$id" : 54,
+    "label" : "nq210501_msg0052",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "각지를 돌아다니는\n노폰 카라반 있잖아?\n그 녀석들한테 파는 방법이지"
+  }, {
+    "$id" : 55,
+    "label" : "nq210501_msg0053",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에테르는 원래부터 수요가 많으니까\n판매할 상품으로 충분한 이익을 기대할 수 있지"
+  }, {
+    "$id" : 56,
+    "label" : "nq210501_msg0054",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 노폰 카라반은\n직접 여러 콜로니를 돌아다니잖아"
+  }, {
+    "$id" : 57,
+    "label" : "nq210501_msg0055",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그중엔 에테르 부족으로\n허덕이는 콜로니도 있겠지"
+  }, {
+    "$id" : 58,
+    "label" : "nq210501_msg0056",
+    "talker" : "uc1",
+    "talkattr" : 33112,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나……!"
+  }, {
+    "$id" : 59,
+    "label" : "nq210501_msg0057",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰과 상의하면 사 줄 거야\n팔기 좋은 상품이니까"
+  }, {
+    "$id" : 60,
+    "label" : "nq210501_msg0058",
+    "talker" : "uc1",
+    "talkattr" : 33112,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 좋겠어! 그렇게 하자!"
+  }, {
+    "$id" : 61,
+    "label" : "nq210501_msg0059",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "람다는 에테르를 팔고\n에테르가 부족한 콜로니는\n노폰한테서 살 수 있고……"
+  }, {
+    "$id" : 62,
+    "label" : "nq210501_msg0060",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 그러려면\n허가가 필요하지 않아?"
+  }, {
+    "$id" : 63,
+    "label" : "nq210501_msg0061",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……맞아, 그건 내가 신청할게"
+  }, {
+    "$id" : 64,
+    "label" : "nq210501_msg0062",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 바로 통과될까?"
+  }, {
+    "$id" : 65,
+    "label" : "nq210501_msg0063",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바로 통과되게 해야지\n무슨 수를 써서라도……"
+  }, {
+    "$id" : 66,
+    "label" : "nq210501_msg0064",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 노폰과 상의해 보자\n이런 얘기는 노폰 상회에서\n나누는 게 좋겠어"
+  }, {
+    "$id" : 67,
+    "label" : "nq210501_msg0065",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 갔다 올까?"
+  }, {
+    "$id" : 68,
+    "label" : "nq210501_msg0066",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부탁해도 될까?"
+  }, {
+    "$id" : 69,
+    "label" : "nq210501_msg0067",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 어려운 일도 아닌데 뭐"
+  }, {
+    "$id" : 70,
+    "label" : "nq210501_msg0068",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰 상회는 람다 입구 근처에 있어\n그럼 잘 부탁해"
+  } ]
+}

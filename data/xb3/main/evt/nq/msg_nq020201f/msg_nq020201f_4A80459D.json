@@ -1,0 +1,376 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq020201_msg0001",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "늦어~\n이제야 오냐"
+  }, {
+    "$id" : 2,
+    "label" : "nq020201_msg0002",
+    "talker" : "YY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제야 오네!"
+  }, {
+    "$id" : 3,
+    "label" : "nq020201_msg0003",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희 둘, 너무 까불지 마!"
+  }, {
+    "$id" : 4,
+    "label" : "nq020201_msg0004",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죄송해요, 세나 선배\n이 녀석들이 워낙 입이 험해서……"
+  }, {
+    "$id" : 5,
+    "label" : "nq020201_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 괜찮아……\n이소라가 사과할 일도 아니고……"
+  }, {
+    "$id" : 6,
+    "label" : "nq020201_msg0006",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼, 우리를 기다리게 한\n세나 잘못이지. 안 그래?"
+  }, {
+    "$id" : 7,
+    "label" : "nq020201_msg0007",
+    "talker" : "YY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 맞아!"
+  }, {
+    "$id" : 8,
+    "label" : "nq020201_msg0008",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마, 말이 너무 심하잖아~!"
+  }, {
+    "$id" : 9,
+    "label" : "nq020201_msg0009",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다시 가르쳐야 할 부분이 조금 있네\n안 그래, 세나?"
+  }, {
+    "$id" : 10,
+    "label" : "nq020201_msg0010",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아……!"
+  }, {
+    "$id" : 11,
+    "label" : "nq020201_msg0011",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 바로 모의전을 시작해 볼까!!"
+  }, {
+    "$id" : 12,
+    "label" : "nq020201_msg0012",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근육을 제대로 단련해 보자!!"
+  }, {
+    "$id" : 13,
+    "label" : "nq020201_msg0013",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응?"
+  }, {
+    "$id" : 14,
+    "label" : "nq020201_msg0014",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 어라……?"
+  }, {
+    "$id" : 15,
+    "label" : "nq020201_msg0015",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야야, 철저하게 굴리자며?\n그럼 보통 모의전 아니야?"
+  }, {
+    "$id" : 16,
+    "label" : "nq020201_msg0016",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐어? 왜?!\n오히려 근육을 단련해야지!"
+  }, {
+    "$id" : 17,
+    "label" : "nq020201_msg0017",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 근육 단련을 시키면……\n우리가 할 게 없잖아"
+  }, {
+    "$id" : 18,
+    "label" : "nq020201_msg0018",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 우리도 같이 해야지!\n격이 다르다는 걸 보여 줄 거잖아!"
+  }, {
+    "$id" : 19,
+    "label" : "nq020201_msg0019",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸로 무슨 격차를 보여 줘!\n그런 뜻으로 한 말 아니거든!"
+  }, {
+    "$id" : 20,
+    "label" : "nq020201_msg0020",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저, 저기, 싸움은……"
+  }, {
+    "$id" : 21,
+    "label" : "nq020201_msg0021",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 근육 단련하고 싶지?\n강해지려면 몸을 만드는 게 먼저잖아?!"
+  }, {
+    "$id" : 22,
+    "label" : "nq020201_msg0022",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~니, 모의전이야!\n내가 싸우는 방법이 뭔지 가르쳐 줄게"
+  }, {
+    "$id" : 23,
+    "label" : "nq020201_msg0023",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 24,
+    "label" : "nq020201_msg0024",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗……"
+  }, {
+    "$id" : 25,
+    "label" : "nq020201_msg0025",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모의전 하고 싶은데요"
+  }, {
+    "$id" : 26,
+    "label" : "nq020201_msg0026",
+    "talker" : "6",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 잠깐만!\n방금 날 보고 비웃었지?!"
+  }, {
+    "$id" : 27,
+    "label" : "nq020201_msg0027",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기분 탓이겠죠"
+  }, {
+    "$id" : 28,
+    "label" : "nq020201_msg0028",
+    "talker" : "YY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기분 탓이겠지!"
+  }, {
+    "$id" : 29,
+    "label" : "nq020201_msg0029",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "애초에 근육 단련이야 매일 하고 있고\n솔직히 케베스 녀석들이랑\n한판 붙어 보고 싶었거든요"
+  }, {
+    "$id" : 30,
+    "label" : "nq020201_msg0030",
+    "talker" : "YY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예이~~! 나도, 나도!!"
+  }, {
+    "$id" : 31,
+    "label" : "nq020201_msg0031",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저도…… 꼭 그런 이유는 아니지만\n좋은 경험이 될 것 같긴 하네요……"
+  }, {
+    "$id" : 32,
+    "label" : "nq020201_msg0032",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으으, 이소라마저……"
+  }, {
+    "$id" : 33,
+    "label" : "nq020201_msg0033",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 결정됐네!"
+  }, {
+    "$id" : 34,
+    "label" : "nq020201_msg0034",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혈기가 넘치는 걸 보니\n이 녀석들에게는 모의전이 딱이겠어"
+  }, {
+    "$id" : 35,
+    "label" : "nq020201_msg0035",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세나보다 오히려 케베스 녀석이\n저희를 훨씬 잘 알고 있는데요?"
+  }, {
+    "$id" : 36,
+    "label" : "nq020201_msg0036",
+    "talker" : "YY1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오오! 한번 보여 주자고!\n우리 힘을 말이야!!"
+  }, {
+    "$id" : 37,
+    "label" : "nq020201_msg0037",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 연습장에서 기다릴 건데\n이제 와서 도망치시는 건 아니겠죠?"
+  }, {
+    "$id" : 38,
+    "label" : "nq020201_msg0038",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "헛소리하지 말고\n먼저 가서 준비나 해 둬"
+  }, {
+    "$id" : 39,
+    "label" : "nq020201_msg0039",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으으……!\n선배로서의 위엄이……!"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk221301_msg0001",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얼티밋 해머를 가진 노폰이\n한자리에 모이는 날이 올 거라고는\n생각하지도 못했어모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk221301_msg0002",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모든 해머가 계승되고 있다는 점 역시……\n기적이라는 말밖에 안 나와모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk221301_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 대단한 일이야?\n별로 실감이 안 나는데……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk221301_msg0004",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"대단한 일\"이지모\n토바리가 상상도 못 한 전개라고모!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk221301_msg0005",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩌면 너희가 정말……\n전쟁이 없는 미래를 만들지도 몰라모"
+  } ]
+}

@@ -1,0 +1,358 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011901_msg0001",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우…… 우와아아……!"
+  }, {
+    "$id" : 2,
+    "label" : "tq011901_msg0002",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건……\n기대 이상이네요!!"
+  }, {
+    "$id" : 3,
+    "label" : "tq011901_msg0003",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……네 반응도 기대 이상이야"
+  }, {
+    "$id" : 4,
+    "label" : "tq011901_msg0004",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아!"
+  }, {
+    "$id" : 5,
+    "label" : "tq011901_msg0005",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어서 와! 기다렸어"
+  }, {
+    "$id" : 6,
+    "label" : "tq011901_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 잘 지냈어?"
+  }, {
+    "$id" : 7,
+    "label" : "tq011901_msg0007",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럭저럭 잘 지냈지"
+  }, {
+    "$id" : 8,
+    "label" : "tq011901_msg0008",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선배! 마나나~!"
+  }, {
+    "$id" : 9,
+    "label" : "tq011901_msg0009",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디 씨~"
+  }, {
+    "$id" : 10,
+    "label" : "tq011901_msg0010",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아하하, 선배는 부끄러워하네"
+  }, {
+    "$id" : 11,
+    "label" : "tq011901_msg0011",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너 정말 긍정적이구나……"
+  }, {
+    "$id" : 12,
+    "label" : "tq011901_msg0012",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오랜만이지?\n잘 지내는 것 같아 다행이야"
+  }, {
+    "$id" : 13,
+    "label" : "tq011901_msg0013",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워! 잘 지내고 있어!"
+  }, {
+    "$id" : 14,
+    "label" : "tq011901_msg0014",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……근데 누구야?"
+  }, {
+    "$id" : 15,
+    "label" : "tq011901_msg0015",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 16,
+    "label" : "tq011901_msg0016",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 요타의 군무장이야!\n연락받았잖아?"
+  }, {
+    "$id" : 17,
+    "label" : "tq011901_msg0017",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~!"
+  }, {
+    "$id" : 18,
+    "label" : "tq011901_msg0018",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네가 시나야?!\n연락해 줘서 고마워!"
+  }, {
+    "$id" : 19,
+    "label" : "tq011901_msg0019",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『니나』야\n기억해 줬으면 좋겠는걸"
+  }, {
+    "$id" : 20,
+    "label" : "tq011901_msg0020",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나! 잘 부탁해\n난 콜로니 30의 군무장인 루디야!"
+  }, {
+    "$id" : 21,
+    "label" : "tq011901_msg0021",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기술 교류는 처음이라서 기뻐!"
+  }, {
+    "$id" : 22,
+    "label" : "tq011901_msg0022",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 별로 기쁘지 않은데"
+  }, {
+    "$id" : 23,
+    "label" : "tq011901_msg0023",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 좀……"
+  }, {
+    "$id" : 24,
+    "label" : "tq011901_msg0024",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래? 레브니스를 싫어해?"
+  }, {
+    "$id" : 25,
+    "label" : "tq011901_msg0025",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 특히 그쪽 건 싫어"
+  }, {
+    "$id" : 26,
+    "label" : "tq011901_msg0026",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나…… 미안해"
+  }, {
+    "$id" : 27,
+    "label" : "tq011901_msg0027",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 오늘\n좋아져서 돌아갔으면 좋겠어!"
+  }, {
+    "$id" : 28,
+    "label" : "tq011901_msg0028",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……참 속 편한 군무장이네\n조금은 경계해야 하지 않겠어?"
+  }, {
+    "$id" : 29,
+    "label" : "tq011901_msg0029",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그래야 해?\n싸울 이유도 없는데"
+  }, {
+    "$id" : 30,
+    "label" : "tq011901_msg0030",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 생각하는 건\n당신뿐일지도 모르지"
+  }, {
+    "$id" : 31,
+    "label" : "tq011901_msg0031",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아하하, 그럴 리 없어\n그랬다면 노아 일행이 널 데려오지 않았을 거야"
+  }, {
+    "$id" : 32,
+    "label" : "tq011901_msg0032",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신뢰하고 있구나"
+  }, {
+    "$id" : 33,
+    "label" : "tq011901_msg0033",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나도 그렇잖아?"
+  }, {
+    "$id" : 34,
+    "label" : "tq011901_msg0034",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그럼, 당연하지"
+  }, {
+    "$id" : 35,
+    "label" : "tq011901_msg0035",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 36,
+    "label" : "tq011901_msg0036",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 안내할게\n조금 어수선하니까 조심해"
+  }, {
+    "$id" : 37,
+    "label" : "tq011901_msg0037",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동료한테 숨기는 건 없으니까\n얼마든지 둘러봐!"
+  } ]
+}

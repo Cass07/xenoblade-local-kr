@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk836004_msg0001",
+    "talker" : "bq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "설마 잊은 건 아니겠지?\n우리 시티의 진정한 적은\n뫼비우스라는 사실을 말이다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk836004_msg0002",
+    "talker" : "bq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이곳의 싸움이 끝나더라도\n다음 전장이 기다리고 있다\n정신 빼놓지 말도록"
+  }, {
+    "$id" : 3,
+    "label" : "tlk836004_msg0003",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연하지\n당신이 말 안 해도 알아"
+  }, {
+    "$id" : 4,
+    "label" : "tlk836004_msg0004",
+    "talker" : "bq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흥…… 그렇다면 됐다"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk320402_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선대에 대해서…… 알려 주지 않을래?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk320402_msg0002",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선대 군무장님이라……\n책임감이 강하고 친절한 분이셨어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk320402_msg0003",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 모두 선대 군무장님을 위해서라면\n힘낼 수 있다고 생각했지"
+  }, {
+    "$id" : 4,
+    "label" : "tlk320402_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은 사람이었나 보네……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk320402_msg0005",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 그리고 그 뒤를 이은 유즈리하도……\n선대 못지않을 정도로 훌륭한 군무장이야"
+  } ]
+}

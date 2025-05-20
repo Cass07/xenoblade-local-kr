@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq990502_msg0001",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후…… 땀을 흘리니 개운한걸"
+  }, {
+    "$id" : 2,
+    "label" : "nq990502_msg0002",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……나도"
+  }, {
+    "$id" : 3,
+    "label" : "nq990502_msg0003",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정하느라 식은땀이 다 났어……"
+  }, {
+    "$id" : 4,
+    "label" : "nq990502_msg0004",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안, 다음엔 좀 더 조심할게"
+  }, {
+    "$id" : 5,
+    "label" : "nq990502_msg0005",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 와 줘서 고마워\n타로한테 보고해 둘게"
+  }, {
+    "$id" : 6,
+    "label" : "nq990502_msg0006",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맹활약했다고 잘 좀 이야기해 줘!"
+  }, {
+    "$id" : 7,
+    "label" : "nq990502_msg0007",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후, 알았어……"
+  }, {
+    "$id" : 8,
+    "label" : "nq990502_msg0008",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼, 나도 포인트 모으러 가 볼게\n나중에 보자"
+  } ]
+}

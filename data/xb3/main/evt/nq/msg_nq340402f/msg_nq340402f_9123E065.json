@@ -1,0 +1,475 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq340402_msg0001",
+    "talker" : "zj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "큭…… 레브니스로도\n이길 수 없단 말인가……"
+  }, {
+    "$id" : 2,
+    "label" : "nq340402_msg0002",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분, 무사하신가요?!"
+  }, {
+    "$id" : 3,
+    "label" : "nq340402_msg0003",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이, 이건……"
+  }, {
+    "$id" : 4,
+    "label" : "nq340402_msg0004",
+    "talker" : "zj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시키…… 설마 너까지 올 줄은 몰랐군"
+  }, {
+    "$id" : 5,
+    "label" : "nq340402_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래, 우리는 괜찮아\n하지만 데이나 일행이……"
+  }, {
+    "$id" : 6,
+    "label" : "nq340402_msg0006",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신들은……\n대체 무슨 짓을……"
+  }, {
+    "$id" : 7,
+    "label" : "nq340402_msg0007",
+    "talker" : "zj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내무국에 있었던\n네가 가장 잘 알 텐데!"
+  }, {
+    "$id" : 8,
+    "label" : "nq340402_msg0008",
+    "talker" : "zj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리라고 여유로운 상황이 아닌데\n왜 죄수들한테 물자를 넘겨주지?!"
+  }, {
+    "$id" : 9,
+    "label" : "nq340402_msg0009",
+    "talker" : "zj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너도 지금껏 죄수들한테\n식량하고 물자를 마련하라고 시켰잖아?!"
+  }, {
+    "$id" : 10,
+    "label" : "nq340402_msg0010",
+    "talker" : "zj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스가 아닌 녀석들 따위\n죽든 말든 무슨 상관이라고!\n내 말이 틀렸나?!"
+  }, {
+    "$id" : 11,
+    "label" : "nq340402_msg0011",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 12,
+    "label" : "nq340402_msg0012",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서로 돕지 않으면 이룰 수 없는 일이 있고\n성의를 보여야만 서로를 이해할 수 있는\n일이 있기 때문입니다"
+  }, {
+    "$id" : 13,
+    "label" : "nq340402_msg0013",
+    "talker" : "zj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐?"
+  }, {
+    "$id" : 14,
+    "label" : "nq340402_msg0014",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서로 돕지 않으면\n괴로움에서 벗어날 수 없다는 걸……"
+  }, {
+    "$id" : 15,
+    "label" : "nq340402_msg0015",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 모르시는 겁니까?"
+  }, {
+    "$id" : 16,
+    "label" : "nq340402_msg0016",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "애초에 시티 사람들을\n죄수 취급한 일 자체가 잘못인 데다"
+  }, {
+    "$id" : 17,
+    "label" : "nq340402_msg0017",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집정관의 말을 생각 없이 믿은 것도 문제였고\n가짜 여왕까지 있었죠!"
+  }, {
+    "$id" : 18,
+    "label" : "nq340402_msg0018",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이해하지 못하겠다면 그건 어쩔 수 없겠죠\n하지만……"
+  }, {
+    "$id" : 19,
+    "label" : "nq340402_msg0019",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "새로운 길을 가려는 자들을 방해하는 건\n절대 용납할 수 없습니다"
+  }, {
+    "$id" : 20,
+    "label" : "nq340402_msg0020",
+    "talker" : "zj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "용납이라고? 웃기지 마!\n우리는 캐슬을 지키기 위해……"
+  }, {
+    "$id" : 21,
+    "label" : "nq340402_msg0021",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하물며…… 죄 없는 사람을 공격하고\n목숨을 빼앗다니……"
+  }, {
+    "$id" : 22,
+    "label" : "nq340402_msg0022",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부끄러운 줄 아세요"
+  }, {
+    "$id" : 23,
+    "label" : "nq340402_msg0023",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저들을 끌고 가세요"
+  }, {
+    "$id" : 24,
+    "label" : "nq340402_msg0024",
+    "talker" : "zj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야……! 시키!\n너한테 무슨 권한이 있다고……!"
+  }, {
+    "$id" : 25,
+    "label" : "nq340402_msg0025",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 일이 일어날 줄이야\n제가 너무 사태를 가볍게 봤군요……"
+  }, {
+    "$id" : 26,
+    "label" : "nq340402_msg0026",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시키의 잘못이 아니잖아"
+  }, {
+    "$id" : 27,
+    "label" : "nq340402_msg0027",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……물자를 보내기는커녕\n동승한 분을 죽게 만들다니"
+  }, {
+    "$id" : 28,
+    "label" : "nq340402_msg0028",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부끄러운 줄 알아야 하는 사람은 저였네요"
+  }, {
+    "$id" : 29,
+    "label" : "nq340402_msg0029",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 그런 말을 할 때가 아니잖아\n할 수 있는 일을 해야지"
+  }, {
+    "$id" : 30,
+    "label" : "nq340402_msg0030",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬죠\n저는 물자를 회수하고 돌아가겠습니다"
+  }, {
+    "$id" : 31,
+    "label" : "nq340402_msg0031",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분\n도와주셔서 감사합니다"
+  }, {
+    "$id" : 32,
+    "label" : "nq340402_msg0032",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응……"
+  }, {
+    "$id" : 33,
+    "label" : "nq340402_msg0101",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이런 곳에서 죽으면 어쩌라고"
+  }, {
+    "$id" : 34,
+    "label" : "nq340402_msg0102",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곤도……"
+  }, {
+    "$id" : 35,
+    "label" : "nq340402_msg0103",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "데이나는 경망스러운 녀석이었지만\n임무를 실패한 적은 한 번도 없었어"
+  }, {
+    "$id" : 36,
+    "label" : "nq340402_msg0104",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그때 코리랑 같이 돌아갔으면\n이렇게 되지 않았을 텐데"
+  }, {
+    "$id" : 37,
+    "label" : "nq340402_msg0105",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……적어도 유품 정도는\n시티에 가지고 돌아가 줘야겠지\n……그만 돌아가자"
+  }, {
+    "$id" : 38,
+    "label" : "nq340402_msg0201",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이렇게 될 줄은 몰랐어"
+  }, {
+    "$id" : 39,
+    "label" : "nq340402_msg0202",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응……\n데이나가 죽었다는 걸\n곤도한테 알려야겠지……"
+  }, {
+    "$id" : 40,
+    "label" : "nq340402_msg0203",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "데이나 씨께서 소지하셨던 물건은\n제가 가져가겠습니다"
+  }, {
+    "$id" : 41,
+    "label" : "nq340402_msg0204",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……곤도 씨께 건네 드리고\n경위를 설명하겠습니다"
+  }, {
+    "$id" : 42,
+    "label" : "nq340402_msg0205",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 우리도……"
+  }, {
+    "$id" : 43,
+    "label" : "nq340402_msg0206",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아뇨…… 이건 제가\n해야만 하는 일이니까요"
+  }, {
+    "$id" : 44,
+    "label" : "nq340402_msg0207",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자기 실수를 다른 사람에게\n떠넘길 수는 없습니다"
+  }, {
+    "$id" : 45,
+    "label" : "nq340402_msg0208",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……저는 먼저 돌아가겠습니다\n여러분, 거듭 민폐를 끼쳐 죄송합니다"
+  }, {
+    "$id" : 46,
+    "label" : "nq340402_msg0209",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮을까?"
+  }, {
+    "$id" : 47,
+    "label" : "nq340402_msg0210",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시키랑 곤도라면\n분명 괜찮을 거야"
+  }, {
+    "$id" : 48,
+    "label" : "nq340402_msg0211",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 곤도 녀석이 보기에는\n그래 보여도 꽤 이성적이잖아"
+  }, {
+    "$id" : 49,
+    "label" : "nq340402_msg0212",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분하지만 우리끼리\n해결할 문제가 아니야"
+  }, {
+    "$id" : 50,
+    "label" : "nq340402_msg0213",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 뒷일은 시키한테 맡기자"
+  } ]
+}

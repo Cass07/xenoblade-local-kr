@@ -1,0 +1,295 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq240402_msg0001",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "웰웰 숍에 웰컴이에요모"
+  }, {
+    "$id" : 2,
+    "label" : "nq240402_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘은 웰웰이\n봐 줬으면 하는 물건이 있어서 왔어"
+  }, {
+    "$id" : 3,
+    "label" : "nq240402_msg0003",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모? 손님이 아니에요모?"
+  }, {
+    "$id" : 4,
+    "label" : "nq240402_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거 말인데……"
+  }, {
+    "$id" : 5,
+    "label" : "nq240402_msg0005",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "과연, 초상화군요모……\n가게에서도 가끔 취급해요모"
+  }, {
+    "$id" : 6,
+    "label" : "nq240402_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸 그린 건\n케베스 출신인 한 인간인데\n올바른 가치를 감정해 줬으면 좋겠어"
+  }, {
+    "$id" : 7,
+    "label" : "nq240402_msg0007",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 이런 쪽에 문외한이거든"
+  }, {
+    "$id" : 8,
+    "label" : "nq240402_msg0008",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티 말고 다른 곳에서 그린 작품은\n오랜만에 봤네요모"
+  }, {
+    "$id" : 9,
+    "label" : "nq240402_msg0009",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갑자기 흥미가 샘솟기 시작했어요모\n이번 일은 웰웰한테 맡기세요모"
+  }, {
+    "$id" : 10,
+    "label" : "nq240402_msg0010",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말이 잘 통해서 다행이네"
+  }, {
+    "$id" : 11,
+    "label" : "nq240402_msg0011",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모……\n모모모모모모……!"
+  }, {
+    "$id" : 12,
+    "label" : "nq240402_msg0012",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 어때?"
+  }, {
+    "$id" : 13,
+    "label" : "nq240402_msg0013",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어차피 별거 아니지?"
+  }, {
+    "$id" : 14,
+    "label" : "nq240402_msg0014",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이……"
+  }, {
+    "$id" : 15,
+    "label" : "nq240402_msg0015",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이?"
+  }, {
+    "$id" : 16,
+    "label" : "nq240402_msg0016",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 굉장해요모!"
+  }, {
+    "$id" : 17,
+    "label" : "nq240402_msg0017",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "피사체가 좀 그렇긴 하지만\n이 대담한 붓 터치……\n그리고 참신한 색감……"
+  }, {
+    "$id" : 18,
+    "label" : "nq240402_msg0018",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타당한 가치를 매기면\n200000G는 더 나가요모!"
+  }, {
+    "$id" : 19,
+    "label" : "nq240402_msg0019",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그치? 별 대단한……"
+  }, {
+    "$id" : 20,
+    "label" : "nq240402_msg0020",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이, 200000G라고?!\n무슨 말도 안 되는……"
+  }, {
+    "$id" : 21,
+    "label" : "nq240402_msg0021",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말도 안 된다니 무례하네요모!"
+  }, {
+    "$id" : 22,
+    "label" : "nq240402_msg0022",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 초상화를 그린 사람은\n백 년에 한 번 나올까 말까 하는 천재예요모!"
+  }, {
+    "$id" : 23,
+    "label" : "nq240402_msg0023",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음, 참신하다고는 생각했지만\n설마 이렇게 비쌀 줄이야"
+  }, {
+    "$id" : 24,
+    "label" : "nq240402_msg0024",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네가 왜 기뻐하는데?"
+  }, {
+    "$id" : 25,
+    "label" : "nq240402_msg0025",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 그럼 결과를\n전해 주러 가자"
+  }, {
+    "$id" : 26,
+    "label" : "nq240402_msg0026",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모?\n파는 게 아니에요모?"
+  }, {
+    "$id" : 27,
+    "label" : "nq240402_msg0027",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 이 초상화를 그린 사람한테\n직접 물어본 뒤에 해야지"
+  }, {
+    "$id" : 28,
+    "label" : "nq240402_msg0028",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어요모\n그럼 웰웰 인증이 있는\n감정서를 함께 줄게요모"
+  }, {
+    "$id" : 29,
+    "label" : "nq240402_msg0029",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거만 있으면 어딜 가도\n그 초상화의 가치는 보장될 거예요모"
+  }, {
+    "$id" : 30,
+    "label" : "nq240402_msg0030",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도와줘서 고마워"
+  } ]
+}

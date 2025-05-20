@@ -1,0 +1,286 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011523_msg0001",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무도 없나……?"
+  }, {
+    "$id" : 2,
+    "label" : "tq011523_msg0002",
+    "talker" : "mf1",
+    "talkattr" : 33025,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "움직이지 마!"
+  }, {
+    "$id" : 3,
+    "label" : "tq011523_msg0003",
+    "talker" : "2",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "멜리아……!"
+  }, {
+    "$id" : 4,
+    "label" : "tq011523_msg0004",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기는 나에게 맡겨라"
+  }, {
+    "$id" : 5,
+    "label" : "tq011523_msg0005",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 이름은 멜리아 에인션트\n그대들과 대화하러 왔다"
+  }, {
+    "$id" : 6,
+    "label" : "tq011523_msg0006",
+    "talker" : "nf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대화라고……?\n죽이러 온 거겠지, 케베스 여왕"
+  }, {
+    "$id" : 7,
+    "label" : "tq011523_msg0007",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그대가 주모자인가\n이름이 뭐지?"
+  }, {
+    "$id" : 8,
+    "label" : "tq011523_msg0008",
+    "talker" : "nf1",
+    "talkattr" : 33025,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네 녀석한테 알려 줄 이름 따윈 없다!"
+  }, {
+    "$id" : 9,
+    "label" : "tq011523_msg0009",
+    "talker" : "nf1",
+    "talkattr" : 33025,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 믿었던 세계는 이제 없어!\n케베스를 쓰러뜨리면 모두가 살 수 있다고……"
+  }, {
+    "$id" : 10,
+    "label" : "tq011523_msg0010",
+    "talker" : "nf1",
+    "talkattr" : 33025,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 옳은 일이라고 믿어 왔는데!"
+  }, {
+    "$id" : 11,
+    "label" : "tq011523_msg0011",
+    "talker" : "G",
+    "talkattr" : 33200,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 12,
+    "label" : "tq011523_msg0012",
+    "talker" : "nf1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금까지 동료가 몇 명이나 죽었는지 알아?"
+  }, {
+    "$id" : 13,
+    "label" : "tq011523_msg0013",
+    "talker" : "nf1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석들한테 어떻게 말할 수 있겠어?\n너희들은 그저 개죽음당한 거라고!"
+  }, {
+    "$id" : 14,
+    "label" : "tq011523_msg0014",
+    "talker" : "2",
+    "talkattr" : 33066,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이성을 잃었어……\n반격이야 쉽지만……"
+  }, {
+    "$id" : 15,
+    "label" : "tq011523_msg0015",
+    "talker" : "2",
+    "talkattr" : 33066,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그치만……\n멜리아는 『맡기라고』 했어"
+  }, {
+    "$id" : 16,
+    "label" : "tq011523_msg0016",
+    "talker" : "nf1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전부 당신이 망가뜨린 거야\n아그누스 여왕과 짜고……\n억지 망상에 우리를 강제로 끌어들였어"
+  }, {
+    "$id" : 17,
+    "label" : "tq011523_msg0017",
+    "talker" : "nf1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "목숨을 부수고, 살아온 의미를 더럽혔어……\n내 동료를 두 번 죽였지"
+  }, {
+    "$id" : 18,
+    "label" : "tq011523_msg0018",
+    "talker" : "2",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래서 당신도 부수는 쪽이 되려고?"
+  }, {
+    "$id" : 19,
+    "label" : "tq011523_msg0019",
+    "talker" : "nf1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래!\n이딴 세계는 필요 없어!"
+  }, {
+    "$id" : 20,
+    "label" : "tq011523_msg0020",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……할 말은 다 했느냐?"
+  }, {
+    "$id" : 21,
+    "label" : "tq011523_msg0021",
+    "talker" : "nf1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "움직이지 말라고……"
+  }, {
+    "$id" : 22,
+    "label" : "tq011523_msg0022",
+    "talker" : "2",
+    "talkattr" : 33113,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "멜리아?!"
+  }, {
+    "$id" : 23,
+    "label" : "tq011523_msg0023",
+    "talker" : "nf1",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……! 무슨 속셈이냐"
+  }, {
+    "$id" : 24,
+    "label" : "tq011523_msg0024",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너야말로 무슨 생각인 것이냐?"
+  }, {
+    "$id" : 25,
+    "label" : "tq011523_msg0025",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 공격을 망설이지?\n지금이 가장 좋은 기회 아니냐"
+  }, {
+    "$id" : 26,
+    "label" : "tq011523_msg0026",
+    "talker" : "nf1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다, 닥쳐!"
+  }, {
+    "$id" : 27,
+    "label" : "tq011523_msg0027",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그대들은 세계를 부수고 싶은 게 아니다"
+  }, {
+    "$id" : 28,
+    "label" : "tq011523_msg0028",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당혹스럽기는 해도 살아가려는 거지\n그래서 나는 대화하러 온 것이니라"
+  }, {
+    "$id" : 29,
+    "label" : "tq011523_msg0029",
+    "talker" : "nf1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "닥쳐, 닥쳐! 닥치라고!!!"
+  } ]
+}

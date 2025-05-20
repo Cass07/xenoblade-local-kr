@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011211_msg0001",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 위험해도 시티를 위해\n할 수 있는 일이 있다면"
+  }, {
+    "$id" : 2,
+    "label" : "tq011211_msg0002",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도전하고 싶다는 마음을 어떻게 말리겠어\n동료라서 오히려 더 돕고 싶은걸"
+  }, {
+    "$id" : 3,
+    "label" : "tq011211_msg0101",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "소중한 사람한테 도움이 되고 싶은\n마음은 알 것 같아……"
+  }, {
+    "$id" : 4,
+    "label" : "tq011211_msg0102",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내게도 소중한 사람들이 많으니까……"
+  } ]
+}

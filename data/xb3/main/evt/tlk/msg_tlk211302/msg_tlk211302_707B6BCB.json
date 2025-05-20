@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk211302_msg0001",
+    "talker" : "Xa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "설마 그럴 일은 없겠지만 너희 혹시\n\"투하 물자\"를 방치하진 않았겠지?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk211302_msg0002",
+    "talker" : "Xa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "누구한테 보낸 건진 상관없어\n발견했을 때 잽싸게 회수하면 그만이니까\n우리도 필사적이라고"
+  }, {
+    "$id" : 3,
+    "label" : "tlk211302_msg0003",
+    "talker" : "Xa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……칫, 필사적인 건 어디든 마찬가지겠군\n주변 녀석들과 다투게 될지도 모르지만\n그건 그때 가서 생각해야지"
+  } ]
+}

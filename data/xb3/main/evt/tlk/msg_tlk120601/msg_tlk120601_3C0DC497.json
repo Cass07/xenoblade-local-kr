@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120601_msg0001",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……시도 군무장님의 보법을 익히면\n아무리 험한 길도 답파할 수 있다네요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120601_msg0002",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 위험한 다나 사막에서도 통한다던데……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120601_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오~ 그렇구나\n마침 군무장님께 배운 참인데\n이번에 다나 사막에서 시험해 볼까?"
+  } ]
+}

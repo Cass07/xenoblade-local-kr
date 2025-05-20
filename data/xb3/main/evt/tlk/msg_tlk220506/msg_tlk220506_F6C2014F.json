@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk220506_msg0001",
+    "talker" : "la1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오리진으로 돌입한다는 연락을 받은 뒤로\n제4부대의 레브니스 신호들이\n모조리 사라지고 말았어……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk220506_msg0002",
+    "talker" : "la1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거기 원래 통신 장애가 발생하는 지역이지?\n응? 제발 그렇다고 해 줘……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk220506_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  } ]
+}

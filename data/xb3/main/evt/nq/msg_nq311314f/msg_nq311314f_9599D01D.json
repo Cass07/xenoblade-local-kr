@@ -1,0 +1,286 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq311314_msg0001",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……흠, 그래\n신성인 쪽도 잘 준비돼 가는 모양이군"
+  }, {
+    "$id" : 2,
+    "label" : "nq311314_msg0002",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아! 필요한 건 다 갖춰졌어!"
+  }, {
+    "$id" : 3,
+    "label" : "nq311314_msg0003",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "행사는 내일 결행한다!\n지금부터 모든 주민한테 연락해야겠군"
+  }, {
+    "$id" : 4,
+    "label" : "nq311314_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어어?!\n뭐가 그렇게 급해?!"
+  }, {
+    "$id" : 5,
+    "label" : "nq311314_msg0005",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내일 당장 전황이 바뀔 수도 있잖아\n일정을 살짝 앞당겨 봤지"
+  }, {
+    "$id" : 6,
+    "label" : "nq311314_msg0006",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았지?\n내일 아침, 시조의 동상 앞에서 집합이야!"
+  }, {
+    "$id" : 7,
+    "label" : "nq311314_msg0007",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘은 숙소에 방을 마련해 놨으니\n거기서 편히 쉬면 돼"
+  }, {
+    "$id" : 8,
+    "label" : "nq311314_msg0008",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고맙긴 한데\n그렇게까지 챙겨 주지 않아도 돼"
+  }, {
+    "$id" : 9,
+    "label" : "nq311314_msg0009",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내일은 꼭\n늦지 않게 갈 거라고"
+  }, {
+    "$id" : 10,
+    "label" : "nq311314_msg0010",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 내일 봐"
+  }, {
+    "$id" : 11,
+    "label" : "nq311314_msg0011",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 거기 서!\n숙소에서 쉬라고 했잖아!"
+  }, {
+    "$id" : 12,
+    "label" : "nq311314_msg0012",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기대되는 마음에 잠이 안 오는 건 이해해!\n하지만 아무리 기대돼도 오늘은 자!"
+  }, {
+    "$id" : 13,
+    "label" : "nq311314_msg0013",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기대는 그쪽이 제일 많이 하는 거 같은데……"
+  }, {
+    "$id" : 14,
+    "label" : "nq311314_msg0014",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젊다고 방심하지 마!\n이 아저씨의 마음을 무시하지 말아 달라고"
+  }, {
+    "$id" : 15,
+    "label" : "nq311314_msg0015",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이미 숙소에다\n연락해 버렸단 말이야……"
+  }, {
+    "$id" : 16,
+    "label" : "nq311314_msg0016",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 알았어"
+  }, {
+    "$id" : 17,
+    "label" : "nq311314_msg0017",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……나 원 참"
+  }, {
+    "$id" : 18,
+    "label" : "nq311314_msg0018",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "트래비스도 괜한 걱정을 사서 한다니까"
+  }, {
+    "$id" : 19,
+    "label" : "nq311314_msg0019",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그만큼 중요한 행사라는 거지"
+  }, {
+    "$id" : 20,
+    "label" : "nq311314_msg0020",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가끔은 괜찮지 않아?"
+  }, {
+    "$id" : 21,
+    "label" : "nq311314_msg0021",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"환송이 없는\" 성인식이라……"
+  }, {
+    "$id" : 22,
+    "label" : "nq311314_msg0022",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기대돼?"
+  }, {
+    "$id" : 23,
+    "label" : "nq311314_msg0023",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 조금"
+  }, {
+    "$id" : 24,
+    "label" : "nq311314_msg0024",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 그래"
+  }, {
+    "$id" : 25,
+    "label" : "nq311314_msg0025",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말로 표현은 잘 안 되지만……"
+  }, {
+    "$id" : 26,
+    "label" : "nq311314_msg0026",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"우리\" 마음도 이어져 있다……\n그런 생각이 들어"
+  }, {
+    "$id" : 27,
+    "label" : "nq311314_msg0027",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……맞아"
+  }, {
+    "$id" : 28,
+    "label" : "nq311314_msg0028",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내일 행사에 대비해서\n오늘은 푹 쉬자"
+  }, {
+    "$id" : 29,
+    "label" : "nq311314_msg0029",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래"
+  } ]
+}

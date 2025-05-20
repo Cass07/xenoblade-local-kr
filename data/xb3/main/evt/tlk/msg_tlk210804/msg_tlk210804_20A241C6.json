@@ -1,0 +1,43 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210804_msg0001",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마이벡은 흠잡을 데가 없는 조수지만\n교본대로 하려는 성향이 강해"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210804_msg0002",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좀 더 유연하면서 임기응변이 가능한\n사람이 되어 줬으면 하는데……\n어떻게 지도해야 할까?"
+  } ]
+}

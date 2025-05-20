@@ -1,0 +1,853 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "cq021700_0020",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……!"
+  }, {
+    "$id" : 2,
+    "label" : "cq021700_0025",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]!"
+  }, {
+    "$id" : 3,
+    "label" : "cq021700_0030",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "무, 뭄바?!"
+  }, {
+    "$id" : 4,
+    "label" : "cq021700_0040",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "하쿠토……"
+  }, {
+    "$id" : 5,
+    "label" : "cq021700_0050",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "재생……"
+  }, {
+    "$id" : 6,
+    "label" : "cq021700_0055",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "된 건가?"
+  }, {
+    "$id" : 7,
+    "label" : "cq021700_0060",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아니…… 그랬다면 더 작아야 하는 거 아냐?"
+  }, {
+    "$id" : 8,
+    "label" : "cq021700_0065",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "얼마 전 뭄바 모습이랑 똑같잖아"
+  }, {
+    "$id" : 9,
+    "label" : "cq021700_0070",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭄바! 나야!"
+  }, {
+    "$id" : 10,
+    "label" : "cq021700_0075",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "란츠라고! 알아보겠어?"
+  }, {
+    "$id" : 11,
+    "label" : "cq021700_0080",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]큭!"
+  }, {
+    "$id" : 12,
+    "label" : "cq021700_0090",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그, 그만둬!"
+  }, {
+    "$id" : 13,
+    "label" : "cq021700_0095",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭄바!"
+  }, {
+    "$id" : 14,
+    "label" : "cq021700_0100",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이번엔 카무나비인가?!"
+  }, {
+    "$id" : 15,
+    "label" : "cq021700_0105",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "어떻게 된 거지?"
+  }, {
+    "$id" : 16,
+    "label" : "cq021700_0110",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이 선율은……?"
+  }, {
+    "$id" : 17,
+    "label" : "cq021700_0120",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "미야비……!"
+  }, {
+    "$id" : 18,
+    "label" : "cq021700_0130",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "미야비!"
+  }, {
+    "$id" : 19,
+    "label" : "cq021700_0140",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "와이……"
+  }, {
+    "$id" : 20,
+    "label" : "cq021700_0150",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "저 녀석이 와이……"
+  }, {
+    "$id" : 21,
+    "label" : "cq021700_0160",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "미야비!\n나야! 세나!"
+  }, {
+    "$id" : 22,
+    "label" : "cq021700_0170",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "구하러 왔어!\n이제 싸우지 않아도 돼!"
+  }, {
+    "$id" : 23,
+    "label" : "cq021700_0180",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그러니까…… 우리랑 같이……!"
+  }, {
+    "$id" : 24,
+    "label" : "cq021700_0190",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "소용없습니다"
+  }, {
+    "$id" : 25,
+    "label" : "cq021700_0200",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]?!"
+  }, {
+    "$id" : 26,
+    "label" : "cq021700_0210",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "재생체에겐 기억도, 감정도 없습니다"
+  }, {
+    "$id" : 27,
+    "label" : "cq021700_0215",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "있는 것이라곤 살고자 하는 투쟁 본능뿐"
+  }, {
+    "$id" : 28,
+    "label" : "cq021700_0220",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "병사들은 원래 요람에서\n기초 교육을 받고 난 뒤에 눈을 뜨죠"
+  }, {
+    "$id" : 29,
+    "label" : "cq021700_0230",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "예전의 당신들처럼 말입니다"
+  }, {
+    "$id" : 30,
+    "label" : "cq021700_0240",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그리고 성인이 될 때까지 10년을 싸워 나가죠"
+  }, {
+    "$id" : 31,
+    "label" : "cq021700_0250",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이 자식……"
+  }, {
+    "$id" : 32,
+    "label" : "cq021700_0260",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이자들은 그저 싸우기 위해 살고 있습니다"
+  }, {
+    "$id" : 33,
+    "label" : "cq021700_0270",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "당신들과 똑같죠"
+  }, {
+    "$id" : 34,
+    "label" : "cq021700_0280",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭐가 똑같아!"
+  }, {
+    "$id" : 35,
+    "label" : "cq021700_0290",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "기억과 감정이…… 지금의 우리를\n그리고 어떻게 살아갈지를 결정하는 거야!"
+  }, {
+    "$id" : 36,
+    "label" : "cq021700_0300",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그걸 빼앗아 놓고……"
+  }, {
+    "$id" : 37,
+    "label" : "cq021700_0310",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "환상입니다"
+  }, {
+    "$id" : 38,
+    "label" : "cq021700_0320",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "애초에 기억이나 감정이란 건"
+  }, {
+    "$id" : 39,
+    "label" : "cq021700_0325",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "본능에 덧붙여진 정보에 불과합니다"
+  }, {
+    "$id" : 40,
+    "label" : "cq021700_0330",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "정보라고?"
+  }, {
+    "$id" : 41,
+    "label" : "cq021700_0335",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "웃기지 마!"
+  }, {
+    "$id" : 42,
+    "label" : "cq021700_0340",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "웃기려고 하는 게 아닙니다"
+  }, {
+    "$id" : 43,
+    "label" : "cq021700_0350",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "당신들은 그 단순한 정보에\n의미를 부여하고 싶어서"
+  }, {
+    "$id" : 44,
+    "label" : "cq021700_0355",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "자신을 속이는 것뿐입니다"
+  }, {
+    "$id" : 45,
+    "label" : "cq021700_0360",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……"
+  }, {
+    "$id" : 46,
+    "label" : "cq021700_0370",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "왜 이런 짓을 하는 거지?"
+  }, {
+    "$id" : 47,
+    "label" : "cq021700_0375",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "목적은 뭐야?"
+  }, {
+    "$id" : 48,
+    "label" : "cq021700_0380",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뫼비우스의 더 나은 삶을 위해서죠"
+  }, {
+    "$id" : 49,
+    "label" : "cq021700_0390",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭐라고?"
+  }, {
+    "$id" : 50,
+    "label" : "cq021700_0400",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그것이 제트가 바라는 것이니까요……"
+  }, {
+    "$id" : 51,
+    "label" : "cq021700_0410",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "제트……"
+  }, {
+    "$id" : 52,
+    "label" : "cq021700_0420",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "제트는 이 세상의 이치입니다"
+  }, {
+    "$id" : 53,
+    "label" : "cq021700_0430",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "따라서 그 분신인 저희는"
+  }, {
+    "$id" : 54,
+    "label" : "cq021700_0435",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "초능력을 행사할 수 있죠"
+  }, {
+    "$id" : 55,
+    "label" : "cq021700_0440",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뫼비우스가 제트의 분신이라고?"
+  }, {
+    "$id" : 56,
+    "label" : "cq021700_0450",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "저의 능력은 생명의 불시계를 창조하는 것"
+  }, {
+    "$id" : 57,
+    "label" : "cq021700_0455",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이제 아시겠지요"
+  }, {
+    "$id" : 58,
+    "label" : "cq021700_0460",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "모든 병사의 목숨은"
+  }, {
+    "$id" : 59,
+    "label" : "cq021700_0465",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "제 손안에 있다는 것을!"
+  }, {
+    "$id" : 60,
+    "label" : "cq021700_0470",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]!"
+  }, {
+    "$id" : 61,
+    "label" : "cq021700_0530",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "생명의 불시계는 바로 저 자신!"
+  }, {
+    "$id" : 62,
+    "label" : "cq021700_0540",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "에셀과 카무나비의 불시계도\n저의 걸작 중 하나였죠"
+  }, {
+    "$id" : 63,
+    "label" : "cq021700_0550",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "흥분되지 않았나요?"
+  }, {
+    "$id" : 64,
+    "label" : "cq021700_0555",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그 목숨을 건 대결이!"
+  }, {
+    "$id" : 65,
+    "label" : "cq021700_0560",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]아아……"
+  }, {
+    "$id" : 66,
+    "label" : "cq021700_0570",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이윽고 깨달았습니다"
+  }, {
+    "$id" : 67,
+    "label" : "cq021700_0580",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "등불도, 사람도\n마지막 순간에 가장 강렬하게 빛난다는 것을"
+  }, {
+    "$id" : 68,
+    "label" : "cq021700_0590",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그것이야말로……"
+  }, {
+    "$id" : 69,
+    "label" : "cq021700_0595",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "저희에게 최고의 양식이 된다는 것을!"
+  }, {
+    "$id" : 70,
+    "label" : "cq021700_0600",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]큭……!"
+  }, {
+    "$id" : 71,
+    "label" : "cq021700_0610",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그렇습니다……"
+  }, {
+    "$id" : 72,
+    "label" : "cq021700_0615",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "저의 최고 걸작이라 할 수 있는 이번 불시계는"
+  }, {
+    "$id" : 73,
+    "label" : "cq021700_0620",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "생명이 가장 빛나는 마지막 1년!"
+  }, {
+    "$id" : 74,
+    "label" : "cq021700_0625",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "찰나를 만들어 내는 궁극의 불시계!"
+  }, {
+    "$id" : 75,
+    "label" : "cq021700_0630",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "광명의 불시계입니다!"
+  }, {
+    "$id" : 76,
+    "label" : "cq021700_0640",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "마지막 1년……"
+  }, {
+    "$id" : 77,
+    "label" : "cq021700_0645",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그거였나!"
+  }, {
+    "$id" : 78,
+    "label" : "cq021700_0650",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭄바와 카무나비가\n성인에 가까운 상태로 재생된 이유가!"
+  }, {
+    "$id" : 79,
+    "label" : "cq021700_0660",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "와이……"
+  }, {
+    "$id" : 80,
+    "label" : "cq021700_0670",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이 자식, 대체 뭐야?"
+  }, {
+    "$id" : 81,
+    "label" : "cq021700_0675",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "열받게 하는 재주가 보통이 아니네"
+  }, {
+    "$id" : 82,
+    "label" : "cq021700_0680",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래, 어떤 뫼비우스보다도 짜증 나는 자식이야"
+  }, {
+    "$id" : 83,
+    "label" : "cq021700_0690",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "왜 그러십니까?"
+  }, {
+    "$id" : 84,
+    "label" : "cq021700_0700",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "서로 죽이십시오!"
+  }, {
+    "$id" : 85,
+    "label" : "cq021700_0705",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "본능에 몸을 맡기고 서로 죽이면 됩니다"
+  }, {
+    "$id" : 86,
+    "label" : "cq021700_0710",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "몇 번이라도 재생시켜 드리지요!"
+  }, {
+    "$id" : 87,
+    "label" : "cq021700_0715",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "제가 만든 생명의 불시계로!"
+  }, {
+    "$id" : 88,
+    "label" : "cq021700_0720",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "저 녀석……"
+  }, {
+    "$id" : 89,
+    "label" : "cq021700_0730",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "자! 어서!"
+  }, {
+    "$id" : 90,
+    "label" : "cq021700_0735",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "제게 보여 주십시오!"
+  }, {
+    "$id" : 91,
+    "label" : "cq021700_0740",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "당신들이 품은 생명의 반짝임을!"
+  }, {
+    "$id" : 92,
+    "label" : "cq021700_0745",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "지금 이 자리에서!"
+  } ]
+}

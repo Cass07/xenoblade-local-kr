@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk333002_msg0001",
+    "talker" : "ri1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캐슬이 공격을 멈춰서\n정말 다행이에요모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk333002_msg0002",
+    "talker" : "ri1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저런 걸 계속 쏴 댔다간\n아이오니온의 아름다운 경관은\n쑥대밭이 됐겠죠모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk333002_msg0003",
+    "talker" : "ri1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생각만 해도 우울하네요모……"
+  } ]
+}

@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120204_msg0001",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "키리에가 선배들이랑 같이\n케베스 병사를 쓰러뜨린 게 사실이에요?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120204_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 사실이야\n제법 잘 싸우던걸"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120204_msg0003",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흐음, 그 응석받이가 그랬단 말이지……\n이것도 시도 군무장님 교육의 성과인가?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120204_msg0004",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하! 점점 재밌어지는데요\n이제야 조금 기대되기 시작했단 말이죠"
+  } ]
+}

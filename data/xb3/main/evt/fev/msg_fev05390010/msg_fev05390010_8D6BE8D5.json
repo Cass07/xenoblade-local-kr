@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<3165C47F>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곤도……!"
+  }, {
+    "$id" : 2,
+    "label" : "<96B1806C>",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꽤 늦었잖아"
+  }, {
+    "$id" : 3,
+    "label" : "<E3FAD7D9>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 짧은 사이에 이렇게나……"
+  }, {
+    "$id" : 4,
+    "label" : "<BD79C052>",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭘 꾸물거리고 있어!\n동료들이 한바탕 날뛰는 사이에\n우린 서쪽 게이트로 가야 한다고!"
+  }, {
+    "$id" : 5,
+    "label" : "<F450A029>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직 꽤 많은 사람들이 싸우고 있나 봐"
+  }, {
+    "$id" : 6,
+    "label" : "<7AC1FB9F>",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 좋네\n한 번 더 난리 쳐도 된다는 소리잖아"
+  }, {
+    "$id" : 7,
+    "label" : "<AE533EC9>",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 제일 먼저 앞장서서 가 주지"
+  }, {
+    "$id" : 8,
+    "label" : "<64F678F2>",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가자, 얘들아!!"
+  }, {
+    "$id" : 9,
+    "label" : "<5E96EC9D>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : "곤도가 일시적으로\n파티에 가입했습니다"
+  } ]
+}

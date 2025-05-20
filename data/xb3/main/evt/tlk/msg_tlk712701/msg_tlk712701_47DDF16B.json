@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk712701_msg0001",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수용소에 갇힌 로스트 넘버즈는\n임무 도중 잡힌 병사들이고……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk712701_msg0002",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나갈 수 있다는 희망조차 거의 없이\n여기서 몇 년을 지내는구나……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk712701_msg0003",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 생활을 하고 있을 줄은\n상상도 못 했어……"
+  } ]
+}

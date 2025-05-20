@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk510302_msg0001",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전에는 여러모로 고마웠어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk510302_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 뒤로 문제는 없었고?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk510302_msg0003",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼, 순조롭지\n시노가 잠재력이 있으니\n가르치는 재미가 있더라고"
+  }, {
+    "$id" : 4,
+    "label" : "tlk510302_msg0004",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "심지어 시노 외에도 가르쳐 달라고 하는\n애들이 늘었어, 대단하지 않아?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk510302_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "반가운 소식이네\n시티에 잘 적응한 거 같아서 다행이야"
+  } ]
+}

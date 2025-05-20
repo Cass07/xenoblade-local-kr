@@ -1,0 +1,232 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq340608_msg0001",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……여기는 어디죠?"
+  }, {
+    "$id" : 2,
+    "label" : "nq340608_msg0002",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 서점이잖아"
+  }, {
+    "$id" : 3,
+    "label" : "nq340608_msg0003",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서점이군요……"
+  }, {
+    "$id" : 4,
+    "label" : "nq340608_msg0004",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기선 책을 팔아. 읽어 봐도 돼\n멋대로 갖고 나가지만 않으면 혼날 일 없어"
+  }, {
+    "$id" : 5,
+    "label" : "nq340608_msg0005",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일일이 설명하는 것도 귀찮네\n거기에 뭐라고 쓰여 있잖아"
+  }, {
+    "$id" : 6,
+    "label" : "nq340608_msg0006",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그렇군요…… 그럼……"
+  }, {
+    "$id" : 7,
+    "label" : "nq340608_msg0007",
+    "talker" : "vj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐 재밌는 거라도 적혀 있어?"
+  }, {
+    "$id" : 8,
+    "label" : "nq340608_msg0008",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건…… 지적 호기심을 자극하네요……"
+  }, {
+    "$id" : 9,
+    "label" : "nq340608_msg0009",
+    "talker" : "vj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어?"
+  }, {
+    "$id" : 10,
+    "label" : "nq340608_msg0010",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "읽으면 읽을수록\n의아했던 것들이 이해돼요"
+  }, {
+    "$id" : 11,
+    "label" : "nq340608_msg0011",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……시티에 이런 물건이 있을 줄이야!"
+  }, {
+    "$id" : 12,
+    "label" : "nq340608_msg0012",
+    "talker" : "vj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야, 왜 갑자기 이상해졌어?"
+  }, {
+    "$id" : 13,
+    "label" : "nq340608_msg0013",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오히려 이쪽이 본모습 아니야?"
+  }, {
+    "$id" : 14,
+    "label" : "nq340608_msg0014",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄……"
+  }, {
+    "$id" : 15,
+    "label" : "nq340608_msg0015",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죄송합니다. 저도 모르게 그만……"
+  }, {
+    "$id" : 16,
+    "label" : "nq340608_msg0016",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 저희는 손을 맞잡고\n앞으로 나아가야 합니다"
+  }, {
+    "$id" : 17,
+    "label" : "nq340608_msg0017",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금껏 알지 못했던 문화를 겪고\n자극을 받은 건 사실이죠……"
+  }, {
+    "$id" : 18,
+    "label" : "nq340608_msg0018",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스와 케베스……\n그 장벽을 뛰어넘어……"
+  }, {
+    "$id" : 19,
+    "label" : "nq340608_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래…… 힘을 합쳐서\n새로운 길을……"
+  }, {
+    "$id" : 20,
+    "label" : "nq340608_msg0020",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곤도 씨도……"
+  }, {
+    "$id" : 21,
+    "label" : "nq340608_msg0021",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 네가 진심이라면\n인정해 주지"
+  }, {
+    "$id" : 22,
+    "label" : "nq340608_msg0022",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이곳을 알게 된 이상 도망치면 가만 안 둬\n똑똑히 기억해 두라고"
+  }, {
+    "$id" : 23,
+    "label" : "nq340608_msg0023",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 물론이죠\n저희는 도망치거나 숨지 않을 겁니다\n미래를 향해 나아갈 거니까요"
+  } ]
+}

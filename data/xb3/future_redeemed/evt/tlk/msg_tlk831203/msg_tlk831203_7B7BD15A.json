@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831203_msg0001",
+    "talker" : "tq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "파나세아 씨는 다른 사람을 잘 돌봐서\n어쩐지 누님 같은 느낌이 들지 않아~?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831203_msg0002",
+    "talker" : "tq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "린카 씨는 정말 머리가 좋아서\n무슨 문제가 있든 단박에 해결해 버리고"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831203_msg0003",
+    "talker" : "tq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시간이 지나면 역시 그 두 사람이\n리버레이터의 리더가 되겠지?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831203_msg0004",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확실히 소질은 있어\n그건 분명해"
+  }, {
+    "$id" : 5,
+    "label" : "tlk831203_msg0005",
+    "talker" : "tq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아하하, 역시 그렇지~?"
+  } ]
+}

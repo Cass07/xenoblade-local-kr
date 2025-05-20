@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq991401_msg0001",
+    "talker" : "cf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗……!"
+  }, {
+    "$id" : 2,
+    "label" : "nq991401_msg0002",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐, 네 녀석은 어느 부대지?\n소속을 말해라. ……3초 주지"
+  }, {
+    "$id" : 3,
+    "label" : "nq991401_msg0003",
+    "talker" : "cf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……큭!!"
+  }, {
+    "$id" : 4,
+    "label" : "nq991401_msg0004",
+    "talker" : "me1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하! 반응을 보아하니 정답이군!\n이거 땡잡았는데!!"
+  }, {
+    "$id" : 5,
+    "label" : "nq991401_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거느리고 있는 병사도 많진 않아\n공격하려면 지금이야!"
+  } ]
+}

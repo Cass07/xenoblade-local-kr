@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq000117_msg0001",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시르지르 의뢰를 받고 왔어\n돌을 주지 않을래?"
+  }, {
+    "$id" : 2,
+    "label" : "nq000117_msg0002",
+    "talker" : "qi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 벌써 그런 시기네요모\n제 돌은…… 어디 뒀는지\n기억이 안 나요모"
+  }, {
+    "$id" : 3,
+    "label" : "nq000117_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "받아 오라고\n부탁받았는데 말이지"
+  }, {
+    "$id" : 4,
+    "label" : "nq000117_msg0004",
+    "talker" : "qi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 빨간색만 있어요모\n무슨 뜻인지는 잊어버렸지만\n이거면 됐죠모?"
+  }, {
+    "$id" : 5,
+    "label" : "nq000117_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 돌만 주면 상관없어"
+  }, {
+    "$id" : 6,
+    "label" : "nq000117_msg0006",
+    "talker" : "qi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "인간한테 도움을 요청하다니\n시르지르도 많이 바쁜 걸까요모?"
+  }, {
+    "$id" : 7,
+    "label" : "nq000117_msg0007",
+    "talker" : "qi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "메메모 같은 겁쟁이도 있으니까\n그 점은 주의하세요모"
+  }, {
+    "$id" : 8,
+    "label" : "nq000117_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……기억해 둘게"
+  } ]
+}

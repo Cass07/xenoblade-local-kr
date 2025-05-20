@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520904_msg0001",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수고가 많으세요~\n무슨 일이신가요~?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520904_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안, 걱정돼서 말 한번 걸어 봤어\n그나저나 츠무기는 태연하네……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520904_msg0003",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에이~ 태연하기는요~\n하지만 방금 니코가 펑펑 우는 모습을\n우연히 보고 말았어요……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520904_msg0004",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 충격받았을 거예요~\n이럴 때 저는……\n모두를 꼭 안아 주는 사람이고 싶어요~"
+  }, {
+    "$id" : 5,
+    "label" : "tlk520904_msg0005",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 이곳에 남아 있는 아이들이\n얼마나 고마운지~\n저는 이 마음을 전하고 싶거든요~"
+  } ]
+}

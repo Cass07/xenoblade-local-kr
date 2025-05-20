@@ -1,0 +1,250 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<C244D532>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디 보자……\n에테르 리프트를 만드는 데\n필요한 소재는……"
+  }, {
+    "$id" : 2,
+    "label" : "<4DC4D8F3>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 블랙 샤드를 대신할\n더 순도가 높은 에테르 결정……\n\"블랙 크리스털\"이 필요해"
+  }, {
+    "$id" : 3,
+    "label" : "<CF7AB024>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 파나세아 일행에게\n조달을 부탁하려는데 해 줄 수 있을까?"
+  }, {
+    "$id" : 4,
+    "label" : "<3D19FE4A>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어\n꼭 제때 가져올게!"
+  }, {
+    "$id" : 5,
+    "label" : "<8B1BA09C>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우린 뭘 하면 돼?"
+  }, {
+    "$id" : 6,
+    "label" : "<014C1403>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 따로 조달해야 할 물건이 있어"
+  }, {
+    "$id" : 7,
+    "label" : "<5B42735F>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "블랙 크리스털을 쓰면\n상승이나 하강을 견딜 수 있는\n에테르 출력이 나오기는 하지만……"
+  }, {
+    "$id" : 8,
+    "label" : "<E7283A3F>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 반면 안정성이 사라져서\n증폭기의 허용 출력을 넘어 버리겠죠……"
+  }, {
+    "$id" : 9,
+    "label" : "<4C5B378D>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정답이야, 니콜"
+  }, {
+    "$id" : 10,
+    "label" : "<B63BF878>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니 에테르 증폭기를\n리프트용으로 개조해야만 해"
+  }, {
+    "$id" : 11,
+    "label" : "<45A826A8>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러려면\n증폭기에 쓸 초전도체 소재……\n\"포토닉 메탈\"이 필요해"
+  }, {
+    "$id" : 12,
+    "label" : "<A7D06401>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "헉……!"
+  }, {
+    "$id" : 13,
+    "label" : "<81FF591E>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그래, 니콜?"
+  }, {
+    "$id" : 14,
+    "label" : "<0FF61C08>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "포토닉 메탈은\n환상의 금속이라고 할 만큼\n아주 귀중한 소재야"
+  }, {
+    "$id" : 15,
+    "label" : "<F502723D>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "인비디아 갱도에서 정말 조금\n채굴된 이래로는 아무도 발견한 적이\n없다고 하는데 설마……"
+  }, {
+    "$id" : 16,
+    "label" : "<4FF3AC12>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 설마가 맞아"
+  }, {
+    "$id" : 17,
+    "label" : "<978F4014>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얼마 전에 어떤 장소에서\n우연히 광상을 발견했는데 말이지\n아직도 손을 못 대고 있어"
+  }, {
+    "$id" : 18,
+    "label" : "<EB2F0B53>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "손을 못 대?\n채굴을 안 했다고?"
+  }, {
+    "$id" : 19,
+    "label" : "<B453FB5E>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연히 채굴하고 싶었지만\n조금 사정이 있어서 지금은 봉쇄 중이거든"
+  }, {
+    "$id" : 20,
+    "label" : "<E8EC261C>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "봉쇄 중이라니……\n굉장히 불길한 예감이 드는데"
+  }, {
+    "$id" : 21,
+    "label" : "<0F99914B>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아……\n채굴에 위험이 따른다는 건\n지금 미리 밝혀 둘게"
+  }, {
+    "$id" : 22,
+    "label" : "<0ED3FFF6>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 시간이 별로 남지 않았어\n그래서 너희 힘을 빌리려는 거야"
+  }, {
+    "$id" : 23,
+    "label" : "<0AAE9E76>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 애초에 그럴 작정이었어\n그러면 우리가 어디로 가면 돼?"
+  }, {
+    "$id" : 24,
+    "label" : "<97D0D8FE>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"개척자 휴식지\" 근처 동굴이다\n입구는 막혀 있으니까\n조금 찾기 어려울지도 모르겠다만"
+  }, {
+    "$id" : 25,
+    "label" : "<ADEA869E>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 서두르자. 슈르크도 말했지만\n우리에게 남은 시간은 그리 많지 않아"
+  } ]
+}

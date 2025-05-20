@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk320404_msg0001",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집정관에게 속고 살았었다니\n믿기질 않아……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk320404_msg0002",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나 자신이 너무 한심해!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk320404_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 집정관은 이제 없어\n후회하기보다는\n이제 앞을 보며 살아야지"
+  }, {
+    "$id" : 4,
+    "label" : "tlk320404_msg0004",
+    "talker" : "Yd1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론! 이렇게 앓고만 있을까 보냐!\n두고 보라고! 내가 간다!!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk320404_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "녀석…… 아주 기운이 넘치네\n뭐, 당장은 그편이 훨씬 보기 좋지만"
+  } ]
+}

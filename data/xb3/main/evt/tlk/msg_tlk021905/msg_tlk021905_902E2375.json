@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk021905_msg0001",
+    "talker" : "zV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 세나가 지어 준 이름이 마음에 드나 봅니다\n세나에게 부탁하길 잘했습니다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk021905_msg0002",
+    "talker" : "zV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이름뿐만이 아닙니다\n이 자리에 서기까지 있었던 모든 일은\n세주 혼자서는 해낼 수 없는 것들이었습니다"
+  }, {
+    "$id" : 3,
+    "label" : "tlk021905_msg0003",
+    "talker" : "zV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니 세주도……\n우로보로스와 뫼비우스 간의 전쟁에서\n전력을 다하고 싶습니다"
+  }, {
+    "$id" : 4,
+    "label" : "tlk021905_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……고마워\n믿고 있을게, 세주"
+  }, {
+    "$id" : 5,
+    "label" : "tlk021905_msg0005",
+    "talker" : "zV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네…… 세주와 철기병에게\n모두 맡겨 주십시오"
+  } ]
+}

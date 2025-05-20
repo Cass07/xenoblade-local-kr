@@ -1,0 +1,214 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq220100_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 타우에는\n환송자가 없구나"
+  }, {
+    "$id" : 2,
+    "label" : "nq220100_msg0002",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇죠\n콜로니 타우에서는\n유해를 흙으로 돌려보내니까요"
+  }, {
+    "$id" : 3,
+    "label" : "nq220100_msg0003",
+    "talker" : "5",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "특이한 방식이네\n들어 본 적도 없어"
+  }, {
+    "$id" : 4,
+    "label" : "nq220100_msg0004",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "숲에서 자란 자는 숲으로 돌아갑니다\n그 순간까지 고요한……\n그리고 편안한 곳에서 잠들게 해 주는 거죠"
+  }, {
+    "$id" : 5,
+    "label" : "nq220100_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스 사람인 나조차\n그런 풍습이 있는 줄은 몰랐어\n아마 콜로니 타우에서 시작된 거겠지"
+  }, {
+    "$id" : 6,
+    "label" : "nq220100_msg0006",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 저희는 처음부터\n환송이라는 게 필요하지 않았어요"
+  }, {
+    "$id" : 7,
+    "label" : "nq220100_msg0007",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만……\n환송자가 아예 없었던 건 아니었지?\n있었다는 말도 들었는데……"
+  }, {
+    "$id" : 8,
+    "label" : "nq220100_msg0008",
+    "talker" : "L",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예전에는 있었는데\n케베스와의 전투에서\n전사하고 말았죠"
+  }, {
+    "$id" : 9,
+    "label" : "nq220100_msg0009",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 50348161,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유즈리하도 그 자리에 있었어?"
+  }, {
+    "$id" : 10,
+    "label" : "nq220100_msg0010",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 12599425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 저를 도망치게 하기 위해\n후방을 맡은 부대와 함께\n수세에 몰린 끝에 죽은 거라서요……"
+  }, {
+    "$id" : 11,
+    "label" : "nq220100_msg0011",
+    "talker" : "3",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 안타깝다……"
+  }, {
+    "$id" : 12,
+    "label" : "nq220100_msg0012",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 환송할 일이 없는\n콜로니에서 그 녀석들은\n평소에 뭘 하고 지냈던 거야?"
+  }, {
+    "$id" : 13,
+    "label" : "nq220100_msg0013",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "주로 밭 가는 일을 했죠\n말씀하신 것처럼 환송은\n필요하지 않았으니까요……"
+  }, {
+    "$id" : 14,
+    "label" : "nq220100_msg0014",
+    "talker" : "3",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 그거대로 안타까운데"
+  }, {
+    "$id" : 15,
+    "label" : "nq220100_msg0015",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……부탁드립니다\n죽은 환송자를\n환송해 주실 수 있을까요?"
+  }, {
+    "$id" : 16,
+    "label" : "nq220100_msg0016",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……못 할 건 없는데 괜찮겠어?"
+  }, {
+    "$id" : 17,
+    "label" : "nq220100_msg0017",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "돌아갈 곳이 있다면……\n꼭 땅속에 있을 필요는 없다고\n생각하거든요"
+  }, {
+    "$id" : 18,
+    "label" : "nq220100_msg0018",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니…… 그렇게 생각하게 됐다는 게 맞겠네요\n평안한 곳으로 갈 수 있다면……"
+  }, {
+    "$id" : 19,
+    "label" : "nq220100_msg0019",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나\n좋은 생각이야"
+  }, {
+    "$id" : 20,
+    "label" : "nq220100_msg0020",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "장소는 어디인지 알고 있는 거지?\n알려만 주면 지금 당장이라도……"
+  }, {
+    "$id" : 21,
+    "label" : "nq220100_msg0021",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "감사합니다\n그럼 가시죠"
+  } ]
+}

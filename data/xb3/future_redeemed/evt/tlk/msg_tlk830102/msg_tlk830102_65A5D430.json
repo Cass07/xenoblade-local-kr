@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830102_msg0001",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니……\n네가 등에 메고 있는 그거\n혹시 얼티밋 해머야?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830102_msg0002",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모못?! 맞아모오!\n잘 아네모오!!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830102_msg0003",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠 말고도\n갖고 있는 노폰이 있었구나"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830102_msg0004",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "넌 그걸 왜 갖고 있는 거야?\n아니, 그 전에 그 해머는 대체 뭐야?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk830102_msg0005",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건…… 비밀이야모오!!"
+  }, {
+    "$id" : 6,
+    "label" : "tlk830102_msg0006",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 게 어딨어……"
+  }, {
+    "$id" : 7,
+    "label" : "tlk830102_msg0007",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "비밀은 비밀인 채로 남는 게\n두근두근 콩닥콩닥하잖아모오!"
+  } ]
+}

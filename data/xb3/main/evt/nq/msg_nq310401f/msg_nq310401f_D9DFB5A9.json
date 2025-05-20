@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310401_msg0001",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있다!\n저거야!!"
+  }, {
+    "$id" : 2,
+    "label" : "nq310401_msg0002",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 줄리에타랑……"
+  }, {
+    "$id" : 3,
+    "label" : "nq310401_msg0003",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗……?!"
+  }, {
+    "$id" : 4,
+    "label" : "nq310401_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로메로!"
+  }, {
+    "$id" : 5,
+    "label" : "nq310401_msg0005",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우오오오오오!\n주옥석을 돌려줘!!"
+  }, {
+    "$id" : 6,
+    "label" : "nq310401_msg0006",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으아아아아악!"
+  }, {
+    "$id" : 7,
+    "label" : "nq310401_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로메로!!"
+  }, {
+    "$id" : 8,
+    "label" : "nq310401_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 녀석을 해치우자!"
+  } ]
+}

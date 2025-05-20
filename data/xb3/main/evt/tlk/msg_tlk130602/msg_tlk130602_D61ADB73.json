@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk130602_msg0001",
+    "talker" : "vY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "철기병의 투명 위장 말인데~\n실제로 성능이 제법 괜찮지 않아?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk130602_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그건 나도 느꼈어……\n나타날 때까지 기척을 전혀 못 느꼈거든\n상당히 고도의 기술이야"
+  }, {
+    "$id" : 3,
+    "label" : "tlk130602_msg0003",
+    "talker" : "vY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "10호나 다른 사람들은 그걸 이용해서\n여기저기 돌아다니며 정보도 모으고\n콜로니를 감시하기도 했어~"
+  }, {
+    "$id" : 4,
+    "label" : "tlk130602_msg0004",
+    "talker" : "vY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 이제는 그럴 필요 없지만 말이야\n당분간은 느긋하게 지내야겠다~"
+  } ]
+}

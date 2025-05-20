@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830700_msg0001",
+    "talker" : "nq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "매슈, 시간 되면\n잠깐 대련을 부탁해도 될까?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830700_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 괜찮지?\n근데 갑자기 왜?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830700_msg0003",
+    "talker" : "nq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곤도 선생님의 가르침을 떠올리고\n초심으로 돌아가 나 자신을 다시 단련했거든"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830700_msg0004",
+    "talker" : "nq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 성과를 가장 먼저 보일 상대는\n……다름 아닌 네가 되었으면 해서"
+  }, {
+    "$id" : 5,
+    "label" : "tlk830700_msg0005",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하핫, 의외로 열정 넘치는 사람이었구나? 당신"
+  }, {
+    "$id" : 6,
+    "label" : "tlk830700_msg0006",
+    "talker" : "nq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗, 내가 봐도 놀라울 따름이야\n이렇게 투지가 끓어오르는 건 오랜만이군"
+  }, {
+    "$id" : 7,
+    "label" : "tlk830700_msg0007",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 나와 줘야지\n나로 충분하다면 얼마든지 상대해 줄게"
+  } ]
+}

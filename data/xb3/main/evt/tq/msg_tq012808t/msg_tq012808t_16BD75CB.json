@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<36708E59>",
+    "talker" : "op1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예전에 티안이 임무 중에\n케베스와 아그누스의 전투에\n휘말린 적이 있었는데"
+  }, {
+    "$id" : 2,
+    "label" : "<C0EC0295>",
+    "talker" : "op1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "철거신까지 동원된 대규모 전투였거든?\n그때 본대는 고뇌의 결단 끝에\n티안을 남겨 두고 퇴각을 선택했었어"
+  }, {
+    "$id" : 3,
+    "label" : "<BFF1CF8C>",
+    "talker" : "op1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만……\n제이크는 그러지 않았지"
+  }, {
+    "$id" : 4,
+    "label" : "<6BBA2BF9>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혼자서 구출하러 갔다는 말이야?"
+  }, {
+    "$id" : 5,
+    "label" : "<B1BED659>",
+    "talker" : "op1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 양쪽 군대의 공격이\n비처럼 쏟아지는 전장을 전력으로 뛰어다녔지"
+  }, {
+    "$id" : 6,
+    "label" : "<0FE2F3DB>",
+    "talker" : "op1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "둘 다 이젠 포기해야 하나 싶던 순간\n제이크가 부상을 입은 티안을 안고\n멋지게 귀환하더라"
+  }, {
+    "$id" : 7,
+    "label" : "<8DE100DE>",
+    "talker" : "op1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오히려 제이크의 부상이 더 심각해서\n머리부터 발끝까지 피투성이였는데\n……그때 진짜 놀랐다니까"
+  }, {
+    "$id" : 8,
+    "label" : "<6423A14E>",
+    "talker" : "op1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그만큼 티안을\n잃고 싶지 않았다는 거겠지\n진짜 대단한 녀석이야, 그 녀석은……"
+  }, {
+    "$id" : 9,
+    "label" : "<2B975612>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  } ]
+}

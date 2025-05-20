@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011611_msg0001",
+    "talker" : "qV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안셀은 대폭포 상층 지역에서\n주로 확인되고 있어"
+  }, {
+    "$id" : 2,
+    "label" : "tq011611_msg0002",
+    "talker" : "qV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "녀석들이 좋아하는 시리어스 아네모네가\n거기에 있기 때문이겠지"
+  }, {
+    "$id" : 3,
+    "label" : "tq011611_msg0003",
+    "talker" : "qV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "퇴치하고 나면\n식생이 얼마나 변화했는지\n조사할 필요도 있겠는걸"
+  } ]
+}

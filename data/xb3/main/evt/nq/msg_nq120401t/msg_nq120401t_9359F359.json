@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120401_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "메카 친구의 부품 못 봤어?\n누가 가져간 거 같은데"
+  }, {
+    "$id" : 2,
+    "label" : "nq120401_msg0002",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 역시 그 물건이 그거였구나"
+  }, {
+    "$id" : 3,
+    "label" : "nq120401_msg0003",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니토니토가\n메카 친구의 부품을 갖고 있었어"
+  }, {
+    "$id" : 4,
+    "label" : "nq120401_msg0004",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물건을 숨기면 절대로\n들키지 않을 곳을 물어보길래"
+  }, {
+    "$id" : 5,
+    "label" : "nq120401_msg0005",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얼떨결에 스파스 구릉이라고\n말했는데……"
+  }, {
+    "$id" : 6,
+    "label" : "nq120401_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알려 줘서 고마워"
+  } ]
+}

@@ -1,0 +1,286 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq240201_msg0001",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 이 정도면\n캐슬의 에테르 변환 효율을\n유지할 수 있겠군. 가라!"
+  }, {
+    "$id" : 2,
+    "label" : "nq240201_msg0002",
+    "talker" : "ff1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네!"
+  }, {
+    "$id" : 3,
+    "label" : "nq240201_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기……"
+  }, {
+    "$id" : 4,
+    "label" : "nq240201_msg0004",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오오! 너희구나!\n설마 진짜로 와 줄 줄이야!"
+  }, {
+    "$id" : 5,
+    "label" : "nq240201_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 우리한테 볼일이 있다고\n들어서 와 봤어"
+  }, {
+    "$id" : 6,
+    "label" : "nq240201_msg0006",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 그랬구나!\n알고 찾아와 주니 나야 고맙지"
+  }, {
+    "$id" : 7,
+    "label" : "nq240201_msg0007",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희는 우리 위사대가\n곧 대규모 훈련을 한다는 걸\n알고 있어?"
+  }, {
+    "$id" : 8,
+    "label" : "nq240201_msg0008",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 소문은 들었어"
+  }, {
+    "$id" : 9,
+    "label" : "nq240201_msg0009",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "단도직입적으로 말해서\n너희도 그 훈련에 참가해 줬으면 해"
+  }, {
+    "$id" : 10,
+    "label" : "nq240201_msg0010",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가?"
+  }, {
+    "$id" : 11,
+    "label" : "nq240201_msg0011",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캐슬에 있었던 여왕은 가짜였고……"
+  }, {
+    "$id" : 12,
+    "label" : "nq240201_msg0012",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 위사대는 그런 가짜를\n의심조차 하지 않고 무작정 믿은 탓에\n진짜 여왕 폐하의 기대를 저버렸지……"
+  }, {
+    "$id" : 13,
+    "label" : "nq240201_msg0013",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 우리보다 더욱 강한 힘을 지닌\n너희들 우로보로스에게\n훈련을 부탁하고 싶었거든"
+  }, {
+    "$id" : 14,
+    "label" : "nq240201_msg0014",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 알겠는데, 위사대는\n캐슬 일대를 관리하는 정예 부대잖아?"
+  }, {
+    "$id" : 15,
+    "label" : "nq240201_msg0015",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 실력자들을 상대하라니\n아무리 훈련이란 걸 알아도\n적당히 봐주면서 하긴 힘들걸?"
+  }, {
+    "$id" : 16,
+    "label" : "nq240201_msg0016",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……좋아, 할게"
+  }, {
+    "$id" : 17,
+    "label" : "nq240201_msg0017",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……야! 바로 한다고 하면 어떡해?!\n정말 괜찮겠어, 노아?"
+  }, {
+    "$id" : 18,
+    "label" : "nq240201_msg0018",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……지금 캐슬은\n여러 문제가 한꺼번에 발생해서\n많이 힘든 상황일 거야"
+  }, {
+    "$id" : 19,
+    "label" : "nq240201_msg0019",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 그렇지만……\n뭐, 거절할 이유도 없긴 하지"
+  }, {
+    "$id" : 20,
+    "label" : "nq240201_msg0020",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오오! 도와줄 거야?!"
+  }, {
+    "$id" : 21,
+    "label" : "nq240201_msg0021",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 고마워……\n이걸 기회로 결속을 다지면 좋겠는데……"
+  }, {
+    "$id" : 22,
+    "label" : "nq240201_msg0022",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜? 내부에도 갈등이 많아?"
+  }, {
+    "$id" : 23,
+    "label" : "nq240201_msg0023",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래……\n부끄럽지만 네 말이 맞아"
+  }, {
+    "$id" : 24,
+    "label" : "nq240201_msg0024",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하필이면 우리 위사대의\n넘버 원과 넘버 투가\n이끄는 부대인……"
+  }, {
+    "$id" : 25,
+    "label" : "nq240201_msg0025",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "솔타나 소대와 카톨 소대의\n사이가 틀어져 버렸거든"
+  }, {
+    "$id" : 26,
+    "label" : "nq240201_msg0026",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번 훈련을 통해\n그들에게 단결의 소중함을\n일깨워 줬으면 좋겠어"
+  }, {
+    "$id" : 27,
+    "label" : "nq240201_msg0027",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어\n할 수 있는 일은 해 볼게"
+  }, {
+    "$id" : 28,
+    "label" : "nq240201_msg0028",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "위사대는 이미 가딘 방어 기지의\n동쪽 입구에 모였을 거야"
+  }, {
+    "$id" : 29,
+    "label" : "nq240201_msg0029",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 부탁할게!"
+  } ]
+}

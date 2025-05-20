@@ -1,0 +1,238 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<FBC541CB>",
+    "style" : 13,
+    "name" : "최대 HP 업"
+  }, {
+    "$id" : 2,
+    "label" : "<70F037EF>",
+    "style" : 13,
+    "name" : "공격력 업"
+  }, {
+    "$id" : 3,
+    "label" : "<7A1783D1>",
+    "style" : 13,
+    "name" : "방어력 업"
+  }, {
+    "$id" : 4,
+    "label" : "<243CFFD8>",
+    "style" : 13,
+    "name" : "손재주 업"
+  }, {
+    "$id" : 5,
+    "label" : "<4E17206B>",
+    "style" : 13,
+    "name" : "속도 업"
+  }, {
+    "$id" : 6,
+    "label" : "<EB48C381>",
+    "style" : 13,
+    "name" : "회복력 업"
+  }, {
+    "$id" : 7,
+    "label" : "<98D9419C>",
+    "style" : 13,
+    "name" : "오토 어택 위력 업"
+  }, {
+    "$id" : 8,
+    "label" : "<AEB623AA>",
+    "style" : 13,
+    "name" : "범위 공격화"
+  }, {
+    "$id" : 9,
+    "label" : "<B366540C>",
+    "style" : 13,
+    "name" : "고속 공격화"
+  }, {
+    "$id" : 10,
+    "label" : "<4235EF6D>",
+    "style" : 13,
+    "name" : "HP 흡수 부여"
+  }, {
+    "$id" : 11,
+    "label" : "<E8292F3A>",
+    "style" : 13,
+    "name" : "디버프 부여"
+  }, {
+    "$id" : 12,
+    "label" : "<E929B301>",
+    "style" : 13,
+    "name" : "대미지 배율 업"
+  }, {
+    "$id" : 13,
+    "label" : "<6EAA6163>",
+    "style" : 13,
+    "name" : "체인 게이지 상승"
+  }, {
+    "$id" : 14,
+    "label" : "<CCEDA0EB>",
+    "style" : 13,
+    "name" : "콤보&게이지"
+  }, {
+    "$id" : 15,
+    "label" : "<76ED2F3C>",
+    "style" : 13,
+    "name" : "체인 게이지 환원"
+  }, {
+    "$id" : 16,
+    "label" : "<6B43F35B>",
+    "style" : 13,
+    "name" : "사용 후 공격력 업"
+  }, {
+    "$id" : 17,
+    "label" : "<D3694D44>",
+    "style" : 13,
+    "name" : "디버프 성공률 업"
+  }, {
+    "$id" : 18,
+    "label" : "<CC4BF134>",
+    "style" : 13,
+    "name" : "디버프 시간 업"
+  }, {
+    "$id" : 19,
+    "label" : "<734E1444>",
+    "style" : 13,
+    "name" : "디버프&브레이크"
+  }, {
+    "$id" : 20,
+    "label" : "<D331969D>",
+    "style" : 13,
+    "name" : "콤보 시간 업"
+  }, {
+    "$id" : 21,
+    "label" : "<8DFE62FC>",
+    "style" : 13,
+    "name" : "콤보&공격력"
+  }, {
+    "$id" : 22,
+    "label" : "<908F5C60>",
+    "style" : 13,
+    "name" : "스코어 업"
+  }, {
+    "$id" : 23,
+    "label" : "<96CD1C73>",
+    "style" : 13,
+    "name" : "저주 증폭・공격력"
+  }, {
+    "$id" : 24,
+    "label" : "<F15A2405>",
+    "style" : 13,
+    "name" : "저주 증폭・리캐스트"
+  }, {
+    "$id" : 25,
+    "label" : "<A9DD2273>",
+    "style" : 13,
+    "name" : "구조 횟수・공격력"
+  }, {
+    "$id" : 26,
+    "label" : "<BECE8D73>",
+    "style" : 13,
+    "name" : "구조 리캐스트 회복"
+  }, {
+    "$id" : 27,
+    "label" : "<F00195F1>",
+    "style" : 13,
+    "name" : "진형・디펜더"
+  }, {
+    "$id" : 28,
+    "label" : "<F0209880>",
+    "style" : 13,
+    "name" : "진형・어태커"
+  }, {
+    "$id" : 29,
+    "label" : "<37E112FD>",
+    "style" : 13,
+    "name" : "진형・힐러"
+  }, {
+    "$id" : 30,
+    "label" : "<3F56AF49>",
+    "style" : 13,
+    "name" : "롤 모임"
+  }, {
+    "$id" : 31,
+    "label" : "<FD8A3383>",
+    "style" : 13,
+    "name" : "케베스의 번영"
+  }, {
+    "$id" : 32,
+    "label" : "<34C5CE2C>",
+    "style" : 13,
+    "name" : "아그누스의 번영"
+  }, {
+    "$id" : 33,
+    "label" : "<58C6EAAD>",
+    "style" : 13,
+    "name" : "어나더의 번영"
+  }, {
+    "$id" : 34,
+    "label" : "<7A6FFC42>",
+    "style" : 13,
+    "name" : "케베스의 맹공"
+  }, {
+    "$id" : 35,
+    "label" : "<5574978D>",
+    "style" : 13,
+    "name" : "아그누스의 맹공"
+  }, {
+    "$id" : 36,
+    "label" : "<0DA10E1F>",
+    "style" : 13,
+    "name" : "어나더의 맹공"
+  }, {
+    "$id" : 37,
+    "label" : "<674913EC>",
+    "style" : 13,
+    "name" : "보스 HP 감소"
+  }, {
+    "$id" : 38,
+    "label" : "<AA14D93C>",
+    "style" : 13,
+    "name" : "소수 정예"
+  }, {
+    "$id" : 39,
+    "label" : "<B073538C>",
+    "style" : 13,
+    "name" : "배수진"
+  }, {
+    "$id" : 40,
+    "label" : "<D18F75C2>",
+    "style" : 13,
+    "name" : "생명의 노폰시계 보존"
+  }, {
+    "$id" : 41,
+    "label" : "<D2CB13DA>",
+    "style" : 13,
+    "name" : "대부호"
+  }, {
+    "$id" : 42,
+    "label" : "<5DFCE1BD>",
+    "style" : 13,
+    "name" : "해프닝 부스트"
+  }, {
+    "$id" : 43,
+    "label" : "<C8FE7B6B>",
+    "style" : 13,
+    "name" : "변덕 부스트"
+  }, {
+    "$id" : 44,
+    "label" : "<DAE5358B>",
+    "style" : 13,
+    "name" : "디스카운트"
+  }, {
+    "$id" : 45,
+    "label" : "<8F0E6F5B>",
+    "style" : 13,
+    "name" : "티켓 서비스"
+  } ]
+}

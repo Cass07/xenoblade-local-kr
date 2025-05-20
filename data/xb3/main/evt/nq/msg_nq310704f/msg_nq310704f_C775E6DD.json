@@ -1,0 +1,601 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310704_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후…… 겨우 처리했네"
+  }, {
+    "$id" : 2,
+    "label" : "nq310704_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서…… 왜 아그누스군이랑\n싸우고 있었던 거야?"
+  }, {
+    "$id" : 3,
+    "label" : "nq310704_msg0003",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아지트로 삼을 만한 곳을 찾고 있었어"
+  }, {
+    "$id" : 4,
+    "label" : "nq310704_msg0004",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전에 그 섬은 캡틴이 마음에 들어 하길래\n거점으로 삼긴 했지만……"
+  }, {
+    "$id" : 5,
+    "label" : "nq310704_msg0005",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몬스터도 늘어나고\n먹는 것도 슬슬 물리더라고"
+  }, {
+    "$id" : 6,
+    "label" : "nq310704_msg0006",
+    "talker" : "pf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요즘에는 아침부터 밤까지\n맨날 냠냠 코코넛만 먹는다니까"
+  }, {
+    "$id" : 7,
+    "label" : "nq310704_msg0007",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아앙?! 냠냠 코코넛 맛있잖아!\n냠냠 코코넛 무시하냐?!"
+  }, {
+    "$id" : 8,
+    "label" : "nq310704_msg0008",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어이쿠, 내 정신 좀 봐!\n그 녀석과 한 약속을 잊을 뻔했잖아?"
+  }, {
+    "$id" : 9,
+    "label" : "nq310704_msg0009",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 너희들!\n사람 찾는 거나 도와라!"
+  }, {
+    "$id" : 10,
+    "label" : "nq310704_msg0010",
+    "talker" : "vf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "누굴 찾길래?"
+  }, {
+    "$id" : 11,
+    "label" : "nq310704_msg0011",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그쪽 상황도 정리됐나?"
+  }, {
+    "$id" : 12,
+    "label" : "nq310704_msg0012",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐~!"
+  }, {
+    "$id" : 13,
+    "label" : "nq310704_msg0013",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐지……?! 뫼비우스?!"
+  }, {
+    "$id" : 14,
+    "label" : "nq310704_msg0014",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 사람들 로스트 넘버즈 아냐?\n그럼……"
+  }, {
+    "$id" : 15,
+    "label" : "nq310704_msg0015",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 저들이 시노가\n찾아 달라고 한 사람들인가 보군"
+  }, {
+    "$id" : 16,
+    "label" : "nq310704_msg0016",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사람을 찾고 있다는데?\n우리도 캡틴을 도와서 같이 찾……"
+  }, {
+    "$id" : 17,
+    "label" : "nq310704_msg0017",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그거 방금 해결했어"
+  }, {
+    "$id" : 18,
+    "label" : "nq310704_msg0018",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에에엥?"
+  }, {
+    "$id" : 19,
+    "label" : "nq310704_msg0019",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스……!\n뭐가 어떻게 된 거지?"
+  }, {
+    "$id" : 20,
+    "label" : "nq310704_msg0020",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실은……"
+  }, {
+    "$id" : 21,
+    "label" : "nq310704_msg0021",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 시노가\n구조 의뢰를……"
+  }, {
+    "$id" : 22,
+    "label" : "nq310704_msg0022",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희와 콜로니 15에겐 큰 빚을 졌군"
+  }, {
+    "$id" : 23,
+    "label" : "nq310704_msg0023",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니\n왜 같이 있었던 거야?"
+  }, {
+    "$id" : 24,
+    "label" : "nq310704_msg0024",
+    "talker" : "rf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스군한테 공격받고 있길래\n가서 도와줬지"
+  }, {
+    "$id" : 25,
+    "label" : "nq310704_msg0025",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어?\n너희들, 자세히 보니까\n케베스군이 아니잖아?!"
+  }, {
+    "$id" : 26,
+    "label" : "nq310704_msg0026",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제야 눈치챘어?"
+  }, {
+    "$id" : 27,
+    "label" : "nq310704_msg0027",
+    "talker" : "pf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스 녀석들이랑 싸우길래\n별생각 없이……"
+  }, {
+    "$id" : 28,
+    "label" : "nq310704_msg0028",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이유야 어쨌든\n도움을 받은 건 사실이잖아"
+  }, {
+    "$id" : 29,
+    "label" : "nq310704_msg0029",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희에겐 정말 감사하고 있어"
+  }, {
+    "$id" : 30,
+    "label" : "nq310704_msg0030",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "헤헷, 잔뜩 고마워하라고!"
+  }, {
+    "$id" : 31,
+    "label" : "nq310704_msg0031",
+    "talker" : "vf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 그럼 우리는\n그만 가자"
+  }, {
+    "$id" : 32,
+    "label" : "nq310704_msg0032",
+    "talker" : "vf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기는 아그누스의 세력권 같기도 하고\n아지트로 삼기에도 마땅치 않아 보여"
+  }, {
+    "$id" : 33,
+    "label" : "nq310704_msg0033",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게…… 아쉽다"
+  }, {
+    "$id" : 34,
+    "label" : "nq310704_msg0034",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐!"
+  }, {
+    "$id" : 35,
+    "label" : "nq310704_msg0035",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희를 이대로 돌려보낼 수는 없다"
+  }, {
+    "$id" : 36,
+    "label" : "nq310704_msg0036",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 답례라면 안 해도……"
+  }, {
+    "$id" : 37,
+    "label" : "nq310704_msg0037",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 모습을 본 너희를\n산 채로 그냥 놓아줄 순 없지"
+  }, {
+    "$id" : 38,
+    "label" : "nq310704_msg0038",
+    "talker" : "vf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그게 무슨 소리야?"
+  }, {
+    "$id" : 39,
+    "label" : "nq310704_msg0039",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생명의 은인인 너희에겐 미안하지만\n신병을 구속해야겠어"
+  }, {
+    "$id" : 40,
+    "label" : "nq310704_msg0040",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하핫, 이것 참~!\n굳이 그렇게까지 해서\n답례할 필요 없대도 그러네~"
+  }, {
+    "$id" : 41,
+    "label" : "nq310704_msg0041",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너 인마, 아무리 봐도\n답례하려는 분위기가 아니잖아……"
+  }, {
+    "$id" : 42,
+    "label" : "nq310704_msg0042",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "은혜 갚는 방식이 꽤 기발한데?"
+  }, {
+    "$id" : 43,
+    "label" : "nq310704_msg0043",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 누군가에게 빚을 지면\n밤에 잠을 못 자거든"
+  }, {
+    "$id" : 44,
+    "label" : "nq310704_msg0044",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "언제 죽을지 모르는 몸이니\n되도록 미련을 남기기 싫어"
+  }, {
+    "$id" : 45,
+    "label" : "nq310704_msg0045",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 잘 알지\n마음먹었을 때 안 하면\n다음번은 없을지도 모르니까"
+  }, {
+    "$id" : 46,
+    "label" : "nq310704_msg0046",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋다, 이것들아!\n순순히 이 녀석 말대로 해라!\n알겠냐?!"
+  }, {
+    "$id" : 47,
+    "label" : "nq310704_msg0047",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네~? 캡틴, 그건 좀……"
+  }, {
+    "$id" : 48,
+    "label" : "nq310704_msg0048",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티에 가면 맛있는 밥을 먹을 수 있어!\n자잘한 건 밥 먹고 나서 생각하면 돼!"
+  }, {
+    "$id" : 49,
+    "label" : "nq310704_msg0049",
+    "talker" : "pf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "밥?!"
+  }, {
+    "$id" : 50,
+    "label" : "nq310704_msg0050",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……무슨 꿍꿍이지?"
+  }, {
+    "$id" : 51,
+    "label" : "nq310704_msg0051",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유감스럽지만\n아무 생각도 없어"
+  }, {
+    "$id" : 52,
+    "label" : "nq310704_msg0052",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?"
+  }, {
+    "$id" : 53,
+    "label" : "nq310704_msg0053",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "은혜를 입으면 곧바로 갚는다!\n그 마음가짐, 아주 마음에 들어!\n맛있는 술이라도 한잔 나누자! 어때!"
+  }, {
+    "$id" : 54,
+    "label" : "nq310704_msg0054",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "별난 뫼비우스군\n이런 녀석이 있다니……"
+  }, {
+    "$id" : 55,
+    "label" : "nq310704_msg0055",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안, 히라치"
+  }, {
+    "$id" : 56,
+    "label" : "nq310704_msg0056",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아니, 재미있는 녀석이야"
+  }, {
+    "$id" : 57,
+    "label" : "nq310704_msg0057",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안하지만\n너희가 저들을 작전 지령실까지\n데려와 줬으면 해"
+  }, {
+    "$id" : 58,
+    "label" : "nq310704_msg0058",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가?"
+  }, {
+    "$id" : 59,
+    "label" : "nq310704_msg0059",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 로스트 넘버즈가\n뫼비우스를 데리고 돌아가면\n괜히 혼란스럽기만 할 거라고…… 이해하지?"
+  }, {
+    "$id" : 60,
+    "label" : "nq310704_msg0060",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 응……"
+  }, {
+    "$id" : 61,
+    "label" : "nq310704_msg0061",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 나중에 시티에서 보자!"
+  }, {
+    "$id" : 62,
+    "label" : "nq310704_msg0062",
+    "talker" : "pf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떤 맛있는 음식이 기다리고 있을까?"
+  }, {
+    "$id" : 63,
+    "label" : "nq310704_msg0063",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니에서 기다리는 아피피랑\n다른 애들도 데려와야지!"
+  }, {
+    "$id" : 64,
+    "label" : "nq310704_msg0064",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얘네들 진짜로 데려가도 괜찮을까……?"
+  } ]
+}

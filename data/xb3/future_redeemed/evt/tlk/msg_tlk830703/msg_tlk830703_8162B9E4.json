@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830703_msg0001",
+    "talker" : "nq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알파라는 녀석의 이야기는 들었다\n설마 네 여동생이\n그런 사태에 얽혀 있을 줄이야……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830703_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 따지고 보면\n시티 습격은 우리의……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830703_msg0003",
+    "talker" : "nq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 이상은 말하지 마\n그 문제만큼은 누구의 책임도 아냐"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830703_msg0004",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk830703_msg0005",
+    "talker" : "nq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 할 말은 아니겠지만……\n너무 마음에 담아 두지 마, 매슈"
+  }, {
+    "$id" : 6,
+    "label" : "tlk830703_msg0006",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……기억해 둘게"
+  } ]
+}

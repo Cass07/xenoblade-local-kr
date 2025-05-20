@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq111201_msg0001",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 정도만 있으면 충분해요모\n그럼 따 온 꽃에서\n꿀을 모은 다음에……"
+  }, {
+    "$id" : 2,
+    "label" : "nq111201_msg0002",
+    "talker" : "de1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요리에 뿌리는 거구나!\n나 단 음식 꽤 좋아하는데!!"
+  }, {
+    "$id" : 3,
+    "label" : "nq111201_msg0003",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안 해요! 그런 짓은\n요리인으로서 창피한 짓이에요모!"
+  }, {
+    "$id" : 4,
+    "label" : "nq111201_msg0004",
+    "talker" : "ee1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 어떻게 함까모?"
+  }, {
+    "$id" : 5,
+    "label" : "nq111201_msg0005",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 꿀을 저기 있는 나무에 바르는 거예요모"
+  }, {
+    "$id" : 6,
+    "label" : "nq111201_msg0006",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나무에 바른다니…… 그게 무슨 소리야?"
+  }, {
+    "$id" : 7,
+    "label" : "nq111201_msg0007",
+    "talker" : "de1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "설마 저 나무를 먹게?!\n꿀까지 발라서?!"
+  }, {
+    "$id" : 8,
+    "label" : "nq111201_msg0008",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "됐으니까 마나나만 믿으세요모\n곧 있으면 알게 될 거예요모"
+  } ]
+}

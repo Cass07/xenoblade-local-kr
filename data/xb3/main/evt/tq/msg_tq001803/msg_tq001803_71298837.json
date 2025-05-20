@@ -1,0 +1,250 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001803_msg0001",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "어서 오세요"
+  }, {
+    "$id" : 2,
+    "label" : "tq001803_msg0002",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "저희가 얼마나 걱정했는데요!"
+  }, {
+    "$id" : 3,
+    "label" : "tq001803_msg0004a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "역시 대단하십니다, 선배"
+  }, {
+    "$id" : 4,
+    "label" : "tq001803_msg0004b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "영락없이 죽은 줄 알았죠"
+  }, {
+    "$id" : 5,
+    "label" : "tq001803_msg0005",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……어휴, 이럴 때라도\n솔직해지면 안 돼?"
+  }, {
+    "$id" : 6,
+    "label" : "tq001803_msg0003",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "선배들이 무사하셔서 다행이네요"
+  }, {
+    "$id" : 7,
+    "label" : "tq001803_msg0006",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "선배…… 정말 다행이에요"
+  }, {
+    "$id" : 8,
+    "label" : "tq001803_msg0008",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……"
+  }, {
+    "$id" : 9,
+    "label" : "tq001803_msg0010",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]하아……"
+  }, {
+    "$id" : 10,
+    "label" : "tq001803_msg0011",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "응? 너 설마 우냐? 유니"
+  }, {
+    "$id" : 11,
+    "label" : "tq001803_msg0012",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "시끄러, 바보 란츠"
+  }, {
+    "$id" : 12,
+    "label" : "tq001803_msg0013",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아…… 시도 군무장님!"
+  }, {
+    "$id" : 13,
+    "label" : "tq001803_msg0014a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "미오, 세나, 타이온"
+  }, {
+    "$id" : 14,
+    "label" : "tq001803_msg0014b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "참으로……"
+  }, {
+    "$id" : 15,
+    "label" : "tq001803_msg0014c",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "잘 돌아왔습니다"
+  }, {
+    "$id" : 16,
+    "label" : "tq001803_msg0015",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "죄송합니다, 시도 군무장님\n저희는……"
+  }, {
+    "$id" : 17,
+    "label" : "tq001803_msg0016a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "자세한 보고는 나중에 듣죠"
+  }, {
+    "$id" : 18,
+    "label" : "tq001803_msg0016b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우선은 휴식을 취하는 게 어떨까요?"
+  }, {
+    "$id" : 19,
+    "label" : "tq001803_msg0017a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "여기까지 오는 여정도\n결코 편하지 않았을 텐데……"
+  }, {
+    "$id" : 20,
+    "label" : "tq001803_msg0017b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그렇죠?"
+  }, {
+    "$id" : 21,
+    "label" : "tq001803_msg0018",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……네\n배려해 주셔서 감사합니다"
+  }, {
+    "$id" : 22,
+    "label" : "tq001803_msg0019a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그쪽에 계신 \"손님\" 여러분도"
+  }, {
+    "$id" : 23,
+    "label" : "tq001803_msg0019b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나중에 소개를 받아야겠군요"
+  }, {
+    "$id" : 24,
+    "label" : "tq001803_msg0020",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……"
+  }, {
+    "$id" : 25,
+    "label" : "tq001803_msg0021",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그럼 이만……"
+  } ]
+}

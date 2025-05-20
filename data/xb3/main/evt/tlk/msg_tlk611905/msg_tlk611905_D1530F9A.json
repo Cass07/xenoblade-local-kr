@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk611905_msg0001",
+    "talker" : "bk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유일한 가족이었던\n할아버지가 돌아가셔서……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk611905_msg0002",
+    "talker" : "bk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스미미랑 나랑 둘이서\n살아가기로 했어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk611905_msg0003",
+    "talker" : "bk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 가족으로 살아갈 수 있을지\n불안하기도 하지만\n서로 의지하며 살아가 보려고"
+  } ]
+}

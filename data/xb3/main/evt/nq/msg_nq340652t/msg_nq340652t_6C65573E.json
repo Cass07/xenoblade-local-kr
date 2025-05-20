@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq340652_msg0001",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안, 일이 너무 바빠서\n회합에는 참여하지 못했어"
+  }, {
+    "$id" : 2,
+    "label" : "nq340652_msg0002",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다만 이야기라면 이미 들었어\n태생과 관계없이 손을 맞잡고\n함께 나아가게 되길 기대하고 있지"
+  }, {
+    "$id" : 3,
+    "label" : "nq340652_msg0003",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……정말 그렇게 생각해?\n수상쩍어서 믿을 수 없는데"
+  }, {
+    "$id" : 4,
+    "label" : "nq340652_msg0004",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗, 어떻게 생각하든 네 자유지만\n시티에 온 손님에게 시비 걸지는 마"
+  }, {
+    "$id" : 5,
+    "label" : "nq340652_msg0101",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번 기회에\n시티를 안내해 줘"
+  } ]
+}

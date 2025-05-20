@@ -1,0 +1,367 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq030505_msg0001",
+    "talker" : "nY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기…… 9호!"
+  }, {
+    "$id" : 2,
+    "label" : "nq030505_msg0002",
+    "talker" : "rY1",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……몰려와서 뭐 하려고\n9호한테 불평이라도 하게?"
+  }, {
+    "$id" : 3,
+    "label" : "nq030505_msg0003",
+    "talker" : "nY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 아니야\n그런 게 아니라, 이거……"
+  }, {
+    "$id" : 4,
+    "label" : "nq030505_msg0004",
+    "talker" : "rY1",
+    "talkattr" : 33104,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……앗! 9호의 악기잖아……!\n어디서 찾았어?!"
+  }, {
+    "$id" : 5,
+    "label" : "nq030505_msg0005",
+    "talker" : "nY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기 오기 전에 머물렀던 야영지에서 주웠어\n9호도 이거 찾고 있었지?"
+  }, {
+    "$id" : 6,
+    "label" : "nq030505_msg0006",
+    "talker" : "rY1",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "찾기는……! 아니, 찾기는 했지\n그런데 이건 그……"
+  }, {
+    "$id" : 7,
+    "label" : "nq030505_msg0007",
+    "talker" : "rY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어? 다시 보니까\n예전보다 말끔해진 것 같은데……"
+  }, {
+    "$id" : 8,
+    "label" : "nq030505_msg0008",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 찾았을 땐 망가져 있었거든\n그래서 수리해서 줄까 했는데……"
+  }, {
+    "$id" : 9,
+    "label" : "nq030505_msg0009",
+    "talker" : "rY1",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐……?"
+  }, {
+    "$id" : 10,
+    "label" : "nq030505_msg0010",
+    "talker" : "6",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어…… 괜한 짓 했나?"
+  }, {
+    "$id" : 11,
+    "label" : "nq030505_msg0011",
+    "talker" : "rY1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 12,
+    "label" : "nq030505_msg0012",
+    "talker" : "nY1",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "9, 9호?\n혹시 화났어……?"
+  }, {
+    "$id" : 13,
+    "label" : "nq030505_msg0013",
+    "talker" : "rY1",
+    "talkattr" : 33104,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "화, 화 안 났거든……!\n오히려 화난 건 3호 아니야?!"
+  }, {
+    "$id" : 14,
+    "label" : "nq030505_msg0014",
+    "talker" : "rY1",
+    "talkattr" : 33104,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "9호가 그렇게 윽박질렀잖아!\n심한 말도 엄청 많이 했는데!"
+  }, {
+    "$id" : 15,
+    "label" : "nq030505_msg0015",
+    "talker" : "rY1",
+    "talkattr" : 33120,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "3호는 9호를 싫어하잖아?!\n그런데 왜……!"
+  }, {
+    "$id" : 16,
+    "label" : "nq030505_msg0016",
+    "talker" : "nY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 소리야……?\n그럴 리가 없잖아"
+  }, {
+    "$id" : 17,
+    "label" : "nq030505_msg0017",
+    "talker" : "rY1",
+    "talkattr" : 33104,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 18,
+    "label" : "nq030505_msg0018",
+    "talker" : "nY1",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 미안!\n역시 아직 화가 안 풀렸구나……"
+  }, {
+    "$id" : 19,
+    "label" : "nq030505_msg0019",
+    "talker" : "rY1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뚱딴지같은 소리하네"
+  }, {
+    "$id" : 20,
+    "label" : "nq030505_msg0020",
+    "talker" : "rY1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이렇게까지 해 줬는데\n화는 무슨 화야……"
+  }, {
+    "$id" : 21,
+    "label" : "nq030505_msg0021",
+    "talker" : "rY1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……3호"
+  }, {
+    "$id" : 22,
+    "label" : "nq030505_msg0022",
+    "talker" : "nY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어…… 왜? 9호"
+  }, {
+    "$id" : 23,
+    "label" : "nq030505_msg0023",
+    "talker" : "rY1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……시도 때도 없이 윽박질러서\n정말…… 미안해"
+  }, {
+    "$id" : 24,
+    "label" : "nq030505_msg0024",
+    "talker" : "nY1",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어……?"
+  }, {
+    "$id" : 25,
+    "label" : "nq030505_msg0025",
+    "talker" : "rY1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고…… 악기 고마워"
+  }, {
+    "$id" : 26,
+    "label" : "nq030505_msg0026",
+    "talker" : "rY1",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이젠……\n절대 잃어버리지 않을게"
+  }, {
+    "$id" : 27,
+    "label" : "nq030505_msg0027",
+    "talker" : "nY1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "9호……!"
+  }, {
+    "$id" : 28,
+    "label" : "nq030505_msg0028",
+    "talker" : "rY1",
+    "talkattr" : 33168,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그렇다고!\n할 말은 다 했으니까 난 간다!"
+  }, {
+    "$id" : 29,
+    "label" : "nq030505_msg0029",
+    "talker" : "nY1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……정말 다행이야, 9호……"
+  }, {
+    "$id" : 30,
+    "label" : "nq030505_msg0030",
+    "talker" : "6",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 그러게!\n이제 우리에 대한 오해도 풀렸……"
+  }, {
+    "$id" : 31,
+    "label" : "nq030505_msg0031",
+    "talker" : "rY1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말해 두지만! 너는 별개야!!"
+  }, {
+    "$id" : 32,
+    "label" : "nq030505_msg0032",
+    "talker" : "6",
+    "talkattr" : 33105,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?!"
+  }, {
+    "$id" : 33,
+    "label" : "nq030505_msg0033",
+    "talker" : "rY1",
+    "talkattr" : 33072,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "7호한테 조금 인정받았다고\n우쭐대기는!"
+  }, {
+    "$id" : 34,
+    "label" : "nq030505_msg0034",
+    "talker" : "rY1",
+    "talkattr" : 33072,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "7호는……\n우리들의 7호야!"
+  }, {
+    "$id" : 35,
+    "label" : "nq030505_msg0035",
+    "talker" : "rY1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 점 착각하지 말라고!!"
+  }, {
+    "$id" : 36,
+    "label" : "nq030505_msg0036",
+    "talker" : "6",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니…… 왜……"
+  }, {
+    "$id" : 37,
+    "label" : "nq030505_msg0037",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 한 소리 말이야……\n화냈다기보다는……"
+  }, {
+    "$id" : 38,
+    "label" : "nq030505_msg0038",
+    "talker" : "4",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그냥 질투지"
+  } ]
+}

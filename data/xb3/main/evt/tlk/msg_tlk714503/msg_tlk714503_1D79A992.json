@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk714503_msg0001",
+    "talker" : "Wm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티가 뫼비우스에게 습격당했을 때\n너무 괴로웠어……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk714503_msg0002",
+    "talker" : "Wm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당장 그 자리에서 쓰러뜨리고 싶었는데\n아무것도 못 했어……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk714503_msg0003",
+    "talker" : "Wm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뫼비우스는 진짜로……\n무서운 녀석들이구나……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk714503_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇지"
+  } ]
+}

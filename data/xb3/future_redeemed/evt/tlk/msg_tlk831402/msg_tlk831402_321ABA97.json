@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831402_msg0001",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예전에 할아버지가 자주\n슈르크 씨 이야기를 해 주셨슴다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831402_msg0002",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "할아버지의 카레 가게가\n재료 부족 때문에 맛없는 카레 가게가\n될 위기였는데 도와주셨다고……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831402_msg0003",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그러고 보면 그때도\n내가 댄싱 애플을 조달해 왔었네"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831402_msg0004",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이게 \"역사는 반복된다\"는 그거 아님까?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk831402_msg0005",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아하하, 그러게"
+  } ]
+}

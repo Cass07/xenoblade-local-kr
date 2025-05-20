@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk110904_msg0001",
+    "talker" : "fX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제온이나 카이트나\n둘 다 귀찮은 성격이야모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk110904_msg0002",
+    "talker" : "fX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생각한 걸 전부 솔직하게 말하면\n원만하게 해결될 텐데모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk110904_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게나 말이야\n뭐, 앞으로는 걔네 둘이\n얘기하면서 잘 해결해 나가겠지"
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk221001_msg0001",
+    "talker" : "qa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "메카 친구는 정말 대단해모~!\n니토니토가 하루 꼬박 들여서 하는 정비를\n1시간 만에 끝내 버렸어모!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk221001_msg0002",
+    "talker" : "qa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "메카 친구만 있으면\n더 많이 정비할 수 있겠어모~!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk221001_msg0003",
+    "talker" : "qa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……모모?\n그럼 니토니토는 뭘 하지모……?"
+  } ]
+}

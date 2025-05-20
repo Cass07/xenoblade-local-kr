@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq010602_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "장고 일행을 환송하고 왔어"
+  }, {
+    "$id" : 2,
+    "label" : "nq010602_msg0002",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래……"
+  }, {
+    "$id" : 3,
+    "label" : "nq010602_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……괜찮아?"
+  }, {
+    "$id" : 4,
+    "label" : "nq010602_msg0004",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동료를 잃는 건 이번이 처음은 아니지만\n도무지 익숙해지질 않아……"
+  }, {
+    "$id" : 5,
+    "label" : "nq010602_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "익숙해질 필요는 없어"
+  }, {
+    "$id" : 6,
+    "label" : "nq010602_msg0006",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "환송자인 네가 그러니 이상한걸"
+  }, {
+    "$id" : 7,
+    "label" : "nq010602_msg0007",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……네 덕분에\n마음이 조금 가벼워졌어"
+  }, {
+    "$id" : 8,
+    "label" : "nq010602_msg0008",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말로 고마워"
+  } ]
+}

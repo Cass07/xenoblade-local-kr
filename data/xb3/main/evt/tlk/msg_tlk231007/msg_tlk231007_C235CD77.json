@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk231007_msg0001",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……요시노 씨랑 얘기해 봤는데\n결혼엔 많은 규칙이 있으니까\n나랑은 할 수 없다더라……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk231007_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……가쿠는…… 뭐라고 대답했어?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk231007_msg0003",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고맙다고 했지\n요시노 씨에 대한 내 마음은\n변함없는 데다가……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk231007_msg0004",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말로 감사하고 있거든\n연구가 아닌 것에 이렇게 가슴이 뛴 적은\n처음이었으니까……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk231007_msg0005",
+    "talker" : "db1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 함께 지낼 수 있는 시간을\n소중히 여기고 싶어"
+  } ]
+}

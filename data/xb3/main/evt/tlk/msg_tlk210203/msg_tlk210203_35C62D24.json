@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210203_msg0001",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전술반은 다양한 임무를 도맡아 하지만\n당장 급한 임무는 몬스터를 퇴치하는 거다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210203_msg0002",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이곳 이그스 황야는 녀석들의 소굴이야\n지금의 콜로니 4는\n적지 한가운데에 진을 친 셈이지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk210203_msg0003",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 현재의 전력으로는\n콜로니의 수비를 굳히는 것이 한계인데……\n자, 그럼 어떻게 한다……"
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq340251_msg0001",
+    "talker" : "oV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시키라……\n난 지금은 뭐라고 할 말이 없어"
+  }, {
+    "$id" : 2,
+    "label" : "nq340251_msg0002",
+    "talker" : "oV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "속에 무슨 꿍꿍이가\n있을지 모르잖아"
+  }, {
+    "$id" : 3,
+    "label" : "nq340251_msg0101",
+    "talker" : "oV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 떠넘기긴 했지만\n귀찮게 해서 미안하다"
+  } ]
+}

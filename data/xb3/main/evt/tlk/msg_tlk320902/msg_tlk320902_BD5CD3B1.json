@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk320902_msg0001",
+    "talker" : "dd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "밭의 상태를 보니까 든 생각인데……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk320902_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 뭔데?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk320902_msg0003",
+    "talker" : "dd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 콜로니들의 수확 상태는 어때?\n커다란 곳은 수확도 많겠지……?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk320902_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니에는 보통\n밭이라는 거 자체가 없어"
+  }, {
+    "$id" : 5,
+    "label" : "tlk320902_msg0005",
+    "talker" : "dd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐?"
+  } ]
+}

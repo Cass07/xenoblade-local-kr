@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq001006_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "벌써 끝났어?"
+  }, {
+    "$id" : 2,
+    "label" : "sq001006_msg0002",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지 뭐\n근데 너흰 뭐 하러 또 왔어?"
+  }, {
+    "$id" : 3,
+    "label" : "sq001006_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게……"
+  }, {
+    "$id" : 4,
+    "label" : "sq001006_msg0004",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보나 마나 간수가 트집이나 잡았겠지"
+  }, {
+    "$id" : 5,
+    "label" : "sq001006_msg0005",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "받아"
+  }, {
+    "$id" : 6,
+    "label" : "sq001006_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건……"
+  }, {
+    "$id" : 7,
+    "label" : "sq001006_msg0007",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 건네면\n그 잘난 불평도 더는 못 하겠지"
+  }, {
+    "$id" : 8,
+    "label" : "sq001006_msg0008",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워"
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520304_msg0001",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시로가 해 준 말이\n정말 기뻤어……!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520304_msg0002",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 난 부관이 되어도\n시로를 도울 수 없을 거야……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520304_msg0003",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 어떻게 해야……\n모두에게 힘이 될 수 있을까……?"
+  } ]
+}

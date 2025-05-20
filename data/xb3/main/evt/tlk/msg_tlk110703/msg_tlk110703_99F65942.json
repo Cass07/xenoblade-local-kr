@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk110703_msg0001",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제온의 의도를 모르는 건 아닌데……\n우리가 정말 캐슬의 지원 없이\n살 수 있다고 생각해?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk110703_msg0002",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금까지 내내 아그누스군이랑 싸우느라\n레브니스랑 식량도 거의 동날 지경이야……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk110703_msg0003",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선대 군무장님께선 엄격한 분이셨지만\n적어도 아이언이 되기 직전까지\n콜로니 9을 이끌어 주셨는데……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk110703_msg0004",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 말을 하고 싶진 않지만\n제온한테 군무장은 너무 벅찬 것 같아……"
+  } ]
+}

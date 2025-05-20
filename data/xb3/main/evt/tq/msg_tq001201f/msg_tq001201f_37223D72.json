@@ -1,0 +1,574 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001201_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모니카, 잠깐 괜찮을까?"
+  }, {
+    "$id" : 2,
+    "label" : "tq001201_msg0002",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 일이야? 진지한 얼굴로"
+  }, {
+    "$id" : 3,
+    "label" : "tq001201_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알려 줬으면 하는 게 있어\n게르니카에 대해……"
+  }, {
+    "$id" : 4,
+    "label" : "tq001201_msg0004",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아버지에 대해?"
+  }, {
+    "$id" : 5,
+    "label" : "tq001201_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티 사람들이\n『훌륭한 사람이었어』라고 하더라고"
+  }, {
+    "$id" : 6,
+    "label" : "tq001201_msg0006",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 우리는…… 아무것도 몰라\n그 사람은 목숨을 내놨는데도……"
+  }, {
+    "$id" : 7,
+    "label" : "tq001201_msg0007",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇군, 그래서 알고 싶은 거구나"
+  }, {
+    "$id" : 8,
+    "label" : "tq001201_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모니카는 게르니카 밑에서\n자란 거지?"
+  }, {
+    "$id" : 9,
+    "label" : "tq001201_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니 누구보다도 그 사람을\n잘 이해하고 있지 않을까 해서"
+  }, {
+    "$id" : 10,
+    "label" : "tq001201_msg0010",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬으면 좋겠지만"
+  }, {
+    "$id" : 11,
+    "label" : "tq001201_msg0011",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 아는 게르니카 반담이란 남자는……\n항상 우러러보는 존재였어"
+  }, {
+    "$id" : 12,
+    "label" : "tq001201_msg0012",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티를 총괄하고\n최전선에서 전투 지휘를 맡았던 사람이라\n커다란 뒷모습만 보고 자랐지"
+  }, {
+    "$id" : 13,
+    "label" : "tq001201_msg0013",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 병사의 삶을 선택한 이후로는\n부모 자식다운 대화를 한 적도 없었어"
+  }, {
+    "$id" : 14,
+    "label" : "tq001201_msg0014",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼……\n사이가 좋지 않았다는 거야?"
+  }, {
+    "$id" : 15,
+    "label" : "tq001201_msg0015",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게르니카라는 남자의 일부밖에\n알지 못했다는 말이야"
+  }, {
+    "$id" : 16,
+    "label" : "tq001201_msg0016",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좀 더 시간이\n있을 줄 알았는데……"
+  }, {
+    "$id" : 17,
+    "label" : "tq001201_msg0017",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 18,
+    "label" : "tq001201_msg0018",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보스…… 보스!"
+  }, {
+    "$id" : 19,
+    "label" : "tq001201_msg0019",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젊은이들이 풀이 죽었잖아요……"
+  }, {
+    "$id" : 20,
+    "label" : "tq001201_msg0020",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 이런"
+  }, {
+    "$id" : 21,
+    "label" : "tq001201_msg0021",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희 책임이 아니야\n게다가……"
+  }, {
+    "$id" : 22,
+    "label" : "tq001201_msg0022",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게르니카는 사명을 완수하기 위해\n죽은 것만은 아니야"
+  }, {
+    "$id" : 23,
+    "label" : "tq001201_msg0023",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자신의 신념을 삶의 마지막까지 지켜 낸 거지\n그것만은 단언할 수 있어"
+  }, {
+    "$id" : 24,
+    "label" : "tq001201_msg0024",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……신념……"
+  }, {
+    "$id" : 25,
+    "label" : "tq001201_msg0025",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 하지만 그거에 관해서는\n미련이 남았을지도 모르겠네요"
+  }, {
+    "$id" : 26,
+    "label" : "tq001201_msg0026",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 게르니카가\n늘 가지고 돌아오던……"
+  }, {
+    "$id" : 27,
+    "label" : "tq001201_msg0027",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아, 그렇겠군"
+  }, {
+    "$id" : 28,
+    "label" : "tq001201_msg0028",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『그거』라니……?"
+  }, {
+    "$id" : 29,
+    "label" : "tq001201_msg0029",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유품이야\n가족이나 동료들에게 전해 주거든"
+  }, {
+    "$id" : 30,
+    "label" : "tq001201_msg0030",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 최대한 흔적을 남기면\n안 되기도 하고……"
+  }, {
+    "$id" : 31,
+    "label" : "tq001201_msg0031",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기다리는 사람이 있으면\n어떤 형태로든 돌려보내고 싶어 했지"
+  }, {
+    "$id" : 32,
+    "label" : "tq001201_msg0033",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 후발대였으니까\n그 전장이 얼마나 위험했는지는 알고 있어"
+  }, {
+    "$id" : 33,
+    "label" : "tq001201_msg0034",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신경 써 봤자 소용없을 문제라고"
+  }, {
+    "$id" : 34,
+    "label" : "tq001201_msg0035",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 35,
+    "label" : "tq001201_msg0036",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만……\n유품은 남아 있을지도 몰라"
+  }, {
+    "$id" : 36,
+    "label" : "tq001201_msg0037",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응?"
+  }, {
+    "$id" : 37,
+    "label" : "tq001201_msg0038",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방금 그 얘기 말인데\n우리가 도와주면 안 될까?"
+  }, {
+    "$id" : 38,
+    "label" : "tq001201_msg0039",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미련이 있다면 남겨진 사람들은\n계속 괴로워하고 있을 거야"
+  }, {
+    "$id" : 39,
+    "label" : "tq001201_msg0040",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇겠지……"
+  }, {
+    "$id" : 40,
+    "label" : "tq001201_msg0041",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티 사람들의 사고방식 같은 거?\n아직 전부 이해하지는 못했지만 말이야"
+  }, {
+    "$id" : 41,
+    "label" : "tq001201_msg0042",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "할 수 있는 일이 있다면 돕고 싶어요"
+  }, {
+    "$id" : 42,
+    "label" : "tq001201_msg0043",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마음은 고맙지만\n왜 그렇게까지 하려는 거지……?"
+  }, {
+    "$id" : 43,
+    "label" : "tq001201_msg0044",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 지금까지 그런 식으로\n마음을 매듭지어 왔으니까"
+  }, {
+    "$id" : 44,
+    "label" : "tq001201_msg0045",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동료를 잃는 건 일상이었거든……"
+  }, {
+    "$id" : 45,
+    "label" : "tq001201_msg0046",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 우리는\n우로보로스이기 전에 환송자야"
+  }, {
+    "$id" : 46,
+    "label" : "tq001201_msg0047",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게르니카 씨가\n지금까지 그래 왔던 것처럼……"
+  }, {
+    "$id" : 47,
+    "label" : "tq001201_msg0048",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그때도 돌아오길 기다리는\n시티 사람들을 생각하고 있었다면"
+  }, {
+    "$id" : 48,
+    "label" : "tq001201_msg0049",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 목소리를 전하고 싶어"
+  }, {
+    "$id" : 49,
+    "label" : "tq001201_msg0050",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 50,
+    "label" : "tq001201_msg0051",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저로서도 고마운\n제안이긴 한데 말이죠"
+  }, {
+    "$id" : 51,
+    "label" : "tq001201_msg0052",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "트래비스, 작전 참가자 명부를 보내 줘"
+  }, {
+    "$id" : 52,
+    "label" : "tq001201_msg0053",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 알겠습니다\n잠시만 기다려 주세요"
+  }, {
+    "$id" : 53,
+    "label" : "tq001201_msg0054",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 보낸 게……"
+  }, {
+    "$id" : 54,
+    "label" : "tq001201_msg0055",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전사한 병사들의 리스트와\n전사한 장소로 예상되는 지역의 정보야"
+  }, {
+    "$id" : 55,
+    "label" : "tq001201_msg0056",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알페토 계곡에서\n표시한 곳 근처를 찾아봐 줘"
+  }, {
+    "$id" : 56,
+    "label" : "tq001201_msg0057",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상당히 정밀한데?"
+  }, {
+    "$id" : 57,
+    "label" : "tq001201_msg0058",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알아줘서 고마워\n이 기회에 기억해 주겠어?"
+  }, {
+    "$id" : 58,
+    "label" : "tq001201_msg0059",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 로스트 넘버즈는\n다들 포기할 줄 모르는 걸로 유명하다고"
+  }, {
+    "$id" : 59,
+    "label" : "tq001201_msg0060",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 부탁해도 될까?"
+  }, {
+    "$id" : 60,
+    "label" : "tq001201_msg0061",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "회수가 끝나면\n명각비로 오면 돼"
+  }, {
+    "$id" : 61,
+    "label" : "tq001201_msg0062",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어, 반드시 찾아 올게"
+  } ]
+}

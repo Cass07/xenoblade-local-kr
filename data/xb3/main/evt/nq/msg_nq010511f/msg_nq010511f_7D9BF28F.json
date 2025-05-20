@@ -1,0 +1,241 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq010511_msg0001",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 요리를 시작할게요모~!"
+  }, {
+    "$id" : 2,
+    "label" : "nq010511_msg0201",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쫀득쫀득 노폰 크로켓\n완성이에요모~!"
+  }, {
+    "$id" : 3,
+    "label" : "nq010511_msg0202",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 드셔 보세요모"
+  }, {
+    "$id" : 4,
+    "label" : "nq010511_msg0203",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우와! 귀여워~!\n너무 먹기 아깝다~"
+  }, {
+    "$id" : 5,
+    "label" : "nq010511_msg0204",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……음!! 맛있어!!"
+  }, {
+    "$id" : 6,
+    "label" : "nq010511_msg0205",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모모모모~~?!!"
+  }, {
+    "$id" : 7,
+    "label" : "nq010511_msg0206",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건…… 겉은 바삭바삭하고\n속은 촉촉해서 너무너무 맛있어요모!!"
+  }, {
+    "$id" : 8,
+    "label" : "nq010511_msg0207",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쫀득쫀득 감자에 대해\n알려 줘서 고마워요!"
+  }, {
+    "$id" : 9,
+    "label" : "nq010511_msg0208",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이렇게 맛있다는 걸 알게 되면\n다들 아주 기뻐할 거예요!"
+  }, {
+    "$id" : 10,
+    "label" : "nq010511_msg0209",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 다행이군"
+  }, {
+    "$id" : 11,
+    "label" : "nq010511_msg0210",
+    "talker" : "YX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수확할 때까지는 손이 많이 갈 거야\n매일 꾸준히 보살펴 줘야 해"
+  }, {
+    "$id" : 12,
+    "label" : "nq010511_msg0211",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "울이 있으니까\n괜찮겠지~?"
+  }, {
+    "$id" : 13,
+    "label" : "nq010511_msg0212",
+    "talker" : "mi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼~!"
+  }, {
+    "$id" : 14,
+    "label" : "nq010511_msg0213",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쫀득쫀득 감자를\n수확할 날이 기다려져요모"
+  }, {
+    "$id" : 15,
+    "label" : "nq010511_msg0214",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 그래"
+  }, {
+    "$id" : 16,
+    "label" : "nq010511_msg0215",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 9보다 맛있는 감자를\n수확하면 어떡할 거야?"
+  }, {
+    "$id" : 17,
+    "label" : "nq010511_msg0216",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 뒤처질 리 없지만……\n좋은 의미로 경쟁할 수 있다면 좋겠군"
+  }, {
+    "$id" : 18,
+    "label" : "nq010511_msg0217",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "계속 노력하다 보면\n분명 풍요로운 나날로 이어지겠지"
+  }, {
+    "$id" : 19,
+    "label" : "nq010511_msg0218",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그러길 바라고 있어"
+  }, {
+    "$id" : 20,
+    "label" : "nq010511_msg0219",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼, 제온은 오늘……"
+  }, {
+    "$id" : 21,
+    "label" : "nq010511_msg0220",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 이상을 향해서\n한 걸음 내디딘 거네"
+  }, {
+    "$id" : 22,
+    "label" : "nq010511_msg0221",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이상이라……"
+  }, {
+    "$id" : 23,
+    "label" : "nq010511_msg0222",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 작은 한 걸음으로\n보일지 몰라도……"
+  }, {
+    "$id" : 24,
+    "label" : "nq010511_msg0223",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내게는 크나큰 한 걸음이다"
+  } ]
+}

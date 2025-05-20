@@ -1,0 +1,124 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<78F02A5F>",
+    "talker" : "9",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분, 긴급 사태예요모!"
+  }, {
+    "$id" : 2,
+    "label" : "<8AB3C803>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그래, 마나나?"
+  }, {
+    "$id" : 3,
+    "label" : "<DEA8A56A>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이대로는……"
+  }, {
+    "$id" : 4,
+    "label" : "<4D125CB5>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나는 이제 한 발짝도 움직일 수 없어요모"
+  }, {
+    "$id" : 5,
+    "label" : "<FE076712>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 타우를 나온 뒤로\n줄곧 걷기만 했으니\n쉴 만한 곳이 보이면 야영을 준비하자"
+  }, {
+    "$id" : 6,
+    "label" : "<0C04A8E2>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모못! 식사 준비인가요모?!"
+  }, {
+    "$id" : 7,
+    "label" : "<4C93341E>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나, 조금만 더 힘내자? 응?"
+  }, {
+    "$id" : 8,
+    "label" : "<F9810851>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어요모!"
+  }, {
+    "$id" : 9,
+    "label" : "<510231B8>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘의 마나나는\n너무너무 배가 고파요모"
+  }, {
+    "$id" : 10,
+    "label" : "<95526457>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 빨리 식사할 수 있도록\n여러분도 요리를 도와주세요모"
+  }, {
+    "$id" : 11,
+    "label" : "<D53D2765>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 같이 만들자"
+  } ]
+}

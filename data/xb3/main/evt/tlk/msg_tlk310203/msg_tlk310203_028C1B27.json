@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk310203_msg0001",
+    "talker" : "oc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혹시 아그누스 캐슬로\n가려는 거야?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk310203_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞는데……\n너도 같이 갈래?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk310203_msg0003",
+    "talker" : "oc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "농담한 거지?\n난 사양하겠어\n성인식이나 캐슬에 집착하는 건 관뒀거든"
+  }, {
+    "$id" : 4,
+    "label" : "tlk310203_msg0004",
+    "talker" : "oc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도움이 필요하면\n언제든 말만 하라는 이야기를 하려던 거라고"
+  }, {
+    "$id" : 5,
+    "label" : "tlk310203_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어…… 하지만\n이제 너무 무리하지는 마"
+  } ]
+}

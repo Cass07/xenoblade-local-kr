@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120805_msg0001",
+    "talker" : "dY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선배들이 감마에 귀환한 뒤로\n다들 숙련도가 높아진 것 같아요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120805_msg0002",
+    "talker" : "dY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선배들의 교육에 자극을 받았는지\n더욱 열심히 훈련하게 됐고\n이론 수업에도 적극적으로 참가하고 있어요"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120805_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……설마 시도는 이런 것까지\n꿰뚫어 보고 우리한테 교육을 맡겼을까……?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120805_msg0004",
+    "talker" : "dY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……만약 그렇다면 정말 혜안이라고\n불러도 손색이 없네요. 아시하라가\n군무장님을 존경하는 이유를 알겠어요"
+  } ]
+}

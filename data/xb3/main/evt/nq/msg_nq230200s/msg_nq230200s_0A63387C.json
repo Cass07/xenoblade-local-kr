@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq230200_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……초렌이랬나?\n콜로니 11 녀석들이랑 싸울 때\n맨 처음 나선 녀석 맞지?"
+  }, {
+    "$id" : 2,
+    "label" : "nq230200_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 11의 주력 부대……\n통칭 \"초렌 부대\"는\n전위 병종으로 구성된 돌격 부대야"
+  }, {
+    "$id" : 3,
+    "label" : "nq230200_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전투에서는 선봉에 서서 적진에 파고들어\n적군을 안에서 무너뜨리는 전술이 특기지……"
+  }, {
+    "$id" : 4,
+    "label" : "nq230200_msg0004",
+    "talker" : "5",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오……\n딱 그래 보여"
+  }, {
+    "$id" : 5,
+    "label" : "nq230200_msg0005",
+    "talker" : "6",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 부대엔 아셰라 씨 같은 사람이\n잔뜩 있을 것 같아……"
+  }, {
+    "$id" : 6,
+    "label" : "nq230200_msg0006",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 방치했다간\n제일 위험한 녀석들인 거잖아……"
+  }, {
+    "$id" : 7,
+    "label" : "nq230200_msg0007",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미리 얘기를 해 봐서\n손해 볼 건 없을 거 같아……"
+  }, {
+    "$id" : 8,
+    "label" : "nq230200_msg0008",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석들, 분명 서쪽 관문에서\n모인다고 했었지?"
+  }, {
+    "$id" : 9,
+    "label" : "nq230200_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 맞아\n일단 가 보자"
+  } ]
+}

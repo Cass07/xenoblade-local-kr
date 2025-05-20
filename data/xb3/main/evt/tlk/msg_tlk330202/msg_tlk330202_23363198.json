@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk330202_msg0001",
+    "talker" : "nd1",
+    "talkattr" : 33025,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 근처에 커다란 문이 있어모!!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk330202_msg0002",
+    "talker" : "nd1",
+    "talkattr" : 33025,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 그 문은 굳게 닫혀 있어모!!\n포니스 지방 쪽에서 열어야만 해모!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk330202_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "열면 뭐 주는 거라도 있어?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk330202_msg0004",
+    "talker" : "nd1",
+    "talkattr" : 33025,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케하케바가 줄 수 있는 건\n잘했다는 칭찬밖에 없어모!!"
+  } ]
+}

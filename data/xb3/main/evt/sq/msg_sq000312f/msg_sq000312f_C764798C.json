@@ -1,0 +1,124 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq000312_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 녀석 뭐야?\n너무 강한데……"
+  }, {
+    "$id" : 2,
+    "label" : "sq000312_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이대로면 우리가 저 녀석 식전 운동을\n시켜 주는 꼴이라고……"
+  }, {
+    "$id" : 3,
+    "label" : "sq000312_msg0003",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐 하는 거야모~!"
+  }, {
+    "$id" : 4,
+    "label" : "sq000312_msg0004",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들 다 합치면\n6명이나 되잖아모\n따로 싸우지 말고 연계해모!"
+  }, {
+    "$id" : 5,
+    "label" : "sq000312_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "연계……"
+  }, {
+    "$id" : 6,
+    "label" : "sq000312_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아! 내가 붙들고 있는 동안\n전부 달려들어서 공격해!"
+  }, {
+    "$id" : 7,
+    "label" : "sq000312_msg0007",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니지! 무턱대고 접근하면 위험하니까\n원거리에서 공격을 반복하는 게 낫다고!"
+  }, {
+    "$id" : 8,
+    "label" : "sq000312_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "두 작전 모두\n앙그 상대로는 비효율적이야\n나라면……"
+  }, {
+    "$id" : 9,
+    "label" : "sq000312_msg0009",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미, 미오……"
+  }, {
+    "$id" : 10,
+    "label" : "sq000312_msg0010",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이렇게 의견이 갈리면\n연계는 꿈도 못 꾸겠는걸"
+  }, {
+    "$id" : 11,
+    "label" : "sq000312_msg0011",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "누구 작전대로 싸울지 정하자"
+  } ]
+}

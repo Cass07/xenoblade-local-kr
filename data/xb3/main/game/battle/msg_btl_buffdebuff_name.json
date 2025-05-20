@@ -1,0 +1,263 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<C8D030C1>",
+    "style" : 11,
+    "name" : "크리티컬 업"
+  }, {
+    "$id" : 2,
+    "label" : "<A736FA8C>",
+    "style" : 11,
+    "name" : "명중 업"
+  }, {
+    "$id" : 3,
+    "label" : "<DB70656D>",
+    "style" : 11,
+    "name" : "파워 차지"
+  }, {
+    "$id" : 4,
+    "label" : "<25F5F415>",
+    "style" : 11,
+    "name" : "대미지 아머"
+  }, {
+    "$id" : 5,
+    "label" : "<297B3F25>",
+    "style" : 11,
+    "name" : "에테르 앵커"
+  }, {
+    "$id" : 6,
+    "label" : "<6781219D>",
+    "style" : 11,
+    "name" : "공격 업"
+  }, {
+    "$id" : 7,
+    "label" : "<E187E932>",
+    "style" : 11,
+    "name" : "크리티컬 강화"
+  }, {
+    "$id" : 8,
+    "label" : "<3506003A>",
+    "style" : 11,
+    "name" : "회복 업"
+  }, {
+    "$id" : 9,
+    "label" : "<90194216>",
+    "style" : 11,
+    "name" : "딜레이 힐"
+  }, {
+    "$id" : 10,
+    "label" : "<44E9B40F>",
+    "style" : 11,
+    "name" : "카운터 힐"
+  }, {
+    "$id" : 11,
+    "label" : "<423A18C7>",
+    "style" : 11,
+    "name" : "버프 시간 정지"
+  }, {
+    "$id" : 12,
+    "label" : "<41B079BF>",
+    "style" : 11,
+    "name" : "무적"
+  }, {
+    "$id" : 13,
+    "label" : "<3892197E>",
+    "style" : 11,
+    "name" : "각성"
+  }, {
+    "$id" : 14,
+    "label" : "<CABC97EC>",
+    "style" : 11,
+    "name" : "방어 업"
+  }, {
+    "$id" : 15,
+    "label" : "<BAA0F8FF>",
+    "style" : 11,
+    "name" : "대타"
+  }, {
+    "$id" : 16,
+    "label" : "<42D84951>",
+    "style" : 11,
+    "name" : "디버프 배리어"
+  }, {
+    "$id" : 17,
+    "label" : "<CF202825>",
+    "style" : 11,
+    "name" : "리캐스트 업"
+  }, {
+    "$id" : 18,
+    "label" : "<4D2A68E1>",
+    "style" : 11,
+    "name" : ""
+  }, {
+    "$id" : 19,
+    "label" : "<84A2D4AE>",
+    "style" : 11,
+    "name" : "회피 업"
+  }, {
+    "$id" : 20,
+    "label" : "<3C9F025C>",
+    "style" : 11,
+    "name" : "아츠 추가 공격"
+  }, {
+    "$id" : 21,
+    "label" : "<58536937>",
+    "style" : 11,
+    "name" : "공격 다운"
+  }, {
+    "$id" : 22,
+    "label" : "<D9284314>",
+    "style" : 11,
+    "name" : "물리 방어 다운"
+  }, {
+    "$id" : 23,
+    "label" : "<572C3263>",
+    "style" : 11,
+    "name" : "에테르 방어 다운"
+  }, {
+    "$id" : 24,
+    "label" : "<9C16D3C1>",
+    "style" : 11,
+    "name" : "레지스트 다운"
+  }, {
+    "$id" : 25,
+    "label" : "<DBB3041B>",
+    "style" : 11,
+    "name" : "슬립"
+  }, {
+    "$id" : 26,
+    "label" : "<191060F3>",
+    "style" : 11,
+    "name" : "아츠 봉쇄"
+  }, {
+    "$id" : 27,
+    "label" : "<875DF53A>",
+    "style" : 11,
+    "name" : "회복 봉쇄"
+  }, {
+    "$id" : 28,
+    "label" : "<F131DDC5>",
+    "style" : 11,
+    "name" : "바인드"
+  }, {
+    "$id" : 29,
+    "label" : "<EA511B14>",
+    "style" : 11,
+    "name" : "타깃 록"
+  }, {
+    "$id" : 30,
+    "label" : "<2B2134D7>",
+    "style" : 11,
+    "name" : "대미지 링크"
+  }, {
+    "$id" : 31,
+    "label" : "<ADEC3F21>",
+    "style" : 11,
+    "name" : "가드 봉쇄"
+  }, {
+    "$id" : 32,
+    "label" : "<1A44A0C2>",
+    "style" : 11,
+    "name" : "명중 다운"
+  }, {
+    "$id" : 33,
+    "label" : "<5CC043C8>",
+    "style" : 11,
+    "name" : "회피 다운"
+  }, {
+    "$id" : 34,
+    "label" : "<BA0B4C38>",
+    "style" : 11,
+    "name" : "리캐스트 다운"
+  }, {
+    "$id" : 35,
+    "label" : "<51B4FC7D>",
+    "style" : 11,
+    "name" : "이클립스 소울"
+  }, {
+    "$id" : 36,
+    "label" : "<988BBF3B>",
+    "style" : 11,
+    "name" : "뫼비우스의 족쇄"
+  }, {
+    "$id" : 37,
+    "label" : "<A7E32057>",
+    "style" : 11,
+    "name" : "방패의 구속"
+  }, {
+    "$id" : 38,
+    "label" : "<B1AFF9B9>",
+    "style" : 11,
+    "name" : "검의 구속"
+  }, {
+    "$id" : 39,
+    "label" : "<00254215>",
+    "style" : 11,
+    "name" : "치유의 구속"
+  }, {
+    "$id" : 40,
+    "label" : "<DCCF9987>",
+    "style" : 11,
+    "name" : "인터링크 봉인"
+  }, {
+    "$id" : 41,
+    "label" : "<5D66A838>",
+    "style" : 11,
+    "name" : "불시계 부족, 공격 다운"
+  }, {
+    "$id" : 42,
+    "label" : "<8B6FF379>",
+    "style" : 11,
+    "name" : "모든 능력 다운"
+  }, {
+    "$id" : 43,
+    "label" : "<189EE68F>",
+    "style" : 11,
+    "name" : "출혈"
+  }, {
+    "$id" : 44,
+    "label" : "<9472C2BB>",
+    "style" : 11,
+    "name" : "작열"
+  }, {
+    "$id" : 45,
+    "label" : "<68D5BDEB>",
+    "style" : 11,
+    "name" : "빙결"
+  }, {
+    "$id" : 46,
+    "label" : "<AB68C19D>",
+    "style" : 11,
+    "name" : "맹독"
+  }, {
+    "$id" : 47,
+    "label" : "<5E154577>",
+    "style" : 11,
+    "name" : "리제너레이션"
+  }, {
+    "$id" : 48,
+    "label" : "<F1773B1F>",
+    "style" : 11,
+    "name" : "[ML:space ]"
+  }, {
+    "$id" : 49,
+    "label" : "<45A99767>",
+    "style" : 11,
+    "name" : "염열&리제너레이션"
+  }, {
+    "$id" : 50,
+    "label" : "<3D93EAEE>",
+    "style" : 11,
+    "name" : "아츠 힐"
+  } ]
+}

@@ -1,0 +1,358 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq230206_msg0001",
+    "talker" : "fe107fe10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전원, 전열은 갖췄겠지?\n그대로 명령이 있을 때까지 대기하도록"
+  }, {
+    "$id" : 2,
+    "label" : "nq230206_msg0002",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그쪽도 어지간하군\n그렇게까지 해서 우리 싸움을 막고 싶나?"
+  }, {
+    "$id" : 3,
+    "label" : "nq230206_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희야말로 왜 그렇게\n싸움에 집착하는 거야?"
+  }, {
+    "$id" : 4,
+    "label" : "nq230206_msg0004",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "핫! 이 초렌에게 이유를 묻다니!\n……그렇다면 가르쳐 주지!"
+  }, {
+    "$id" : 5,
+    "label" : "nq230206_msg0005",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 추구하는 진정한 힘은\n피가 끓어오르는 역경 속에 있기 때문이다!"
+  }, {
+    "$id" : 6,
+    "label" : "nq230206_msg0006",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "구태여 죽을 고비를 무릅쓰고 나아가\n내 몸을 극한까지 갈고 닦는 것……"
+  }, {
+    "$id" : 7,
+    "label" : "nq230206_msg0007",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것이 내가 싸우는 이유이자 전쟁의 의의다!"
+  }, {
+    "$id" : 8,
+    "label" : "nq230206_msg0008",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너 자신이 강해지기 위해서\n앞으로도 싸우겠다는 소리야?"
+  }, {
+    "$id" : 9,
+    "label" : "nq230206_msg0009",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다. 설마\n\"왜 강해지고 싶은지\"\n묻지는 않겠지?"
+  }, {
+    "$id" : 10,
+    "label" : "nq230206_msg0010",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……하아, 그런 이유라니\n이해가 안 되는 건 아닌데"
+  }, {
+    "$id" : 11,
+    "label" : "nq230206_msg0011",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 사실이면 너 정말……\n답도 없는 겁쟁이구나?"
+  }, {
+    "$id" : 12,
+    "label" : "nq230206_msg0012",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐라고?\n지금 나를 겁쟁이라고 한 건가?"
+  }, {
+    "$id" : 13,
+    "label" : "nq230206_msg0013",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐, 유니……!"
+  }, {
+    "$id" : 14,
+    "label" : "nq230206_msg0014",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 맞아\n네 부하가 아까 그랬잖아?"
+  }, {
+    "$id" : 15,
+    "label" : "nq230206_msg0015",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "람다는 불시계가 사라져서\n혼란에 빠진 탓에\n기량이 전성기에 미치지 못한다고"
+  }, {
+    "$id" : 16,
+    "label" : "nq230206_msg0016",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스의 군대는\n그걸 노리고 왔다고도 했고 말이야"
+  }, {
+    "$id" : 17,
+    "label" : "nq230206_msg0017",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 그렇다고 들었지\n그게 뭐 어떻다는 거지?"
+  }, {
+    "$id" : 18,
+    "label" : "nq230206_msg0018",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다시 말해…… 너희나 케베스나\n하는 짓이 똑같다는 거 아니야?"
+  }, {
+    "$id" : 19,
+    "label" : "nq230206_msg0019",
+    "talker" : "fe1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨……!"
+  }, {
+    "$id" : 20,
+    "label" : "nq230206_msg0020",
+    "talker" : "fe1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "헛소리하지 마라!\n그렇지 않다! 완전히 다르단 말이다!!"
+  }, {
+    "$id" : 21,
+    "label" : "nq230206_msg0021",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐가 그렇지 않아? 뭐가 다른데?\n어서 말해 봐. 내가 들어 줄 테니까"
+  }, {
+    "$id" : 22,
+    "label" : "nq230206_msg0022",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 23,
+    "label" : "nq230206_msg0023",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 24,
+    "label" : "nq230206_msg0024",
+    "talker" : "fe1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……큭! 건방진 소리를……!"
+  }, {
+    "$id" : 25,
+    "label" : "nq230206_msg0025",
+    "talker" : "fe105fe10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "작전 변경이다!\n목표는 람다로 침공 중인 케베스군!"
+  }, {
+    "$id" : 26,
+    "label" : "nq230206_msg0026",
+    "talker" : "fe104je10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어머……?"
+  }, {
+    "$id" : 27,
+    "label" : "nq230206_msg0027",
+    "talker" : "fe104ie10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네? 람다는 그냥 둡니까?"
+  }, {
+    "$id" : 28,
+    "label" : "nq230206_msg0028",
+    "talker" : "fe103fe10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대장의 명령에 토 다는 건가?\n기어오르지 마라!!"
+  }, {
+    "$id" : 29,
+    "label" : "nq230206_msg0029",
+    "talker" : "fe104ie10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어이쿠, 무서워라……\n알겠다니깐요"
+  }, {
+    "$id" : 30,
+    "label" : "nq230206_msg0030",
+    "talker" : "fe108je10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어……\n후후후, 이것도 나름대로 재밌겠네"
+  }, {
+    "$id" : 31,
+    "label" : "nq230206_msg0031",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그러고 보니 콜로니 람다는\n너희와 친분이 있었나"
+  }, {
+    "$id" : 32,
+    "label" : "nq230206_msg0032",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 뭐?"
+  }, {
+    "$id" : 33,
+    "label" : "nq230206_msg0033",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네 녀석은 불손하게도\n이 초렌을 \"겁쟁이\"라고 비난했다"
+  }, {
+    "$id" : 34,
+    "label" : "nq230206_msg0034",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 동료의 위기를 앞두고도\n싸움을 거부한다면\n네 녀석들은 얼간이라 해야겠지?"
+  }, {
+    "$id" : 35,
+    "label" : "nq230206_msg0035",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하! 말하지 않아도\n나서야 할 때 정도는 안다고!"
+  }, {
+    "$id" : 36,
+    "label" : "nq230206_msg0036",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……흥"
+  }, {
+    "$id" : 37,
+    "label" : "nq230206_msg0037",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "초렌 부대, 전진하라!\n눈에 보이는 적을 전부 짓밟아라!"
+  } ]
+}

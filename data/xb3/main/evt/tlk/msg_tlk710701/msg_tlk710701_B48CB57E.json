@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk710701_msg0001",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시조의 동상이라고 시티를 만든 사람들을\n본떠서 만든 조각상이 있거든?\n본 적이 있을지 모르겠네"
+  }, {
+    "$id" : 2,
+    "label" : "tlk710701_msg0002",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그럼 여기서 문제!\n어느 동상이 가장 멋질까~요?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk710701_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?!\n어…… 난…… 맨 왼쪽……?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk710701_msg0004",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오오~ 누나는\n저런 사람 좋아하는구나!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk710701_msg0005",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 오른쪽에서 두 번째가 좋아!\n에헤헤~"
+  } ]
+}

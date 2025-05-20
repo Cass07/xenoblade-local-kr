@@ -1,0 +1,313 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq020100_msg0001",
+    "talker" : "2",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 시도는\n무슨 부탁을 하고 싶은 거야?"
+  }, {
+    "$id" : 2,
+    "label" : "nq020100_msg0002",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 전부 설명하겠습니다"
+  }, {
+    "$id" : 3,
+    "label" : "nq020100_msg0003",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분이 콜로니 감마의……\n신병들을 교육해 주셨으면 합니다"
+  }, {
+    "$id" : 4,
+    "label" : "nq020100_msg0004",
+    "talker" : "4",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희한테…… 교육을요?"
+  }, {
+    "$id" : 5,
+    "label" : "nq020100_msg0005",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 감마는 우로보로스의 도움으로\n생명의 불시계로부터 해방되었습니다"
+  }, {
+    "$id" : 6,
+    "label" : "nq020100_msg0006",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만…… 그렇다고 해서\n케베스와 아그누스의 전쟁이\n끝난 것은 아니죠"
+  }, {
+    "$id" : 7,
+    "label" : "nq020100_msg0007",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "점점 더 전쟁이 격해지는 세계에서\n신병들이 살아남으려면\n그들에게는 싸울 힘이 필요합니다"
+  }, {
+    "$id" : 8,
+    "label" : "nq020100_msg0008",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아, 그 교육이라는 건\n케베스 출신인 우리도 해야 하는 거야?"
+  }, {
+    "$id" : 9,
+    "label" : "nq020100_msg0009",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "같이 부탁드릴 생각이었습니다\n오히려 그렇게 해야 더 의미가 있거든요"
+  }, {
+    "$id" : 10,
+    "label" : "nq020100_msg0010",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방금 말한 거 말고도 이유가 있다는 거야?"
+  }, {
+    "$id" : 11,
+    "label" : "nq020100_msg0011",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 여러분은 교육을 통해\n그들의 \"규범\"이 되어 주셨으면 합니다"
+  }, {
+    "$id" : 12,
+    "label" : "nq020100_msg0012",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "규범……?"
+  }, {
+    "$id" : 13,
+    "label" : "nq020100_msg0013",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스에게 있어서\n케베스는 불구대천의 원수이며\n반드시 죽여야 하는 존재이다……"
+  }, {
+    "$id" : 14,
+    "label" : "nq020100_msg0014",
+    "talker" : "J",
+    "talkattr" : 33048,
+    "talkattr2" : 32897,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분은 그 고정 관념을 뒤집고\n상호 이해의 가능성을 드러냈습니다"
+  }, {
+    "$id" : 15,
+    "label" : "nq020100_msg0015",
+    "talker" : "J",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 여러분을 신병들의 규범으로 삼아\n그들의 인식을 바꾸고자 합니다"
+  }, {
+    "$id" : 16,
+    "label" : "nq020100_msg0016",
+    "talker" : "4",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스에게 갖고 있는 적의나 경계심을\n해소하겠다는 말씀이시죠?"
+  }, {
+    "$id" : 17,
+    "label" : "nq020100_msg0017",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……갈 곳을 잃은 강한 감정은 인간을\n때때로 무익한 싸움으로 끌고 갑니다"
+  }, {
+    "$id" : 18,
+    "label" : "nq020100_msg0018",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "따라서 그들을 전쟁의 불길로부터 보호한다는\n측면에서도 이 교육은 필수적이라 할 수 있죠"
+  }, {
+    "$id" : 19,
+    "label" : "nq020100_msg0019",
+    "talker" : "1",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알았어\n그런 이유라면 우리도 협력할게"
+  }, {
+    "$id" : 20,
+    "label" : "nq020100_msg0020",
+    "talker" : "3",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근데 교육이란 걸 해 봤어야 말이지\n뭐부터 시작하면 되는데?"
+  }, {
+    "$id" : 21,
+    "label" : "nq020100_msg0021",
+    "talker" : "6",
+    "talkattr" : 33120,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음……"
+  }, {
+    "$id" : 22,
+    "label" : "nq020100_msg0022",
+    "talker" : "J",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안심하세요, 사전 작업은\n이미 이쪽에서 준비해 뒀습니다"
+  }, {
+    "$id" : 23,
+    "label" : "nq020100_msg0023",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 제가 먼저\n새로운 교육관이 될 여러분의 경력을\n콜로니 내에 게시하겠습니다"
+  }, {
+    "$id" : 24,
+    "label" : "nq020100_msg0024",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 게시된 내용을 보고\n신병들이 어떤 교육관의 교육을 희망하는지\n지명하도록 할 겁니다"
+  }, {
+    "$id" : 25,
+    "label" : "nq020100_msg0025",
+    "talker" : "4",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "특이한 방법이군요\n그들이 직접 고르게 하는 이유가 있나요?"
+  }, {
+    "$id" : 26,
+    "label" : "nq020100_msg0026",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 이번 교육 과정에서는\n그들의 자주성을 더 중시하기로 했습니다"
+  }, {
+    "$id" : 27,
+    "label" : "nq020100_msg0027",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근데 그런 방식으로 가면\n다들 미오나 세나만 선택하는 거 아냐?"
+  }, {
+    "$id" : 28,
+    "label" : "nq020100_msg0028",
+    "talker" : "J",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꼭 그렇지는 않을 겁니다\n신병 중에는 순수하게 여러분에게\n호기심을 품고 있는 이들도 있거든요"
+  }, {
+    "$id" : 29,
+    "label" : "nq020100_msg0029",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 어떻게든 되겠지\n일단 해 보자고"
+  }, {
+    "$id" : 30,
+    "label" : "nq020100_msg0030",
+    "talker" : "2",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 교육관은 처음 해 보는데\n기대해 주는 만큼 열심히 해 볼게"
+  }, {
+    "$id" : 31,
+    "label" : "nq020100_msg0031",
+    "talker" : "J",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……여러분이라면\n그렇게 말해 주실 거라 믿었습니다\n승낙해 주셔서 감사합니다"
+  }, {
+    "$id" : 32,
+    "label" : "nq020100_msg0032",
+    "talker" : "J",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부디 그 손으로\n새롭게 열리는 미래를 향해\n그들을 이끌어 주시길"
+  } ]
+}

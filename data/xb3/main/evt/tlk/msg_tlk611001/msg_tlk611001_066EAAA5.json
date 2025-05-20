@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk611001_msg0001",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빌어먹을 집정관 녀석이 사라져서\n아주 속이 뻥 뚫리는 기분이야!!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk611001_msg0002",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로스트 넘버즈한테 들었는데\n이게 \"자유\"라는 거라며?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk611001_msg0003",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아주 좋아…… 나쁘지 않아!"
+  } ]
+}

@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq010705_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카밀라, 얼마 안 되긴 하지만\n이거 받아"
+  }, {
+    "$id" : 2,
+    "label" : "nq010705_msg0002",
+    "talker" : "gX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "와! 감사합니다"
+  }, {
+    "$id" : 3,
+    "label" : "nq010705_msg0003",
+    "talker" : "gX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니 오늘은 이스트 씨 일행도\n물자를 갖고 오셨더라고요"
+  }, {
+    "$id" : 4,
+    "label" : "nq010705_msg0004",
+    "talker" : "gX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거 보세요"
+  }, {
+    "$id" : 5,
+    "label" : "nq010705_msg0005",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카이트랑 다른 녀석들도 할 때는 한다니까"
+  }, {
+    "$id" : 6,
+    "label" : "nq010705_msg0006",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제온이 카이트 팀을\n높게 평가하는 것도 납득이 가"
+  }, {
+    "$id" : 7,
+    "label" : "nq010705_msg0007",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근데 물자 말이야……\n좀 더 가득 차 있지 않았어?"
+  }, {
+    "$id" : 8,
+    "label" : "nq010705_msg0008",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석들\n자기들 주머니로 챙겼나 본데……"
+  }, {
+    "$id" : 9,
+    "label" : "nq010705_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  } ]
+}

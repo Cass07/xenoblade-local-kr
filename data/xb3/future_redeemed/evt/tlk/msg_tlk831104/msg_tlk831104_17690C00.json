@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831104_msg0001",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "해밀은 정비사로서는\n충분한 실력을 갖고 있지만\n저 유약한 성격은 참……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831104_msg0002",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 일부러 엄하게 대하면서\n성격을 좀 고쳐 주려 하고 있는데……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831104_msg0003",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 말을 하자니 미안하지만\n별로 효과는 없어 보이는데"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831104_msg0004",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇단 말이지\n정말 어려운 문제야"
+  }, {
+    "$id" : 5,
+    "label" : "tlk831104_msg0005",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혹시 친구라도 한두 명 생기면\n성격이 좀 달라질까?"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120102_msg0001",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "환송자의 피리를 가진 노폰?\n아, 시미미 말이구나?"
+  }, {
+    "$id" : 2,
+    "label" : "nq120102_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰인데 왜\n환송 연습을 하는 거야?"
+  }, {
+    "$id" : 3,
+    "label" : "nq120102_msg0003",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명 라드를……\n전사한 콜로니 30의\n환송자를 대신할 생각일 거야"
+  }, {
+    "$id" : 4,
+    "label" : "nq120102_msg0004",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 둘은 사이가 무척 좋았거든"
+  }, {
+    "$id" : 5,
+    "label" : "nq120102_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬구나……"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230402_msg0001",
+    "talker" : "Xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안녕! 콜로니 요타에서 본\n이후로는 처음이지?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230402_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후겐?!\n정말 콜로니 4에 와 있었구나……?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230402_msg0003",
+    "talker" : "Xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요르데와 친해지고 싶었거든~!\n프라우렌의 방해를 피해\n잽싸게 빠져나온 참이야"
+  }, {
+    "$id" : 4,
+    "label" : "tlk230402_msg0004",
+    "talker" : "Xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "컬렉피디아 카드를 해독하면\n방해 공작도 간단히 예측할 수 있지!\n승리하는 날이 머지않았어! 아마도 말이야!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk230402_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그야말로 기술의 낭비로군……"
+  } ]
+}

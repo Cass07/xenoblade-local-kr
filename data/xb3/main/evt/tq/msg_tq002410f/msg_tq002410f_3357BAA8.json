@@ -1,0 +1,475 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002410_msg0001",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 2,
+    "label" : "tq002410_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그래?"
+  }, {
+    "$id" : 3,
+    "label" : "tq002410_msg0003",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……콜로니 0에서 비밀 통신이 왔습니다"
+  }, {
+    "$id" : 4,
+    "label" : "tq002410_msg0004",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뫼비우스인 집정관 에프가\n우로보로스와의 대화를 원합니다"
+  }, {
+    "$id" : 5,
+    "label" : "tq002410_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뫼비우스라고……?!"
+  }, {
+    "$id" : 6,
+    "label" : "tq002410_msg0006",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "7호의 \"눈동자\"를 매개로\n그쪽 회선과 연결하겠습니다"
+  }, {
+    "$id" : 7,
+    "label" : "tq002410_msg0007",
+    "talker" : "pW103pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "처음 뵙겠습니다\n우로보로스 여러분"
+  }, {
+    "$id" : 8,
+    "label" : "tq002410_msg0008",
+    "talker" : "pW103pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 \"에프\"라고 합니다\n우선 이런 식으로 만나 뵙는\n무례함을 사과드립니다"
+  }, {
+    "$id" : 9,
+    "label" : "tq002410_msg0009",
+    "talker" : "30330",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쳇, 낯짝도 두껍네\n우릴 죽이려 한 주제에"
+  }, {
+    "$id" : 10,
+    "label" : "tq002410_msg0010",
+    "talker" : "40340",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대화를 원한다고 들었는데\n이제 와서 그럴 여지가 있을 것 같나?"
+  }, {
+    "$id" : 11,
+    "label" : "tq002410_msg0011",
+    "talker" : "pW104pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분께서 불신하실 만도 합니다"
+  }, {
+    "$id" : 12,
+    "label" : "tq002410_msg0012",
+    "talker" : "pW104pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 그 점을 알고 있음에도\n저는 여러분과 교섭하고 싶습니다"
+  }, {
+    "$id" : 13,
+    "label" : "tq002410_msg0013",
+    "talker" : "20320",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "교섭이라고?"
+  }, {
+    "$id" : 14,
+    "label" : "tq002410_msg0014",
+    "talker" : "pW104pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약 이쪽의 요구를 들어주신다면\n저희는 우로보로스 말살 임무를 포기하겠습니다"
+  }, {
+    "$id" : 15,
+    "label" : "tq002410_msg0015",
+    "talker" : "pW104pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 0는 이 이후로 일절\n우로보로스의 행동에 관여하지 않겠습니다"
+  }, {
+    "$id" : 16,
+    "label" : "tq002410_msg0016",
+    "talker" : "50350",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 괜찮네!\n너희에게 믿음이 간다면 말이지"
+  }, {
+    "$id" : 17,
+    "label" : "tq002410_msg0017",
+    "talker" : "10310",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서…… 요구 사항은 뭐지?"
+  }, {
+    "$id" : 18,
+    "label" : "tq002410_msg0018",
+    "talker" : "pW104pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……7호의 신변 반환입니다"
+  }, {
+    "$id" : 19,
+    "label" : "tq002410_msg0019",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐……?"
+  }, {
+    "$id" : 20,
+    "label" : "tq002410_msg0020",
+    "talker" : "10410",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그게 다야? 그것만 들어주면\n우리와 다시는 싸우지 않겠다고?"
+  }, {
+    "$id" : 21,
+    "label" : "tq002410_msg0021",
+    "talker" : "pW103pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 그것이 저……\n더 나아가 콜로니 0 모두의 의견입니다"
+  }, {
+    "$id" : 22,
+    "label" : "tq002410_msg0022",
+    "talker" : "30430",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 말 진심이야?\n뫼비우스라면 병사 하나둘쯤은\n간단하게 버리는 녀석들이잖아"
+  }, {
+    "$id" : 23,
+    "label" : "tq002410_msg0023",
+    "talker" : "pW104pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 그런 전횡을 일삼는 집정관도 있습니다\n안타까운 실태이기는 하지요……"
+  }, {
+    "$id" : 24,
+    "label" : "tq002410_msg0024",
+    "talker" : "pW104pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 저는 콜로니 0가 가져오는\n생명의 빛을 무엇보다도 소중히 여기고 있습니다"
+  }, {
+    "$id" : 25,
+    "label" : "tq002410_msg0025",
+    "talker" : "pW104pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연히 그것은 7호 또한 같습니다"
+  }, {
+    "$id" : 26,
+    "label" : "tq002410_msg0026",
+    "talker" : "pW104pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 적인 여러분께\n무리라는 걸 알면서도 교섭을 청한 겁니다"
+  }, {
+    "$id" : 27,
+    "label" : "tq002410_msg0027",
+    "talker" : "60360",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그게 정말이야?"
+  }, {
+    "$id" : 28,
+    "label" : "tq002410_msg0028",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 세나……"
+  }, {
+    "$id" : 29,
+    "label" : "tq002410_msg0029",
+    "talker" : "60360",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방금 그 이야기가 거짓말이 아니라는 걸\n정말 믿어도 돼?"
+  }, {
+    "$id" : 30,
+    "label" : "tq002410_msg0030",
+    "talker" : "pW104pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론입니다……라고 말씀드리고는 싶지만\n말만 듣고 신용하기 어려운 점 또한 사실이겠죠"
+  }, {
+    "$id" : 31,
+    "label" : "tq002410_msg0031",
+    "talker" : "pW104pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "7호에게 콜로니 0의\n현재 위치 좌표를 보냈습니다"
+  }, {
+    "$id" : 32,
+    "label" : "tq002410_msg0032",
+    "talker" : "pW104pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희는 그곳에 있을 테니\n만일 교섭에 응하시겠다면\n7호와 함께 찾아와 주시길 바랍니다"
+  }, {
+    "$id" : 33,
+    "label" : "tq002410_msg0033",
+    "talker" : "10310",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있는 곳을 밝혔다고 믿어 줄 거 같아?"
+  }, {
+    "$id" : 34,
+    "label" : "tq002410_msg0034",
+    "talker" : "40340",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "믿는다고 해도\n함정일 가능성을 무시할 수 없지"
+  }, {
+    "$id" : 35,
+    "label" : "tq002410_msg0035",
+    "talker" : "pW104pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그때는 7호의 생사여탈 권리를 가지신\n여러분에게 판단을 맡기겠습니다"
+  }, {
+    "$id" : 36,
+    "label" : "tq002410_msg0036",
+    "talker" : "50350",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "칫, 기분 나쁜 소리 지껄이기는……"
+  }, {
+    "$id" : 37,
+    "label" : "tq002410_msg0037",
+    "talker" : "pW103pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 그런 사태는 원치 않습니다\n제가 바라는 건 7호의 귀환…… 단 하나니까요"
+  }, {
+    "$id" : 38,
+    "label" : "tq002410_msg0038",
+    "talker" : "pW103pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……7호"
+  }, {
+    "$id" : 39,
+    "label" : "tq002410_msg0039",
+    "talker" : "dW104dW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네"
+  }, {
+    "$id" : 40,
+    "label" : "tq002410_msg0040",
+    "talker" : "pW103pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 0까지 안내는 당신에게 맡기겠습니다\n귀환할 때까지 그들의 지휘에 따르세요"
+  }, {
+    "$id" : 41,
+    "label" : "tq002410_msg0041",
+    "talker" : "dW104dW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다"
+  }, {
+    "$id" : 42,
+    "label" : "tq002410_msg0042",
+    "talker" : "pW104pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……7호"
+  }, {
+    "$id" : 43,
+    "label" : "tq002410_msg0043",
+    "talker" : "dW103dW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네"
+  }, {
+    "$id" : 44,
+    "label" : "tq002410_msg0044",
+    "talker" : "pW104pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 당신을 걱정했답니다"
+  }, {
+    "$id" : 45,
+    "label" : "tq002410_msg0045",
+    "talker" : "dW103dW10",
+    "talkattr" : 33027,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 46,
+    "label" : "tq002410_msg0046",
+    "talker" : "pW108pW10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 여러분\n바라건대 다시 만나 뵐 수 있기를……"
+  }, {
+    "$id" : 47,
+    "label" : "tq002410_msg0047",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집정관 권한에 의한 특별 조치로서\n7호는 우로보로스의 지휘에 따르겠습니다"
+  }, {
+    "$id" : 48,
+    "label" : "tq002410_msg0048",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "교섭 여부를 결정하시는 대로\n출격 명령을 내려 주시기 바랍니다"
+  }, {
+    "$id" : 49,
+    "label" : "tq002410_msg0049",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거……\n예상치 못한 상황이 되고 말았는걸"
+  }, {
+    "$id" : 50,
+    "label" : "tq002410_msg0050",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세주……"
+  } ]
+}

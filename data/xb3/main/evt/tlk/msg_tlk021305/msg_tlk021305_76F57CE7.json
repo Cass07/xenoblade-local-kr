@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk021305_msg0001",
+    "talker" : "ZW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제트…… 전쟁의 소용돌이가\n만연하는 이 세계를 창조하고\n분쟁의 연쇄를 낳은 자……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk021305_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……맞아, 제트를 쓰러뜨리면\n그 연쇄도 끊어 낼 수 있을 거야"
+  }, {
+    "$id" : 3,
+    "label" : "tlk021305_msg0003",
+    "talker" : "ZW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아, 이 순간을 얼마나\n손꼽아 기다려 왔는지 모릅니다"
+  }, {
+    "$id" : 4,
+    "label" : "tlk021305_msg0004",
+    "talker" : "ZW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제 목숨이 다하기 전에\n세계의 운명이 달린 순간을 마주하다니……\n그야말로 뜻밖의 요행이로군요"
+  }, {
+    "$id" : 5,
+    "label" : "tlk021305_msg0005",
+    "talker" : "ZW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세계에서 분쟁의 화근을 없애는 것……\n그 숙원을 이루기 위해서라도\n이 결전에 제 전부를 걸겠습니다"
+  } ]
+}

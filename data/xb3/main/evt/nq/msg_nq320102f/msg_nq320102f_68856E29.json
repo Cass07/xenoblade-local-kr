@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq320102_msg0001",
+    "talker" : "bl1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꼭 취재하고 싶어……!\n시티 바깥의 이야기를\n들려주면 안 되겠니?"
+  }, {
+    "$id" : 2,
+    "label" : "nq320102_msg0002",
+    "talker" : "sf1",
+    "talkattr" : 33144,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 3,
+    "label" : "nq320102_msg0003",
+    "talker" : "gn1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안 돼! 페르가스는 지금\n우리랑 숨바꼭질하는 중이야!"
+  }, {
+    "$id" : 4,
+    "label" : "nq320102_msg0004",
+    "talker" : "hn1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아줌마가 술래 해서\n페르가스를 잡으면\n페르가스랑 놀아도 돼!"
+  }, {
+    "$id" : 5,
+    "label" : "nq320102_msg0005",
+    "talker" : "sf1",
+    "talkattr" : 33144,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 6,
+    "label" : "nq320102_msg0006",
+    "talker" : "bl1",
+    "talkattr" : 33105,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗, 기다리렴!"
+  }, {
+    "$id" : 7,
+    "label" : "nq320102_msg0007",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사이좋게…… 지내는 건가?"
+  }, {
+    "$id" : 8,
+    "label" : "nq320102_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마도?"
+  } ]
+}

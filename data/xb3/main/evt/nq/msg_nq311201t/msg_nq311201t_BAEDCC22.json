@@ -1,0 +1,160 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq311201_msg0001",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "탄조\n만나서 다행이야!"
+  }, {
+    "$id" : 2,
+    "label" : "nq311201_msg0002",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모……\n또 너희들인가모?"
+  }, {
+    "$id" : 3,
+    "label" : "nq311201_msg0003",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 이사 준비로 바쁘다네모"
+  }, {
+    "$id" : 4,
+    "label" : "nq311201_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "탄조는 마나나의 냄비를 만들 때\n그 얼티밋 해머로 만들었어?"
+  }, {
+    "$id" : 5,
+    "label" : "nq311201_msg0005",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모?! 어떻게 이 해머를 알고 있지모?"
+  }, {
+    "$id" : 6,
+    "label" : "nq311201_msg0006",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얼티밋 해머를 지닌 자로서\n우리에게도 힘을 빌려줬으면 하는데……"
+  }, {
+    "$id" : 7,
+    "label" : "nq311201_msg0007",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거절하겠네모"
+  }, {
+    "$id" : 8,
+    "label" : "nq311201_msg0008",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이렇게 딱 잘라 말하려고 했지만모\n새먼이 자네들에게 해머에 대해\n가르쳐 줬단 말인가모?"
+  }, {
+    "$id" : 9,
+    "label" : "nq311201_msg0009",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아"
+  }, {
+    "$id" : 10,
+    "label" : "nq311201_msg0010",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……새먼의 호출이라면\n지금까지 빌린 것들도 돌려줘야겠구먼모"
+  }, {
+    "$id" : 11,
+    "label" : "nq311201_msg0011",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "탄조……!"
+  }, {
+    "$id" : 12,
+    "label" : "nq311201_msg0012",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "착각하면 곤란하네모\n새먼과의 의리를 지키기 위해서일세모"
+  }, {
+    "$id" : 13,
+    "label" : "nq311201_msg0013",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하아……\n새먼의 공방으로 가면 되겠지모?"
+  }, {
+    "$id" : 14,
+    "label" : "nq311201_msg0014",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 시티가 있는 장소가\n바뀌었으니까 좌표를 보낼게"
+  }, {
+    "$id" : 15,
+    "label" : "nq311201_msg0015",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 난 이만 가 보겠네모"
+  } ]
+}

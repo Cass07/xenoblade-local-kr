@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq110202_msg0001",
+    "talker" : "tZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭔데?"
+  }, {
+    "$id" : 2,
+    "label" : "nq110202_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맥시가 따로 말 안 했어?\n당신이 조사한 몬스터에 대해\n좀 물어보려고 왔어"
+  }, {
+    "$id" : 3,
+    "label" : "nq110202_msg0003",
+    "talker" : "tZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "칫…… 여기서 남서쪽에 있는\n닐 골짜기에 녀석의 사냥터가 있어"
+  }, {
+    "$id" : 4,
+    "label" : "nq110202_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……? 그거 말고 다른 건?"
+  }, {
+    "$id" : 5,
+    "label" : "nq110202_msg0006",
+    "talker" : "tZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "없어, 너희 정도면\n장소만 알아도 충분하잖아?"
+  }, {
+    "$id" : 6,
+    "label" : "nq110202_msg0007",
+    "talker" : "tZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안 죽게 몸이나 잘 보전하라고\n이 반역자들아"
+  }, {
+    "$id" : 7,
+    "label" : "nq110202_msg0008",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 자식이 진짜, 적당히……!"
+  }, {
+    "$id" : 8,
+    "label" : "nq110202_msg0009",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "란츠, 됐어"
+  }, {
+    "$id" : 9,
+    "label" : "nq110202_msg0010",
+    "talker" : "tZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흥……"
+  } ]
+}

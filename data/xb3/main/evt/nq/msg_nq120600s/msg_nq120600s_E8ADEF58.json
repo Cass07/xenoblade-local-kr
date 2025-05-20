@@ -1,0 +1,322 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120600_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 30는 그 후로 좀 어때?"
+  }, {
+    "$id" : 2,
+    "label" : "nq120600_msg0002",
+    "talker" : "6",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에테르는\n아직도 부족해?"
+  }, {
+    "$id" : 3,
+    "label" : "nq120600_msg0003",
+    "talker" : "H",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 유제트랑 동료들이\n곤란한 상황이라\n어떻게든 해결해 주고 싶어"
+  }, {
+    "$id" : 4,
+    "label" : "nq120600_msg0004",
+    "talker" : "5",
+    "talkattr" : 33104,
+    "talkattr2" : 41959554,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세상에, 루디 입에서\n그런 말이 나오는 날이 올 줄이야……"
+  }, {
+    "$id" : 5,
+    "label" : "nq120600_msg0005",
+    "talker" : "5",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너라면 분명히\n레브니스를 못 만드는 걸\n걱정할 거라 생각했는데"
+  }, {
+    "$id" : 6,
+    "label" : "nq120600_msg0006",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레파파한테도 같은 말을 들었어"
+  }, {
+    "$id" : 7,
+    "label" : "nq120600_msg0007",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아! 그래서 말인데"
+  }, {
+    "$id" : 8,
+    "label" : "nq120600_msg0008",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이스루기한테 상담했더니\n에테르를 나눠 준다고 해서\n이번에 받으러 가기로 했어!"
+  }, {
+    "$id" : 9,
+    "label" : "nq120600_msg0009",
+    "talker" : "4",
+    "talkattr" : 33056,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장님께서……"
+  }, {
+    "$id" : 10,
+    "label" : "nq120600_msg0010",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 콜로니에서도\n조금씩 받을 수는 없을까?"
+  }, {
+    "$id" : 11,
+    "label" : "nq120600_msg0011",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 하면 드루크 건조도\n다시 시작할 수 있을 텐데……"
+  }, {
+    "$id" : 12,
+    "label" : "nq120600_msg0012",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어느 정도 필요한데?"
+  }, {
+    "$id" : 13,
+    "label" : "nq120600_msg0013",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레파파가\n에테르 실린더 2500개는\n필요하다고 했어"
+  }, {
+    "$id" : 14,
+    "label" : "nq120600_msg0033",
+    "talker" : "5",
+    "talkattr" : 33113,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "2500개?!"
+  }, {
+    "$id" : 15,
+    "label" : "nq120600_msg0014",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "암만 그래도 그렇게 많은 양을\n지원해 주진 못할 것 같은데……?"
+  }, {
+    "$id" : 16,
+    "label" : "nq120600_msg0015",
+    "talker" : "2",
+    "talkattr" : 32768,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 17,
+    "label" : "nq120600_msg0016",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 에테르를 받는 대신에\n콜로니 30에서 할 수 있는 일로\n보답하는 건 어때?"
+  }, {
+    "$id" : 18,
+    "label" : "nq120600_msg0017",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전에 콜로니 람다에\n레브니스를 파견했을 때처럼"
+  }, {
+    "$id" : 19,
+    "label" : "nq120600_msg0018",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은 방법이야"
+  }, {
+    "$id" : 20,
+    "label" : "nq120600_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 아예\n정비사를 파견하는 건 어떨까?"
+  }, {
+    "$id" : 21,
+    "label" : "nq120600_msg0020",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 30의 정비사라면\n충분히 가치가 있을 거야"
+  }, {
+    "$id" : 22,
+    "label" : "nq120600_msg0021",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실버 콜로니를 이길 만큼 강한\n레브니스 부대를 지원한 공적은 크니까"
+  }, {
+    "$id" : 23,
+    "label" : "nq120600_msg0022",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 방법이 있었구나~!"
+  }, {
+    "$id" : 24,
+    "label" : "nq120600_msg0023",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 콜로니의 레브니스들을\n만나는 거 기대된다"
+  }, {
+    "$id" : 25,
+    "label" : "nq120600_msg0024",
+    "talker" : "6",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디가 가려고……?"
+  }, {
+    "$id" : 26,
+    "label" : "nq120600_msg0025",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유제트가 허락하지 않을 텐데"
+  }, {
+    "$id" : 27,
+    "label" : "nq120600_msg0026",
+    "talker" : "H",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엥……"
+  }, {
+    "$id" : 28,
+    "label" : "nq120600_msg0027",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어차피 한가한 노폰이\n한가득 있잖아?"
+  }, {
+    "$id" : 29,
+    "label" : "nq120600_msg0028",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하긴 그래!\n노폰들에게 도와 달라고 해야겠네"
+  }, {
+    "$id" : 30,
+    "label" : "nq120600_msg0029",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "누가 좋으려나\n일단 레파파한테 부탁하고……"
+  }, {
+    "$id" : 31,
+    "label" : "nq120600_msg0030",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너한테 큰 빚을 진 녀석들이 있잖아"
+  }, {
+    "$id" : 32,
+    "label" : "nq120600_msg0031",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니토니토랑 우베베\n그리고 브레브레 말이야"
+  }, {
+    "$id" : 33,
+    "label" : "nq120600_msg0032",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 괜찮겠네\n가서 물어보자"
+  } ]
+}

@@ -1,0 +1,259 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq000809_msg0001",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠는 정말 돌을 좋아하네요모!\n잔뜩 주웠어요모"
+  }, {
+    "$id" : 2,
+    "label" : "tq000809_msg0002",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젬 스톤이나 광석은\n길가에 널린 돌멩이랑은 달라모"
+  }, {
+    "$id" : 3,
+    "label" : "tq000809_msg0003",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 아까 주운 광석도\n유용하게 쓸데가 있어모"
+  }, {
+    "$id" : 4,
+    "label" : "tq000809_msg0004",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나는 모르겠어요모……"
+  }, {
+    "$id" : 5,
+    "label" : "tq000809_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠는 전부 구별할 줄 알던데\n광석에 대해 잘 아는구나?"
+  }, {
+    "$id" : 6,
+    "label" : "tq000809_msg0006",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐 조금은 알지모"
+  }, {
+    "$id" : 7,
+    "label" : "tq000809_msg0007",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "겸손해할 거 없어\n리쿠는 잘 모으고 잘 다루잖아"
+  }, {
+    "$id" : 8,
+    "label" : "tq000809_msg0008",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쓸데없는 말은 안 해도 돼모"
+  }, {
+    "$id" : 9,
+    "label" : "tq000809_msg0009",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쓸데없는 말이 아니야\n좋아하는 게 있다는 건 좋은 일이잖아"
+  }, {
+    "$id" : 10,
+    "label" : "tq000809_msg0010",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래요모!"
+  }, {
+    "$id" : 11,
+    "label" : "tq000809_msg0011",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘됐다, 리쿠\n돌 모으는 거 인정받았네"
+  }, {
+    "$id" : 12,
+    "label" : "tq000809_msg0012",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "광석이랑 젬 스톤이야모!"
+  }, {
+    "$id" : 13,
+    "label" : "tq000809_msg0013",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "애초에 소재 조달부터 정비까지\n전부 리쿠가 하고 있잖아모"
+  }, {
+    "$id" : 14,
+    "label" : "tq000809_msg0014",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "중요한 장비를 잘 갖춰서\n모두가 살아 돌아올 수 있도록 힘쓰는 게\n리쿠가 하는 일이야모"
+  }, {
+    "$id" : 15,
+    "label" : "tq000809_msg0015",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……리쿠는 할 일을 하는 것뿐이야모\n란츠랑은 달라모"
+  }, {
+    "$id" : 16,
+    "label" : "tq000809_msg0016",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야! 나도 그럭저럭\n잘하고 있잖아!"
+  }, {
+    "$id" : 17,
+    "label" : "tq000809_msg0017",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나, 대단하다……\n그런 것까지 생각하고 있다니"
+  }, {
+    "$id" : 18,
+    "label" : "tq000809_msg0018",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너무 떠들었네모\n리쿠는 원래 안 이러는데모"
+  }, {
+    "$id" : 19,
+    "label" : "tq000809_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지 않아\n서로를 더욱 이해하는 게\n나쁜 일은 아니잖아?"
+  }, {
+    "$id" : 20,
+    "label" : "tq000809_msg0020",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아요모, 친해진다는 건\n중요한 일이에요모"
+  }, {
+    "$id" : 21,
+    "label" : "tq000809_msg0021",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "친해지기 위해\n서로를 더 많이 알고 싶다고\n생각하지 않아?"
+  }, {
+    "$id" : 22,
+    "label" : "tq000809_msg0022",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇네요모\n서로를 아는 것도 중요해요모!"
+  }, {
+    "$id" : 23,
+    "label" : "tq000809_msg0023",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗! 맞아요모!\n그러면 다음은 마나나가\n좋아하는 걸 보여 드릴게요모!"
+  }, {
+    "$id" : 24,
+    "label" : "tq000809_msg0024",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다음은이라니…… 딱히 순서대로 하는 게……"
+  }, {
+    "$id" : 25,
+    "label" : "tq000809_msg0025",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저한테 맡기세요모!\n마나나가 잘하는 거니까\n금방 알게 될 거예요모!"
+  }, {
+    "$id" : 26,
+    "label" : "tq000809_msg0026",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기가 좋겠어요모!\n잠깐 쉬어요모!"
+  } ]
+}

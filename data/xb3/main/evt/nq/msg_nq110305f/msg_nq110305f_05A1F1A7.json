@@ -1,0 +1,151 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq110305_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……결국 적의 정체를\n못 밝혀냈네"
+  }, {
+    "$id" : 2,
+    "label" : "nq110305_msg0002",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음……\n이건 억측일지도 모르지만……"
+  }, {
+    "$id" : 3,
+    "label" : "nq110305_msg0003",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희가 생명의 불시계를 파괴하면서\n우리는 더 이상 싸울 필요가 없어졌지"
+  }, {
+    "$id" : 4,
+    "label" : "nq110305_msg0004",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 사실이 세상에 드러나면\n전쟁을 종결할 계기가 될지도 몰라"
+  }, {
+    "$id" : 5,
+    "label" : "nq110305_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이번 습격은 그러길\n원하지 않는 자들의 짓이라는 거야?"
+  }, {
+    "$id" : 6,
+    "label" : "nq110305_msg0006",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어찌 됐든…… 결국 경계할 건\n아그누스나 몬스터뿐만이\n아니라는 뜻이다"
+  }, {
+    "$id" : 7,
+    "label" : "nq110305_msg0007",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적과 동료를 신중히 구별하고\n섣부른 행동은 피해야 해"
+  }, {
+    "$id" : 8,
+    "label" : "nq110305_msg0008",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……두 번 다시 같은 실수를\n되풀이하진 않겠어"
+  }, {
+    "$id" : 9,
+    "label" : "nq110305_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……맥시, 괜찮아?"
+  }, {
+    "$id" : 10,
+    "label" : "nq110305_msg0010",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음, 문제없다\n너희 덕분에 진정되는군"
+  }, {
+    "$id" : 11,
+    "label" : "nq110305_msg0011",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안하지만 먼저 귀환하지\n서둘러서 대책을 짜야겠어"
+  }, {
+    "$id" : 12,
+    "label" : "nq110305_msg0012",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하긴 그러네\n어서 가 봐"
+  }, {
+    "$id" : 13,
+    "label" : "nq110305_msg0013",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그 레브니스의 목표물은\n명백하게 너희였어"
+  }, {
+    "$id" : 14,
+    "label" : "nq110305_msg0014",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……죽지 마라"
+  } ]
+}

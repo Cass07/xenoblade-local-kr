@@ -1,0 +1,295 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq311315_msg0001",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이제 다 모였나"
+  }, {
+    "$id" : 2,
+    "label" : "nq311315_msg0002",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "트래비스"
+  }, {
+    "$id" : 3,
+    "label" : "nq311315_msg0003",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 지금부터\n성인식을 시작하겠습니다!!"
+  }, {
+    "$id" : 4,
+    "label" : "nq311315_msg0004",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이상으로 신성인은 6명이다"
+  }, {
+    "$id" : 5,
+    "label" : "nq311315_msg0005",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "축하한다!"
+  }, {
+    "$id" : 6,
+    "label" : "nq311315_msg0006",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 안타깝게도\n다음 순서가 마지막이 되겠습니다"
+  }, {
+    "$id" : 7,
+    "label" : "nq311315_msg0007",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "회장을 이동해\n신성인 일동이 답례를 하는 시간……"
+  }, {
+    "$id" : 8,
+    "label" : "nq311315_msg0008",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……즉, 여러분 모두가 기다리시던\n연회 시간입니다~!!!"
+  }, {
+    "$id" : 9,
+    "label" : "nq311315_msg0009",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 조금만 더 힘내 보자"
+  }, {
+    "$id" : 10,
+    "label" : "nq311315_msg0010",
+    "talker" : "ml1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제법 기합이 들어갔네?"
+  }, {
+    "$id" : 11,
+    "label" : "nq311315_msg0011",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐 그렇지"
+  }, {
+    "$id" : 12,
+    "label" : "nq311315_msg0012",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어른이 된다는 건\n그만큼 내게 기대하는 게 늘어난다는 거잖아"
+  }, {
+    "$id" : 13,
+    "label" : "nq311315_msg0013",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "반드시 결과로 보여 줄 거야"
+  }, {
+    "$id" : 14,
+    "label" : "nq311315_msg0014",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두를 지키기 위해서"
+  }, {
+    "$id" : 15,
+    "label" : "nq311315_msg0015",
+    "talker" : "ml1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그 말, 어디까지 각오하고 하는 말이야?"
+  }, {
+    "$id" : 16,
+    "label" : "nq311315_msg0016",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디까지라니?"
+  }, {
+    "$id" : 17,
+    "label" : "nq311315_msg0017",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고생 많았어"
+  }, {
+    "$id" : 18,
+    "label" : "nq311315_msg0018",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "멋있더라, 신성인!"
+  }, {
+    "$id" : 19,
+    "label" : "nq311315_msg0019",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워"
+  }, {
+    "$id" : 20,
+    "label" : "nq311315_msg0020",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이다음 순서도 즐겼으면 좋겠어"
+  }, {
+    "$id" : 21,
+    "label" : "nq311315_msg0021",
+    "talker" : "ml1",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……꼭 전쟁에서 이기는 것만\n기대하는 게 아니야"
+  }, {
+    "$id" : 22,
+    "label" : "nq311315_msg0022",
+    "talker" : "ml1",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다음 세대에 시간을 이어 주려면……\n자손을 남겨야만 해"
+  }, {
+    "$id" : 23,
+    "label" : "nq311315_msg0023",
+    "talker" : "ml1",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……나도…… 고민해야겠지\n이대로 전선에서 싸울지……"
+  }, {
+    "$id" : 24,
+    "label" : "nq311315_msg0024",
+    "talker" : "ml1",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니면……"
+  }, {
+    "$id" : 25,
+    "label" : "nq311315_msg0025",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "슬슬 갈까?"
+  }, {
+    "$id" : 26,
+    "label" : "nq311315_msg0026",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……미요리? 무슨 일 있어?"
+  }, {
+    "$id" : 27,
+    "label" : "nq311315_msg0027",
+    "talker" : "ml1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……미안, 아무것도 아냐"
+  }, {
+    "$id" : 28,
+    "label" : "nq311315_msg0028",
+    "talker" : "ml1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도…… 결과를 보여 줘야겠다고\n생각한 것뿐이야"
+  }, {
+    "$id" : 29,
+    "label" : "nq311315_msg0029",
+    "talker" : "ml1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "준비할 게 있으니 우린 이만……\n미치바 식당에서 기다릴게"
+  }, {
+    "$id" : 30,
+    "label" : "nq311315_msg0030",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 이따 보자"
+  } ]
+}

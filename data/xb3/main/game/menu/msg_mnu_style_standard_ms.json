@@ -1,0 +1,833 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<01639C61>",
+    "style" : 0,
+    "name" : ""
+  }, {
+    "$id" : 2,
+    "label" : "<C2E30664>",
+    "style" : 1,
+    "name" : ""
+  }, {
+    "$id" : 3,
+    "label" : "<F8045E77>",
+    "style" : 2,
+    "name" : ""
+  }, {
+    "$id" : 4,
+    "label" : "<AB8F60CB>",
+    "style" : 3,
+    "name" : ""
+  }, {
+    "$id" : 5,
+    "label" : "<1B8D56DE>",
+    "style" : 4,
+    "name" : ""
+  }, {
+    "$id" : 6,
+    "label" : "<755F94D8>",
+    "style" : 5,
+    "name" : ""
+  }, {
+    "$id" : 7,
+    "label" : "<94714CA2>",
+    "style" : 6,
+    "name" : ""
+  }, {
+    "$id" : 8,
+    "label" : "<448125EB>",
+    "style" : 7,
+    "name" : ""
+  }, {
+    "$id" : 9,
+    "label" : "<F1004274>",
+    "style" : 8,
+    "name" : ""
+  }, {
+    "$id" : 10,
+    "label" : "<F26D84C3>",
+    "style" : 9,
+    "name" : ""
+  }, {
+    "$id" : 11,
+    "label" : "<8AED3FF3>",
+    "style" : 10,
+    "name" : ""
+  }, {
+    "$id" : 12,
+    "label" : "<506E7A9B>",
+    "style" : 11,
+    "name" : ""
+  }, {
+    "$id" : 13,
+    "label" : "<50D36D6E>",
+    "style" : 12,
+    "name" : ""
+  }, {
+    "$id" : 14,
+    "label" : "<772B9813>",
+    "style" : 13,
+    "name" : ""
+  }, {
+    "$id" : 15,
+    "label" : "<D7C20F08>",
+    "style" : 14,
+    "name" : ""
+  }, {
+    "$id" : 16,
+    "label" : "<853A2851>",
+    "style" : 15,
+    "name" : ""
+  }, {
+    "$id" : 17,
+    "label" : "<025FAA32>",
+    "style" : 16,
+    "name" : ""
+  }, {
+    "$id" : 18,
+    "label" : "<C78A6285>",
+    "style" : 17,
+    "name" : ""
+  }, {
+    "$id" : 19,
+    "label" : "<25896B3C>",
+    "style" : 18,
+    "name" : ""
+  }, {
+    "$id" : 20,
+    "label" : "<9EB32C6E>",
+    "style" : 19,
+    "name" : ""
+  }, {
+    "$id" : 21,
+    "label" : "<AD1B0E23>",
+    "style" : 20,
+    "name" : ""
+  }, {
+    "$id" : 22,
+    "label" : "<1A0FC24B>",
+    "style" : 21,
+    "name" : ""
+  }, {
+    "$id" : 23,
+    "label" : "<18FB8B3F>",
+    "style" : 22,
+    "name" : ""
+  }, {
+    "$id" : 24,
+    "label" : "<2FD0B8F7>",
+    "style" : 23,
+    "name" : ""
+  }, {
+    "$id" : 25,
+    "label" : "<3A834A15>",
+    "style" : 24,
+    "name" : ""
+  }, {
+    "$id" : 26,
+    "label" : "<19EAE8D0>",
+    "style" : 25,
+    "name" : ""
+  }, {
+    "$id" : 27,
+    "label" : "<80F39828>",
+    "style" : 26,
+    "name" : ""
+  }, {
+    "$id" : 28,
+    "label" : "<4584DE9F>",
+    "style" : 27,
+    "name" : ""
+  }, {
+    "$id" : 29,
+    "label" : "<A6CADDA5>",
+    "style" : 28,
+    "name" : ""
+  }, {
+    "$id" : 30,
+    "label" : "<BD5A3EC5>",
+    "style" : 29,
+    "name" : ""
+  }, {
+    "$id" : 31,
+    "label" : "<9CAA5B41>",
+    "style" : 127,
+    "name" : ""
+  }, {
+    "$id" : 32,
+    "label" : "<E46DD577>",
+    "style" : 128,
+    "name" : ""
+  }, {
+    "$id" : 33,
+    "label" : "<0A4D24C7>",
+    "style" : 129,
+    "name" : ""
+  }, {
+    "$id" : 34,
+    "label" : "<95367101>",
+    "style" : 130,
+    "name" : ""
+  }, {
+    "$id" : 35,
+    "label" : "<9C139085>",
+    "style" : 131,
+    "name" : ""
+  }, {
+    "$id" : 36,
+    "label" : "<F4B8A867>",
+    "style" : 132,
+    "name" : ""
+  }, {
+    "$id" : 37,
+    "label" : "<D5F5128E>",
+    "style" : 133,
+    "name" : ""
+  }, {
+    "$id" : 38,
+    "label" : "<28038EE1>",
+    "style" : 134,
+    "name" : ""
+  }, {
+    "$id" : 39,
+    "label" : "<55C54051>",
+    "style" : 135,
+    "name" : ""
+  }, {
+    "$id" : 40,
+    "label" : "<AF64D977>",
+    "style" : 136,
+    "name" : ""
+  }, {
+    "$id" : 41,
+    "label" : "<321C6905>",
+    "style" : 30,
+    "name" : ""
+  }, {
+    "$id" : 42,
+    "label" : "<393EB96B>",
+    "style" : 31,
+    "name" : ""
+  }, {
+    "$id" : 43,
+    "label" : "<6B81E62F>",
+    "style" : 32,
+    "name" : ""
+  }, {
+    "$id" : 44,
+    "label" : "<B6D045CB>",
+    "style" : 33,
+    "name" : ""
+  }, {
+    "$id" : 45,
+    "label" : "<49886E95>",
+    "style" : 34,
+    "name" : ""
+  }, {
+    "$id" : 46,
+    "label" : "<CF2D71E8>",
+    "style" : 35,
+    "name" : ""
+  }, {
+    "$id" : 47,
+    "label" : "<8D3DFA81>",
+    "style" : 36,
+    "name" : ""
+  }, {
+    "$id" : 48,
+    "label" : "<E6D1C7DD>",
+    "style" : 37,
+    "name" : ""
+  }, {
+    "$id" : 49,
+    "label" : "<0C2AAFB1>",
+    "style" : 38,
+    "name" : ""
+  }, {
+    "$id" : 50,
+    "label" : "<93AE1CCD>",
+    "style" : 39,
+    "name" : ""
+  }, {
+    "$id" : 51,
+    "label" : "<26527381>",
+    "style" : 40,
+    "name" : ""
+  }, {
+    "$id" : 52,
+    "label" : "<3F39C24C>",
+    "style" : 41,
+    "name" : ""
+  }, {
+    "$id" : 53,
+    "label" : "<D3DB808F>",
+    "style" : 42,
+    "name" : ""
+  }, {
+    "$id" : 54,
+    "label" : "<843178B9>",
+    "style" : 43,
+    "name" : ""
+  }, {
+    "$id" : 55,
+    "label" : "<7FD5F16B>",
+    "style" : 44,
+    "name" : ""
+  }, {
+    "$id" : 56,
+    "label" : "<6BEED3A6>",
+    "style" : 45,
+    "name" : ""
+  }, {
+    "$id" : 57,
+    "label" : "<DE7711CC>",
+    "style" : 46,
+    "name" : ""
+  }, {
+    "$id" : 58,
+    "label" : "<9E812234>",
+    "style" : 47,
+    "name" : ""
+  }, {
+    "$id" : 59,
+    "label" : "<56CC8FA4>",
+    "style" : 48,
+    "name" : ""
+  }, {
+    "$id" : 60,
+    "label" : "<5AD9725C>",
+    "style" : 49,
+    "name" : ""
+  }, {
+    "$id" : 61,
+    "label" : "<F73DACD6>",
+    "style" : 50,
+    "name" : ""
+  }, {
+    "$id" : 62,
+    "label" : "<37FA1EEF>",
+    "style" : 51,
+    "name" : ""
+  }, {
+    "$id" : 63,
+    "label" : "<7DA40D3C>",
+    "style" : 52,
+    "name" : ""
+  }, {
+    "$id" : 64,
+    "label" : "<353E7A05>",
+    "style" : 53,
+    "name" : ""
+  }, {
+    "$id" : 65,
+    "label" : "<8B40299B>",
+    "style" : 54,
+    "name" : ""
+  }, {
+    "$id" : 66,
+    "label" : "<0543338D>",
+    "style" : 55,
+    "name" : ""
+  }, {
+    "$id" : 67,
+    "label" : "<37C65DE9>",
+    "style" : 56,
+    "name" : ""
+  }, {
+    "$id" : 68,
+    "label" : "<B6CEDE41>",
+    "style" : 57,
+    "name" : ""
+  }, {
+    "$id" : 69,
+    "label" : "<8F4718B8>",
+    "style" : 58,
+    "name" : ""
+  }, {
+    "$id" : 70,
+    "label" : "<0BCB6B43>",
+    "style" : 59,
+    "name" : ""
+  }, {
+    "$id" : 71,
+    "label" : "<665A8F1C>",
+    "style" : 137,
+    "name" : ""
+  }, {
+    "$id" : 72,
+    "label" : "<C06F0352>",
+    "style" : 138,
+    "name" : ""
+  }, {
+    "$id" : 73,
+    "label" : "<3FDD6E5E>",
+    "style" : 139,
+    "name" : ""
+  }, {
+    "$id" : 74,
+    "label" : "<F43DC9DF>",
+    "style" : 140,
+    "name" : ""
+  }, {
+    "$id" : 75,
+    "label" : "<400E3C78>",
+    "style" : 141,
+    "name" : ""
+  }, {
+    "$id" : 76,
+    "label" : "<F613EF19>",
+    "style" : 142,
+    "name" : ""
+  }, {
+    "$id" : 77,
+    "label" : "<39A7929F>",
+    "style" : 143,
+    "name" : ""
+  }, {
+    "$id" : 78,
+    "label" : "<E3C69211>",
+    "style" : 144,
+    "name" : ""
+  }, {
+    "$id" : 79,
+    "label" : "<CC77F610>",
+    "style" : 145,
+    "name" : ""
+  }, {
+    "$id" : 80,
+    "label" : "<0A513EAD>",
+    "style" : 146,
+    "name" : ""
+  }, {
+    "$id" : 81,
+    "label" : "<87095D4F>",
+    "style" : 60,
+    "name" : ""
+  }, {
+    "$id" : 82,
+    "label" : "<49380B81>",
+    "style" : 61,
+    "name" : ""
+  }, {
+    "$id" : 83,
+    "label" : "<382F40DD>",
+    "style" : 62,
+    "name" : ""
+  }, {
+    "$id" : 84,
+    "label" : "<8CD60013>",
+    "style" : 63,
+    "name" : ""
+  }, {
+    "$id" : 85,
+    "label" : "<3CFBB4BB>",
+    "style" : 64,
+    "name" : ""
+  }, {
+    "$id" : 86,
+    "label" : "<FC5105BC>",
+    "style" : 65,
+    "name" : ""
+  }, {
+    "$id" : 87,
+    "label" : "<3D6614BB>",
+    "style" : 66,
+    "name" : ""
+  }, {
+    "$id" : 88,
+    "label" : "<89BFB281>",
+    "style" : 67,
+    "name" : ""
+  }, {
+    "$id" : 89,
+    "label" : "<3928CCE2>",
+    "style" : 68,
+    "name" : ""
+  }, {
+    "$id" : 90,
+    "label" : "<16AC6F48>",
+    "style" : 69,
+    "name" : ""
+  }, {
+    "$id" : 91,
+    "label" : "<D3D16F71>",
+    "style" : 70,
+    "name" : ""
+  }, {
+    "$id" : 92,
+    "label" : "<86926475>",
+    "style" : 71,
+    "name" : ""
+  }, {
+    "$id" : 93,
+    "label" : "<ACDBE510>",
+    "style" : 72,
+    "name" : ""
+  }, {
+    "$id" : 94,
+    "label" : "<4D024AEA>",
+    "style" : 73,
+    "name" : ""
+  }, {
+    "$id" : 95,
+    "label" : "<F756841B>",
+    "style" : 74,
+    "name" : ""
+  }, {
+    "$id" : 96,
+    "label" : "<67139B7A>",
+    "style" : 75,
+    "name" : ""
+  }, {
+    "$id" : 97,
+    "label" : "<8647577A>",
+    "style" : 76,
+    "name" : ""
+  }, {
+    "$id" : 98,
+    "label" : "<73679BF8>",
+    "style" : 77,
+    "name" : ""
+  }, {
+    "$id" : 99,
+    "label" : "<A4867C4F>",
+    "style" : 78,
+    "name" : ""
+  }, {
+    "$id" : 100,
+    "label" : "<6F758BF8>",
+    "style" : 79,
+    "name" : ""
+  }, {
+    "$id" : 101,
+    "label" : "<84641130>",
+    "style" : 80,
+    "name" : ""
+  }, {
+    "$id" : 102,
+    "label" : "<DC5471F8>",
+    "style" : 81,
+    "name" : ""
+  }, {
+    "$id" : 103,
+    "label" : "<58FA3291>",
+    "style" : 82,
+    "name" : ""
+  }, {
+    "$id" : 104,
+    "label" : "<2252DFC5>",
+    "style" : 83,
+    "name" : ""
+  }, {
+    "$id" : 105,
+    "label" : "<ABD785AB>",
+    "style" : 84,
+    "name" : ""
+  }, {
+    "$id" : 106,
+    "label" : "<E0324D84>",
+    "style" : 85,
+    "name" : ""
+  }, {
+    "$id" : 107,
+    "label" : "<36B8045F>",
+    "style" : 86,
+    "name" : ""
+  }, {
+    "$id" : 108,
+    "label" : "<F5D5C04F>",
+    "style" : 87,
+    "name" : ""
+  }, {
+    "$id" : 109,
+    "label" : "<4256B0CC>",
+    "style" : 88,
+    "name" : ""
+  }, {
+    "$id" : 110,
+    "label" : "<00F27FA0>",
+    "style" : 89,
+    "name" : ""
+  }, {
+    "$id" : 111,
+    "label" : "<D1514580>",
+    "style" : 147,
+    "name" : ""
+  }, {
+    "$id" : 112,
+    "label" : "<14F0B42D>",
+    "style" : 148,
+    "name" : ""
+  }, {
+    "$id" : 113,
+    "label" : "<C2BB951B>",
+    "style" : 149,
+    "name" : ""
+  }, {
+    "$id" : 114,
+    "label" : "<64CF2EAF>",
+    "style" : 150,
+    "name" : ""
+  }, {
+    "$id" : 115,
+    "label" : "<E249AFB5>",
+    "style" : 151,
+    "name" : ""
+  }, {
+    "$id" : 116,
+    "label" : "<31828172>",
+    "style" : 152,
+    "name" : ""
+  }, {
+    "$id" : 117,
+    "label" : "<6AE33624>",
+    "style" : 153,
+    "name" : ""
+  }, {
+    "$id" : 118,
+    "label" : "<B0604672>",
+    "style" : 154,
+    "name" : ""
+  }, {
+    "$id" : 119,
+    "label" : "<3A95BACD>",
+    "style" : 155,
+    "name" : ""
+  }, {
+    "$id" : 120,
+    "label" : "<8CEFC890>",
+    "style" : 156,
+    "name" : ""
+  }, {
+    "$id" : 121,
+    "label" : "<F776E425>",
+    "style" : 90,
+    "name" : ""
+  }, {
+    "$id" : 122,
+    "label" : "<8EF19D6A>",
+    "style" : 91,
+    "name" : ""
+  }, {
+    "$id" : 123,
+    "label" : "<90EB90F7>",
+    "style" : 92,
+    "name" : ""
+  }, {
+    "$id" : 124,
+    "label" : "<3F18ED63>",
+    "style" : 93,
+    "name" : ""
+  }, {
+    "$id" : 125,
+    "label" : "<8A0DEC49>",
+    "style" : 94,
+    "name" : ""
+  }, {
+    "$id" : 126,
+    "label" : "<A1449EDD>",
+    "style" : 95,
+    "name" : ""
+  }, {
+    "$id" : 127,
+    "label" : "<91AF3C7D>",
+    "style" : 96,
+    "name" : ""
+  }, {
+    "$id" : 128,
+    "label" : "<A5243A47>",
+    "style" : 97,
+    "name" : ""
+  }, {
+    "$id" : 129,
+    "label" : "<C647ABEE>",
+    "style" : 98,
+    "name" : ""
+  }, {
+    "$id" : 130,
+    "label" : "<465CA4CA>",
+    "style" : 99,
+    "name" : ""
+  }, {
+    "$id" : 131,
+    "label" : "<AB22952E>",
+    "style" : 100,
+    "name" : ""
+  }, {
+    "$id" : 132,
+    "label" : "<CFFB3558>",
+    "style" : 101,
+    "name" : ""
+  }, {
+    "$id" : 133,
+    "label" : "<6C19F90C>",
+    "style" : 102,
+    "name" : ""
+  }, {
+    "$id" : 134,
+    "label" : "<33931D33>",
+    "style" : 103,
+    "name" : ""
+  }, {
+    "$id" : 135,
+    "label" : "<008CA77B>",
+    "style" : 104,
+    "name" : ""
+  }, {
+    "$id" : 136,
+    "label" : "<A07D12AE>",
+    "style" : 105,
+    "name" : ""
+  }, {
+    "$id" : 137,
+    "label" : "<C4F8A3DF>",
+    "style" : 106,
+    "name" : ""
+  }, {
+    "$id" : 138,
+    "label" : "<6C07A68E>",
+    "style" : 107,
+    "name" : ""
+  }, {
+    "$id" : 139,
+    "label" : "<5F6E6B14>",
+    "style" : 108,
+    "name" : ""
+  }, {
+    "$id" : 140,
+    "label" : "<C3FCB9D5>",
+    "style" : 109,
+    "name" : ""
+  }, {
+    "$id" : 141,
+    "label" : "<841FEC5F>",
+    "style" : 110,
+    "name" : ""
+  }, {
+    "$id" : 142,
+    "label" : "<9904ABEB>",
+    "style" : 111,
+    "name" : ""
+  }, {
+    "$id" : 143,
+    "label" : "<E65D9788>",
+    "style" : 112,
+    "name" : ""
+  }, {
+    "$id" : 144,
+    "label" : "<2E118DBB>",
+    "style" : 113,
+    "name" : ""
+  }, {
+    "$id" : 145,
+    "label" : "<304D5AB2>",
+    "style" : 114,
+    "name" : ""
+  }, {
+    "$id" : 146,
+    "label" : "<6A201658>",
+    "style" : 115,
+    "name" : ""
+  }, {
+    "$id" : 147,
+    "label" : "<B53E9236>",
+    "style" : 116,
+    "name" : ""
+  }, {
+    "$id" : 148,
+    "label" : "<9BD2B4D7>",
+    "style" : 117,
+    "name" : ""
+  }, {
+    "$id" : 149,
+    "label" : "<4DD231A9>",
+    "style" : 118,
+    "name" : ""
+  }, {
+    "$id" : 150,
+    "label" : "<3AE6A25B>",
+    "style" : 119,
+    "name" : ""
+  }, {
+    "$id" : 151,
+    "label" : "<2D7A7416>",
+    "style" : 157,
+    "name" : ""
+  }, {
+    "$id" : 152,
+    "label" : "<7FE5B0FA>",
+    "style" : 158,
+    "name" : ""
+  }, {
+    "$id" : 153,
+    "label" : "<03C68061>",
+    "style" : 159,
+    "name" : ""
+  }, {
+    "$id" : 154,
+    "label" : "<FFE500C1>",
+    "style" : 160,
+    "name" : ""
+  }, {
+    "$id" : 155,
+    "label" : "<A977D9EB>",
+    "style" : 161,
+    "name" : ""
+  }, {
+    "$id" : 156,
+    "label" : "<888B2C38>",
+    "style" : 162,
+    "name" : ""
+  }, {
+    "$id" : 157,
+    "label" : "<A0502879>",
+    "style" : 163,
+    "name" : ""
+  }, {
+    "$id" : 158,
+    "label" : "<54B1B43C>",
+    "style" : 164,
+    "name" : ""
+  }, {
+    "$id" : 159,
+    "label" : "<842FD222>",
+    "style" : 165,
+    "name" : ""
+  }, {
+    "$id" : 160,
+    "label" : "<E329A068>",
+    "style" : 166,
+    "name" : ""
+  }, {
+    "$id" : 161,
+    "label" : "<BF16FE7D>",
+    "style" : 124,
+    "name" : ""
+  }, {
+    "$id" : 162,
+    "label" : "<C4C58230>",
+    "style" : 125,
+    "name" : ""
+  }, {
+    "$id" : 163,
+    "label" : "default_text",
+    "style" : 169,
+    "name" : "!\"#$%&'()*+,-./0123456789:;<=>?@\nABCDEFGHIJKLMNOPQRSTUVWXYZ\nabcdefghijklmnopqrstuvwxyz\nⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩ~\n―一～｜"
+  }, {
+    "$id" : 164,
+    "label" : "<7ED9E6E2>",
+    "style" : 126,
+    "name" : "!\"#$%&'()*+,-./0123456789:;<=>?@\nABCDEFGHIJKLMNOPQRSTUVWXYZ\nabcdefghijklmnopqrstuvwxyz\nⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩ~\n―一～"
+  } ]
+}

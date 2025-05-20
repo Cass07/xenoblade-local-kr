@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk130301_msg0001",
+    "talker" : "pY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 작업은 밤에 해야 해\n낮에는 10호랑 9호가 성가시게 굴지……\n3호도 쓸데없이 달라붙지……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk130301_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "불침번 때문에 한두 번 새는 거면 몰라도\n매일 밤낮을 바꿔서 지내면\n나중엔 건강에 문제가 생길걸?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk130301_msg0003",
+    "talker" : "pY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 말은 6호한테도 들었어……\n15호는 잠도 적고 야행성이니까 괜찮아"
+  }, {
+    "$id" : 4,
+    "label" : "tlk130301_msg0004",
+    "talker" : "pY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "할 수 있는 건 다 해 두고 싶어\n수면 따위에 시간을 뺏기다니\n그거야말로 목숨 아까운 짓이라고"
+  } ]
+}

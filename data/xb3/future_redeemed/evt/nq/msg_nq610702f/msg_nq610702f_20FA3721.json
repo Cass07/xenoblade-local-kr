@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<6E2B5A33>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안개수다……!"
+  }, {
+    "$id" : 2,
+    "label" : "<2C669E06>",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜?! 저 녀석이……!"
+  }, {
+    "$id" : 3,
+    "label" : "<F2AE6641>",
+    "talker" : "vq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괴, 괴물이다……?!\n아…… 아아……!"
+  }, {
+    "$id" : 4,
+    "label" : "<9C792AC7>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "겁먹지 마, 릭키!\n저 녀석들을 날려 버리자고!!"
+  }, {
+    "$id" : 5,
+    "label" : "<1F0A2872>",
+    "talker" : "vq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……앗! 아, 알겠습니다!"
+  } ]
+}

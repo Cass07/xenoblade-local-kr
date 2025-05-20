@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120206_msg0001",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔가 다들 착각하는 모양인데\n전 딱히 나구모를\n얕보고 있지는 않아요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120206_msg0002",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제가 보기에 나구모는\n감마에서 두 번째로 강해요\n그리고 가장 강한 건, 바로 저고요"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120206_msg0003",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 넘버 원이랑 넘버 투,\n무적의 콤비가 탄생한 격이잖아요?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120206_msg0004",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나중에 제가 군무장이 되면\n나구모는 부관으로 삼아서\n끝까지 데리고 갈 거예요"
+  } ]
+}

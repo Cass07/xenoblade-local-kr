@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520901_msg0001",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저…… 생명의 불시계를\n부숴 주셔서 감사합니다~"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520901_msg0002",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 카나타도\n안심할 수 있겠네요~"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520901_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어라, 카나타 걔가 그런 걱정도 했어?\n살짝 차가운 인상이었는데……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520901_msg0004",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……디펜더는……\n그리 오래 살지를 못하거든요……\n모두를 지켜 주고 있으니까요……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk520901_msg0005",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 오늘부터는 평범하게\n잘 다녀오라고 말할 수 있어요~\n그게 정말 기쁘답니다~"
+  } ]
+}

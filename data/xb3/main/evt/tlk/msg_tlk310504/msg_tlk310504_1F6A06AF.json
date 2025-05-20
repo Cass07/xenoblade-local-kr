@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk310504_msg0001",
+    "talker" : "rc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 물어보고 싶은 게 있는데\n온천이란 게 뭐야?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk310504_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 갑자기 왜?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk310504_msg0003",
+    "talker" : "rc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장님께서 콜로니 사람들 모두 함께\n온천에 가자고 말씀하셨거든"
+  }, {
+    "$id" : 4,
+    "label" : "tlk310504_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아주 푹 빠졌나 보네……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk310504_msg0005",
+    "talker" : "rc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "온천이 대체 뭐길래……"
+  } ]
+}

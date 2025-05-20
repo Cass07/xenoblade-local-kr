@@ -1,0 +1,439 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<1B470CDA>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하~ 정말 기분 최고야"
+  }, {
+    "$id" : 2,
+    "label" : "<2E8E4666>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미오, 몸 상태는 어때?"
+  }, {
+    "$id" : 3,
+    "label" : "<4C489FC1>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "호수에서 식힌 덕분에 많이 편해졌어"
+  }, {
+    "$id" : 4,
+    "label" : "<D02988E4>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다행이다"
+  }, {
+    "$id" : 5,
+    "label" : "<A04B5EBC>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "움직였더니 배가 고픈데"
+  }, {
+    "$id" : 6,
+    "label" : "<46F34B1D>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직 전투 식량이 남았을 거야\n조금 쉬었다가……"
+  }, {
+    "$id" : 7,
+    "label" : "<B581D2BA>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후…… 꽤나 느긋한 여정이 되겠군"
+  }, {
+    "$id" : 8,
+    "label" : "<F0C36B4B>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너도 오아시스에서 쉬는 거 동의했잖아"
+  }, {
+    "$id" : 9,
+    "label" : "<08A732D1>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "휴식과 루트 확인이\n필요하다고 판단했기 때문이야"
+  }, {
+    "$id" : 10,
+    "label" : "<FC695B3B>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 너도 수영하면서\n머리 좀 식히지 그랬어"
+  }, {
+    "$id" : 11,
+    "label" : "<8BEB8A66>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무리 전망이 좋은 황야 한가운데라지만\n한 명도 망을 안 본다는 건 너무 무방비해"
+  }, {
+    "$id" : 12,
+    "label" : "<D47811CA>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 그렇네"
+  }, {
+    "$id" : 13,
+    "label" : "<DC3CDBF6>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워, 덕분에 다시 걸을 수 있겠어"
+  }, {
+    "$id" : 14,
+    "label" : "<83D27FB2>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타이온이랑 같은 팀이 되고 나서\n내가 몇 번이나 도움을 받았는지 모르겠네"
+  }, {
+    "$id" : 15,
+    "label" : "<87C9CD86>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 타이온이 없었으면\n이렇게 살아 있지 못했을 거야"
+  }, {
+    "$id" : 16,
+    "label" : "<8F2B43D8>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "최선의 전략을 세우는 게 내 역할이니까"
+  }, {
+    "$id" : 17,
+    "label" : "<9FE27CE3>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타이온, 어떤 루트로\n황야를 빠져나가면 좋을지 설명해 줄래?"
+  }, {
+    "$id" : 18,
+    "label" : "<F0243375>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래"
+  }, {
+    "$id" : 19,
+    "label" : "<BBD7344F>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기서 더 남쪽으로 내려가서\n일단 리비 평원으로 나갔으면 해"
+  }, {
+    "$id" : 20,
+    "label" : "<9D4B0341>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다시 엄청나게 걸어야겠네"
+  }, {
+    "$id" : 21,
+    "label" : "<3B059C06>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아, 계속 황야만 걸어가야 하면\n오늘은 여기서 야영하는 게 어때?"
+  }, {
+    "$id" : 22,
+    "label" : "<D658F301>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 앞에 물이 있을지 없을지도 모를 일이니까"
+  }, {
+    "$id" : 23,
+    "label" : "<C731D5AB>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확실히 일리 있는 주장이긴 한데……"
+  }, {
+    "$id" : 24,
+    "label" : "<533134C0>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "황야에 들어오고 나서 계속 걸었잖아?\n타이온도 휴식은 필요하다고\n방금 말했었고"
+  }, {
+    "$id" : 25,
+    "label" : "<7697C0A2>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그리고!\n나도 배가 고파졌어"
+  }, {
+    "$id" : 26,
+    "label" : "<BF163337>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미오……"
+  }, {
+    "$id" : 27,
+    "label" : "<C4E3F423>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "배가 고프다는 소리가 들렸어요모"
+  }, {
+    "$id" : 28,
+    "label" : "<2E46F876>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠, 마나나\n어디 갔었어?"
+  }, {
+    "$id" : 29,
+    "label" : "<78789513>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "식재료를 찾아 다녔어모"
+  }, {
+    "$id" : 30,
+    "label" : "<7861F520>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오아시스라면 전투 식량 말고도\n먹을 게 있을지도 모르잖아요모"
+  }, {
+    "$id" : 31,
+    "label" : "<69685D8B>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맛깔스러운 걸 먹으면\n힘이 솟아날 거예요모!"
+  }, {
+    "$id" : 32,
+    "label" : "<2D540526>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이렇게 된 거\n마나나가 비장의 요리를\n선보여 줄게요모"
+  }, {
+    "$id" : 33,
+    "label" : "<BFDFF4E9>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야, 요리하려고?"
+  }, {
+    "$id" : 34,
+    "label" : "<B46978EA>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아요모"
+  }, {
+    "$id" : 35,
+    "label" : "<BB98D861>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나의 요리는 엄청나게 맛있어"
+  }, {
+    "$id" : 36,
+    "label" : "<AE216669>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다만……"
+  }, {
+    "$id" : 37,
+    "label" : "<1F1C0CF9>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 요리 완성까지 2시간 걸리니\n얌전히 기다려 주세요모"
+  }, {
+    "$id" : 38,
+    "label" : "<FCBAF8A5>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?! 2시간?!\n아무리 그래도 너무 오래 걸리잖아……"
+  }, {
+    "$id" : 39,
+    "label" : "<29515004>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요리라는 건 냄비에 식재료를\n넣고 끓이기만 하면 그만 아니야?"
+  }, {
+    "$id" : 40,
+    "label" : "<9188A6A7>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모?!\n무슨 말을 하는 거예요모~~~"
+  }, {
+    "$id" : 41,
+    "label" : "<3845FA57>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에너지만 충전할 수 있으면 뭐가 됐든\n상관없다는 사고방식인 거예요모?!"
+  }, {
+    "$id" : 42,
+    "label" : "<DE112415>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나는 맛있게 할 줄 알면서도\n그저 끓여 먹기만 하는 건 질색이에요모!!"
+  }, {
+    "$id" : 43,
+    "label" : "<08330CCE>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나, 우리가 도와줄 일 없을까?\n도와주면 요리도 빨리 될 거 같은데"
+  }, {
+    "$id" : 44,
+    "label" : "<E53E36F9>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모모~\n알겠어요모"
+  }, {
+    "$id" : 45,
+    "label" : "<B097B7A4>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 마나나를 돕고 싶다면\n이것만은 명심하세요모"
+  }, {
+    "$id" : 46,
+    "label" : "<8BF44753>",
+    "talker" : "9",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맛보는 건 마나나가 할 거예요모\n절대로, 절대로 다른 사람은 안 돼요모!"
+  } ]
+}

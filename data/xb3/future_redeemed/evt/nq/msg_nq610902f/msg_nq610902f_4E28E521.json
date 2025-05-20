@@ -1,0 +1,313 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<8C9752E3>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 그럼 시작한다"
+  }, {
+    "$id" : 2,
+    "label" : "<92AF1B6D>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : "파나세아가 문제를 출제합니다\n선택지 중에서 올바른 답을 고릅시다"
+  }, {
+    "$id" : 3,
+    "label" : "<351FB26F>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "손재주 스테이터스가 영향을 끼치는 요소는?"
+  }, {
+    "$id" : 4,
+    "label" : "<55AB140C>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "공격의 명중률"
+  }, {
+    "$id" : 5,
+    "label" : "<27E7B576>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "적의 공격에 대한 회피율"
+  }, {
+    "$id" : 6,
+    "label" : "<9C12DA44>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "능숙한 흥정"
+  }, {
+    "$id" : 7,
+    "label" : "<905C4AC7>",
+    "talker" : "@p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 쉽군요"
+  }, {
+    "$id" : 8,
+    "label" : "<E7D36E12>",
+    "talker" : "@p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음……?"
+  }, {
+    "$id" : 9,
+    "label" : "<DB1FFA9A>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "유니언 콤보의 발동 조건으로 올바른 것은?"
+  }, {
+    "$id" : 10,
+    "label" : "<A2393515>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "적이 라이징 상태일 때 필살기 사용"
+  }, {
+    "$id" : 11,
+    "label" : "<DCF5D491>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "적이 다운 상태일 때 필살기 사용"
+  }, {
+    "$id" : 12,
+    "label" : "<65F85262>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "적의 HP가 50% 이하일 때 필살기 사용"
+  }, {
+    "$id" : 13,
+    "label" : "<9DD27BE2>",
+    "talker" : "tq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여유롭네"
+  }, {
+    "$id" : 14,
+    "label" : "<3C19FCD3>",
+    "talker" : "tq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음……?"
+  }, {
+    "$id" : 15,
+    "label" : "<AE558708>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "크리티컬 확률이 50%인 공격을 2번 하면?"
+  }, {
+    "$id" : 16,
+    "label" : "<D02310F3>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "50% 확률로 1회 이상 크리티컬이 발생한다"
+  }, {
+    "$id" : 17,
+    "label" : "<E7497B2E>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "75% 확률로 1회 이상 크리티컬이 발생한다"
+  }, {
+    "$id" : 18,
+    "label" : "<945A944C>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "90% 확률로 1회 이상 크리티컬이 발생한다"
+  }, {
+    "$id" : 19,
+    "label" : "<A050340B>",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이게 맞겠지"
+  }, {
+    "$id" : 20,
+    "label" : "<16FEEF4D>",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 21,
+    "label" : "<D33F0E5D>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "에너미 타입으로 적절하지 않은 것은?"
+  }, {
+    "$id" : 22,
+    "label" : "<82B6C450>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "터킨족"
+  }, {
+    "$id" : 23,
+    "label" : "<10CD35DD>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "리버레이터"
+  }, {
+    "$id" : 24,
+    "label" : "<1BA9348C>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "안개수"
+  }, {
+    "$id" : 25,
+    "label" : "<849A7195>",
+    "talker" : "@p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후후, 느낌이 좋군요!"
+  }, {
+    "$id" : 26,
+    "label" : "<3F8286F1>",
+    "talker" : "@p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이, 이게 맞을 텐데……"
+  }, {
+    "$id" : 27,
+    "label" : "<7CE05FE7>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "상대의 선제 특수 아츠를 방해하는 행동은?"
+  }, {
+    "$id" : 28,
+    "label" : "<F5F5A316>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "오토 어택"
+  }, {
+    "$id" : 29,
+    "label" : "<6074923B>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "넉 백"
+  }, {
+    "$id" : 30,
+    "label" : "<18BD9199>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "퀵 무브"
+  }, {
+    "$id" : 31,
+    "label" : "<FE3AE8B7>",
+    "talker" : "tq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸로 됐어!"
+  }, {
+    "$id" : 32,
+    "label" : "<D2C4EB52>",
+    "talker" : "tq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어라, 이거였던가……?"
+  } ]
+}

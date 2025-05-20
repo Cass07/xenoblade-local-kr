@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq340503_msg0001",
+    "talker" : "wj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "싸울 마음이 생겼나 본데!"
+  }, {
+    "$id" : 2,
+    "label" : "nq340503_msg0002",
+    "talker" : "xj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 기대되는걸"
+  }, {
+    "$id" : 3,
+    "label" : "nq340503_msg0003",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너무 들뜬 거 아닌가 했는데\n확실히 이 녀석들은 나쁘지 않은 상대군"
+  }, {
+    "$id" : 4,
+    "label" : "nq340503_msg0101",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 잠깐만!\n넌 나왔으면서 싸울 생각이냐?!"
+  }, {
+    "$id" : 5,
+    "label" : "nq340503_msg0102",
+    "talker" : "wj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 일심동체!\n설득이니 뭐니 해 봤자\n뭘 하든 셋이 함께다!"
+  }, {
+    "$id" : 6,
+    "label" : "nq340503_msg0201",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하는 수 없지, 붙어 보자고"
+  }, {
+    "$id" : 7,
+    "label" : "nq340503_msg0301",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네가 시티라는 곳에서 온 녀석이군\n그 실력을 어디 한번 구경 좀 해 볼까!"
+  }, {
+    "$id" : 8,
+    "label" : "nq340503_msg0401",
+    "talker" : "xj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "강해 보이는 녀석이 있네\n봐주면서 싸우긴 힘들겠는데?"
+  }, {
+    "$id" : 9,
+    "label" : "nq340503_msg0501",
+    "talker" : "wj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "간다!!"
+  } ]
+}

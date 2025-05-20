@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210404_msg0001",
+    "talker" : "uZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "싸잡아서 몬스터라 부르지만 사실 종류가 많아\n예를 들면 야행성이라 낮엔 안 나오는 개체나\n특정한 날씨일 때만 활동하는 개체가 있어……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210404_msg0002",
+    "talker" : "uZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 별것 아닌 정보가\n중요한 순간에 생사를 가른단 말이지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk210404_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"적을 이기려면 우선 적을 알아라\"……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk210404_msg0004",
+    "talker" : "uZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거, 정말 맞는 말이야\n정보 수집은 꼼꼼하게 해 둘수록 좋아"
+  } ]
+}

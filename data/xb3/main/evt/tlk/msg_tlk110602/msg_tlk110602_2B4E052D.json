@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk110602_msg0001",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미리 말해 두는데\n난 너희의 방식을 인정하지 않아"
+  }, {
+    "$id" : 2,
+    "label" : "tlk110602_msg0002",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 내 방식대로\n콜로니 9을 하나로 만들겠어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk110602_msg0003",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도…… 분명 할 수 있을 거야\n옛날의 내가 아니라고……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk110602_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카이트……"
+  } ]
+}

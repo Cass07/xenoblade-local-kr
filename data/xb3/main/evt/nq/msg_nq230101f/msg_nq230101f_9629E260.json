@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq230101_msg0001",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왔군, 아셰라\n그리고 반역자 우로보로스 녀석들"
+  }, {
+    "$id" : 2,
+    "label" : "nq230101_msg0002",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 삼총사가\n한꺼번에 등장하다니\n무슨 일이지?"
+  }, {
+    "$id" : 3,
+    "label" : "nq230101_msg0003",
+    "talker" : "ge1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "단도직입적으로 말하지……\n\"제1익시아대교에서 기다리겠다\""
+  }, {
+    "$id" : 4,
+    "label" : "nq230101_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어? 거기로 오라고?\n아니, 무슨 용건인지는 알려 줘야지"
+  }, {
+    "$id" : 5,
+    "label" : "nq230101_msg0005",
+    "talker" : "he1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 6,
+    "label" : "nq230101_msg0006",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠…… 아무래도\n이번엔 정말 진지한 볼일인가 본데?"
+  }, {
+    "$id" : 7,
+    "label" : "nq230101_msg0007",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명히 전달했다\n너무 기다리게 하진 마라"
+  }, {
+    "$id" : 8,
+    "label" : "nq230101_msg0008",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일방적으로 불러 놓고선\n『너무 기다리게 하진 마라』라니……\n변함없이 독불장군이네"
+  }, {
+    "$id" : 9,
+    "label" : "nq230101_msg0009",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  } ]
+}

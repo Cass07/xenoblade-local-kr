@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330654_msg0001",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요즘 들어 다들 무척 즐거워 보여모"
+  }, {
+    "$id" : 2,
+    "label" : "nq330654_msg0002",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꽃도 기뻐하고 있어모\n여기저기 봉오리가 맺힌 것 좀 봐모!"
+  }, {
+    "$id" : 3,
+    "label" : "nq330654_msg0003",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명 꽃도 모두와 함께\n성장하고 싶을 거야모……"
+  } ]
+}

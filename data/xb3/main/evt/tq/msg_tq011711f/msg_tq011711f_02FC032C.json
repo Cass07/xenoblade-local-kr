@@ -1,0 +1,349 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011711_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "드디어 감자 좀 심겠군……"
+  }, {
+    "$id" : 2,
+    "label" : "tq011711_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 그건 마지막에 할 거야"
+  }, {
+    "$id" : 3,
+    "label" : "tq011711_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 씨감자가 뿌리를\n내리기 쉽게 땅을 갈아야 해"
+  }, {
+    "$id" : 4,
+    "label" : "tq011711_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "간다고……?"
+  }, {
+    "$id" : 5,
+    "label" : "tq011711_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "공기가 들어가도록 섞어야 한다더군\n유즈리하 말에 따르면\n땅의 구조는 3층으로……"
+  }, {
+    "$id" : 6,
+    "label" : "tq011711_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한마디로 뒤섞으면 된다 이거지?"
+  }, {
+    "$id" : 7,
+    "label" : "tq011711_msg0007",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "란츠……\n네 요점 정리는 너무 조잡해"
+  }, {
+    "$id" : 8,
+    "label" : "tq011711_msg0008",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어차피…… 아무 의미도 없을걸"
+  }, {
+    "$id" : 9,
+    "label" : "tq011711_msg0009",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 그런 말 하지 말고\n우선 하는 데까지 해 보자"
+  }, {
+    "$id" : 10,
+    "label" : "tq011711_msg0010",
+    "talker" : "eX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "2초 만에 끝내 주지"
+  }, {
+    "$id" : 11,
+    "label" : "tq011711_msg0011",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빨리 끝낸다고 되는 게 아니야\n정성을 들여야지"
+  }, {
+    "$id" : 12,
+    "label" : "tq011711_msg0012",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "순서는 \"눈동자\"에 보낸 대로다\n모르는 부분이 있다면 질문해 줘"
+  }, {
+    "$id" : 13,
+    "label" : "tq011711_msg0013",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 다들 시작하자"
+  }, {
+    "$id" : 14,
+    "label" : "tq011711_msg0014",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 잘된 것 같아"
+  }, {
+    "$id" : 15,
+    "label" : "tq011711_msg0015",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "재밌었어, 미오!"
+  }, {
+    "$id" : 16,
+    "label" : "tq011711_msg0016",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 물을 줄 차례군"
+  }, {
+    "$id" : 17,
+    "label" : "tq011711_msg0017",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젠장, 나도 물 좀 줘……\n입에서 흙 맛이 난다고……"
+  }, {
+    "$id" : 18,
+    "label" : "tq011711_msg0018",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이러면 비를 기다려야 하나……?"
+  }, {
+    "$id" : 19,
+    "label" : "tq011711_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 자연에 맡기는 쪽이\n좋지 않을까?"
+  }, {
+    "$id" : 20,
+    "label" : "tq011711_msg0020",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지나치게 보살피는 것도\n안 좋을 것 같은데……"
+  }, {
+    "$id" : 21,
+    "label" : "tq011711_msg0021",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 날씨는 마음대로 안 돼\n너무 의지했다간 나중에 후회할 거야"
+  }, {
+    "$id" : 22,
+    "label" : "tq011711_msg0022",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 흙이 얼마나 말랐는지 살펴보면서\n비를 기다리는 건 어때?"
+  }, {
+    "$id" : 23,
+    "label" : "tq011711_msg0023",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "계속 비가 오지 않으면\n그땐 우리가 물을 주는 거야"
+  }, {
+    "$id" : 24,
+    "label" : "tq011711_msg0027",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그게 좋겠군\n당분간 상황을 지켜보도록 하지"
+  }, {
+    "$id" : 25,
+    "label" : "tq011711_msg0025",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거라면 우리한테 맡겨"
+  }, {
+    "$id" : 26,
+    "label" : "tq011711_msg0026",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐……?"
+  }, {
+    "$id" : 27,
+    "label" : "tq011711_msg0033",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜, 제온이랑 너희는 밖에 나갈 때가 많잖아\n그럼 우리밖에 할 사람이 없지"
+  }, {
+    "$id" : 28,
+    "label" : "tq011711_msg0028",
+    "talker" : "eX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "2초면 끝날 테니까"
+  }, {
+    "$id" : 29,
+    "label" : "tq011711_msg0029",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카이트, 부탁해도 되겠나?"
+  }, {
+    "$id" : 30,
+    "label" : "tq011711_msg0030",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알았다"
+  }, {
+    "$id" : 31,
+    "label" : "tq011711_msg0031",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "비가 온 뒤에\n다시 살펴보러 와 줄래?"
+  }, {
+    "$id" : 32,
+    "label" : "tq011711_msg0032",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워, 그렇게 할게"
+  }, {
+    "$id" : 33,
+    "label" : "tq011711_msg0101",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : ""
+  }, {
+    "$id" : 34,
+    "label" : "tq011711_msg0102",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : ""
+  }, {
+    "$id" : 35,
+    "label" : "tq011711_msg0103",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : ""
+  }, {
+    "$id" : 36,
+    "label" : "tq011711_msg0104",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : ""
+  } ]
+}

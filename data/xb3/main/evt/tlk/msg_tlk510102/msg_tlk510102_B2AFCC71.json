@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk510102_msg0001",
+    "talker" : "of1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기서 일하는 것도 나쁘진 않아요모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk510102_msg0002",
+    "talker" : "of1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아주 바쁘긴 하지만\n미치바 씨는 캡틴과 달리\n무리한 요구는 안 하거든요모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk510102_msg0003",
+    "talker" : "of1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일하는 보람이 있는 멋진 직장이죠모"
+  }, {
+    "$id" : 4,
+    "label" : "tlk510102_msg0004",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  } ]
+}

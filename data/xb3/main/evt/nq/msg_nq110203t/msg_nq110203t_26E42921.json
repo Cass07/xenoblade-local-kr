@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq110203_msg0001",
+    "talker" : "uZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 왔구나\n몬스터에 대해서 알아보러 왔지?"
+  }, {
+    "$id" : 2,
+    "label" : "nq110203_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 자세한 설명을 듣고 싶은데"
+  }, {
+    "$id" : 3,
+    "label" : "nq110203_msg0003",
+    "talker" : "uZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상대는 스파이드의 우두머리야\n게다가 골치 아프게도 부하들까지 거느렸어"
+  }, {
+    "$id" : 4,
+    "label" : "nq110203_msg0004",
+    "talker" : "uZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확실하게 처치하려면\n거조의 석문 근처에 매복하는 게 좋아"
+  }, {
+    "$id" : 5,
+    "label" : "nq110203_msg0007",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나\n거조의 석문이라는 건\n어디에 있어?"
+  }, {
+    "$id" : 6,
+    "label" : "nq110203_msg0008",
+    "talker" : "uZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기서 동쪽으로 가면 다나 사막이 나오는데……\n거기 한가운데쯤에 있어"
+  }, {
+    "$id" : 7,
+    "label" : "nq110203_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어, 가 볼게"
+  }, {
+    "$id" : 8,
+    "label" : "nq110203_msg0010",
+    "talker" : "uZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……정보를 이만큼 얻어 내는 데\n지금까지 많은 동료가 희생됐어"
+  }, {
+    "$id" : 9,
+    "label" : "nq110203_msg0011",
+    "talker" : "uZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 우리는 콜로니를\n지켜야만 해……"
+  }, {
+    "$id" : 10,
+    "label" : "nq110203_msg0012",
+    "talker" : "uZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 말을 할 입장은 아니겠지만\n모두의 소망을 너희에게 맡길게!"
+  } ]
+}

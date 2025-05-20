@@ -1,0 +1,340 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq020401_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안, 많이 기다렸지?"
+  }, {
+    "$id" : 2,
+    "label" : "nq020401_msg0002",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아……"
+  }, {
+    "$id" : 3,
+    "label" : "nq020401_msg0003",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아뇨…… 그렇게까진……"
+  }, {
+    "$id" : 4,
+    "label" : "nq020401_msg0004",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 5,
+    "label" : "nq020401_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어…… 너는……?"
+  }, {
+    "$id" : 6,
+    "label" : "nq020401_msg0006",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전 당신한테 볼일 없어요\n근데 제가 있으면 안 되는 건 아니죠?"
+  }, {
+    "$id" : 7,
+    "label" : "nq020401_msg0007",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방해는 안 할게요"
+  }, {
+    "$id" : 8,
+    "label" : "nq020401_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 그래……\n나는 딱히 상관없는데……"
+  }, {
+    "$id" : 9,
+    "label" : "nq020401_msg0009",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저, 저도…… 괜찮아요\n이즈노메가 그러고 싶다면야……"
+  }, {
+    "$id" : 10,
+    "label" : "nq020401_msg0010",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 11,
+    "label" : "nq020401_msg0011",
+    "talker" : "1",
+    "talkattr" : 33026,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음……\n보아하니 경계하는 것 같은데"
+  }, {
+    "$id" : 12,
+    "label" : "nq020401_msg0012",
+    "talker" : "1",
+    "talkattr" : 33026,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "환송자인 스쿠네의\n파트너도 딱히 아닌 것 같고……"
+  }, {
+    "$id" : 13,
+    "label" : "nq020401_msg0013",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 바로……"
+  }, {
+    "$id" : 14,
+    "label" : "nq020401_msg0014",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저, 저기……!"
+  }, {
+    "$id" : 15,
+    "label" : "nq020401_msg0015",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어이쿠……"
+  }, {
+    "$id" : 16,
+    "label" : "nq020401_msg0016",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……! 죄, 죄송합니다……"
+  }, {
+    "$id" : 17,
+    "label" : "nq020401_msg0017",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 신경 쓰지 마\n할 말은 뭐였어?"
+  }, {
+    "$id" : 18,
+    "label" : "nq020401_msg0018",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게……\n당신은 케베스의 환송자……\n맞으시죠?"
+  }, {
+    "$id" : 19,
+    "label" : "nq020401_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아\n너도 환송자라 들었는데……"
+  }, {
+    "$id" : 20,
+    "label" : "nq020401_msg0020",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 저는…… 그게……\n환송이라는 걸…… 어떡해야 하는지……"
+  }, {
+    "$id" : 21,
+    "label" : "nq020401_msg0021",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "피리야 불 수 있지만……\n이대론 안 되겠다는 생각이 들어서……\n그래서……"
+  }, {
+    "$id" : 22,
+    "label" : "nq020401_msg0022",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 23,
+    "label" : "nq020401_msg0023",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죄, 죄송합니다……!\n제가 생각해도 무슨 말을 하고 있는 건지……"
+  }, {
+    "$id" : 24,
+    "label" : "nq020401_msg0024",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아니, 그렇지 않아\n네 마음은 대충 이해가 돼"
+  }, {
+    "$id" : 25,
+    "label" : "nq020401_msg0025",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……! 정말인가요……?\n하, 하지만……"
+  }, {
+    "$id" : 26,
+    "label" : "nq020401_msg0026",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음, 그렇지……\n잠깐 콜로니 밖으로 나가지 않을래?"
+  }, {
+    "$id" : 27,
+    "label" : "nq020401_msg0027",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "밖으로……?"
+  }, {
+    "$id" : 28,
+    "label" : "nq020401_msg0028",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가까운 산에 물가가 있었지 아마?"
+  }, {
+    "$id" : 29,
+    "label" : "nq020401_msg0029",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……\"클레르 수맥\" 말씀이시군요"
+  }, {
+    "$id" : 30,
+    "label" : "nq020401_msg0030",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음…… 잠시만 기다려 주시겠어요?\n외출 허가를 신청해야 해서요……"
+  }, {
+    "$id" : 31,
+    "label" : "nq020401_msg0031",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너도 같이 올 거지?\n그러니까……"
+  }, {
+    "$id" : 32,
+    "label" : "nq020401_msg0032",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이즈노메예요\n가긴 할 건데 신경 쓸 거 없어요\n어차피 맘대로 할 거라서요"
+  }, {
+    "$id" : 33,
+    "label" : "nq020401_msg0033",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……허가받았어요"
+  }, {
+    "$id" : 34,
+    "label" : "nq020401_msg0034",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 그럼 교육을 시작할게\n잘 부탁해"
+  }, {
+    "$id" : 35,
+    "label" : "nq020401_msg0035",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 네! 잘 부탁드립니다"
+  } ]
+}

@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq220101_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기서 전투가 벌어진 거구나"
+  }, {
+    "$id" : 2,
+    "label" : "nq220101_msg0002",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 이 주변이 전장이 되어서\n저희도 적은 병력으로나마 응전했어요"
+  }, {
+    "$id" : 3,
+    "label" : "nq220101_msg0003",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "처음에는 지형적 이점을 살려서\n전투에서 우세했지만\n곧 병력 차이에 밀리는 바람에……"
+  }, {
+    "$id" : 4,
+    "label" : "nq220101_msg0004",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후방을 맡아 줬던 부대 덕분에\n살아남은 동료도 많았죠\n하지만……"
+  }, {
+    "$id" : 5,
+    "label" : "nq220101_msg0005",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확실히 이런 곳에서 몰아붙이면\n도망치고 싶어도 도망칠 수 없겠어"
+  }, {
+    "$id" : 6,
+    "label" : "nq220101_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 몬스터 소굴인가 본데"
+  }, {
+    "$id" : 7,
+    "label" : "nq220101_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "환송을 하려고 해도\n이 상태로는 못 하겠어"
+  }, {
+    "$id" : 8,
+    "label" : "nq220101_msg0008",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방해가 들어오기 전에\n먼저 해치우는 게 좋을 거 같은데 어때?"
+  }, {
+    "$id" : 9,
+    "label" : "nq220101_msg0009",
+    "talker" : "L",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네? 아…… 네"
+  }, {
+    "$id" : 10,
+    "label" : "nq220101_msg0010",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너무 딱딱해\n날려 버리겠어! 정도는 말해 보라고"
+  }, {
+    "$id" : 11,
+    "label" : "nq220101_msg0011",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 날려 버리죠!"
+  }, {
+    "$id" : 12,
+    "label" : "nq220101_msg0012",
+    "talker" : "5",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 가자!"
+  } ]
+}

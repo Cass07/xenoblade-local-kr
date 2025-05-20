@@ -1,0 +1,160 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq000700_msg0001",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 이봐!\n너희들, 잠깐 뭐 좀 물어보자!!"
+  }, {
+    "$id" : 2,
+    "label" : "tq000700_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "볼레아리스? 무슨 일 있어?"
+  }, {
+    "$id" : 3,
+    "label" : "tq000700_msg0003",
+    "talker" : "gW1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장님 말이야!!"
+  }, {
+    "$id" : 4,
+    "label" : "tq000700_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엉?"
+  }, {
+    "$id" : 5,
+    "label" : "tq000700_msg0005",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디 계시는지 계속 안 보여\n혹시 어디 가셨는지 알아?!"
+  }, {
+    "$id" : 6,
+    "label" : "tq000700_msg0006",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄……\n우리는 못 봤는데?"
+  }, {
+    "$id" : 7,
+    "label" : "tq000700_msg0007",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말이냐? 정말로 못 봤어?!\n잘 생각해 봐!"
+  }, {
+    "$id" : 8,
+    "label" : "tq000700_msg0008",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그분은 콜로니를 위해서라면\n자기 자신도 희생하실 분이란 말이야!"
+  }, {
+    "$id" : 9,
+    "label" : "tq000700_msg0009",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무척 강한 분이라서\n뭐든지 혼자 떠맡으려 하신다고"
+  }, {
+    "$id" : 10,
+    "label" : "tq000700_msg0010",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약 군무장님에게 무슨 일이라도 생기면\n콜로니 4는…… 우리는……!"
+  }, {
+    "$id" : 11,
+    "label" : "tq000700_msg0011",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐, 좀 진정해!"
+  }, {
+    "$id" : 12,
+    "label" : "tq000700_msg0012",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "윽, 미, 미안……\n당황해서 그만"
+  }, {
+    "$id" : 13,
+    "label" : "tq000700_msg0013",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니…… 우리야 괜찮은데"
+  }, {
+    "$id" : 14,
+    "label" : "tq000700_msg0014",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혹시 보게 되면 나한테 알려 줘……\n불러 세워서 미안하다"
+  }, {
+    "$id" : 15,
+    "label" : "tq000700_msg0015",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그래……"
+  } ]
+}

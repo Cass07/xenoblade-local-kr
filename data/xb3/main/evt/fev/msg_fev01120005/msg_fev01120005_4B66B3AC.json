@@ -1,0 +1,151 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<32ABC406>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그래?"
+  }, {
+    "$id" : 2,
+    "label" : "<6E13F3FA>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로어가 통신을 걸었어"
+  }, {
+    "$id" : 3,
+    "label" : "<74DDC50D>",
+    "talker" : "hX10600",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노아, 미안한데\n도와주는 김에\n하나만 더 부탁해도 될까?"
+  }, {
+    "$id" : 4,
+    "label" : "<25BD9566>",
+    "talker" : "10300",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 괜찮아\n뭘 부탁하려고?"
+  }, {
+    "$id" : 5,
+    "label" : "<5730EB4E>",
+    "talker" : "hX10400",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아까 콜로니 사람들의\n컬렉피디아 카드를 봤는데……"
+  }, {
+    "$id" : 6,
+    "label" : "<5885DF61>",
+    "talker" : "hX10400",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보아하니 이번 임무를 준비하느라\n여전히 다들 일이 많은가 보더라고"
+  }, {
+    "$id" : 7,
+    "label" : "<C7556959>",
+    "talker" : "hX10400",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다니면서 쓸 만한 소재가 보이면\n컬렉피디아 카드를 이용해서\n넘겨줄 수 있을까?"
+  }, {
+    "$id" : 8,
+    "label" : "<3BBACF03>",
+    "talker" : "10300",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어, 소재를 회수해서\n컬렉피디아 카드에 등록하면 되는 거지?"
+  }, {
+    "$id" : 9,
+    "label" : "<6AC4EF15>",
+    "talker" : "hX10800",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 정확히 알고 있네\n잘 부탁할게"
+  }, {
+    "$id" : 10,
+    "label" : "<DB2C358E>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로어도 누구 못지않게\n남 돕길 좋아한다니까"
+  }, {
+    "$id" : 11,
+    "label" : "<3A6D4449>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 보수도 있는 일이니까\n해서 나쁠 건 없잖아?"
+  }, {
+    "$id" : 12,
+    "label" : "<E7629F1D>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가난뱅이상인 란츠한테 딱 어울리긴 하네모"
+  }, {
+    "$id" : 13,
+    "label" : "<56B5B6D3>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐라고 인마?"
+  }, {
+    "$id" : 14,
+    "label" : "<B565A14F>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 그만하고\n알페토 계곡으로 가자"
+  } ]
+}

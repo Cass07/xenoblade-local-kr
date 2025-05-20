@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310203_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……빛의 개수가 안 맞아\n찾는 게 아닌가 봐"
+  }, {
+    "$id" : 2,
+    "label" : "nq310203_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 빛은……\n아무리 봐도 개수가 달라……"
+  }, {
+    "$id" : 3,
+    "label" : "nq310203_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "열다섯 빛이랑은 겹치는 점이 없네\n다른 곳을 찾아봐야지"
+  }, {
+    "$id" : 4,
+    "label" : "nq310203_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빛의 개수가 맞지 않아……\n다른 곳을 살펴보자"
+  }, {
+    "$id" : 5,
+    "label" : "nq310203_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빛이라는 게 이걸까?\n하지만 15개는 아닌 것 같네……"
+  }, {
+    "$id" : 6,
+    "label" : "nq310203_msg0006",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……빛의 개수가 안 맞는군\n정확히 15개인 게 어딘가 있을 텐데"
+  } ]
+}

@@ -1,0 +1,421 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<5F8E2200>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이노 님~~~!"
+  }, {
+    "$id" : 2,
+    "label" : "<E1658C32>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "테르니 님?\n여긴 어떻게?"
+  }, {
+    "$id" : 3,
+    "label" : "<6131764C>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "불초 테르니,\n이노 님을 도우러 왔습니다모!"
+  }, {
+    "$id" : 4,
+    "label" : "<D7E30461>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이노 님한테 모든 짐을 맡겨서야\n카라반 노폰이라는 이름이 아깝지요모!"
+  }, {
+    "$id" : 5,
+    "label" : "<79EDE8F8>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금이야말로 \"기개\"를 보일 순간이군요모!\n보답의 바겐 세일입니다모!!"
+  }, {
+    "$id" : 6,
+    "label" : "<63031543>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "테, 테르니 님……"
+  }, {
+    "$id" : 7,
+    "label" : "<E31F113E>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……으음? 이노 님\n어째서 풀이 죽어 있으신 겁니까모?"
+  }, {
+    "$id" : 8,
+    "label" : "<BC20DF26>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으으……\n사실은 이러쿵저러쿵……"
+  }, {
+    "$id" : 9,
+    "label" : "<EF1D43EE>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모못! 도망쳤다고요모?!\n크윽! 정말 얄미운 새 녀석이군요모!"
+  }, {
+    "$id" : 10,
+    "label" : "<446952B6>",
+    "talker" : "1",
+    "talkattr" : 33026,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……지금 그것만 듣고 이해한 거야?!"
+  }, {
+    "$id" : 11,
+    "label" : "<CB6AFAC9>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "면목이 없어요모……\n이노는 수호자 실격이에요모……"
+  }, {
+    "$id" : 12,
+    "label" : "<9BB9DBD5>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 13,
+    "label" : "<31ED9DE5>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쨌든 다시 한번\n노폰 이터를 찾아야 해"
+  }, {
+    "$id" : 14,
+    "label" : "<039AA58E>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말은 쉽지만\n하늘을 날면 추적할 방법이 없어"
+  }, {
+    "$id" : 15,
+    "label" : "<11331887>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기저기 다니다가\n우연히 딱 마주치는 것 말고는\n방법이 없다는 거야……?"
+  }, {
+    "$id" : 16,
+    "label" : "<2E8CF60F>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 17,
+    "label" : "<59A1337E>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젠장……\n도망만 안 쳤어도\n확실하게 끝장낼 수 있었는데"
+  }, {
+    "$id" : 18,
+    "label" : "<BE7156A1>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 19,
+    "label" : "<0391D54C>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모못!\n테르니, 방법이 떠올랐습니다모!"
+  }, {
+    "$id" : 20,
+    "label" : "<D5C2AC3B>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "핵심은 도망치지 못하게\n막으면 되는 것이죠모?"
+  }, {
+    "$id" : 21,
+    "label" : "<D8E9DD1E>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그렇지……\n잠깐만이라도 발을 묶을 수 있으면\n분명 승산이 있을 거야"
+  }, {
+    "$id" : 22,
+    "label" : "<E3B6FD0C>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다모!\n그렇다면 \"꽃가루 구슬\"이 나설 차례로군요모!"
+  }, {
+    "$id" : 23,
+    "label" : "<FAB56225>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꽃가루 구슬이요모?\n노폰 여러분께서 좋아하시는 그거요모?"
+  }, {
+    "$id" : 24,
+    "label" : "<5A390ACF>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이노 님, 꽃가루 구슬에도 종류가 있습니다모\n아시는 대로 맛있는 꽃가루 구슬도 있고……"
+  }, {
+    "$id" : 25,
+    "label" : "<056117F5>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "살~짝 위험한 느낌의\n금지된 꽃가루 구슬 같은 것도……"
+  }, {
+    "$id" : 26,
+    "label" : "<6FD4AB08>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그런 것이……\n이노는 전혀 몰랐어요모"
+  }, {
+    "$id" : 27,
+    "label" : "<129CEA2F>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카라반의 비밀 라인업이니\n이노 님이 모르시는 건 당연하죠모"
+  }, {
+    "$id" : 28,
+    "label" : "<84F1A73F>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 그 위험한 꽃가루 구슬인지 뭔지가\n노폰 이터한테 먹힐 거라고?"
+  }, {
+    "$id" : 29,
+    "label" : "<6E9FA5A9>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 겁니다모!\n하지만! 이번에는 신중에 신중을 기해서……"
+  }, {
+    "$id" : 30,
+    "label" : "<AD1FBB68>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "금지된 꽃가루 구슬의\n효과 폭발 스페셜 버전을 만들겠습니다모!"
+  }, {
+    "$id" : 31,
+    "label" : "<F1544415>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 터뜨리면\n노폰 이터도 어질어질해져서\n도망은 생각도 못 하게 되겠죠모!"
+  }, {
+    "$id" : 32,
+    "label" : "<3CD4E4D7>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "결국 그 꽃가루 구슬로\n노폰 이터가 정신을 못 차리게 하는 작전인가"
+  }, {
+    "$id" : 33,
+    "label" : "<8E08A1E2>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나, 나이스 아이디어네요모!\n이러면 이긴 거나 마찬가지예요모~!"
+  }, {
+    "$id" : 34,
+    "label" : "<2D385BF4>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐 기다려 봐\n정작 중요한 상대 위치를 모르는 게 문제잖아"
+  }, {
+    "$id" : 35,
+    "label" : "<17AAFE54>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후후, 그것도 테르니에게 맡기시죠모\n사실 살짝 연줄이 있거든요모"
+  }, {
+    "$id" : 36,
+    "label" : "<79FADBEB>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이, 이럴 수가……!\n테르니 님, 오늘 엄청 멋지세요모!"
+  }, {
+    "$id" : 37,
+    "label" : "<7F136941>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상황이 호전됐네\n이대로면 꽤 잘될지도 몰라"
+  }, {
+    "$id" : 38,
+    "label" : "<14A9E6DC>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아요모!\n흐름이 이쪽으로 왔어요모~!"
+  }, {
+    "$id" : 39,
+    "label" : "<C3E7B6CE>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "결론이 났으면 꽃가루 구슬 제작 준비를\n시작하겠습니다모"
+  }, {
+    "$id" : 40,
+    "label" : "<E3F0759D>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "테르니 님!\n도울 만한 일이 있을까요모?"
+  }, {
+    "$id" : 41,
+    "label" : "<E33B0926>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이노 님과 일행분들은 꽃가루 구슬의 재료인\n꽃을 구해 주시지요모"
+  }, {
+    "$id" : 42,
+    "label" : "<708DC661>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꽃의 품질이 좋을수록 위험한 성분이……\n어이쿠, 이건 말실수입니다모"
+  }, {
+    "$id" : 43,
+    "label" : "<412A0B82>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쨌든 많으면 많을수록 도움이 됩니다모!"
+  }, {
+    "$id" : 44,
+    "label" : "<B57D87B5>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어요모!\n초특급 속도로 구해 올게요모!"
+  } ]
+}

@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq030204_msg0001",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "목표물을 탈환했습니다\n확인을 부탁드립니다"
+  }, {
+    "$id" : 2,
+    "label" : "nq030204_msg0002",
+    "talker" : "qd1",
+    "talkattr" : 33153,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모~! 바로 이겁니다모!\n정말 훌륭하십니다모~!"
+  }, {
+    "$id" : 3,
+    "label" : "nq030204_msg0003",
+    "talker" : "qd1",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "론은 이게 없으면\n돈 계산이 잘 안 됩니다모~!"
+  }, {
+    "$id" : 4,
+    "label" : "nq030204_msg0004",
+    "talker" : "lY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 거래는 성사된 거지?"
+  }, {
+    "$id" : 5,
+    "label" : "nq030204_msg0005",
+    "talker" : "qd1",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 물론입니다모!\n론은 약속을 지키는 노폰이니까요모"
+  }, {
+    "$id" : 6,
+    "label" : "nq030204_msg0006",
+    "talker" : "qd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 지금 바로\n수용소로 가 봅시다모"
+  }, {
+    "$id" : 7,
+    "label" : "nq030204_msg0007",
+    "talker" : "qd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자세한 건 나중에\n말씀드리지요모~!"
+  } ]
+}

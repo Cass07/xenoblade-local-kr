@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk221401_msg0001",
+    "talker" : "ua1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 콜로니는 레브니스가\n양적으로도 질적으로도 뛰어난 탓에\n병사를 양성하기 힘들어서"
+  }, {
+    "$id" : 2,
+    "label" : "tlk221401_msg0002",
+    "talker" : "ua1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무리 싸워도 생명의 불을\n회수하지 못하는 일도 많았는데……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk221401_msg0003",
+    "talker" : "ua1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희 덕분에\n남은 수명을 걱정할 필요가 없어졌어\n고맙다!"
+  } ]
+}

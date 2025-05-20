@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<7720C913>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니 9호는 왜\n환송자의 악기를 가지고 있는 거야?"
+  }, {
+    "$id" : 2,
+    "label" : "<63D3B237>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니 나이린은 왜\n환송자의 악기를 가지고 있는 거야?"
+  }, {
+    "$id" : 3,
+    "label" : "<19D995EF>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 12599425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나중에 들은 건데\n그 애는 환송자가 되려고 한대"
+  }, {
+    "$id" : 4,
+    "label" : "<0FB0C1D6>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 0는 다른 콜로니와는 달리\n환송자가 없으니까……"
+  }, {
+    "$id" : 5,
+    "label" : "<1138FEF4>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……죽은 동료들을\n자신이 환송해 주려고 한 건가"
+  }, {
+    "$id" : 6,
+    "label" : "<1312E8CF>",
+    "talker" : "3",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흐음~ 꽤 착한 녀석이네\n성격이 괴팍한 것치고는 말이야"
+  }, {
+    "$id" : 7,
+    "label" : "<EFB28CC4>",
+    "talker" : "2",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "남을 생각하는 마음이 강한 만큼\n감정적인 면이 드러나기 쉬운가 봐"
+  }, {
+    "$id" : 8,
+    "label" : "<5E920DF7>",
+    "talker" : "6",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 그 마음은 잘 알겠지만……\n마음을 좀 더 열어 줬으면 좋겠어"
+  }, {
+    "$id" : 9,
+    "label" : "<565EE581>",
+    "talker" : "2",
+    "talkattr" : 33056,
+    "talkattr2" : 18890882,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "인내를 갖고 기다릴 수밖에 없어\n힘내, 세나"
+  }, {
+    "$id" : 10,
+    "label" : "<B0BD08DF>",
+    "talker" : "6",
+    "talkattr" : 33168,
+    "talkattr2" : 10502273,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어……"
+  } ]
+}

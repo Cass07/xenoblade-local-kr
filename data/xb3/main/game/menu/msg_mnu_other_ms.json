@@ -1,0 +1,468 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<70E2C7B8>",
+    "style" : 7,
+    "name" : "닫기"
+  }, {
+    "$id" : 2,
+    "label" : "<DA4FFA43>",
+    "style" : 11,
+    "name" : ""
+  }, {
+    "$id" : 3,
+    "label" : "<4D1F6FF5>",
+    "style" : 11,
+    "name" : "훈련 메뉴"
+  }, {
+    "$id" : 4,
+    "label" : "<57469ADB>",
+    "style" : 19,
+    "name" : "포기하겠습니까?"
+  }, {
+    "$id" : 5,
+    "label" : "<C89A4E03>",
+    "style" : 19,
+    "name" : "다시 시작하겠습니까?"
+  }, {
+    "$id" : 6,
+    "label" : "<0713AFD9>",
+    "style" : 19,
+    "name" : "다른 훈련을 진행하겠습니까?"
+  }, {
+    "$id" : 7,
+    "label" : "<5AE45424>",
+    "style" : 7,
+    "name" : "포기"
+  }, {
+    "$id" : 8,
+    "label" : "<DE099647>",
+    "style" : 7,
+    "name" : "다시 시작"
+  }, {
+    "$id" : 9,
+    "label" : "<957A70E5>",
+    "style" : 7,
+    "name" : "다른 훈련"
+  }, {
+    "$id" : 10,
+    "label" : "<C7621515>",
+    "style" : 19,
+    "name" : "훈련을 중단하고 훈련소를 떠납니다"
+  }, {
+    "$id" : 11,
+    "label" : "<A76223CC>",
+    "style" : 19,
+    "name" : "현재의 훈련을 처음부터 다시 시작합니다"
+  }, {
+    "$id" : 12,
+    "label" : "<C6EBDC08>",
+    "style" : 19,
+    "name" : "훈련을 중단하고 훈련 메뉴로 돌아갑니다"
+  }, {
+    "$id" : 13,
+    "label" : "<13E649EF>",
+    "style" : 11,
+    "name" : ""
+  }, {
+    "$id" : 14,
+    "label" : "<F50EB9D9>",
+    "style" : 11,
+    "name" : "트레이닝 시작"
+  }, {
+    "$id" : 15,
+    "label" : "<84348618>",
+    "style" : 11,
+    "name" : "트레이닝 성공"
+  }, {
+    "$id" : 16,
+    "label" : "<DE38824F>",
+    "style" : 11,
+    "name" : "트레이닝 실패"
+  }, {
+    "$id" : 17,
+    "label" : "<7EBBA3A0>",
+    "style" : 19,
+    "name" : "노폰 코인을 사용해 랭크를 올립니다"
+  }, {
+    "$id" : 18,
+    "label" : "<0A94CEC0>",
+    "style" : 59,
+    "name" : "노폰 코인을 사용해\n컬렉피디아 카드를 완성시키겠습니까?"
+  }, {
+    "$id" : 19,
+    "label" : "<32294E02>",
+    "style" : 19,
+    "name" : "필요 노폰 코인"
+  }, {
+    "$id" : 20,
+    "label" : "<B996D29D>",
+    "style" : 19,
+    "name" : "Rank UP"
+  }, {
+    "$id" : 21,
+    "label" : "<9EC870FF>",
+    "style" : 11,
+    "name" : "돌아가기"
+  }, {
+    "$id" : 22,
+    "label" : "<FB1802AD>",
+    "style" : 11,
+    "name" : "결정"
+  }, {
+    "$id" : 23,
+    "label" : "<72287938>",
+    "style" : 11,
+    "name" : "예"
+  }, {
+    "$id" : 24,
+    "label" : "<87727AA4>",
+    "style" : 11,
+    "name" : "아니요"
+  }, {
+    "$id" : 25,
+    "label" : "<63E65902>",
+    "style" : 11,
+    "name" : "QUICK SAVE..."
+  }, {
+    "$id" : 26,
+    "label" : "<70945E44>",
+    "style" : 19,
+    "name" : "미오의 머리 모양을 정해 주십시오"
+  }, {
+    "$id" : 27,
+    "label" : "<EBDB1148>",
+    "style" : 11,
+    "name" : "쇼트 헤어"
+  }, {
+    "$id" : 28,
+    "label" : "<8707BF20>",
+    "style" : 11,
+    "name" : "롱 헤어"
+  }, {
+    "$id" : 29,
+    "label" : "<986C52FF>",
+    "style" : 11,
+    "name" : "필드 스킬"
+  }, {
+    "$id" : 30,
+    "label" : "<E6EECF5D>",
+    "style" : 11,
+    "name" : "인연 보너스"
+  }, {
+    "$id" : 31,
+    "label" : "<8B115DF2>",
+    "style" : 11,
+    "name" : "식사 효과"
+  }, {
+    "$id" : 32,
+    "label" : "<6D91966B>",
+    "style" : 11,
+    "name" : "보너스명"
+  }, {
+    "$id" : 33,
+    "label" : "<0514396B>",
+    "style" : 11,
+    "name" : "획득량"
+  }, {
+    "$id" : 34,
+    "label" : "<1C1A5A9F>",
+    "style" : 11,
+    "name" : "획득률"
+  }, {
+    "$id" : 35,
+    "label" : "<D631AA7E>",
+    "style" : 11,
+    "name" : "보너스 효과"
+  }, {
+    "$id" : 36,
+    "label" : "<6348DA99>",
+    "style" : 19,
+    "name" : "적용 중인 식사 효과가 없습니다"
+  }, {
+    "$id" : 37,
+    "label" : "<7D2073A3>",
+    "style" : 11,
+    "name" : "월 클라이밍"
+  }, {
+    "$id" : 38,
+    "label" : "<460AE34C>",
+    "style" : 11,
+    "name" : "로프 슬라이드"
+  }, {
+    "$id" : 39,
+    "label" : "<FCAC7F28>",
+    "style" : 11,
+    "name" : "샌드 스파이크"
+  }, {
+    "$id" : 40,
+    "label" : "<B139274F>",
+    "style" : 11,
+    "name" : "해저드 레지스트"
+  }, {
+    "$id" : 41,
+    "label" : "<F8BE2C28>",
+    "style" : 11,
+    "name" : "미습득 필드 스킬"
+  }, {
+    "$id" : 42,
+    "label" : "<61CC339A>",
+    "style" : 49,
+    "name" : "특정 벽을 올라가거나\n내려갈 수 있습니다"
+  }, {
+    "$id" : 43,
+    "label" : "<6DC06377>",
+    "style" : 49,
+    "name" : "설치된 로프를 타고\n높은 곳에서 활강할 수 있습니다"
+  }, {
+    "$id" : 44,
+    "label" : "<3FDC2218>",
+    "style" : 49,
+    "name" : "유사 위에서 보다 수월하게\n이동할 수 있습니다"
+  }, {
+    "$id" : 45,
+    "label" : "<E0BA9C2B>",
+    "style" : 49,
+    "name" : "대미지를 주는 필드 위를\n이동할 수 있습니다"
+  }, {
+    "$id" : 46,
+    "label" : "<CCD3C7A9>",
+    "style" : 11,
+    "name" : "남은 시간: [ML:number digit=3 ]"
+  }, {
+    "$id" : 47,
+    "label" : "<D14A6994>",
+    "style" : 11,
+    "name" : "남은 시간:"
+  }, {
+    "$id" : 48,
+    "label" : "<874505AF>",
+    "style" : 124,
+    "name" : "저장하겠습니까?"
+  }, {
+    "$id" : 49,
+    "label" : "<6A9F7553>",
+    "style" : 11,
+    "name" : "Loading"
+  }, {
+    "$id" : 50,
+    "label" : "<C056B6CF>",
+    "style" : 11,
+    "name" : "Auto Saving"
+  }, {
+    "$id" : 51,
+    "label" : "<1A2034FA>",
+    "style" : 11,
+    "name" : ""
+  }, {
+    "$id" : 52,
+    "label" : "<267E234A>",
+    "style" : 11,
+    "name" : "Auto Save"
+  }, {
+    "$id" : 53,
+    "label" : "<AA56813F>",
+    "style" : 11,
+    "name" : "Quick Save"
+  }, {
+    "$id" : 54,
+    "label" : "<4EE60853>",
+    "style" : 3,
+    "name" : ""
+  }, {
+    "$id" : 55,
+    "label" : "<3EFB9A6D>",
+    "style" : 59,
+    "name" : "게임을 클리어한 데이터가 아닙니다"
+  }, {
+    "$id" : 56,
+    "label" : "<2E8AA0BF>",
+    "style" : 5,
+    "name" : "주목"
+  }, {
+    "$id" : 57,
+    "label" : "<7D953BB0>",
+    "style" : 11,
+    "name" : "ELITE BONUS"
+  }, {
+    "$id" : 58,
+    "label" : "<7C241745>",
+    "style" : 11,
+    "name" : "LEVEL EXP"
+  }, {
+    "$id" : 59,
+    "label" : "<49688511>",
+    "style" : 11,
+    "name" : "CLASS EXP"
+  }, {
+    "$id" : 60,
+    "label" : "<BB91DEE4>",
+    "style" : 11,
+    "name" : "GOLD"
+  }, {
+    "$id" : 61,
+    "label" : "<62F8B264>",
+    "style" : 11,
+    "name" : "BOOST ON"
+  }, {
+    "$id" : 62,
+    "label" : "<CCC8958D>",
+    "style" : 11,
+    "name" : "BOOST OFF"
+  }, {
+    "$id" : 63,
+    "label" : "<FA076F79>",
+    "style" : 9,
+    "name" : "Navi On"
+  }, {
+    "$id" : 64,
+    "label" : "<D641E61D>",
+    "style" : 11,
+    "name" : "보너스 경험치 획득"
+  }, {
+    "$id" : 65,
+    "label" : "<BA88B203>",
+    "style" : 11,
+    "name" : "Expansion Pass"
+  }, {
+    "$id" : 66,
+    "label" : "<3BFF12E0>",
+    "style" : 12,
+    "name" : "다운로드 구입은 여기!"
+  }, {
+    "$id" : 67,
+    "label" : "<CE5042AB>",
+    "style" : 12,
+    "name" : "특전 받기"
+  }, {
+    "$id" : 68,
+    "label" : "<39B21B8F>",
+    "style" : 3,
+    "name" : "Vol."
+  }, {
+    "$id" : 69,
+    "label" : "<454F5115>",
+    "style" : 9,
+    "name" : "자세히 보기"
+  }, {
+    "$id" : 70,
+    "label" : "<EBEDF2BD>",
+    "style" : 59,
+    "name" : "모든 특전을 받습니다\n계속 진행하겠습니까?"
+  }, {
+    "$id" : 71,
+    "label" : "<08C799B2>",
+    "style" : 138,
+    "name" : "모든 특전을 받았습니다"
+  }, {
+    "$id" : 72,
+    "label" : "<4D74A740>",
+    "style" : 138,
+    "name" : "※받지 못한 특전이 있습니다\n자세한 내용은 각 아이템에서 확인할 수 있습니다"
+  }, {
+    "$id" : 73,
+    "label" : "<B09F20C6>",
+    "style" : 11,
+    "name" : "모두 받기"
+  }, {
+    "$id" : 74,
+    "label" : "<1E81D328>",
+    "style" : 11,
+    "name" : "Expansion Pass 특전"
+  }, {
+    "$id" : 75,
+    "label" : "<FC9FA77E>",
+    "style" : 127,
+    "name" : "소지 수 상한에 도달했기 때문에 받을 수 없습니다"
+  }, {
+    "$id" : 76,
+    "label" : "<BCD4718F>",
+    "style" : 12,
+    "name" : "재다운로드는 여기"
+  }, {
+    "$id" : 77,
+    "label" : "<1371AEDF>",
+    "style" : 59,
+    "name" : "패션은 스토리가 진행되어 캐릭터 > 패션 항목이\n개방되면 사용할 수 있게 됩니다"
+  }, {
+    "$id" : 78,
+    "label" : "<88D2F079>",
+    "style" : 2,
+    "name" : "Ver."
+  }, {
+    "$id" : 79,
+    "label" : "<5197FDB9>",
+    "style" : 14,
+    "name" : "DX 에테르 실린더"
+  }, {
+    "$id" : 80,
+    "label" : "<6EAA2C94>",
+    "style" : 11,
+    "name" : "교환할 물건이 없습니다"
+  }, {
+    "$id" : 81,
+    "label" : "<3C9BB857>",
+    "style" : 7,
+    "name" : "그룹 [ML:number ]"
+  }, {
+    "$id" : 82,
+    "label" : "<E00D1282>",
+    "style" : 7,
+    "name" : "슬롯 [ML:number ]"
+  }, {
+    "$id" : 83,
+    "label" : "<04704D50>",
+    "style" : 8,
+    "name" : "기본"
+  }, {
+    "$id" : 84,
+    "label" : "<C2207BB7>",
+    "style" : 8,
+    "name" : "챌린지 배틀"
+  }, {
+    "$id" : 85,
+    "label" : "<E910661D>",
+    "style" : 29,
+    "name" : "불러오기가 완료되었습니다"
+  }, {
+    "$id" : 86,
+    "label" : "<49025044>",
+    "style" : 29,
+    "name" : "일부 액세서리의 장비에 실패했습니다"
+  }, {
+    "$id" : 87,
+    "label" : "<261B8C9F>",
+    "style" : 29,
+    "name" : "히어로 변경에 실패했습니다"
+  }, {
+    "$id" : 88,
+    "label" : "<C5EF6805>",
+    "style" : 29,
+    "name" : "액티브 퀘스트가 해제되었습니다"
+  }, {
+    "$id" : 89,
+    "label" : "<A254B855>",
+    "style" : 29,
+    "name" : "불러오겠습니까?"
+  }, {
+    "$id" : 90,
+    "label" : "<230FE51F>",
+    "style" : 29,
+    "name" : "※퀘스트의 액티브 지정이 해제됩니다"
+  }, {
+    "$id" : 91,
+    "label" : "<6C53F8B8>",
+    "style" : 59,
+    "name" : "이미 등록한 파티 편성을 덮어쓰게 됩니다\n계속 진행하겠습니까?"
+  } ]
+}

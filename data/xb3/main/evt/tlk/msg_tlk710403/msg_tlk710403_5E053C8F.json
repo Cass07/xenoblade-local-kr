@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk710403_msg0001",
+    "talker" : "uk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……식의 날은 싫어요\n누군가의 동료나 가족이 처형되는 날……\n자신의 무력함을 뼈저리게 깨닫는 날이니까요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk710403_msg0002",
+    "talker" : "uk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 올해는 여러분께서\n그 운명을 바꿔 주셨어요\n감옥에 갇혀 있었던 사람들뿐 아니라……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk710403_msg0003",
+    "talker" : "uk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩔 수 없다며 포기하고 있었던\n나약한 저까지……\n구원받은 기분이 들어요"
+  }, {
+    "$id" : 4,
+    "label" : "tlk710403_msg0004",
+    "talker" : "uk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미래는…… 바뀌는 거군요\n바뀔 수 있는 거군요……!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk710403_msg0005",
+    "talker" : "uk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저도 미래를 위해……\n제가 할 수 있는 일을 하고 싶어요……!"
+  } ]
+}

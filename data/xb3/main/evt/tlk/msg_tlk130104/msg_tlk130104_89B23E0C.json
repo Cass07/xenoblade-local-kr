@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk130104_msg0001",
+    "talker" : "lY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "7호는 태연한 척하지만……\n역시 아직 동요하는 것 같아"
+  }, {
+    "$id" : 2,
+    "label" : "tlk130104_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……세주는\n어째서 그때……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk130104_msg0003",
+    "talker" : "lY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이해되지 않는 부분이 있겠지만\n지금은 일단 덮어 뒀으면 좋겠어"
+  }, {
+    "$id" : 4,
+    "label" : "tlk130104_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알았어\n일단 세주를 평소처럼 대할게"
+  }, {
+    "$id" : 5,
+    "label" : "tlk130104_msg0005",
+    "talker" : "lY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 그렇게 해 줘\n훗날 7호가 모든 것을 털어놓을 때까지는……"
+  } ]
+}

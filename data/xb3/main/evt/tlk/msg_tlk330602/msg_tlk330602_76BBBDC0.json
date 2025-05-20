@@ -1,0 +1,124 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk330602_msg0001",
+    "talker" : "qd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 오셨습니다모~\n그럼 사업 얘기를 시작해 보죠모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk330602_msg0002",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "오늘은 어떻게 하시겠습니까모?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk330602_msg0003",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "리모델링한다"
+  }, {
+    "$id" : 4,
+    "label" : "tlk330602_msg0004",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "구매한다"
+  }, {
+    "$id" : 5,
+    "label" : "tlk330602_msg0101",
+    "talker" : "qd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "현재 리모델링 레벨은 1입니다모\n다음 레벨로 올라가려면\n70000G 정도 필요합니다모"
+  }, {
+    "$id" : 6,
+    "label" : "tlk330602_msg0102",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "리모델링하겠습니까?"
+  }, {
+    "$id" : 7,
+    "label" : "tlk330602_msg0201",
+    "talker" : "qd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그러십니까모. 하지만 다음번엔\n빠짐없이 지불하셔야 하는 것 아시죠모?\n모후후후……"
+  }, {
+    "$id" : 8,
+    "label" : "tlk330602_msg0301",
+    "talker" : "qd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자~ 계산 끝났습니다모~\n매번 이용해 주셔서 감사합니다모~"
+  }, {
+    "$id" : 9,
+    "label" : "tlk330602_msg0401",
+    "talker" : "qd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모모……\n다음엔 좀 더 준비해 두겠습니다모"
+  }, {
+    "$id" : 10,
+    "label" : "tlk330602_msg0501",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "70000G 지불한다"
+  }, {
+    "$id" : 11,
+    "label" : "tlk330602_msg0502",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "지불하지 않는다"
+  } ]
+}

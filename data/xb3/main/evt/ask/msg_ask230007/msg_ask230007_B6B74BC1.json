@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<849E8328>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 요타에서 지급받은 물자로\n위기에서 벗어난 콜로니가 많은가 봐"
+  }, {
+    "$id" : 2,
+    "label" : "<8BAB1FAF>",
+    "talker" : "5",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 분배한 물자들 아니야?\n도움이 됐다고 하니 기분 좋은데?"
+  }, {
+    "$id" : 3,
+    "label" : "<7421D575>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실제로 우리가 한 일은\n컬렉피디아 카드를 사용한 것뿐이야"
+  }, {
+    "$id" : 4,
+    "label" : "<DCDD07E9>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나와 콜로니 요타 사람들이\n물자를 많이 비축해 둬서\n잘 해결된 거지"
+  }, {
+    "$id" : 5,
+    "label" : "<918C7FE7>",
+    "talker" : "3",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그야 그렇지"
+  }, {
+    "$id" : 6,
+    "label" : "<6A76C73A>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "컬렉피디아 카드를 만든 것도 그렇고\n콜로니 요타는 칭찬받아 마땅해"
+  }, {
+    "$id" : 7,
+    "label" : "<34F12ED4>",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐, 니나에게는 절대로\n이런 말 안 할 거지만"
+  }, {
+    "$id" : 8,
+    "label" : "<BC74C911>",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1200,
+    "style" : 126,
+    "name" : "의기양양한 그 녀석 얼굴은\n이제 꼴도 보기 싫어……"
+  }, {
+    "$id" : 9,
+    "label" : "<43752E71>",
+    "talker" : "2",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래?\n난 그런 모습도 나름 귀엽던데"
+  }, {
+    "$id" : 10,
+    "label" : "<4D59EFCD>",
+    "talker" : "6",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 맞아"
+  }, {
+    "$id" : 11,
+    "label" : "<60129B70>",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그런가?"
+  }, {
+    "$id" : 12,
+    "label" : "<81411046>",
+    "talker" : "4",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 이해 못 하겠어……"
+  } ]
+}

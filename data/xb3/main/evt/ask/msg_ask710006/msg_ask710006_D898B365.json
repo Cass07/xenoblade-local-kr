@@ -1,0 +1,160 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<27D67C60>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 입은 이 옷은\n시티에서 만들어진 거였지?"
+  }, {
+    "$id" : 2,
+    "label" : "<F015D903>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 12599425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다는 건…… 시티를 돌아다니다가\n똑같은 옷을 입은 사람을\n만날지도 모른다는 거네"
+  }, {
+    "$id" : 3,
+    "label" : "<5D8BB84D>",
+    "talker" : "1",
+    "talkattr" : 32888,
+    "talkattr2" : 16793985,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이, 있잖아\n내 옷 괜찮아 보여?\n어디 이상한 덴 없지?"
+  }, {
+    "$id" : 4,
+    "label" : "<FA13A828>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 8405250,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄, 잘 모르겠어\n그때는 급하기도 했고\n옷을 신중하게 고를 시간도 없었으니까"
+  }, {
+    "$id" : 5,
+    "label" : "<DBFAEB6C>",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 8405121,
+    "talkattr3" : 1200,
+    "style" : 126,
+    "name" : "시티 사람 입장에서 보면\n굉장히 모욕적인\n옷차림일 수도 있겠지"
+  }, {
+    "$id" : 6,
+    "label" : "<080E1815>",
+    "talker" : "1",
+    "talkattr" : 32889,
+    "talkattr2" : 14696580,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "윽……! 역시 그런가?"
+  }, {
+    "$id" : 7,
+    "label" : "<8A53FB83>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 8405121,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노아는 잘 어울리니 걱정 마\n타이온 말은 믿을 게 못 된다니까"
+  }, {
+    "$id" : 8,
+    "label" : "<A0845C4C>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 14697473,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러는 타이온은 어때?"
+  }, {
+    "$id" : 9,
+    "label" : "<81702136>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 기능만 괜찮다면 뭐라도 상관없어\n복장에 신경 써 봐야 아무 의미 없어"
+  }, {
+    "$id" : 10,
+    "label" : "<D450B994>",
+    "talker" : "1",
+    "talkattr" : 32768,
+    "talkattr2" : 14696582,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확고하네……\n과연 타이온다운 사고방식이야"
+  }, {
+    "$id" : 11,
+    "label" : "<8E2FBF11>",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 14696706,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 타이온\n전부터 쭉 생각했는데"
+  }, {
+    "$id" : 12,
+    "label" : "<30026CE3>",
+    "talker" : "4",
+    "talkattr" : 32768,
+    "talkattr2" : 12599426,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭘?"
+  }, {
+    "$id" : 13,
+    "label" : "<C99AF7E4>",
+    "talker" : "3",
+    "talkattr" : 33176,
+    "talkattr2" : 14696706,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네 목도리 좀 촌스러운 거 같아"
+  }, {
+    "$id" : 14,
+    "label" : "<542AD961>",
+    "talker" : "4",
+    "talkattr" : 33073,
+    "talkattr2" : 12599426,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐라고?!\n다시 한번 말해 봐!"
+  }, {
+    "$id" : 15,
+    "label" : "<20F66F67>",
+    "talker" : "3",
+    "talkattr" : 33105,
+    "talkattr2" : 14696577,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엄청 신경 쓰고 있잖아!!"
+  } ]
+}

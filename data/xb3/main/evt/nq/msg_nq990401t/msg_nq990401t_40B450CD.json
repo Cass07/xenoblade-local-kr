@@ -1,0 +1,223 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq990401_msg0001",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니코 말이죠, 저번에 있었던\n물고기 파티에서 깨달았어요……"
+  }, {
+    "$id" : 2,
+    "label" : "nq990401_msg0002",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "날것은……\n보존하기가 너무 까다로워요!!"
+  }, {
+    "$id" : 3,
+    "label" : "nq990401_msg0003",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무리 많이 잡아도\n그 자리에서 안 먹으면 상해 버린다고요~!"
+  }, {
+    "$id" : 4,
+    "label" : "nq990401_msg0004",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 그래……\n결국 다른 것도 채집해야 하지"
+  }, {
+    "$id" : 5,
+    "label" : "nq990401_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보존 식품을 만들어서 비축하는 건 어때?\n간단한 거라면 가르쳐 줄 수 있는데……"
+  }, {
+    "$id" : 6,
+    "label" : "nq990401_msg0006",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말로요?!"
+  }, {
+    "$id" : 7,
+    "label" : "nq990401_msg0007",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "햇빛에 말리거나 소금에 절이는 정도라면……\n아마 할 수 있을지도 몰라요……"
+  }, {
+    "$id" : 8,
+    "label" : "nq990401_msg0008",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "소금은 지금부터 만들기로 하고……\n문제는 재료인데……"
+  }, {
+    "$id" : 9,
+    "label" : "nq990401_msg0009",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 정도는\n말 꺼낸 김에 내가 도와줄게"
+  }, {
+    "$id" : 10,
+    "label" : "nq990401_msg0010",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야호~!\n그래 주시면 고맙죠!"
+  }, {
+    "$id" : 11,
+    "label" : "nq990401_msg0011",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮은 식재료를 찾으시면\n니코한테 가져다주세요~!"
+  }, {
+    "$id" : 12,
+    "label" : "nq990401_msg0101",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "소금 순조롭게 잘 만들고 있습니다!\n식재료 쪽은 어떤가요~?"
+  }, {
+    "$id" : 13,
+    "label" : "nq990401_msg0201",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 큰 도움이 됐어요!\n감사합니다~!"
+  }, {
+    "$id" : 14,
+    "label" : "nq990401_msg0202",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보존 식품은 습기에 약하니까\n비축할 장소를 찾을 때 조심해"
+  }, {
+    "$id" : 15,
+    "label" : "nq990401_msg0203",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다~!"
+  }, {
+    "$id" : 16,
+    "label" : "nq990401_msg0204",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 재료 손질하고 말릴 차례일 텐데\n나도 좀 거들까?"
+  }, {
+    "$id" : 17,
+    "label" : "nq990401_msg0205",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮아!\n시로는 다른 애들을 도와줘"
+  }, {
+    "$id" : 18,
+    "label" : "nq990401_msg0206",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 정적인 작업은\n히마가 잘하니까 얘기해 볼게~"
+  }, {
+    "$id" : 19,
+    "label" : "nq990401_msg0207",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나, 그럼 잘 부탁할게!"
+  }, {
+    "$id" : 20,
+    "label" : "nq990401_msg0208",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맡겨만 주라고~!\n아 참, 타로한테도 보고해 둘게~!"
+  }, {
+    "$id" : 21,
+    "label" : "nq990401_msg0301",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타이온 씨는 정말 대단해요~\n너무 알기 쉽게 설명해 주셔서 깜짝 놀랐어요!"
+  }, {
+    "$id" : 22,
+    "label" : "nq990401_msg0302",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "처음에는 어쩔 줄 몰라서 불안했지만\n해 보니까 그냥 재밌었던 거 같아요!"
+  } ]
+}

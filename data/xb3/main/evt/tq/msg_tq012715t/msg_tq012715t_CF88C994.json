@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<7267D067>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "주인님과 함께 노폰 이터를 쓰러뜨린 덕에\n노폰의 평화의 역사가 또 1페이지 쓰였어요모!"
+  }, {
+    "$id" : 2,
+    "label" : "<75AD1D1E>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앞으로도 주인님과 이노는\n노폰사에 남을 전설을 만들 거예요모!"
+  }, {
+    "$id" : 3,
+    "label" : "<339108ED>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 꼭 그렇게 될 거야\n우리는 블레이드와 드라이버 사이니까"
+  }, {
+    "$id" : 4,
+    "label" : "<176D6646>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모…… 모모모~~!!"
+  }, {
+    "$id" : 5,
+    "label" : "<87390650>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이노는 너무 기뻐서 텐션 폭발이에요모!\n엄청나게 춤을 추고 싶어졌어요모~~!"
+  } ]
+}

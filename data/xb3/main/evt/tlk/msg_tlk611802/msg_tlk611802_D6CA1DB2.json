@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk611802_msg0001",
+    "talker" : "ak1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "옛날에 같은 부대에 있었던\n녀석한테 들은 이야기인데\n이 땅은 원래 시티 거였다더군"
+  }, {
+    "$id" : 2,
+    "label" : "tlk611802_msg0002",
+    "talker" : "ak1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다양하고 풍부한 작물을 채집할 수 있어서\n\"희망의 언덕\"이라고 불렸나 봐"
+  }, {
+    "$id" : 3,
+    "label" : "tlk611802_msg0003",
+    "talker" : "ak1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이 수용소에서도 비슷하게 부르지?\n참 씁쓸한 일이야"
+  } ]
+}

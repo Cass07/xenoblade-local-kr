@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk410605_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 시스테라는 대장\n여간 겁에 질린 게 아니던데\n너 도대체 무슨 짓 했냐?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk410605_msg0002",
+    "talker" : "ke1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음~ 그 사람 보면\n자존심이 엄청 강해 보이지 않던가요?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk410605_msg0003",
+    "talker" : "ke1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서…… 어디까지 \"건드리면\"\n그 자존심을 내다 버릴지\n호기심을 주체할 수가 없어서 그만……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk410605_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 그만\n물어본 내가 잘못했다"
+  } ]
+}

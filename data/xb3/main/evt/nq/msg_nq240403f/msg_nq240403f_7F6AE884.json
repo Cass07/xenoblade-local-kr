@@ -1,0 +1,295 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq240403_msg0001",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오오, 여러분! 기다렸어요!"
+  }, {
+    "$id" : 2,
+    "label" : "nq240403_msg0002",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서…… 결과는 어땠어요?!"
+  }, {
+    "$id" : 3,
+    "label" : "nq240403_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게……"
+  }, {
+    "$id" : 4,
+    "label" : "nq240403_msg0004",
+    "talker" : "se1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "2…… 200000G?!"
+  }, {
+    "$id" : 5,
+    "label" : "nq240403_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 우리도 못 믿겠지만\n네가 그린 이 초상화에는\n그만한 가치가 있다고 하더라"
+  }, {
+    "$id" : 6,
+    "label" : "nq240403_msg0006",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가, 감사합니다! 여러분!"
+  }, {
+    "$id" : 7,
+    "label" : "nq240403_msg0007",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제 초상화를 인정해 주는 사람이 있어서\n왠지 자신감이 솟기 시작했어요!"
+  }, {
+    "$id" : 8,
+    "label" : "nq240403_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 이 초상화는 어떻게 할 거야?\n팔 거야? 아니면 그대로 네가 가지고 있을래?"
+  }, {
+    "$id" : 9,
+    "label" : "nq240403_msg0009",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거야 물론……!"
+  }, {
+    "$id" : 10,
+    "label" : "nq240403_msg0010",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분에게 드리겠습니다"
+  }, {
+    "$id" : 11,
+    "label" : "nq240403_msg0011",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?! 그래도 돼?"
+  }, {
+    "$id" : 12,
+    "label" : "nq240403_msg0012",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 제 안에 있는\n근본적인 문제를 해결해 주신\n답례라고 생각해 주세요"
+  }, {
+    "$id" : 13,
+    "label" : "nq240403_msg0013",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근본적인 문제?"
+  }, {
+    "$id" : 14,
+    "label" : "nq240403_msg0014",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래요! \"열정\" 말입니다!"
+  }, {
+    "$id" : 15,
+    "label" : "nq240403_msg0015",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "문화에는 작품을 만들어 내는 열정이\n무엇보다도 가장 중요합니다!"
+  }, {
+    "$id" : 16,
+    "label" : "nq240403_msg0016",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예전에는 케이 님처럼\n제 작품을 평가해 주는 존재가 있었기에\n열정을 쏟을 수 있었죠……"
+  }, {
+    "$id" : 17,
+    "label" : "nq240403_msg0017",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케이 님이 돌아가신 뒤로\n제 그림의 진짜 가치를 알아봐 줄 사람은\n이제 없을 거라며 반쯤 포기하고 있었어요……"
+  }, {
+    "$id" : 18,
+    "label" : "nq240403_msg0018",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만! 분에 넘치는 평가를 받은 지금!\n제 안에서 식어 버린 열정이\n다시 끓어오르기 시작했습니다!"
+  }, {
+    "$id" : 19,
+    "label" : "nq240403_msg0019",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무, 무슨 말인지\n전혀 모르겠어……"
+  }, {
+    "$id" : 20,
+    "label" : "nq240403_msg0020",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 당신이 그린 초상화는\n실존하는 사람을 따라 그리는 거잖아?"
+  }, {
+    "$id" : 21,
+    "label" : "nq240403_msg0021",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다음엔 누구를 그릴 거야?"
+  }, {
+    "$id" : 22,
+    "label" : "nq240403_msg0022",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으, 으음……\n복귀하고 처음 그리는 작품인 만큼\n개성이 넘치는 분이 모델이었으면 좋겠는데……"
+  }, {
+    "$id" : 23,
+    "label" : "nq240403_msg0023",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "설마 그거까지 우리한테\n부탁하려는 건 아니지?"
+  }, {
+    "$id" : 24,
+    "label" : "nq240403_msg0024",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아뇨……\n당신들은 초상화의 주제로 삼기에는\n마음도, 힘도 너무 강하고 늠름해요"
+  }, {
+    "$id" : 25,
+    "label" : "nq240403_msg0025",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제가 지금 그리고 싶은 인물은……\n얼핏 보기엔 약하지만\n심지가 곧은 사람이에요"
+  }, {
+    "$id" : 26,
+    "label" : "nq240403_msg0026",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 6명이 아닌\n다른 사람을 그리고 싶다 이거야?"
+  }, {
+    "$id" : 27,
+    "label" : "nq240403_msg0027",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 지금까지 우리와 협력하기로 약속한\n군무장이나 동료들을 데려와 볼까?"
+  }, {
+    "$id" : 28,
+    "label" : "nq240403_msg0028",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그래 주시면 고맙죠!\n꼭 부탁드립니다!"
+  }, {
+    "$id" : 29,
+    "label" : "nq240403_msg0029",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어\n그럼 네가 마음에 들어 할 만한 인물을\n여기로 데려올게"
+  }, {
+    "$id" : 30,
+    "label" : "nq240403_msg0030",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 기다리고 있겠습니다!"
+  } ]
+}

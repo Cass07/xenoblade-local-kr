@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210106_msg0001",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어?!\n아, 아니, 진정하자, 진정해!\n여기에 군무장님이 계실 리가……!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210106_msg0002",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그렇군! 이건 환각인가!\n하긴 요즘 업무가 과하긴 했지!\n역시 너무 지쳤나 봐……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk210106_msg0003",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐, 군무장님의 건강한 모습을 다시 봤으니\n환각이든 뭐든 생각보다 나쁘진 않은걸……"
+  } ]
+}

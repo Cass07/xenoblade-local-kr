@@ -1,0 +1,493 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq230600_msg0001",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오호~ 타이밍 한번 좋네\n마침 제군들이 오는 걸 기다리고 있었거든"
+  }, {
+    "$id" : 2,
+    "label" : "nq230600_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……기분 탓인가?\n전에도 이런 적 있지 않았어?"
+  }, {
+    "$id" : 3,
+    "label" : "nq230600_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래…… 그리고 그 후엔 반드시\n우리가 원하지 않는 상황이 벌어지지"
+  }, {
+    "$id" : 4,
+    "label" : "nq230600_msg0004",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시작도 안 했는데 매정하게 굴긴……\n다른 사람도 아니고 너희들이라서\n권유하려고 했는데 말이야"
+  }, {
+    "$id" : 5,
+    "label" : "nq230600_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 권유?"
+  }, {
+    "$id" : 6,
+    "label" : "nq230600_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗, 바보야……!"
+  }, {
+    "$id" : 7,
+    "label" : "nq230600_msg0007",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은 질문이야!\n콜로니 연례행사 같은 건데 말이야\n이름하여……"
+  }, {
+    "$id" : 8,
+    "label" : "nq230600_msg0008",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"콜로니 11의 최강이 누구인지\n죽을 각오로 싸워서 결정하는 대회\"!!"
+  }, {
+    "$id" : 9,
+    "label" : "nq230600_msg0009",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어…… 뭐라고?"
+  }, {
+    "$id" : 10,
+    "label" : "nq230600_msg0010",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까~\n\"콜로니 11 모두와 함께\n즐겁게 붙어 보는 대회\"야"
+  }, {
+    "$id" : 11,
+    "label" : "nq230600_msg0011",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 방금 말한 거랑 다른데"
+  }, {
+    "$id" : 12,
+    "label" : "nq230600_msg0012",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "명칭은 접어두고……\n그 말은 콜로니 병사 전원이\n모의전을 한다는 거야?"
+  }, {
+    "$id" : 13,
+    "label" : "nq230600_msg0013",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 거의 그런 셈이지"
+  }, {
+    "$id" : 14,
+    "label" : "nq230600_msg0014",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다고 해도 모의전처럼 미적지근한\n훈련으론 우리 병사들이 만족하지 않겠지만"
+  }, {
+    "$id" : 15,
+    "label" : "nq230600_msg0015",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "특히 이번에는 너희가 있어서\n다들 좋은 의미로 살기가 어려 있어\n유례없을 정도로 의욕이 가득해"
+  }, {
+    "$id" : 16,
+    "label" : "nq230600_msg0016",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "살기에 좋고 나쁜 게 어딨어……"
+  }, {
+    "$id" : 17,
+    "label" : "nq230600_msg0017",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그만큼 제군들의 참가를 바란다는 거지\n부탁이야~ 이번 한 번만\n한 수 가르쳐 주는 셈으로 치자고?"
+  }, {
+    "$id" : 18,
+    "label" : "nq230600_msg0018",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너 혼자서 전부 상대하면 되잖아\n그런 거 좋아하지 않나?"
+  }, {
+    "$id" : 19,
+    "label" : "nq230600_msg0019",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 나는 참가 안 해"
+  }, {
+    "$id" : 20,
+    "label" : "nq230600_msg0020",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 설마 너……\n우리들한테 귀찮은 일을 떠맡기고\n먼발치에서 구경이나 할 생각이야?"
+  }, {
+    "$id" : 21,
+    "label" : "nq230600_msg0021",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그치만 누가 제일 강한지 정하는 대회인데\n최강인 내가 참가하면 의미 없잖아?"
+  }, {
+    "$id" : 22,
+    "label" : "nq230600_msg0022",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우와~ 엄청난 자신감……"
+  }, {
+    "$id" : 23,
+    "label" : "nq230600_msg0023",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런고로 이번에 한해서는\n평소처럼 같이 싸워 줄 수 없어"
+  }, {
+    "$id" : 24,
+    "label" : "nq230600_msg0024",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조력자로 다른 누군가를\n정해 줘야겠는데"
+  }, {
+    "$id" : 25,
+    "label" : "nq230600_msg0025",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예를 들면, 그래……"
+  }, {
+    "$id" : 26,
+    "label" : "nq230600_msg0026",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거기서 묘하게 인기척을 지우고 있는……\n아그누스의 군무장 나리라던가"
+  }, {
+    "$id" : 27,
+    "label" : "nq230600_msg0027",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어…… 시도 말이야?"
+  }, {
+    "$id" : 28,
+    "label" : "nq230600_msg0028",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠……?\n그건 또 어떻게 해서 나온 결론이죠?"
+  }, {
+    "$id" : 29,
+    "label" : "nq230600_msg0029",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 보기엔\n여느 군무장보다도\n훨씬 실력이 뛰어나 보여서 말이지"
+  }, {
+    "$id" : 30,
+    "label" : "nq230600_msg0030",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "과대평가로군요\n저는 수련이 부족한 일개 졸병입니다"
+  }, {
+    "$id" : 31,
+    "label" : "nq230600_msg0031",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "겸손 떠는 건 자유지\n하지만…… 나는 네가 적합해 보였을 뿐이야"
+  }, {
+    "$id" : 32,
+    "label" : "nq230600_msg0032",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……마치 거부권 같은 건\n처음부터 없던 것처럼 말씀하시는군요"
+  }, {
+    "$id" : 33,
+    "label" : "nq230600_msg0033",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 받아들여도 상관없어\n그쪽이 참가해 주기만 하면 되거든"
+  }, {
+    "$id" : 34,
+    "label" : "nq230600_msg0036",
+    "talker" : "3",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 뭐야 이 분위기는?"
+  }, {
+    "$id" : 35,
+    "label" : "nq230600_msg0037",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알겠습니다\n그렇게까지 부탁하신다면\n거절할 수 없겠네요"
+  }, {
+    "$id" : 36,
+    "label" : "nq230600_msg0038",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 생각했어\n모의전이 더욱 즐거워질 거라 생각하니\n정말 기쁜걸"
+  }, {
+    "$id" : 37,
+    "label" : "nq230600_msg0039",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 준비 끝나면 말해\n『먼발치』에서 제군들의\n건투를 빌어 주지"
+  }, {
+    "$id" : 38,
+    "label" : "nq230600_msg0040",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분, 이번에는 신세를 지게 되겠군요\n받아들인 이상 저도 전력을 다하겠습니다"
+  }, {
+    "$id" : 39,
+    "label" : "nq230600_msg0041",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 응 그렇네……"
+  }, {
+    "$id" : 40,
+    "label" : "nq230600_msg0042",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……야\n언제부터 참가하는 분위기가 된 거야?"
+  }, {
+    "$id" : 41,
+    "label" : "nq230600_msg0043",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 와서 말한들……"
+  }, {
+    "$id" : 42,
+    "label" : "nq230600_msg0126",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 감마의 군무장 나리는\n어떠려나?"
+  }, {
+    "$id" : 43,
+    "label" : "nq230600_msg0127",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시도 말이야?"
+  }, {
+    "$id" : 44,
+    "label" : "nq230600_msg0128",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐 기다려\n이번엔 또 뭘 꾸미려고?"
+  }, {
+    "$id" : 45,
+    "label" : "nq230600_msg0129",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 경계할 필요 없어\n이전부터 조금 관심이 있었던 것뿐이야"
+  }, {
+    "$id" : 46,
+    "label" : "nq230600_msg0130",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네가 그렇게 시치미 떼는 건\n대부분 뭔가 꿍꿍이가 있을 때잖아?"
+  }, {
+    "$id" : 47,
+    "label" : "nq230600_msg0131",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시, 유니야\n잘 알고 있네\n……조금 복잡한 기분이지만"
+  }, {
+    "$id" : 48,
+    "label" : "nq230600_msg0132",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 단순한 이야기야\n실력이 상당해 보여서 그랬어\n정말로 단지 그뿐이야"
+  }, {
+    "$id" : 49,
+    "label" : "nq230600_msg0133",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그건 그렇다 치고\n시도라면 받아들일지도 모르겠어"
+  }, {
+    "$id" : 50,
+    "label" : "nq230600_msg0134",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 다행이네!\n꼭 데려와 줬으면 좋겠어"
+  }, {
+    "$id" : 51,
+    "label" : "nq230600_msg0135",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……야\n언제부터 참가하는 분위기가 된 거야?"
+  }, {
+    "$id" : 52,
+    "label" : "nq230600_msg0136",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 와서 말한들……"
+  } ]
+}

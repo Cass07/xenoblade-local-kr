@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk712602_msg0001",
+    "talker" : "kl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "손주가 살아 있었어\n수용소에 갇혀 있었다는구나"
+  }, {
+    "$id" : 2,
+    "label" : "tlk712602_msg0002",
+    "talker" : "kl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 아이의 부모는 어릴 적에\n세상을 떠나서 내가 대신 돌봐 주었지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk712602_msg0003",
+    "talker" : "kl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "5년 동안 그 아이가 받은 고통을\n상상하면 마음이 괴롭지만……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk712602_msg0004",
+    "talker" : "kl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "돌아와 주었다는 사실이\n그 무엇보다도 기쁘구나"
+  } ]
+}

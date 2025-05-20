@@ -1,0 +1,223 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<FB5A1B0D>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "준비는 끝났어"
+  }, {
+    "$id" : 2,
+    "label" : "<BF1018E2>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 출발하자"
+  }, {
+    "$id" : 3,
+    "label" : "<44A658C8>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금부터 어떻게 진행할래모?"
+  }, {
+    "$id" : 4,
+    "label" : "<FB22B365>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갱도를 빠져나오고\n덤으로 수로에서도 꽤 떠내려왔잖아?"
+  }, {
+    "$id" : 5,
+    "label" : "<758DC023>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 지금 어디에 있는 건지\n솔직히 잘 모르겠단 말이지"
+  }, {
+    "$id" : 6,
+    "label" : "<C1CF3382>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거라면 걱정하지 마"
+  }, {
+    "$id" : 7,
+    "label" : "<3790EEF6>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이스루기 군무장님께서\n주변 지형 데이터를 제공해 주셨어"
+  }, {
+    "$id" : 8,
+    "label" : "<2A260A56>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오! 역시나~!"
+  }, {
+    "$id" : 9,
+    "label" : "<30C5F3A9>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "인비디아 산맥에서 흘러든 대량의 물이\n주변 지형을 복잡하게 만들었군……"
+  }, {
+    "$id" : 10,
+    "label" : "<159478D0>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "데이터를 보여 주며 설명하는 것보다\n내가 적절히 안내하는 쪽이\n낫지 않을까 싶은데……"
+  }, {
+    "$id" : 11,
+    "label" : "<95EA364E>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇겠지. 맡길게"
+  }, {
+    "$id" : 12,
+    "label" : "<F56FD6B3>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응!\n타이온이라면 확실하니까!"
+  }, {
+    "$id" : 13,
+    "label" : "<AC3D9EED>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기는 대폭포 하층쯤에 해당하는데……\n우선 중층을 향해 가자"
+  }, {
+    "$id" : 14,
+    "label" : "<BDE6231C>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 람다 위쪽으로\n가면 되는 거야?"
+  }, {
+    "$id" : 15,
+    "label" : "<7DFA82EC>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쉽게 말하자면 그렇지"
+  }, {
+    "$id" : 16,
+    "label" : "<5DAB56D0>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "중층으로 가려면\n바깥에서 올라가야 하니까"
+  }, {
+    "$id" : 17,
+    "label" : "<26C2F167>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어"
+  }, {
+    "$id" : 18,
+    "label" : "<7CADD37B>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "출발이에요모~"
+  }, {
+    "$id" : 19,
+    "label" : "<A73337D3>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아, 이스루기 군무장한테\n하고 싶었던 말은 다 전했어?"
+  }, {
+    "$id" : 20,
+    "label" : "<D1479E55>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……일단은"
+  }, {
+    "$id" : 21,
+    "label" : "<3A724786>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래\n그럼 다행인데……"
+  }, {
+    "$id" : 22,
+    "label" : "<29B66368>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가자"
+  } ]
+}

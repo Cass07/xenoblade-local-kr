@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk240401_msg0001",
+    "talker" : "@b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어머, 여행자 여러분\n어디 가시나요모?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk240401_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리비 평원에서\n남동쪽으로 나가려는데……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk240401_msg0003",
+    "talker" : "@b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 더 가면\n엘시 폭포가 보일 건데\n거길 오르면 레베 고원이 나와요모"
+  }, {
+    "$id" : 4,
+    "label" : "tlk240401_msg0004",
+    "talker" : "@b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "길이 상당히 험하겠지만\n모두 힘내세요모"
+  } ]
+}

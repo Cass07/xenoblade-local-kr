@@ -1,0 +1,340 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<A2075233>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……무슨 일이지? 회의 중인 걸까?"
+  }, {
+    "$id" : 2,
+    "label" : "<224FFCD4>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모못! 이, 이건……!"
+  }, {
+    "$id" : 3,
+    "label" : "<B5B705EB>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이노의 노폰 트러블 센서가\n삐삐 울리고 있어요모!"
+  }, {
+    "$id" : 4,
+    "label" : "<0ECFC537>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명 큰일이 난 거예요모! 주인님!\n빨리 가서 물어봐야 해요모!"
+  }, {
+    "$id" : 5,
+    "label" : "<6D6632CD>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 어…… 그래\n일단 물어나 볼까?"
+  }, {
+    "$id" : 6,
+    "label" : "<0B4EF903>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모못! 이노 님이시군요모!\n거기에 일행분들까지모!"
+  }, {
+    "$id" : 7,
+    "label" : "<27117E0C>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아까는 왜 모여 있었어?"
+  }, {
+    "$id" : 8,
+    "label" : "<F7C370E8>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카라반 긴급회의입니다모"
+  }, {
+    "$id" : 9,
+    "label" : "<1127BDCC>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카라반 전체의 문제가 생기면\n대표끼리 미팅을 하는 게 관례거든요모"
+  }, {
+    "$id" : 10,
+    "label" : "<76F87874>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그 말은\n뭔가 문제가 생겼다는 말이네"
+  }, {
+    "$id" : 11,
+    "label" : "<9D14E547>",
+    "talker" : "dp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어머나, 눈치도 좋다니까모\n정말 난리도 이런 난리가 없어모~"
+  }, {
+    "$id" : 12,
+    "label" : "<1C932335>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰의 문제는 이노의 문제예요모!\n부디 이야기를 들려 주세요모!"
+  }, {
+    "$id" : 13,
+    "label" : "<24491BAB>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모~! 역시 이노 님!\n정말 듬직하십니다모!"
+  }, {
+    "$id" : 14,
+    "label" : "<37266559>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……하지만 이번 일은\n백 년에 한 번 있을까 말까 하는 문제입니다모\n왜냐하면……"
+  }, {
+    "$id" : 15,
+    "label" : "<83BBA107>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 노폰의 천적……\n\"노폰 이터\"가 나타났기 때문이죠모!"
+  }, {
+    "$id" : 16,
+    "label" : "<FFABF3B9>",
+    "talker" : "V",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그럴 수가!"
+  }, {
+    "$id" : 17,
+    "label" : "<9FF3E374>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰……"
+  }, {
+    "$id" : 18,
+    "label" : "<80B58DF3>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이터?"
+  }, {
+    "$id" : 19,
+    "label" : "<AF576DC0>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 노폰 이터라는 게 뭔데?"
+  }, {
+    "$id" : 20,
+    "label" : "<D4294006>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰 이터는\n이름 그대로 노폰만 습격하는\n완전 극악한 몬스터예요모!!"
+  }, {
+    "$id" : 21,
+    "label" : "<B56065C3>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이노에게는 숙적 중의 숙적!\n숙명의 상대라는 거죠모!"
+  }, {
+    "$id" : 22,
+    "label" : "<19BF738A>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아까 미팅에서 듣기로는\n모르크나 대삼림의 카라반에서\n그 녀석의 목격 정보가 있었다더군요모"
+  }, {
+    "$id" : 23,
+    "label" : "<28025E37>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이미 날름 삼켜진\n노폰도 있다던가 없다던가……\n모모모모……"
+  }, {
+    "$id" : 24,
+    "label" : "<9BA14BB0>",
+    "talker" : "dp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무서워서 못 살겠어모!\n밤중에 화장실을 못 가겠다니까모!"
+  }, {
+    "$id" : 25,
+    "label" : "<4957333F>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음! 엄청난 사태군요모!\n하지만! 장소를 알아냈으니\n이제 끝난 거나 다름없어요모!"
+  }, {
+    "$id" : 26,
+    "label" : "<D1EFE136>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방금 들으신 대로입니다모! 주인님!\n그냥 두면 노폰이 멸종 위기에 처할 거예요모!"
+  }, {
+    "$id" : 27,
+    "label" : "<7DFA1BDB>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금이야말로 이노가 나설 차례예요모!\n노폰 여러분을 대신해서\n노폰 이터를 날려 버려요모!"
+  }, {
+    "$id" : 28,
+    "label" : "<9B35B7E8>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 내버려 두면 안 되겠네\n우리가 어떻게든 해결하자"
+  }, {
+    "$id" : 29,
+    "label" : "<7133BE2E>",
+    "talker" : "dp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 고맙구나모!\n하지만 떠넘긴 것 같아서\n약간 미안한 기분도 드네모……"
+  }, {
+    "$id" : 30,
+    "label" : "<7FFC6DE1>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 말씀이세요모!\n여러분을 위험에 노출시킨\n이노야말로 죄송할 따름인걸요모!"
+  }, {
+    "$id" : 31,
+    "label" : "<42028CC1>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이노는 노폰의 수호자로서\n만들어진 인공 블레이드예요모!\n그러니 전혀 신경 쓰지 않으셔도 괜찮아요모!"
+  }, {
+    "$id" : 32,
+    "label" : "<80EC87C0>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 우리는 모르크나 대삼림의\n어디로 가면 되는 거야?"
+  }, {
+    "$id" : 33,
+    "label" : "<58389CA2>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 엔다드 고개에 있는 카라반으로 가서\n케하케바를 만나 보시는 게 좋겠네요모\n케하케바가 최초 목격자인 듯합니다모"
+  }, {
+    "$id" : 34,
+    "label" : "<F217E7A6>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어요모! 케하케바 님이라면\n예전에 짐 운반을 돕던 사이예요모!"
+  }, {
+    "$id" : 35,
+    "label" : "<7E6B7779>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 엔다드 고개로 출발하자"
+  } ]
+}

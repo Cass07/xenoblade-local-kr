@@ -1,0 +1,43 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk112203_msg0001",
+    "talker" : "qX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 9이 살기 참 편하네\n모두와 친하게 지낼 수 있을 것 같아"
+  }, {
+    "$id" : 2,
+    "label" : "tlk112203_msg0002",
+    "talker" : "qX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다 함께 밭을 가는 게\n싸우는 것보다 훨씬 좋아\n지금껏 왜 집착했는지 이해가 안 될 정도야"
+  } ]
+}

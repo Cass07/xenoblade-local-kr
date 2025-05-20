@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120404_msg0001",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후츠 녀석은 가끔 훌쩍\n사라질 때가 있어요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120404_msg0002",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "심지어 돌아와서 보면\n온몸이 상처투성이인데\n이유를 물으면 얼버무리기만 하고……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120404_msg0003",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무모한 짓을 저지르는 빈도가\n키리에랑 맞먹는다니까요, 정말……"
+  } ]
+}

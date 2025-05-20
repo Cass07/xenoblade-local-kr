@@ -1,0 +1,457 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002102_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방금 그건…… 케베스 병사지?"
+  }, {
+    "$id" : 2,
+    "label" : "tq002102_msg0002",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 제대로 봤어\n이 앞에 있는 콜로니 11의 전투 부대야"
+  }, {
+    "$id" : 3,
+    "label" : "tq002102_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보아하니 그쪽도\n케베스 병사 같은데?"
+  }, {
+    "$id" : 4,
+    "label" : "tq002102_msg0004",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 나 말이야?"
+  }, {
+    "$id" : 5,
+    "label" : "tq002102_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네 정체는 뭐지?\n어느 콜로니에서 온 거야?"
+  }, {
+    "$id" : 6,
+    "label" : "tq002102_msg0006",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음…… 그래\n굳이 말하자면……"
+  }, {
+    "$id" : 7,
+    "label" : "tq002102_msg0007",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방금 우리를 습격한\n콜로니 11의 군무장쯤 되지?"
+  }, {
+    "$id" : 8,
+    "label" : "tq002102_msg0008a",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흐음, 그렇구나……"
+  }, {
+    "$id" : 9,
+    "label" : "tq002102_msg0008b",
+    "talker" : "6",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐어?!"
+  }, {
+    "$id" : 10,
+    "label" : "tq002102_msg0009",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으응?"
+  }, {
+    "$id" : 11,
+    "label" : "tq002102_msg0010",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장이라고~?!"
+  }, {
+    "$id" : 12,
+    "label" : "tq002102_msg0011",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 아니, 잠깐만 기다려 봐\n콜로니 11에다 군무장이라면……"
+  }, {
+    "$id" : 13,
+    "label" : "tq002102_msg0012",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신…… \"능검의 아셰라\"야?!"
+  }, {
+    "$id" : 14,
+    "label" : "tq002102_msg0013",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "능검? 그게 뭔데?\n유명해?"
+  }, {
+    "$id" : 15,
+    "label" : "tq002102_msg0014",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적어도 케베스에 있는 디펜더 중에선\n모르는 사람이 없을 정도로 유명해"
+  }, {
+    "$id" : 16,
+    "label" : "tq002102_msg0015",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 랭크 \"실버\"의 군무장……\n틀림없이 케베스 최강자 중 한 명이야"
+  }, {
+    "$id" : 17,
+    "label" : "tq002102_msg0016",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하던 이야기를 마저 하자면……\n즉, 너는 같은 편인 콜로니한테\n습격당했다는 건가?"
+  }, {
+    "$id" : 18,
+    "label" : "tq002102_msg0017",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 그렇다고 볼 수 있지"
+  }, {
+    "$id" : 19,
+    "label" : "tq002102_msg0018",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그런 일이……"
+  }, {
+    "$id" : 20,
+    "label" : "tq002102_msg0019",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 이쪽도 여러모로 사정이 있거든\n그렇게 됐으니까……"
+  }, {
+    "$id" : 21,
+    "label" : "tq002102_msg0020",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금부터 콜로니 11을 함락시키러 갈 거야!\n너희도 같이 갈래?"
+  }, {
+    "$id" : 22,
+    "label" : "tq002102_msg0021",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐? 같이 가다니……"
+  }, {
+    "$id" : 23,
+    "label" : "tq002102_msg0022",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 왜 이야기가 그렇게 되는데!\n여러모로 이상하잖아!"
+  }, {
+    "$id" : 24,
+    "label" : "tq002102_msg0023",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상대는 같은 콜로니 동료잖아?\n그런데도 굳이 싸우러 가겠다고?"
+  }, {
+    "$id" : 25,
+    "label" : "tq002102_msg0024",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 이런 전장은 정말 드물거든\n이쪽도 해치우는 보람이 있다 이거지"
+  }, {
+    "$id" : 26,
+    "label" : "tq002102_msg0025",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고…… 공격당하기만 하는 건\n성미에 안 맞아"
+  }, {
+    "$id" : 27,
+    "label" : "tq002102_msg0026",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무엇보다…… 재미가 없어"
+  }, {
+    "$id" : 28,
+    "label" : "tq002102_msg0027",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 뜻으로\n한 말이 아닌데……"
+  }, {
+    "$id" : 29,
+    "label" : "tq002102_msg0028",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "애초에 왜 우리가……?"
+  }, {
+    "$id" : 30,
+    "label" : "tq002102_msg0029",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜? 그야 너희들……\n그 유명한 우로보로스잖아?"
+  }, {
+    "$id" : 31,
+    "label" : "tq002102_msg0030",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어?! 알고 있었어……?"
+  }, {
+    "$id" : 32,
+    "label" : "tq002102_msg0031",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐, 여왕님이 직접 통지한 거 몰라?\n군무장 중에는 모르는 사람이 없다고"
+  }, {
+    "$id" : 33,
+    "label" : "tq002102_msg0032",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "듣자 하니 생명의 불시계를\n파괴하고 다니는 반역자들이라며?"
+  }, {
+    "$id" : 34,
+    "label" : "tq002102_msg0033",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 짓 안…… 하지는 않았지만\n좋아서 한 것도 아니야"
+  }, {
+    "$id" : 35,
+    "label" : "tq002102_msg0034",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신도 쫓기는 신세인 거지?\n목적이 뭐야?"
+  }, {
+    "$id" : 36,
+    "label" : "tq002102_msg0035",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하\n그야 당연한 거 아냐?"
+  }, {
+    "$id" : 37,
+    "label" : "tq002102_msg0036",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전장에서 해야 할 일은\n둘 중에 하나……"
+  }, {
+    "$id" : 38,
+    "label" : "tq002102_msg0037",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "싸워서 살아남느냐, 아니면 싸워서 죽느냐지……"
+  }, {
+    "$id" : 39,
+    "label" : "tq002102_msg0038",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 40,
+    "label" : "tq002102_msg0039",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "순수한 목숨의 쟁탈전에서는\n적군도, 아군도 없어"
+  }, {
+    "$id" : 41,
+    "label" : "tq002102_msg0040",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쓰러뜨리는 쪽이든\n쓰러지는 쪽이든…… 똑같지"
+  }, {
+    "$id" : 42,
+    "label" : "tq002102_msg0041",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희도 병사라면 알 텐데?\n모두를 적으로 돌린 반역자라면 더더욱"
+  }, {
+    "$id" : 43,
+    "label" : "tq002102_msg0042",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 우리는\n그럴 생각이……!"
+  }, {
+    "$id" : 44,
+    "label" : "tq002102_msg0043",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……농담이야, 사람마다 생각이 다르니까\n억지로 끌어들이진 않을 거야"
+  }, {
+    "$id" : 45,
+    "label" : "tq002102_msg0044",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래도…… 만약 관심이 생긴다면\n\"내 전장\"에 와 봐"
+  }, {
+    "$id" : 46,
+    "label" : "tq002102_msg0045",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 11은 너희를 환영할걸?\n……여러 의미로 말이지"
+  }, {
+    "$id" : 47,
+    "label" : "tq002102_msg0046",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐야, 저 녀석\n우리더러 뭐 어떡하라는 건데?"
+  }, {
+    "$id" : 48,
+    "label" : "tq002102_msg0047",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게, 어쩌라는 걸까……"
+  } ]
+}

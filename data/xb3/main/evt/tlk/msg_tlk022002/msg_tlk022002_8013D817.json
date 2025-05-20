@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk022002_msg0001",
+    "talker" : "oV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 얼빠진 표정은 뭐야?\n설마 지쳤다는 소린 안 하겠지?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk022002_msg0002",
+    "talker" : "oV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잰슨 녀석도 그렇고\n어설픈 것들이 너무 많다니까"
+  }, {
+    "$id" : 3,
+    "label" : "tlk022002_msg0003",
+    "talker" : "oV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "배에 힘 꽉 주고\n각오를 다지란 말이야!"
+  } ]
+}

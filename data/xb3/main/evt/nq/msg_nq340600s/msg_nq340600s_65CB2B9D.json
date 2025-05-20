@@ -1,0 +1,142 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq340600_msg0001",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분위기가 심상치 않은데?"
+  }, {
+    "$id" : 2,
+    "label" : "nq340600_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티에서 호출했다는 얘기를\n하는 것 같았어"
+  }, {
+    "$id" : 3,
+    "label" : "nq340600_msg0003",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 데이나도 언급됐어……\n설마 그 일의 책임을 지게 하려는 걸까?"
+  }, {
+    "$id" : 4,
+    "label" : "nq340600_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 되면 이쪽 녀석들도 반발할 거고\n싸움으로 번질 가능성도 있을 텐데?"
+  }, {
+    "$id" : 5,
+    "label" : "nq340600_msg0005",
+    "talker" : "Q",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄, 그건 모르지"
+  }, {
+    "$id" : 6,
+    "label" : "nq340600_msg0006",
+    "talker" : "3",
+    "talkattr" : 33104,
+    "talkattr2" : 60833921,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔가 알고 있는 얼굴인데?\n알고 있는 거 맞지?!"
+  }, {
+    "$id" : 7,
+    "label" : "nq340600_msg0007",
+    "talker" : "Q",
+    "talkattr" : 33064,
+    "talkattr2" : 12599425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 뭐라고 말 못 해\n그래도 뭐, 손해는 없을걸?"
+  }, {
+    "$id" : 8,
+    "label" : "nq340600_msg0008",
+    "talker" : "2",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……싸우진 않을 거야"
+  }, {
+    "$id" : 9,
+    "label" : "nq340600_msg0009",
+    "talker" : "2",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시키랑…… 곤도도 있고\n다퉈 봐야 슬픔만 생겨난다는 건\n모두 알고 있을 테니까"
+  }, {
+    "$id" : 10,
+    "label" : "nq340600_msg0010",
+    "talker" : "Q",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혹시 모르지\n뒤늦게 싸움이 벌어지는 일도 꽤 있잖아?"
+  }, {
+    "$id" : 11,
+    "label" : "nq340600_msg0011",
+    "talker" : "3",
+    "talkattr" : 33072,
+    "talkattr2" : 60833921,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너 자꾸 불길한 소리 할래?"
+  }, {
+    "$id" : 12,
+    "label" : "nq340600_msg0012",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무튼 시키에게 사정을 들어 보는 게\n가장 빠를 거 같아"
+  }, {
+    "$id" : 13,
+    "label" : "nq340600_msg0013",
+    "talker" : "2",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 그러자"
+  } ]
+}

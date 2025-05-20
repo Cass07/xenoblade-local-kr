@@ -1,0 +1,628 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq010807_msg0001",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "흠, 이만큼 있으면 충분하겠구먼모"
+  }, {
+    "$id" : 2,
+    "label" : "tq010807_msg0002",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "어디에 쓸 거예요모?"
+  }, {
+    "$id" : 3,
+    "label" : "tq010807_msg0003",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "자네의 요리에는 도구와\n기술과 영혼이 부족하네모"
+  }, {
+    "$id" : 4,
+    "label" : "tq010807_msg0004",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "부족한 게 늘어났어요모!"
+  }, {
+    "$id" : 5,
+    "label" : "tq010807_msg0005a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "재료를 살리기 위해 조미료를 쓰는 것처럼"
+  }, {
+    "$id" : 6,
+    "label" : "tq010807_msg0005b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "기술을 살리기 위해 필요한 것이 있는 걸세모"
+  }, {
+    "$id" : 7,
+    "label" : "tq010807_msg0006",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그걸 가르쳐 주시는 거예요모?"
+  }, {
+    "$id" : 8,
+    "label" : "tq010807_msg0007",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래모\n조금만 기다려 보게모"
+  }, {
+    "$id" : 9,
+    "label" : "tq010807_msg0008",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]흐아암……"
+  }, {
+    "$id" : 10,
+    "label" : "tq010807_msg0009",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "대체 얼마나 더 걸리는 거야모?\n설마 전부 들고 달아난 건 아니겠지모?"
+  }, {
+    "$id" : 11,
+    "label" : "tq010807_msg0010a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "누가 전부 들고 달아난다는 게냐모"
+  }, {
+    "$id" : 12,
+    "label" : "tq010807_msg0010b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나는 의리와 노폰정으로 산다네모"
+  }, {
+    "$id" : 13,
+    "label" : "tq010807_msg0011",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이제 안 나오는 줄 알았어요모……"
+  }, {
+    "$id" : 14,
+    "label" : "tq010807_msg0012",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나이가 들면 졸음을 이길 수 없지모\n밤샘은 꿈도 못 꾼다네모"
+  }, {
+    "$id" : 15,
+    "label" : "tq010807_msg0013",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "설마 자느라 시간이 걸렸어모?"
+  }, {
+    "$id" : 16,
+    "label" : "tq010807_msg0014",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래모"
+  }, {
+    "$id" : 17,
+    "label" : "tq010807_msg0015",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "덕분에 좋은 물건이 나왔지모"
+  }, {
+    "$id" : 18,
+    "label" : "tq010807_msg0016",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "모못?! 이건?!"
+  }, {
+    "$id" : 19,
+    "label" : "tq010807_msg0017",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "냄비일세모"
+  }, {
+    "$id" : 20,
+    "label" : "tq010807_msg0018",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그런 건 마나나도 가지고 있어모"
+  }, {
+    "$id" : 21,
+    "label" : "tq010807_msg0019",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "멀었군모. 한참 멀었어모"
+  }, {
+    "$id" : 22,
+    "label" : "tq010807_msg0020",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "부족한 부분을 채우려면\n그 냄비론 모자라다네모"
+  }, {
+    "$id" : 23,
+    "label" : "tq010807_msg0021",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "노폰 인증을 받은 튼튼한 냄비인데요모"
+  }, {
+    "$id" : 24,
+    "label" : "tq010807_msg0022",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "사용자가 도구를 고르듯이\n도구 또한 사용자를 고른다네모"
+  }, {
+    "$id" : 25,
+    "label" : "tq010807_msg0023a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그 냄비는 자네가 전투에 쓰다 보니 변형돼서"
+  }, {
+    "$id" : 26,
+    "label" : "tq010807_msg0023b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "조금씩 요리에 맞지 않게 돼 버린 게야모"
+  }, {
+    "$id" : 27,
+    "label" : "tq010807_msg0024",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "모모못?!\n그랬던 거예요모?!"
+  }, {
+    "$id" : 28,
+    "label" : "tq010807_msg0025",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "자네가 왜 냄비를 전투에 사용하는지\n나로선 이해하기 힘드네만모"
+  }, {
+    "$id" : 29,
+    "label" : "tq010807_msg0026",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "하지만 그보다……"
+  }, {
+    "$id" : 30,
+    "label" : "tq010807_msg0027",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그만한 요리 실력을 지녔음에도\n도구에 무심하다니 용서가 안 되네모!"
+  }, {
+    "$id" : 31,
+    "label" : "tq010807_msg0028",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……확실히 이 냄비는\n손에 착 감겨요모"
+  }, {
+    "$id" : 32,
+    "label" : "tq010807_msg0029a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "불에 달구면 더 잘 길들 걸세모"
+  }, {
+    "$id" : 33,
+    "label" : "tq010807_msg0029b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "싸울 때 써도 형태가 바뀌지 않을 게야모"
+  }, {
+    "$id" : 34,
+    "label" : "tq010807_msg0030",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그, 그런 냄비를 주시는 건가요모?"
+  }, {
+    "$id" : 35,
+    "label" : "tq010807_msg0031a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "자네의 요리는 나쁘지 않았네모"
+  }, {
+    "$id" : 36,
+    "label" : "tq010807_msg0031b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "다만 도구가 자네의 힘을 따라가질 못했지……"
+  }, {
+    "$id" : 37,
+    "label" : "tq010807_msg0032",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그러면 요리도 냄비도 아깝지 않으냐모"
+  }, {
+    "$id" : 38,
+    "label" : "tq010807_msg0033",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아~ 그래서 기술이랑 도구가\n부족하다고 했구나?"
+  }, {
+    "$id" : 39,
+    "label" : "tq010807_msg0034a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그렇지모. 그걸 느낄 수 있는지 없는지는"
+  }, {
+    "$id" : 40,
+    "label" : "tq010807_msg0034b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "기술과 요리에 얼마나 애정이 있느냐에 달렸다네모"
+  }, {
+    "$id" : 41,
+    "label" : "tq010807_msg0035a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "요리는……"
+  }, {
+    "$id" : 42,
+    "label" : "tq010807_msg0035b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "안 가르쳐 주는 거야?"
+  }, {
+    "$id" : 43,
+    "label" : "tq010807_msg0036",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그건 또 무슨 말이냐모\n나는 요리 같은 건 거의 할 줄 모른다네모"
+  }, {
+    "$id" : 44,
+    "label" : "tq010807_msg0037",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "전설의 요리사라 불린다고 들었는데모"
+  }, {
+    "$id" : 45,
+    "label" : "tq010807_msg0038a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나는 새로운 조리 도구가 완성될 때마다"
+  }, {
+    "$id" : 46,
+    "label" : "tq010807_msg0038b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "음식을 대접해 도구의 상태를 살펴봤을 뿐일세모"
+  }, {
+    "$id" : 47,
+    "label" : "tq010807_msg0039",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "모모?! 그럼 전설의 요리사는\n없다는 거야모?!"
+  }, {
+    "$id" : 48,
+    "label" : "tq010807_msg0040",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나를 그렇게 부르는 노폰이 있다는 건\n알고 있었네모"
+  }, {
+    "$id" : 49,
+    "label" : "tq010807_msg0041a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "하지만 나는 그걸 부정하지 않았지……"
+  }, {
+    "$id" : 50,
+    "label" : "tq010807_msg0041b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그뿐일세모"
+  }, {
+    "$id" : 51,
+    "label" : "tq010807_msg0042",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭐야, 그건…… 괜히 남들 오해하게"
+  }, {
+    "$id" : 52,
+    "label" : "tq010807_msg0043a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "칭찬해 주니 기뻤단 말일세모!"
+  }, {
+    "$id" : 53,
+    "label" : "tq010807_msg0043b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "방랑자 같아서 멋있었단 말일세모!"
+  }, {
+    "$id" : 54,
+    "label" : "tq010807_msg0044",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "으어…… 뭐 이런 녀석이……"
+  }, {
+    "$id" : 55,
+    "label" : "tq010807_msg0045a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "란츠 씨, 마나나라면 괜찮아요모"
+  }, {
+    "$id" : 56,
+    "label" : "tq010807_msg0045b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이 냄비를 받고 깨달았어요모"
+  }, {
+    "$id" : 57,
+    "label" : "tq010807_msg0046",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "가장 좋은 요리를 만들려면\n가장 좋은 도구가 필요하다는 사실을……"
+  }, {
+    "$id" : 58,
+    "label" : "tq010807_msg0047",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "탄조 씨를 만나지 않았다면\n마나나는 평생 몰랐을 거예요모!"
+  }, {
+    "$id" : 59,
+    "label" : "tq010807_msg0048",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그것만으로도\n스승님이라고 부르고 싶을 정도예요모!"
+  }, {
+    "$id" : 60,
+    "label" : "tq010807_msg0049a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "게다가 지금은……"
+  }, {
+    "$id" : 61,
+    "label" : "tq010807_msg0049b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "빨리 요리하고 싶어서 근질거려요모!"
+  }, {
+    "$id" : 62,
+    "label" : "tq010807_msg0050a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "불로 시간을 들여 냄비를 길들이게모"
+  }, {
+    "$id" : 63,
+    "label" : "tq010807_msg0050b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그럼 자네의 요리는 한층 더 빛날 게야모"
+  }, {
+    "$id" : 64,
+    "label" : "tq010807_msg0051",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "알겠어요모!\n기술과 영혼이에요모!"
+  }, {
+    "$id" : 65,
+    "label" : "tq010807_msg0052",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그리고 기합과 근성도 빼먹지 말고!"
+  }, {
+    "$id" : 66,
+    "label" : "tq010807_msg0053",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "너무 많이 늘어났잖아……"
+  }, {
+    "$id" : 67,
+    "label" : "tq010807_msg0054",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "모모모~ 의욕이 샘솟아요모!"
+  } ]
+}

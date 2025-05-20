@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330353_msg0001",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꽃이 시들시들했을 때도\n책을 읽고 해결했어모"
+  }, {
+    "$id" : 2,
+    "label" : "nq330353_msg0002",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그치만 전쟁 때문에 불타 버렸어모……\n아름다운 게 사라지면 슬퍼모"
+  }, {
+    "$id" : 3,
+    "label" : "nq330353_msg0101",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "비 부르는 노폰을 알아모?\n춤을 춰서 비를 내리는 굉장한 노폰이야모"
+  }, {
+    "$id" : 4,
+    "label" : "nq330353_msg0102",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꽃이 바싹바싹 마를 때\n구구도 가끔 부르곤 해모"
+  }, {
+    "$id" : 5,
+    "label" : "nq330353_msg0103",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 공물이 없으면\n아무것도 안 해 줘모……"
+  }, {
+    "$id" : 6,
+    "label" : "nq330353_msg0201",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아르마가 늘어나는 게 기대돼모\n음식도 많아지고 맛있어질 거야모!"
+  }, {
+    "$id" : 7,
+    "label" : "nq330353_msg0202",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "렌게 씨가 약속해 줬어모~\n너무 기대돼서 배가 계속 꼬르륵거려모!"
+  } ]
+}

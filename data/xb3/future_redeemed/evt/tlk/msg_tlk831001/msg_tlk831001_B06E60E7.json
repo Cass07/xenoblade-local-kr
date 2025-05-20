@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831001_msg0001",
+    "talker" : "qq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 바깥에서는\n가끔 망가진 사다리나 승강기가\n남아 있는 걸 볼 수 있잖아요……?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831001_msg0002",
+    "talker" : "qq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 자리에서 수리하면\n다시 사용할 수 있는 경우도 있으니\n한번 시도해 보세요"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831001_msg0003",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 그거 말이지?\n니콜이 고쳐 줬어"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831001_msg0004",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 승강기를 고쳤지"
+  }, {
+    "$id" : 5,
+    "label" : "tlk831001_msg0005",
+    "talker" : "qq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇군요\n역시 제 조언 같은 건 필요 없었네요\n죄송합니다……"
+  }, {
+    "$id" : 6,
+    "label" : "tlk831001_msg0006",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 아니……\n어쩐지 미안하네……"
+  } ]
+}

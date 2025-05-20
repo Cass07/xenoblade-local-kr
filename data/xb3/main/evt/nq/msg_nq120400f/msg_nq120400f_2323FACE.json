@@ -1,0 +1,223 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120400_msg0001",
+    "talker" : "pa1",
+    "talkattr" : 33113,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "못, 모모오오오?!"
+  }, {
+    "$id" : 2,
+    "label" : "nq120400_msg0101",
+    "talker" : "H",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 일이야? 레파파!"
+  }, {
+    "$id" : 3,
+    "label" : "nq120400_msg0201",
+    "talker" : "3",
+    "talkattr" : 33105,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야?!"
+  }, {
+    "$id" : 4,
+    "label" : "nq120400_msg0301",
+    "talker" : "pa1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "못, 못"
+  }, {
+    "$id" : 5,
+    "label" : "nq120400_msg0302",
+    "talker" : "5",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗, 메카 친구?!"
+  }, {
+    "$id" : 6,
+    "label" : "nq120400_msg0303",
+    "talker" : "6",
+    "talkattr" : 33128,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세상에\n어쩌다 이렇게……"
+  }, {
+    "$id" : 7,
+    "label" : "nq120400_msg0304",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 조각나 있는 건\n정비 중이라서 그래모"
+  }, {
+    "$id" : 8,
+    "label" : "nq120400_msg0305",
+    "talker" : "5",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "놀라게 좀 하지 마!"
+  }, {
+    "$id" : 9,
+    "label" : "nq120400_msg0306",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희가 멋대로 오해한 거잖아모!"
+  }, {
+    "$id" : 10,
+    "label" : "nq120400_msg0307",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 왜 그렇게 허둥댄 거야?"
+  }, {
+    "$id" : 11,
+    "label" : "nq120400_msg0308",
+    "talker" : "pa1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모못! 그건……"
+  }, {
+    "$id" : 12,
+    "label" : "nq120400_msg0309",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "메카 친구의 부품이\n몇 개 부족해서 그래모"
+  }, {
+    "$id" : 13,
+    "label" : "nq120400_msg0310",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레파파 씨가\n잃어버린 건가요모?"
+  }, {
+    "$id" : 14,
+    "label" : "nq120400_msg0311",
+    "talker" : "pa1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모모! 너희들과\n대화하기 전까지만 해도\n분명히 전부 다 있었어모!!"
+  }, {
+    "$id" : 15,
+    "label" : "nq120400_msg0312",
+    "talker" : "pa1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으…… 어떡하지모"
+  }, {
+    "$id" : 16,
+    "label" : "nq120400_msg0313",
+    "talker" : "pa1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "메카 친구는\n드루크 건조에 필수야모"
+  }, {
+    "$id" : 17,
+    "label" : "nq120400_msg0314",
+    "talker" : "pa1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가……"
+  }, {
+    "$id" : 18,
+    "label" : "nq120400_msg0401",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디……"
+  }, {
+    "$id" : 19,
+    "label" : "nq120400_msg0402",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮아!\n메카 친구가 부서진 건 아니니까"
+  }, {
+    "$id" : 20,
+    "label" : "nq120400_msg0501",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이대로 놔두면\n루디가 슬퍼할 거야"
+  }, {
+    "$id" : 21,
+    "label" : "nq120400_msg0601",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혹시 누군가 실수로\n부품을 가져갔을 가능성은 없을까?"
+  }, {
+    "$id" : 22,
+    "label" : "nq120400_msg0602",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬을지도 몰라\n콜로니 사람들한테 물어보자"
+  } ]
+}

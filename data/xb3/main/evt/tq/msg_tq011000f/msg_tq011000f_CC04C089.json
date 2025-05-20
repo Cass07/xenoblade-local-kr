@@ -1,0 +1,466 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011000_msg0001",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔가…… 사람들이 많네"
+  }, {
+    "$id" : 2,
+    "label" : "tq011000_msg0002",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요리 콘테스트가 열린다고 하던데\n그걸 준비하는 거 같아"
+  }, {
+    "$id" : 3,
+    "label" : "tq011000_msg0003",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모! 요리 콘테스트라고요모?!"
+  }, {
+    "$id" : 4,
+    "label" : "tq011000_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 참가할 수 있나?"
+  }, {
+    "$id" : 5,
+    "label" : "tq011000_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어? 란츠, 요리할 줄도 알았어?!"
+  }, {
+    "$id" : 6,
+    "label" : "tq011000_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 내가 만들지는 않을 건데\n먹고 싶잖아, 콘테스트 요리!"
+  }, {
+    "$id" : 7,
+    "label" : "tq011000_msg0007",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그건 나도 그래!"
+  }, {
+    "$id" : 8,
+    "label" : "tq011000_msg0008",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안녕, 젊은이들"
+  }, {
+    "$id" : 9,
+    "label" : "tq011000_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 트래비스…… 모니카\n요리 콘테스트가 열린다면서?"
+  }, {
+    "$id" : 10,
+    "label" : "tq011000_msg0010",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 연례행사 같은 거지"
+  }, {
+    "$id" : 11,
+    "label" : "tq011000_msg0011",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시국이 이렇다 보니\n맘 편히 밖으로 나가지도 못하잖아?"
+  }, {
+    "$id" : 12,
+    "label" : "tq011000_msg0012",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다고 매일 같은 곳에만 있자니\n숨도 막히고 말이야"
+  }, {
+    "$id" : 13,
+    "label" : "tq011000_msg0013",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 것들을 풀 자리가\n필요하다고 생각해서\n이렇게 정기적으로 행사를 여는 거야"
+  }, {
+    "$id" : 14,
+    "label" : "tq011000_msg0014",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마침 잘됐네. 너희도 참가해 볼래?"
+  }, {
+    "$id" : 15,
+    "label" : "tq011000_msg0015",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "먹는 쪽이야?!"
+  }, {
+    "$id" : 16,
+    "label" : "tq011000_msg0016",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 아쉽게도 심사 위원은 추첨을 하거든\n이번 심사 위원은 이미 다 뽑았고 말이야"
+  }, {
+    "$id" : 17,
+    "label" : "tq011000_msg0017",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐 그래도\n콘테스트에서 우승한 요리는\n관객들에게도 대접해 줄 거야"
+  }, {
+    "$id" : 18,
+    "label" : "tq011000_msg0018",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 만드는 쪽……이라는 거네?"
+  }, {
+    "$id" : 19,
+    "label" : "tq011000_msg0019",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네! 할게요모!\n마나나 참가할게요모!!"
+  }, {
+    "$id" : 20,
+    "label" : "tq011000_msg0020",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요리 하면 마나나지"
+  }, {
+    "$id" : 21,
+    "label" : "tq011000_msg0021",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아요모~!"
+  }, {
+    "$id" : 22,
+    "label" : "tq011000_msg0022",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저도……!"
+  }, {
+    "$id" : 23,
+    "label" : "tq011000_msg0023",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "참가해 보고 싶어요!"
+  }, {
+    "$id" : 24,
+    "label" : "tq011000_msg0024",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기세 좋은걸\n둘 다 대환영이야"
+  }, {
+    "$id" : 25,
+    "label" : "tq011000_msg0025",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이러면 보스도 질 수 없겠는데요?"
+  }, {
+    "$id" : 26,
+    "label" : "tq011000_msg0026",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게나 말이야, 트래비스\n럭키 스파이스의 조달은 너한테 맡길게"
+  }, {
+    "$id" : 27,
+    "label" : "tq011000_msg0027",
+    "talker" : "tk1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "윽?! 일 났군\n하필 럭키 스파이스라니……!"
+  }, {
+    "$id" : 28,
+    "label" : "tq011000_msg0028",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요리 콘테스트는\n테마도 제한도 일절 없으니\n마음껏 만들면 돼"
+  }, {
+    "$id" : 29,
+    "label" : "tq011000_msg0029",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 대신, 사용할 식재료는\n각자 준비해야 하지"
+  }, {
+    "$id" : 30,
+    "label" : "tq011000_msg0030",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "식재료는 식당에 있는 미치바에게 맡겨 둬\n그녀가 책임지고 관리해 줄 거야. 이상이다"
+  }, {
+    "$id" : 31,
+    "label" : "tq011000_msg0031",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어요모!"
+  }, {
+    "$id" : 32,
+    "label" : "tq011000_msg0032",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 콘테스트 때 보자"
+  }, {
+    "$id" : 33,
+    "label" : "tq011000_msg0033",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 부탁드립니다"
+  }, {
+    "$id" : 34,
+    "label" : "tq011000_msg0034",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노리는 건 우승뿐이에요모!\n미야비 씨, 승부예요모!"
+  }, {
+    "$id" : 35,
+    "label" : "tq011000_msg0035",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응! 마나나!"
+  }, {
+    "$id" : 36,
+    "label" : "tq011000_msg0036",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미야비, 어느 틈에 요리까지……\n정말 몰랐어……!"
+  }, {
+    "$id" : 37,
+    "label" : "tq011000_msg0037",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후, 별로 잘하지는 않지만 말이야"
+  }, {
+    "$id" : 38,
+    "label" : "tq011000_msg0038",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋았어, 우리도 식재료를 모으러 가자고"
+  }, {
+    "$id" : 39,
+    "label" : "tq011000_msg0039",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐! 먼저 뭘 만들지를 정해야지"
+  }, {
+    "$id" : 40,
+    "label" : "tq011000_msg0040",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 예~ 그럼요"
+  }, {
+    "$id" : 41,
+    "label" : "tq011000_msg0041",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 전에 시티 사람들에게\n좀 물어봐도 될까?\n인기 있는 요리라든가, 양념이라든가……"
+  }, {
+    "$id" : 42,
+    "label" : "tq011000_msg0042",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물어보고 나서 뭘 만들지 생각하고 싶어"
+  }, {
+    "$id" : 43,
+    "label" : "tq011000_msg0043",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하긴 뭘 만들든\n일단 사전 조사는 해야지"
+  }, {
+    "$id" : 44,
+    "label" : "tq011000_msg0044",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그래? 미오"
+  }, {
+    "$id" : 45,
+    "label" : "tq011000_msg0045",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미야비가 콘테스트에 나간다니\n별일이다 싶어서……"
+  }, {
+    "$id" : 46,
+    "label" : "tq011000_msg0046",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전에는 남하고 경쟁하는 걸\n오히려 피하는 것 같았거든"
+  }, {
+    "$id" : 47,
+    "label" : "tq011000_msg0047",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 놀랐다고 해야 할까……"
+  }, {
+    "$id" : 48,
+    "label" : "tq011000_msg0048",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나\n그럼 더욱 응원해야겠네"
+  }, {
+    "$id" : 49,
+    "label" : "tq011000_msg0049",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응!"
+  } ]
+}

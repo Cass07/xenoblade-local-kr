@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831602_msg0001",
+    "talker" : "lq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카기로이 양\n류트 연습은 잘되고 있나?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831602_msg0002",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 시간이 있을 때마다\n에이가 가르쳐 주고 있어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831602_msg0003",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신이 본 대로\n그녀는 제법 소질이 있어\n덕분에 나도 가르치는 보람이 있지"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831602_msg0004",
+    "talker" : "lq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하, 그거 잘됐구나\n새로운 명인의 탄생이 기대되는걸"
+  } ]
+}

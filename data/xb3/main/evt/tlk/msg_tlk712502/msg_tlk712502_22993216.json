@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk712502_msg0001",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금까지 시티가\n뫼비우스에게 발각된 적은 없었지"
+  }, {
+    "$id" : 2,
+    "label" : "tlk712502_msg0002",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만……!\n배신자 하나 때문에\n우리 모두가 위험에 처했어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk712502_msg0003",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로스트 넘버즈 녀석들은\n샤니아가 배신한 일을\n어떻게 책임질 셈이지?"
+  } ]
+}

@@ -1,0 +1,322 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<99D21F64>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기……"
+  }, {
+    "$id" : 2,
+    "label" : "<916535B1>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어머나? 여러분은 분명……"
+  }, {
+    "$id" : 3,
+    "label" : "<799BB996>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혹시 지금부터\n시티 외부로 나갈 예정이신가요?"
+  }, {
+    "$id" : 4,
+    "label" : "<6D1FE5B6>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮다면\n저도 끼워 주실 수 없을까요?"
+  }, {
+    "$id" : 5,
+    "label" : "<864B4A69>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "느닷없이 뭔 소리래?\n애초에 넌 누군데?"
+  }, {
+    "$id" : 6,
+    "label" : "<DBA25E9D>",
+    "talker" : "jp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들! 이분은……"
+  }, {
+    "$id" : 7,
+    "label" : "<366825C1>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어머! 내 정신 좀 봐\n무례를 용서해 주세요\n마음이 너무 급했거든요"
+  }, {
+    "$id" : 8,
+    "label" : "<D6E1091A>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 마티아라고 한답니다\n앞으로 잘 부탁드려요"
+  }, {
+    "$id" : 9,
+    "label" : "<F4DB704D>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마티아 씨라고 부르면 되지? 우리는……"
+  }, {
+    "$id" : 10,
+    "label" : "<1418195E>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후후, 이미 잘 알고 있답니다"
+  }, {
+    "$id" : 11,
+    "label" : "<BC6351AF>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오히려 여러분을 모르는 사람은\n이곳 시티에는 절대 없다고 확신할 수 있는걸요"
+  }, {
+    "$id" : 12,
+    "label" : "<6FEBC8DE>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리와 함께 가려는 이유를 들어봐야겠어"
+  }, {
+    "$id" : 13,
+    "label" : "<654BF681>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어머나, 그렇게 경계하시지 않아도 괜찮아요\n그렇게 거창한 일은 아니에요"
+  }, {
+    "$id" : 14,
+    "label" : "<01C6938E>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "포니스 지방에 있는 \"이그스 황야\"\n그곳에 조금 볼일이 있거든요"
+  }, {
+    "$id" : 15,
+    "label" : "<A879A972>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아! 이래 봬도 저는\n평범한 병사들보다는 잘 싸운답니다?"
+  }, {
+    "$id" : 16,
+    "label" : "<1077E756>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티 바깥으로 나가는 것이\n처음인 것도 아니고\n단독 행동도 익숙한 편이죠"
+  }, {
+    "$id" : 17,
+    "label" : "<589B28B3>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데도 제 실력을\n의심하시는 분들이 계신가 봐요\n……정말 난처하답니다"
+  }, {
+    "$id" : 18,
+    "label" : "<0E8B55DC>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "직접 싸운다고? 네가?"
+  }, {
+    "$id" : 19,
+    "label" : "<FC8148B7>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로스트 넘버즈 소속 병사들과는\n꽤나 옷차림이 다른 것 같은데?"
+  }, {
+    "$id" : 20,
+    "label" : "<57548DC4>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "굳이 말하자면 엄청 화려해……"
+  }, {
+    "$id" : 21,
+    "label" : "<C3DAF205>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼요, 그럼요, 자주 듣는 말이죠\n하지만 이게 제 스타일인걸요"
+  }, {
+    "$id" : 22,
+    "label" : "<72161D85>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하나부터 열까지 미를 추구해야만\n제가 저로 있을 수 있는 법이랍니다"
+  }, {
+    "$id" : 23,
+    "label" : "<2E282549>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "허……"
+  }, {
+    "$id" : 24,
+    "label" : "<26FE6D88>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이그스 황야라고 했지……\n언제 가게 될지는 모르는데\n그래도 상관없어?"
+  }, {
+    "$id" : 25,
+    "label" : "<C1071661>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 상관없답니다\n여러분께도 사명이 있으실 테니까요"
+  }, {
+    "$id" : 26,
+    "label" : "<3BF0996C>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 저 또한 시티의 일원으로서\n미력하게나마 힘을 보태겠어요"
+  }, {
+    "$id" : 27,
+    "label" : "<96960191>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 그럼 보시는 것처럼\n이제 저는 호위로 더할 나위 없는 분들과\n함께하고 있답니다"
+  }, {
+    "$id" : 28,
+    "label" : "<CB5B4C7A>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "더 이상은 하실 말씀 없으시죠?\n……모니카 언니께는\n그렇게 됐다고 잘 전해 주세요"
+  }, {
+    "$id" : 29,
+    "label" : "<70DECDC1>",
+    "talker" : "jp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알겠습니다"
+  }, {
+    "$id" : 30,
+    "label" : "<211541EC>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 여러분\n지체할 일도 아니니 서둘러 가시죠"
+  }, {
+    "$id" : 31,
+    "label" : "<381EC9B8>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았으니까 재촉하지 마……"
+  }, {
+    "$id" : 32,
+    "label" : "<18E14B8F>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 당분간 잘 부탁할게"
+  }, {
+    "$id" : 33,
+    "label" : "<1D61ABC4>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : "마티아가 일시적으로\n파티에 가입했습니다"
+  } ]
+}

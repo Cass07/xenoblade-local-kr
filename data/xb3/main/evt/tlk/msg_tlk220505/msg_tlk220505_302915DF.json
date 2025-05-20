@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk220505_msg0001",
+    "talker" : "la1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장님이 레브니스에 정성을 들이는 건\n단순히 레브니스를 좋아해서\n그러는 줄 알았어……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk220505_msg0002",
+    "talker" : "la1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 그 사람 나름대로 콜로니 동료들을\n생각했다는 걸 알고 나니 가슴이 뭉클해져……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk220505_msg0003",
+    "talker" : "la1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자~ 그렇다면 나도\n동료들을 지키는 레브니스들을\n힘내서 정비해야지!"
+  } ]
+}

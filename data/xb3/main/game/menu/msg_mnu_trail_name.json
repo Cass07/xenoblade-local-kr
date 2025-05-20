@@ -1,0 +1,28 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<8F80B29D>",
+    "style" : 11,
+    "name" : "훈련 목록"
+  }, {
+    "$id" : 2,
+    "label" : "<DF13AA71>",
+    "style" : 11,
+    "name" : "훈련 계속하기"
+  }, {
+    "$id" : 3,
+    "label" : "<FC0806C0>",
+    "style" : 11,
+    "name" : "훈련 중단하기"
+  } ]
+}

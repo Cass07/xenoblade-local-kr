@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk410503_msg0001",
+    "talker" : "je1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이상하네\n전에 맡은 냄새랑 질이 다른걸……?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk410503_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 말이야?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk410503_msg0003",
+    "talker" : "je1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "결의에 찬 분노, 정의로운 투지\n신성한 각오…… 말로 표현하기는 어렵지만……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk410503_msg0004",
+    "talker" : "je1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명하게 말할 수 있는 건……\n아주 좋은 냄새가 난다는 거야…… 후후후"
+  }, {
+    "$id" : 5,
+    "label" : "tlk410503_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "영문 모를 소리를 하는 건 여전하네……\n뭐, 대충 칭찬으로 받아들일게"
+  } ]
+}

@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210104_msg0001",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장 \"대리\"여서야\n영 멋없어 보이려나?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210104_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지 않아\n그게 볼레아리스의 결단이라면\n틀림없이 에셀도 찬성해 줬을 거야"
+  }, {
+    "$id" : 3,
+    "label" : "tlk210104_msg0003",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……고맙다\n뭐, 어찌 됐든 지금은 앞으로 가야만 해"
+  }, {
+    "$id" : 4,
+    "label" : "tlk210104_msg0004",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 사람이 우리에게 남기고 간 것을\n지켜 나가기 위해서라도……"
+  } ]
+}

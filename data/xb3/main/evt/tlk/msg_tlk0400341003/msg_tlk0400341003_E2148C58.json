@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk0400341003_msg0001",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭄바랑 같이\n세계 여행을 할 예정이라면서?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk0400341003_msg0002",
+    "talker" : "lW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 큰 싸움이 기다리고 있으니\n그게 끝나면 떠나려고 해"
+  }, {
+    "$id" : 3,
+    "label" : "tlk0400341003_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나\n콜로니 감마로 갈 때는\n나한테 말해. 안내해 줄게"
+  }, {
+    "$id" : 4,
+    "label" : "tlk0400341003_msg0004",
+    "talker" : "lW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워\n어떤 곳일지 기대된다"
+  } ]
+}

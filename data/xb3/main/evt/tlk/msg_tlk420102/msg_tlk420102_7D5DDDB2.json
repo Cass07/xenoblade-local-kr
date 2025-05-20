@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk420102_msg0001",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분 덕분에\n삶의 의욕을 되찾았어요!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk420102_msg0002",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케이 님께 배운 문화를\n전파하고 싶네요"
+  }, {
+    "$id" : 3,
+    "label" : "tlk420102_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은 마음가짐이네"
+  }, {
+    "$id" : 4,
+    "label" : "tlk420102_msg0004",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 반드시 해낼 겁니다\n삶의 보람은 싸움이 아닌 것에도\n잔뜩 있다는 걸 모두에게 전할 거예요"
+  } ]
+}

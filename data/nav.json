@@ -2,20 +2,47 @@
   {
     "title": "제노블레이드 1 DE",
     "href": "xb1-script.html",
-    "child" : []
+    "child": []
   },
   {
     "title": "제노블레이드 2",
-    "href": "xeno2.html",
+    "href": "",
     "child": [
-        {
-            "title": "스크립트",
-            "href": "xb2-script.html"
-        },
-        {
-            "title": "common_ms",
-            "href": "xb2-common.html"
-        }
-      ]
+      {
+        "title": "스크립트",
+        "href": "xb2-script.html"
+      },
+      {
+        "title": "common_ms",
+        "href": "xb2-common.html"
+      }
+    ]
+  },
+  {
+    "title": "제노블레이드 3",
+    "href": "",
+    "child": [
+      {
+        "title": "본편 스크립트",
+        "href": "xb3-evt.html"
+      },
+      {
+        "title": "본편 기타",
+        "href": "xb3-game.html"
+      },
+      {
+        "title": "새로운 미래 스크립트",
+        "href": "xb3-fr-evt.html"
+      },
+      {
+        "title": "새로운 미래 기타",
+        "href": "xb3-fr-game.html"
+      }
+    ]
+  },
+  {
+    "title" : "제노블레이드 X",
+    "href" : "https://cass07.github.io/xenox-local/script.html",
+    "child" : []
   }
 ]

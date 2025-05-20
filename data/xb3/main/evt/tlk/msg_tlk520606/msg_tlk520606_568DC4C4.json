@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520606_msg0001",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무리 친해졌어도\n다들 저마다 자기 생각이 있고\n내게는 내 생각이 있어……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520606_msg0002",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 깨달은 뒤로\n서로 좀 더 다양한 이야기를\n나누기로 마음먹었어!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520606_msg0003",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워, 미오 씨!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520606_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후훗, 천만에"
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk330606_msg0001",
+    "talker" : "qd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어서 오십쇼~\n단골손님과의 거래는\n언제든지 대환영입니다모~!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk330606_msg0101",
+    "talker" : "qd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자~ 계산 끝났습니다모~\n매번 이용해 주셔서 감사합니다모~"
+  }, {
+    "$id" : 3,
+    "label" : "tlk330606_msg0201",
+    "talker" : "qd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모모……\n다음엔 좀 더 준비해 두겠습니다모"
+  } ]
+}

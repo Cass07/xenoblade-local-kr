@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120500_msg0001",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "메카 친구의 부품이 사라졌을 때\n\"브레브레\"라는 녀석이 관여했다고 했지?"
+  }, {
+    "$id" : 2,
+    "label" : "nq120500_msg0002",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석이 좀\n마음에 걸려서 그러는데"
+  }, {
+    "$id" : 3,
+    "label" : "nq120500_msg0003",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우베베 일행을 부추겼던 녀석 말이지?"
+  }, {
+    "$id" : 4,
+    "label" : "nq120500_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이름이 그런 걸 보면\n그 녀석도 노폰이겠지?"
+  }, {
+    "$id" : 5,
+    "label" : "nq120500_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그때는 결국\n어떤 녀석인지 알 수가 없었잖아?"
+  }, {
+    "$id" : 6,
+    "label" : "nq120500_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬지"
+  }, {
+    "$id" : 7,
+    "label" : "nq120500_msg0101",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "브레브레는\n내가 너희들을 만나기 얼마 전에\n콜로니 30에 왔어"
+  }, {
+    "$id" : 8,
+    "label" : "nq120500_msg0102",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 나도 그다지\n이야기해 본 적이 없어"
+  }, {
+    "$id" : 9,
+    "label" : "nq120500_msg0202",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만나면 말이라도\n걸어 봐야 하나……"
+  } ]
+}

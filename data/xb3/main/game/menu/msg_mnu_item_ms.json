@@ -1,0 +1,338 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<53284032>",
+    "style" : 9,
+    "name" : "보유량"
+  }, {
+    "$id" : 2,
+    "label" : "<89BA78C0>",
+    "style" : 9,
+    "name" : "금액"
+  }, {
+    "$id" : 3,
+    "label" : "<642B63E4>",
+    "style" : 9,
+    "name" : "레어리티"
+  }, {
+    "$id" : 4,
+    "label" : "<AA6C3B40>",
+    "style" : 9,
+    "name" : "아이템명"
+  }, {
+    "$id" : 5,
+    "label" : "<8A942D77>",
+    "style" : 9,
+    "name" : "최신 획득"
+  }, {
+    "$id" : 6,
+    "label" : "<0EE204E6>",
+    "style" : 9,
+    "name" : "컬렉션 아이템"
+  }, {
+    "$id" : 7,
+    "label" : "<5B18B80F>",
+    "style" : 9,
+    "name" : "액세서리"
+  }, {
+    "$id" : 8,
+    "label" : "<62B59CA4>",
+    "style" : 9,
+    "name" : "젬"
+  }, {
+    "$id" : 9,
+    "label" : "<09D4B4C6>",
+    "style" : 9,
+    "name" : "귀중품"
+  }, {
+    "$id" : 10,
+    "label" : "<245ECEC1>",
+    "style" : 9,
+    "name" : "컬렉션 아이템"
+  }, {
+    "$id" : 11,
+    "label" : "<0B4AFEB2>",
+    "style" : 9,
+    "name" : "액세서리"
+  }, {
+    "$id" : 12,
+    "label" : "<DB6671D9>",
+    "style" : 9,
+    "name" : "젬"
+  }, {
+    "$id" : 13,
+    "label" : "<3FE3F155>",
+    "style" : 9,
+    "name" : "귀중품"
+  }, {
+    "$id" : 14,
+    "label" : "<B4B2057B>",
+    "style" : 9,
+    "name" : "에테르 실린더"
+  }, {
+    "$id" : 15,
+    "label" : "<B9997DD7>",
+    "style" : 9,
+    "name" : "레시피 체크"
+  }, {
+    "$id" : 16,
+    "label" : "<D6D68E05>",
+    "style" : 9,
+    "name" : "구매"
+  }, {
+    "$id" : 17,
+    "label" : "<E3095BBA>",
+    "style" : 9,
+    "name" : "교환"
+  }, {
+    "$id" : 18,
+    "label" : "<54A8023A>",
+    "style" : 9,
+    "name" : "판매"
+  }, {
+    "$id" : 19,
+    "label" : "<DD582C4F>",
+    "style" : 19,
+    "name" : ""
+  }, {
+    "$id" : 20,
+    "label" : "<05D1EA38>",
+    "style" : 0,
+    "name" : "G"
+  }, {
+    "$id" : 21,
+    "label" : "<88F727A7>",
+    "style" : 3,
+    "name" : "[ML:number digit=2 ]/[ML:number digit=2 ]"
+  }, {
+    "$id" : 22,
+    "label" : "<FCF53C19>",
+    "style" : 5,
+    "name" : "코먼"
+  }, {
+    "$id" : 23,
+    "label" : "<986C04A3>",
+    "style" : 5,
+    "name" : "레어"
+  }, {
+    "$id" : 24,
+    "label" : "<F0AFAA4C>",
+    "style" : 5,
+    "name" : "에픽"
+  }, {
+    "$id" : 25,
+    "label" : "<F1DEA8ED>",
+    "style" : 5,
+    "name" : "장비 가능"
+  }, {
+    "$id" : 26,
+    "label" : "<D58A51F8>",
+    "style" : 5,
+    "name" : "장비 중"
+  }, {
+    "$id" : 27,
+    "label" : "<7B4AFCF2>",
+    "style" : 11,
+    "name" : "갱신 필터 설정"
+  }, {
+    "$id" : 28,
+    "label" : "<D3F6E9C0>",
+    "style" : 11,
+    "name" : "요리 소재"
+  }, {
+    "$id" : 29,
+    "label" : "<6A285428>",
+    "style" : 11,
+    "name" : "젬 크래프트 소재"
+  }, {
+    "$id" : 30,
+    "label" : "<282F62B4>",
+    "style" : 2,
+    "name" : "매각액"
+  }, {
+    "$id" : 31,
+    "label" : "<593F46CB>",
+    "style" : 3,
+    "name" : "채집지"
+  }, {
+    "$id" : 32,
+    "label" : "<D27CD0C8>",
+    "style" : 13,
+    "name" : "아이템을 사용합니다"
+  }, {
+    "$id" : 33,
+    "label" : "<889D500C>",
+    "style" : 13,
+    "name" : ""
+  }, {
+    "$id" : 34,
+    "label" : "<E1E17DE8>",
+    "style" : 13,
+    "name" : "아이템이 없습니다"
+  }, {
+    "$id" : 35,
+    "label" : "<FC2DF0DA>",
+    "style" : 2,
+    "name" : "달성률"
+  }, {
+    "$id" : 36,
+    "label" : "<B58244B6>",
+    "style" : 19,
+    "name" : "즐겨찾기 아이템입니다. 판매하겠습니까?"
+  }, {
+    "$id" : 37,
+    "label" : "<C5BFC181>",
+    "style" : 19,
+    "name" : "효과가 같은 아이템은 세팅할 수 없습니다"
+  }, {
+    "$id" : 38,
+    "label" : "<FF1B47A3>",
+    "style" : 19,
+    "name" : "보유량이 부족합니다"
+  }, {
+    "$id" : 39,
+    "label" : "<A8C679A8>",
+    "style" : 19,
+    "name" : "이 아이템은 장비할 수 없습니다"
+  }, {
+    "$id" : 40,
+    "label" : "<66CF47D4>",
+    "style" : 49,
+    "name" : "장비 중인 아이템은 매각할 수 없습니다"
+  }, {
+    "$id" : 41,
+    "label" : "<6885BCD5>",
+    "style" : 6,
+    "name" : "아이템 획득"
+  }, {
+    "$id" : 42,
+    "label" : "<E6E130AC>",
+    "style" : 9,
+    "name" : "매각 불가"
+  }, {
+    "$id" : 43,
+    "label" : "<D80BF0C1>",
+    "style" : 9,
+    "name" : "패션"
+  }, {
+    "$id" : 44,
+    "label" : "<860EEFD2>",
+    "style" : 9,
+    "name" : "엠블럼"
+  }, {
+    "$id" : 45,
+    "label" : "<4A588DF3>",
+    "style" : 9,
+    "name" : "Sold Out"
+  }, {
+    "$id" : 46,
+    "label" : "<2FCCE6E2>",
+    "style" : 7,
+    "name" : "크리스털"
+  }, {
+    "$id" : 47,
+    "label" : "MAP_PARTS_0304,",
+    "style" : 1,
+    "name" : "???"
+  }, {
+    "$id" : 48,
+    "label" : "<2A5F77FF>",
+    "style" : 29,
+    "name" : "크래프트한 액세서리는 1개만 장비할 수 있습니다"
+  }, {
+    "$id" : 49,
+    "label" : "<ED7564AC>",
+    "style" : 9,
+    "name" : "숍"
+  }, {
+    "$id" : 50,
+    "label" : "<6C4D4F32>",
+    "style" : 4,
+    "name" : "구입"
+  }, {
+    "$id" : 51,
+    "label" : "<04404005>",
+    "style" : 9,
+    "name" : "FREE"
+  }, {
+    "$id" : 52,
+    "label" : "<424DFAF2>",
+    "style" : 3,
+    "name" : "new"
+  }, {
+    "$id" : 53,
+    "label" : "<55577F43>",
+    "style" : 9,
+    "name" : "히어로 스카우트"
+  }, {
+    "$id" : 54,
+    "label" : "<7CC1AED1>",
+    "style" : 3,
+    "name" : "[ML:number ]명째"
+  }, {
+    "$id" : 55,
+    "label" : "<6DFEE1A4>",
+    "style" : 9,
+    "name" : "생명의 노폰시계 회복"
+  }, {
+    "$id" : 56,
+    "label" : "<0A53CB44>",
+    "style" : 3,
+    "name" : "[ML:number digit=2 ]번째"
+  }, {
+    "$id" : 57,
+    "label" : "<CDA6220C>",
+    "style" : 11,
+    "name" : "변덕 발생!"
+  }, {
+    "$id" : 58,
+    "label" : "<42C2671E>",
+    "style" : 9,
+    "name" : "변덕"
+  }, {
+    "$id" : 59,
+    "label" : "<23429A86>",
+    "style" : 9,
+    "name" : "초기 레벨"
+  }, {
+    "$id" : 60,
+    "label" : "<B49FCF7A>",
+    "style" : 9,
+    "name" : "저주"
+  }, {
+    "$id" : 61,
+    "label" : "<2EEFD441>",
+    "style" : 13,
+    "name" : "없음"
+  }, {
+    "$id" : 62,
+    "label" : "<3FB8A7ED>",
+    "style" : 4,
+    "name" : "미개방"
+  }, {
+    "$id" : 63,
+    "label" : "<E9CBD729>",
+    "style" : 21,
+    "name" : "교환하면 숍에서 출현하게 됩니다"
+  }, {
+    "$id" : 64,
+    "label" : "<219708DC>",
+    "style" : 9,
+    "name" : "스테이터스 증가"
+  }, {
+    "$id" : 65,
+    "label" : "<825273E9>",
+    "style" : 11,
+    "name" : ""
+  } ]
+}

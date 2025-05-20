@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210202_msg0001",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에셀이 강한 비결은\n탤런트 아츠를 사용할 때마다\n공격력이 강해지기 때문이지"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210202_msg0002",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전투의 흐름을 잘 타면\n어태커 중에서 그 녀석과\n견줄 자는 거의 없을 거야"
+  }, {
+    "$id" : 3,
+    "label" : "tlk210202_msg0003",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……다만 무턱대고 사용하면\n적의 시선을 끌게 되는 위험성도 있으니\n디펜더의 지원은 필수라고 봐야겠지"
+  } ]
+}

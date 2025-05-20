@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq240400_msg0001",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "최근 오비르부스 요새에\n화려한 그림을 그리는\n기묘한 인물이 나타난 모양이야"
+  }, {
+    "$id" : 2,
+    "label" : "nq240400_msg0002",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, \"회화\"라고 했지?\n전에 모니카한테 들었어"
+  }, {
+    "$id" : 3,
+    "label" : "nq240400_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "문화라는 것의 일종이래"
+  }, {
+    "$id" : 4,
+    "label" : "nq240400_msg0004",
+    "talker" : "2",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스에도 그 회화라는 걸\n그리는 사람은 없었지?"
+  }, {
+    "$id" : 5,
+    "label" : "nq240400_msg0005",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 시티에 사는 사람들만\n그리는 것 같은데……"
+  }, {
+    "$id" : 6,
+    "label" : "nq240400_msg0006",
+    "talker" : "4",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 직접 가서 확인해 보지 않겠어?\n나도 조금 관심이 있거든"
+  }, {
+    "$id" : 7,
+    "label" : "nq240400_msg0007",
+    "talker" : "3",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "호오, 웬일이래?"
+  }, {
+    "$id" : 8,
+    "label" : "nq240400_msg0008",
+    "talker" : "4",
+    "talkattr" : 33168,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……나도 남들처럼\n호기심 정도는 있어"
+  }, {
+    "$id" : 9,
+    "label" : "nq240400_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 그럼\n오비르부스 요새에서\n그 사람을 찾아보자"
+  } ]
+}

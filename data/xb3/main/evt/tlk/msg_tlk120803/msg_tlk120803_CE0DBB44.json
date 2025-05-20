@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120803_msg0001",
+    "talker" : "dY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……실은 요즘 스쿠네의 마음이\n다른 곳에 있는 것 같았어요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120803_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확실히 교육할 때에도\n말수가 적었던 것 같은데……\n무슨 일이 있었어?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120803_msg0003",
+    "talker" : "dY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……대체로 짐작은 가지만\n그 일을 꺼내면 스쿠네에게\n상처가 될 것 같아서……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120803_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  } ]
+}

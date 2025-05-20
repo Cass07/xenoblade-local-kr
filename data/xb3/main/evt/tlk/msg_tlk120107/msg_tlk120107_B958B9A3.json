@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120107_msg0001",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……미오 선배\n이게 마지막 싸움인 거죠?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120107_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응, 반드시 끝내고 올게\n키리에는 콜로니 감마를 지켜 줘"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120107_msg0003",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……! 알겠습니다!\n감마는 제게 맡겨 주세요!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120107_msg0004",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여긴 제가 반드시 지켜 내겠습니다\n그러니까……!\n꼭 무사히 돌아와 주세요!"
+  } ]
+}

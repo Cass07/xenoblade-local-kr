@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq991402_msg0001",
+    "talker" : "cf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 안 돼……!\n저걸 어떻게 이겨!"
+  }, {
+    "$id" : 2,
+    "label" : "nq991402_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아……! 도망쳤다!"
+  }, {
+    "$id" : 3,
+    "label" : "nq991402_msg0003",
+    "talker" : "me1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "추격전이냐~? 좋다마다~!\n열심히 도망쳐 보시지~!!"
+  }, {
+    "$id" : 4,
+    "label" : "nq991402_msg0004",
+    "talker" : "ke1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "인간 사냥 시작이네요~\n얼마나 재밌게 해 주시려나~"
+  }, {
+    "$id" : 5,
+    "label" : "nq991402_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……야, 유니\n우린 반란을 진압하러 온 거 맞지?"
+  }, {
+    "$id" : 6,
+    "label" : "nq991402_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나한테 묻지 마, 란츠……\n나도 뭐가 뭔지 모르겠으니까"
+  } ]
+}

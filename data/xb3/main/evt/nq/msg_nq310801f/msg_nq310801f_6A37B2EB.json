@@ -1,0 +1,385 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310801_msg0001",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확실히 시티 사람들한테서\n볼멘소리가 나오고 있긴 해요"
+  }, {
+    "$id" : 2,
+    "label" : "nq310801_msg0002",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 문제는 도일 가문에서 맡아 줬으니\n일단 상황을 살펴보려고요"
+  }, {
+    "$id" : 3,
+    "label" : "nq310801_msg0003",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇군\n그럼 개릿의 방침에 달렸네"
+  }, {
+    "$id" : 4,
+    "label" : "nq310801_msg0101",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……무슨 말인지 알겠어\n확실히 시티 사람들한테서\n볼멘소리가 나오고 있지"
+  }, {
+    "$id" : 5,
+    "label" : "nq310801_msg0102",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 도일 가문이 개입해서\n수습 중인 상황이라"
+  }, {
+    "$id" : 6,
+    "label" : "nq310801_msg0103",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 개릿이\n어떤 의견을 들고 올지\n기다리는 중이야"
+  }, {
+    "$id" : 7,
+    "label" : "nq310801_msg0201",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 문제가 생기면\n솔직히 무척 도움이 되기는 하죠"
+  }, {
+    "$id" : 8,
+    "label" : "nq310801_msg0202",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디까지나 의견을 정리하는 것뿐이잖아\n그래도 잔소리 들을 각오는 해 둬야겠어"
+  }, {
+    "$id" : 9,
+    "label" : "nq310801_msg0203",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런고로"
+  }, {
+    "$id" : 10,
+    "label" : "nq310801_msg0204",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 아무쪼록……"
+  }, {
+    "$id" : 11,
+    "label" : "nq310801_msg0205",
+    "talker" : "@m1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "크, 큰일입니다!!"
+  }, {
+    "$id" : 12,
+    "label" : "nq310801_msg0206",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 일이지?"
+  }, {
+    "$id" : 13,
+    "label" : "nq310801_msg0207",
+    "talker" : "@m1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "출격 허가가 나지 않은 아머리가\n이륙했습니다!"
+  }, {
+    "$id" : 14,
+    "label" : "nq310801_msg0208",
+    "talker" : "@m1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일부 병사와 일반 주민이\n탈취한 것 같습니다만……"
+  }, {
+    "$id" : 15,
+    "label" : "nq310801_msg0209",
+    "talker" : "@m1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게…… 들리는 말로는\n경비병이 매수되었다고……"
+  }, {
+    "$id" : 16,
+    "label" : "nq310801_msg0210",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "트래비스"
+  }, {
+    "$id" : 17,
+    "label" : "nq310801_msg0301",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "산 넘어 산이네요……"
+  }, {
+    "$id" : 18,
+    "label" : "nq310801_msg0302",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빨리 상황을 확인해 봐"
+  }, {
+    "$id" : 19,
+    "label" : "nq310801_msg0401",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "허술하게 대처했나 본데\n변명은 나중에 천천히 들어 주겠어"
+  }, {
+    "$id" : 20,
+    "label" : "nq310801_msg0402",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힉!"
+  }, {
+    "$id" : 21,
+    "label" : "nq310801_msg0403",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서둘러 상황을 확인하겠습니다!!"
+  }, {
+    "$id" : 22,
+    "label" : "nq310801_msg0501",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모니카"
+  }, {
+    "$id" : 23,
+    "label" : "nq310801_msg0502",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로스트 넘버즈가 아닌 사람도\n시티 밖으로 나갔다는 거지?"
+  }, {
+    "$id" : 24,
+    "label" : "nq310801_msg0503",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "목적이 뭘까……"
+  }, {
+    "$id" : 25,
+    "label" : "nq310801_msg0504",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 26,
+    "label" : "nq310801_msg0505",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보스! 찾았습니다!"
+  }, {
+    "$id" : 27,
+    "label" : "nq310801_msg0506",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "탈취된 아머리의 신호는\n비닝섬으로 향하는 것 같아요"
+  }, {
+    "$id" : 28,
+    "label" : "nq310801_msg0507",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어\n바로 가지"
+  }, {
+    "$id" : 29,
+    "label" : "nq310801_msg0508",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보스가요?"
+  }, {
+    "$id" : 30,
+    "label" : "nq310801_msg0509",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연하지\n빨리 출격 준비해"
+  }, {
+    "$id" : 31,
+    "label" : "nq310801_msg0510",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미리 지시해 뒀습니다!"
+  }, {
+    "$id" : 32,
+    "label" : "nq310801_msg0511",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모니카\n우리도 갈게"
+  }, {
+    "$id" : 33,
+    "label" : "nq310801_msg0512",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래"
+  }, {
+    "$id" : 34,
+    "label" : "nq310801_msg0601",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "트래비스\n나는 이들과 먼저 가겠다"
+  }, {
+    "$id" : 35,
+    "label" : "nq310801_msg0602",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "편성을 마치면 즉시 지원을 보내도록"
+  }, {
+    "$id" : 36,
+    "label" : "nq310801_msg0603",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다!"
+  }, {
+    "$id" : 37,
+    "label" : "nq310801_msg0701",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "편성을 마치는 대로\n나도 뒤따라갈게"
+  }, {
+    "$id" : 38,
+    "label" : "nq310801_msg0702",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들이 먼저 도착했을 경우에는\n보호를 부탁해도 될까?"
+  }, {
+    "$id" : 39,
+    "label" : "nq310801_msg0703",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어"
+  }, {
+    "$id" : 40,
+    "label" : "nq310801_msg0801",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서둘러 비닝섬으로 가자!"
+  } ]
+}

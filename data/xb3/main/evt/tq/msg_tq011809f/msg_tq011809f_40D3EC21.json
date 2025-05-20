@@ -1,0 +1,466 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011809_msg0001",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분, 모두 고생 많으셨습니다"
+  }, {
+    "$id" : 2,
+    "label" : "tq011809_msg0002",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "본 연습을 통해 여러분이 분투하는 모습을\n두 눈으로 확실히 봤습니다"
+  }, {
+    "$id" : 3,
+    "label" : "tq011809_msg0003",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 결과는 우리의 완패예요\n이래서는……"
+  }, {
+    "$id" : 4,
+    "label" : "tq011809_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 기죽지 말라고\n제법 가능성은 보였으니까"
+  }, {
+    "$id" : 5,
+    "label" : "tq011809_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리를 상대로 이 정도까지 했으면\n신병치고는 훌륭한 거야"
+  }, {
+    "$id" : 6,
+    "label" : "tq011809_msg0006",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 그렇고, 각 반의 리더가 여기로\n집합하는 거였습니다만……"
+  }, {
+    "$id" : 7,
+    "label" : "tq011809_msg0007",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……죄송합니다. 저는 대리 참석이에요\n키리에를 아직 못 찾아서요……"
+  }, {
+    "$id" : 8,
+    "label" : "tq011809_msg0008",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맙소사……"
+  }, {
+    "$id" : 9,
+    "label" : "tq011809_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……지금부터는 본격적으로\n찾으러 가는 게 좋겠는걸"
+  }, {
+    "$id" : 10,
+    "label" : "tq011809_msg0010",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거야 원, 손이 많이 가는 후배네"
+  }, {
+    "$id" : 11,
+    "label" : "tq011809_msg0011",
+    "talker" : "J05J0",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 이쪽은 시도입니다……"
+  }, {
+    "$id" : 12,
+    "label" : "tq011809_msg0012",
+    "talker" : "kY103kY10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……『시도』\n그게 네 현재의 이름인가?"
+  }, {
+    "$id" : 13,
+    "label" : "tq011809_msg0013",
+    "talker" : "J03J0",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……! 누구시죠?"
+  }, {
+    "$id" : 14,
+    "label" : "tq011809_msg0014",
+    "talker" : "kY103kY10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것보다 알고 싶은 게 있을 텐데?\n예를 들자면, 그래……"
+  }, {
+    "$id" : 15,
+    "label" : "tq011809_msg0015",
+    "talker" : "kY103kY10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어리석게도 전장에서 방황하던\n네 부하가 지금, 어디에 있는지라든가……"
+  }, {
+    "$id" : 16,
+    "label" : "tq011809_msg0016",
+    "talker" : "kY104J0",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "설마, 당신이 키리에를……!\n그녀는 무사합니까?"
+  }, {
+    "$id" : 17,
+    "label" : "tq011809_msg0017",
+    "talker" : "kY103kY10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 네 행동에 달렸지\n어디 한번 되찾으러 와 봐라"
+  }, {
+    "$id" : 18,
+    "label" : "tq011809_msg0018",
+    "talker" : "kY103kY10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동료에게 도움을 요청하든\n지원군을 데려오든 상관없어"
+  }, {
+    "$id" : 19,
+    "label" : "tq011809_msg0019",
+    "talker" : "kY103kY10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만…… 내게서\n도망치는 것만큼은 용서하지 않겠다"
+  }, {
+    "$id" : 20,
+    "label" : "tq011809_msg0020",
+    "talker" : "J03J0",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……당신의 말은 하나도 이해가 안 되는군\n핵심이 하나도 없어"
+  }, {
+    "$id" : 21,
+    "label" : "tq011809_msg0021",
+    "talker" : "kY103kY10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"카이를 잊지 마라\""
+  }, {
+    "$id" : 22,
+    "label" : "tq011809_msg0022",
+    "talker" : "J03J0",
+    "talkattr" : 33027,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 23,
+    "label" : "tq011809_msg0023",
+    "talker" : "kY103kY10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 너의…… \"과거\"다"
+  }, {
+    "$id" : 24,
+    "label" : "tq011809_msg0024",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시도, 왜 그래?\n키리에한테 무슨 일 생겼어?"
+  }, {
+    "$id" : 25,
+    "label" : "tq011809_msg0025",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……키리에가\n누군가에게 납치당한 것 같습니다"
+  }, {
+    "$id" : 26,
+    "label" : "tq011809_msg0026",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……! 그럴 수가…… 대체 누구한테?!"
+  }, {
+    "$id" : 27,
+    "label" : "tq011809_msg0027",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……모르겠습니다\n아마 케베스 쪽 사람이거나\n아니면……"
+  }, {
+    "$id" : 28,
+    "label" : "tq011809_msg0028",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 서둘러서 구하러……"
+  }, {
+    "$id" : 29,
+    "label" : "tq011809_msg0029",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아뇨, 키리에 일은 제가 대처하겠습니다"
+  }, {
+    "$id" : 30,
+    "label" : "tq011809_msg0030",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분은 병사들을 데리고\n콜로니로 귀환해 주십시오"
+  }, {
+    "$id" : 31,
+    "label" : "tq011809_msg0031",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 하지만……"
+  }, {
+    "$id" : 32,
+    "label" : "tq011809_msg0032",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기…… 군무장님\n저희는 신경 쓰지 말아 주세요"
+  }, {
+    "$id" : 33,
+    "label" : "tq011809_msg0033",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선배들에게 부탁하시지 않아도\n콜로니로 돌아가는 정도는\n저희도 할 수 있어요"
+  }, {
+    "$id" : 34,
+    "label" : "tq011809_msg0034",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이즈노메, 후츠…… 하지만……"
+  }, {
+    "$id" : 35,
+    "label" : "tq011809_msg0035",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시도 군무장님\n저도 그게 최선책이라고 생각합니다"
+  }, {
+    "$id" : 36,
+    "label" : "tq011809_msg0036",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희는 발목이나 잡겠지만\n선배들이라면…… 분명 키리에를……"
+  }, {
+    "$id" : 37,
+    "label" : "tq011809_msg0037",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들……"
+  }, {
+    "$id" : 38,
+    "label" : "tq011809_msg0038",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알겠습니다\n지금은 여러분에게 맡기도록 하죠"
+  }, {
+    "$id" : 39,
+    "label" : "tq011809_msg0039",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분, 부디 키리에 구출에\n협력해 주시겠습니까?"
+  }, {
+    "$id" : 40,
+    "label" : "tq011809_msg0040",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "처음부터 그럴 생각이었어\n우리와 함께 키리에를 찾으러 가자"
+  }, {
+    "$id" : 41,
+    "label" : "tq011809_msg0041",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다고 해도 이 넓은 곳에서\n어떻게 찾아야 하려나……"
+  }, {
+    "$id" : 42,
+    "label" : "tq011809_msg0042",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아뇨, 키리에가 있는 곳이 어딘지\n짐작 가는 장소가 있습니다"
+  }, {
+    "$id" : 43,
+    "label" : "tq011809_msg0043",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엇, 정말이에요?"
+  }, {
+    "$id" : 44,
+    "label" : "tq011809_msg0044",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이곳 불치 평원의 서쪽에 위치한\n\"롯초 고전적지\"……"
+  }, {
+    "$id" : 45,
+    "label" : "tq011809_msg0045",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 가장 안쪽에 키리에가 있을 겁니다"
+  }, {
+    "$id" : 46,
+    "label" : "tq011809_msg0046",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 어떻게 확신해?"
+  }, {
+    "$id" : 47,
+    "label" : "tq011809_msg0047",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……한시가 급한 사태입니다\n이유는 가면서 설명하죠"
+  }, {
+    "$id" : 48,
+    "label" : "tq011809_msg0048",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장님, 키리에를\n잘 부탁드려요"
+  }, {
+    "$id" : 49,
+    "label" : "tq011809_msg0049",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 반드시 데리고 돌아가겠습니다\n여러분도 귀환할 때까지 경계를……"
+  } ]
+}

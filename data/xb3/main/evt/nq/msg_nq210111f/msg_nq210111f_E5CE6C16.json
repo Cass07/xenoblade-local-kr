@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq210111f_msg0001",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 너희였군\n얘기는 이미 들었어"
+  }, {
+    "$id" : 2,
+    "label" : "nq210111f_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기에 도장을 찍어 줄 수 있을까?"
+  }, {
+    "$id" : 3,
+    "label" : "nq210111f_msg0003",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론이지\n고생시켜서 미안한걸"
+  }, {
+    "$id" : 4,
+    "label" : "nq210111f_msg0004",
+    "talker" : "5",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜 생고생이라고\n모두가 찬성하는 일을 하는데\n뭐가 이렇게 번거로워?"
+  }, {
+    "$id" : 5,
+    "label" : "nq210111f_msg0005",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래……\n그렇게 생각하는 것도 당연해"
+  }, {
+    "$id" : 6,
+    "label" : "nq210111f_msg0006",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다만 이유를 해명한다면\n우리에게 어떤 방법이 최선일지\n늘 모색하고 있기 때문이지"
+  }, {
+    "$id" : 7,
+    "label" : "nq210111f_msg0007",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸로 신청 허가는 완료됐어\n시후에게 전달해 주겠나?"
+  }, {
+    "$id" : 8,
+    "label" : "nq210111f_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워\n바로 돌아가 볼게"
+  } ]
+}

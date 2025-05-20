@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk610604_msg0001",
+    "talker" : "uj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난감하네……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk610604_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그래? 안색이 나쁜데"
+  }, {
+    "$id" : 3,
+    "label" : "tlk610604_msg0003",
+    "talker" : "uj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "감찰국 임무가 없으니\n할 일이 없어졌거든"
+  }, {
+    "$id" : 4,
+    "label" : "tlk610604_msg0004",
+    "talker" : "uj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시키 녀석이 자잘한 일들을\n시켜 주긴 하는데……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk610604_msg0005",
+    "talker" : "uj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "손이 비면 불안하단 말이지\n집정관한테 숙청당할 것 같아서 말이야"
+  } ]
+}

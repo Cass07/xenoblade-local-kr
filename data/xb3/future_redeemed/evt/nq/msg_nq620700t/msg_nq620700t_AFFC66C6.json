@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<479CB886>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리퀘스트 보드에\n또 의뢰가 와 있는데?"
+  }, {
+    "$id" : 2,
+    "label" : "<1829AC12>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 내용이지……"
+  }, {
+    "$id" : 3,
+    "label" : "<48EFDE3E>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "「자르모아 해빙 동굴을 조사하던 중에\n성가신 이구나 무리를 발견했어\n피해가 발생하기 전에 토벌을 부탁하고 싶어」"
+  }, {
+    "$id" : 4,
+    "label" : "<508CA697>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "「레그레바자 전적지에서\n소중한 고글을 잃어버렸어요……\n발견하시거든 회수를 부탁드릴게요」"
+  }, {
+    "$id" : 5,
+    "label" : "<6FB4DBC1>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "「바무가야! 디아블라다 절벽에서\n그 희귀한 몬스터가 발견됐다고! 생태를 꼭\n조사해 보고 싶으니 누구든 토벌 부탁해!」"
+  }, {
+    "$id" : 6,
+    "label" : "<83675D03>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번 의뢰는 꽤 성가시겠는데"
+  }, {
+    "$id" : 7,
+    "label" : "<11D53489>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 처리하는 게 가장 좋겠군"
+  } ]
+}

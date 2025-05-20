@@ -1,0 +1,205 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq000900_msg0001",
+    "talker" : "@j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은 아침이다, 제군들!\n오늘도 잘할 수 있겠지?"
+  }, {
+    "$id" : 2,
+    "label" : "sq000900_msg0002",
+    "talker" : "@j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죄를 범한 네 녀석들을\n살려 주고 있다는 사실에 감사하며\n오늘도 죽을힘을 다해 일하도록!"
+  }, {
+    "$id" : 3,
+    "label" : "sq000900_msg0003",
+    "talker" : "@j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일하지 않는 자, 살지도 말라!\n그런 고로 오늘의 작업 내용을 전달하겠다"
+  }, {
+    "$id" : 4,
+    "label" : "sq000900_msg0004",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘은 외곽 삼림 구역에서\n식량을 채집한다\n각 방 인원끼리 작업을 진행해라"
+  }, {
+    "$id" : 5,
+    "label" : "sq000900_msg0005",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 다음 물건을 20개씩 모은다\n미트 피어니, 황금 우엉,\n복숭아 버섯, 벌꿀 자두, 이상 4가지다"
+  }, {
+    "$id" : 6,
+    "label" : "sq000900_msg0006",
+    "talker" : "Yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘은 그나마 편한 일이네"
+  }, {
+    "$id" : 7,
+    "label" : "sq000900_msg0007",
+    "talker" : "Wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게\n쉬엄쉬엄할 수 있겠어"
+  }, {
+    "$id" : 8,
+    "label" : "sq000900_msg0008",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하~ 엄청 성가실 것 같은데"
+  }, {
+    "$id" : 9,
+    "label" : "sq000900_msg0009",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기 있는 녀석들은 평소에\n일을 얼마나 하는 거야?"
+  }, {
+    "$id" : 10,
+    "label" : "sq000900_msg0010",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그래?\n타이온?"
+  }, {
+    "$id" : 11,
+    "label" : "sq000900_msg0011",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "간수가 말한 식량 말인데……"
+  }, {
+    "$id" : 12,
+    "label" : "sq000900_msg0012",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캐슬에서 보내는\n배급 물자와 내용물이 같아"
+  }, {
+    "$id" : 13,
+    "label" : "sq000900_msg0013",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 우리가 받고 있던 물건은\n여기서 채집한 거였다는 말이야?"
+  }, {
+    "$id" : 14,
+    "label" : "sq000900_msg0014",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 생각하는 게 자연스럽겠지"
+  }, {
+    "$id" : 15,
+    "label" : "sq000900_msg0015",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로스트 넘버즈 병사들을\n노동력으로 활용하고 있었던 건가……"
+  }, {
+    "$id" : 16,
+    "label" : "sq000900_msg0016",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 17,
+    "label" : "sq000900_msg0017",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "외곽 삼림 구역을 개방하겠다"
+  }, {
+    "$id" : 18,
+    "label" : "sq000900_msg0018",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "허튼 생각 마라\n수상한 행동을 취한 자는 즉시 처분할 테니"
+  }, {
+    "$id" : 19,
+    "label" : "sq000900_msg0019",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "작전이 시작되기 전까지는\n눈에 띄는 행동은 자제해야 해"
+  }, {
+    "$id" : 20,
+    "label" : "sq000900_msg0020",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "외곽 삼림 구역으로 가자"
+  } ]
+}

@@ -1,0 +1,367 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330508_msg0001",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 이거야! 틀림없어!"
+  }, {
+    "$id" : 2,
+    "label" : "nq330508_msg0002",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리운걸, 그땐 이 녀석을 찾느라\n모래사장을 구멍투성이로 만들기도 했지……"
+  }, {
+    "$id" : 3,
+    "label" : "nq330508_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "넌 어쩜 예전부터 지금까지 변한 게 없냐……"
+  }, {
+    "$id" : 4,
+    "label" : "nq330508_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다음엔 네가 직접 찾아\n자기 스스로의 힘으로 찾아야 보물 아니야?"
+  }, {
+    "$id" : 5,
+    "label" : "nq330508_msg0005",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……음?\n그 말 어디서 들었는데……"
+  }, {
+    "$id" : 6,
+    "label" : "nq330508_msg0006",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아, 기억났어\n아이 녀석도 비슷한 말을 했었지"
+  }, {
+    "$id" : 7,
+    "label" : "nq330508_msg0007",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아이……?"
+  }, {
+    "$id" : 8,
+    "label" : "nq330508_msg0008",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 쌀쌀맞기 짝이 없는 뫼비우스였어"
+  }, {
+    "$id" : 9,
+    "label" : "nq330508_msg0009",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "텅 빈 보물 상자를 들고 다니면서\n언젠가 \"보물\"을 발견하면 넣을 거랬나"
+  }, {
+    "$id" : 10,
+    "label" : "nq330508_msg0010",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 대왕 대합을 넣으려고 했더니\n엄청나게 화를 냈었지……"
+  }, {
+    "$id" : 11,
+    "label" : "nq330508_msg0011",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그야 그렇겠지……"
+  }, {
+    "$id" : 12,
+    "label" : "nq330508_msg0012",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스스로 찾아야만 가치가 있다는\n말을 했는데 그건 거짓말이었을 거야"
+  }, {
+    "$id" : 13,
+    "label" : "nq330508_msg0013",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석은 무엇에 가치가\n있는지조차 모르게 된 거겠지"
+  }, {
+    "$id" : 14,
+    "label" : "nq330508_msg0014",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 사람이랑…… 친구였어?"
+  }, {
+    "$id" : 15,
+    "label" : "nq330508_msg0015",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미묘하긴 하지만 그렇지……"
+  }, {
+    "$id" : 16,
+    "label" : "nq330508_msg0016",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그냥 얼굴만 아는 사이라고\n하는 것도 쓸쓸하잖아"
+  }, {
+    "$id" : 17,
+    "label" : "nq330508_msg0017",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쓸쓸한 마음이 드는 이유는\n즐거운 시간이 있었으니까……"
+  }, {
+    "$id" : 18,
+    "label" : "nq330508_msg0018",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "함께 있고 싶은 사람이니까\n그런 생각이 드는 걸 거야. 그럼 친구 맞아"
+  }, {
+    "$id" : 19,
+    "label" : "nq330508_msg0019",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아가씨한테는\n그런 친구가 있었나 보군"
+  }, {
+    "$id" : 20,
+    "label" : "nq330508_msg0020",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응\n정말 가장 좋아했고……"
+  }, {
+    "$id" : 21,
+    "label" : "nq330508_msg0021",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앞으로도 절대\n용서할 수 없는 사람이야……"
+  }, {
+    "$id" : 22,
+    "label" : "nq330508_msg0022",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하! 대놓고 정면으로 부딪쳤군 이건"
+  }, {
+    "$id" : 23,
+    "label" : "nq330508_msg0023",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알 수 있어?"
+  }, {
+    "$id" : 24,
+    "label" : "nq330508_msg0024",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연하지, 가장 괴롭고 기쁜 감정이\n동시에 드는 존재는 웬만해선 없거든"
+  }, {
+    "$id" : 25,
+    "label" : "nq330508_msg0025",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기로 이어진 상대한테만 생기는 감정이지\n그것도 정면으로 부딪쳤을 때 말이야"
+  }, {
+    "$id" : 26,
+    "label" : "nq330508_msg0026",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은 친구였겠어"
+  }, {
+    "$id" : 27,
+    "label" : "nq330508_msg0027",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……고마워\n소중한 추억이자"
+  }, {
+    "$id" : 28,
+    "label" : "nq330508_msg0028",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 보물이야!"
+  }, {
+    "$id" : 29,
+    "label" : "nq330508_msg0029",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아주 멋진 말이군\n내 대왕 대합과 붙어 볼 만하겠어"
+  }, {
+    "$id" : 30,
+    "label" : "nq330508_msg0030",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "승부는 싫은데……\n추억의 가치를 비교하고 싶지 않아"
+  }, {
+    "$id" : 31,
+    "label" : "nq330508_msg0031",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하나하나 모두 특별하고 보물이야\n그래서 친구가 늘어나는 게 기뻐"
+  }, {
+    "$id" : 32,
+    "label" : "nq330508_msg0032",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하아…… 아가씨는 성실하네"
+  }, {
+    "$id" : 33,
+    "label" : "nq330508_msg0033",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 보물이 많은 건 좋은 일이지\n나랑 아가씨도 『친구』가 됐으니까"
+  }, {
+    "$id" : 34,
+    "label" : "nq330508_msg0034",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아니, 이런 말을 할\n입장이 아닌가?"
+  }, {
+    "$id" : 35,
+    "label" : "nq330508_msg0035",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지 않아!"
+  }, {
+    "$id" : 36,
+    "label" : "nq330508_msg0036",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 또……\n이렇게 대화하자"
+  }, {
+    "$id" : 37,
+    "label" : "nq330508_msg0037",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래!\n그때까지 죽지 말라고, 아가씨"
+  }, {
+    "$id" : 38,
+    "label" : "nq330508_msg0038",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캡틴도! 약속이야!"
+  } ]
+}

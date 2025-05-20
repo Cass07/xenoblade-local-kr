@@ -1,0 +1,178 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<3B32F02C>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은 아침이야\n피로는 풀렸어?"
+  }, {
+    "$id" : 2,
+    "label" : "<2C9ECD24>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 덕분에\n오랜만에 푹 잤어"
+  }, {
+    "$id" : 3,
+    "label" : "<968E49D0>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 다행이군\n우리 거점까지 갈 길이 멀거든"
+  }, {
+    "$id" : 4,
+    "label" : "<ABCB9E86>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리버레이터의 거점인가……\n어디에 있길래?"
+  }, {
+    "$id" : 5,
+    "label" : "<678C44B3>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저쪽 절벽을 올라간 다음에\n길을 따라가다 보면 보여"
+  }, {
+    "$id" : 6,
+    "label" : "<5A272A28>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오~\n어떤 곳일지 기대되네, 카기로이"
+  }, {
+    "$id" : 7,
+    "label" : "<253E053E>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……딱히 관심 없어"
+  }, {
+    "$id" : 8,
+    "label" : "<937C0B63>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하, 여전히 솔직하지 못하네"
+  }, {
+    "$id" : 9,
+    "label" : "<A9E92381>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는…… 조금 기대돼"
+  }, {
+    "$id" : 10,
+    "label" : "<65248B77>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 역시 그렇지? 니콜!\n카기로이는 분위기를 못 탄다니까~"
+  }, {
+    "$id" : 11,
+    "label" : "<2464F688>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이 녀석, 짜증 나"
+  }, {
+    "$id" : 12,
+    "label" : "<379F21BB>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……차차 익숙해질 거야"
+  }, {
+    "$id" : 13,
+    "label" : "<747DBAD4>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거점에는 시티에서\n피난해 온 사람들도 있어"
+  }, {
+    "$id" : 14,
+    "label" : "<14438771>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도착하면 무사하다고 알려 줘\n분명 기뻐할 거야"
+  }, {
+    "$id" : 15,
+    "label" : "<7EDAE90F>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래\n꼭 그렇게 할게"
+  }, {
+    "$id" : 16,
+    "label" : "<F766ED2B>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 수다는 이쯤에서 멈추고\n출발하자"
+  }, {
+    "$id" : 17,
+    "label" : "<9822B010>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래!"
+  } ]
+}

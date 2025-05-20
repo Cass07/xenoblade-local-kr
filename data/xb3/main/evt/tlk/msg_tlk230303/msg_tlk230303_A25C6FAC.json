@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230303_msg0001",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "컬렉피디아 카드에는\n의뢰인의 현재 위치를 특정하는 기능이\n내장되어 있습니다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230303_msg0002",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 역으로 이용한 시후의 재치는\n훌륭했지만…… 또 다른 한 명은\n참 눈엣가시란 말이죠……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230303_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어? 또 누가 있어?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk230303_msg0004",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……후겐입니다\n현재 위치가 특정되는 걸 피하기 위해\n접속을 의도적으로 피하고 있어요"
+  }, {
+    "$id" : 5,
+    "label" : "tlk230303_msg0005",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금쯤 어디서 뭘 하고 있는지……\n그보다 왜 연락조차 없는지……\n그저 짜증만 나네요……"
+  } ]
+}

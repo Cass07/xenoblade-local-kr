@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk330106_msg0001",
+    "talker" : "md1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기는 경치가 참 끝내줘모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk330106_msg0002",
+    "talker" : "md1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "심지어 갱도 안에서는\n지원 물자를 요청할 수 없으니까\n아그누스나 케베스 병사가 자주 오거든모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk330106_msg0003",
+    "talker" : "md1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 벌이가 짭짤하지모\n역시 조조카는 우수한 노폰이야모"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk711605_msg0001",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번 요리 콘테스트의\n심사 위원에 선정되어 영광이었어요모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk711605_msg0002",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어느 요리든 각자의 매력이 있어서\n웰웰의 배는 행복으로 가득 차\n터지는 줄 알았어요모……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk711605_msg0003",
+    "talker" : "al1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "헉……!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk711605_msg0004",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가…… 갑자기 지금까지\n이런 생각을 못 했던 게 놀랄 정도로\n좋은 영감이 떠올랐어요모"
+  }, {
+    "$id" : 5,
+    "label" : "tlk711605_msg0005",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요리 콘테스트 레시피를 모아서\n책으로 내면 놀고먹을 수 있을까요모……?\n두둑한 돈다발 냄새가 나요모……"
+  } ]
+}

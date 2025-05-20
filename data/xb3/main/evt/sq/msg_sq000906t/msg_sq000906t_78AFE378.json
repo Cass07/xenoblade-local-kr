@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq000906_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곤도, 이틀 후에 있을\n작전 행동 말인데……"
+  }, {
+    "$id" : 2,
+    "label" : "sq000906_msg0002",
+    "talker" : "oV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "작전은\n어제 말한 대로 하면 돼"
+  }, {
+    "$id" : 3,
+    "label" : "sq000906_msg0003",
+    "talker" : "oV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쓸데없이 대화를 나누면 간수가 와\n눈에 안 띄게\n적당히 작업이나 하라고"
+  }, {
+    "$id" : 4,
+    "label" : "sq000906_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "작업을 하고 싶어도\n어디에 뭐가 있는 줄 모르는데……"
+  }, {
+    "$id" : 5,
+    "label" : "sq000906_msg0005",
+    "talker" : "oV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 너희 진짜로\n모범수 연기라도 하게?"
+  }, {
+    "$id" : 6,
+    "label" : "sq000906_msg0006",
+    "talker" : "oV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나 참……\n그렇게 노역이 하고 싶으면\n한가해 보이는 녀석들한테 물어보든가"
+  } ]
+}

@@ -1,0 +1,232 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq210401_msg0001",
+    "talker" : "vc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "인비디아 산길을 지나가려면\n조만간 루트를 확보해 둬야 해"
+  }, {
+    "$id" : 2,
+    "label" : "nq210401_msg0002",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "인비디아 산길은 습격당하기 쉬운 장소야\n무리해서 갈 필요는 없다고 보는데?"
+  }, {
+    "$id" : 3,
+    "label" : "nq210401_msg0003",
+    "talker" : "qc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신중해서 나쁠 건 없지만\n전에 두고 온 물자만큼은 회수해 오고 싶어"
+  }, {
+    "$id" : 4,
+    "label" : "nq210401_msg0004",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너도 포기할 줄을 모르는군……\n위험 부담이 너무 크다니까"
+  }, {
+    "$id" : 5,
+    "label" : "nq210401_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐, 너희들 무슨 문제라도 생겼어?"
+  }, {
+    "$id" : 6,
+    "label" : "nq210401_msg0006",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 너희들이었군\n아니, 문제라고 할 정도는 아니야"
+  }, {
+    "$id" : 7,
+    "label" : "nq210401_msg0007",
+    "talker" : "vc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전에 콜로니 5를 공격하려고\n준비하고 있었을 때 인비디아 산길을\n장악할 예정이었는데"
+  }, {
+    "$id" : 8,
+    "label" : "nq210401_msg0008",
+    "talker" : "vc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 람다는 이제\n그럴 필요가 없어져서 철수를 했거든\n그때 물자를 거기에 그대로 두고 와서……"
+  }, {
+    "$id" : 9,
+    "label" : "nq210401_msg0009",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 회수해야 할지 말아야 할지\n셋이서 의논하고 있었어"
+  }, {
+    "$id" : 10,
+    "label" : "nq210401_msg0010",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물자만 회수하러 가는 거면\n쉬울 것 같은데"
+  }, {
+    "$id" : 11,
+    "label" : "nq210401_msg0011",
+    "talker" : "qc1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지만도 않아"
+  }, {
+    "$id" : 12,
+    "label" : "nq210401_msg0012",
+    "talker" : "vc1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 주변에는 적군 병사들이 많아\n그들도 아마 물자의 존재를 파악하고 있겠지"
+  }, {
+    "$id" : 13,
+    "label" : "nq210401_msg0013",
+    "talker" : "xc1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "매복이나 함정이\n기다리고 있을 가능성이 높아"
+  }, {
+    "$id" : 14,
+    "label" : "nq210401_msg0014",
+    "talker" : "qc1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 자율형 레브니스는 방위 목적으로\n기동한 지 얼마 안 돼서 못 쓰거든\n그래서 우리끼리 해결해 보려는 중이었어"
+  }, {
+    "$id" : 15,
+    "label" : "nq210401_msg0015",
+    "talker" : "xc1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상황이 이렇다 보니 내 생각엔\n포기하는 것도 방법이다 싶은데\n이타리와 호즈미는 회수하고 싶대서……"
+  }, {
+    "$id" : 16,
+    "label" : "nq210401_msg0016",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나……\n하긴 레브니스가 없으면\n물자를 회수하기 어렵겠어……"
+  }, {
+    "$id" : 17,
+    "label" : "nq210401_msg0017",
+    "talker" : "qc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞다, 너희들 우리를\n조금만 도와주지 않을래?"
+  }, {
+    "$id" : 18,
+    "label" : "nq210401_msg0018",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐, 그래도 되긴 하는데"
+  }, {
+    "$id" : 19,
+    "label" : "nq210401_msg0019",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희가 도와준다면 이야기가 다르지\n우리와 둘로 나눠서 행동해 준다면\n위험이 줄 것 같은데"
+  }, {
+    "$id" : 20,
+    "label" : "nq210401_msg0020",
+    "talker" : "qc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 산간 지역을 커버할 테니까\n너희는 물자 주위를 확인해 줄래?"
+  }, {
+    "$id" : 21,
+    "label" : "nq210401_msg0021",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 콜로니 녀석들도 물자를 노린다면\n무조건 전투가 벌어질 거 같은데"
+  }, {
+    "$id" : 22,
+    "label" : "nq210401_msg0022",
+    "talker" : "vc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전투가 벌어질 가능성이 높지만\n안전만 확보되면 우리만으로도\n충분히 회수할 수 있어"
+  }, {
+    "$id" : 23,
+    "label" : "nq210401_msg0023",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어\n일단 가 볼게"
+  } ]
+}

@@ -1,0 +1,214 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012001_msg0001",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 정도면 되려나?"
+  }, {
+    "$id" : 2,
+    "label" : "tq012001_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 충분해 보이는데?"
+  }, {
+    "$id" : 3,
+    "label" : "tq012001_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몬스터 처리에 쓴다는데\n어떻게 쓰려는 걸까?"
+  }, {
+    "$id" : 4,
+    "label" : "tq012001_msg0004",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……글쎄"
+  }, {
+    "$id" : 5,
+    "label" : "tq012001_msg0005",
+    "talker" : "L",
+    "talkattr" : 33049,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분!"
+  }, {
+    "$id" : 6,
+    "label" : "tq012001_msg0006",
+    "talker" : "2",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유즈리하, 무슨 일 없었어?"
+  }, {
+    "$id" : 7,
+    "label" : "tq012001_msg0007",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 저도 콜로니도\n아무 이상 없어요"
+  }, {
+    "$id" : 8,
+    "label" : "tq012001_msg0008",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아, 유즈리하\n너희 집정관은 항상 그런 느낌이야?"
+  }, {
+    "$id" : 9,
+    "label" : "tq012001_msg0009",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄요……\n음……"
+  }, {
+    "$id" : 10,
+    "label" : "tq012001_msg0010",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "딱히 기억나는 게 없어요"
+  }, {
+    "$id" : 11,
+    "label" : "tq012001_msg0011",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……버려져 있었다고\n말했었지?"
+  }, {
+    "$id" : 12,
+    "label" : "tq012001_msg0012",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네…… 집정관이\n콜로니에 오는 일도 드물고……"
+  }, {
+    "$id" : 13,
+    "label" : "tq012001_msg0013",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얼굴을 비친 적은 있었지만\n대화를 한 기억은 거의 없어요"
+  }, {
+    "$id" : 14,
+    "label" : "tq012001_msg0014",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇다면\n왜 이제 나타난 거지?"
+  }, {
+    "$id" : 15,
+    "label" : "tq012001_msg0015",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빨리 담판 짓고\n날려 버리는 편이 낫지 않겠어?"
+  }, {
+    "$id" : 16,
+    "label" : "tq012001_msg0016",
+    "talker" : "L",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……하지만 저 사람에게서는\n폭력적인 느낌이 들지 않아요"
+  }, {
+    "$id" : 17,
+    "label" : "tq012001_msg0017",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하긴 말투가\n맥 빠지는 말투이기는 하던데"
+  }, {
+    "$id" : 18,
+    "label" : "tq012001_msg0018",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 집정관은 집정관이야\n얕봤다간 큰코다칠 거라고"
+  }, {
+    "$id" : 19,
+    "label" : "tq012001_msg0019",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞는 말이야. 하지만 싸운다고 해도\n콜로니 안에서는 안 돼"
+  }, {
+    "$id" : 20,
+    "label" : "tq012001_msg0020",
+    "talker" : "2",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 콜로니 타우 사람들에게\n무슨 짓을 할지 모르니까……"
+  }, {
+    "$id" : 21,
+    "label" : "tq012001_msg0021",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 서둘러 돌아가자"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120301_msg0001",
+    "talker" : "YY1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아앙?! 이제 보니까\n각인이 달라졌잖아?!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120301_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기를 거듭할수록\n각인이 조금씩 줄어들거든\n나는 10기니까 곧 있으면……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120301_msg0003",
+    "talker" : "YY1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "10기?! 젠장, 졌다아아아!!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120301_msg0004",
+    "talker" : "YY1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난, 어, 5기니까……\n그럼 몇 기나 부족한 거지?\n젠장! 졌다아아아!!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk120301_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어디서부터 지적하면 돼?"
+  } ]
+}

@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk310704_msg0001",
+    "talker" : "tc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들, 콜로니 타우에 있는\n세리란 사람 알지?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk310704_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 물론이지\n그게 왜?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk310704_msg0003",
+    "talker" : "tc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "람다에서 빌려준 탐지기로\n자원을 찾았다는 연락이 있었거든"
+  }, {
+    "$id" : 4,
+    "label" : "tlk310704_msg0004",
+    "talker" : "tc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 다행이야. 콜로니 타우와는\n좋은 관계를 쌓을 수 있겠어"
+  } ]
+}

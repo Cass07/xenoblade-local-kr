@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<C997617D>",
+    "talker" : "kp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사실은 있잖아, 우리 이래 보여도\n당신들을 계속 응원했거든?"
+  }, {
+    "$id" : 2,
+    "label" : "<70024344>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 그랬어?"
+  }, {
+    "$id" : 3,
+    "label" : "<957C95A6>",
+    "talker" : "lp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 뫼비우스랑 싸워서 쓰러뜨렸다면서?\n진짜 완전 리스펙트~ 그런 느낌으로!"
+  }, {
+    "$id" : 4,
+    "label" : "<1FAA09E9>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "완전 리스펙트……?"
+  }, {
+    "$id" : 5,
+    "label" : "<47528C48>",
+    "talker" : "kp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 티안도\n로스트 넘버즈로서 힘이 되어 줄게!\n가능한 만큼이겠지만!"
+  }, {
+    "$id" : 6,
+    "label" : "<421D9757>",
+    "talker" : "lp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마티 씨한테도\n안부 인사 부탁할게~ 아하하하!"
+  }, {
+    "$id" : 7,
+    "label" : "<DE3970E3>",
+    "talker" : "lp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마티 씨도 힘내!"
+  }, {
+    "$id" : 8,
+    "label" : "<0A94CA9A>",
+    "talker" : "W1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후후\n응원 감사해요"
+  } ]
+}

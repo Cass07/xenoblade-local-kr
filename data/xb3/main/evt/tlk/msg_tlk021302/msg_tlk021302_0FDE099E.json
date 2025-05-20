@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk021302_msg0001",
+    "talker" : "ZW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "교육에 앞서 걱정되는 마음은 알겠지만\n그렇게 긴장하지 않아도 괜찮습니다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk021302_msg0002",
+    "talker" : "ZW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신병들의 말에 귀를 기울이고\n성심성의껏 대해 주면\n자연스레 마음을 열 겁니다"
+  }, {
+    "$id" : 3,
+    "label" : "tlk021302_msg0003",
+    "talker" : "ZW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부디 여러분의 힘으로\n그들이 케베스와 아그누스 간의\n벽을 허물 수 있게 도와주세요"
+  } ]
+}

@@ -1,0 +1,214 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012304_msg0001",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건…… 이치카의\n개인 데이터인가?"
+  }, {
+    "$id" : 2,
+    "label" : "tq012304_msg0002",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이쪽에는 다른 사람 것도……"
+  }, {
+    "$id" : 3,
+    "label" : "tq012304_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "위장할 때 쓰는 설정일 수도 있어"
+  }, {
+    "$id" : 4,
+    "label" : "tq012304_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마도 이런 식으로\n어떤 사람으로 \"위장\"할지를\n정해 왔을 거야"
+  }, {
+    "$id" : 5,
+    "label" : "tq012304_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스와 거래할 때\n모습을 바꿔야 했을지도 모르지"
+  }, {
+    "$id" : 6,
+    "label" : "tq012304_msg0006",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이쪽은 \"수확\" 대상자 리스트야……"
+  }, {
+    "$id" : 7,
+    "label" : "tq012304_msg0007",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……케베스 것도 있는데?"
+  }, {
+    "$id" : 8,
+    "label" : "tq012304_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그녀는 아마\n케베스의 집정관이기도 했겠지"
+  }, {
+    "$id" : 9,
+    "label" : "tq012304_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모습을 감추는 시기가 있었던 건\n케베스의 집정관으로\n활동했기 때문인 거고……"
+  }, {
+    "$id" : 10,
+    "label" : "tq012304_msg0010",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……마시로, 괜찮아?"
+  }, {
+    "$id" : 11,
+    "label" : "tq012304_msg0011",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……다 안다고 생각했는데"
+  }, {
+    "$id" : 12,
+    "label" : "tq012304_msg0012",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 이렇게 괴로울까……?"
+  }, {
+    "$id" : 13,
+    "label" : "tq012304_msg0013",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……괴로운 게 당연해\n아무것도 몰랐던 자신이\n갈가리 찢겨 나가는 느낌일 거야"
+  }, {
+    "$id" : 14,
+    "label" : "tq012304_msg0014",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래도 마시로는 진실을 알기로\n마음먹었잖아…… 그렇지?"
+  }, {
+    "$id" : 15,
+    "label" : "tq012304_msg0015",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그 말대로야"
+  }, {
+    "$id" : 16,
+    "label" : "tq012304_msg0016",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괴로워도 잊지 않겠다고\n그때 결심했으니까……"
+  }, {
+    "$id" : 17,
+    "label" : "tq012304_msg0017",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……게다가 아직\n다 확인한 게 아니야"
+  }, {
+    "$id" : 18,
+    "label" : "tq012304_msg0018",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "열쇠를 아직 사용하지 않았어요모"
+  }, {
+    "$id" : 19,
+    "label" : "tq012304_msg0019",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정신 바짝 차려모"
+  }, {
+    "$id" : 20,
+    "label" : "tq012304_msg0020",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보이는 게 전부가 아니라는 걸\n마시로도 배웠잖아모"
+  }, {
+    "$id" : 21,
+    "label" : "tq012304_msg0021",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응\n고마워, 릿쿠"
+  } ]
+}

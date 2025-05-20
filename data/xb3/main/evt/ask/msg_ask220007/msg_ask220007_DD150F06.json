@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<4E0E817F>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 30 주변에는 아르마가 많네"
+  }, {
+    "$id" : 2,
+    "label" : "<3194B49F>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "먹을 걸로 곤란하진 않겠어\n아르마 고기는 맛있으니까"
+  }, {
+    "$id" : 3,
+    "label" : "<AC2729A0>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 아르마, 아르마 하는데\n정확히는 아르마속이야"
+  }, {
+    "$id" : 4,
+    "label" : "<9A6A1627>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뿔이 있는 쪽을 아르돈이라고 하고\n없는 쪽을 아르마라고 하지"
+  }, {
+    "$id" : 5,
+    "label" : "<C5868BDF>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1200,
+    "style" : 126,
+    "name" : "참고로 육질은\n아르마가 아르돈보다\n피하 지방이 많아서 더 맛있다고 해"
+  }, {
+    "$id" : 6,
+    "label" : "<E28BB0FF>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1200,
+    "style" : 126,
+    "name" : "반면에 아르돈의 뿔은\n자양 강장에 도움이 되는 약효 성분이\n풍부해서 분말로 만들어 먹으면 몸에 좋다더군"
+  }, {
+    "$id" : 7,
+    "label" : "<D18AFE80>",
+    "talker" : "4",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 질문 있어?"
+  }, {
+    "$id" : 8,
+    "label" : "<8F13B003>",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그렇구나! 대단하네!"
+  }, {
+    "$id" : 9,
+    "label" : "<A9512646>",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "누가 그런 것까지 궁금하댔냐……\n넌 아르마 애호가야, 뭐야?"
+  } ]
+}

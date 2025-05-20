@@ -1,0 +1,53 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<4C1B499A>",
+    "style" : 11,
+    "name" : "브레이크"
+  }, {
+    "$id" : 2,
+    "label" : "<B08D1796>",
+    "style" : 11,
+    "name" : "다운"
+  }, {
+    "$id" : 3,
+    "label" : "<2CCA106F>",
+    "style" : 11,
+    "name" : "라이징"
+  }, {
+    "$id" : 4,
+    "label" : "<BEA3F665>",
+    "style" : 11,
+    "name" : "스매시"
+  }, {
+    "$id" : 5,
+    "label" : "<462ED6B7>",
+    "style" : 11,
+    "name" : "스턴"
+  }, {
+    "$id" : 6,
+    "label" : "<D9DC134A>",
+    "style" : 11,
+    "name" : "버스트"
+  }, {
+    "$id" : 7,
+    "label" : "<00FAB885>",
+    "style" : 11,
+    "name" : "넉 백"
+  }, {
+    "$id" : 8,
+    "label" : "<684E770F>",
+    "style" : 11,
+    "name" : "블로"
+  } ]
+}

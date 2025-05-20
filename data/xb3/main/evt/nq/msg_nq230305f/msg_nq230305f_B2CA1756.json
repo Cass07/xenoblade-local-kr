@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq230305_msg0001",
+    "talker" : "ke1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수고하셨습니다~ 이젤 씨\n꽤 큰 게 잡혔네요~\n이거 기록 갱신감 아닌가요?"
+  }, {
+    "$id" : 2,
+    "label" : "nq230305_msg0002",
+    "talker" : "ge1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아니\n\"그건\" 이 정도가 아냐"
+  }, {
+    "$id" : 3,
+    "label" : "nq230305_msg0003",
+    "talker" : "ge1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 진심으로 사냥하고 싶은\n그 사냥감에는…… 아직 한참 못 미쳐"
+  }, {
+    "$id" : 4,
+    "label" : "nq230305_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래서 네 사냥은\n이걸로 끝이지?"
+  }, {
+    "$id" : 5,
+    "label" : "nq230305_msg0005",
+    "talker" : "ge1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직이야, 사냥감을 콜로니 11으로\n가지고 돌아가야 해"
+  }, {
+    "$id" : 6,
+    "label" : "nq230305_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸 가지고 돌아간다니……\n잠깐만, 설마……"
+  }, {
+    "$id" : 7,
+    "label" : "nq230305_msg0007",
+    "talker" : "ke1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자~ 서두르셔야죠~\n신선도가 떨어진다고요~"
+  }, {
+    "$id" : 8,
+    "label" : "nq230305_msg0008",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으엑…… 이건 아니지……"
+  } ]
+}

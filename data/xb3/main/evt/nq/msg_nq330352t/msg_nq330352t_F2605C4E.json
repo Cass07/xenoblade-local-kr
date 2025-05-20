@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330352_msg0001",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "츠무기한테 들었어요~!"
+  }, {
+    "$id" : 2,
+    "label" : "nq330352_msg0002",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아르마가 늘어나면\n식재료도 많이 늘어나겠네요~"
+  }, {
+    "$id" : 3,
+    "label" : "nq330352_msg0003",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 아르마들이랑 함께 있는\n츠무기가 즐거워 보이니까……"
+  }, {
+    "$id" : 4,
+    "label" : "nq330352_msg0004",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니코는 그런 점도 기뻐요~"
+  }, {
+    "$id" : 5,
+    "label" : "nq330352_msg0101",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "솔직히 말해서 아르마들 식량을\n깜빡하고 있었어요……"
+  }, {
+    "$id" : 6,
+    "label" : "nq330352_msg0102",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "울타리나 텐트에 필요한 비품은\n계산해 뒀는데~"
+  }, {
+    "$id" : 7,
+    "label" : "nq330352_msg0103",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실수로 아르마를 식량으로 세는 바람에……\n수정해야 할 게 많네요~"
+  } ]
+}

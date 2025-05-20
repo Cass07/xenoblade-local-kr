@@ -1,0 +1,223 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310700_msg0001",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐! 잠깐만 기다려 줘!"
+  }, {
+    "$id" : 2,
+    "label" : "nq310700_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그래?"
+  }, {
+    "$id" : 3,
+    "label" : "nq310700_msg0003",
+    "talker" : "wk1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스!\n부탁하고 싶은 게 있어"
+  }, {
+    "$id" : 4,
+    "label" : "nq310700_msg0004",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아르카폴 반도로 원정을 나가서\n돌아오질 않는 로스트 넘버즈가 있거든……"
+  }, {
+    "$id" : 5,
+    "label" : "nq310700_msg0005",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 사람들을 찾아 줬으면 해"
+  }, {
+    "$id" : 6,
+    "label" : "nq310700_msg0006",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 7,
+    "label" : "nq310700_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 일이 있었길래?\n이야기를 더 자세히……"
+  }, {
+    "$id" : 8,
+    "label" : "nq310700_msg0008",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아! 나한테 맡기라고!\n마침 시간이 남아돌던 참이거든!"
+  }, {
+    "$id" : 9,
+    "label" : "nq310700_msg0009",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혼자 멋대로 수락하지 마\n그리고 우린 그럴 시간……"
+  }, {
+    "$id" : 10,
+    "label" : "nq310700_msg0010",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한가하잖아?\n이 조그만 꼬맹이가 어른인 우리한테\n이렇게 진지하게 부탁하고 있다고"
+  }, {
+    "$id" : 11,
+    "label" : "nq310700_msg0011",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이것보다 더 급한 볼일이 있을까?\n아니, 있을 리가 없지!"
+  }, {
+    "$id" : 12,
+    "label" : "nq310700_msg0012",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "속마음은 어떤데?"
+  }, {
+    "$id" : 13,
+    "label" : "nq310700_msg0013",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔가 재밌을 것 같잖아!\n하하하하!"
+  }, {
+    "$id" : 14,
+    "label" : "nq310700_msg0014",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "장난하는 거 아니야!\n이건 여섯 씨족 중 오츠 가문의\n시노로서 부탁하는 거라고!"
+  }, {
+    "$id" : 15,
+    "label" : "nq310700_msg0015",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 왜 네가 부탁하는 거야?"
+  }, {
+    "$id" : 16,
+    "label" : "nq310700_msg0016",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "행방을 알 수 없는\n로스트 넘버즈 중에……\n우리 아빠가 있거든"
+  }, {
+    "$id" : 17,
+    "label" : "nq310700_msg0017",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 아르카폴 반도로 가자"
+  }, {
+    "$id" : 18,
+    "label" : "nq310700_msg0018",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래"
+  }, {
+    "$id" : 19,
+    "label" : "nq310700_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "단서 같은 건 있어?"
+  }, {
+    "$id" : 20,
+    "label" : "nq310700_msg0020",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "돌아오지 않은 사람들은\n노획 부대의 히라치반 소속이야"
+  }, {
+    "$id" : 21,
+    "label" : "nq310700_msg0021",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어른들이 다급해하는 걸 보면\n상황이 안 좋은 건 분명한데……"
+  }, {
+    "$id" : 22,
+    "label" : "nq310700_msg0022",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 반드시 찾아서\n시티로 데려올게"
+  } ]
+}

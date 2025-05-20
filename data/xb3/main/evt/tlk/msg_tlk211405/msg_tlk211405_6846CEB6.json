@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk211405_msg0001",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 레브니스라면 걱정 마세요!\n수리는 잘되고 있습니다!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk211405_msg0002",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제 입으로 말하긴 부끄럽지만……\n제가 이래 봬도 천재거든요!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk211405_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 엄청난 뻔뻔함은\n어떤 면에선 존경스러울 정도야……"
+  } ]
+}

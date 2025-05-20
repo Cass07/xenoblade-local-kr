@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk710404_msg0001",
+    "talker" : "uk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티가 뫼비우스에게\n습격당하는 날이 오다니…… 놀랐어요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk710404_msg0002",
+    "talker" : "uk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 오빠와 미즈키를 비롯한 모두가\n늘 이런 위험 속에서 임무를 다했던 거겠죠\n저희들의 삶을 지키기 위해……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk710404_msg0003",
+    "talker" : "uk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니 저도 할 수 있는 일을 할래요\n슬퍼하기만 해 봤자 바뀌는 건 없다는 걸\n여러분께 배웠으니까요!"
+  } ]
+}

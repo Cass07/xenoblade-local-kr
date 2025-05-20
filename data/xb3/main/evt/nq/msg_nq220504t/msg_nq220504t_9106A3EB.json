@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq220504_msg0001",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안녕하세요, 여러분\n그쪽은 아그누스 측의 친구분이시군요?"
+  }, {
+    "$id" : 2,
+    "label" : "nq220504_msg0002",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사람을 찾고 있습니다\n사이바라라는 병사를 아시나요?"
+  }, {
+    "$id" : 3,
+    "label" : "nq220504_msg0003",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사이바라…… 아……\n콜로니 타우에서 왔다고 하던 그……"
+  }, {
+    "$id" : 4,
+    "label" : "nq220504_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알고 있어?"
+  }, {
+    "$id" : 5,
+    "label" : "nq220504_msg0005",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알고 있다고 할 정도는\n아닙니다. 그저……"
+  }, {
+    "$id" : 6,
+    "label" : "nq220504_msg0006",
+    "talker" : "@Z1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 의심스러운 행동을 하고 있었거든요"
+  }, {
+    "$id" : 7,
+    "label" : "nq220504_msg0007",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 수상한 짓을 할 만한\n사람은 아닙니다만……"
+  }, {
+    "$id" : 8,
+    "label" : "nq220504_msg0008",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기 자재 조달반이나 전술반은 물론\n다른 반들까지도 들쑤시고 다니면서\n뭔가를 찾고 있는 듯했습니다만……"
+  }, {
+    "$id" : 9,
+    "label" : "nq220504_msg0009",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다고 첩자라 하기에는\n무방비해 보여서\n실상이 어떤지는 모르겠군요"
+  }, {
+    "$id" : 10,
+    "label" : "nq220504_msg0010",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬군요\n감사합니다"
+  } ]
+}

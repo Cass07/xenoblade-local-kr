@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830403_msg0001",
+    "talker" : "iq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그레그레가 이제 슬슬\n다른 지방으로 가자고 그랬어모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830403_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그레그레를 따라가려고?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830403_msg0003",
+    "talker" : "iq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그레그레와 바루바루는\n미식의 끝을 추구하는 여행 중이야모\n그러니 언제나 함께지모"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830403_msg0004",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬구나……\n건강하게 지내"
+  }, {
+    "$id" : 5,
+    "label" : "tlk830403_msg0005",
+    "talker" : "iq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다음에 만나면\n또 열심히 버섯 토크하자모!"
+  } ]
+}

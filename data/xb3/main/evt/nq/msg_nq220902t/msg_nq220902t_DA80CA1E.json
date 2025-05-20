@@ -1,0 +1,196 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<6D818A05>",
+    "talker" : "gd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조사해 볼 테니 기다려"
+  }, {
+    "$id" : 2,
+    "label" : "<68960DA4>",
+    "talker" : "gd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하아…… 저쪽 샘하고 똑같아\n성분에 차이가 전혀 없어"
+  }, {
+    "$id" : 3,
+    "label" : "<A37198B5>",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런가요……"
+  }, {
+    "$id" : 4,
+    "label" : "<441D3916>",
+    "talker" : "gd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물만 길 거라면 이쪽이 안전하겠어"
+  }, {
+    "$id" : 5,
+    "label" : "<C5F7CDE8>",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물을 길으러 저쪽까지 갔다가\n다친 사람이 생겼을 정도니"
+  }, {
+    "$id" : 6,
+    "label" : "<B26178B4>",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "따질 것도 없이 이쪽이 좋겠네요"
+  }, {
+    "$id" : 7,
+    "label" : "<E53FF382>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "두 샘 모두 물맛은 좋으니까"
+  }, {
+    "$id" : 8,
+    "label" : "<9F4DC35F>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 왜 저쪽 샘물을 마시면\n힘이 솟는다는 소문이 난 거지?"
+  }, {
+    "$id" : 9,
+    "label" : "<294D479B>",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저도 모르겠어요\n입에서 입으로 전해진 이야기라서요"
+  }, {
+    "$id" : 10,
+    "label" : "<D450C083>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "풍습이란 게 원래 그래\n황당무계하기도 하지만\n마냥 다 거짓말로 치부할 수도 없지"
+  }, {
+    "$id" : 11,
+    "label" : "<7F52FEA6>",
+    "talker" : "gd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요카제도 고생해서 물 길으러 다녔었으니\n이제 좀 편해졌으면 좋겠는데"
+  }, {
+    "$id" : 12,
+    "label" : "<63FDDF27>",
+    "talker" : "gd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 콜로니에는 부상자가 많아서\n그 사람들 치료하느라\n고생이기도 하니까"
+  }, {
+    "$id" : 13,
+    "label" : "<E16F48E5>",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "남은 사람은 코다치네요\n물 긷는 건 요카제와 코다치가\n솔선해서 다니곤 했습니다"
+  }, {
+    "$id" : 14,
+    "label" : "<4DA41CCB>",
+    "talker" : "gd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "코다치는 경계심이 강해서\n다행히 아직 몬스터를\n만나지는 않았다나 봐"
+  }, {
+    "$id" : 15,
+    "label" : "<C029E7DC>",
+    "talker" : "gd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기서 물을 긷는다면\n좀 더 안심하고 다닐 수 있을 거야"
+  }, {
+    "$id" : 16,
+    "label" : "<92600DD0>",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 일을 대신 전해 줄 수 있나요?"
+  }, {
+    "$id" : 17,
+    "label" : "<8F449C87>",
+    "talker" : "gd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어\n일단 물을 길어서 돌아갈게\n도와줘서 고마워"
+  }, {
+    "$id" : 18,
+    "label" : "<0CBD83E2>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 별거 아냐\n이번 일로 다치는 사람만 안 생기면 그만이지"
+  }, {
+    "$id" : 19,
+    "label" : "<113A4DC9>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 조금이라도 이런 문제들이\n차차 개선됐으면 좋겠네"
+  } ]
+}

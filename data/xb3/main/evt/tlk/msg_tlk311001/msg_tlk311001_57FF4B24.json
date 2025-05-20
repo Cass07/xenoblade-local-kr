@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk311001_msg0001",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이스루기는 어떤 사람이야?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk311001_msg0002",
+    "talker" : "wc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠…… 군무장님 말이지……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk311001_msg0003",
+    "talker" : "wc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장님께선 아그누스 내에서 손꼽히는\n힐러시지만 공격 또한 능숙하시지"
+  }, {
+    "$id" : 4,
+    "label" : "tlk311001_msg0004",
+    "talker" : "wc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "회복해야 할 동료가 없으면 공격을 도와주시고\n위험에 빠지면 탤런트 아츠로 구해 주셔"
+  }, {
+    "$id" : 5,
+    "label" : "tlk311001_msg0005",
+    "talker" : "wc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "평소엔 지휘를 맡으시니까\n함께 싸울 일이 거의 없지만……\n정말 넋을 잃고 쳐다보게 되더라고"
+  } ]
+}

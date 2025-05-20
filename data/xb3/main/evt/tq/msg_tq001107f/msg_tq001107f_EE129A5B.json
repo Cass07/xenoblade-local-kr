@@ -1,0 +1,304 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001107_msg0001",
+    "talker" : "yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하아……\n어쩌면 좋지모……"
+  }, {
+    "$id" : 2,
+    "label" : "tq001107_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐 괜찮을까?"
+  }, {
+    "$id" : 3,
+    "label" : "tq001107_msg0003",
+    "talker" : "yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모못?!"
+  }, {
+    "$id" : 4,
+    "label" : "tq001107_msg0004",
+    "talker" : "yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 잘못했어모~!"
+  }, {
+    "$id" : 5,
+    "label" : "tq001107_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직 아무 말도 안 했는데"
+  }, {
+    "$id" : 6,
+    "label" : "tq001107_msg0006",
+    "talker" : "yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말하지 않아도 알아모\n못된 스미미를 찾으러 왔잖아모"
+  }, {
+    "$id" : 7,
+    "label" : "tq001107_msg0007",
+    "talker" : "yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "폐를 끼칠 생각은 없었어모\n스미미는 그저……"
+  }, {
+    "$id" : 8,
+    "label" : "tq001107_msg0008",
+    "talker" : "yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜 숨바꼭질을\n즐기고 싶었어모……"
+  }, {
+    "$id" : 9,
+    "label" : "tq001107_msg0009",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "숨바꼭질이…… 뭐지?"
+  }, {
+    "$id" : 10,
+    "label" : "tq001107_msg0010",
+    "talker" : "yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "숨으면 안 되는 곳에 일부러 숨는\n궁극의 놀이야모"
+  }, {
+    "$id" : 11,
+    "label" : "tq001107_msg0011",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일부러 금기를 범한다고……?"
+  }, {
+    "$id" : 12,
+    "label" : "tq001107_msg0012",
+    "talker" : "yk1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모못~?!\n무서운 얼굴 하지 마모~"
+  }, {
+    "$id" : 13,
+    "label" : "tq001107_msg0013",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 왜 요람을 연 거지?"
+  }, {
+    "$id" : 14,
+    "label" : "tq001107_msg0014",
+    "talker" : "yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "패널에 올라갔더니\n열린 것뿐이야모!"
+  }, {
+    "$id" : 15,
+    "label" : "tq001107_msg0015",
+    "talker" : "yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬더니 여자아이가 깨어나서……\n정말, 정말로 미안해모"
+  }, {
+    "$id" : 16,
+    "label" : "tq001107_msg0016",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알았으니 눈물을 닦아라\n배까지 흠뻑 젖어 있지 않나"
+  }, {
+    "$id" : 17,
+    "label" : "tq001107_msg0017",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 어떻게 됐지?\n눈을 뜬 병사는 같이 있지 않은 건가?"
+  }, {
+    "$id" : 18,
+    "label" : "tq001107_msg0018",
+    "talker" : "yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스미미는 그만 무서워서\n도망쳤어모……"
+  }, {
+    "$id" : 19,
+    "label" : "tq001107_msg0019",
+    "talker" : "yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 어디로 갔는지는\n대충 알고 있어모"
+  }, {
+    "$id" : 20,
+    "label" : "tq001107_msg0020",
+    "talker" : "yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "센틀 큰길 쪽으로 갔을 거야모"
+  }, {
+    "$id" : 21,
+    "label" : "tq001107_msg0021",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "태연자약…… 유양불박……"
+  }, {
+    "$id" : 22,
+    "label" : "tq001107_msg0022",
+    "talker" : "yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……모못? 왜 그래모?"
+  }, {
+    "$id" : 23,
+    "label" : "tq001107_msg0023",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신경 쓰지 않아도 돼\n그냥…… 마음을 진정시키려는 거니까"
+  }, {
+    "$id" : 24,
+    "label" : "tq001107_msg0024",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 그 얘기, 트래비스 씨한테 말했어\n스미미를 데리러 오겠대"
+  }, {
+    "$id" : 25,
+    "label" : "tq001107_msg0025",
+    "talker" : "yk1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜로 혼나겠지모……?"
+  }, {
+    "$id" : 26,
+    "label" : "tq001107_msg0026",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "크게 혼을 내지야 않겠지만\n반성은 제대로 해야지"
+  }, {
+    "$id" : 27,
+    "label" : "tq001107_msg0027",
+    "talker" : "yk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모모……"
+  }, {
+    "$id" : 28,
+    "label" : "tq001107_msg0028",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스미미는 트래비스에게 맡기고\n우리는 에셀을 뒤쫓자"
+  }, {
+    "$id" : 29,
+    "label" : "tq001107_msg0029",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 모습이라면 센틀 큰길에 있는\n사람들이 뭔가 봤을지도 몰라"
+  }, {
+    "$id" : 30,
+    "label" : "tq001107_msg0030",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇겠군"
+  }, {
+    "$id" : 31,
+    "label" : "tq001107_msg0031",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 가 보도록 하지……"
+  } ]
+}

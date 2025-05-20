@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001116t_msg0001",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다 들었어, 트래비스\n애를 돌보고 있다며?"
+  }, {
+    "$id" : 2,
+    "label" : "tq001116t_msg0002",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보스…… 저 독신이거든요?\n그건 좀 너무한 농담 같은데요, 하하하"
+  }, {
+    "$id" : 3,
+    "label" : "tq001116t_msg0003",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흐음? 내 기억이 잘못됐나……"
+  }, {
+    "$id" : 4,
+    "label" : "tq001116t_msg0004",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "듣기로는 혼자서 레브니스 조종을\n시도하는 용감한 아이라고 하던데"
+  }, {
+    "$id" : 5,
+    "label" : "tq001116t_msg0005",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하…… 그거참……\n정말이라면 놀라운 재능이네요……"
+  }, {
+    "$id" : 6,
+    "label" : "tq001116t_msg0006",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지? 그러면\n조만간 시간 내서 이야기라도……"
+  }, {
+    "$id" : 7,
+    "label" : "tq001116t_msg0007",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네……?"
+  }, {
+    "$id" : 8,
+    "label" : "tq001116t_msg0008",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "문제 있어?"
+  }, {
+    "$id" : 9,
+    "label" : "tq001116t_msg0009",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아뇨, 그럴 리가요…… 얼마든지……"
+  }, {
+    "$id" : 10,
+    "label" : "tq001116t_msg0010",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗…… 기대하고 있을게\n술이 제법 맛있겠는걸"
+  } ]
+}

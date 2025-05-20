@@ -1,0 +1,331 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001903_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "겨우 따돌린 것 같네"
+  }, {
+    "$id" : 2,
+    "label" : "tq001903_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "참 나, 저 녀석들은 대체 뭐야?"
+  }, {
+    "$id" : 3,
+    "label" : "tq001903_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한마디로 수완 좋은 콜로니야\n야심도 크고 아름답지 못한 싸움을 하지"
+  }, {
+    "$id" : 4,
+    "label" : "tq001903_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야, 아름답지 못한 싸움이라는 건……"
+  }, {
+    "$id" : 5,
+    "label" : "tq001903_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "효율적으로 전투 평가만 챙기는 거야"
+  }, {
+    "$id" : 6,
+    "label" : "tq001903_msg0006",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러다 요전에\n드디어 실버 랭크로 올라갔는데……"
+  }, {
+    "$id" : 7,
+    "label" : "tq001903_msg0007",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 콜로니에도 물자를 나눠 준대\n대단하지 않아?"
+  }, {
+    "$id" : 8,
+    "label" : "tq001903_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물자를? 굳이 왜 그런 걸 해?"
+  }, {
+    "$id" : 9,
+    "label" : "tq001903_msg0009",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "장기적으로 보면\n유리하니까……라는 이유일 거야"
+  }, {
+    "$id" : 10,
+    "label" : "tq001903_msg0010",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빚을 만들어서 아군이라는 패를\n늘려 놓으면 전술의 폭도 넓어지지"
+  }, {
+    "$id" : 11,
+    "label" : "tq001903_msg0011",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 해서 전적을 올리면\n물자도 더 많이 획득할 수 있다\n……라는 건가"
+  }, {
+    "$id" : 12,
+    "label" : "tq001903_msg0012",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거참 성가신 녀석들이네……"
+  }, {
+    "$id" : 13,
+    "label" : "tq001903_msg0013",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 니나 본인이 선언한 대로\n반드시 우릴 다시 공격할 거야"
+  }, {
+    "$id" : 14,
+    "label" : "tq001903_msg0014",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "반역자를 쓰러뜨리면\n전투 평가를 높게 받을 테니까……"
+  }, {
+    "$id" : 15,
+    "label" : "tq001903_msg0015",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 본때를 보여 줄까?"
+  }, {
+    "$id" : 16,
+    "label" : "tq001903_msg0016",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바보야, 상대는 실버라니까?"
+  }, {
+    "$id" : 17,
+    "label" : "tq001903_msg0017",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어찌 됐든\n콜로니 요타의 유격대는\n4개의 부대로 구성되어 있어"
+  }, {
+    "$id" : 18,
+    "label" : "tq001903_msg0018",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "경계해도 맞닥뜨릴 가능성이 더 크니까\n어떻게 대응할지 미리 정해 둬야 해"
+  }, {
+    "$id" : 19,
+    "label" : "tq001903_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면……"
+  }, {
+    "$id" : 20,
+    "label" : "tq001903_msg0101",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전력은 저쪽이 유리하니까\n맞붙는 건 피하자"
+  }, {
+    "$id" : 21,
+    "label" : "tq001903_msg0102",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다만 그 유격 부대를 격파한다면\n그들의 전력이 줄어들 테니까……"
+  }, {
+    "$id" : 22,
+    "label" : "tq001903_msg0103",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이쪽에서 공격할 틈도 생긴다는 거야?"
+  }, {
+    "$id" : 23,
+    "label" : "tq001903_msg0104",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 정말\n필요하다면 말이지만……"
+  }, {
+    "$id" : 24,
+    "label" : "tq001903_msg0105",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기본적으로는\n싸우지 않는 방침이라는 거네\n나는 찬성이야!"
+  }, {
+    "$id" : 25,
+    "label" : "tq001903_msg0106",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 이견은 없어"
+  }, {
+    "$id" : 26,
+    "label" : "tq001903_msg0107",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐가 됐든 간에\n일단 맞닥뜨리지 않길 빌자고……"
+  }, {
+    "$id" : 27,
+    "label" : "tq001903_msg0201",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "화근이 될 만한 요소는 없는 게 좋으니\n차라리 이쪽에서 치고 나가자"
+  }, {
+    "$id" : 28,
+    "label" : "tq001903_msg0202",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 요타로\n직접 쳐들어가자고?"
+  }, {
+    "$id" : 29,
+    "label" : "tq001903_msg0203",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전술만 놓고 보면\n선수를 빼앗는 쪽이 유리해"
+  }, {
+    "$id" : 30,
+    "label" : "tq001903_msg0204",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금의 전력이라면 가능하겠지만……\n판단은 너희에게 맡길게"
+  }, {
+    "$id" : 31,
+    "label" : "tq001903_msg0205",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쳐들어간다 해도\n준비는 필요할 테니까"
+  }, {
+    "$id" : 32,
+    "label" : "tq001903_msg0206",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알겠어\n콜로니 요타 공략, 나도 찬성이야"
+  }, {
+    "$id" : 33,
+    "label" : "tq001903_msg0207",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 노리는 건 어디까지나 생명의 불시계야\n가기 전에 철저히 대비하자"
+  }, {
+    "$id" : 34,
+    "label" : "tq001903_msg0208",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래"
+  } ]
+}

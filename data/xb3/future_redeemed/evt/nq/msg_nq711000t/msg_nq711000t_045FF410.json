@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<3C776127>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아, 렉스\n또 뭔가 새로운 요리 만들어 주면 안 돼?"
+  }, {
+    "$id" : 2,
+    "label" : "<0F3BCB09>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러지 뭐"
+  }, {
+    "$id" : 3,
+    "label" : "<E885D3B8>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "탱글탱글 삶은 가짜 로브스터 어때?"
+  }, {
+    "$id" : 4,
+    "label" : "<149C374E>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 맛있을 거 같은데?\n……아니, 근데 벌써 메뉴까지 생각해 놨어?"
+  }, {
+    "$id" : 5,
+    "label" : "<14C280FA>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "묘하게 의욕적이네\n……요리에 재미 붙였어?"
+  }, {
+    "$id" : 6,
+    "label" : "<3E4FF1C9>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗……"
+  }, {
+    "$id" : 7,
+    "label" : "<7A495E52>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얼버무렸네……"
+  }, {
+    "$id" : 8,
+    "label" : "<66C0EC15>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쨌든 식재료부터 모으자고\n필요한 건 이거야"
+  } ]
+}

@@ -1,0 +1,187 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq210803_msg0001",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어? 발자국이 끊겼는데……"
+  }, {
+    "$id" : 2,
+    "label" : "nq210803_msg0002",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떻게 된 거지?"
+  }, {
+    "$id" : 3,
+    "label" : "nq210803_msg0003",
+    "talker" : "sc106sc10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 당신들 지금 어디야?"
+  }, {
+    "$id" : 4,
+    "label" : "nq210803_msg0004",
+    "talker" : "10300",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 지금 침입자로 보이는 사람의\n발자국을 쫓고 있어"
+  }, {
+    "$id" : 5,
+    "label" : "nq210803_msg0005",
+    "talker" : "sc104sc10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마 침입자는\n모르크나 대삼림 하층으로 도망쳤을 거야"
+  }, {
+    "$id" : 6,
+    "label" : "nq210803_msg0006",
+    "talker" : "10300",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하층? 그건 어떻게 알았어?"
+  }, {
+    "$id" : 7,
+    "label" : "nq210803_msg0007",
+    "talker" : "sc104sc10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "공병대가 자율형 레브니스로\n조사한 거야"
+  }, {
+    "$id" : 8,
+    "label" : "nq210803_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자율형 레브니스의\n사용 허가까지 나왔다니……"
+  }, {
+    "$id" : 9,
+    "label" : "nq210803_msg0009",
+    "talker" : "sc104sc10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자율형 레브니스는 우리가 전담하니까\n허가 없이 쓰고 있어\n군무장님께는 비밀인 거 알지?"
+  }, {
+    "$id" : 10,
+    "label" : "nq210803_msg0010",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아니, 그 군무장님 여기 있는데"
+  }, {
+    "$id" : 11,
+    "label" : "nq210803_msg0011",
+    "talker" : "sc104sc10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쨌든 침입자를 쫓아갈 거면\n하층으로 가 봐. 부탁할게"
+  }, {
+    "$id" : 12,
+    "label" : "nq210803_msg0012",
+    "talker" : "sc104sc10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그리고 이타리가 전해 달라던 말이 있었어"
+  }, {
+    "$id" : 13,
+    "label" : "nq210803_msg0013",
+    "talker" : "sc104sc10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "침입자의 행동을 분석해 봤는데\n그 녀석들이 뭔가 계책이 있는 것 같대"
+  }, {
+    "$id" : 14,
+    "label" : "nq210803_msg0014",
+    "talker" : "sc104sc10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약 전투가 벌어지면\n그 사실을 염두에 두고 싸우도록 해"
+  }, {
+    "$id" : 15,
+    "label" : "nq210803_msg0015",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 걸 맘대로 써도 되는 거야?"
+  }, {
+    "$id" : 16,
+    "label" : "nq210803_msg0016",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신경 쓰지 않아도 돼\n내가 허가받지 않아도 된다고 말했으니"
+  }, {
+    "$id" : 17,
+    "label" : "nq210803_msg0017",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무튼 잡담은 나중에 하고\n지정된 장소로 가 보자"
+  }, {
+    "$id" : 18,
+    "label" : "nq210803_msg0018",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그래…… 그러지 뭐!"
+  } ]
+}

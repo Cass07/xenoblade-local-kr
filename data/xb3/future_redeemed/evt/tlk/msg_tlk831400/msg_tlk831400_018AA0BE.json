@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831400_msg0001",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "할아버지의 카레는\n콜로니 9에서도 평가가 좋았었지만……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831400_msg0002",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "설마 지금 와서 인기가 폭발하다니\n아무리 우리 할아버지라 해도\n이건 예상 못 하셨을 검다"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831400_msg0003",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하…… 그럴 수도 있겠네\n그래도 어쨌든 코팜 씨는 기뻐하실 거야"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831400_msg0004",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇겠죠\n그야말로 기쁜 오산임다"
+  }, {
+    "$id" : 5,
+    "label" : "tlk831400_msg0005",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정 말라고\n내가 카레 전도사가 되어서\n천 년 뒤에도 회자되게 해 줄 테니까!"
+  }, {
+    "$id" : 6,
+    "label" : "tlk831400_msg0006",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너, 카레 이야기만 나오면\n묘하게 들떠 있지 않아……?"
+  }, {
+    "$id" : 7,
+    "label" : "tlk831400_msg0007",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아하하, 열성 팬도 생겼으니\n우리 카레의 앞날은 탄탄대로임다"
+  } ]
+}

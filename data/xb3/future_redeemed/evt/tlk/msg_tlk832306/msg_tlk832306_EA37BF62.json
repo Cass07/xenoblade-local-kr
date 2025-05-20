@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk832306_msg0001",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니 너 그거 알아?\n릭키 녀석이 나엘한테 반했던데"
+  }, {
+    "$id" : 2,
+    "label" : "tlk832306_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐? 정말?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk832306_msg0003",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 거짓말이겠냐?\n역시 모르고 있었군……\n하기야, 넌 그런 면에선 둔하니까"
+  }, {
+    "$id" : 4,
+    "label" : "tlk832306_msg0004",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그랬구나……\n릭키가 나엘을……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk832306_msg0005",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……미안\n잠깐 릭키하고 대화 좀 하고 올게"
+  }, {
+    "$id" : 6,
+    "label" : "tlk832306_msg0006",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 야…… 대화라니\n설마 주먹으로 대화한다는 건 아니지?"
+  } ]
+}

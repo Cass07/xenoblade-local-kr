@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk110302_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "심각한 표정이네. 무슨 고민 있어?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk110302_msg0002",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희를 인정하지 않는 일부 병사들과\n앞으로 어떻게 단결해야 할지 고민이야"
+  }, {
+    "$id" : 3,
+    "label" : "tlk110302_msg0003",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물자 부족에 따른 불안감 때문에\n초조함을 느끼고 괜한 사람에게\n화풀이하는 거겠지만……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk110302_msg0004",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 불안감을 해소하기 위해\n내가 할 수 있는 일은 없을까……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk110302_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어려운 고민이군……\n뭐, 우리가 도울 일 있으면\n언제든 말해 줘"
+  } ]
+}

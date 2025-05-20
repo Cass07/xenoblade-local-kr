@@ -1,0 +1,304 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq010504_msg0001",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "때마침 좋을 때 왔네"
+  }, {
+    "$id" : 2,
+    "label" : "nq010504_msg0002",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 4에서 재배 방법을\n알고 싶다고 연락이 왔어"
+  }, {
+    "$id" : 3,
+    "label" : "nq010504_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오! 빠른데?"
+  }, {
+    "$id" : 4,
+    "label" : "nq010504_msg0004",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 지도할 사람을\n선정한 참이야"
+  }, {
+    "$id" : 5,
+    "label" : "nq010504_msg0005",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번은 이스트와 트리시에게\n지도를 부탁하려고 해"
+  }, {
+    "$id" : 6,
+    "label" : "nq010504_msg0006",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이스트는 아주 성실하게\n밭을 돌보니까 적임자라고 봐"
+  }, {
+    "$id" : 7,
+    "label" : "nq010504_msg0007",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말주변이 없는 게 흠이지만\n트리시가 옆에서 보조하면 괜찮을 거야"
+  }, {
+    "$id" : 8,
+    "label" : "nq010504_msg0008",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 두 사람이라면 문제없겠군"
+  }, {
+    "$id" : 9,
+    "label" : "nq010504_msg0009",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안하지만 맡아 주겠나?"
+  }, {
+    "$id" : 10,
+    "label" : "nq010504_msg0010",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 맡겨만 줘"
+  }, {
+    "$id" : 11,
+    "label" : "nq010504_msg0011",
+    "talker" : "eX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "2초 만에 끝내 주겠어……"
+  }, {
+    "$id" : 12,
+    "label" : "nq010504_msg0012",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……말은 이렇게 해도\n맡은 일은 성실히 하니까 염려 마"
+  }, {
+    "$id" : 13,
+    "label" : "nq010504_msg0013",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 알고 있어"
+  }, {
+    "$id" : 14,
+    "label" : "nq010504_msg0014",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고……\n익숙하지 않은 식재료라서\n걱정했었지?"
+  }, {
+    "$id" : 15,
+    "label" : "nq010504_msg0015",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조리법을 모르면\n불안할 만하지"
+  }, {
+    "$id" : 16,
+    "label" : "nq010504_msg0016",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "추천하는 레시피까지\n같이 알려 주는 건 어때?"
+  }, {
+    "$id" : 17,
+    "label" : "nq010504_msg0017",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거라면 마나나에게 맡겨 주세요모"
+  }, {
+    "$id" : 18,
+    "label" : "nq010504_msg0018",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쫀득쫀득 감자는 아~주 맛있다는 걸\n알려 주겠어요모"
+  }, {
+    "$id" : 19,
+    "label" : "nq010504_msg0019",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 찌기만 해도 맛있는데……"
+  }, {
+    "$id" : 20,
+    "label" : "nq010504_msg0020",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요리법을 연구하면 쫀득쫀득 감자를\n더욱더 맛있게 먹을 수 있을 거예요모!!"
+  }, {
+    "$id" : 21,
+    "label" : "nq010504_msg0021",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나의 요리사로서의 감이\n그렇게 말하고 있어요모!"
+  }, {
+    "$id" : 22,
+    "label" : "nq010504_msg0022",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼…… 예를 들어……"
+  }, {
+    "$id" : 23,
+    "label" : "nq010504_msg0023",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니의 특색에 맞는\n오리지널 레시피를 제안해 볼 생각도 있나?"
+  }, {
+    "$id" : 24,
+    "label" : "nq010504_msg0024",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 사람들의 취향이나 요구를 반영한\n요리법을 알려 줘 보는 거지\n그러면 받아들이기 쉬울 것 같다만……"
+  }, {
+    "$id" : 25,
+    "label" : "nq010504_msg0025",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇네요모\n한번 해 볼게요모!"
+  }, {
+    "$id" : 26,
+    "label" : "nq010504_msg0026",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『받아들이기 쉬운 제안』인가……\n네가 그런 걸 신경 쓸 줄이야……"
+  }, {
+    "$id" : 27,
+    "label" : "nq010504_msg0027",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사람은 몇 기가 돼도\n성장할 수 있는 법이잖아"
+  }, {
+    "$id" : 28,
+    "label" : "nq010504_msg0028",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐라 반응해야 할지 모르겠으니\n그쯤 해 둬……"
+  }, {
+    "$id" : 29,
+    "label" : "nq010504_msg0029",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 레시피는\n마나나에게 맡기는 거로 하고……"
+  }, {
+    "$id" : 30,
+    "label" : "nq010504_msg0030",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 취향이 어떤지 조사할까?"
+  }, {
+    "$id" : 31,
+    "label" : "nq010504_msg0031",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 4를 돌면서\n정보를 모아 보자"
+  } ]
+}

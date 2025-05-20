@@ -1,0 +1,124 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<D00CC92E>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 장치가 신경 쓰이니?"
+  }, {
+    "$id" : 2,
+    "label" : "<A44F8308>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 네\n전에 망가졌다고 듣긴 했는데요……"
+  }, {
+    "$id" : 3,
+    "label" : "<E0615842>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몇 가지 핵심 부품을 교체해 주면\n다시 쓸 수 있지 않을까 싶어서요……"
+  }, {
+    "$id" : 4,
+    "label" : "<B33C38D8>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확실히 이 장치를 고치면\n더 순도가 높은 젬을 만들 수 있겠지"
+  }, {
+    "$id" : 5,
+    "label" : "<6462DC71>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 이 장치의 기술을\n우리가 갖고 있는 휴대용 장치에\n접목시킬 수 있다면……"
+  }, {
+    "$id" : 6,
+    "label" : "<9EE54F02>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젬은 전투에도 도움이 되니까\n강화할 수 있다면야 마다할 이유가 없지"
+  }, {
+    "$id" : 7,
+    "label" : "<AD49FE09>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 좋은 기회야\n이참에 마음먹고 수리를 해 볼까?"
+  }, {
+    "$id" : 8,
+    "label" : "<C5F0EA3B>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네!"
+  }, {
+    "$id" : 9,
+    "label" : "<2ADFC59F>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "겉을 봤을 때 외장은 거의 문제없어\n우선 내부의 핵심 부품을 교체해 보자"
+  }, {
+    "$id" : 10,
+    "label" : "<4A8E0270>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "추측이기는 하지만\n젬의 순도를 높이는 화력 조정 기능이\n제대로 작동하지 못하는 걸지도 몰라"
+  }, {
+    "$id" : 11,
+    "label" : "<F3A4E259>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 수 있겠네요\n방향성을 그쪽으로 잡고 시험해 봐요"
+  } ]
+}

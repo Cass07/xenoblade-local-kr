@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520407_msg0001",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후후~\n잽싸게 배를 찾아왔답니다~!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520407_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜?!\n어떻게 잘 찾아왔네?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520407_msg0003",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "해변 바위 뒤쪽에 버려져 있었어요~\n교전 중에 파괴된 걸\n어느 콜로니가 폐기하고 간 것 같아요~"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520407_msg0004",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "평소 같았으면\n정비사도 없는데 배가 있어서 뭘 어쩌겠어~\n이렇게 말했었을 텐데……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk520407_msg0005",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "포기하긴 아직 이르다 싶더라고요~!\n카나처럼 기계를 잘 다루는 애도 있으니까\n다 같이 어떻게든 해 보겠습니다~!"
+  } ]
+}

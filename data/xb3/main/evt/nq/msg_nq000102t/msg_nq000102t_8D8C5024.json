@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq000102_msg0001",
+    "talker" : "@Y1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모? 손님이야모?"
+  }, {
+    "$id" : 2,
+    "label" : "nq000102_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 우리는 시르지르 의뢰로\n명부 작성을 돕고 있어"
+  }, {
+    "$id" : 3,
+    "label" : "nq000102_msg0003",
+    "talker" : "@Y1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 벌써 그럴 때구나모\n시간도 참 빠르네모"
+  }, {
+    "$id" : 4,
+    "label" : "nq000102_msg0004",
+    "talker" : "@Y1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나파파는 파란 돌을 줄게모\n시르지르한테 건네줘모"
+  }, {
+    "$id" : 5,
+    "label" : "nq000102_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 잘 전해 줄게"
+  }, {
+    "$id" : 6,
+    "label" : "nq000102_msg0006",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 시르지르 이름만 대면\n바로 알아들으니까 편해서 좋네"
+  }, {
+    "$id" : 7,
+    "label" : "nq000102_msg0007",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게"
+  }, {
+    "$id" : 8,
+    "label" : "nq000102_msg0008",
+    "talker" : "@Y1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "툭하면 잊는 하라바라랑\n똑같이 취급하면 곤란해모\n나파파는 기억력이 좋다고모"
+  }, {
+    "$id" : 9,
+    "label" : "nq000102_msg0009",
+    "talker" : "@Y1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쨌든 줄 건 줬어모\n뒷일은 잘 부탁할게모"
+  } ]
+}

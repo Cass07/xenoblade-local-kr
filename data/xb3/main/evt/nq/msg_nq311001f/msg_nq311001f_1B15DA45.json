@@ -1,0 +1,268 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq311001_msg0001",
+    "talker" : "fl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "또 이 증상인가……"
+  }, {
+    "$id" : 2,
+    "label" : "nq311001_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "또……?"
+  }, {
+    "$id" : 3,
+    "label" : "nq311001_msg0003",
+    "talker" : "fl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"시티의 이동\"으로\n환경이 크게 바뀌면서……"
+  }, {
+    "$id" : 4,
+    "label" : "nq311001_msg0004",
+    "talker" : "fl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것 때문에 쇠약해진 사람들이\n연이어 실려 오고 있어"
+  }, {
+    "$id" : 5,
+    "label" : "nq311001_msg0101",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……많은걸"
+  }, {
+    "$id" : 6,
+    "label" : "nq311001_msg0201",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!\n모니카……"
+  }, {
+    "$id" : 7,
+    "label" : "nq311001_msg0202",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……환자가 이렇게 많았다니"
+  }, {
+    "$id" : 8,
+    "label" : "nq311001_msg0301",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예상은 했을 텐데?"
+  }, {
+    "$id" : 9,
+    "label" : "nq311001_msg0302",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뫼비우스 측의 공격을 피하기 위해\n이동하기로 한 걸 비난할 생각은 없다"
+  }, {
+    "$id" : 10,
+    "label" : "nq311001_msg0303",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……하지만 2000메트리 이상\n고도가 낮은 장소를 선택하다니……"
+  }, {
+    "$id" : 11,
+    "label" : "nq311001_msg0304",
+    "talker" : "fl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나 원 참……\n장소가 장소인데 말다툼은 이쯤 하지?"
+  }, {
+    "$id" : 12,
+    "label" : "nq311001_msg0305",
+    "talker" : "fl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "치료 방법은 이미 알아\n약만 유통되면 다들 증상이 완화될 거라고"
+  }, {
+    "$id" : 13,
+    "label" : "nq311001_msg0306",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "낫는다고 전부가 아니야"
+  }, {
+    "$id" : 14,
+    "label" : "nq311001_msg0307",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "추가 의료품을 마련하지\n필요한 게 있으면 즉시 말하고"
+  }, {
+    "$id" : 15,
+    "label" : "nq311001_msg0308",
+    "talker" : "fl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음, 그래 주면 고맙지"
+  }, {
+    "$id" : 16,
+    "label" : "nq311001_msg0309",
+    "talker" : "fl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디 보자……"
+  }, {
+    "$id" : 17,
+    "label" : "nq311001_msg0401",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선생\n나도 도울 일이 있다면……"
+  }, {
+    "$id" : 18,
+    "label" : "nq311001_msg0501",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선생님……!\n우리도 뭐 도울 일 없어?"
+  }, {
+    "$id" : 19,
+    "label" : "nq311001_msg0601",
+    "talker" : "fl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마침 잘됐네\n환자들이 무서운 속도로 밀려드는 통에\n환자 모두에게 줄 약이 동나려던 참이었거든"
+  }, {
+    "$id" : 20,
+    "label" : "nq311001_msg0602",
+    "talker" : "fl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에그 시드와 무거운 석류를\n모아 올 수 있을까?"
+  }, {
+    "$id" : 21,
+    "label" : "nq311001_msg0603",
+    "talker" : "fl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카덴시아 지방에 가면 구할 수 있을 거야"
+  }, {
+    "$id" : 22,
+    "label" : "nq311001_msg0604",
+    "talker" : "fl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 로코도리초의 뿌리도 필요한데\n이건 라비아 사구도에서만 구할 수 있지"
+  }, {
+    "$id" : 23,
+    "label" : "nq311001_msg0605",
+    "talker" : "fl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "각각 20개씩 가져오면\n약을 여유분까지 마련할 수 있겠어"
+  }, {
+    "$id" : 24,
+    "label" : "nq311001_msg0701",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러지"
+  }, {
+    "$id" : 25,
+    "label" : "nq311001_msg0702",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모니카\n우리도 거들게"
+  }, {
+    "$id" : 26,
+    "label" : "nq311001_msg0801",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어!\n바로 모아 올게"
+  }, {
+    "$id" : 27,
+    "label" : "nq311001_msg0802",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……미안하지만 부탁 좀 할게"
+  } ]
+}

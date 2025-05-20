@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk110404_msg0001",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마론 팀은\n콜로니 9의 생명의 불시계가\n파괴되기 전에 죽어 버렸었지……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk110404_msg0002",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 콜로니 9이 어떻게 됐는지\n상상도 못 하겠네"
+  }, {
+    "$id" : 3,
+    "label" : "tlk110404_msg0003",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭄바라면 어땠을까?\n……근데 뭄바한테 남아 있던 시간\n생각하면 어차피 늦었겠다"
+  } ]
+}

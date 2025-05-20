@@ -1,0 +1,169 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001109_msg0001",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "문제는 지금부터 어떻게 하느냐인데"
+  }, {
+    "$id" : 2,
+    "label" : "tq001109_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티에 숨길 수밖에 없지 않아?\n1기면 아직 싸울 수도 없고"
+  }, {
+    "$id" : 3,
+    "label" : "tq001109_msg0003",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그대도 이대로 상관없나?"
+  }, {
+    "$id" : 4,
+    "label" : "tq001109_msg0004",
+    "talker" : "dn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……잘 모르겠어"
+  }, {
+    "$id" : 5,
+    "label" : "tq001109_msg0005",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제안이 있다"
+  }, {
+    "$id" : 6,
+    "label" : "tq001109_msg0006",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한동안 내게\n그녀를 맡겨 줄 수 없겠나?"
+  }, {
+    "$id" : 7,
+    "label" : "tq001109_msg0007",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 말은 에셀을\n돌보겠다는 거야?"
+  }, {
+    "$id" : 8,
+    "label" : "tq001109_msg0008",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자신이 가야 할 길을\n정할 때까지면 된다"
+  }, {
+    "$id" : 9,
+    "label" : "tq001109_msg0009",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그녀가 자유롭길 바란다\n이유는 모르겠으나…… 그랬으면 좋겠군"
+  }, {
+    "$id" : 10,
+    "label" : "tq001109_msg0010",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무튼 트래비스에게\n먼저 상담해 보자"
+  }, {
+    "$id" : 11,
+    "label" : "tq001109_msg0011",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티 일은 우리들 마음대로\n결정할 수 없으니까"
+  }, {
+    "$id" : 12,
+    "label" : "tq001109_msg0012",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "트래비스……\n그자는 또 일이 생겨서 빌빌대겠군"
+  }, {
+    "$id" : 13,
+    "label" : "tq001109_msg0013",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 일 때문에 빌빌댄다기보다는 나이가……"
+  }, {
+    "$id" : 14,
+    "label" : "tq001109_msg0014",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐, 됐어\n아무튼 녀석한테는 그런 말 하지 마"
+  }, {
+    "$id" : 15,
+    "label" : "tq001109_msg0015",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꽤 신경 쓰이나 보더라고"
+  }, {
+    "$id" : 16,
+    "label" : "tq001109_msg0016",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 명심하도록 하지"
+  } ]
+}

@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831600_msg0001",
+    "talker" : "lq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 벌써 나이가 나이이다 보니\n이곳이 아마 내가 머물 마지막 땅이\n될 거라는 각오는 해 뒀단다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831600_msg0002",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 수가……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831600_msg0003",
+    "talker" : "lq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만……\n너희를 만나고 생각이 변했단다"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831600_msg0004",
+    "talker" : "lq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 늙은이도 미래의 연주자들에게\n악기를 건네는 것 정도는 할 수 있었어"
+  }, {
+    "$id" : 5,
+    "label" : "tlk831600_msg0005",
+    "talker" : "lq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 의지가 살아 있는 한\n내게는 아직 시간이 필요해……"
+  }, {
+    "$id" : 6,
+    "label" : "tlk831600_msg0006",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……맞아\n조금이라도 시간이 남아 있다면\n최대한 다 써야 해"
+  }, {
+    "$id" : 7,
+    "label" : "tlk831600_msg0007",
+    "talker" : "lq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래……\n참으로 그렇구나"
+  }, {
+    "$id" : 8,
+    "label" : "tlk831600_msg0008",
+    "talker" : "lq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내게 살아갈 희망을 줘서\n정말로 고맙구나…… 젊은이들"
+  } ]
+}

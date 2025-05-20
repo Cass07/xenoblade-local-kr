@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520801_msg0001",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집정관은……\n저희를 속이고 있었군요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520801_msg0002",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토지와 유키나리가 죽은 것도……\n전부 집정관이……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520801_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기분은 이해하지만……\n네게는 아직 할 수 있는 일이 있어\n그걸 잊지 마"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520801_msg0004",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래야죠\n더 잃지 않기 위해서\n저희는 다시 일어섰으니까요……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk520801_msg0005",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제 업무로 돌아가겠습니다\n계속 침울한 채로 있어 봐야\n그 녀석들한테 웃음거리만 될 테니까요……"
+  } ]
+}

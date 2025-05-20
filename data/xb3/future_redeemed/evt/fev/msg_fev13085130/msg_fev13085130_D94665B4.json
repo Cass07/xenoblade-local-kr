@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<5EDF36A6>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면……"
+  }, {
+    "$id" : 2,
+    "label" : "<4654F0C1>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 딜런하고 이야기 좀 하고 올게\n시티 사람들이 어떻게 됐는지 들어 보고 싶거든"
+  }, {
+    "$id" : 3,
+    "label" : "<D5243F46>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희는 어떻게 할래?"
+  }, {
+    "$id" : 4,
+    "label" : "<85A3E541>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 지령실에 갔다 올게\n슈르크 일행도 거기 있을 테니까"
+  }, {
+    "$id" : 5,
+    "label" : "<316E71A9>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는…… 어떻게 할까"
+  }, {
+    "$id" : 6,
+    "label" : "<67E5C71F>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한가하면 나 좀 따라와 봐\n가게에서 여러 가지 사고 싶은 게 있으니까"
+  }, {
+    "$id" : 7,
+    "label" : "<1AA1CF8B>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 응…… 알았어"
+  }, {
+    "$id" : 8,
+    "label" : "<B13269A4>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 이따가 보자"
+  } ]
+}

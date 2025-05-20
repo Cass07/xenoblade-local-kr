@@ -1,0 +1,484 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011521_msg0001",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그대가…… 왜 여기 있지?"
+  }, {
+    "$id" : 2,
+    "label" : "tq011521_msg0002",
+    "talker" : "ro1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얘긴 들었어"
+  }, {
+    "$id" : 3,
+    "label" : "tq011521_msg0003",
+    "talker" : "ro1",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아, 깜짝이야!"
+  }, {
+    "$id" : 4,
+    "label" : "tq011521_msg0004",
+    "talker" : "ro1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……여러분도 함께였나요?"
+  }, {
+    "$id" : 5,
+    "label" : "tq011521_msg0005",
+    "talker" : "G",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나를 호위하는 중이었다"
+  }, {
+    "$id" : 6,
+    "label" : "tq011521_msg0006",
+    "talker" : "G",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러모로 도움받고 있지"
+  }, {
+    "$id" : 7,
+    "label" : "tq011521_msg0007",
+    "talker" : "2",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 우리도 마찬가지야"
+  }, {
+    "$id" : 8,
+    "label" : "tq011521_msg0008",
+    "talker" : "9",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두들 서로 돕고 있어요모"
+  }, {
+    "$id" : 9,
+    "label" : "tq011521_msg0009",
+    "talker" : "G",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇구나, 『모두』 함께야"
+  }, {
+    "$id" : 10,
+    "label" : "tq011521_msg0010",
+    "talker" : "ro1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그랬군요"
+  }, {
+    "$id" : 11,
+    "label" : "tq011521_msg0011",
+    "talker" : "ro1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전반적인 사정은 들었습니다"
+  }, {
+    "$id" : 12,
+    "label" : "tq011521_msg0012",
+    "talker" : "ro1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이곳에 온 건\n\"그들\"의 이야기를 하기 위해서죠?"
+  }, {
+    "$id" : 13,
+    "label" : "tq011521_msg0013",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 말씀은……\n평범한 아그누스 병사가 아니라는 겁니까?"
+  }, {
+    "$id" : 14,
+    "label" : "tq011521_msg0014",
+    "talker" : "ro1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "멜리아 여왕 폐하께도 협조를 부탁하여\n양쪽에서 동태를 주시하고 있었습니다"
+  }, {
+    "$id" : 15,
+    "label" : "tq011521_msg0015",
+    "talker" : "ro1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한마디로 그들은\n케베스도 아그누스도 아닌 자들입니다"
+  }, {
+    "$id" : 16,
+    "label" : "tq011521_msg0016",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "더 정확하게 말하자면\n아그누스 병사이기는 하나……"
+  }, {
+    "$id" : 17,
+    "label" : "tq011521_msg0017",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그들은 이제 아그누스조차\n신뢰할 수 없다고 주장하고 있지"
+  }, {
+    "$id" : 18,
+    "label" : "tq011521_msg0018",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미래에 대한 불신 때문에\n파멸을 바라게 된 것이니라"
+  }, {
+    "$id" : 19,
+    "label" : "tq011521_msg0019",
+    "talker" : "2",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무것도 믿을 수 없으니까\n전부 망가뜨려도 된다는 거야……?"
+  }, {
+    "$id" : 20,
+    "label" : "tq011521_msg0020",
+    "talker" : "6",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 건 너무해……"
+  }, {
+    "$id" : 21,
+    "label" : "tq011521_msg0021",
+    "talker" : "ro1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 아그누스와 케베스 사이에는\n공존과 공영을 바라는 기류가\n흐르고 있기는 합니다만……"
+  }, {
+    "$id" : 22,
+    "label" : "tq011521_msg0022",
+    "talker" : "ro1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모든 사람들이\n변화에 순응하고 있는 건 아닙니다"
+  }, {
+    "$id" : 23,
+    "label" : "tq011521_msg0023",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 감정적인 반발에 불과하나\n이에 공감하는 자들이 모이면……"
+  }, {
+    "$id" : 24,
+    "label" : "tq011521_msg0024",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "간과할 수 없는 사태까지\n번질 수도 있다는 건가……"
+  }, {
+    "$id" : 25,
+    "label" : "tq011521_msg0025",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거기에 이번 소동까지 겹쳐……\n그들을 자극하고 말았다는 거군"
+  }, {
+    "$id" : 26,
+    "label" : "tq011521_msg0026",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……최악의 사태도\n각오해 두는 게 좋겠어"
+  }, {
+    "$id" : 27,
+    "label" : "tq011521_msg0027",
+    "talker" : "9",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "최악이면 무슨 일이 일어나는 거예요모?"
+  }, {
+    "$id" : 28,
+    "label" : "tq011521_msg0028",
+    "talker" : "3",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여왕의 목숨까지\n노리려 할지도 모른다는 거야"
+  }, {
+    "$id" : 29,
+    "label" : "tq011521_msg0029",
+    "talker" : "9",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모옷~?!\n그런 건 절대 안 돼요모!"
+  }, {
+    "$id" : 30,
+    "label" : "tq011521_msg0030",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것도 이유이긴 하나\n무엇보다도 내버려 둘 수가 없다"
+  }, {
+    "$id" : 31,
+    "label" : "tq011521_msg0031",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마 그들은 저항하려는 것이 아니라\n괴로워하고 있을 것이다"
+  }, {
+    "$id" : 32,
+    "label" : "tq011521_msg0032",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "삶이나 사고방식을 바꾼다는 것은\n결코 쉬운 일이 아니지……"
+  }, {
+    "$id" : 33,
+    "label" : "tq011521_msg0033",
+    "talker" : "ro1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 이번 일은 제가 여왕으로서……"
+  }, {
+    "$id" : 34,
+    "label" : "tq011521_msg0034",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 그대가 이 일에 관여하면\n정말로 고립될지도 몰라"
+  }, {
+    "$id" : 35,
+    "label" : "tq011521_msg0035",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니 니아에게는\n그들을 받아들일 준비를 부탁하고 싶다"
+  }, {
+    "$id" : 36,
+    "label" : "tq011521_msg0036",
+    "talker" : "ro1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신은 정말……"
+  }, {
+    "$id" : 37,
+    "label" : "tq011521_msg0037",
+    "talker" : "3",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 그 녀석들은 지금 어딨는데?"
+  }, {
+    "$id" : 38,
+    "label" : "tq011521_msg0038",
+    "talker" : "ro1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제6부유 암초에\n몸을 숨기고 있는 모양입니다"
+  }, {
+    "$id" : 39,
+    "label" : "tq011521_msg0039",
+    "talker" : "3",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……말도 안 돼!\n캐슬 바로 근처잖아!"
+  }, {
+    "$id" : 40,
+    "label" : "tq011521_msg0040",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동료인 아그누스 병사 사이에 섞여\n접근한 거겠지"
+  }, {
+    "$id" : 41,
+    "label" : "tq011521_msg0041",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "경계가 허술해진 이 상황을 이용했다고\n생각하면 설명이 돼"
+  }, {
+    "$id" : 42,
+    "label" : "tq011521_msg0042",
+    "talker" : "ro1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네…… 안타깝게도……"
+  }, {
+    "$id" : 43,
+    "label" : "tq011521_msg0043",
+    "talker" : "ro1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "최근에는 전력을 늘리고 있다고 들었습니다\n부디 조심하시기를"
+  }, {
+    "$id" : 44,
+    "label" : "tq011521_msg0044",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정하지 마라\n험난한 일에는 익숙해졌다"
+  }, {
+    "$id" : 45,
+    "label" : "tq011521_msg0045",
+    "talker" : "G",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 모두와 함께 있으니 말이야"
+  }, {
+    "$id" : 46,
+    "label" : "tq011521_msg0046",
+    "talker" : "ro1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……익숙해질 필요는 없어요"
+  }, {
+    "$id" : 47,
+    "label" : "tq011521_msg0047",
+    "talker" : "ro1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "경험은 사람을 강하게 하지만\n아픔을 없애 주지는 않습니다"
+  }, {
+    "$id" : 48,
+    "label" : "tq011521_msg0048",
+    "talker" : "ro1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……설령 여왕이라 해도요"
+  }, {
+    "$id" : 49,
+    "label" : "tq011521_msg0049",
+    "talker" : "2",
+    "talkattr" : 33098,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분위기가 왠지……?"
+  }, {
+    "$id" : 50,
+    "label" : "tq011521_msg0050",
+    "talker" : "G",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 알고 있다\n고맙구나, 니아"
+  }, {
+    "$id" : 51,
+    "label" : "tq011521_msg0051",
+    "talker" : "ro1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……잘 부탁해, 모두들"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk714202_msg0001",
+    "talker" : "zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "희망의 언덕을 본 적이 있느냐?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk714202_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 봤어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk714202_msg0003",
+    "talker" : "zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "먼 옛날, 우리 선조께서는\n그곳에서 살고 계셨는데\n공격을 받고 뿔뿔이 흩어지고 말았다네"
+  }, {
+    "$id" : 4,
+    "label" : "tlk714202_msg0004",
+    "talker" : "zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 틈을 타 아그누스 녀석들이\n캐슬을 사용해서 그 땅을 빼앗은 게지"
+  }, {
+    "$id" : 5,
+    "label" : "tlk714202_msg0005",
+    "talker" : "zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 비옥한 땅이 있었다면\n시티 사람들은 지금보다 더\n풍요로운 삶을 살았을 터인데……"
+  } ]
+}

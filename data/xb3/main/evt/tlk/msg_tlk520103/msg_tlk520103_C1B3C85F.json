@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520103_msg0001",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 생각해 보니까 저번에 실수한 이유는\n계획을 세우지 않았기 때문인 것 같아"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520103_msg0002",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 다음엔 확실히 생각하고 움직이려고!\n막 그럴싸한 느낌으로 말이야!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520103_msg0003",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이치카가 없는 만큼……\n내가 정신 차려야지!!"
+  } ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk110104_msg0001",
+    "talker" : "XX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좀 전에 감자를 막 수확한 참인데\n출발하기 전에 먹고 가\n힘이 불끈 솟을 거야!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk110104_msg0002",
+    "talker" : "XX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 9 사람들과\n다 같이 기른 감자를 먹으면\n뫼비우스와의 싸움에서 반드시 이길 거야……!"
+  } ]
+}

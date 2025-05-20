@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk130404_msg0001",
+    "talker" : "rY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……3호한테 들었어\n너희가 도와준 덕분에\n피리를 되찾았다고 말이야"
+  }, {
+    "$id" : 2,
+    "label" : "tlk130404_msg0002",
+    "talker" : "rY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……너희가 7호를 독점하는 건\n여전히 용납이 안 되지만……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk130404_msg0003",
+    "talker" : "rY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번 일만큼은……\n고맙다고 못 할 것도 없지"
+  }, {
+    "$id" : 4,
+    "label" : "tlk130404_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그래? 다행이다~"
+  }, {
+    "$id" : 5,
+    "label" : "tlk130404_msg0005",
+    "talker" : "rY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……흥"
+  } ]
+}

@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk711704_msg0001",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희가 뫼비우스한테 승리한 그날엔\n꼭 취재에 응해 줬으면 좋겠어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk711704_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "또 소설을 쓰려고?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk711704_msg0003",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "소설이 아니라 전기를 쓸 거야\n너희에 대해서 있는 그대로 쓰고 싶거든"
+  }, {
+    "$id" : 4,
+    "label" : "tlk711704_msg0004",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명 전 세계 사람들을 전율하게 할 정도로\n역사에 남을 전설의 저서가 될 거야\n후후후, 벌써 무척이나 기대되는걸"
+  } ]
+}

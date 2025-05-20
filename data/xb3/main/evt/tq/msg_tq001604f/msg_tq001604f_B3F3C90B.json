@@ -1,0 +1,169 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001604_msg0001",
+    "talker" : "H",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아!"
+  }, {
+    "$id" : 2,
+    "label" : "tq001604_msg0002",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "찾았다! 저 아이가 가진\n부품이 필요해!"
+  }, {
+    "$id" : 3,
+    "label" : "tq001604_msg0003",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어느 쪽이요모?"
+  }, {
+    "$id" : 4,
+    "label" : "tq001604_msg0004",
+    "talker" : "H",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스 쪽…… 어?"
+  }, {
+    "$id" : 5,
+    "label" : "tq001604_msg0005",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다리에 난 저 상처는……\n저번에 고쳤던 다른 콜로니 아이인데……"
+  }, {
+    "$id" : 6,
+    "label" : "tq001604_msg0007",
+    "talker" : "H",
+    "talkattr" : 33105,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아!"
+  }, {
+    "$id" : 7,
+    "label" : "tq001604_msg0008",
+    "talker" : "9",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너무해요모……"
+  }, {
+    "$id" : 8,
+    "label" : "tq001604_msg0009",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 9,
+    "label" : "tq001604_msg0010",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……루디 씨?"
+  }, {
+    "$id" : 10,
+    "label" : "tq001604_msg0011",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나…… 내 레브니스는……\n항상 저런 식으로……"
+  }, {
+    "$id" : 11,
+    "label" : "tq001604_msg0012",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안하지만\n멍하게 있을 틈은 없을 것 같아"
+  }, {
+    "$id" : 12,
+    "label" : "tq001604_msg0013",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어? 무슨 일인데?"
+  }, {
+    "$id" : 13,
+    "label" : "tq001604_msg0014",
+    "talker" : "2",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마도 우리가 반역자라서……"
+  }, {
+    "$id" : 14,
+    "label" : "tq001604_msg0015",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너까지 같이 표적이 된 거 같은데"
+  }, {
+    "$id" : 15,
+    "label" : "tq001604_msg0016",
+    "talker" : "H",
+    "talkattr" : 33113,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?!"
+  }, {
+    "$id" : 16,
+    "label" : "tq001604_msg0017",
+    "talker" : "5",
+    "talkattr" : 33065,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "해치울 수밖에 없지, 가자!"
+  } ]
+}

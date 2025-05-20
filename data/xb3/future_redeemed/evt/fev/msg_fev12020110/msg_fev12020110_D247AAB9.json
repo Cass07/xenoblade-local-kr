@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<995595CE>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 매슈\n그녀가 어디로 갔을지 짐작은 가?"
+  }, {
+    "$id" : 2,
+    "label" : "<15AD4619>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 내가 어떻게 알아?\n일단 주변을 샅샅이 뒤져 보자고"
+  }, {
+    "$id" : 3,
+    "label" : "<406E1180>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 4,
+    "label" : "<CF89DF33>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그녀가 아군에게 돌아갈 생각이라면\n아마 북서쪽으로 가겠지"
+  }, {
+    "$id" : 5,
+    "label" : "<613D80D1>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 일대는 아그누스가 관할하는 구역이니까\n콜로니가 주둔 중일 가능성도 높아"
+  }, {
+    "$id" : 6,
+    "label" : "<83FB5121>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니 주변을 샅샅이 뒤질 필요는 없어\n이해했겠지, 매슈?"
+  }, {
+    "$id" : 7,
+    "label" : "<C6676020>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 에이 님은 뭐든 잘 아시는군\n그럼 북서쪽을 목표로 가자고"
+  }, {
+    "$id" : 8,
+    "label" : "<401CECE6>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너도 지금은 우리하고\n같이 있는 게 안전할 거야"
+  }, {
+    "$id" : 9,
+    "label" : "<35A52CB4>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 10,
+    "label" : "<E7824B1D>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 그러니까……\n내가 할 말은 아니겠지만……"
+  }, {
+    "$id" : 11,
+    "label" : "<1A229489>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금만큼은 우릴 믿어 주면 안 될까?"
+  }, {
+    "$id" : 12,
+    "label" : "<365CDE2E>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알았어요"
+  } ]
+}

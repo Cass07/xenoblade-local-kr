@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<A3C73094>",
+    "talker" : "1",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스테파노가 그린 그림이\n좋은 평가를 받고 있다는 게 사실이야?"
+  }, {
+    "$id" : 2,
+    "label" : "<2A2895AA>",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런가 봐\n시티 사람들 모두가 극찬했어"
+  }, {
+    "$id" : 3,
+    "label" : "<76F3BB82>",
+    "talker" : "5",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말도 안 돼, 마시로의 그림이라면 모를까\n뫼비우스 케이가 그려져 있는데?"
+  }, {
+    "$id" : 4,
+    "label" : "<C3CFBD3F>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사격 훈련용 과녁으로\n쓰인다고 하면 납득이 가겠어"
+  }, {
+    "$id" : 5,
+    "label" : "<543D2B80>",
+    "talker" : "4",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뫼비우스가 그려진 그림이라는 걸\n감안하더라도 시티 사람들에게는\n가치 있는 물건이라는 거겠지"
+  }, {
+    "$id" : 6,
+    "label" : "<C1165693>",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 그림은 실물이 아니라는 걸 아는데도\n뭐랄까…… 묘한 위압감이 느껴져"
+  }, {
+    "$id" : 7,
+    "label" : "<1E55B865>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 고도의 기술을 사용한 그림이라는 건\n전문가가 아니어도 알 수 있어\n분명 그 부분에 가치를 뒀을 거야"
+  }, {
+    "$id" : 8,
+    "label" : "<9D55F27C>",
+    "talker" : "4",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1200,
+    "style" : 126,
+    "name" : "다시 말해서…… \"뫼비우스는 미워하되\n그림은 미워하지 말라\"는 거지"
+  }, {
+    "$id" : 9,
+    "label" : "<2A8983A7>",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 14696577,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그거랑은 좀 다르지 않나?"
+  } ]
+}

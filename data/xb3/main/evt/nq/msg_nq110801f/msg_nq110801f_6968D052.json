@@ -1,0 +1,313 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq110801_msg0001",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 레브니스에서 가져온 부품이야\n한번 검사해 봐"
+  }, {
+    "$id" : 2,
+    "label" : "nq110801_msg0002",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오오……! 노, 놀랍습니다!\n파손된 흔적이 전혀 없어요!\n새것으로 봐도 될 만큼 손색이 없네요……!"
+  }, {
+    "$id" : 3,
+    "label" : "nq110801_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 문제가 해결될 것 같아?"
+  }, {
+    "$id" : 4,
+    "label" : "nq110801_msg0004",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네! 이제 시험해 보기만 하면 됩니다!\n어서 부품의 규격을 맞춰\n이 레브니스에 끼워 넣어 보죠!"
+  }, {
+    "$id" : 5,
+    "label" : "nq110801_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 움직였다!\n그럼 성공한 건가?"
+  }, {
+    "$id" : 6,
+    "label" : "nq110801_msg0006",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네! 틀림없습니다!\n더할 나위 없을 만큼 성공했어요!"
+  }, {
+    "$id" : 7,
+    "label" : "nq110801_msg0007",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 가만히 생각해 보니……\n솔직히 반신반의했는데……\n설마 이럴 줄이야……!"
+  }, {
+    "$id" : 8,
+    "label" : "nq110801_msg0008",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분, 들어 주세요!\n저는 기존의 개념만 중시한 탓에\n엄청난 착각을 하고 있었습니다!"
+  }, {
+    "$id" : 9,
+    "label" : "nq110801_msg0009",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭘 착각했는데?"
+  }, {
+    "$id" : 10,
+    "label" : "nq110801_msg0010",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스가 만든 레브니스의 기술적 진가는\n기체의 부유 구조에 있을 것이라고\n추측했었습니다만……!"
+  }, {
+    "$id" : 11,
+    "label" : "nq110801_msg0011",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뚜껑을 열어 보니, 세상에!\n진짜 진가는 압도적인\n에너지 전도 효율에 있었습니다!"
+  }, {
+    "$id" : 12,
+    "label" : "nq110801_msg0012",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전도 효율……?"
+  }, {
+    "$id" : 13,
+    "label" : "nq110801_msg0013",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 그 원리라면\n레브니스와 관련된 논문 자료에서\n읽은 적이 있어"
+  }, {
+    "$id" : 14,
+    "label" : "nq110801_msg0014",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에테르 실린더의 에너지는\n가동 동력으로 변환되는 과정에서\n반드시 \"손실\"이 발생한다고 했던가"
+  }, {
+    "$id" : 15,
+    "label" : "nq110801_msg0015",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇습니다!\n하지만! 아그누스의 레브니스는\n그러한 \"손실\"이 거의 발생하지 않아요!"
+  }, {
+    "$id" : 16,
+    "label" : "nq110801_msg0016",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……미안, 아임\n비전문가인 우리도 알 수 있게\n설명해 주지 않을래?"
+  }, {
+    "$id" : 17,
+    "label" : "nq110801_msg0017",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까…… 쉽게 말해서\n레브니스를 지금보다 더 완벽하게\n풀 파워로 가동할 수 있다는 말입니다!"
+  }, {
+    "$id" : 18,
+    "label" : "nq110801_msg0018",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흐음~ 그렇구나\n근데 그게 그렇게\n대단한 일이야?"
+  }, {
+    "$id" : 19,
+    "label" : "nq110801_msg0019",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론이죠!\n이를테면 현재 기능이 정지된\n우리 쪽 철거신은……"
+  }, {
+    "$id" : 20,
+    "label" : "nq110801_msg0020",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생명의 불시계가 없는 지금!\n에테르 실린더만으론 출력이 부족해서\n철거신을 작동시키는 건 도저히 불가능하죠!"
+  }, {
+    "$id" : 21,
+    "label" : "nq110801_msg0021",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만! 이 기술을 응용하면\n우리 손으로 불시계에 필적하는\n동력 시스템을 만들어 낼 수 있습니다!"
+  }, {
+    "$id" : 22,
+    "label" : "nq110801_msg0022",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 콜로니 4의 철거신을……!\n다시 한번 움직이게 할 수 있다고요!"
+  }, {
+    "$id" : 23,
+    "label" : "nq110801_msg0023",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오오……! 그게 진짜야?!"
+  }, {
+    "$id" : 24,
+    "label" : "nq110801_msg0024",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜입니다! ……이론상으로는요!\n그리고 시간과 자재와 인력 나름이죠!"
+  }, {
+    "$id" : 25,
+    "label" : "nq110801_msg0025",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……실현되려면 한참 멀었다는 말이구나"
+  }, {
+    "$id" : 26,
+    "label" : "nq110801_msg0026",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분, 정말 감사드립니다!\n덕분에 예상보다 훨씬 큰 성과를 얻었습니다!"
+  }, {
+    "$id" : 27,
+    "label" : "nq110801_msg0027",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이만큼 결과를 냈으니\n다음 반장의 자리는 거의 따 놓은 당상이죠!"
+  }, {
+    "$id" : 28,
+    "label" : "nq110801_msg0028",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "반장 권한만 있으면 인력도 자재도 마음껏\n쓸 수 있고! 제 연구는 하늘을 찌를 기세로\n폭발적인 진척을 이룰 겁니다!"
+  }, {
+    "$id" : 29,
+    "label" : "nq110801_msg0029",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사리사욕 덩어리네……\n뭐, 알아서 잘해 봐"
+  }, {
+    "$id" : 30,
+    "label" : "nq110801_msg0030",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응원! 정말 감사합니다!\n열심히 하겠습니다!"
+  }, {
+    "$id" : 31,
+    "label" : "nq110801_msg0031",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약 철거신이 작동되면\n가장 먼저 여러분을 도와드리겠습니다!"
+  }, {
+    "$id" : 32,
+    "label" : "nq110801_msg0032",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그땐 저라는 \"천재\"가 있었단 사실을\n꼭 떠올려 주세요!!"
+  } ]
+}

@@ -1,0 +1,151 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq210601_msg0001",
+    "talker" : "tc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어? 너희도\n이걸 보러 왔어?"
+  }, {
+    "$id" : 2,
+    "label" : "nq210601_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이거라니?"
+  }, {
+    "$id" : 3,
+    "label" : "nq210601_msg0003",
+    "talker" : "tc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 내가 개발한 이 센서를\n보러 온 거 아니야?"
+  }, {
+    "$id" : 4,
+    "label" : "nq210601_msg0004",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건……"
+  }, {
+    "$id" : 5,
+    "label" : "nq210601_msg0005",
+    "talker" : "tc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 적의 존재에 반응하는\n감지 센서야"
+  }, {
+    "$id" : 6,
+    "label" : "nq210601_msg0006",
+    "talker" : "tc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자율형 레브니스가 없어도\n강한 방위력을 발휘하려면\n역시 이런 게 필요한 법이지"
+  }, {
+    "$id" : 7,
+    "label" : "nq210601_msg0007",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "과연\n사람을 쓰지 않고도\n적을 감지할 수 있다 이건가"
+  }, {
+    "$id" : 8,
+    "label" : "nq210601_msg0008",
+    "talker" : "tc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금부터 이걸\n곳곳에 설치하려 했는데\n여기 온 김에 너희도 도와줄래?"
+  }, {
+    "$id" : 9,
+    "label" : "nq210601_msg0009",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가?"
+  }, {
+    "$id" : 10,
+    "label" : "nq210601_msg0010",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근데…… 우리가 만져도 돼?\n우릴 적으로 감지하진 않아?"
+  }, {
+    "$id" : 11,
+    "label" : "nq210601_msg0011",
+    "talker" : "tc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 센서는 그런 것도\n구별할 수 있으니까\n안심해도 돼"
+  }, {
+    "$id" : 12,
+    "label" : "nq210601_msg0012",
+    "talker" : "5",
+    "talkattr" : 33112,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흐음, 코토라가 손보던\n자율형 레브니스 같은 건가?"
+  }, {
+    "$id" : 13,
+    "label" : "nq210601_msg0013",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 도와줄게"
+  }, {
+    "$id" : 14,
+    "label" : "nq210601_msg0014",
+    "talker" : "tc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워\n첫 번째로 설치할 장소는\n절벽의 옛길이야. 가자"
+  } ]
+}

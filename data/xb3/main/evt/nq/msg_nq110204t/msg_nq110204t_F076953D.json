@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq110204_msg0001",
+    "talker" : "vZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이야기는 반장님께 들었어\n몬스터 조사 결과를 보고할게"
+  }, {
+    "$id" : 2,
+    "label" : "nq110204_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 부탁해"
+  }, {
+    "$id" : 3,
+    "label" : "nq110204_msg0003",
+    "talker" : "vZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "종족은 볼프\n통상 개체보다 월등히 큼……"
+  }, {
+    "$id" : 4,
+    "label" : "nq110204_msg0004",
+    "talker" : "vZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이동 범위가 넓고\n민첩성이 매우 뛰어남……"
+  }, {
+    "$id" : 5,
+    "label" : "nq110204_msg0005",
+    "talker" : "vZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "행동 패턴을 분석한 결과\n피엔토 분지에 거처가 있는 것으로 판명됨……"
+  }, {
+    "$id" : 6,
+    "label" : "nq110204_msg0007",
+    "talker" : "vZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이상이야"
+  }, {
+    "$id" : 7,
+    "label" : "nq110204_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워\n정보는 그 정도면 충분해"
+  }, {
+    "$id" : 8,
+    "label" : "nq110204_msg0009",
+    "talker" : "vZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……방심하지 마\n이미 동료들이 몇 명이나 당했어"
+  }, {
+    "$id" : 9,
+    "label" : "nq110204_msg0010",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 최선을 다해야지\n우리가 반드시 쓰러뜨릴게"
+  }, {
+    "$id" : 10,
+    "label" : "nq110204_msg0011",
+    "talker" : "vZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……고마워"
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk710904_msg0001",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티가 갑자기 이동하는 바람에\n집에 있는 접시가 5장이나 깨졌어모……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk710904_msg0002",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오츠 씨한테 가서 보상해 달라고 했더니\n자기네 집은 100장 깨졌다면서\n도리어 혼냈어모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk710904_msg0003",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뛰는 자 위에 나는 자 있다더니모……\n너무 불쌍해서 정리하는 걸 도와주고 왔어모"
+  } ]
+}

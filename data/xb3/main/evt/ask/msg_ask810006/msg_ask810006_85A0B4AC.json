@@ -1,0 +1,169 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<F9A9A68D>",
+    "talker" : "6",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리, 강해진 거 같지!"
+  }, {
+    "$id" : 2,
+    "label" : "<C9B2D580>",
+    "talker" : "2",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으, 응……\n왜 그래? 갑자기……"
+  }, {
+    "$id" : 3,
+    "label" : "<50A47EB1>",
+    "talker" : "5",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방금 세나랑 얘기했는데\n지금까지 우리가 강한 몬스터를\n많이 쓰러뜨렸잖아?"
+  }, {
+    "$id" : 4,
+    "label" : "<0373DD83>",
+    "talker" : "6",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아! 아이오니온에 있는\n수많은 몬스터를 쓰러뜨렸어!"
+  }, {
+    "$id" : 5,
+    "label" : "<EBE92C70>",
+    "talker" : "5",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리한테 걸리기만 하면\n상대가 누구든 쓰러뜨릴 자신도 있지!"
+  }, {
+    "$id" : 6,
+    "label" : "<D2BD6F05>",
+    "talker" : "2",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래서?"
+  }, {
+    "$id" : 7,
+    "label" : "<6CD5171D>",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 32897,
+    "talkattr3" : 1074,
+    "style" : 126,
+    "name" : "대검…… 시티가 있었던 곳에\n아주 강한 몬스터가 있나 봐"
+  }, {
+    "$id" : 8,
+    "label" : "<A6B6261F>",
+    "talker" : "6",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실력을 시험해 보고 싶지 않아? 미오"
+  }, {
+    "$id" : 9,
+    "label" : "<E1EFDCC8>",
+    "talker" : "2",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 괜찮을까?"
+  }, {
+    "$id" : 10,
+    "label" : "<FFB73712>",
+    "talker" : "5",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말했잖아, 우리가 나서면\n어떤 녀석이든 쓰러뜨릴 수 있다고"
+  }, {
+    "$id" : 11,
+    "label" : "<A29176E4>",
+    "talker" : "6",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 말이 맞아, 미오\n우리라면 할 수 있어!"
+  }, {
+    "$id" : 12,
+    "label" : "<9AA8C123>",
+    "talker" : "3",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1074,
+    "style" : 126,
+    "name" : "……뭐라고 말 좀 해 줘, 타이온"
+  }, {
+    "$id" : 13,
+    "label" : "<717BBCED>",
+    "talker" : "4",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1074,
+    "style" : 126,
+    "name" : "내가 무슨 말을 하겠어\n나는 근육으로 생각하는\n저 둘하고는 달라"
+  }, {
+    "$id" : 14,
+    "label" : "<A9106FF5>",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몸이 근질근질한걸……!"
+  }, {
+    "$id" : 15,
+    "label" : "<5E164E70>",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1074,
+    "style" : 126,
+    "name" : "흥분되네!"
+  }, {
+    "$id" : 16,
+    "label" : "<EA5E5E5A>",
+    "talker" : "2",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얘들아……\n아직 간다는 말 안 했는데……"
+  } ]
+}

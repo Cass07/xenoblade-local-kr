@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210805_msg0001",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에셀하고는 \"백은\"이라는\n별명이 생기기 전부터 알고 지냈어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210805_msg0002",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에셀에 관한 거라면\n누구보다 잘 안다고 생각했는데……\n순전히 내 착각이었나 봐"
+  }, {
+    "$id" : 3,
+    "label" : "tlk210805_msg0003",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무래도 나보다는\n볼레아리스가 에셀의 영향을\n제일 강하게 받은 것 같거든"
+  } ]
+}

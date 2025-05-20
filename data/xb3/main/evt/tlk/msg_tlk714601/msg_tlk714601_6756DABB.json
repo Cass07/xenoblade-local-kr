@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk714601_msg0001",
+    "talker" : "Xm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "영웅 게르니카는 누가 봐도\n용감하고 호걸스러운 전사였지"
+  }, {
+    "$id" : 2,
+    "label" : "tlk714601_msg0002",
+    "talker" : "Xm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "장로를 은퇴한 뒤\n모니카에게 자리를 물려주고 나서도\n그 사람은 최전선에서 싸움을 이어 갔어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk714601_msg0003",
+    "talker" : "Xm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게르니카가 탄 레브니스가 귀환할 때마다\n그의 영웅담은 늘어만 갔단다"
+  }, {
+    "$id" : 4,
+    "label" : "tlk714601_msg0004",
+    "talker" : "Xm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 영웅담 듣기를 기대했던 사람이\n분명 나뿐만이 아니었을 거야"
+  }, {
+    "$id" : 5,
+    "label" : "tlk714601_msg0005",
+    "talker" : "Xm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로스트 넘버즈뿐만 아니라\n우리에게도 용기를 심어 줬지\n……마지막까지 훌륭한 사람이었어"
+  } ]
+}

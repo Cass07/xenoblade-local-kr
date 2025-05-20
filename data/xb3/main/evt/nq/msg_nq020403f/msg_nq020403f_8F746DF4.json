@@ -1,0 +1,358 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq020403_msg0001",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유해……"
+  }, {
+    "$id" : 2,
+    "label" : "nq020403_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "함께 환송할까?"
+  }, {
+    "$id" : 3,
+    "label" : "nq020403_msg0003",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 사람은……\n더 이상 살 수 없다는 걸 깨달았을 때\n무슨 생각을 했을까요?"
+  }, {
+    "$id" : 4,
+    "label" : "nq020403_msg0004",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좀 더 살고 싶다고 생각했을까요……"
+  }, {
+    "$id" : 5,
+    "label" : "nq020403_msg0005",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니면 이제 싸우지 않아도 된다고\n안도했을까요?"
+  }, {
+    "$id" : 6,
+    "label" : "nq020403_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어쩌면 둘 다 아니고\n전혀 다른 걸 생각했을지도 몰라"
+  }, {
+    "$id" : 7,
+    "label" : "nq020403_msg0007",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전…… 어떻게 해야 할지 모르겠어요……"
+  }, {
+    "$id" : 8,
+    "label" : "nq020403_msg0008",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 사람의 마음에 다가가고 싶은데\n제 선율은 헛돌기만 하는 것 같고……"
+  }, {
+    "$id" : 9,
+    "label" : "nq020403_msg0009",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "환송하면 환송할수록……\n제 자신이 텅 비어가는 듯한……"
+  }, {
+    "$id" : 10,
+    "label" : "nq020403_msg0010",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그게 지금\n네가 느끼고 있는 감정이구나"
+  }, {
+    "$id" : 11,
+    "label" : "nq020403_msg0011",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죄송해요……\n저 스스로도…… 잘 몰라서……"
+  }, {
+    "$id" : 12,
+    "label" : "nq020403_msg0012",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스쿠네……"
+  }, {
+    "$id" : 13,
+    "label" : "nq020403_msg0013",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮아, 서두르지 않아도 돼\n그거 말고도 느껴지는 게 있으면\n하나씩 말해 볼까?"
+  }, {
+    "$id" : 14,
+    "label" : "nq020403_msg0014",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……네"
+  }, {
+    "$id" : 15,
+    "label" : "nq020403_msg0101",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예전에는 별문제 없이\n환송하고 있었던 거 같아요"
+  }, {
+    "$id" : 16,
+    "label" : "nq020403_msg0102",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미쿠라 선배가 있었을 때에는\n이렇게 고민한 적이 없었거든요……"
+  }, {
+    "$id" : 17,
+    "label" : "nq020403_msg0103",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아그누스의 환송자는\n2인 1조로 연주한다고 했지?"
+  }, {
+    "$id" : 18,
+    "label" : "nq020403_msg0104",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네……\n미쿠라 선배는 제 파트너였어요"
+  }, {
+    "$id" : 19,
+    "label" : "nq020403_msg0105",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러다 알페토 계곡 작전에 참가하고\n그게 마지막으로 본……"
+  }, {
+    "$id" : 20,
+    "label" : "nq020403_msg0106",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그랬구나"
+  }, {
+    "$id" : 21,
+    "label" : "nq020403_msg0107",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……앞으로는\n나 혼자 환송해야 하는구나"
+  }, {
+    "$id" : 22,
+    "label" : "nq020403_msg0108",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 생각을 하니까…… 머릿속이 새하얘지고\n정신이 아득해져서……"
+  }, {
+    "$id" : 23,
+    "label" : "nq020403_msg0109",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "애초에 저는…… 환송에 대해서\n진지하게 생각하지 않았어요……"
+  }, {
+    "$id" : 24,
+    "label" : "nq020403_msg0110",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그저 항상 미쿠라 선배한테\n의지하기만 하고……"
+  }, {
+    "$id" : 25,
+    "label" : "nq020403_msg0111",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸로 네 고민이 덜어질지는\n모르겠지만……"
+  }, {
+    "$id" : 26,
+    "label" : "nq020403_msg0112",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"어떻게 환송하는가\"가 아니라\n네가 \"어떻게 환송하고 싶은가\"를\n생각해 보는 건 어때?"
+  }, {
+    "$id" : 27,
+    "label" : "nq020403_msg0113",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"어떻게 환송하고 싶은가\"……라고요?"
+  }, {
+    "$id" : 28,
+    "label" : "nq020403_msg0114",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……미간에 주름졌어"
+  }, {
+    "$id" : 29,
+    "label" : "nq020403_msg0115",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어……?"
+  }, {
+    "$id" : 30,
+    "label" : "nq020403_msg0116",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스쿠네는 늘 너무 어렵게 생각해"
+  }, {
+    "$id" : 31,
+    "label" : "nq020403_msg0117",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런…… 걸까?"
+  }, {
+    "$id" : 32,
+    "label" : "nq020403_msg0118",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "초조해할 것 없어\n네가 생각한 그대로 한번 해 보자"
+  }, {
+    "$id" : 33,
+    "label" : "nq020403_msg0201",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빛이…… 떠올라요"
+  }, {
+    "$id" : 34,
+    "label" : "nq020403_msg0202",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모든 것으로부터 해방된 것처럼\n몸에서 흘러넘치는 모습이……"
+  }, {
+    "$id" : 35,
+    "label" : "nq020403_msg0203",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "참…… 아름다운 것 같아요"
+  }, {
+    "$id" : 36,
+    "label" : "nq020403_msg0204",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 아름다운 빛을……"
+  }, {
+    "$id" : 37,
+    "label" : "nq020403_msg0205",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "더 높은 하늘에서 아름답게 빛날 수 있도록\n올려 보내 주고 싶어요"
+  } ]
+}

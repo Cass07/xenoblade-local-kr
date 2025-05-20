@@ -1,0 +1,421 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012405_msg0001",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "병참장님께 이야기는 들었어\n습격자 조사 때문에 그러지?"
+  }, {
+    "$id" : 2,
+    "label" : "tq012405_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하쿠비 씨는 뭔가 단서를\n찾았을 거라고 하던데……"
+  }, {
+    "$id" : 3,
+    "label" : "tq012405_msg0003",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……실은\n그 레브니스의 행방에 대해선\n아직 아무것도 몰라"
+  }, {
+    "$id" : 4,
+    "label" : "tq012405_msg0004",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 람다와 마찬가지로\n레브니스가 물자를 약탈하는 사건이\n콜로니 4에서도 일어나고 있나 봐"
+  }, {
+    "$id" : 5,
+    "label" : "tq012405_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 4에서 일어난 사건과\n이번 사건이 동일범의 소행이라고?"
+  }, {
+    "$id" : 6,
+    "label" : "tq012405_msg0006",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇겠지, 아마도"
+  }, {
+    "$id" : 7,
+    "label" : "tq012405_msg0007",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜냐……\n거기까지 손을 뻗었다니……"
+  }, {
+    "$id" : 8,
+    "label" : "tq012405_msg0008",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이대로 방치하면 다른 콜로니에도\n피해가 생길 염려가 있어"
+  }, {
+    "$id" : 9,
+    "label" : "tq012405_msg0009",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 너희가\n직접 콜로니 4로 가서\n현지를 조사해 줬으면 하는데"
+  }, {
+    "$id" : 10,
+    "label" : "tq012405_msg0010",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 우리가?\n그쪽에서 가면 안 되는 거야?"
+  }, {
+    "$id" : 11,
+    "label" : "tq012405_msg0011",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 아그누스가 나서서 움직이면\n경계받을 우려가 있거든"
+  }, {
+    "$id" : 12,
+    "label" : "tq012405_msg0012",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "습격을 당한 직후라면 더욱 그렇겠지"
+  }, {
+    "$id" : 13,
+    "label" : "tq012405_msg0013",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 그 말대로야\n우리는 이 이상 조사하기가 힘들어"
+  }, {
+    "$id" : 14,
+    "label" : "tq012405_msg0014",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 점에서 예전부터 콜로니 4 사람들과\n친분이 있는 너희라면……"
+  }, {
+    "$id" : 15,
+    "label" : "tq012405_msg0015",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 거면 확실히 우리가 가는 게 낫겠네\n받아들이도록 할게"
+  }, {
+    "$id" : 16,
+    "label" : "tq012405_msg0016",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그 전에\n한 가지 확인을 부탁드립니다"
+  }, {
+    "$id" : 17,
+    "label" : "tq012405_msg0017",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수송대를 습격한 레브니스는\n이 기체가 틀림없습니까?"
+  }, {
+    "$id" : 18,
+    "label" : "tq012405_msg0018",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래, 내 기억이 맞다면\n이것과 똑같은 형태의 기체였어"
+  }, {
+    "$id" : 19,
+    "label" : "tq012405_msg0019",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알겠습니다\n협조해 주셔서 감사합니다"
+  }, {
+    "$id" : 20,
+    "label" : "tq012405_msg0020",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 수송대를 습격한 범인은\n철기병이 틀림없나……"
+  }, {
+    "$id" : 21,
+    "label" : "tq012405_msg0021",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하여간, 타이온 너는\n말 좀 가려서 하면 안 되냐"
+  }, {
+    "$id" : 22,
+    "label" : "tq012405_msg0022",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사실을 확인했을 뿐이야"
+  }, {
+    "$id" : 23,
+    "label" : "tq012405_msg0023",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "애초에 철기병이든\n우리가 모르는 레브니스든\n문제의 본질은 그게 아니야"
+  }, {
+    "$id" : 24,
+    "label" : "tq012405_msg0024",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "중요한 건……\n\"누가 타고 있었느냐\"지"
+  }, {
+    "$id" : 25,
+    "label" : "tq012405_msg0025",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"2호\"……"
+  }, {
+    "$id" : 26,
+    "label" : "tq012405_msg0026",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 2호라니?"
+  }, {
+    "$id" : 27,
+    "label" : "tq012405_msg0027",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……드릴 말씀이 있습니다"
+  }, {
+    "$id" : 28,
+    "label" : "tq012405_msg0028",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "습격자가 철기병일 가능성이 크며\n이걸 사실이라고 가정할 경우……"
+  }, {
+    "$id" : 29,
+    "label" : "tq012405_msg0029",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세주는…… 탑승자의 정체로\n짐작 가는 사람이 있습니다"
+  }, {
+    "$id" : 30,
+    "label" : "tq012405_msg0030",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저, 정말이야?\n하지만 콜로니 0 사람들은……"
+  }, {
+    "$id" : 31,
+    "label" : "tq012405_msg0031",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……수년 전, 임무 중 사고를 당해\n행방불명이 된 병사가 있었습니다"
+  }, {
+    "$id" : 32,
+    "label" : "tq012405_msg0032",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것이 \"2호\"……\n철기병 2호기의 탑승자입니다"
+  }, {
+    "$id" : 33,
+    "label" : "tq012405_msg0033",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "2호……"
+  }, {
+    "$id" : 34,
+    "label" : "tq012405_msg0034",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당시 유해도 철기병도 발견되지 않아\n그대로 전사한 줄 알았습니다만……"
+  }, {
+    "$id" : 35,
+    "label" : "tq012405_msg0035",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩌면 지금도 어딘가에\n살아 있을지도 모른다는 건가……"
+  }, {
+    "$id" : 36,
+    "label" : "tq012405_msg0036",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동료들과 떨어져 고립된 2호가\n살아남기 위해 어쩔 수 없이 물자 약탈을……?"
+  }, {
+    "$id" : 37,
+    "label" : "tq012405_msg0037",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……확증은 없습니다\n다만……"
+  }, {
+    "$id" : 38,
+    "label" : "tq012405_msg0038",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "2호가 정말로 살아 있다면\n세주는…… 이번에야말로 그녀를……"
+  }, {
+    "$id" : 39,
+    "label" : "tq012405_msg0039",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세주…… 혹시 하쿠비 씨랑\n대화할 때부터 계속……"
+  }, {
+    "$id" : 40,
+    "label" : "tq012405_msg0040",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 41,
+    "label" : "tq012405_msg0041",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬구나\n아무래도 목적이 하나 더 늘어난 것 같네"
+  }, {
+    "$id" : 42,
+    "label" : "tq012405_msg0042",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래! 다 함께 2호를 데리고 돌아오자\n알겠지, 세주?"
+  }, {
+    "$id" : 43,
+    "label" : "tq012405_msg0043",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……네, 세나"
+  }, {
+    "$id" : 44,
+    "label" : "tq012405_msg0044",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 시토네가 말한 대로\n콜로니 4에서 단서를 찾아보자"
+  } ]
+}

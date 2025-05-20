@@ -1,0 +1,169 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "ev12020100_0170,",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 네가 원하는 돌 가져왔어"
+  }, {
+    "$id" : 2,
+    "label" : "<A592BDD5>",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워모오!!"
+  }, {
+    "$id" : 3,
+    "label" : "<5D82B1BA>",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바로 돌을 검사해 볼게모오!"
+  }, {
+    "$id" : 4,
+    "label" : "<E752A6D2>",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들! 정말 잘했어모오!\n덕분에 좋은 장소를 찾았어모오!"
+  }, {
+    "$id" : 5,
+    "label" : "<EC83FE9C>",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "약속대로 던전이 완성되면\n가장 먼저 도전하게 해 줄게모오!"
+  }, {
+    "$id" : 6,
+    "label" : "<6B4B2011>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고맙기도 해라"
+  }, {
+    "$id" : 7,
+    "label" : "<34D32A4B>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서, 그 던전이라는 건\n언제쯤 완성되는데?"
+  }, {
+    "$id" : 8,
+    "label" : "<E051541F>",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 오래 안 걸려모오!\n대략 백 년 정도야모오!"
+  }, {
+    "$id" : 9,
+    "label" : "<B67772CA>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "백?!"
+  }, {
+    "$id" : 10,
+    "label" : "<CCDEAF9B>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "굉장히 여유로운 일정이군"
+  }, {
+    "$id" : 11,
+    "label" : "<65FAE440>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도전은 못 하겠는걸……"
+  }, {
+    "$id" : 12,
+    "label" : "<967D3EF9>",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모오?! 이렇게 안타까울 수가모오!"
+  }, {
+    "$id" : 13,
+    "label" : "<07BCABC4>",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 적어도\n선전만이라도 잘 부탁할게모오!"
+  }, {
+    "$id" : 14,
+    "label" : "<6A93CB83>",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 분명 백 년 후에\n누군가가 도전하러 와 줄 거야모오!"
+  }, {
+    "$id" : 15,
+    "label" : "<C5DB32D7>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리한테 백 년 동안 말해 달라는 거야?\n진짜 느긋하기도 하네, 노폰은……"
+  }, {
+    "$id" : 16,
+    "label" : "<9B9DE16D>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 미래 일은 모르겠지만\n노력 정도는 해 볼게"
+  } ]
+}

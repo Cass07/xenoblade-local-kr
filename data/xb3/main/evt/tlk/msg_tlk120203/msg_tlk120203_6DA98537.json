@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120203_msg0001",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저흰 전쟁을 하고 있는데\n적을 쓰러뜨릴 힘을 추구하는 게\n뭐가 나쁜지 모르겠단 말이죠"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120203_msg0002",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장님의 훈련은 쓸데없이 힘든 주제에\n그런 점에선 뭘 모른다는 거예요"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120203_msg0003",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적을 좀 더 확실하게 처치하는 아츠라든지\n\"죽이는 방법\"이나 알려 줬으면 좋겠다니까요"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120203_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후츠……!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk120203_msg0005",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 죄송한데 설교는 사양할게요\n아시하라 같은 녀석들한테 실컷 들었다고요\n하여간 물러 터진 것들뿐이라 힘들다니까요"
+  } ]
+}

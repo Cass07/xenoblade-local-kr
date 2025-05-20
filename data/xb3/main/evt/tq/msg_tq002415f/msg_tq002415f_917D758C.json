@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002415_msg0001",
+    "talker" : "xY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "7호……\n다행이야, 무사했구나"
+  }, {
+    "$id" : 2,
+    "label" : "tq002415_msg0002",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "4호, 이상은 없습니까?"
+  }, {
+    "$id" : 3,
+    "label" : "tq002415_msg0003",
+    "talker" : "xY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이쪽은 별일 없었어. 10호와 8호가\n임무 중이지만 금방 돌아올 거야"
+  }, {
+    "$id" : 4,
+    "label" : "tq002415_msg0004",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "발언을 정정합니다\n\"4호의 컨디션\"에\n이상은 없습니까?"
+  }, {
+    "$id" : 5,
+    "label" : "tq002415_msg0005",
+    "talker" : "xY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그래…… 괜찮아\n4호는 아직 싸울 수 있어"
+  }, {
+    "$id" : 6,
+    "label" : "tq002415_msg0006",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만……"
+  }, {
+    "$id" : 7,
+    "label" : "tq002415_msg0007",
+    "talker" : "xY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "7호는 아무 잘못 없어\n나쁜 건 전투 능력이 부족한 4호니까"
+  }, {
+    "$id" : 8,
+    "label" : "tq002415_msg0008",
+    "talker" : "xY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "철기병의 \"리미터\"를 사용하지 않으면\n4호는 제대로 싸울 수 없……"
+  }, {
+    "$id" : 9,
+    "label" : "tq002415_msg0009",
+    "talker" : "xY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으윽……"
+  } ]
+}

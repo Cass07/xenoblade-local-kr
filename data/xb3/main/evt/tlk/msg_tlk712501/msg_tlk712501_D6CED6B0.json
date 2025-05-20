@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk712501_msg0001",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모습이 드러날 위험을 감수하면서까지\n요람을 계속해서 탈취하려고 하다니\n로스트 넘버즈는 잘못하고 있어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk712501_msg0002",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캐슬 녀석들의 저속한 횡포에 대해서는\n잘 알고 있을 텐데"
+  }, {
+    "$id" : 3,
+    "label" : "tlk712501_msg0003",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "인질을 내주는 거나 마찬가지인 짓을\n왜 그만두지 않는 거지……"
+  } ]
+}

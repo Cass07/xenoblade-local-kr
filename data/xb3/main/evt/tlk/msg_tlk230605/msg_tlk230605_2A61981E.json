@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230605_msg0001",
+    "talker" : "Zb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "패해룡 엔빌레오, 재앙의 날개 류호\n천고각의 그란데푸스, 참렬용 닐즈빈트……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230605_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐야?\n몬스터 이름이야?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230605_msg0003",
+    "talker" : "Zb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇소\n이 세계 어딘가에 있다는\n최강 몬스터들의 이름이오"
+  }, {
+    "$id" : 4,
+    "label" : "tlk230605_msg0004",
+    "talker" : "Zb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그들을 쓰러뜨리면\n아이오니온에서 최강을 자부할 수 있을 것이오\n언젠가 소인도 도전해 볼 생각이외다"
+  } ]
+}

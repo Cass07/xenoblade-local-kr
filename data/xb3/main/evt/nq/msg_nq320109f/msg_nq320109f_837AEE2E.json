@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq320109_msg0001",
+    "talker" : "rf1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토르톤은 여기 있는 거 맞지?\n페르가스가 연행하는 모습을 봤다고 했어!"
+  }, {
+    "$id" : 2,
+    "label" : "nq320109_msg0002",
+    "talker" : "sf1",
+    "talkattr" : 33104,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 3,
+    "label" : "nq320109_msg0003",
+    "talker" : "fk1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시끄러워!\n자, 빨리 돌아가!"
+  }, {
+    "$id" : 4,
+    "label" : "nq320109_msg0004",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 저 녀석들이 있는 거야……?"
+  }, {
+    "$id" : 5,
+    "label" : "nq320109_msg0005",
+    "talker" : "fk1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "작작 해라"
+  }, {
+    "$id" : 6,
+    "label" : "nq320109_msg0006",
+    "talker" : "rf1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힘으로 해결하시겠다?\n그편이 더 알기 쉬우니 나야 좋지"
+  }, {
+    "$id" : 7,
+    "label" : "nq320109_msg0007",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 뭔가 분위기가 험악하게 돌아가는데?\n어떻게 할 거야, 노아?"
+  }, {
+    "$id" : 8,
+    "label" : "nq320109_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어쩔 수 없지, 감시는 중지하자\n우리가 말려야 해"
+  } ]
+}

@@ -1,0 +1,322 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<0F152A7A>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거기까지!\n전투를 중지해 주세요"
+  }, {
+    "$id" : 2,
+    "label" : "<E77950F3>",
+    "talker" : "@p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여, 역시 매슈 공……!\n제가 졌습니다……!"
+  }, {
+    "$id" : 3,
+    "label" : "<FB15E117>",
+    "talker" : "tq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런…… 역시 강하네"
+  }, {
+    "$id" : 4,
+    "label" : "<FC657D7C>",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 5,
+    "label" : "<7B6FB28D>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희도 열심히 잘했어\n오늘처럼 계속 훈련을 받으면\n금방 훌륭해질 거야"
+  }, {
+    "$id" : 6,
+    "label" : "<C57AA620>",
+    "talker" : "@p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "매, 매슈 공에게\n보증을 받을 줄이야……!"
+  }, {
+    "$id" : 7,
+    "label" : "<48F364E9>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘의 훈련은 여기까지다\n이상 해산!"
+  }, {
+    "$id" : 8,
+    "label" : "<E81DB5C9>",
+    "talker" : "@p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지도해 주셔서 감사합니다!"
+  }, {
+    "$id" : 9,
+    "label" : "<B4CC2059>",
+    "talker" : "tq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수고하셨습니다~"
+  }, {
+    "$id" : 10,
+    "label" : "<4BB9AEEF>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "류이, 넌 잠시 남도록"
+  }, {
+    "$id" : 11,
+    "label" : "<3C2FE081>",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……윽!"
+  }, {
+    "$id" : 12,
+    "label" : "<9C454FD8>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……류이\n너, 다쳤지?"
+  }, {
+    "$id" : 13,
+    "label" : "<D95BC004>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것도 모의전 하기 전부터 말이야\n숨겨도 다 알 수 있어"
+  }, {
+    "$id" : 14,
+    "label" : "<33A46E58>",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 15,
+    "label" : "<B29FDCD3>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어제 훈련할 때 다친 건가……\n왜 입 다물고 있었지?"
+  }, {
+    "$id" : 16,
+    "label" : "<17975987>",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그건……"
+  }, {
+    "$id" : 17,
+    "label" : "<0064B395>",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "발목 잡는다고\n여겨지기 싫었어요……"
+  }, {
+    "$id" : 18,
+    "label" : "<1C64F8E5>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무리하더라도\n열심히 하고 싶다는 기분은\n나도 잘 알아"
+  }, {
+    "$id" : 19,
+    "label" : "<15BE57AE>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 방금 모의전도 막지 않은 거고\n하지만 더 이상은 그냥 두고 볼 수 없어\n……이해하지?"
+  }, {
+    "$id" : 20,
+    "label" : "<25FA7F4D>",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……죄송합니다"
+  }, {
+    "$id" : 21,
+    "label" : "<DFEE2253>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 들어, 시티 사람이든\n리버레이터든 상관없어"
+  }, {
+    "$id" : 22,
+    "label" : "<8865D8AA>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너는 지금부터 함께 싸울 동료야\n그것만큼은 기억해 둬"
+  }, {
+    "$id" : 23,
+    "label" : "<213916DC>",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……네"
+  }, {
+    "$id" : 24,
+    "label" : "<936CC445>",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기…… 감사합니다\n동료라고 해 주셔서요"
+  }, {
+    "$id" : 25,
+    "label" : "<5AAAFDEE>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카기로이\n치료를 부탁해도 될까?"
+  }, {
+    "$id" : 26,
+    "label" : "<28C065EE>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "파나세아의 부모님은\n남을 잘 보살펴 줘서 많은 사람들이 따르곤 했어"
+  }, {
+    "$id" : 27,
+    "label" : "<6094686B>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나\n저 녀석이 남을 잘 보살피는 것도\n부모님의 영향을 받은 건가"
+  }, {
+    "$id" : 28,
+    "label" : "<CB68B850>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저렇게 보여도 파나세아는\n주변 변화에도 민감한 편이야\n게다가 리더십도 있지"
+  }, {
+    "$id" : 29,
+    "label" : "<EEF168B3>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "언젠가 리버레이터는\n파나세아가 이끌 거야\n그때가 온다면……"
+  }, {
+    "$id" : 30,
+    "label" : "<0B8FAC76>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "매슈, 나를 대신해서\n파나세아를 도와주지 않겠어?"
+  }, {
+    "$id" : 31,
+    "label" : "<17875D1F>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 슈르크……\n그런 불길한 소리는 왜 하고 그래"
+  }, {
+    "$id" : 32,
+    "label" : "<E9EA691A>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부탁할게"
+  }, {
+    "$id" : 33,
+    "label" : "<B7742B82>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알았어\n그때가 온다면 말이지"
+  } ]
+}

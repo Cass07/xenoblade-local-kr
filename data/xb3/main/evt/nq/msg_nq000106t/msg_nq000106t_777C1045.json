@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq000106_msg0001",
+    "talker" : "zb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나한테 무슨 볼일이야모?\n뭘 살 거면 조금만 기다려 줘모"
+  }, {
+    "$id" : 2,
+    "label" : "nq000106_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갑자기 말 걸어서 미안한데\n시르지르한테 의뢰받고 왔어"
+  }, {
+    "$id" : 3,
+    "label" : "nq000106_msg0003",
+    "talker" : "zb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하~ 그랬구나모\n돌이라면 이걸 줄게모"
+  }, {
+    "$id" : 4,
+    "label" : "nq000106_msg0004",
+    "talker" : "zb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 볼일은 끝났어모?\n그럼 빨리 다른 데로 가 줘모"
+  }, {
+    "$id" : 5,
+    "label" : "nq000106_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야, 쌀쌀맞기는……"
+  }, {
+    "$id" : 6,
+    "label" : "nq000106_msg0006",
+    "talker" : "zb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이쪽은 츠토토가 갑자기 사라져서 엄청 바빠모\n츠토토는 방랑벽이 있어서 피곤해모……"
+  }, {
+    "$id" : 7,
+    "label" : "nq000106_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바쁜데 방해해서 미안\n도와줘서 고마워"
+  } ]
+}

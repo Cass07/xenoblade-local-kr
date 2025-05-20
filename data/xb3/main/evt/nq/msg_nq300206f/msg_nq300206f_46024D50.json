@@ -1,0 +1,439 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq300206_msg0001",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘은 뭐가 나올까~?"
+  }, {
+    "$id" : 2,
+    "label" : "nq300206_msg0002",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워모!!!"
+  }, {
+    "$id" : 3,
+    "label" : "nq300206_msg0003",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으앗?! 깜짝이야……"
+  }, {
+    "$id" : 4,
+    "label" : "nq300206_msg0004",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네가 렌게야모?\n니르니의 널빤지를\n주워 줬다고 들었어모"
+  }, {
+    "$id" : 5,
+    "label" : "nq300206_msg0005",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알아봐 줘서 고마워모"
+  }, {
+    "$id" : 6,
+    "label" : "nq300206_msg0006",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그 정도로 뭘……?"
+  }, {
+    "$id" : 7,
+    "label" : "nq300206_msg0007",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……말하는 순서가 엉망이잖아"
+  }, {
+    "$id" : 8,
+    "label" : "nq300206_msg0008",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "놀라게 해서 미안해\n사실은……"
+  }, {
+    "$id" : 9,
+    "label" : "nq300206_msg0009",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나~!\n네가 그 『도와줘』를 썼구나……!!"
+  }, {
+    "$id" : 10,
+    "label" : "nq300206_msg0010",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "처음부터 그렇게 말했잖아모\n하지만 렌게 덕분에 도움을 받았어모"
+  }, {
+    "$id" : 11,
+    "label" : "nq300206_msg0011",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워모!"
+  }, {
+    "$id" : 12,
+    "label" : "nq300206_msg0012",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아하하, 됐다니까\n나도 조금 설렜거든"
+  }, {
+    "$id" : 13,
+    "label" : "nq300206_msg0013",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 소멸 현상이라고…… 했나?"
+  }, {
+    "$id" : 14,
+    "label" : "nq300206_msg0014",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 유감이야\n조사도 실패했고……"
+  }, {
+    "$id" : 15,
+    "label" : "nq300206_msg0015",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조사는 실패하지 않았어모"
+  }, {
+    "$id" : 16,
+    "label" : "nq300206_msg0016",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사라진 풍경을 보는 것도\n니르니의 역할이야모"
+  }, {
+    "$id" : 17,
+    "label" : "nq300206_msg0017",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그때 묻는 걸 깜빡했는데\n그 조사니 역할이니 하는 건 대체 뭐야?"
+  }, {
+    "$id" : 18,
+    "label" : "nq300206_msg0018",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니르니가 하는 일은\n세계 지도를 만드는 거야모!"
+  }, {
+    "$id" : 19,
+    "label" : "nq300206_msg0019",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 소멸 현상이\n점점 진행돼서……"
+  }, {
+    "$id" : 20,
+    "label" : "nq300206_msg0020",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "완벽한 지도를 만들려면\n소멸 현상이 발생한 장소로\n여행할 수밖에 없었어모"
+  }, {
+    "$id" : 21,
+    "label" : "nq300206_msg0021",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지도 장인이었군……\n노폰이 측량하고 있다고\n듣긴 했지만……"
+  }, {
+    "$id" : 22,
+    "label" : "nq300206_msg0022",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 풍경이 중요했던 거구나"
+  }, {
+    "$id" : 23,
+    "label" : "nq300206_msg0023",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 그런데…… 기껏 측량했는데\n또 지형이 바뀌어 버릴지도 모르잖아?"
+  }, {
+    "$id" : 24,
+    "label" : "nq300206_msg0024",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 말이 맞아모"
+  }, {
+    "$id" : 25,
+    "label" : "nq300206_msg0025",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세계는 천천히 무너지고 있어모\n니르니의 마음도 덩달아 무너져 가모……"
+  }, {
+    "$id" : 26,
+    "label" : "nq300206_msg0026",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만…… 안경 쓴 사람이\n사라지지 않는 것도 있다고 가르쳐 줬어모"
+  }, {
+    "$id" : 27,
+    "label" : "nq300206_msg0027",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사라지지 않는 것?"
+  }, {
+    "$id" : 28,
+    "label" : "nq300206_msg0028",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "풍경은 지도 속에 남아 있어모"
+  }, {
+    "$id" : 29,
+    "label" : "nq300206_msg0029",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까…… 니르니는 계속 남길 거야모!\n소멸 현상이랑 승부를 겨루겠어모!"
+  }, {
+    "$id" : 30,
+    "label" : "nq300206_msg0030",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇군\n수정하는 작업을 비관하지 않고\n긍정적으로 받아들이기로 했나"
+  }, {
+    "$id" : 31,
+    "label" : "nq300206_msg0031",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니르니의 로망은\n소멸 현상으로도 없앨 수 없어모!"
+  }, {
+    "$id" : 32,
+    "label" : "nq300206_msg0032",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로망……? 그게 뭔데?"
+  }, {
+    "$id" : 33,
+    "label" : "nq300206_msg0033",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "두근두근하고\n반짝반짝하는 마음이야모!"
+  }, {
+    "$id" : 34,
+    "label" : "nq300206_msg0034",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "닿을 수 없을지도 몰라모\n의미가 없을지도 몰라모……"
+  }, {
+    "$id" : 35,
+    "label" : "nq300206_msg0035",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 하고 싶어서\n정열이 펄펄 끓어오르는 거야모!"
+  }, {
+    "$id" : 36,
+    "label" : "nq300206_msg0036",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오오……?! 잘은 모르겠지만\n뭔가 무척 뜨거운 거구나?!"
+  }, {
+    "$id" : 37,
+    "label" : "nq300206_msg0037",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뜨거워모!\n앗뜨앗뜨해서 펄펄 끓어 넘쳐모!"
+  }, {
+    "$id" : 38,
+    "label" : "nq300206_msg0038",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응! 뜨거운 건 맛있어!\n뜨거울 때 먹어야 제맛이잖아!"
+  }, {
+    "$id" : 39,
+    "label" : "nq300206_msg0039",
+    "talker" : "vi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이해해 줬구나모?!\n고마워모!"
+  }, {
+    "$id" : 40,
+    "label" : "nq300206_msg0040",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거 제대로 된 대화 맞아……?"
+  }, {
+    "$id" : 41,
+    "label" : "nq300206_msg0041",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래도 마음은 통했나 봐"
+  }, {
+    "$id" : 42,
+    "label" : "nq300206_msg0042",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "닿을 수 없어도\n의미가 없을지 몰라도……"
+  }, {
+    "$id" : 43,
+    "label" : "nq300206_msg0043",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……하고 싶어서\n반짝반짝하는 마음이라……"
+  }, {
+    "$id" : 44,
+    "label" : "nq300206_msg0044",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……타이온은 알 것 같아?"
+  }, {
+    "$id" : 45,
+    "label" : "nq300206_msg0045",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "굳이 대답하진 않겠어\n하지만……"
+  }, {
+    "$id" : 46,
+    "label" : "nq300206_msg0046",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "언젠간 닿을 거라고……\n믿고 싶어졌어"
+  } ]
+}

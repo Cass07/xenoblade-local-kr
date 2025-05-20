@@ -1,0 +1,205 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<CBDEE67C>",
+    "talker" : "1",
+    "talkattr" : 32800,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "파도 소리…… 참 기분 좋다"
+  }, {
+    "$id" : 2,
+    "label" : "<B8AD5BF4>",
+    "talker" : "5",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바다는 어떻게\n이토록 넓은 걸까?"
+  }, {
+    "$id" : 3,
+    "label" : "<4F4AFDC6>",
+    "talker" : "6",
+    "talkattr" : 32800,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 감마에 계속 있었다면\n여기에 올 일도 없었겠지……"
+  }, {
+    "$id" : 4,
+    "label" : "<DE49B51F>",
+    "talker" : "3",
+    "talkattr" : 33048,
+    "talkattr2" : 8405121,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 우리도 마찬가지야\n그렇지? 노아"
+  }, {
+    "$id" : 5,
+    "label" : "<DF537244>",
+    "talker" : "1",
+    "talkattr" : 33048,
+    "talkattr2" : 12599425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게……\n그저 바다만 바라보며\n시간을 보내는 건 꿈도 못 꿨어"
+  }, {
+    "$id" : 6,
+    "label" : "<8479FEED>",
+    "talker" : "4",
+    "talkattr" : 33048,
+    "talkattr2" : 8405121,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 그렇지\n바다 구경할 시간에\n싸워야 했으니까"
+  }, {
+    "$id" : 7,
+    "label" : "<E9A1E588>",
+    "talker" : "3",
+    "talkattr" : 32792,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아"
+  }, {
+    "$id" : 8,
+    "label" : "<2754D158>",
+    "talker" : "2",
+    "talkattr" : 33056,
+    "talkattr2" : 14696577,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가끔은…… 이렇게 시간을 보내는 것도\n나쁘지 않은 거 같아"
+  }, {
+    "$id" : 9,
+    "label" : "<ABF7089D>",
+    "talker" : "4",
+    "talkattr" : 33056,
+    "talkattr2" : 10502273,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동감이야"
+  }, {
+    "$id" : 10,
+    "label" : "<E1B73785>",
+    "talker" : "4",
+    "talkattr" : 52480,
+    "talkattr2" : 17409,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "통신……?"
+  }, {
+    "$id" : 11,
+    "label" : "<5583E42E>",
+    "talker" : "4",
+    "talkattr" : 52560,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗?! 이스루기 군무장님이셔"
+  }, {
+    "$id" : 12,
+    "label" : "<9F06FAD8>",
+    "talker" : "406A0",
+    "talkattr" : 52483,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타이온, 잠깐 괜찮나?"
+  }, {
+    "$id" : 13,
+    "label" : "<3C67F181>",
+    "talker" : "40300",
+    "talkattr" : 52483,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 군무장님!\n무슨 일이십니까?"
+  }, {
+    "$id" : 14,
+    "label" : "<1BFF3F2F>",
+    "talker" : "404A0",
+    "talkattr" : 52483,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "할 얘기가 좀 있는데\n콜로니 람다로 와 줄 수 있나?"
+  }, {
+    "$id" : 15,
+    "label" : "<7A769ED6>",
+    "talker" : "404A0",
+    "talkattr" : 52483,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 시간 날 때 오면 돼\n너희의 여정을 방해할 수는 없으니까"
+  }, {
+    "$id" : 16,
+    "label" : "<0FE95ED6>",
+    "talker" : "40300",
+    "talkattr" : 52483,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 알겠습니다\n꼭 가겠습니다"
+  }, {
+    "$id" : 17,
+    "label" : "<AA5E3EBD>",
+    "talker" : "408A0",
+    "talkattr" : 52483,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 부탁하지, 타이온"
+  }, {
+    "$id" : 18,
+    "label" : "<7C485AF8>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 14696579,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이스루기가 뭐래?"
+  }, {
+    "$id" : 19,
+    "label" : "<9A7B5336>",
+    "talker" : "4",
+    "talkattr" : 32768,
+    "talkattr2" : 12599425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무래도 시간 날 때\n람다에 들렀으면 하시나 봐……"
+  }, {
+    "$id" : 20,
+    "label" : "<E2FE46B4>",
+    "talker" : "1",
+    "talkattr" : 32768,
+    "talkattr2" : 14696577,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나\n기회가 되면 람다에 들러 보자"
+  } ]
+}

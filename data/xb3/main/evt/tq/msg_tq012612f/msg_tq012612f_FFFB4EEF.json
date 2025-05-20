@@ -1,0 +1,205 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012612_msg0001",
+    "talker" : "nl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여길 찾아낼 줄이야\n마치 사냥개 같군"
+  }, {
+    "$id" : 2,
+    "label" : "tq012612_msg0002",
+    "talker" : "ol1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꼭 틀린 말은 아니지\n이 녀석은 반담 가문의 개니까"
+  }, {
+    "$id" : 3,
+    "label" : "tq012612_msg0003",
+    "talker" : "ol1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그레이, 기껏해야 넌 모니카 앞에서\n꼬리나 흔드는 일밖에 못 하겠지"
+  }, {
+    "$id" : 4,
+    "label" : "tq012612_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "멋대로 떠들기는!\n그레이, 너도 한마디 해!"
+  }, {
+    "$id" : 5,
+    "label" : "tq012612_msg0005",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 필요 없다"
+  }, {
+    "$id" : 6,
+    "label" : "tq012612_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "필요가 왜 없어!\n이런 녀석들한테 무시당했는데\n가만히 있을 거냐고!"
+  }, {
+    "$id" : 7,
+    "label" : "tq012612_msg0007",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗……"
+  }, {
+    "$id" : 8,
+    "label" : "tq012612_msg0008",
+    "talker" : "ol1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스라고 해도 아직 애들인데\n그런 녀석들이랑 어울려 다닐 줄이야\n한심한 녀석이군"
+  }, {
+    "$id" : 9,
+    "label" : "tq012612_msg0009",
+    "talker" : "nl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여길 찾아왔다는 건\n우리의 목적도 알고 있을 터"
+  }, {
+    "$id" : 10,
+    "label" : "tq012612_msg0010",
+    "talker" : "ol1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 싸울 수밖에 없지\n아니면 개답게 거기 앉아 있겠나?"
+  }, {
+    "$id" : 11,
+    "label" : "tq012612_msg0011",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것도 안 될 말이지"
+  }, {
+    "$id" : 12,
+    "label" : "tq012612_msg0012",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 너는 죽인다"
+  }, {
+    "$id" : 13,
+    "label" : "tq012612_msg0013",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "넌 지금 당장은 살려 두지\n단, 유익한 정보가 없다면 죽이겠다"
+  }, {
+    "$id" : 14,
+    "label" : "tq012612_msg0014",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그냥 넘어가진 않을 줄 알았지만……"
+  }, {
+    "$id" : 15,
+    "label" : "tq012612_msg0015",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상당히 과격한 거 같은데"
+  }, {
+    "$id" : 16,
+    "label" : "tq012612_msg0016",
+    "talker" : "ol1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 네 아군은\n우로보로스뿐이다"
+  }, {
+    "$id" : 17,
+    "label" : "tq012612_msg0017",
+    "talker" : "ol1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로자나는 우리 편인데……\n그래도 싸우겠다는 거냐?"
+  }, {
+    "$id" : 18,
+    "label" : "tq012612_msg0018",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론이다. 그게 내 일이니까"
+  }, {
+    "$id" : 19,
+    "label" : "tq012612_msg0019",
+    "talker" : "ol1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "개처럼 충직한 건 인정하지만\n그런 소극적인 자세로는 시티를 지킬 수 없어!"
+  }, {
+    "$id" : 20,
+    "label" : "tq012612_msg0020",
+    "talker" : "ol1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘 이때를 기점으로\n시티는 변할 거다……\n싸움 없이 평화는 찾아오지 않아!"
+  } ]
+}

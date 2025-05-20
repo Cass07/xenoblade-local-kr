@@ -1,0 +1,151 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<D4D90291>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "슈르크 씨, 가동됐어요!"
+  }, {
+    "$id" : 2,
+    "label" : "<CBEB6417>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 보아하니 성공한 것 같네"
+  }, {
+    "$id" : 3,
+    "label" : "<5D92DE5F>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 장치를 해석해서\n우리가 가진 휴대용 에테르 용광로에\n기술을 접목시키면……"
+  }, {
+    "$id" : 4,
+    "label" : "<973B378A>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 언제든지 고순도 젬을\n만들 수 있게 될 거예요"
+  }, {
+    "$id" : 5,
+    "label" : "<5F1A4AC8>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "와, 대단하네\n그런 것까지 가능해?"
+  }, {
+    "$id" : 6,
+    "label" : "<4F10A389>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 이 장치의 구조 자체는\n우리가 쓰는 것과 동일한데……"
+  }, {
+    "$id" : 7,
+    "label" : "<2A8D79FA>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "중간중간에 뭐라고 하지……\n아주 개성적인 기술이 사용되고 있어서……"
+  }, {
+    "$id" : 8,
+    "label" : "<14E38B71>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명 양산된 물건이 아니라\n누군가가 특별히 만든 물건일 거야"
+  }, {
+    "$id" : 9,
+    "label" : "<44885AA0>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 휴대용 장치를 개량하는 데에도\n참고가 많이 돼"
+  }, {
+    "$id" : 10,
+    "label" : "<FC76D1EB>",
+    "talker" : "e1",
+    "talkattr" : 33026,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "설마 콜로니 9이 노후될 정도로\n시간이 많이 흘러서도 움직일 줄이야……"
+  }, {
+    "$id" : 11,
+    "label" : "<AD356CDD>",
+    "talker" : "e1",
+    "talkattr" : 33026,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 젬 할아버지의 발명품이야\n그 사람은 못 당해 내겠네……"
+  }, {
+    "$id" : 12,
+    "label" : "<E5F37D5C>",
+    "talker" : "e1",
+    "talkattr" : 33026,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워, 젬 할아버지\n이번에도 잘 쓰도록 할게"
+  }, {
+    "$id" : 13,
+    "label" : "<3D2DB617>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : "구식 에테르 용광로를 수리했다\n"
+  }, {
+    "$id" : 14,
+    "label" : "<D496D356>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : "젬 크래프트에서 랭크 5까지의 젬을\n제작할 수 있게 되었다"
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq100201_msg0001",
+    "talker" : "Wc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모오!\n벌써 모은 거야모오?!"
+  }, {
+    "$id" : 2,
+    "label" : "nq100201_msg0002",
+    "talker" : "Wc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타가네는 지금 손이 지저분해모오!!\n이대로 만지면 노폰 코인에 모래가 묻어모오"
+  }, {
+    "$id" : 3,
+    "label" : "nq100201_msg0003",
+    "talker" : "Wc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰 코인은 시쿠쿠한테 건네줘모오!!\n상품도 시쿠쿠가 줄 거야모오!"
+  } ]
+}

@@ -1,0 +1,898 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011011_msg0001",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요리사와 심사 위원 양측 모두\n준비가 끝난 것 같으니……"
+  }, {
+    "$id" : 2,
+    "label" : "tq011011_msg0002",
+    "talker" : "tk1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "1년에 한 번뿐인 즐거움!\n요리 콘테스트를 시작하겠습니다!"
+  }, {
+    "$id" : 3,
+    "label" : "tq011011_msg0003",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진행은 시티에서 가장 사랑받는 캐릭터……"
+  }, {
+    "$id" : 4,
+    "label" : "tq011011_msg0004",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……다시, 로스트 넘버즈의 부관\n트래비스가 맡겠습니다"
+  }, {
+    "$id" : 5,
+    "label" : "tq011011_msg0005",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 심사 위원 소개부터……\n이번에도 응모자가 엄청나게 많았지만\n그중에 당선된 행운의 4명!"
+  }, {
+    "$id" : 6,
+    "label" : "tq011011_msg0006",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "먼저……"
+  }, {
+    "$id" : 7,
+    "label" : "tq011011_msg0007",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곤도! 어릴 적에\n심사 위원이 되고 싶다고 했는데\n당첨돼서 다행이군요!"
+  }, {
+    "$id" : 8,
+    "label" : "tq011011_msg0008",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "칫, 어쩐지 마음에 안 드는 소개 문구인데"
+  }, {
+    "$id" : 9,
+    "label" : "tq011011_msg0009",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이어서……"
+  }, {
+    "$id" : 10,
+    "label" : "tq011011_msg0010",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요리 지식은 과연 얼마나 풍부할까요?\n만물박사 웰웰!"
+  }, {
+    "$id" : 11,
+    "label" : "tq011011_msg0011",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고…… 음악이야말로 연인!\n토도로키 할아버지!"
+  }, {
+    "$id" : 12,
+    "label" : "tq011011_msg0012",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "소리는 물론 맛에도 아주 깐깐할 듯 보입니다!\n……물론 좋은 의미로 말이죠!"
+  }, {
+    "$id" : 13,
+    "label" : "tq011011_msg0013",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……마지막은 역대 최연소 심사 위원!"
+  }, {
+    "$id" : 14,
+    "label" : "tq011011_msg0014",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "먹는 걸 제일 좋아하는 산!\n어떤 음식이든 상대해 주겠다는군요!"
+  }, {
+    "$id" : 15,
+    "label" : "tq011011_msg0015",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에헤헤~\n다 덤벼!"
+  }, {
+    "$id" : 16,
+    "label" : "tq011011_msg0016",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디까지나 요리의 완성도를\n평가해 주시길 바랍니다! 정직하게!"
+  }, {
+    "$id" : 17,
+    "label" : "tq011011_msg0017",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이어서 요리사를 소개하겠습니다!"
+  }, {
+    "$id" : 18,
+    "label" : "tq011011_msg0018",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "1번 선수는\n로스트 넘버즈의 에이스, 니시키!"
+  }, {
+    "$id" : 19,
+    "label" : "tq011011_msg0019",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 숨은 요리 실력도 넘버 원일까요?"
+  }, {
+    "$id" : 20,
+    "label" : "tq011011_msg0020",
+    "talker" : "xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 21,
+    "label" : "tq011011_msg0021",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……표정 조심해요!\n심사 위원석을 노려보면 어떡하나요!!\n애가 무서워하잖아요!"
+  }, {
+    "$id" : 22,
+    "label" : "tq011011_msg0022",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마음속 라이벌과는\n요리로 승부를 내 주세요!\n평화적이면서도 원만하게!"
+  }, {
+    "$id" : 23,
+    "label" : "tq011011_msg0023",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다음은 우리의 보스……!"
+  }, {
+    "$id" : 24,
+    "label" : "tq011011_msg0024",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 장로…… 아니지\n모니카…… 씨?"
+  }, {
+    "$id" : 25,
+    "label" : "tq011011_msg0025",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부르던 대로 부르고, 다음으로 넘어가"
+  }, {
+    "$id" : 26,
+    "label" : "tq011011_msg0026",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 보스로……"
+  }, {
+    "$id" : 27,
+    "label" : "tq011011_msg0027",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이어서 우로보로스 전속\n맛의 파수꾼, 마나나!"
+  }, {
+    "$id" : 28,
+    "label" : "tq011011_msg0028",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분의! 위도, 마음도!\n마나나가 훔쳐 가겠어요모!"
+  }, {
+    "$id" : 29,
+    "label" : "tq011011_msg0029",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 마지막 선수는\n마음을 단단히 먹었다고 들었습니다!"
+  }, {
+    "$id" : 30,
+    "label" : "tq011011_msg0030",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미소가 예쁜 아가씨, 미야비!"
+  }, {
+    "$id" : 31,
+    "label" : "tq011011_msg0031",
+    "talker" : "Xm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힘내렴! 미야비!"
+  }, {
+    "$id" : 32,
+    "label" : "tq011011_msg0032",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아!"
+  }, {
+    "$id" : 33,
+    "label" : "tq011011_msg0033",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번에는 이 4명이 출전합니다"
+  }, {
+    "$id" : 34,
+    "label" : "tq011011_msg0034",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 바로…… 요리는\n니시키부터 시작해 주세요"
+  }, {
+    "$id" : 35,
+    "label" : "tq011011_msg0035",
+    "talker" : "xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 요리는…… 이거다!"
+  }, {
+    "$id" : 36,
+    "label" : "tq011011_msg0036",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "멋있다~!"
+  }, {
+    "$id" : 37,
+    "label" : "tq011011_msg0037",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건……"
+  }, {
+    "$id" : 38,
+    "label" : "tq011011_msg0038",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "열을 가하면\n화려한 청록빛을 띄다가"
+  }, {
+    "$id" : 39,
+    "label" : "tq011011_msg0039",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몸을 감싼 껍질이 서서히 투명해져서\n에메랄드처럼 반짝인다는……\n비취 로브스터로군모……!"
+  }, {
+    "$id" : 40,
+    "label" : "tq011011_msg0040",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거 먹을 수 있는 거야?"
+  }, {
+    "$id" : 41,
+    "label" : "tq011011_msg0041",
+    "talker" : "xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 42,
+    "label" : "tq011011_msg0042",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맛있다! 뭔가 탱글탱글한 게 맛있는데?"
+  }, {
+    "$id" : 43,
+    "label" : "tq011011_msg0043",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "소문대로 입 안에서\n통통 튀며 춤추는 듯한 식감이야모\n감칠맛이 입 안 가득히 퍼지고 있어모!"
+  }, {
+    "$id" : 44,
+    "label" : "tq011011_msg0044",
+    "talker" : "_k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흥~ 후후후흥흥~"
+  }, {
+    "$id" : 45,
+    "label" : "tq011011_msg0045",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기, 이거 어떻게 먹는 거야?\n먹는 방법을 모르겠어……"
+  }, {
+    "$id" : 46,
+    "label" : "tq011011_msg0046",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 니시키 형아가\n도와줘야겠네요~"
+  }, {
+    "$id" : 47,
+    "label" : "tq011011_msg0047",
+    "talker" : "xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐라고……?!"
+  }, {
+    "$id" : 48,
+    "label" : "tq011011_msg0048",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 에이스의 분투에 이어……!"
+  }, {
+    "$id" : 49,
+    "label" : "tq011011_msg0049",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리의 보스! 요리 부탁드립니다!"
+  }, {
+    "$id" : 50,
+    "label" : "tq011011_msg0050",
+    "talker" : "Q",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흥, 내가 반드시 까 주겠어……"
+  }, {
+    "$id" : 51,
+    "label" : "tq011011_msg0051",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 요리는 \"특제 모니카레\"야"
+  }, {
+    "$id" : 52,
+    "label" : "tq011011_msg0052",
+    "talker" : "Q",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?!"
+  }, {
+    "$id" : 53,
+    "label" : "tq011011_msg0053",
+    "talker" : "Q",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐만, 치사하잖아!"
+  }, {
+    "$id" : 54,
+    "label" : "tq011011_msg0054",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "와! 달콤한 소시지가 올려져 있어!"
+  }, {
+    "$id" : 55,
+    "label" : "tq011011_msg0055",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 설마……!\n로스트 넘버즈 사이에서 소문난\n그 모니카레인가모오오?!"
+  }, {
+    "$id" : 56,
+    "label" : "tq011011_msg0056",
+    "talker" : "vl1",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……진짜 맛있겠다"
+  }, {
+    "$id" : 57,
+    "label" : "tq011011_msg0057",
+    "talker" : "Q",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젠장~!\n이 매운맛은 못 참는다고~~!"
+  }, {
+    "$id" : 58,
+    "label" : "tq011011_msg0058",
+    "talker" : "_k1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "히익, 학, 학\n습~~~ 후~~"
+  }, {
+    "$id" : 59,
+    "label" : "tq011011_msg0059",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 야채는 원래 독특한 맛이 날 텐데모……\n그 맛을 교묘하게 잘 숨겼어모\n그래서 이렇게 매운 건가모……"
+  }, {
+    "$id" : 60,
+    "label" : "tq011011_msg0060",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다고는 하나! 이 한 접시에\n대체 얼마나 많은 영양이 담긴 거지모……?\n과연, 소문난 건 이 매운맛인가모? 아니면……"
+  }, {
+    "$id" : 61,
+    "label" : "tq011011_msg0061",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "매워~ 입술이 얼얼해……"
+  }, {
+    "$id" : 62,
+    "label" : "tq011011_msg0062",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 저건 어린아이가 먹기엔\n조금 일렀나 보군요……"
+  }, {
+    "$id" : 63,
+    "label" : "tq011011_msg0063",
+    "talker" : "D",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이상하네\n다들 맛있다고 칭찬했는데……\n럭키 스파이스를 너무 많이 넣었나……?"
+  }, {
+    "$id" : 64,
+    "label" : "tq011011_msg0064",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서서히 배가 불러 오겠지만\n열기는 계속 달아오르고 있습니다!"
+  }, {
+    "$id" : 65,
+    "label" : "tq011011_msg0065",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다음 도전자는 마나나!"
+  }, {
+    "$id" : 66,
+    "label" : "tq011011_msg0066",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기다렸어요모!\n마나나가 대접해 드릴 음식은"
+  }, {
+    "$id" : 67,
+    "label" : "tq011011_msg0067",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰에게 전해지는 비밀 레시피!\n그걸 어레인지한……"
+  }, {
+    "$id" : 68,
+    "label" : "tq011011_msg0068",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"비전 짬폰・마나나 스타일\"이에요모!"
+  }, {
+    "$id" : 69,
+    "label" : "tq011011_msg0069",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맛있겠다!\n이거 무조건 맛있을 거야!"
+  }, {
+    "$id" : 70,
+    "label" : "tq011011_msg0070",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이야~ 이거 엄청난 걸 만들었네"
+  }, {
+    "$id" : 71,
+    "label" : "tq011011_msg0071",
+    "talker" : "al1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "누, 눈물이 날 것 같아모\n설마 그 전설의 요리를\n만들 수 있는 요리사가 존재하다니모……!"
+  }, {
+    "$id" : 72,
+    "label" : "tq011011_msg0072",
+    "talker" : "8",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모모모모……!"
+  }, {
+    "$id" : 73,
+    "label" : "tq011011_msg0073",
+    "talker" : "_k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "홋호호호, 호호호, 음음"
+  }, {
+    "$id" : 74,
+    "label" : "tq011011_msg0074",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 고기 더 먹고 싶어~!"
+  }, {
+    "$id" : 75,
+    "label" : "tq011011_msg0075",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 살아서 이걸 먹어 볼 날이 올 줄은\n꿈에도 생각지 못했는데모……\n너무나도 맛있어모……"
+  }, {
+    "$id" : 76,
+    "label" : "tq011011_msg0076",
+    "talker" : "al1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "복에 겨워서 승천할 거 같아모!!"
+  }, {
+    "$id" : 77,
+    "label" : "tq011011_msg0077",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거 장난 아니야!!\n너무 맛있어서 말이 안 나온다고!"
+  }, {
+    "$id" : 78,
+    "label" : "tq011011_msg0078",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뜨거운 경연이 이어지고 있습니다만\n다음이 마지막 요리입니다!"
+  }, {
+    "$id" : 79,
+    "label" : "tq011011_msg0079",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기대할게요, 미야비!"
+  }, {
+    "$id" : 80,
+    "label" : "tq011011_msg0080",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네……!"
+  }, {
+    "$id" : 81,
+    "label" : "tq011011_msg0081",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제가 대접할 요리는 이거예요"
+  }, {
+    "$id" : 82,
+    "label" : "tq011011_msg0082",
+    "talker" : "_k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "호오……"
+  }, {
+    "$id" : 83,
+    "label" : "tq011011_msg0083",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭔가 평범하게 생겼네"
+  }, {
+    "$id" : 84,
+    "label" : "tq011011_msg0084",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 앞에 나온 음식들에 비하면 그렇긴 해"
+  }, {
+    "$id" : 85,
+    "label" : "tq011011_msg0085",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 정성스럽게 만들었어모\n필체가 그 사람의 됨됨이를 나타내듯이\n요리 또한 마찬가지모……"
+  }, {
+    "$id" : 86,
+    "label" : "tq011011_msg0086",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 뭐랄까\n이런 걸 먹으면 마음이 편해진단 말이지"
+  }, {
+    "$id" : 87,
+    "label" : "tq011011_msg0087",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "소박하면서도 그윽함이 느껴지는 요리야모\n뭐라 표현할 수 없는 따뜻함이\n서서히 스며들어모"
+  }, {
+    "$id" : 88,
+    "label" : "tq011011_msg0088",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 생선, 맨날 먹는 건데\n지금까지 먹은 것 중에 제일 맛있어!"
+  }, {
+    "$id" : 89,
+    "label" : "tq011011_msg0089",
+    "talker" : "om1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어머, 어떻게 요리한 걸까……\n궁금한걸"
+  }, {
+    "$id" : 90,
+    "label" : "tq011011_msg0090",
+    "talker" : "uk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게요……!\n저기, 콘테스트가 끝나면\n같이 물어보러 가지 않을래요?"
+  }, {
+    "$id" : 91,
+    "label" : "tq011011_msg0091",
+    "talker" : "om1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 좋겠네\n물어보러 가자!"
+  }, {
+    "$id" : 92,
+    "label" : "tq011011_msg0092",
+    "talker" : "Xm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맛있어 보이네\n간짱 소스도 기뻐할 거야!"
+  }, {
+    "$id" : 93,
+    "label" : "tq011011_msg0093",
+    "talker" : "_k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "~♪"
+  }, {
+    "$id" : 94,
+    "label" : "tq011011_msg0094",
+    "talker" : "_k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음~ 훌륭한 맛이야……"
+  }, {
+    "$id" : 95,
+    "label" : "tq011011_msg0095",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자…… 아쉽지만\n심사 결과를 발표해야겠습니다"
+  }, {
+    "$id" : 96,
+    "label" : "tq011011_msg0096",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "심사 위원들을 가장 만족시킨 것은\n과연 어떤 요리일지……!\n이 치열한 승부의 결과를 알아보도록 하죠!"
+  }, {
+    "$id" : 97,
+    "label" : "tq011011_msg0097",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콘테스트의 우승자는……!"
+  } ]
+}

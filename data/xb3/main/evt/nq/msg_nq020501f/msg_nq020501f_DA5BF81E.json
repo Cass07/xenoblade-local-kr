@@ -1,0 +1,304 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq020501_msg0001",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후, 후후……\n드디어 이날이……!"
+  }, {
+    "$id" : 2,
+    "label" : "nq020501_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "반갑다, 기다렸지?"
+  }, {
+    "$id" : 3,
+    "label" : "nq020501_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너한테 뭘 가르쳐야 할지\n내 나름대로 생각해 봤는데……"
+  }, {
+    "$id" : 4,
+    "label" : "nq020501_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "먼저 서로를 알기 위해서는\n주먹 대 주먹으로 대화를 하는 게……"
+  }, {
+    "$id" : 5,
+    "label" : "nq020501_msg0005",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 그렇죠\n저도 쭉 생각하고 있었어요"
+  }, {
+    "$id" : 6,
+    "label" : "nq020501_msg0006",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"대체 뭐가 다른 걸까\" 하고요"
+  }, {
+    "$id" : 7,
+    "label" : "nq020501_msg0007",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응?"
+  }, {
+    "$id" : 8,
+    "label" : "nq020501_msg0008",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신들 케베스와 저희 아그누스……\n뭐가 다르고 뭐가 같은 걸까……"
+  }, {
+    "$id" : 9,
+    "label" : "nq020501_msg0009",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 케베스는 쓰러뜨려야 할 적……\n이런 제 호기심은 금기이자\n이루지 못할 꿈 같은 거였죠……"
+  }, {
+    "$id" : 10,
+    "label" : "nq020501_msg0010",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모든 것이 수수께끼에 싸여 있어\n이제 희망은 없어진 줄 알았는데……"
+  }, {
+    "$id" : 11,
+    "label" : "nq020501_msg0011",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지만 지금! 제 눈앞에!\n\"살아 있는\" 케베스 사람이 있습니다!"
+  }, {
+    "$id" : 12,
+    "label" : "nq020501_msg0012",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그렇지……?"
+  }, {
+    "$id" : 13,
+    "label" : "nq020501_msg0013",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금부터 진행할 테스트는\n그 수수께끼를 밝히기 위한 첫걸음이죠!"
+  }, {
+    "$id" : 14,
+    "label" : "nq020501_msg0014",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "테, 테스트?\n야, 아까부터 무슨 말을……"
+  }, {
+    "$id" : 15,
+    "label" : "nq020501_msg0015",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신은!"
+  }, {
+    "$id" : 16,
+    "label" : "nq020501_msg0016",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "궁금하지 않으신가요?!"
+  }, {
+    "$id" : 17,
+    "label" : "nq020501_msg0017",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "끄덕이기만 하시면 됩니다!"
+  }, {
+    "$id" : 18,
+    "label" : "nq020501_msg0018",
+    "talker" : "aY1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어서요!!"
+  }, {
+    "$id" : 19,
+    "label" : "nq020501_msg0019",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 알았어!\n알았으니까 좀 진정해!"
+  }, {
+    "$id" : 20,
+    "label" : "nq020501_msg0020",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『알았다』라고 하셨으니\n승낙하겠다는 뜻으로 받아들여도 되겠죠?"
+  }, {
+    "$id" : 21,
+    "label" : "nq020501_msg0021",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 야! 기다려!\n어디 가는데?!"
+  }, {
+    "$id" : 22,
+    "label" : "nq020501_msg0022",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 죄송합니다\n마음이 앞서 나가서 그만"
+  }, {
+    "$id" : 23,
+    "label" : "nq020501_msg0023",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자세한 건 연습장에서 설명해 드릴 테니\n따라와 주세요"
+  }, {
+    "$id" : 24,
+    "label" : "nq020501_msg0024",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그러시죠? 빨리 오세요!\n전 더 이상 못 참겠단 말입니다!"
+  }, {
+    "$id" : 25,
+    "label" : "nq020501_msg0025",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 26,
+    "label" : "nq020501_msg0026",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……거봐\n잘 모르겠지?"
+  }, {
+    "$id" : 27,
+    "label" : "nq020501_msg0027",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그러게……"
+  }, {
+    "$id" : 28,
+    "label" : "nq020501_msg0028",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 잠깐!\n섣부른 판단은 좋지 않아, 세나"
+  }, {
+    "$id" : 29,
+    "label" : "nq020501_msg0029",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대화가 살짝 엇나갔을 뿐이지\n적어도 나를 의지하고 있다는 사실만큼은\n똑똑히 알았어!"
+  }, {
+    "$id" : 30,
+    "label" : "nq020501_msg0030",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 그 기대에 부응해 줘야\n선배잖아, 내 말 맞지?!"
+  }, {
+    "$id" : 31,
+    "label" : "nq020501_msg0031",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐…… 그렇지\n이번 일은 란츠한테 맡길게"
+  } ]
+}

@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830100_msg0001",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들!\n늘 타가네와 이야기해 줘서\n고마워모오! 정말 고마워모오!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830100_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음, 그게……\n맨날 혼자서 힘들어 보이니\n말동무 정도야 해 줄 수 있지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830100_msg0003",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모오~! 타가네 감동했어모오!\n세상은 아직 살 만하구나모오!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830100_msg0004",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "덕분에 의욕이 불끈불끈 났어모오!\n이 기세를 몰아 던전을 완성시킬 거야모오!"
+  } ]
+}

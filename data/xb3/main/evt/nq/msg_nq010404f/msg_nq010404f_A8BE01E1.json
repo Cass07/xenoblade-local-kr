@@ -1,0 +1,277 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq010404_msg0001",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희 때문에\n모두가 적이 되어 버렸어"
+  }, {
+    "$id" : 2,
+    "label" : "nq010404_msg0002",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 세상에서\n어떻게 살아가라는 거야……"
+  }, {
+    "$id" : 3,
+    "label" : "nq010404_msg0003",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇기에 더욱……\n너희의 힘이 필요하다는 거다"
+  }, {
+    "$id" : 4,
+    "label" : "nq010404_msg0004",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전력이 줄어들면 곤란하다는 거냐?"
+  }, {
+    "$id" : 5,
+    "label" : "nq010404_msg0005",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아…… 난 어디든\n카이트와 같이 갈 거야"
+  }, {
+    "$id" : 6,
+    "label" : "nq010404_msg0006",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 제온 말도 들어 보자\n사실은 신경 쓰였잖아?"
+  }, {
+    "$id" : 7,
+    "label" : "nq010404_msg0007",
+    "talker" : "eX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고민하는 건 시간 낭비다\n5초 안에 끝내라"
+  }, {
+    "$id" : 8,
+    "label" : "nq010404_msg0008",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 9,
+    "label" : "nq010404_msg0009",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실패만 하던 그 밭인가 하는 건……\n어떻게 됐어?"
+  }, {
+    "$id" : 10,
+    "label" : "nq010404_msg0010",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……성과는 좋지 않아. 토지에 적합한\n작물을 찾는 데에는 끈기가 필요하지"
+  }, {
+    "$id" : 11,
+    "label" : "nq010404_msg0011",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘도 실패했다고 되뇌면서\n미지의 세계에 도전하는 건 쉬운 일이 아니야……"
+  }, {
+    "$id" : 12,
+    "label" : "nq010404_msg0012",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 반대한다고 한 거야\n너는 우리 심정을 이해 못 해"
+  }, {
+    "$id" : 13,
+    "label" : "nq010404_msg0013",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 카이트 넌 알고 있지 않나?"
+  }, {
+    "$id" : 14,
+    "label" : "nq010404_msg0014",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭘 말이지?"
+  }, {
+    "$id" : 15,
+    "label" : "nq010404_msg0015",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "결과물이 나오지 않았을 때는\n내가 전부 책임질 거다"
+  }, {
+    "$id" : 16,
+    "label" : "nq010404_msg0016",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 되면 나를 대신해서\n모두를 지탱해 줄 사람이 필요하지"
+  }, {
+    "$id" : 17,
+    "label" : "nq010404_msg0017",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!\n그게…… 나라고……?"
+  }, {
+    "$id" : 18,
+    "label" : "nq010404_msg0018",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 9을 생각하는 마음은 같을 테니\n나와 함께 모두의 힘이 되어 주지 않겠나?"
+  }, {
+    "$id" : 19,
+    "label" : "nq010404_msg0019",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 부탁은 네게밖에 못 해"
+  }, {
+    "$id" : 20,
+    "label" : "nq010404_msg0020",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 21,
+    "label" : "nq010404_msg0021",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카이트……"
+  }, {
+    "$id" : 22,
+    "label" : "nq010404_msg0022",
+    "talker" : "eX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……5초 지났다"
+  }, {
+    "$id" : 23,
+    "label" : "nq010404_msg0023",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네 계획보다 훨씬 제대로 된 방안을\n찾을 때까진 도와주도록 하지"
+  }, {
+    "$id" : 24,
+    "label" : "nq010404_msg0024",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 뭐냐…… 미래의 군무장으로서\n나한테도 책임이 있으니까!"
+  }, {
+    "$id" : 25,
+    "label" : "nq010404_msg0025",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래…… 고맙다"
+  }, {
+    "$id" : 26,
+    "label" : "nq010404_msg0026",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 마무리된 것 같군"
+  }, {
+    "$id" : 27,
+    "label" : "nq010404_msg0027",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단은 그런 느낌이네"
+  }, {
+    "$id" : 28,
+    "label" : "nq010404_msg0028",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그럼 다 같이\n콜로니 9으로 돌아가자"
+  } ]
+}

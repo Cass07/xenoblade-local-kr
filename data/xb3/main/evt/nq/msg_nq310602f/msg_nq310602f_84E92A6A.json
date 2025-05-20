@@ -1,0 +1,331 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310602_msg0001",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로자나, 도대체 어디까지 가려고?"
+  }, {
+    "$id" : 2,
+    "label" : "nq310602_msg0002",
+    "talker" : "dl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기면 괜찮겠네"
+  }, {
+    "$id" : 3,
+    "label" : "nq310602_msg0003",
+    "talker" : "el1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로자나 씨, 와 주셨군요모!"
+  }, {
+    "$id" : 4,
+    "label" : "nq310602_msg0004",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기다렸어모\n그레이도 제대로 데려왔네모"
+  }, {
+    "$id" : 5,
+    "label" : "nq310602_msg0005",
+    "talker" : "dl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래"
+  }, {
+    "$id" : 6,
+    "label" : "nq310602_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 일이야?\n새먼 씨가 의뢰라도 했어?"
+  }, {
+    "$id" : 7,
+    "label" : "nq310602_msg0007",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아모\n새먼이랑 새먼의 제자인\n타루타루가 부탁했어모"
+  }, {
+    "$id" : 8,
+    "label" : "nq310602_msg0008",
+    "talker" : "el1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "했어요모!"
+  }, {
+    "$id" : 9,
+    "label" : "nq310602_msg0009",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말해 봐"
+  }, {
+    "$id" : 10,
+    "label" : "nq310602_msg0010",
+    "talker" : "el1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 실례를 무릅쓰고\n타루타루가 설명할게요모!"
+  }, {
+    "$id" : 11,
+    "label" : "nq310602_msg0011",
+    "talker" : "el1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 스승님과 타루타루는 레브니스를\n정비하거나 배를 준비하는 중이에요모"
+  }, {
+    "$id" : 12,
+    "label" : "nq310602_msg0012",
+    "talker" : "el1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 모니카 씨한테 부탁받은\n중요한 일이죠모"
+  }, {
+    "$id" : 13,
+    "label" : "nq310602_msg0013",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "계속해"
+  }, {
+    "$id" : 14,
+    "label" : "nq310602_msg0014",
+    "talker" : "el1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 난감하게도 최근 들어\n자재가 부족해졌어요모"
+  }, {
+    "$id" : 15,
+    "label" : "nq310602_msg0015",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모아 달라는 거지?"
+  }, {
+    "$id" : 16,
+    "label" : "nq310602_msg0016",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 대충 비슷해모"
+  }, {
+    "$id" : 17,
+    "label" : "nq310602_msg0017",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너도 이런 일을 하기는 하는구나?\n우리한테 총 들이미는 게 다인 줄 알았더니"
+  }, {
+    "$id" : 18,
+    "label" : "nq310602_msg0018",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흥……"
+  }, {
+    "$id" : 19,
+    "label" : "nq310602_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서\n필요한 자재가 뭔데?"
+  }, {
+    "$id" : 20,
+    "label" : "nq310602_msg0020",
+    "talker" : "dl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그 자재 말인데\n호레이스라는 의사 선생님 알지?"
+  }, {
+    "$id" : 21,
+    "label" : "nq310602_msg0021",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 그 사람이 왜?"
+  }, {
+    "$id" : 22,
+    "label" : "nq310602_msg0022",
+    "talker" : "dl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 의사 선생님이 자재를 준비해 뒀으니까\n그걸 받아 와 줬으면 해"
+  }, {
+    "$id" : 23,
+    "label" : "nq310602_msg0023",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "의사 선생님이 자재를……?\n그럼 너희가 가면 되는 거 아냐?"
+  }, {
+    "$id" : 24,
+    "label" : "nq310602_msg0024",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 대놓고 돌아다니면\n귀찮은 녀석들이 막 꼬여 대거든모"
+  }, {
+    "$id" : 25,
+    "label" : "nq310602_msg0025",
+    "talker" : "dl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후, 맞아, 보수적인 파벌도 있고\n과격한 사람들도 있지……"
+  }, {
+    "$id" : 26,
+    "label" : "nq310602_msg0026",
+    "talker" : "dl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 당신한테 부탁하고 싶어"
+  }, {
+    "$id" : 27,
+    "label" : "nq310602_msg0027",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭔 소리야?"
+  }, {
+    "$id" : 28,
+    "label" : "nq310602_msg0028",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시끄럽게 구는 녀석들을 조용하게 만들려면\n그만한 무력을 지닌 사람들한테\n맡기는 게 합당하겠다 이 말이야"
+  }, {
+    "$id" : 29,
+    "label" : "nq310602_msg0029",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그레이라는 사내가 함께하면\n쉽게 시비 걸진 못할 테니까. 그렇지?"
+  }, {
+    "$id" : 30,
+    "label" : "nq310602_msg0030",
+    "talker" : "dl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 그런 셈이지\n나도 같이 갈 테니 이야기를 좀 해 줘"
+  }, {
+    "$id" : 31,
+    "label" : "nq310602_msg0031",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러지"
+  }, {
+    "$id" : 32,
+    "label" : "nq310602_msg0032",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 우리도 동행할게"
+  }, {
+    "$id" : 33,
+    "label" : "nq310602_msg0033",
+    "talker" : "dl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래 주면 고맙지\n이 사람 말주변이 서투른 편이니까\n너희가 많이 도와주렴"
+  }, {
+    "$id" : 34,
+    "label" : "nq310602_msg0034",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……쓸데없는 말 하지 마\n자, 가자"
+  } ]
+}

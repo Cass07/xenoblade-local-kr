@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210503_msg0001",
+    "talker" : "vZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제레미의 태도에 문제가 있기는 해도\n아그누스 측이 그의 동료를 살해한 건\n유감스럽게도 사실이야"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210503_msg0002",
+    "talker" : "vZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "감성은 이성을 손쉽게 능가해……\n그가 폭주하지 않도록\n우리도 배려할 필요가 있다고 봐"
+  }, {
+    "$id" : 3,
+    "label" : "tlk210503_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "폭주라……\n아예 한번 세게 받아쳐 볼까?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk210503_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말이지, 너는 항상……"
+  } ]
+}

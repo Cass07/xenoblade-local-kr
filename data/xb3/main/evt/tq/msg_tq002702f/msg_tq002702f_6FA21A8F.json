@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<3F8A3ADB>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 빛나는 건 뭐지?"
+  }, {
+    "$id" : 2,
+    "label" : "<2829BBA2>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저건 \"에테르 스피어\"예요모"
+  }, {
+    "$id" : 3,
+    "label" : "<F42ACFA5>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이노가 찾고 있는 하이 에테르는\n저기 있어요모!"
+  }, {
+    "$id" : 4,
+    "label" : "<082CC600>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음……\n하지만 저러면 가까이 갈 수가 없어"
+  }, {
+    "$id" : 5,
+    "label" : "<22BB98D2>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 주변에 있는 몬스터를\n먼저 해결해야겠네"
+  }, {
+    "$id" : 6,
+    "label" : "<76D9806E>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이노, 준비됐어?"
+  }, {
+    "$id" : 7,
+    "label" : "<11AF41D1>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼요모! 이노는 언제든지 좋아요모!"
+  }, {
+    "$id" : 8,
+    "label" : "<ECCC9E52>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 잽싸게 해치워 볼까?"
+  } ]
+}

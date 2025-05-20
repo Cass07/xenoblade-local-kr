@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk310902_msg0001",
+    "talker" : "vc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이스루기 군무장님께서 람다에 계시는 동안\n자리를 비우시는 날이 많아질 예정이라는군"
+  }, {
+    "$id" : 2,
+    "label" : "tlk310902_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "불안해?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk310902_msg0003",
+    "talker" : "vc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 리가……\n군무장님을 지원해 드리는 게 우리 일이야"
+  }, {
+    "$id" : 4,
+    "label" : "tlk310902_msg0004",
+    "talker" : "vc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 그렇고 군무장님께선 본인 업무에 더해\n바깥까지 둘러보시려는 건가……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk310902_msg0005",
+    "talker" : "vc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부담을 느끼시지 않도록\n우리가 더 잘해야겠어……"
+  } ]
+}

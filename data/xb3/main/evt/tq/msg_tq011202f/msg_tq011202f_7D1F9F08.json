@@ -1,0 +1,475 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011202_msg0001",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래, 수송기를 사용하고 싶다고\n날 찾아오긴 했다"
+  }, {
+    "$id" : 2,
+    "label" : "tq011202_msg0002",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "용도도 묻지 않고\n바로 거절했지만 말이지"
+  }, {
+    "$id" : 3,
+    "label" : "tq011202_msg0003",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그랬군"
+  }, {
+    "$id" : 4,
+    "label" : "tq011202_msg0004",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네가 구태여 찾아온 걸 보니\n그 녀석들이 사고라도 쳤나 보군"
+  }, {
+    "$id" : 5,
+    "label" : "tq011202_msg0005",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후보생들이 작당하고\n명령을 어기다니……"
+  }, {
+    "$id" : 6,
+    "label" : "tq011202_msg0006",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "샤니아의 전철을 밟고 있는 것 아닌가?"
+  }, {
+    "$id" : 7,
+    "label" : "tq011202_msg0007",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 8,
+    "label" : "tq011202_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……오히려\n샤니아의 일이 있었기에……"
+  }, {
+    "$id" : 9,
+    "label" : "tq011202_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잰슨 일행이\n행동에 나선 거 아닐까?"
+  }, {
+    "$id" : 10,
+    "label" : "tq011202_msg0010",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?"
+  }, {
+    "$id" : 11,
+    "label" : "tq011202_msg0011",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무리 방비를 강화해도\n안에서 와해되기도 한다는 걸 안 거지"
+  }, {
+    "$id" : 12,
+    "label" : "tq011202_msg0012",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 이대로는 답이 없다……\n그렇게 생각할 만도 해"
+  }, {
+    "$id" : 13,
+    "label" : "tq011202_msg0013",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석들의 목적이 뭔지는\n잘 모르겠지만……"
+  }, {
+    "$id" : 14,
+    "label" : "tq011202_msg0014",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티를 배신할 만한 녀석들은 아니야\n그건 당신도 알고 있잖아?"
+  }, {
+    "$id" : 15,
+    "label" : "tq011202_msg0015",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무모한 행동을 옹호하는 모습이\n치졸하기 짝이 없군"
+  }, {
+    "$id" : 16,
+    "label" : "tq011202_msg0016",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "개릿!"
+  }, {
+    "$id" : 17,
+    "label" : "tq011202_msg0017",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실패를 겪지 않길 바라는 거다……!!"
+  }, {
+    "$id" : 18,
+    "label" : "tq011202_msg0018",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜히 나서서 다치고\n고생할 필요가 없어!\n왜 그걸 모르는 거지?"
+  }, {
+    "$id" : 19,
+    "label" : "tq011202_msg0019",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "위기를 미연에 방지하려면\n우리가 경험에서 배운 올바른 선택을\n그들에게 전해야 해"
+  }, {
+    "$id" : 20,
+    "label" : "tq011202_msg0020",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 어른의 의무란 말이다!\n내 말이 틀렸나? 모니카!"
+  }, {
+    "$id" : 21,
+    "label" : "tq011202_msg0021",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……마음은 이해해"
+  }, {
+    "$id" : 22,
+    "label" : "tq011202_msg0022",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 잰슨 일행이 알고 싶은 건\n실패하지 않는 선택이 아닌……"
+  }, {
+    "$id" : 23,
+    "label" : "tq011202_msg0023",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 후회하지 않을 선택이야"
+  }, {
+    "$id" : 24,
+    "label" : "tq011202_msg0024",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "궤변이군……"
+  }, {
+    "$id" : 25,
+    "label" : "tq011202_msg0025",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴지도 모르지. 하지만……"
+  }, {
+    "$id" : 26,
+    "label" : "tq011202_msg0026",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시키는 대로만 하게 해선 안 돼\n그건 뫼비우스의 통치와 다를 게 없어"
+  }, {
+    "$id" : 27,
+    "label" : "tq011202_msg0027",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐라고?"
+  }, {
+    "$id" : 28,
+    "label" : "tq011202_msg0028",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그들 곁에 있으면서 실패해도\n다시 일어서는 방법을 알려 주는 것……"
+  }, {
+    "$id" : 29,
+    "label" : "tq011202_msg0029",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 조금이라도 오래 산 우리가\n해야 할 일 아니겠어?"
+  }, {
+    "$id" : 30,
+    "label" : "tq011202_msg0030",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……장로인 네 입에서\n\"부모다운\" 말이 나오다니 놀랍군"
+  }, {
+    "$id" : 31,
+    "label" : "tq011202_msg0031",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아버지가 남긴 산물이지"
+  }, {
+    "$id" : 32,
+    "label" : "tq011202_msg0032",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 와서 생각해 보면\n그렇게 키워 준 거야"
+  }, {
+    "$id" : 33,
+    "label" : "tq011202_msg0033",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게르니카가…… 그렇군"
+  }, {
+    "$id" : 34,
+    "label" : "tq011202_msg0034",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시간을 빼앗아서 미안해"
+  }, {
+    "$id" : 35,
+    "label" : "tq011202_msg0035",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아니\n도와주지 못해 미안하다"
+  }, {
+    "$id" : 36,
+    "label" : "tq011202_msg0036",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "원점으로 돌아왔나……"
+  }, {
+    "$id" : 37,
+    "label" : "tq011202_msg0037",
+    "talker" : "D06ml10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모니카 씨……"
+  }, {
+    "$id" : 38,
+    "label" : "tq011202_msg0038",
+    "talker" : "D04ml10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몰래 들으려고 한 건 아닌데\n임무 중이라서요……"
+  }, {
+    "$id" : 39,
+    "label" : "tq011202_msg0039",
+    "talker" : "D03D0",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮으니 계속 말해 봐"
+  }, {
+    "$id" : 40,
+    "label" : "tq011202_msg0040",
+    "talker" : "D04ml10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수송기의 행선지로\n짐작 가는 곳이 있어요"
+  }, {
+    "$id" : 41,
+    "label" : "tq011202_msg0041",
+    "talker" : "D04ml10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실은…… 크라이트가\n코르누섬 이야기를 했는데……"
+  }, {
+    "$id" : 42,
+    "label" : "tq011202_msg0042",
+    "talker" : "D03D0",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "코르누섬이라고?"
+  }, {
+    "$id" : 43,
+    "label" : "tq011202_msg0043",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔가 짚이는 게 있어?"
+  }, {
+    "$id" : 44,
+    "label" : "tq011202_msg0044",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래"
+  }, {
+    "$id" : 45,
+    "label" : "tq011202_msg0045",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "14년 전……\n에테르 회수 임무를 나갔다가……"
+  }, {
+    "$id" : 46,
+    "label" : "tq011202_msg0046",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 남편이 목숨을 잃은 곳이야"
+  }, {
+    "$id" : 47,
+    "label" : "tq011202_msg0047",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 설마……"
+  }, {
+    "$id" : 48,
+    "label" : "tq011202_msg0048",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "최하층으로 향했다면\n무사하지 못할 거야"
+  }, {
+    "$id" : 49,
+    "label" : "tq011202_msg0049",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그들의 역량이\n뛰어나다고 해도 말이야"
+  }, {
+    "$id" : 50,
+    "label" : "tq011202_msg0050",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 서두르자!\n코르누섬으로……!"
+  } ]
+}

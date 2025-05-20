@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk240101_msg0001",
+    "talker" : "xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "손님이 안 와서 심심하길래\n플랜트를 가지고 이것저것 실험해 봤어모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk240101_msg0002",
+    "talker" : "xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 주변에서 캘 만한 건\n딱히 없었지만\n희귀한 물건은 꽤 있는 듯해모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk240101_msg0003",
+    "talker" : "xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 구분해서 쓰는 게\n요령인 것 같아모"
+  } ]
+}

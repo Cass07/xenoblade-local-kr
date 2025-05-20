@@ -1,0 +1,63 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<7C2D2A11>",
+    "style" : 0,
+    "name" : "챌린지 배틀"
+  }, {
+    "$id" : 2,
+    "label" : "<FCBF0C4B>",
+    "style" : 11,
+    "name" : "기본 구성"
+  }, {
+    "$id" : 3,
+    "label" : "<3759B801>",
+    "style" : 11,
+    "name" : "최강"
+  }, {
+    "$id" : 4,
+    "label" : "<16FD05A1>",
+    "style" : 11,
+    "name" : "밸런스형"
+  }, {
+    "$id" : 5,
+    "label" : "<AD21E4ED>",
+    "style" : 11,
+    "name" : "공격 중시"
+  }, {
+    "$id" : 6,
+    "label" : "<F736C447>",
+    "style" : 11,
+    "name" : "방어 중시"
+  }, {
+    "$id" : 7,
+    "label" : "<166C09C6>",
+    "style" : 11,
+    "name" : "회복 중시"
+  }, {
+    "$id" : 8,
+    "label" : "<304717BF>",
+    "style" : 11,
+    "name" : "육성"
+  }, {
+    "$id" : 9,
+    "label" : "<11FB5077>",
+    "style" : 11,
+    "name" : "메인 스토리 진행"
+  }, {
+    "$id" : 10,
+    "label" : "<177927A5>",
+    "style" : 11,
+    "name" : "--------"
+  } ]
+}

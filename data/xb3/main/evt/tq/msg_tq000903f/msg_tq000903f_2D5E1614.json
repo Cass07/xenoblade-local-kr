@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq000903_msg0001",
+    "talker" : "A",
+    "talkattr" : 33025,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 말 들리나!\n구조하러 왔다!"
+  }, {
+    "$id" : 2,
+    "label" : "tq000903_msg0002",
+    "talker" : "@n1",
+    "talkattr" : 33025,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 군무장님! 괜찮습니다\n전원 살아 있습니다!"
+  }, {
+    "$id" : 3,
+    "label" : "tq000903_msg0003",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무래도 안에서 작업하고 있었던 인원은\n소수였나 보군…… 무사해서 다행이야"
+  }, {
+    "$id" : 4,
+    "label" : "tq000903_msg0004",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지반은 물론이고 구조를 봐도\n붕괴할 일은 없을 거라 생각했는데"
+  }, {
+    "$id" : 5,
+    "label" : "tq000903_msg0005",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "숨어 있던 몬스터들이\n약해진 암벽을 부수고 나온 건가……"
+  }, {
+    "$id" : 6,
+    "label" : "tq000903_msg0006",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "굴삭하면서 농도가 짙은 곳이 뚫려\n그곳에 있던 몬스터가\n움직이기 시작한 거겠죠"
+  }, {
+    "$id" : 7,
+    "label" : "tq000903_msg0007",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에테르를 찾아낸 건 기쁜 일이지만\n지금은 구출을 서둘러야 해"
+  }, {
+    "$id" : 8,
+    "label" : "tq000903_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직 몬스터가 있을지도 몰라\n조심해서 가자"
+  }, {
+    "$id" : 9,
+    "label" : "tq000903_msg0009",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래"
+  } ]
+}

@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<052C121B>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘은 드디어 탈출 작전을 실행하는 날이네"
+  }, {
+    "$id" : 2,
+    "label" : "<4533B648>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들, 각오는 됐어?"
+  }, {
+    "$id" : 3,
+    "label" : "<E314268A>",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "많이 많이 달려도 괜찮도록\n푸~욱 쉬었어요모"
+  }, {
+    "$id" : 4,
+    "label" : "<41C59A76>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곤도가 지정한 시간은\n야외 작업을 시작한 뒤야"
+  }, {
+    "$id" : 5,
+    "label" : "<0C477A4B>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신호가 있을 때까지는\n얌전히 작업하고 있어야 돼"
+  }, {
+    "$id" : 6,
+    "label" : "<FE1509C2>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아아~ 또 조례하면서\n그 짜증 나는 이야기 들어야 하는 거냐고~"
+  }, {
+    "$id" : 7,
+    "label" : "<3D307A08>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것도 마지막이지"
+  }, {
+    "$id" : 8,
+    "label" : "<BB3A1381>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방심은 금물이야모"
+  }, {
+    "$id" : 9,
+    "label" : "<3C354FF4>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 탈출할 준비를\n철저하게 끝내 놔야 해"
+  }, {
+    "$id" : 10,
+    "label" : "<34B2ACE8>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "준비가 끝나면\n중앙 감방으로 가자"
+  } ]
+}

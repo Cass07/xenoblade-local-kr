@@ -1,0 +1,421 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011600_msg0001",
+    "talker" : "H",
+    "talkattr" : 33105,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유제트!\n어쩌다 이렇게 됐어?"
+  }, {
+    "$id" : 2,
+    "label" : "tq011600_msg0002",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갑자기 쿵 쓰러졌어모"
+  }, {
+    "$id" : 3,
+    "label" : "tq011600_msg0003",
+    "talker" : "H",
+    "talkattr" : 33105,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?!"
+  }, {
+    "$id" : 4,
+    "label" : "tq011600_msg0004",
+    "talker" : "ha1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 큰일 아니라니까 그러네\n그냥 과로야"
+  }, {
+    "$id" : 5,
+    "label" : "tq011600_msg0005",
+    "talker" : "2",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "결국은 너무\n무리했다는 거잖아?"
+  }, {
+    "$id" : 6,
+    "label" : "tq011600_msg0006",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "할 일이 산더미인 걸 어떡해"
+  }, {
+    "$id" : 7,
+    "label" : "tq011600_msg0007",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니를 자립시키려면\n이 정도는 해야지"
+  }, {
+    "$id" : 8,
+    "label" : "tq011600_msg0008",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……상황이 그렇게 안 좋아?"
+  }, {
+    "$id" : 9,
+    "label" : "tq011600_msg0009",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 레브니스 부대 덕분에\n버틴 거나 마찬가지였거든"
+  }, {
+    "$id" : 10,
+    "label" : "tq011600_msg0010",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캐슬의 지원에 기댔던 만큼\n반동도 크지"
+  }, {
+    "$id" : 11,
+    "label" : "tq011600_msg0011",
+    "talker" : "H",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 말 안 했어?"
+  }, {
+    "$id" : 12,
+    "label" : "tq011600_msg0012",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 필요 없다고 생각했어\n나 혼자서 어떻게든 할 수 있으니까"
+  }, {
+    "$id" : 13,
+    "label" : "tq011600_msg0013",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……말만 저러지모"
+  }, {
+    "$id" : 14,
+    "label" : "tq011600_msg0015",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디를 위해서 애쓴 거잖아모\n계속 캐물으면 불쌍해모"
+  }, {
+    "$id" : 15,
+    "label" : "tq011600_msg0016",
+    "talker" : "ha1",
+    "talkattr" : 33113,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 너……!!"
+  }, {
+    "$id" : 16,
+    "label" : "tq011600_msg0017",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유제트는 루디의 형님이고 싶은 거야모\n그래서 약한 모습 보이지 않으려는 거고모"
+  }, {
+    "$id" : 17,
+    "label" : "tq011600_msg0018",
+    "talker" : "H",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말이야?"
+  }, {
+    "$id" : 18,
+    "label" : "tq011600_msg0019",
+    "talker" : "ha1",
+    "talkattr" : 33168,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어쨌든!\n이렇게 쉬고 있을 때가 아니야"
+  }, {
+    "$id" : 19,
+    "label" : "tq011600_msg0020",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사정은 알겠는데……\n애초에 뭘 하려고 한 거야?"
+  }, {
+    "$id" : 20,
+    "label" : "tq011600_msg0021",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 람다에\n레브니스를 파견할 거야모"
+  }, {
+    "$id" : 21,
+    "label" : "tq011600_msg0022",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "람다에?"
+  }, {
+    "$id" : 22,
+    "label" : "tq011600_msg0023",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스의 레브니스를\n아그누스에 빌려주려고?"
+  }, {
+    "$id" : 23,
+    "label" : "tq011600_msg0024",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 전장에서 맡은 역할이 끝났어도\n레브니스 자체는 아직 움직이잖아"
+  }, {
+    "$id" : 24,
+    "label" : "tq011600_msg0025",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금이라도 더 써먹고 싶었거든"
+  }, {
+    "$id" : 25,
+    "label" : "tq011600_msg0026",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말이야 저렇게 하지만\n유제트 꼴이 이 모양이니모"
+  }, {
+    "$id" : 26,
+    "label" : "tq011600_msg0027",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레파파도 일하다가 짬 내서\n후다닥 도와주고 있었어모"
+  }, {
+    "$id" : 27,
+    "label" : "tq011600_msg0028",
+    "talker" : "ha1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말을 꼭 그렇게……"
+  }, {
+    "$id" : 28,
+    "label" : "tq011600_msg0029",
+    "talker" : "H",
+    "talkattr" : 33065,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도! 나도 뭐라도 도울래!"
+  }, {
+    "$id" : 29,
+    "label" : "tq011600_msg0030",
+    "talker" : "H",
+    "talkattr" : 33065,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유제트, 일 시켜 주라!"
+  }, {
+    "$id" : 30,
+    "label" : "tq011600_msg0031",
+    "talker" : "ha1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐……?"
+  }, {
+    "$id" : 31,
+    "label" : "tq011600_msg0032",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일이라……"
+  }, {
+    "$id" : 32,
+    "label" : "tq011600_msg0033",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 방금 말한\n레브니스 파견을 도와줄 수 있을까?"
+  }, {
+    "$id" : 33,
+    "label" : "tq011600_msg0034",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 저쪽 군무장에게\n넘겨주기만 하면 돼"
+  }, {
+    "$id" : 34,
+    "label" : "tq011600_msg0035",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어, 맡겨만 줘!"
+  }, {
+    "$id" : 35,
+    "label" : "tq011600_msg0036",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데……"
+  }, {
+    "$id" : 36,
+    "label" : "tq011600_msg0037",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이스루기 군무장님께선\n케베스의 레브니스가\n왜 필요하신 거지?"
+  }, {
+    "$id" : 37,
+    "label" : "tq011600_msg0038",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자세한 건 못 들었는데\n무슨 조사에 필요하다고 했어"
+  }, {
+    "$id" : 38,
+    "label" : "tq011600_msg0039",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레브니스가 필요한 조사라……\n람다에 무슨 일이 생긴 걸까?"
+  }, {
+    "$id" : 39,
+    "label" : "tq011600_msg0040",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생각할 바에 움직이는 편이 빨라"
+  }, {
+    "$id" : 40,
+    "label" : "tq011600_msg0041",
+    "talker" : "5",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지?"
+  }, {
+    "$id" : 41,
+    "label" : "tq011600_msg0042",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응!"
+  }, {
+    "$id" : 42,
+    "label" : "tq011600_msg0043",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 넘겨주고 와\n그리고…… 무리는 하지 말고"
+  }, {
+    "$id" : 43,
+    "label" : "tq011600_msg0044",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정하지 마!\n유제트야말로 푹 쉬고 있어"
+  }, {
+    "$id" : 44,
+    "label" : "tq011600_msg0045",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 콜로니 람다에\n다녀올게!"
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk113105_msg0001",
+    "talker" : "zX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요즘 들어 이스트가 엄청 팔팔하더라\n다름 아닌 그 이스트가 말이지. 별일이야~"
+  }, {
+    "$id" : 2,
+    "label" : "tlk113105_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "척 보면 아나 봐?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk113105_msg0003",
+    "talker" : "zX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오랫동안 알고 지냈는걸\n그런데 그 성급한 녀석이 식물 키우기에\n빠질 줄은 생각도 못 했어"
+  } ]
+}

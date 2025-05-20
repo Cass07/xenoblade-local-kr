@@ -1,0 +1,205 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<9D27199C>",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "경호원 여러분, 잘 왔어모!\n브로로 숍에 온 걸 환영해모!"
+  }, {
+    "$id" : 2,
+    "label" : "<4E74BB5E>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "약속한 대로 왔어\n당분간은 콜로니 9에 있을 거야?"
+  }, {
+    "$id" : 3,
+    "label" : "<B82AA2F0>",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 생각이야모!\n앞으로도 자주 이용해 줘모!"
+  }, {
+    "$id" : 4,
+    "label" : "<DC6240E3>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기왕 왔으니\n뭐라도 사 갈까?"
+  }, {
+    "$id" : 5,
+    "label" : "<C9B69F52>",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 깜빡했네\n우선 하나 설명해야 해모"
+  }, {
+    "$id" : 6,
+    "label" : "<4657E068>",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "브로로 숍에서는 돈으로 물건 못 사모"
+  }, {
+    "$id" : 7,
+    "label" : "<C65EEF9F>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물건을 돈으로 못 산다고? 그게 뭔 말이야?"
+  }, {
+    "$id" : 8,
+    "label" : "<EB99E36E>",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "브로로 숍은\n\"노폰 메달\"과의 물물 교환이 기본이야모"
+  }, {
+    "$id" : 9,
+    "label" : "<CCBA7A25>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰 메달이라니, 이거?"
+  }, {
+    "$id" : 10,
+    "label" : "<9BDDE9F0>",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모못! 바로 그거야모!"
+  }, {
+    "$id" : 11,
+    "label" : "<15857C99>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰 메달?"
+  }, {
+    "$id" : 12,
+    "label" : "<D74813BC>",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰 메달은\n전 세계에 퍼져 있는 귀중한 화폐야모"
+  }, {
+    "$id" : 13,
+    "label" : "<E29399D7>",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카라반 노폰은\n노폰 메달을 모아야 비로소\n제 몫을 한다고 인정받을 수 있어모"
+  }, {
+    "$id" : 14,
+    "label" : "<FD051251>",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "돈을 벌 수 있게 되는 건 그 다음부터야모\n카라반의 전통이지모"
+  }, {
+    "$id" : 15,
+    "label" : "<8DEC9337>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오~\n일종의 테스트인 셈이네"
+  }, {
+    "$id" : 16,
+    "label" : "<82D393D0>",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 거지모\n결국 제 몫을 하게 될 때까지는\n집에도 못 간다는 뜻이고모……"
+  }, {
+    "$id" : 17,
+    "label" : "<A8247740>",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어~ 그건 그렇고\n노폰 메달을 발견하면\n꼭 브로로의 호화 경품과 교환해모!"
+  }, {
+    "$id" : 18,
+    "label" : "<5430D5AB>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 걱정 말라고\n우리가 갖고 있어 봐야 쓸데도 없어"
+  }, {
+    "$id" : 19,
+    "label" : "<43B0B90B>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : "브로로 숍이 개점했다"
+  }, {
+    "$id" : 20,
+    "label" : "<6B98AA54>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : "브로로가 노폰 메달과 호화 경품을\n교환해 주게 되었다"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk240501_msg0001",
+    "talker" : "_b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "인비디아 갱도에 갈 거면\n준비를 철저히 해야 해모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk240501_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "인비디아 갱도는 위험한 곳인가 봐?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk240501_msg0003",
+    "talker" : "_b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "광석에 눈이 멀어 절벽 밑으로 떨어진\n노폰이 한둘이 아니라고 들었거든모"
+  }, {
+    "$id" : 4,
+    "label" : "tlk240501_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아……\n그럼 우리랑은 상관없겠네"
+  }, {
+    "$id" : 5,
+    "label" : "tlk240501_msg0005",
+    "talker" : "_b1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모못?!"
+  } ]
+}

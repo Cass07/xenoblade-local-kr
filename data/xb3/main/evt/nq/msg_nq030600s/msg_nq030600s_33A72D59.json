@@ -1,0 +1,196 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq030600_msg0001",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 58736773,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기…… 세주?\n전부터 신경 쓰이던 게 있는데……"
+  }, {
+    "$id" : 2,
+    "label" : "nq030600_msg0002",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 18890884,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네"
+  }, {
+    "$id" : 3,
+    "label" : "nq030600_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 유물을 찾고 있었을 때\n너희들은 거기서 뭐 하고 있었어?"
+  }, {
+    "$id" : 4,
+    "label" : "nq030600_msg0004",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유물…… 임무 코드\n\"SLV509\"를 말씀하시는 겁니까?"
+  }, {
+    "$id" : 5,
+    "label" : "nq030600_msg0005",
+    "talker" : "6",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 아마도?"
+  }, {
+    "$id" : 6,
+    "label" : "nq030600_msg0006",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "구세계의 문명과 관련된 유물 회수……\n그것 또한 콜로니 0의 주요 임무였습니다"
+  }, {
+    "$id" : 7,
+    "label" : "nq030600_msg0007",
+    "talker" : "4",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 『구세계』라는 건 뭐야?"
+  }, {
+    "$id" : 8,
+    "label" : "nq030600_msg0008",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집정관 에프는 현재와 같은 전쟁 상태가\n되기 이전의 세계를 그렇게 불렀습니다"
+  }, {
+    "$id" : 9,
+    "label" : "nq030600_msg0009",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 유물이 케베스나 아그누스에\n노출되는 것을 특히 경계했습니다"
+  }, {
+    "$id" : 10,
+    "label" : "nq030600_msg0010",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사유는 유물에 따라서는 이 전쟁을\n끝낼 수 있을 정도로 위험한 인자를\n지니고 있기 때문이라 들었습니다만……"
+  }, {
+    "$id" : 11,
+    "label" : "nq030600_msg0011",
+    "talker" : "5",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 정말이야……?\n도대체 뭘 회수한 거지?"
+  }, {
+    "$id" : 12,
+    "label" : "nq030600_msg0012",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "용도 불명의 폐기물\n종이 매체로 판단되는 탄화물\n원형을 알 수 없는 석조물……"
+  }, {
+    "$id" : 13,
+    "label" : "nq030600_msg0013",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……온통 잡동사니네"
+  }, {
+    "$id" : 14,
+    "label" : "nq030600_msg0014",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 우리가 회수한 유물도\n그런 느낌이었지……"
+  }, {
+    "$id" : 15,
+    "label" : "nq030600_msg0015",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유물은 발견 즉시\n파기하게끔 의무화되었기에\n세주도 자세한 것은 알 수 없습니다"
+  }, {
+    "$id" : 16,
+    "label" : "nq030600_msg0016",
+    "talker" : "3",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진실은 미궁 속이라 이건가\n뭔가 괜히 더 궁금해지는데……"
+  }, {
+    "$id" : 17,
+    "label" : "nq030600_msg0017",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유물의 수색 및 파기는\n주로 8호가 담당했습니다"
+  }, {
+    "$id" : 18,
+    "label" : "nq030600_msg0018",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "관심이 있으시다면\n8호에게서 자세히 듣는 것을 추천합니다"
+  }, {
+    "$id" : 19,
+    "label" : "nq030600_msg0019",
+    "talker" : "6",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어, 8호 말이지?\n기회가 되면 물어볼게"
+  } ]
+}

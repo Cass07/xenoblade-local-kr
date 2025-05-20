@@ -1,0 +1,529 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012301_msg0001",
+    "talker" : "O",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두와 함께하고 싶어서\n바뀌자고 결심해 놓고……"
+  }, {
+    "$id" : 2,
+    "label" : "tq012301_msg0002",
+    "talker" : "O",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괴롭다고 생각하는 내가 미워\n여전히 그대로인 내가 미워!"
+  }, {
+    "$id" : 3,
+    "label" : "tq012301_msg0003",
+    "talker" : "O",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보고 싶다고 생각하는\n내가 밉다고…… 이치카……"
+  }, {
+    "$id" : 4,
+    "label" : "tq012301_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어이, 쭈그리 터킨"
+  }, {
+    "$id" : 5,
+    "label" : "tq012301_msg0005",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……?!"
+  }, {
+    "$id" : 6,
+    "label" : "tq012301_msg0006",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 나 말하는 거야?"
+  }, {
+    "$id" : 7,
+    "label" : "tq012301_msg0007",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기 너 말고 누가 있냐?"
+  }, {
+    "$id" : 8,
+    "label" : "tq012301_msg0008",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동료랑 자신한테 상처 주고\n모르는 척하는 바보는 너뿐일걸"
+  }, {
+    "$id" : 9,
+    "label" : "tq012301_msg0009",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너답지 않아\n새로운 콜로니 뮤를 만든다면서?"
+  }, {
+    "$id" : 10,
+    "label" : "tq012301_msg0010",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도…… 이대로 괜찮다고\n생각하진 않아"
+  }, {
+    "$id" : 11,
+    "label" : "tq012301_msg0011",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만…… 무서워\n뭐가 옳은지 모르겠어"
+  }, {
+    "$id" : 12,
+    "label" : "tq012301_msg0012",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엄청나게 잘못된 선택을 할까 봐 무서워"
+  }, {
+    "$id" : 13,
+    "label" : "tq012301_msg0013",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 있는데도?"
+  }, {
+    "$id" : 14,
+    "label" : "tq012301_msg0014",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혼자 생각해서 모르겠으면\n다 같이 생각하면 되잖아?"
+  }, {
+    "$id" : 15,
+    "label" : "tq012301_msg0015",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동감한다만\n네가 말하니까 괜히 불안하군"
+  }, {
+    "$id" : 16,
+    "label" : "tq012301_msg0016",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "인마"
+  }, {
+    "$id" : 17,
+    "label" : "tq012301_msg0017",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도…… 무서운 마음 이해해"
+  }, {
+    "$id" : 18,
+    "label" : "tq012301_msg0018",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 더욱 마시로랑 같이 고민하고 싶어"
+  }, {
+    "$id" : 19,
+    "label" : "tq012301_msg0019",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……세니"
+  }, {
+    "$id" : 20,
+    "label" : "tq012301_msg0020",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나도 뭔가\n도울 거 없나요모?"
+  }, {
+    "$id" : 21,
+    "label" : "tq012301_msg0021",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나나링……"
+  }, {
+    "$id" : 22,
+    "label" : "tq012301_msg0022",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혼자서 고민하지 말라고"
+  }, {
+    "$id" : 23,
+    "label" : "tq012301_msg0023",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다음에도 우리를 잊어버리면\n터킨 마시로라고 부를 거야"
+  }, {
+    "$id" : 24,
+    "label" : "tq012301_msg0024",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "귀여워요모! 마나나도\n그렇게 불리고 싶어요모"
+  }, {
+    "$id" : 25,
+    "label" : "tq012301_msg0025",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너 말이야……"
+  }, {
+    "$id" : 26,
+    "label" : "tq012301_msg0026",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들…… 고마워"
+  }, {
+    "$id" : 27,
+    "label" : "tq012301_msg0027",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아\n이치카의 꽃 말인데……"
+  }, {
+    "$id" : 28,
+    "label" : "tq012301_msg0028",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이치카 씨의 꽃은\n심으면 안 돼모~"
+  }, {
+    "$id" : 29,
+    "label" : "tq012301_msg0029",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "구구?"
+  }, {
+    "$id" : 30,
+    "label" : "tq012301_msg0030",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대신에 이걸 묻어모\n이치카 씨한테 부탁받은 거야모~"
+  }, {
+    "$id" : 31,
+    "label" : "tq012301_msg0031",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐?!"
+  }, {
+    "$id" : 32,
+    "label" : "tq012301_msg0032",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건……?"
+  }, {
+    "$id" : 33,
+    "label" : "tq012301_msg0033",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마 열쇠일 거야모\n꽤 낡았지만모……"
+  }, {
+    "$id" : 34,
+    "label" : "tq012301_msg0034",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "열쇠……? 어디에 쓰는 걸까……?"
+  }, {
+    "$id" : 35,
+    "label" : "tq012301_msg0035",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니 그 녀석\n가끔 어디로 사라진다고\n하지 않았던가?"
+  }, {
+    "$id" : 36,
+    "label" : "tq012301_msg0036",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아……"
+  }, {
+    "$id" : 37,
+    "label" : "tq012301_msg0037",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩌면 그거랑\n관련이 있을지도 모르겠네!"
+  }, {
+    "$id" : 38,
+    "label" : "tq012301_msg0038",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "구구, 다른 말은\n들은 거 없어?"
+  }, {
+    "$id" : 39,
+    "label" : "tq012301_msg0039",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안해모. 이치카 씨는\n비밀이 많았어모……"
+  }, {
+    "$id" : 40,
+    "label" : "tq012301_msg0040",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "단서가 없다면 우리가\n정보를 얻으러 가면 돼"
+  }, {
+    "$id" : 41,
+    "label" : "tq012301_msg0041",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가능성이 있는 곳이라면 엘티아 중계 기지겠지\n그녀는 이 일대의 통치자였으니까……"
+  }, {
+    "$id" : 42,
+    "label" : "tq012301_msg0042",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 흔적이 남아 있을지도 몰라"
+  }, {
+    "$id" : 43,
+    "label" : "tq012301_msg0043",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "표시라도 남겨 뒀을 거라는 말이야?"
+  }, {
+    "$id" : 44,
+    "label" : "tq012301_msg0044",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬다 해도 당시엔 위장해 뒀겠지\n하지만 지금은……"
+  }, {
+    "$id" : 45,
+    "label" : "tq012301_msg0045",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "위장 효과가 사라졌겠네……"
+  }, {
+    "$id" : 46,
+    "label" : "tq012301_msg0046",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안 보이던 게 보일지도 몰라"
+  }, {
+    "$id" : 47,
+    "label" : "tq012301_msg0047",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "짐작 가는 게 없더라도 가야지모"
+  }, {
+    "$id" : 48,
+    "label" : "tq012301_msg0048",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마시로가 모르는 이치카의 행적을\n찾을 수 있을지도 모르니까모"
+  }, {
+    "$id" : 49,
+    "label" : "tq012301_msg0049",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "웬일로 친절하냐?"
+  }, {
+    "$id" : 50,
+    "label" : "tq012301_msg0050",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……파워 어시스트\n이제 조정 안 해 줄 거야모"
+  }, {
+    "$id" : 51,
+    "label" : "tq012301_msg0051",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 왜 그렇게 되는데?!"
+  }, {
+    "$id" : 52,
+    "label" : "tq012301_msg0052",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후……"
+  }, {
+    "$id" : 53,
+    "label" : "tq012301_msg0053",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다행이다, 웃었네"
+  }, {
+    "$id" : 54,
+    "label" : "tq012301_msg0054",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엘티아 중계 기지를 조사해 보자"
+  }, {
+    "$id" : 55,
+    "label" : "tq012301_msg0055",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응!"
+  }, {
+    "$id" : 56,
+    "label" : "tq012301_msg0056",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전에 했던 것처럼\n집적 정보 관리실에 있는 단말기에서\n관련이 있을 법한 정보를 찾아보자"
+  } ]
+}

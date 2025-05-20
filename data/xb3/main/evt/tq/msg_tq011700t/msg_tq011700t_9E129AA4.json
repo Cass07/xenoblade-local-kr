@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011700_msg0001",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 이 감자는 절대 먹지 마"
+  }, {
+    "$id" : 2,
+    "label" : "tq011700_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇게 심각한 표정으로\n말 안 해도 안 뺏어 먹어"
+  }, {
+    "$id" : 3,
+    "label" : "tq011700_msg0003",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 이걸 혼자 다 먹으려고\n이러는 줄 아냐!"
+  }, {
+    "$id" : 4,
+    "label" : "tq011700_msg0004",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요즘 들어 교본에 안 실린 걸 먹었다가\n탈 나는 녀석이 늘어서 그러는 거라고……"
+  }, {
+    "$id" : 5,
+    "label" : "tq011700_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 감자가 원인이야?"
+  }, {
+    "$id" : 6,
+    "label" : "tq011700_msg0006",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마 그렇겠지\n그래서 난 구역질 감자라고 불러"
+  }, {
+    "$id" : 7,
+    "label" : "tq011700_msg0007",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 모두에게 경고하는 중이었는데\n일단 너희도 알아야 할 거 아냐"
+  }, {
+    "$id" : 8,
+    "label" : "tq011700_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그런 일이 있었구나"
+  }, {
+    "$id" : 9,
+    "label" : "tq011700_msg0009",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거 말고도 이것저것 있는데\n뭐, 다른 사람들 이야기도 들어 봐"
+  }, {
+    "$id" : 10,
+    "label" : "tq011700_msg0010",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은 소식이 아니라 미안하게 됐다\n하다못해 밭일이라도 잘됐으면……"
+  }, {
+    "$id" : 11,
+    "label" : "tq011700_msg0110",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "구역질 감자를 조심해\n절대로 먹으면 안 돼"
+  }, {
+    "$id" : 12,
+    "label" : "tq011700_msg0111",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신경 쓰이는 게 더 있기는 한데……\n뭐, 다른 사람들 말도 들어 봐"
+  } ]
+}

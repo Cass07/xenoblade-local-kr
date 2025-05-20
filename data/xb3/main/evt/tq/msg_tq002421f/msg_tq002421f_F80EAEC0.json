@@ -1,0 +1,439 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002421_msg0001",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집정관이 전사함으로써\n콜로니 0의 지휘 계통은\n사실상 소실되었습니다"
+  }, {
+    "$id" : 2,
+    "label" : "tq002421_msg0002",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금의 7호에게는 수행해야 할 임무도\n따라야 할 명령도 없습니다"
+  }, {
+    "$id" : 3,
+    "label" : "tq002421_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "더는 우리와 싸울 필요가 없다……\n그런 거지?"
+  }, {
+    "$id" : 4,
+    "label" : "tq002421_msg0004",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 7호가 우로보로스에게\n적대 행위를 취한 것은 사실입니다"
+  }, {
+    "$id" : 5,
+    "label" : "tq002421_msg0005",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "7호는 그에 상응한 처벌을\n받아야 마땅합니다"
+  }, {
+    "$id" : 6,
+    "label" : "tq002421_msg0006",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세주는 잘못 없어\n우린 오히려 감사하고 있는걸"
+  }, {
+    "$id" : 7,
+    "label" : "tq002421_msg0007",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "감사……\n그건 어째서……입니까?"
+  }, {
+    "$id" : 8,
+    "label" : "tq002421_msg0008",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그야…… 세주는 그때\n우리가 아닌 집정관을\n공격했으니까……"
+  }, {
+    "$id" : 9,
+    "label" : "tq002421_msg0009",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세주가 버텨 준 덕분에\n우린 집정관을 쓰러뜨릴 수 있었어"
+  }, {
+    "$id" : 10,
+    "label" : "tq002421_msg0010",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 11,
+    "label" : "tq002421_msg0011",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것보다 지금은 앞으로\n어떻게 할지를 생각해야지. 안 그래?"
+  }, {
+    "$id" : 12,
+    "label" : "tq002421_msg0012",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이해할 수 없습니다"
+  }, {
+    "$id" : 13,
+    "label" : "tq002421_msg0013",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?"
+  }, {
+    "$id" : 14,
+    "label" : "tq002421_msg0014",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어째서 그렇게 7호와 얘기하는 겁니까?\n어떤 명령을 받았기에 그렇게 행동하는 겁니까?"
+  }, {
+    "$id" : 15,
+    "label" : "tq002421_msg0015",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어째서 7호는 명령을 어긴 겁니까?\n어째서 당신을 공격하지 않은 겁니까?"
+  }, {
+    "$id" : 16,
+    "label" : "tq002421_msg0016",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빠른 답변을 부탁드립니다\n혹은 명령을 요구합니다"
+  }, {
+    "$id" : 17,
+    "label" : "tq002421_msg0017",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세주……"
+  }, {
+    "$id" : 18,
+    "label" : "tq002421_msg0018",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 7호는……\n무엇을 해야 할지 모르겠습니다"
+  }, {
+    "$id" : 19,
+    "label" : "tq002421_msg0019",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……무엇을 해야 할지 모르는\n그 불안한 마음은 나도 잘 알아"
+  }, {
+    "$id" : 20,
+    "label" : "tq002421_msg0020",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 세주한테도\n사실은 하고 싶은 일이 있지 않아?"
+  }, {
+    "$id" : 21,
+    "label" : "tq002421_msg0021",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……7호는 그런 사고를\n가지고 있지 않습니다"
+  }, {
+    "$id" : 22,
+    "label" : "tq002421_msg0022",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 같이 생각해 보자\n네가 하고 싶은 일을 말이야"
+  }, {
+    "$id" : 23,
+    "label" : "tq002421_msg0023",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그건 명령입니까?"
+  }, {
+    "$id" : 24,
+    "label" : "tq002421_msg0024",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 더는 누구도\n네게 명령하지 않아"
+  }, {
+    "$id" : 25,
+    "label" : "tq002421_msg0025",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제부터는 세주가……\n세주 자신에게 명령하는 거지"
+  }, {
+    "$id" : 26,
+    "label" : "tq002421_msg0026",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 27,
+    "label" : "tq002421_msg0027",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그건 더 이상 명령이라\n정의할 수 없습니다"
+  }, {
+    "$id" : 28,
+    "label" : "tq002421_msg0028",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 예를 들면 그렇다는 거지!\n예를 들면!"
+  }, {
+    "$id" : 29,
+    "label" : "tq002421_msg0029",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 이해할 수 없습니다"
+  }, {
+    "$id" : 30,
+    "label" : "tq002421_msg0030",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으으……"
+  }, {
+    "$id" : 31,
+    "label" : "tq002421_msg0031",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이해할 수는 없지만……"
+  }, {
+    "$id" : 32,
+    "label" : "tq002421_msg0032",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"세주가 7호에게 명령한다\""
+  }, {
+    "$id" : 33,
+    "label" : "tq002421_msg0033",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 해석하면\n세주도 이해할 수 있을 것 같습니다"
+  }, {
+    "$id" : 34,
+    "label" : "tq002421_msg0034",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세주……"
+  }, {
+    "$id" : 35,
+    "label" : "tq002421_msg0035",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이상……합니까?"
+  }, {
+    "$id" : 36,
+    "label" : "tq002421_msg0036",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아니, 그럴 리가\n그거면 충분해"
+  }, {
+    "$id" : 37,
+    "label" : "tq002421_msg0037",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그도 그럴 게 세주는 이제 자유잖아"
+  }, {
+    "$id" : 38,
+    "label" : "tq002421_msg0038",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 세주는\n\"7호\"에게 무슨 명령을 할 거야?"
+  }, {
+    "$id" : 39,
+    "label" : "tq002421_msg0039",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 우선해야 할 일은\n\"하고 싶은 것\"이 무엇인지 조사하고\n그에 따른 정보를 수집할 것입니다"
+  }, {
+    "$id" : 40,
+    "label" : "tq002421_msg0040",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아하하…… 세주답기는 하지만\n너무 어렵게 생각하는 거 같은데"
+  }, {
+    "$id" : 41,
+    "label" : "tq002421_msg0041",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 건\n한 가지가 아니어도 괜찮고\n무엇이든 상관없어"
+  }, {
+    "$id" : 42,
+    "label" : "tq002421_msg0042",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……무엇이든, 말입니까?"
+  }, {
+    "$id" : 43,
+    "label" : "tq002421_msg0043",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 무엇이든 말이야"
+  }, {
+    "$id" : 44,
+    "label" : "tq002421_msg0044",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면……"
+  }, {
+    "$id" : 45,
+    "label" : "tq002421_msg0045",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 뭔데?"
+  }, {
+    "$id" : 46,
+    "label" : "tq002421_msg0046",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은…… 세나의 주먹밥이……\n먹고 싶습니다"
+  } ]
+}

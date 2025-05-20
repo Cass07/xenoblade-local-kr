@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq311207_msg0001",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전부 다 모였네모\n이제 너희 블레이드를\n엄청 강한 블레이드로 강화할 수 있어모"
+  }, {
+    "$id" : 2,
+    "label" : "nq311207_msg0002",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희를 기다리는 동안\n설계서는 완성해 뒀어모"
+  }, {
+    "$id" : 3,
+    "label" : "nq311207_msg0003",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "처음에 설명했지만\n블레이드를 강화하려면\n오리진의 파편을 이용해야 해모"
+  }, {
+    "$id" : 4,
+    "label" : "nq311207_msg0004",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오리진의 파편은\n크게 7종류로 나뉘어 있어모"
+  }, {
+    "$id" : 5,
+    "label" : "nq311207_msg0005",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "강화하려는 블레이드마다\n필요한 파편 개수가 다르니까\n종류에 상관없이 잔뜩 준비해 둬모"
+  }, {
+    "$id" : 6,
+    "label" : "nq311207_msg0006",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "준비되면\n새먼한테 말해모!"
+  }, {
+    "$id" : 7,
+    "label" : "nq311207_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴게"
+  }, {
+    "$id" : 8,
+    "label" : "nq311207_msg0008",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아까부터 거슬리는 점이 있네만\n왜 새먼이 리더 행세를 하는 게지모?"
+  }, {
+    "$id" : 9,
+    "label" : "nq311207_msg0009",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "불러 모은 게 새먼이니까\n새먼이 리더야모!"
+  }, {
+    "$id" : 10,
+    "label" : "nq311207_msg0010",
+    "talker" : "Wc1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모오?!\n그런 말 못 들었어모오!!"
+  }, {
+    "$id" : 11,
+    "label" : "nq311207_msg0011",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "됐으니까 하던 이야기나 마저 해모"
+  }, {
+    "$id" : 12,
+    "label" : "nq311207_msg0012",
+    "talker" : "gl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모흠!\n아무튼 준비가 끝나면\n새먼한테 말해모!"
+  } ]
+}

@@ -1,0 +1,142 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq001000_msg0001",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘의 작업은\n외곽 삼림 구역에 서식하는\n페리스를 토벌하는 것이다"
+  }, {
+    "$id" : 2,
+    "label" : "sq001000_msg0002",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "페리스를 쓰러뜨린 자에게는\n오늘의 기타 작업을 면제해 주마\n보고 시에는 증거를 제출하도록!"
+  }, {
+    "$id" : 3,
+    "label" : "sq001000_msg0003",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난폭해진 개체를 퇴치하는 게 목적이다"
+  }, {
+    "$id" : 4,
+    "label" : "sq001000_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야, 어제 했던 채집보다\n훨씬 나은데?"
+  }, {
+    "$id" : 5,
+    "label" : "sq001000_msg0005",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어제 페리스에 의해 상당한 인명 피해가\n발생했다는 보고가 들어왔다"
+  }, {
+    "$id" : 6,
+    "label" : "sq001000_msg0006",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희 레브니스로 쓰러뜨리면 되는 거 아냐?"
+  }, {
+    "$id" : 7,
+    "label" : "sq001000_msg0007",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "배치된 기체들은 내일 있을\n군사 연습을 위해 정비 중이다"
+  }, {
+    "$id" : 8,
+    "label" : "sq001000_msg0008",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "애초에 이런 하찮은 일에\n레브니스를 쓸 이유가 없지"
+  }, {
+    "$id" : 9,
+    "label" : "sq001000_msg0009",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 작업에 지장이 생기니\n어서 쓰러뜨리러 가라\n명령을 거스르면 즉시 처분하겠다"
+  }, {
+    "$id" : 10,
+    "label" : "sq001000_msg0010",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어지간히도 즐겁다는 듯이 이야기하네"
+  }, {
+    "$id" : 11,
+    "label" : "sq001000_msg0011",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 뭐\n심심풀이 삼아 우리가 싸우는 걸\n구경이나 할 생각인 거 같은데?"
+  }, {
+    "$id" : 12,
+    "label" : "sq001000_msg0012",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저속하기 그지없군\n정말이지 이해할 수가 없어"
+  }, {
+    "$id" : 13,
+    "label" : "sq001000_msg0013",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 가자"
+  } ]
+}

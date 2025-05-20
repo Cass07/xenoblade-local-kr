@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520804_msg0001",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니코 씨가 절 책사라고 부르던데\n그런 니코 씨야말로\n꽤 만만치 않은 사람이란 말이죠"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520804_msg0002",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "문을 개조하는 것도 전 제안만 했을 뿐이지\n그걸 실행에 옮길 수 있던 건 대량의 자재를\n니코 씨가 확보해 준 덕분이었어요"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520804_msg0003",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갑자기 구할 수 있는 양이 아니었어요\n꽤 예전부터 차곡차곡 모아서\n준비했던 게 분명합니다"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520804_msg0004",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 저한테만\n속이 시꺼먼 사람인 것처럼 말하는 게……\n조금 불만이네요"
+  } ]
+}

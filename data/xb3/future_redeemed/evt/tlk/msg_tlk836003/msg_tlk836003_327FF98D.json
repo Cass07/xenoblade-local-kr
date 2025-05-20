@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk836003_msg0001",
+    "talker" : "bq1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거기! 리버레이터 녀석들!\n시티 사람들을 징병하다니 이게 무슨 짓이지?!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk836003_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐, 잠깐만! 오해야\n저 녀석들은 병사를 지원한 거라고"
+  }, {
+    "$id" : 3,
+    "label" : "tlk836003_msg0003",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그들도 시티를 위해 싸우기로 선택한 거야\n……당신하고 마찬가지로"
+  }, {
+    "$id" : 4,
+    "label" : "tlk836003_msg0004",
+    "talker" : "bq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "큭……! 그, 그렇다고 해도!\n저런 부실한 훈련만 받았다간\n실전에서 목숨을 잃을 거다!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk836003_msg0005",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 당신이 훈련시켜 주면 되겠네\n파나세아도 분명 아주 반가워할걸?"
+  }, {
+    "$id" : 6,
+    "label" : "tlk836003_msg0006",
+    "talker" : "bq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 문제가 아냐!\n입만 살아 가지고는……!"
+  } ]
+}

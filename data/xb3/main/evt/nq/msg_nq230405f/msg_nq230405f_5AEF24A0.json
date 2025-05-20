@@ -1,0 +1,349 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq230405_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "헉…… 헉……\n이봐…… 이제 충분하지 않아?"
+  }, {
+    "$id" : 2,
+    "label" : "nq230405_msg0002",
+    "talker" : "he1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 3,
+    "label" : "nq230405_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이쪽은 총공세를 퍼붓는데\n저 녀석은 왜 아직도 팔팔하지?"
+  }, {
+    "$id" : 4,
+    "label" : "nq230405_msg0004",
+    "talker" : "me1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하! 그렇지도 않아!\n대장님은 진작에 지치셨다고!"
+  }, {
+    "$id" : 5,
+    "label" : "nq230405_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래?\n전혀 안 그래 보이는데"
+  }, {
+    "$id" : 6,
+    "label" : "nq230405_msg0006",
+    "talker" : "ne1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흥…… 그럴 수밖에\n대장님께서는 \"고통\"을 못 느끼시거든"
+  }, {
+    "$id" : 7,
+    "label" : "nq230405_msg0007",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고통을 못 느끼다니……\n통각이 없단 말이야?"
+  }, {
+    "$id" : 8,
+    "label" : "nq230405_msg0008",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 게 가능해?"
+  }, {
+    "$id" : 9,
+    "label" : "nq230405_msg0009",
+    "talker" : "me1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 그런 반응일 줄 알았어!\n하지만~ 이게 또 사실이거든!"
+  }, {
+    "$id" : 10,
+    "label" : "nq230405_msg0010",
+    "talker" : "he1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 11,
+    "label" : "nq230405_msg0011",
+    "talker" : "ne1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이럴 수가! 정말입니까?!\n이걸 직접 듣게 될 줄이야……!!"
+  }, {
+    "$id" : 12,
+    "label" : "nq230405_msg0012",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말로 말을 안 하네……"
+  }, {
+    "$id" : 13,
+    "label" : "nq230405_msg0013",
+    "talker" : "ne1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이것들아!\n이 영광스러운 말씀을 경청하도록!"
+  }, {
+    "$id" : 14,
+    "label" : "nq230405_msg0014",
+    "talker" : "ne1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대장님께서는 방금 그 싸움에서\n약간이나마 \"고통\"을 느꼈다고 하신다!"
+  }, {
+    "$id" : 15,
+    "label" : "nq230405_msg0015",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……무슨 소리야?"
+  }, {
+    "$id" : 16,
+    "label" : "nq230405_msg0016",
+    "talker" : "me1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하! 대장님께선 말이지\n\"고통\"을 원해서 싸우고 계셨단 말씀!"
+  }, {
+    "$id" : 17,
+    "label" : "nq230405_msg0017",
+    "talker" : "me1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "통각이 없다는 게 좋아 보이지만\n사실 그게 그렇지 않으신가 보더라고~?"
+  }, {
+    "$id" : 18,
+    "label" : "nq230405_msg0018",
+    "talker" : "ne1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사실 통각뿐만 아니라 대장님께서는\n신체 여러 부분의 감각이 둔하시지"
+  }, {
+    "$id" : 19,
+    "label" : "nq230405_msg0019",
+    "talker" : "ne1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무것도 느낄 수 없다는 건\n죽은 것과 다름없다……\n대장님께선 곧잘 그렇게 말씀하셨어……"
+  }, {
+    "$id" : 20,
+    "label" : "nq230405_msg0020",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……당신이 고통을 추구하는 건\n자신이 살아 있음을 실감하기 위해서야?"
+  }, {
+    "$id" : 21,
+    "label" : "nq230405_msg0021",
+    "talker" : "he1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 22,
+    "label" : "nq230405_msg0022",
+    "talker" : "ne1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금까지 대장님께\n고통을 느끼도록 할 수 있던 건\n다름 아닌 아셰라 군무장님 단 한 명……"
+  }, {
+    "$id" : 23,
+    "label" : "nq230405_msg0023",
+    "talker" : "me1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 지금, 너희가 해냈다 이 말이야!\n하하! 꽤 하는데?!"
+  }, {
+    "$id" : 24,
+    "label" : "nq230405_msg0024",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그렇구나……\n기대에 부응해서 다행이네"
+  }, {
+    "$id" : 25,
+    "label" : "nq230405_msg0025",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 그러게\n다행이네 다행이야"
+  }, {
+    "$id" : 26,
+    "label" : "nq230405_msg0026",
+    "talker" : "ne1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야! 뭘 난데없이 한 건 해결한 것처럼\n떠들고 앉았어!"
+  }, {
+    "$id" : 27,
+    "label" : "nq230405_msg0027",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적당히 하자 좀……\n또 뭐 어쩌려고?"
+  }, {
+    "$id" : 28,
+    "label" : "nq230405_msg0028",
+    "talker" : "ne1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 들어! 본론은 지금부터다!"
+  }, {
+    "$id" : 29,
+    "label" : "nq230405_msg0029",
+    "talker" : "ne1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대장님께서 너희들과 한 번 더\n다시 싸우기를 바란다고 하신다!"
+  }, {
+    "$id" : 30,
+    "label" : "nq230405_msg0030",
+    "talker" : "ne1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고! 그 답례로\n너희들을 새로운 지휘관으로서 받드는 것도\n흔쾌히 받아들이겠다고 하신다!"
+  }, {
+    "$id" : 31,
+    "label" : "nq230405_msg0031",
+    "talker" : "he1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 32,
+    "label" : "nq230405_msg0032",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 그렇게까지는 안 해 줘도 돼\n……왠지 귀찮기도 하고"
+  }, {
+    "$id" : 33,
+    "label" : "nq230405_msg0033",
+    "talker" : "ne1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐~가 어째~?! 네 녀석들\n대장님의 호의를 무시할 셈이냐!!"
+  }, {
+    "$id" : 34,
+    "label" : "nq230405_msg0034",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 일일이 딴죽 좀 걸지 말라고!\n성가셔 죽겠네!!"
+  }, {
+    "$id" : 35,
+    "label" : "nq230405_msg0035",
+    "talker" : "me1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하하!\n일이 참 재밌어졌어!!"
+  }, {
+    "$id" : 36,
+    "label" : "nq230405_msg0036",
+    "talker" : "he1",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……훗"
+  } ]
+}

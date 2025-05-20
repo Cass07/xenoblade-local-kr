@@ -1,0 +1,83 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<610EC8CB>",
+    "style" : 13,
+    "name" : "에너미 스코어 UP"
+  }, {
+    "$id" : 2,
+    "label" : "<BD7ABB6E>",
+    "style" : 13,
+    "name" : "에너미 스코어 대폭 UP"
+  }, {
+    "$id" : 3,
+    "label" : "<E47BBD0C>",
+    "style" : 13,
+    "name" : "에너미 스코어 DOWN"
+  }, {
+    "$id" : 4,
+    "label" : "<E6028066>",
+    "style" : 13,
+    "name" : "에너미 스코어 없음"
+  }, {
+    "$id" : 5,
+    "label" : "<44DCD9D7>",
+    "style" : 13,
+    "name" : "생명의 노폰시계 감소 없음"
+  }, {
+    "$id" : 6,
+    "label" : "<095AC65A>",
+    "style" : 13,
+    "name" : "생명의 노폰시계 감소 속도 UP"
+  }, {
+    "$id" : 7,
+    "label" : "<2491ECED>",
+    "style" : 13,
+    "name" : "라이징 차지 증가량 UP"
+  }, {
+    "$id" : 8,
+    "label" : "<471CEECF>",
+    "style" : 13,
+    "name" : "라이징 차지 사용 불가"
+  }, {
+    "$id" : 9,
+    "label" : "<5A75AA71>",
+    "style" : 13,
+    "name" : "럭키 몬스터 출현"
+  }, {
+    "$id" : 10,
+    "label" : "<3D626C5B>",
+    "style" : 13,
+    "name" : "럭키 몬스터 대량 출현"
+  }, {
+    "$id" : 11,
+    "label" : "<112721F1>",
+    "style" : 13,
+    "name" : "훼방꾼 뫼비우스 난입"
+  }, {
+    "$id" : 12,
+    "label" : "<529DF374>",
+    "style" : 13,
+    "name" : "에너미 연속 출현"
+  }, {
+    "$id" : 13,
+    "label" : "<7F0F90F0>",
+    "style" : 13,
+    "name" : "에너미 레벨 다운"
+  }, {
+    "$id" : 14,
+    "label" : "<DFB4206B>",
+    "style" : 13,
+    "name" : "에너미 레벨 업"
+  } ]
+}

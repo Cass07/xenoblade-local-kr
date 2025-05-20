@@ -1,0 +1,232 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq000206_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제법 쓸 만한 물건을 회수했네"
+  }, {
+    "$id" : 2,
+    "label" : "sq000206_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생각보다 물자가\n많이 남아 있어서 다행이야"
+  }, {
+    "$id" : 3,
+    "label" : "sq000206_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "철거신 주위에서\n몬스터의 기척은 안 느껴졌어"
+  }, {
+    "$id" : 4,
+    "label" : "sq000206_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안전할 것 같은데\n오늘은 여기서 쉴까?"
+  }, {
+    "$id" : 5,
+    "label" : "sq000206_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 아직 팔팔하니까\n제일 먼저 보초를 설게!"
+  }, {
+    "$id" : 6,
+    "label" : "sq000206_msg0006",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세나, 단독 행동은……"
+  }, {
+    "$id" : 7,
+    "label" : "sq000206_msg0007",
+    "talker" : "zY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모?!"
+  }, {
+    "$id" : 8,
+    "label" : "sq000206_msg0008",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으앗?!"
+  }, {
+    "$id" : 9,
+    "label" : "sq000206_msg0009",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 일이야!!"
+  }, {
+    "$id" : 10,
+    "label" : "sq000206_msg0010",
+    "talker" : "zY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모모모모~~~\n시르지르는 수상한 노폰 아니야모~~"
+  }, {
+    "$id" : 11,
+    "label" : "sq000206_msg0011",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "소속 콜로니와 목적을 말해"
+  }, {
+    "$id" : 12,
+    "label" : "sq000206_msg0012",
+    "talker" : "zY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시르지르는 어디에도 소속되지 않은\n자유로운 행상 노폰이야모"
+  }, {
+    "$id" : 13,
+    "label" : "sq000206_msg0013",
+    "talker" : "zY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기서 반짝반짝~ 빛이 나길래\n보러 왔을 뿐이야모"
+  }, {
+    "$id" : 14,
+    "label" : "sq000206_msg0014",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "길바닥 노폰이었어?\n정말 이 녀석들은\n어딜 가도 나타난다니까"
+  }, {
+    "$id" : 15,
+    "label" : "sq000206_msg0015",
+    "talker" : "zY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "길바닥이라니~\n말이 심하잖아모"
+  }, {
+    "$id" : 16,
+    "label" : "sq000206_msg0016",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스 소속도 아니고\n케베스 소속도 아니란 말이지?"
+  }, {
+    "$id" : 17,
+    "label" : "sq000206_msg0017",
+    "talker" : "zY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모!\n만난 사람은 모~두 손님이야모"
+  }, {
+    "$id" : 18,
+    "label" : "sq000206_msg0018",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떤 물건을 취급하는데?"
+  }, {
+    "$id" : 19,
+    "label" : "sq000206_msg0019",
+    "talker" : "zY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서치 헤드부터 버닛 초커까지\n뭐든 다 있어모~"
+  }, {
+    "$id" : 20,
+    "label" : "sq000206_msg0020",
+    "talker" : "zY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이렇게 만난 것도 인연인데\n싸게 해 줄 테니 많이 사 줘모"
+  }, {
+    "$id" : 21,
+    "label" : "sq000206_msg0021",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자금 사정이 좀 걱정되는걸"
+  }, {
+    "$id" : 22,
+    "label" : "sq000206_msg0022",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앞으로는 콜로니에서\n포상금을 받지도 못할 테고……"
+  }, {
+    "$id" : 23,
+    "label" : "sq000206_msg0023",
+    "talker" : "zY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 시르지르한테\n돈 될 만한 물건을 전부 팔면 돼모!"
+  } ]
+}

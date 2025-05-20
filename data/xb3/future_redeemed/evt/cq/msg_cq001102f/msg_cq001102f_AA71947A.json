@@ -1,0 +1,511 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<D3CC43B4>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠!"
+  }, {
+    "$id" : 2,
+    "label" : "<111D7FAA>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나 원 참모……\n무슨 일로 다 같이 몰려왔어모?"
+  }, {
+    "$id" : 3,
+    "label" : "<7884DF2B>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠는 지금 우로보로스 스톤 조정하느라\n아주 바빠모, 나중에 다시 와모"
+  }, {
+    "$id" : 4,
+    "label" : "<A70AC766>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 우로보로스 스톤과 관련된 일이야"
+  }, {
+    "$id" : 5,
+    "label" : "<D9DB3CB7>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전에 말했던 파워 업 말인데\n자세한 설명 좀 부탁할게"
+  }, {
+    "$id" : 6,
+    "label" : "<3F9D2A90>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 먼저 말했어야지모\n그럼 딱 적절한 타이밍에 왔어모"
+  }, {
+    "$id" : 7,
+    "label" : "<220A8527>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐만 있어 봐모"
+  }, {
+    "$id" : 8,
+    "label" : "<B1D693EA>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스 스톤의 원형은\n아주 오래 전에 케베스와 아그누스의 여왕이\n만든 물건이야모"
+  }, {
+    "$id" : 9,
+    "label" : "<33EC26D9>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 완전하지 않아서\n우로보로스의 힘을 끌어낸 자여도\n뫼비우스를 상대할 수 없었지모"
+  }, {
+    "$id" : 10,
+    "label" : "<6159E11F>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스 여왕은 붙잡혀 버렸고……"
+  }, {
+    "$id" : 11,
+    "label" : "<65759BBB>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "남은 아그누스 여왕도\n뫼비우스한테서 도망치기 위해\n어딘가에 숨어 버렸어모"
+  }, {
+    "$id" : 12,
+    "label" : "<4565AB83>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 이걸 완전하게 만드는 건\n거의 다 끝난 상태였다고 들었어모"
+  }, {
+    "$id" : 13,
+    "label" : "<B341CEA1>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 14,
+    "label" : "<5B68C14D>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 남은 당시의 기록을 토대로\n장치 자체는 리쿠가 개량하고 있어모"
+  }, {
+    "$id" : 15,
+    "label" : "<BE9E0539>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 분명 그것만으로는 부족할 거야모"
+  }, {
+    "$id" : 16,
+    "label" : "<695E0093>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "필요한 건……\n아마 \"계기\"야모"
+  }, {
+    "$id" : 17,
+    "label" : "<1DD3168F>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "계기?"
+  }, {
+    "$id" : 18,
+    "label" : "<0F0AAC01>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까\n이걸 둘한테 줄게모"
+  }, {
+    "$id" : 19,
+    "label" : "<952DCF1A>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 뭔데?"
+  }, {
+    "$id" : 20,
+    "label" : "<A77D2D68>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스 스톤과\n우로보로스 파워 사용자를\n연결하기 위한 소형 단말기야모"
+  }, {
+    "$id" : 21,
+    "label" : "<11B5C1B7>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸 장착하고 우로보로스 파워를 사용하면\n사용자의 생체 정보가\n우로보로스 스톤에 전송돼모"
+  }, {
+    "$id" : 22,
+    "label" : "<09369F42>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 우로보로스 스톤은\n한층 더 \"성장\"할 거야모"
+  }, {
+    "$id" : 23,
+    "label" : "<2D2B649B>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스 스톤이 성장하면\n단말기를 통해 니콜과 카기로이의 힘도\n파워 업할 거라는 게 내 계산이지모"
+  }, {
+    "$id" : 24,
+    "label" : "<585844EB>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나!\n그럼 그걸 장착한 채로\n수행을 하면 된다는 거네!"
+  }, {
+    "$id" : 25,
+    "label" : "<91C3C2D9>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일이 그렇게 쉽지는 않아모"
+  }, {
+    "$id" : 26,
+    "label" : "<FB2F200E>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아까도 말했지만 성장에는\n더 큰 \"계기\"가 필요해모"
+  }, {
+    "$id" : 27,
+    "label" : "<5CD12CD9>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "계기라고 말해도……\n결국 어떻게 하면 되는 건데?"
+  }, {
+    "$id" : 28,
+    "label" : "<9129D702>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 알면 고생할 리가 없지모"
+  }, {
+    "$id" : 29,
+    "label" : "<4321D2E8>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠가 아는 건\n평범하게 싸우는 수준으로는\n부족하다는 것 정도야모"
+  }, {
+    "$id" : 30,
+    "label" : "<7A6AFA10>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어렴풋이 알 것도 같아"
+  }, {
+    "$id" : 31,
+    "label" : "<13BDF070>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 엔이라는 집정관과 싸우다가\n궁지에 몰렸을 때……"
+  }, {
+    "$id" : 32,
+    "label" : "<AF64DDA1>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "매슈의 우로보로스 파워에\n확연한 변화가 있었잖아……!"
+  }, {
+    "$id" : 33,
+    "label" : "<9BFA0D3E>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명 그게 매슈한테는\n\"계기\"가 된 거 아니었을까?"
+  }, {
+    "$id" : 34,
+    "label" : "<E83BFEE4>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오……! 그때 말이구나!"
+  }, {
+    "$id" : 35,
+    "label" : "<7F94AF02>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "더 강한 적과의 전투가\n곧 \"계기\"로 이어진다……\n그런 뜻입니까?"
+  }, {
+    "$id" : 36,
+    "label" : "<4CAAD9E2>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 강력한 몬스터들을\n싹 다 잡아 보는 건 어때?"
+  }, {
+    "$id" : 37,
+    "label" : "<EF391643>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아니, 더 좋은 방법이 있어"
+  }, {
+    "$id" : 38,
+    "label" : "<FAE50EAA>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이봐, 진짜로 하려고?"
+  }, {
+    "$id" : 39,
+    "label" : "<AD807B93>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"우리\"가 상대해 줄게\n『더 강한 적』으로서 말이지"
+  }, {
+    "$id" : 40,
+    "label" : "<9ED5BA29>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네……?!"
+  }, {
+    "$id" : 41,
+    "label" : "<2C2F9424>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐 기다려\n『우리』라니, 설마……"
+  }, {
+    "$id" : 42,
+    "label" : "<B0070A91>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "2대1은 불공평하잖아?\n요컨대 이런 거야"
+  }, {
+    "$id" : 43,
+    "label" : "<88ECA2C4>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리를 쓰러뜨리는 데 성공한다면\n그다음부터는 너희 맘대로 해\n……알기 쉽지?"
+  }, {
+    "$id" : 44,
+    "label" : "<00EFAFB6>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 그거 괜찮은 생각 같은데?\n슈르크와 렉스라면 상대로 부족할 거 없잖아"
+  }, {
+    "$id" : 45,
+    "label" : "<6B478D5C>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 46,
+    "label" : "<B0AA2B7A>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야, 겁먹었어?"
+  }, {
+    "$id" : 47,
+    "label" : "<52D810F2>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내, 내가 언제……!"
+  }, {
+    "$id" : 48,
+    "label" : "<F588B357>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 콜로니 안에서\n치고받을 순 없으니까 장소를 옮길까?"
+  }, {
+    "$id" : 49,
+    "label" : "<56D9C768>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 거라면 콜로니 뒤쪽에 있는\n그곳은 어떨까?"
+  }, {
+    "$id" : 50,
+    "label" : "<6BDE5359>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……게트릭스 신탁 옛터 말이지?\n뭐, 괜찮을 거 같은데? 난 상관없어"
+  }, {
+    "$id" : 51,
+    "label" : "<9CD3A3F5>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "둘 다 불만은 없겠지?"
+  }, {
+    "$id" : 52,
+    "label" : "<C44EBF42>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네……"
+  }, {
+    "$id" : 53,
+    "label" : "<7C323B19>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흥, 바라던 바야"
+  }, {
+    "$id" : 54,
+    "label" : "<F81D8C80>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니콜, 카기로이, 힘내!\n응원해 줄게!"
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk430101_msg0001",
+    "talker" : "hf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캐슬로 갈 거면\n여기서 준비를 마치고 가모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk430101_msg0002",
+    "talker" : "hf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카라반은 캐슬 출입이\n금지되어 있거든모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk430101_msg0003",
+    "talker" : "hf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 이게 마지막 찬스야모\n잔뜩 사 가라고모"
+  } ]
+}

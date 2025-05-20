@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk231503_msg0001",
+    "talker" : "ib1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나 님의 저 관록……\n6기라고 들었지만 도저히 믿기지가 않네요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk231503_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하긴 분위기가 있긴 해\n빈틈이 없달까……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk231503_msg0003",
+    "talker" : "ib1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아요, 남에게 어떤 인상을 주고 싶은지\n철저히 계산을 하시는 게 틀림없어요……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk231503_msg0004",
+    "talker" : "ib1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 코자쿠라도 한 말이지만……\n화장 실력이 너무 뛰어나시잖아요!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk231503_msg0005",
+    "talker" : "ib1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 비결을 꼭 알아내고 말겠어요!"
+  } ]
+}

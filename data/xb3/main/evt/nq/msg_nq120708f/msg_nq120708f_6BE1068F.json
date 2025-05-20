@@ -1,0 +1,160 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120708_msg0001",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요시노, 가져왔어!"
+  }, {
+    "$id" : 2,
+    "label" : "nq120708_msg0002",
+    "talker" : "cl1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수고들 많았어\n그럼 뒷일은 나한테 맡기렴"
+  }, {
+    "$id" : 3,
+    "label" : "nq120708_msg0003",
+    "talker" : "cl1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "완벽하게 조정했어"
+  }, {
+    "$id" : 4,
+    "label" : "nq120708_msg0004",
+    "talker" : "pa1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모!\n다시 테스트 시작이야모!"
+  }, {
+    "$id" : 5,
+    "label" : "nq120708_msg0005",
+    "talker" : "pa1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "친구 대포 발사!"
+  }, {
+    "$id" : 6,
+    "label" : "nq120708_msg0006",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떻게 됐지……?"
+  }, {
+    "$id" : 7,
+    "label" : "nq120708_msg0007",
+    "talker" : "pa1",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모!\n성공했어모?!"
+  }, {
+    "$id" : 8,
+    "label" : "nq120708_msg0008",
+    "talker" : "cl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "출력이 조금 강했나 보네\n여기저기 그을었어……"
+  }, {
+    "$id" : 9,
+    "label" : "nq120708_msg0009",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요시노, 한 번 더 조정해 줘!"
+  }, {
+    "$id" : 10,
+    "label" : "nq120708_msg0010",
+    "talker" : "cl1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 말만 해"
+  }, {
+    "$id" : 11,
+    "label" : "nq120708_msg0011",
+    "talker" : "cl1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "친구 대포의 부품도\n교체해 볼까?"
+  }, {
+    "$id" : 12,
+    "label" : "nq120708_msg0012",
+    "talker" : "cl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안하지만 트라이 트랜지스터랑\n쿠겔 월을 가져다주겠니?"
+  }, {
+    "$id" : 13,
+    "label" : "nq120708_msg0013",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어!"
+  }, {
+    "$id" : 14,
+    "label" : "nq120708_msg0014",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가자, 란츠!"
+  }, {
+    "$id" : 15,
+    "label" : "nq120708_msg0015",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 그래"
+  } ]
+}

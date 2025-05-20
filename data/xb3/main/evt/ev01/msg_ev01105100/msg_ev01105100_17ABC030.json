@@ -1,0 +1,48 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "ev01105100_0010",
+    "style" : 124,
+    "name" : "그럼……\n오늘은 이만 잘까"
+  }, {
+    "$id" : 2,
+    "label" : "ev01105100_0020",
+    "style" : 124,
+    "name" : "그래, 걸어서 돌아오느라 피곤해"
+  }, {
+    "$id" : 3,
+    "label" : "ev01105100_0030",
+    "style" : 124,
+    "name" : "미안……"
+  }, {
+    "$id" : 4,
+    "label" : "ev01105100_0040",
+    "style" : 124,
+    "name" : "헤헷\n자, 가자"
+  }, {
+    "$id" : 5,
+    "label" : "ev01105100_0050",
+    "style" : 124,
+    "name" : "[ML:undisp ]그래!"
+  }, {
+    "$id" : 6,
+    "label" : "ev01105100_0060",
+    "style" : 124,
+    "name" : "[ML:undisp ]응……"
+  }, {
+    "$id" : 7,
+    "label" : "ev01105100_0070",
+    "style" : 124,
+    "name" : "[ML:undisp ]모못!"
+  } ]
+}

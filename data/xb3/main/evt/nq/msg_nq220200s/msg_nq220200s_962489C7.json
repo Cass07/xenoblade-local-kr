@@ -1,0 +1,151 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq220200_msg0001",
+    "talker" : "5",
+    "talkattr" : 33096,
+    "talkattr2" : 50348161,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수확기라고 그러던데\n일이 많아?"
+  }, {
+    "$id" : 2,
+    "label" : "nq220200_msg0002",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 편이죠\n콜로니 타우는 대부분의 식량을\n콜로니 안에서 해결하고 있어요"
+  }, {
+    "$id" : 3,
+    "label" : "nq220200_msg0003",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사냥만 해서는 다 충당할 수 없으니까요"
+  }, {
+    "$id" : 4,
+    "label" : "nq220200_msg0004",
+    "talker" : "1",
+    "talkattr" : 33096,
+    "talkattr2" : 50348161,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수확제라는 건 뭐야?"
+  }, {
+    "$id" : 5,
+    "label" : "nq220200_msg0005",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그냥 수확한다는 뜻일 뿐이에요\n이 시기에는 다양한 작물이 나오거든요"
+  }, {
+    "$id" : 6,
+    "label" : "nq220200_msg0006",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만…… 이번엔 사람이 적어서\n그것도 쉽지 않다는 이야기가\n나오고 있기는 해요"
+  }, {
+    "$id" : 7,
+    "label" : "nq220200_msg0007",
+    "talker" : "2",
+    "talkattr" : 33096,
+    "talkattr2" : 50348161,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 거들까?"
+  }, {
+    "$id" : 8,
+    "label" : "nq220200_msg0008",
+    "talker" : "6",
+    "talkattr" : 33096,
+    "talkattr2" : 50348161,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수확만 하는 거라면\n나도 할 수 있을 거야!"
+  }, {
+    "$id" : 9,
+    "label" : "nq220200_msg0009",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮으신가요?\n여러분의 여행에 방해가 되진 않을지……"
+  }, {
+    "$id" : 10,
+    "label" : "nq220200_msg0010",
+    "talker" : "3",
+    "talkattr" : 33048,
+    "talkattr2" : 50348161,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사양할 거 없어\n이럴 때는 그냥\n고맙다고 하면 돼!"
+  }, {
+    "$id" : 11,
+    "label" : "nq220200_msg0011",
+    "talker" : "2",
+    "talkattr" : 33056,
+    "talkattr2" : 12599425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유니, 말 잘했어"
+  }, {
+    "$id" : 12,
+    "label" : "nq220200_msg0012",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼……\n여러분, 감사합니다\n잘 부탁드려요"
+  }, {
+    "$id" : 13,
+    "label" : "nq220200_msg0013",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋았어! 그럼 바로 시작하자고"
+  }, {
+    "$id" : 14,
+    "label" : "nq220200_msg0014",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 타우의 입구 바로 옆이에요\n가시죠"
+  } ]
+}

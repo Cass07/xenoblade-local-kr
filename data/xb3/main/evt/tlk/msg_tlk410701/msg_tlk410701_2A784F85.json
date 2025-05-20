@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk410701_msg0001",
+    "talker" : "le1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "또 밥 생각나면\n언제든지 식당에 들러 줘"
+  }, {
+    "$id" : 2,
+    "label" : "tlk410701_msg0002",
+    "talker" : "le1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "참고로 나는 고기 요리 전문이야\n전투는 아무래도 힘과 스태미나 싸움이니까\n고기는 많이 먹을수록 좋지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk410701_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말하는 거 보니 뭘 좀 아는데?\n왠지 너랑은 죽이 잘 맞을 거 같아"
+  } ]
+}

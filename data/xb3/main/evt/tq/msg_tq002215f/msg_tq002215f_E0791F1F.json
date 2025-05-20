@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002215_msg0001",
+    "talker" : "5",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……좋아! 겨우 처리했네!"
+  }, {
+    "$id" : 2,
+    "label" : "tq002215_msg0002",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "골치 아픈 상대였어"
+  }, {
+    "$id" : 3,
+    "label" : "tq002215_msg0003",
+    "talker" : "5",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석들은…… 아직 안 보여\n좋았어! 서둘러서 철거신 쪽으로 돌아가자!"
+  }, {
+    "$id" : 4,
+    "label" : "tq002215_msg0004",
+    "talker" : "4",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 그 덩치 큰 녀석!\n우리를 우습게 본 걸 후회하게 해 주지"
+  } ]
+}

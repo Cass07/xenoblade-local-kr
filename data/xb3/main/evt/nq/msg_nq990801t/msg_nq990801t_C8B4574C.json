@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq990801_msg0001",
+    "talker" : "Xg1",
+    "talkattr" : 33026,
+    "talkattr2" : 270549121,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기에도 없네…… 어쩌지……"
+  }, {
+    "$id" : 2,
+    "label" : "nq990801_msg0002",
+    "talker" : "Xg1",
+    "talkattr" : 33026,
+    "talkattr2" : 270549121,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "끈이 끊어진 지도 모르고 있었다니……\n난 진짜 바보야! 바보, 바보, 바보!!"
+  }, {
+    "$id" : 3,
+    "label" : "nq990801_msg0101",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……앗! 그 펜던트는……?!"
+  }, {
+    "$id" : 4,
+    "label" : "nq990801_msg0102",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 내 펜던트잖아!\n다행이다~ 찾고 있었거든요……"
+  }, {
+    "$id" : 5,
+    "label" : "nq990801_msg0103",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디서 본 적이 있다 싶었더니\n하루 거였구나"
+  }, {
+    "$id" : 6,
+    "label" : "nq990801_msg0104",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응! 카나한테 받은 거야\n마음이 안정되는 부적이래"
+  }, {
+    "$id" : 7,
+    "label" : "nq990801_msg0105",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 당황하면 주변 상황이\n눈에 들어오질 않아서……"
+  }, {
+    "$id" : 8,
+    "label" : "nq990801_msg0106",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 고마워요!\n타로한테도 보고해 둘게요"
+  }, {
+    "$id" : 9,
+    "label" : "nq990801_msg0201",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "포인트는 잘 모으고 계신가요?\n저는 그럭저럭 모은 거 같아요~"
+  } ]
+}

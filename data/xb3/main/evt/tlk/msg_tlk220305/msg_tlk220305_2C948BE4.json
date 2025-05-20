@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk220305_msg0001",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기운이 없어 보이는데\n무슨 일 있어?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk220305_msg0002",
+    "talker" : "ja1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미하일이랑 콜로니 사람들이 출격했어모……\n아예 못 돌아올지도 모른대모……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk220305_msg0003",
+    "talker" : "ja1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "돌아오지 않으면\n콜로니 30 사람들을 환송할 수 없어모……"
+  } ]
+}

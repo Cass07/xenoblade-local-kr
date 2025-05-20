@@ -1,0 +1,286 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq000704_msg0001",
+    "talker" : "gW1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장님! 군무장님!\n에셀 군무장니이이임!!"
+  }, {
+    "$id" : 2,
+    "label" : "tq000704_msg0002",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사방을 다 뒤졌다고요!\n대체 어디 계셨던 겁니까?!"
+  }, {
+    "$id" : 3,
+    "label" : "tq000704_msg0003",
+    "talker" : "7",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "의료 물자를 조달해 왔다\n네가 의료반에 전해 주도록 해"
+  }, {
+    "$id" : 4,
+    "label" : "tq000704_msg0004",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 네, 알겠습니……\n아니, 아니, 아니! 그게 아니라요!"
+  }, {
+    "$id" : 5,
+    "label" : "tq000704_msg0005",
+    "talker" : "7",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정을 끼쳐서 미안하군\n하지만 이것도 모두를 위해서다\n이해해 다오"
+  }, {
+    "$id" : 6,
+    "label" : "tq000704_msg0006",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "심정은 이해합니다만……\n하아…… 아무튼 무사하셔서 다행입니다"
+  }, {
+    "$id" : 7,
+    "label" : "tq000704_msg0007",
+    "talker" : "7",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "두 번이나 도움을 받고 말았군\n다시 한번 감사를 표하지"
+  }, {
+    "$id" : 8,
+    "label" : "tq000704_msg0008",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 하고 싶어서 한 일인데 뭐\n신경 쓰지 말라고"
+  }, {
+    "$id" : 9,
+    "label" : "tq000704_msg0009",
+    "talker" : "7",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗, 너희의 노고에 보답하기 위해서라도\n지금은 부상자들 치료에\n온 힘을 쏟아야겠는걸"
+  }, {
+    "$id" : 10,
+    "label" : "tq000704_msg0010",
+    "talker" : "7",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가자, 볼레아리스"
+  }, {
+    "$id" : 11,
+    "label" : "tq000704_msg0011",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 네!"
+  }, {
+    "$id" : 12,
+    "label" : "tq000704_msg0012",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……에셀!"
+  }, {
+    "$id" : 13,
+    "label" : "tq000704_msg0013",
+    "talker" : "7",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음? 왜 그러지, 노아?"
+  }, {
+    "$id" : 14,
+    "label" : "tq000704_msg0014",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『옳다고 생각해서 한 행동이\n반드시 옳은 결과로 이어지지는 않아』"
+  }, {
+    "$id" : 15,
+    "label" : "tq000704_msg0015",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그런 말을 했었지?"
+  }, {
+    "$id" : 16,
+    "label" : "tq000704_msg0016",
+    "talker" : "7",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 17,
+    "label" : "tq000704_msg0017",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신 정도 되는 사람이 한 말이니\n현실은 그 말대로일지도 몰라"
+  }, {
+    "$id" : 18,
+    "label" : "tq000704_msg0018",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 그때\n에셀은 우리를 구해 줬어\n……목숨을 걸고 구해 줬지"
+  }, {
+    "$id" : 19,
+    "label" : "tq000704_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신이 한 행동 덕분에\n우리가 지금 이렇게 살아 있어"
+  }, {
+    "$id" : 20,
+    "label" : "tq000704_msg0020",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……옳은 결과라고 단언할 수 있어\n그것만큼은 틀림없어"
+  }, {
+    "$id" : 21,
+    "label" : "tq000704_msg0021",
+    "talker" : "7",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노아, 넌……"
+  }, {
+    "$id" : 22,
+    "label" : "tq000704_msg0022",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니 그때\n감사 인사도 제대로 안 했었구나"
+  }, {
+    "$id" : 23,
+    "label" : "tq000704_msg0023",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어이쿠, 그랬었지"
+  }, {
+    "$id" : 24,
+    "label" : "tq000704_msg0024",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아……!"
+  }, {
+    "$id" : 25,
+    "label" : "tq000704_msg0025",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"백은의 에셀\"……\n당신의 용기 있는 행동에 경의와 감사를!"
+  }, {
+    "$id" : 26,
+    "label" : "tq000704_msg0026",
+    "talker" : "7",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗……"
+  }, {
+    "$id" : 27,
+    "label" : "tq000704_msg0027",
+    "talker" : "7",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "셋 다 몰라보게 성장했구나"
+  }, {
+    "$id" : 28,
+    "label" : "tq000704_msg0028",
+    "talker" : "7",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 나도 계속\n그 이름에 부끄럽지 않게 살아가마"
+  }, {
+    "$id" : 29,
+    "label" : "tq000704_msg0029",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  } ]
+}

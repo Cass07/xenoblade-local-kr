@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk710201_msg0001",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 노획만 하는 게 아니야\n모듈 탈환 임무를 맡기도 해"
+  }, {
+    "$id" : 2,
+    "label" : "tlk710201_msg0002",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "두 임무 다 \"지금 이곳에 있는 생명\"을\n지키는 일이라고 생각하지만……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk710201_msg0003",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 케베스나 아그누스도 마찬가지지\n지키기 위해 뺏고 뺏기는 구도는\n어느 시대든 변함이 없어"
+  }, {
+    "$id" : 4,
+    "label" : "tlk710201_msg0004",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서로 살아 보겠다고 이러는 거 아닌가 싶어서\n가끔은 못 해 먹겠다는 생각도 들어"
+  } ]
+}

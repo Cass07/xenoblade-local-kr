@@ -1,0 +1,286 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq220103_msg0001",
+    "talker" : "dd1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 그 빛은\n역시 너희가……"
+  }, {
+    "$id" : 2,
+    "label" : "nq220103_msg0002",
+    "talker" : "Yd1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다 봤어\n그게 환송이라는 거구나"
+  }, {
+    "$id" : 3,
+    "label" : "nq220103_msg0003",
+    "talker" : "dd1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부드러우면서도 포근한……\n그런 기운이 느껴졌어"
+  }, {
+    "$id" : 4,
+    "label" : "nq220103_msg0101",
+    "talker" : "dd1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들…… 여기는 무슨 일로?"
+  }, {
+    "$id" : 5,
+    "label" : "nq220103_msg0102",
+    "talker" : "Yd1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……혹시 환송해 준 거야?"
+  }, {
+    "$id" : 6,
+    "label" : "nq220103_msg0103",
+    "talker" : "Yd1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래…… 수고를 끼쳤네\n그래도 이제……"
+  }, {
+    "$id" : 7,
+    "label" : "nq220103_msg0201",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 이제는 그들도\n편히 쉴 수 있을 거예요"
+  }, {
+    "$id" : 8,
+    "label" : "nq220103_msg0202",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 선대 군무장님도\n여기서 쓰러져서…… 그대로 전사했었지"
+  }, {
+    "$id" : 9,
+    "label" : "nq220103_msg0203",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬어?"
+  }, {
+    "$id" : 10,
+    "label" : "nq220103_msg0204",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……네, 맨 처음 전사하신 건\n선대 군무장님이셨어요"
+  }, {
+    "$id" : 11,
+    "label" : "nq220103_msg0205",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유즈리하를 차기 군무장으로 지명하고\n도망칠 길을 열어 준 것도 그 사람이었어"
+  }, {
+    "$id" : 12,
+    "label" : "nq220103_msg0206",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선대 군무장님께선\n정말 강하고 다정한 분이셨죠\n전 그분을 동경했어요……"
+  }, {
+    "$id" : 13,
+    "label" : "nq220103_msg0207",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니를 정말로 아끼는 사람이었거든\n유즈리하를 살려서 콜로니를 지키려 한 거지"
+  }, {
+    "$id" : 14,
+    "label" : "nq220103_msg0208",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장을 지명하다니……\n신기한 일이지만 그들의 유대감이 느껴져"
+  }, {
+    "$id" : 15,
+    "label" : "nq220103_msg0209",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아\n계속 이어져 가는 게 있다니……\n참 좋은 것 같아"
+  }, {
+    "$id" : 16,
+    "label" : "nq220103_msg0210",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "환송자였던 사람도\n이 콜로니를 이해하고\n스스로 할 수 있는 일을 찾았죠"
+  }, {
+    "$id" : 17,
+    "label" : "nq220103_msg0211",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 온화한 성품을 지닌 사람이었어요\n그런 점은 코다치하고 닮은 것 같네요"
+  }, {
+    "$id" : 18,
+    "label" : "nq220103_msg0212",
+    "talker" : "dd1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 온화하다고?\n그런 말은 내가 없는 데서 해……"
+  }, {
+    "$id" : 19,
+    "label" : "nq220103_msg0213",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "코츠초는 조금 거친 면은 있어도\n책임감이 강해요\n마치 선대 군무장님처럼……"
+  }, {
+    "$id" : 20,
+    "label" : "nq220103_msg0214",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 타우에 있는 저희가……\n그 뜻을 확실히 이어받았어요"
+  }, {
+    "$id" : 21,
+    "label" : "nq220103_msg0215",
+    "talker" : "dd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유즈리하의 강한 면과 다정한 면을\n선대 군무장님께선 알고 계셨어"
+  }, {
+    "$id" : 22,
+    "label" : "nq220103_msg0216",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 그러니 너를 지명해서\n콜로니가 계승해 온 것들을\n지키려고 한 거지"
+  }, {
+    "$id" : 23,
+    "label" : "nq220103_msg0217",
+    "talker" : "L",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇죠……"
+  }, {
+    "$id" : 24,
+    "label" : "nq220103_msg0218",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 노아 씨 일행을 만나고 나서\n변화가 꼭 나쁜 것만은 아니라는 걸\n알게 됐어요"
+  }, {
+    "$id" : 25,
+    "label" : "nq220103_msg0219",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제자리에 머무르지 말고\n새로운 길을 개척하려면 어떤 변화가 필요한지\n저희 손으로 찾아 나가야 해요"
+  }, {
+    "$id" : 26,
+    "label" : "nq220103_msg0220",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 최대한 도울게"
+  }, {
+    "$id" : 27,
+    "label" : "nq220103_msg0221",
+    "talker" : "dd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유즈리하 생각대로 해도 돼\n우리 모두 그런 유즈리하를 믿고 있으니까"
+  }, {
+    "$id" : 28,
+    "label" : "nq220103_msg0222",
+    "talker" : "L",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워요"
+  }, {
+    "$id" : 29,
+    "label" : "nq220103_msg0223",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죽은 사람들에게 전해지도록\n모두 함께 힘을 합쳐\n새로운 타우를 만들어 나가요"
+  } ]
+}

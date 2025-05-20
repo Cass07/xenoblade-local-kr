@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk321005_msg0001",
+    "talker" : "ed1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마기의 부상이 다 나았어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk321005_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무리해서 움직이지 않아야 할 텐데 말이지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk321005_msg0003",
+    "talker" : "ed1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집정관이 풀어놓은 몬스터도 다 쓰러뜨렸으니까\n당분간은 괜찮을 것 같긴 한데……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk321005_msg0004",
+    "talker" : "ed1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자기 몸을 던져 가며 행동하는\n성격이라서 걱정되네……"
+  } ]
+}

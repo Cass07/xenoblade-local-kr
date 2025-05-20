@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk130405_msg0001",
+    "talker" : "rY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 희고 둥근 식량은\n주먹밥이라고 했나?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk130405_msg0002",
+    "talker" : "rY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 생각보다 괜찮았어\n또 만들어 줘"
+  }, {
+    "$id" : 3,
+    "label" : "tlk130405_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으, 응! 맡겨만 줘!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk130405_msg0004",
+    "talker" : "rY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근데 다음에는 조금 달게 만들어 줄래?\n9호 취향에는 그게 더 맞거든"
+  }, {
+    "$id" : 5,
+    "label" : "tlk130405_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "소금 대신 설탕을 쓰라는 건가……?"
+  } ]
+}

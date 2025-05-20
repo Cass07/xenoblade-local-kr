@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq340654_msg0001",
+    "talker" : "jW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티에 가는 건 오랜만이군\n그 녀석들 건강하게 지내려나……"
+  }, {
+    "$id" : 2,
+    "label" : "nq340654_msg0002",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "데이나도 살아 있었다면 돌아갔을 텐데……"
+  }, {
+    "$id" : 3,
+    "label" : "nq340654_msg0101",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희가 정신 못 차리면 어쩌자는 거야!\n등짝 쫙 펴고 서라고!"
+  }, {
+    "$id" : 4,
+    "label" : "nq340654_msg0102",
+    "talker" : "jW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗…… 네! 알겠습니다!"
+  }, {
+    "$id" : 5,
+    "label" : "nq340654_msg0103",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석은 너희의 기죽은 얼굴 같은 건\n바라지 않을 거라고"
+  }, {
+    "$id" : 6,
+    "label" : "nq340654_msg0201",
+    "talker" : "jW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왠지 미안하네……\n앞으로도 잘 부탁해"
+  }, {
+    "$id" : 7,
+    "label" : "nq340654_msg0301",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오랜만에 시티에 왔으니\n이쪽 동료들을 만나고 올게"
+  }, {
+    "$id" : 8,
+    "label" : "nq340654_msg0302",
+    "talker" : "jW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 기회가 아니면\n만나기 힘든 녀석들도 있거든"
+  } ]
+}

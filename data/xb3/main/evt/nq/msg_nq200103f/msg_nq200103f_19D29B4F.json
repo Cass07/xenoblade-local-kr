@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq200103_msg0001",
+    "talker" : "rd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "긴은 더 이상 안 갈 거야모\n마음만 보낼 뿐이야모"
+  }, {
+    "$id" : 2,
+    "label" : "nq200103_msg0002",
+    "talker" : "rd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "러브라즈베리가 철퍼덕해서\n얼룩지는 건 피하고 싶어모"
+  }, {
+    "$id" : 3,
+    "label" : "nq200103_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "위험한 거라도 있나?"
+  }, {
+    "$id" : 4,
+    "label" : "nq200103_msg0004",
+    "talker" : "rd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "슬슬 여행자의 의자를\n타탄 무당벌레에게 돌려줘야겠어모"
+  } ]
+}

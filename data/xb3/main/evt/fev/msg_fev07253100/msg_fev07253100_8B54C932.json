@@ -1,0 +1,214 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<00A0A7A5>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 녀석들은 정체가 뭐야?"
+  }, {
+    "$id" : 2,
+    "label" : "<333D1D83>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쓰러뜨리자마자 부스러지잖아?"
+  }, {
+    "$id" : 3,
+    "label" : "<F2FF6567>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "검은 안개도 사라졌어"
+  }, {
+    "$id" : 4,
+    "label" : "<E5A014E4>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기계는 아니야"
+  }, {
+    "$id" : 5,
+    "label" : "<1F221E76>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다고 해서 생물도 아니지만"
+  }, {
+    "$id" : 6,
+    "label" : "<B7106896>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미오, 왜 그래?"
+  }, {
+    "$id" : 7,
+    "label" : "<E7FE4E08>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니……"
+  }, {
+    "$id" : 8,
+    "label" : "<4D15AC59>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쓰러뜨린 순간 희미하지만 느껴졌어"
+  }, {
+    "$id" : 9,
+    "label" : "<0A2F33C8>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 적한테서 뫼비우스의 느낌이 나"
+  }, {
+    "$id" : 10,
+    "label" : "<B1E8D4FB>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 녀석한테서?"
+  }, {
+    "$id" : 11,
+    "label" : "<AFD20700>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떻게 된 거야?"
+  }, {
+    "$id" : 12,
+    "label" : "<BD7554D9>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 모르겠어……"
+  }, {
+    "$id" : 13,
+    "label" : "<2FA71994>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미오, 아까 전부 뫼비우스일지도\n모르겠다고 말했지?"
+  }, {
+    "$id" : 14,
+    "label" : "<ABE06669>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응"
+  }, {
+    "$id" : 15,
+    "label" : "<7251DB17>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노아, 그럼 네 말은 이 녀석도\n뫼비우스라는 뜻이야?"
+  }, {
+    "$id" : 16,
+    "label" : "<F68A47A3>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사람 모습이 아닌데?"
+  }, {
+    "$id" : 17,
+    "label" : "<0495E4DF>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "형태는……\n상관이 없는 걸지도 몰라"
+  }, {
+    "$id" : 18,
+    "label" : "<E232D64D>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?"
+  }, {
+    "$id" : 19,
+    "label" : "<14B65167>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떻게 된 건지는 모르겠지만\n점점 이해되는 것 같아"
+  }, {
+    "$id" : 20,
+    "label" : "<426B5E41>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뫼비우스라는 게 무엇인지……"
+  }, {
+    "$id" : 21,
+    "label" : "<5EEB2ADC>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "[ML:undisp ]"
+  } ]
+}

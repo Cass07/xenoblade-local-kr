@@ -1,0 +1,214 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012107_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐, 그쪽은 좀 어때?"
+  }, {
+    "$id" : 2,
+    "label" : "tq012107_msg0002",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당장의 위기는 모면했다고…… 봐야겠지\n그건 그렇고 참 기묘한 상황이 되어 버렸군"
+  }, {
+    "$id" : 3,
+    "label" : "tq012107_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게…… 알이 병사를 물리긴 했지만\n여전히 그 녀석의 계획대로라는 건 변함없어"
+  }, {
+    "$id" : 4,
+    "label" : "tq012107_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 병사들은 대체 뭐였을까……?\n아무리 그래도 말이 안 되잖아"
+  }, {
+    "$id" : 5,
+    "label" : "tq012107_msg0005",
+    "talker" : "ge1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하나씩 상대하면 그저 허수아비나 다름없지만\n수가 압도적으로 많은 데다 죽지도 않아서야……"
+  }, {
+    "$id" : 6,
+    "label" : "tq012107_msg0006",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아니, 죽지 않는 게 아니야\n처음부터 그들에게 생명 따윈 없었던 거야……"
+  }, {
+    "$id" : 7,
+    "label" : "tq012107_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것도 뫼비우스의 힘이라면\n지난번 싸움에서는 왜 쓰지 않았던 걸까?"
+  }, {
+    "$id" : 8,
+    "label" : "tq012107_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알이 무슨 생각이든 간에\n일방적인 소모전으로 끌고 갔으면\n우린 분명 패배했을 거야"
+  }, {
+    "$id" : 9,
+    "label" : "tq012107_msg0009",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아셰라도 그걸 알아서\n알의 요구에 응한 걸지도…… 모르지"
+  }, {
+    "$id" : 10,
+    "label" : "tq012107_msg0010",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄다? 또 평소처럼 재밌겠다 싶어서\n별생각 없이 받아들인 거 아냐?"
+  }, {
+    "$id" : 11,
+    "label" : "tq012107_msg0011",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서, 승산은 있어? 아셰……"
+  }, {
+    "$id" : 12,
+    "label" : "tq012107_msg0012",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어라?"
+  }, {
+    "$id" : 13,
+    "label" : "tq012107_msg0013",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아셰라?"
+  }, {
+    "$id" : 14,
+    "label" : "tq012107_msg0014",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음, 그 녀석은 처음부터 없었는데?"
+  }, {
+    "$id" : 15,
+    "label" : "tq012107_msg0015",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석, 또 멋대로 사라졌어!\n진짜 뭐 이런 게 다 있어!"
+  }, {
+    "$id" : 16,
+    "label" : "tq012107_msg0016",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래도 콜로니 바깥으로\n나가진 않았을 것 같은데……"
+  }, {
+    "$id" : 17,
+    "label" : "tq012107_msg0017",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기, 혹시 어디 있는지 알고……"
+  }, {
+    "$id" : 18,
+    "label" : "tq012107_msg0018",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모른다"
+  }, {
+    "$id" : 19,
+    "label" : "tq012107_msg0019",
+    "talker" : "ge1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몰라"
+  }, {
+    "$id" : 20,
+    "label" : "tq012107_msg0020",
+    "talker" : "he1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 21,
+    "label" : "tq012107_msg0021",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하아~ 귀찮아……"
+  } ]
+}

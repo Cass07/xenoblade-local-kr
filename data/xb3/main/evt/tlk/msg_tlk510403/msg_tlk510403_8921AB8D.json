@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk510403_msg0001",
+    "talker" : "rf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나랑 페르가스는 그대로\n로스트 넘버즈에 남기로 했어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk510403_msg0002",
+    "talker" : "rf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "목적은 달성했지만……\n역시 전장에 몸을 담는 게\n내 직성에 맞는 것 같아"
+  }, {
+    "$id" : 3,
+    "label" : "tlk510403_msg0003",
+    "talker" : "rf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바다에 나가서 임무를 완수하는 것이\n내게 있어 가장 즐거운 일이거든"
+  }, {
+    "$id" : 4,
+    "label" : "tlk510403_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하고 싶은 걸\n찾아서 다행이네"
+  } ]
+}

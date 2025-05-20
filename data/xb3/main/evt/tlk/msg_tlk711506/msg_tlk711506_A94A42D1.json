@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk711506_msg0001",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뫼비우스의 습격 사태를 수습해 준\n너희에게는 진심으로 감사한다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk711506_msg0002",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……가장 우려하던 사태를 여섯 씨족의\n인간이 저지르다니, 참으로 어처구니가 없군"
+  }, {
+    "$id" : 3,
+    "label" : "tlk711506_msg0003",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리드 가문은 실각을 면할 수 없을 거다\n그리고 이 일로…… 우리 여섯 씨족이\n시티 사람들의 눈에 어떻게 비칠는지……"
+  } ]
+}

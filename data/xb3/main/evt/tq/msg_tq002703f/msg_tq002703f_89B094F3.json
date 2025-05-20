@@ -1,0 +1,223 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<0821536A>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지표면에 노출된 에테르……\n에테르 채널과 비슷한 거 같으면서도\n에너지 밀도가 차원이 다르군"
+  }, {
+    "$id" : 2,
+    "label" : "<D91873BE>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 여기서도\n에테르 실린더를 사용해 에너지……\n하이 에테르를 회수할 수 있는 걸까?"
+  }, {
+    "$id" : 3,
+    "label" : "<BF9F0B78>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴지도. 시험해 볼까?"
+  }, {
+    "$id" : 4,
+    "label" : "<49D2F3A5>",
+    "talker" : "V",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗, 안 돼요모!!"
+  }, {
+    "$id" : 5,
+    "label" : "<CD0A6D3F>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그래, 이노?"
+  }, {
+    "$id" : 6,
+    "label" : "<A51D8430>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "평범한 실린더로는\n하이 에테르를 회수할 수 없어요모!"
+  }, {
+    "$id" : 7,
+    "label" : "<09C2A2DA>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "용량이 초과돼서\n실린더가 파열될 거예요모!"
+  }, {
+    "$id" : 8,
+    "label" : "<78C7EF9C>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으앗, 진짜야? 위험했네……"
+  }, {
+    "$id" : 9,
+    "label" : "<21792FB8>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금만 늦었으면\n손이 날아갔겠는데?"
+  }, {
+    "$id" : 10,
+    "label" : "<B2AAA75A>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나 원 참…… 웃을 일이 아니잖아"
+  }, {
+    "$id" : 11,
+    "label" : "<3D1072DF>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔가 다른 방법은 있어?"
+  }, {
+    "$id" : 12,
+    "label" : "<300DBA00>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연하죠모! 이걸 쓰면 돼요모!"
+  }, {
+    "$id" : 13,
+    "label" : "<B01C64D8>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하이 에테르는\n이 \"DX 에테르 실린더\"를 쓰면\n회수할 수 있어요모!"
+  }, {
+    "$id" : 14,
+    "label" : "<A2E05A85>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "디, 디럭스\n에테르 실린더……"
+  }, {
+    "$id" : 15,
+    "label" : "<2526673B>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 이름만 봐도\n에테르 실린더의 강화판 같아"
+  }, {
+    "$id" : 16,
+    "label" : "<53620805>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 너무 대충 지어 놓으니\n오히려 세련된 느낌이 들 지경인걸"
+  }, {
+    "$id" : 17,
+    "label" : "<27A208BE>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 레츠 트라이예요모!\n하이 에테르를 회수하자고요모!"
+  }, {
+    "$id" : 18,
+    "label" : "<5E9194D0>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어…… 내가 하라고?"
+  }, {
+    "$id" : 19,
+    "label" : "<50D25B92>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모처럼 온 기회니까요모!\n부디 체험해 보셨으면 하는 거예요모!"
+  }, {
+    "$id" : 20,
+    "label" : "<6BEDCA52>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……정말로 파열 안 되는 거 맞지?"
+  }, {
+    "$id" : 21,
+    "label" : "<E7F11796>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정 마세요모!\n이노가 보증하는 DX 에테르 실린더를\n믿어 주세요모!"
+  }, {
+    "$id" : 22,
+    "label" : "<7A99FDB2>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알았어\n이것도 다 경험이니 해 볼게!"
+  } ]
+}

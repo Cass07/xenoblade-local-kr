@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk110501_msg0001",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "파워 어시스트 조정은\n제대로 해 뒀냐?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk110501_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 누구 덕분에\n잠을 못 잤지만 말이야"
+  }, {
+    "$id" : 3,
+    "label" : "tlk110501_msg0003",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "평소에 잘 정비해 두라고\n인정하고 싶지는 않지만\n우리가 아그누스 녀석들보다 열세니까"
+  }, {
+    "$id" : 4,
+    "label" : "tlk110501_msg0004",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "파워 어시스트를 제대로 못 쓰면\n대등하게 싸울 수 없잖아"
+  }, {
+    "$id" : 5,
+    "label" : "tlk110501_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말 안 해도 안다니까"
+  } ]
+}

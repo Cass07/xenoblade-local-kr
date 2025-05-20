@@ -1,0 +1,538 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq311316_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오~ 제법 떠들썩한데?"
+  }, {
+    "$id" : 2,
+    "label" : "nq311316_msg0002",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희는 이쪽이야"
+  }, {
+    "$id" : 3,
+    "label" : "nq311316_msg0003",
+    "talker" : "Wn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빨리 와, 빨리!"
+  }, {
+    "$id" : 4,
+    "label" : "nq311316_msg0101",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가 봐\n난 저쪽 가서 한잔할 테니까"
+  }, {
+    "$id" : 5,
+    "label" : "nq311316_msg0102",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어"
+  }, {
+    "$id" : 6,
+    "label" : "nq311316_msg0201",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맛있어 보여요모~!"
+  }, {
+    "$id" : 7,
+    "label" : "nq311316_msg0202",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : ""
+  }, {
+    "$id" : 8,
+    "label" : "nq311316_msg0203",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : ""
+  }, {
+    "$id" : 9,
+    "label" : "nq311316_msg0204",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸 전부 만들었어?"
+  }, {
+    "$id" : 10,
+    "label" : "nq311316_msg0205",
+    "talker" : "Wn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "장관이지?"
+  }, {
+    "$id" : 11,
+    "label" : "nq311316_msg0206",
+    "talker" : "Xn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "틀림없이 요 몇 년간\n대접한 식사 중에 최고일걸!"
+  }, {
+    "$id" : 12,
+    "label" : "nq311316_msg0207",
+    "talker" : "ml1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 이 자리에 부른 건……\n주고 싶은 게 있어서야"
+  }, {
+    "$id" : 13,
+    "label" : "nq311316_msg0208",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 신성인이 받는다는……"
+  }, {
+    "$id" : 14,
+    "label" : "nq311316_msg0209",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"너희들의\" 열쇠야"
+  }, {
+    "$id" : 15,
+    "label" : "nq311316_msg0210",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐……?"
+  }, {
+    "$id" : 16,
+    "label" : "nq311316_msg0211",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "급히 준비하느라 하나밖에 없어서 미안해"
+  }, {
+    "$id" : 17,
+    "label" : "nq311316_msg0212",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 방도 제대로 준비해 놨어\n트래비스 씨나 모니카 씨도\n도와주셨고……"
+  }, {
+    "$id" : 18,
+    "label" : "nq311316_msg0213",
+    "talker" : "Wn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜 머리 아팠다고\n누구 명의로 해야 하는지도 문제였고\n어떤 방으로 해야 하는지도 정하느라……"
+  }, {
+    "$id" : 19,
+    "label" : "nq311316_msg0214",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 행사 직전까지\n준비하느라 정신없었던 거구나……"
+  }, {
+    "$id" : 20,
+    "label" : "nq311316_msg0215",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기쁘긴 한데……\n우리는 시티 사람도 아니고……"
+  }, {
+    "$id" : 21,
+    "label" : "nq311316_msg0216",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가……\n\"20세\"가 되면……"
+  }, {
+    "$id" : 22,
+    "label" : "nq311316_msg0217",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알아"
+  }, {
+    "$id" : 23,
+    "label" : "nq311316_msg0218",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니 미리 축하하는 거라고 생각하고\n받아 주면 안 될까?"
+  }, {
+    "$id" : 24,
+    "label" : "nq311316_msg0219",
+    "talker" : "ml1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희가 우리들 신성인을\n축하해 주고 싶어 한 것처럼……"
+  }, {
+    "$id" : 25,
+    "label" : "nq311316_msg0220",
+    "talker" : "ml1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 앞으로 성인이 될\n너희들을 축하해 주고 싶어"
+  }, {
+    "$id" : 26,
+    "label" : "nq311316_msg0221",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 시티 사람들 모두의 마음이야"
+  }, {
+    "$id" : 27,
+    "label" : "nq311316_msg0222",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티 사람들…… 모두의……?"
+  }, {
+    "$id" : 28,
+    "label" : "nq311316_msg1000",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : "신성인의 열쇠를 받았다"
+  }, {
+    "$id" : 29,
+    "label" : "nq311316_msg0223",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들의 성인식에는\n우리도 참가할 거니까 그렇게 알고 있어"
+  }, {
+    "$id" : 30,
+    "label" : "nq311316_msg0224",
+    "talker" : "ll1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 전쟁…… 반드시 이기자"
+  }, {
+    "$id" : 31,
+    "label" : "nq311316_msg0225",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래"
+  }, {
+    "$id" : 32,
+    "label" : "nq311316_msg0226",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이겨서 반드시 살아 돌아오자\n여기 있는 사람들 모두……!"
+  }, {
+    "$id" : 33,
+    "label" : "nq311316_msg0227",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하여간 감정 표현에 서투르다니까\n고마운 마음을 솔직하게 전하면 될 텐데"
+  }, {
+    "$id" : 34,
+    "label" : "nq311316_msg0228",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……신성인의 의사를 존중했을 뿐이다\n그 이상의 의미는 없어"
+  }, {
+    "$id" : 35,
+    "label" : "nq311316_msg0229",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 솔직히 좀 의외였습니다"
+  }, {
+    "$id" : 36,
+    "label" : "nq311316_msg0230",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신의 협력이 없었더라면\n이 행사도……"
+  }, {
+    "$id" : 37,
+    "label" : "nq311316_msg0231",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 무슨 고집불통이라도\n되는 것처럼 말하는군"
+  }, {
+    "$id" : 38,
+    "label" : "nq311316_msg0232",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아이들의 성장을……\n흡족하게 여기지 않을 자가 누가 있겠나"
+  }, {
+    "$id" : 39,
+    "label" : "nq311316_msg0233",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동감이야, 그들은 자기 방식대로\n힘차게 살아 줬으면 좋겠어"
+  }, {
+    "$id" : 40,
+    "label" : "nq311316_msg0234",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사상이나 지위와는 관계없는 소원이지"
+  }, {
+    "$id" : 41,
+    "label" : "nq311316_msg0235",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어쩐지 불편하군\n장로하고 의견이 다 맞다니"
+  }, {
+    "$id" : 42,
+    "label" : "nq311316_msg0236",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래?\n난 하나도 불편하지 않아"
+  }, {
+    "$id" : 43,
+    "label" : "nq311316_msg0237",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "개릿은 언제나\n내게 부족한 관점을 보충해 주니까……"
+  }, {
+    "$id" : 44,
+    "label" : "nq311316_msg0238",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이래 봬도 많이 의지하고 있다고"
+  }, {
+    "$id" : 45,
+    "label" : "nq311316_msg0239",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "풋내기 주제에…… 건방지게 굴기는"
+  }, {
+    "$id" : 46,
+    "label" : "nq311316_msg0240",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오? 풋내기의 의견이 아니라면\n들을 생각인가 봐?"
+  }, {
+    "$id" : 47,
+    "label" : "nq311316_msg0241",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "히라치\n너도 뭐라고 한마디 해 봐!"
+  }, {
+    "$id" : 48,
+    "label" : "nq311316_msg0242",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당주님……\n너무 많이 드신 거 아닌가요?"
+  }, {
+    "$id" : 49,
+    "label" : "nq311316_msg0243",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에잇! 건방지게 굴지 말고\n저리 가!!!"
+  }, {
+    "$id" : 50,
+    "label" : "nq311316_msg0244",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "누가 봐도\n거나하게 취하셨네요……"
+  }, {
+    "$id" : 51,
+    "label" : "nq311316_msg0245",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "면목이 없다……\n취해도 얼굴에 잘 안 드러나는 분이거든"
+  }, {
+    "$id" : 52,
+    "label" : "nq311316_msg0246",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 나랑 한번 해보자는 거야?!\n밖으로 나와!!!"
+  }, {
+    "$id" : 53,
+    "label" : "nq311316_msg0247",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전 물이나 가져오겠습니다~~!"
+  }, {
+    "$id" : 54,
+    "label" : "nq311316_msg0248",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "참 나……"
+  }, {
+    "$id" : 55,
+    "label" : "nq311316_msg0249",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뒤를 이을 사람들을 위해서\n우리도 서로 해야 할 일을 하자고"
+  }, {
+    "$id" : 56,
+    "label" : "nq311316_msg0250",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "특별 대우를 할 생각은 없다"
+  }, {
+    "$id" : 57,
+    "label" : "nq311316_msg0251",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바라던 바야"
+  } ]
+}

@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831505_msg0001",
+    "talker" : "vq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "매슈 씨! 저도……!\n저도 함께 싸우게 해 주세요!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831505_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "릭키……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831505_msg0003",
+    "talker" : "vq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……죄, 죄송해요\n역시 방해만 되겠죠?\n저한테는 우로보로스 파워도 없으니……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831505_msg0004",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……마음은 고마워\n하지만 이번엔 우리한테 맡겨 주지 않겠어?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk831505_msg0005",
+    "talker" : "vq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……네\n고집 피워서 죄송해요"
+  }, {
+    "$id" : 6,
+    "label" : "tlk831505_msg0006",
+    "talker" : "vq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적어도 매슈 씨가\n마음 놓고 싸울 수 있도록\n이곳은 제가 지킬게요……!"
+  }, {
+    "$id" : 7,
+    "label" : "tlk831505_msg0007",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 후방은 맡길게\n릭키!"
+  } ]
+}

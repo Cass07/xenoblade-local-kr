@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk320804_msg0001",
+    "talker" : "cd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나, 깨달아 버렸어……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk320804_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 뭐를?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk320804_msg0003",
+    "talker" : "cd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타우가 숲 안에 있는 이유 말이야\n집정관 때문이지?!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk320804_msg0004",
+    "talker" : "cd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "밭에 심은 작물들 발육도 안 좋아\n차라리 좀 더 비옥한 곳이었으면 좋았을 텐데"
+  }, {
+    "$id" : 5,
+    "label" : "tlk320804_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 응, 그러네"
+  } ]
+}

@@ -1,0 +1,340 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011012_msg0001",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나, 우승 축하해!"
+  }, {
+    "$id" : 2,
+    "label" : "tq011012_msg0002",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모~! 엣헴이에요모!\n으쓱으쓱이에요모!"
+  }, {
+    "$id" : 3,
+    "label" : "tq011012_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미야비도 수고했어"
+  }, {
+    "$id" : 4,
+    "label" : "tq011012_msg0004",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 여러모로 도와줘서 고마워"
+  }, {
+    "$id" : 5,
+    "label" : "tq011012_msg0005",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우승하진 못했지만\n마나나가 제안해 준 덕분에\n내 요리를 모두에게 대접할 수 있었어……"
+  }, {
+    "$id" : 6,
+    "label" : "tq011012_msg0006",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까…… 고마워, 마나나"
+  }, {
+    "$id" : 7,
+    "label" : "tq011012_msg0007",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "천만에요모!"
+  }, {
+    "$id" : 8,
+    "label" : "tq011012_msg0008",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미야비 씨와 다른 분들의 요리까지 먹으면\n모두가 훨~씬 행복해지는걸요모!"
+  }, {
+    "$id" : 9,
+    "label" : "tq011012_msg0009",
+    "talker" : "yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니시키, 분해 보이네"
+  }, {
+    "$id" : 10,
+    "label" : "tq011012_msg0010",
+    "talker" : "xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시끄러워"
+  }, {
+    "$id" : 11,
+    "label" : "tq011012_msg0011",
+    "talker" : "wl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다음은 복수전이네!\n우리가 또 도와줄게!"
+  }, {
+    "$id" : 12,
+    "label" : "tq011012_msg0012",
+    "talker" : "xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 13,
+    "label" : "tq011012_msg0013",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모니카레는 어땠어, 곤도?"
+  }, {
+    "$id" : 14,
+    "label" : "tq011012_msg0014",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야, 평소랑 똑같다고\n그보다 그 이름 이제 좀\n어떻게 안 되겠어?"
+  }, {
+    "$id" : 15,
+    "label" : "tq011012_msg0015",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐 어때서 그래?\n너는 늘 그렇게 말하지만\n나는 마음에 든다고"
+  }, {
+    "$id" : 16,
+    "label" : "tq011012_msg0016",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네 의견은 안 물었거든!\n내가 부끄럽다고!"
+  }, {
+    "$id" : 17,
+    "label" : "tq011012_msg0017",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……모니카레 더 있거든?\n먹을래?"
+  }, {
+    "$id" : 18,
+    "label" : "tq011012_msg0018",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 말 좀……!\n칫, 당연히 먹어야지!"
+  }, {
+    "$id" : 19,
+    "label" : "tq011012_msg0019",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콘테스트 참 즐거웠지?\n마나나"
+  }, {
+    "$id" : 20,
+    "label" : "tq011012_msg0020",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아요모!\n그리고 공부도 많이 됐어요모"
+  }, {
+    "$id" : 21,
+    "label" : "tq011012_msg0021",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나, 좀 더 여러 레시피에\n도전해야겠어요모!"
+  }, {
+    "$id" : 22,
+    "label" : "tq011012_msg0022",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 23,
+    "label" : "tq011012_msg0023",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 나는 마나나에게\n요리를 배워도 될까?"
+  }, {
+    "$id" : 24,
+    "label" : "tq011012_msg0024",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모? 미야비 씨는 지금도 충분히\n요리를 잘하시는데요모?"
+  }, {
+    "$id" : 25,
+    "label" : "tq011012_msg0025",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후, 그렇게 말해 주니까\n정말 기뻐……"
+  }, {
+    "$id" : 26,
+    "label" : "tq011012_msg0026",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 정말 배울 게 많아서 그러니\n마나나가 가르쳐 줬으면 해"
+  }, {
+    "$id" : 27,
+    "label" : "tq011012_msg0027",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모!\n그 말은 혹시, 미야비 씨……"
+  }, {
+    "$id" : 28,
+    "label" : "tq011012_msg0028",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나의 제자가 되고 싶다는 거예요모?"
+  }, {
+    "$id" : 29,
+    "label" : "tq011012_msg0029",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응! ……그래도 될까?"
+  }, {
+    "$id" : 30,
+    "label" : "tq011012_msg0030",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론이에요모!\n기꺼이 받아들일게요모!"
+  }, {
+    "$id" : 31,
+    "label" : "tq011012_msg0031",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다행이다……!\n고마워, 마나나"
+  }, {
+    "$id" : 32,
+    "label" : "tq011012_msg0032",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래요모! 이번 기회에……"
+  }, {
+    "$id" : 33,
+    "label" : "tq011012_msg0033",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모니카 씨와 니시키 씨의 요리도\n가르쳐 달라고 하러 가요모!"
+  }, {
+    "$id" : 34,
+    "label" : "tq011012_msg0034",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "와……! 응!"
+  }, {
+    "$id" : 35,
+    "label" : "tq011012_msg0035",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미야비"
+  } ]
+}

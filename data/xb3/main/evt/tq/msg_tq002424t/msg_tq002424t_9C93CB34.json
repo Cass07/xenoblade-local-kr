@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002424_msg0001",
+    "talker" : "nY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "7호! 다행이다……\n정말 살아 있었구나……!"
+  }, {
+    "$id" : 2,
+    "label" : "tq002424_msg0002",
+    "talker" : "nY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "8호와 10호도 계속 걱정했어\n지금은 둘 다 임무 중이지만\n돌아오면 분명 기뻐할 거야!"
+  }, {
+    "$id" : 3,
+    "label" : "tq002424_msg0003",
+    "talker" : "nY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 3호들은 앞으로 어떻게 되는 걸까?\n다음 임무에 대해 아무것도 듣지 못했는데……"
+  } ]
+}

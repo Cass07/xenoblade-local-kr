@@ -1,0 +1,619 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011726_msg0001",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……다들 괜찮나?"
+  }, {
+    "$id" : 2,
+    "label" : "tq011726_msg0002",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우리는 괜찮아"
+  }, {
+    "$id" : 3,
+    "label" : "tq011726_msg0003",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아주 난장판을 만들어 놨네……"
+  }, {
+    "$id" : 4,
+    "label" : "tq011726_msg0004",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "미안, 지키지 못했어"
+  }, {
+    "$id" : 5,
+    "label" : "tq011726_msg0005",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "카이트 탓이 아니야"
+  }, {
+    "$id" : 6,
+    "label" : "tq011726_msg0006",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "게다가 가장 먼저 달려온 건 너잖아"
+  }, {
+    "$id" : 7,
+    "label" : "tq011726_msg0007a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "밭을 지켜보고 있었지?"
+  }, {
+    "$id" : 8,
+    "label" : "tq011726_msg0007b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우리가 없을 때도 계속"
+  }, {
+    "$id" : 9,
+    "label" : "tq011726_msg0008",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭐라도 하고 싶었어"
+  }, {
+    "$id" : 10,
+    "label" : "tq011726_msg0009",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그런데 전부 망쳐 버렸지……"
+  }, {
+    "$id" : 11,
+    "label" : "tq011726_msg0010",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그렇지는 않아요"
+  }, {
+    "$id" : 12,
+    "label" : "tq011726_msg0011",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "넌…… 여기엔 왜?"
+  }, {
+    "$id" : 13,
+    "label" : "tq011726_msg0012",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "실례하겠습니다"
+  }, {
+    "$id" : 14,
+    "label" : "tq011726_msg0013",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]음……!"
+  }, {
+    "$id" : 15,
+    "label" : "tq011726_msg0014",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나도 도울게!"
+  }, {
+    "$id" : 16,
+    "label" : "tq011726_msg0015",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "하나, 둘!"
+  }, {
+    "$id" : 17,
+    "label" : "tq011726_msg0016",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……힘을 너무 많이 줬나?"
+  }, {
+    "$id" : 18,
+    "label" : "tq011726_msg0017",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "훌륭해요!"
+  }, {
+    "$id" : 19,
+    "label" : "tq011726_msg0018",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그건……"
+  }, {
+    "$id" : 20,
+    "label" : "tq011726_msg0019",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "미처 말씀 못 드렸습니다만\n쫀득쫀득 감자의 장점은……"
+  }, {
+    "$id" : 21,
+    "label" : "tq011726_msg0020",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "밭을 저장고 대신\n사용할 수 있다는 점이에요"
+  }, {
+    "$id" : 22,
+    "label" : "tq011726_msg0021",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "『기르기 쉽다』며 추천할 만했군"
+  }, {
+    "$id" : 23,
+    "label" : "tq011726_msg0022",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "놀라울 따름이야……"
+  }, {
+    "$id" : 24,
+    "label" : "tq011726_msg0023",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "의심해서 미안"
+  }, {
+    "$id" : 25,
+    "label" : "tq011726_msg0024",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그때 널 믿지 못한 이유는\n네가 아그누스여서가 아니야"
+  }, {
+    "$id" : 26,
+    "label" : "tq011726_msg0025",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "내가 약했기 때문이야!"
+  }, {
+    "$id" : 27,
+    "label" : "tq011726_msg0026",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……"
+  }, {
+    "$id" : 28,
+    "label" : "tq011726_msg0027",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이제 와서 용서해 줄 거라고는\n생각 안 하지만……"
+  }, {
+    "$id" : 29,
+    "label" : "tq011726_msg0028",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "네게 상처 준 걸 사과하고 싶어"
+  }, {
+    "$id" : 30,
+    "label" : "tq011726_msg0029",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "고개를 드세요"
+  }, {
+    "$id" : 31,
+    "label" : "tq011726_msg0030a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이대로는 안 되겠다는 마음에"
+  }, {
+    "$id" : 32,
+    "label" : "tq011726_msg0030b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "무언가를 바꾸려 발버둥 치고 계신다면……"
+  }, {
+    "$id" : 33,
+    "label" : "tq011726_msg0031",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "당신은 결코 약한 분이 아니세요"
+  }, {
+    "$id" : 34,
+    "label" : "tq011726_msg0032",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "다른 분께 들은 말이긴 하지만요"
+  }, {
+    "$id" : 35,
+    "label" : "tq011726_msg0033",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아니야……"
+  }, {
+    "$id" : 36,
+    "label" : "tq011726_msg0034",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "네가 날 몰라서 하는 소리야……"
+  }, {
+    "$id" : 37,
+    "label" : "tq011726_msg0035",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "무언가를 바꾸려면 용기가 필요하지"
+  }, {
+    "$id" : 38,
+    "label" : "tq011726_msg0036a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "카이트, 넌 강해"
+  }, {
+    "$id" : 39,
+    "label" : "tq011726_msg0036b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "인정하지 못하는 건 우리가 아니다"
+  }, {
+    "$id" : 40,
+    "label" : "tq011726_msg0037",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "카이트, 너 자신이지"
+  }, {
+    "$id" : 41,
+    "label" : "tq011726_msg0038a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그런 말은 또……"
+  }, {
+    "$id" : 42,
+    "label" : "tq011726_msg0038b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "처음 듣네"
+  }, {
+    "$id" : 43,
+    "label" : "tq011726_msg0039",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "처음 말했으니까"
+  }, {
+    "$id" : 44,
+    "label" : "tq011726_msg0040",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……나도 내 생각을 조금 더\n잘 전하기 위해 노력하도록 하지"
+  }, {
+    "$id" : 45,
+    "label" : "tq011726_msg0041",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그러니 앞으로도 잘 부탁한다"
+  }, {
+    "$id" : 46,
+    "label" : "tq011726_msg0042",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "제온 씨……"
+  }, {
+    "$id" : 47,
+    "label" : "tq011726_msg0043a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "실은……"
+  }, {
+    "$id" : 48,
+    "label" : "tq011726_msg0043b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "당신의 도움이 필요한\n『부탁하고 싶은 일』을 생각해 봤는데요"
+  }, {
+    "$id" : 49,
+    "label" : "tq011726_msg0044",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래, 뭐든 말해"
+  }, {
+    "$id" : 50,
+    "label" : "tq011726_msg0045",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이렇게 가끔 콜로니 9을\n찾아와도 될까요?"
+  }, {
+    "$id" : 51,
+    "label" : "tq011726_msg0046a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……?"
+  }, {
+    "$id" : 52,
+    "label" : "tq011726_msg0046b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그거야 상관없긴 한데……"
+  }, {
+    "$id" : 53,
+    "label" : "tq011726_msg0047",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "지금 당장 일을\n부탁하기보다는……"
+  }, {
+    "$id" : 54,
+    "label" : "tq011726_msg0048",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "도움이 필요할 때\n서로를 돕는 관계가 되고 싶어서요"
+  }, {
+    "$id" : 55,
+    "label" : "tq011726_msg0049",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……어떠신가요?"
+  }, {
+    "$id" : 56,
+    "label" : "tq011726_msg0050",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그런 뜻이었군"
+  }, {
+    "$id" : 57,
+    "label" : "tq011726_msg0051a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "언제든지 오도록 해"
+  }, {
+    "$id" : 58,
+    "label" : "tq011726_msg0051b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "환영하지"
+  }, {
+    "$id" : 59,
+    "label" : "tq011726_msg0052",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……!"
+  }, {
+    "$id" : 60,
+    "label" : "tq011726_msg0053a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "저도!"
+  }, {
+    "$id" : 61,
+    "label" : "tq011726_msg0053b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "저도 환영합니다!"
+  }, {
+    "$id" : 62,
+    "label" : "tq011726_msg0054",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "감사합니다"
+  }, {
+    "$id" : 63,
+    "label" : "tq011726_msg0055",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "카이트 녀석, 왜 저래?"
+  }, {
+    "$id" : 64,
+    "label" : "tq011726_msg0056",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그것보다 나는\n이 밭의 사후 처리가 걱정되는데……"
+  }, {
+    "$id" : 65,
+    "label" : "tq011726_msg0057",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "조금 이따가\n내가 이야기해 볼게"
+  }, {
+    "$id" : 66,
+    "label" : "tq011726_msg0058",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "지금은 다들 너무 즐거워 보이니까"
+  } ]
+}

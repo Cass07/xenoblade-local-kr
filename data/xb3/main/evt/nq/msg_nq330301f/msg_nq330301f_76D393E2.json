@@ -1,0 +1,358 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330301_msg0001",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어라?\n여러분, 어쩐 일이세요~?"
+  }, {
+    "$id" : 2,
+    "label" : "nq330301_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 우리가 할 말이야……"
+  }, {
+    "$id" : 3,
+    "label" : "nq330301_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아까 그 통신으로 도움을\n요청하는 줄 알고 왔는데……"
+  }, {
+    "$id" : 4,
+    "label" : "nq330301_msg0004",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아……! 요청드린 건 맞는데\n심각한 일은 아니에요~"
+  }, {
+    "$id" : 5,
+    "label" : "nq330301_msg0005",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사실은……"
+  }, {
+    "$id" : 6,
+    "label" : "nq330301_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우왓?!"
+  }, {
+    "$id" : 7,
+    "label" : "nq330301_msg0007",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 녀석, 어디서 나온 거야……?!"
+  }, {
+    "$id" : 8,
+    "label" : "nq330301_msg0008",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안, 미안~~!"
+  }, {
+    "$id" : 9,
+    "label" : "nq330301_msg0009",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 애는 살짝 개구쟁이거든!\n장난치려고 그런 것 같아……"
+  }, {
+    "$id" : 10,
+    "label" : "nq330301_msg0010",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "찾았구나~!\n다행이다~"
+  }, {
+    "$id" : 11,
+    "label" : "nq330301_msg0011",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……무슨 상황인지 모르겠군……"
+  }, {
+    "$id" : 12,
+    "label" : "nq330301_msg0012",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사실은…… 아르마를\n키워 보자는 얘기가 나와서요~"
+  }, {
+    "$id" : 13,
+    "label" : "nq330301_msg0013",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아르마 우유는 맛있는 데다가\n이 주변엔 아르마가 많잖아!"
+  }, {
+    "$id" : 14,
+    "label" : "nq330301_msg0014",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……여기까지 생각한 건 좋았는데"
+  }, {
+    "$id" : 15,
+    "label" : "nq330301_msg0015",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "막상 해 보니까 난리도 아니야~!\n애들이 이리저리 도망치거든~"
+  }, {
+    "$id" : 16,
+    "label" : "nq330301_msg0016",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 전에도 어느새 사라졌길래~\n당황한 마음에 여러분에게 연락했어요……"
+  }, {
+    "$id" : 17,
+    "label" : "nq330301_msg0017",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇게 된 거였나"
+  }, {
+    "$id" : 18,
+    "label" : "nq330301_msg0018",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "놀라게 해서 죄송해요~"
+  }, {
+    "$id" : 19,
+    "label" : "nq330301_msg0019",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "큰일이 아니라서 다행이다……"
+  }, {
+    "$id" : 20,
+    "label" : "nq330301_msg0020",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 애가 마지막이야모~"
+  }, {
+    "$id" : 21,
+    "label" : "nq330301_msg0021",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "구구, 도와줘서 고마워~!"
+  }, {
+    "$id" : 22,
+    "label" : "nq330301_msg0022",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "구구도 도와주는 중이야?"
+  }, {
+    "$id" : 23,
+    "label" : "nq330301_msg0023",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꽃밭에 들어와 버렸거든모\n꽃을 먹어 버리면 안 돼모~"
+  }, {
+    "$id" : 24,
+    "label" : "nq330301_msg0024",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 뭔가 대책을 세워야겠어\n매번 쫓아다니는 것도 일이고"
+  }, {
+    "$id" : 25,
+    "label" : "nq330301_msg0025",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "울타리를 치는 건 어때모?\n보호받는 느낌이 들어서\n안정감을 느낀다고 들었어모"
+  }, {
+    "$id" : 26,
+    "label" : "nq330301_msg0026",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나, 울타리라~!"
+  }, {
+    "$id" : 27,
+    "label" : "nq330301_msg0027",
+    "talker" : "Zg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니코한테 말하면 자재를 나눠 주려나~?"
+  }, {
+    "$id" : 28,
+    "label" : "nq330301_msg0028",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 거야!\n나중에 타로랑 애들도 불러오자!"
+  }, {
+    "$id" : 29,
+    "label" : "nq330301_msg0029",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나 혼자선 다 못 옮기니까\n츠무기는 이 애들을 부탁해!"
+  }, {
+    "$id" : 30,
+    "label" : "nq330301_msg0030",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "박식하구나\n아르마를 잘 알아?"
+  }, {
+    "$id" : 31,
+    "label" : "nq330301_msg0031",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떤 책에서 본 적 있는 것 같아모\n하지만 어디서 봤는진 잊어버렸어모……"
+  }, {
+    "$id" : 32,
+    "label" : "nq330301_msg0032",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "교본 같은 책이 있다는 건가?"
+  }, {
+    "$id" : 33,
+    "label" : "nq330301_msg0033",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……유니한테 짐작 가는 게 없다면\n적어도 케베스의 교본은 아닌가 보군"
+  }, {
+    "$id" : 34,
+    "label" : "nq330301_msg0034",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇다는 말은\n아그누스의 교본도 아니라는 뜻이네"
+  }, {
+    "$id" : 35,
+    "label" : "nq330301_msg0035",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 아는 한 그래\n아르마가 유용하다는 관점 자체도 처음 접했어"
+  }, {
+    "$id" : 36,
+    "label" : "nq330301_msg0036",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 가능성이 있다면……\n시티일까?"
+  }, {
+    "$id" : 37,
+    "label" : "nq330301_msg0037",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "찾아보자"
+  } ]
+}

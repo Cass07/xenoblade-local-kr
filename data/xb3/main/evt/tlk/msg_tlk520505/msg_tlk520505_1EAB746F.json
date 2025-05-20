@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520505_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상담회로 바쁜가 보네……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520505_msg0002",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘은 시작일 뿐이야\n타로도 최선을 다하고 있고\n최근에는 미하루도 도와주고 있지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520505_msg0003",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미하루도 참 많이 변했어\n좋고 나쁘고를 떠나서 주변 사람들한테\n휩쓸려 다니는 점이 늘 걱정이었는데……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520505_msg0004",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어느샌가 극복한 거 같아\n후후…… 나도 분발해야겠는걸"
+  } ]
+}

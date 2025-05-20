@@ -1,0 +1,286 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012603_msg0001",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 녀석들은 대체 뭐였지?"
+  }, {
+    "$id" : 2,
+    "label" : "tq012603_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보아하니 로스트 넘버즈 같은데"
+  }, {
+    "$id" : 3,
+    "label" : "tq012603_msg0003",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래"
+  }, {
+    "$id" : 4,
+    "label" : "tq012603_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼…… 아군 아니야?"
+  }, {
+    "$id" : 5,
+    "label" : "tq012603_msg0005",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마 나를 여기에 묶어 두려고\n떨궈 둔 병사들이겠지"
+  }, {
+    "$id" : 6,
+    "label" : "tq012603_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "굳이 널 여기에 묶어 둬서 뭐 해?\n설마 대립하는 녀석들 짓이야?"
+  }, {
+    "$id" : 7,
+    "label" : "tq012603_msg0007",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 8,
+    "label" : "tq012603_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 이 병사들은……"
+  }, {
+    "$id" : 9,
+    "label" : "tq012603_msg0009",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모니카 파벌에 속한\n녀석들임은 틀림없다만"
+  }, {
+    "$id" : 10,
+    "label" : "tq012603_msg0010",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그중에서도 강경파인\n\"사건을 일으키려는\" 녀석들이지"
+  }, {
+    "$id" : 11,
+    "label" : "tq012603_msg0011",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분쟁을 주동한다는 말이야?"
+  }, {
+    "$id" : 12,
+    "label" : "tq012603_msg0012",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "녀석들의 최종 목적은 뫼비우스 토벌이지만……\n목적을 위해 수단을 가리지 않는 녀석들이지"
+  }, {
+    "$id" : 13,
+    "label" : "tq012603_msg0013",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쓸 만한 패가 모였고\n우로보로스도 있으니……"
+  }, {
+    "$id" : 14,
+    "label" : "tq012603_msg0014",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 지휘관인 모니카의\n지위를 뺏기만 한다면\n시티 전체도 움직일 수 있지"
+  }, {
+    "$id" : 15,
+    "label" : "tq012603_msg0015",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 게 가능해?"
+  }, {
+    "$id" : 16,
+    "label" : "tq012603_msg0016",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방법이 없지는 않아\n레브니스를 빼앗아서 모니카를 추종하는\n무리의 전력을 줄이면 어떻게든 되겠지"
+  }, {
+    "$id" : 17,
+    "label" : "tq012603_msg0017",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떻게 행동할 생각인지는 모르겠지만\n녀석들은 적을 공격할 여건이\n갖춰졌다고 판단한 모양이군"
+  }, {
+    "$id" : 18,
+    "label" : "tq012603_msg0018",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그게 널 여기에 묶어 두는 거랑\n무슨 관련이 있다는 거야?"
+  }, {
+    "$id" : 19,
+    "label" : "tq012603_msg0019",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 시티에서 가장 자유분방하지\n그렇기에 예측하기 힘들다고 생각했을 테고"
+  }, {
+    "$id" : 20,
+    "label" : "tq012603_msg0020",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "평소에는 시티에 없을 그레이를\n제압하려면 특정 행선지로 향하게 해서\n행동을 제어하는 게 좋다 이건가……"
+  }, {
+    "$id" : 21,
+    "label" : "tq012603_msg0021",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아! 그런 거구나"
+  }, {
+    "$id" : 22,
+    "label" : "tq012603_msg0022",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래"
+  }, {
+    "$id" : 23,
+    "label" : "tq012603_msg0023",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아……? 그런데\n그럼 이상하지 않아?"
+  }, {
+    "$id" : 24,
+    "label" : "tq012603_msg0024",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜냐면 여기로 보낸 건\n로자나잖아?"
+  }, {
+    "$id" : 25,
+    "label" : "tq012603_msg0025",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "듣고 보니 그러네\n매복했다는 건\n어디서 정보가 샜다는 건가?"
+  }, {
+    "$id" : 26,
+    "label" : "tq012603_msg0026",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……앞으로 어떡하지?"
+  }, {
+    "$id" : 27,
+    "label" : "tq012603_msg0027",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적대한다면 제거한다\n그뿐이야"
+  }, {
+    "$id" : 28,
+    "label" : "tq012603_msg0028",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로자나 씨는……"
+  }, {
+    "$id" : 29,
+    "label" : "tq012603_msg0029",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티로 돌아간다\n따라와"
+  } ]
+}

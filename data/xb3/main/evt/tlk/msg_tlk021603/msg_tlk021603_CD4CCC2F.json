@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk021603_msg0001",
+    "talker" : "mV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니의 활기 넘치는 소란스러움도 좋지만\n가끔은 정적에 휩싸인 전적지에서\n감상에 젖는 것도 나쁘진 않지"
+  }, {
+    "$id" : 2,
+    "label" : "tlk021603_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갑자기 뭔 소리야?\n뭐 잘못 먹었어?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk021603_msg0003",
+    "talker" : "mV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "누구나 감정의 기복쯤은 있어\n내면에 결함이 있는 사람은 더욱 그렇지"
+  }, {
+    "$id" : 4,
+    "label" : "tlk021603_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 말이 맞네\n완벽하게 이해했어"
+  }, {
+    "$id" : 5,
+    "label" : "tlk021603_msg0005",
+    "talker" : "mV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하, 그거 다행인걸"
+  } ]
+}

@@ -1,0 +1,196 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq111301_msg0001",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……봐, 발자국이 있어"
+  }, {
+    "$id" : 2,
+    "label" : "nq111301_msg0002",
+    "talker" : "fj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 그야 해변가니까\n발자국 정도는 있겠지"
+  }, {
+    "$id" : 3,
+    "label" : "nq111301_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 이건 인간의 발자국이 아니야\n아마도 이건……"
+  }, {
+    "$id" : 4,
+    "label" : "nq111301_msg0101",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "발자국의 정체는……"
+  }, {
+    "$id" : 5,
+    "label" : "nq111301_msg0102",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "하킨"
+  }, {
+    "$id" : 6,
+    "label" : "nq111301_msg0103",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "아구아"
+  }, {
+    "$id" : 7,
+    "label" : "nq111301_msg0104",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "부동의 곤잘레스"
+  }, {
+    "$id" : 8,
+    "label" : "nq111301_msg0201",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혹시 하킨일까?"
+  }, {
+    "$id" : 9,
+    "label" : "nq111301_msg0202",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 아닐 거야\n하킨의 다리는 물갈퀴 모양이지만\n이 녀석의 발자국은 그렇지 않아"
+  }, {
+    "$id" : 10,
+    "label" : "nq111301_msg0301",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곤잘레스라도 지나간 거 아냐?"
+  }, {
+    "$id" : 11,
+    "label" : "nq111301_msg0302",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄…… 곤잘레스라면\n이렇게 발자국만 남기진 않았을 거야"
+  }, {
+    "$id" : 12,
+    "label" : "nq111301_msg0401",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아구아 아닐까?"
+  }, {
+    "$id" : 13,
+    "label" : "nq111301_msg0402",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 나도 그렇게 생각해\n이 주변은 아구아의 세력권이라\n가능성은 충분하지"
+  }, {
+    "$id" : 14,
+    "label" : "nq111301_msg0403",
+    "talker" : "fj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어…… 그러니까 그게 무슨 얘기야……?"
+  }, {
+    "$id" : 15,
+    "label" : "nq111301_msg0404",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생각해 봐. 짐은 사라졌고\n현장에는 정체 모를 발자국만 있잖아\n그렇다는 건……"
+  }, {
+    "$id" : 16,
+    "label" : "nq111301_msg0405",
+    "talker" : "ee1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗……! 알았슴다모!\n이 발자국을 남긴 녀석들이\n하마하마랑 드랭크의 짐을 훔친 검다모!"
+  }, {
+    "$id" : 17,
+    "label" : "nq111301_msg0406",
+    "talker" : "fj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 뭐라고~~~?!"
+  }, {
+    "$id" : 18,
+    "label" : "nq111301_msg0407",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희 짐을 발견하기 전까진\n아직 가정일 뿐이야"
+  }, {
+    "$id" : 19,
+    "label" : "nq111301_msg0408",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 발자국을 쫓아가서 확인해 보자"
+  } ]
+}

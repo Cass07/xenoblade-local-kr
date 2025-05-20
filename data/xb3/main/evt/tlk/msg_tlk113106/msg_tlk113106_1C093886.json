@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk113106_msg0001",
+    "talker" : "zX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장이 우리를 한 명 한 명씩\n신경 써 주기 시작했어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk113106_msg0002",
+    "talker" : "zX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서인지 콜로니나\n나를 위해서 그런 것도 있지만"
+  }, {
+    "$id" : 3,
+    "label" : "tlk113106_msg0003",
+    "talker" : "zX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장을 위해\n노력하고 싶다는 마음도\n점점 커지는 것 같아"
+  } ]
+}

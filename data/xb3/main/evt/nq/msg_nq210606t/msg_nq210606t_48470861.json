@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq210606_msg0001",
+    "talker" : "tc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안해\n너희한테도 폐를 끼쳤네"
+  }, {
+    "$id" : 2,
+    "label" : "nq210606_msg0002",
+    "talker" : "tc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대장님께서 안 오셨다면\n그대로 회수당했을 거야"
+  }, {
+    "$id" : 3,
+    "label" : "nq210606_msg0003",
+    "talker" : "tc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신청은 제때제때 해 둬야겠어……"
+  }, {
+    "$id" : 4,
+    "label" : "nq210606_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니에 도움이 되는 일이어도\n마음대로 안 되는 거구나"
+  }, {
+    "$id" : 5,
+    "label" : "nq210606_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 람다는 규율을 통해\n통제가 잘되는 부분이 강점이었거든"
+  }, {
+    "$id" : 6,
+    "label" : "nq210606_msg0006",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러다 어느샌가\n아까처럼 남들 눈치나 보면서\n정해진 일만 하게 됐어"
+  }, {
+    "$id" : 7,
+    "label" : "nq210606_msg0007",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 신청이니 허가니\n그런 과정이 있으면 나중에\n책임의 소재를 따질 땐 편하겠네"
+  }, {
+    "$id" : 8,
+    "label" : "nq210606_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전투에서 통솔이 잘되는 점만큼은\n실버에도 뒤지지 않을 거야"
+  }, {
+    "$id" : 9,
+    "label" : "nq210606_msg0009",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 온갖 전투에서 해방된 지금은\n그 규율이 람다의 발목을 잡아서\n부대 간에 혼란을 일으키고 있는 셈이지……"
+  }, {
+    "$id" : 10,
+    "label" : "nq210606_msg0010",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……콜로니 람다는 지금\n바뀌어야 할지, 이대로 있을지\n그 기로에 서 있는 걸지도 몰라……"
+  } ]
+}

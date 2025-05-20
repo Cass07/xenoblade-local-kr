@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<FC802716>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조리장을 마음대로 써도 된다고는 들었는데……"
+  }, {
+    "$id" : 2,
+    "label" : "<86144CDB>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리한테는 별로 필요 없는 장소네"
+  }, {
+    "$id" : 3,
+    "label" : "<B850A260>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐라도 만들어 줄까?"
+  }, {
+    "$id" : 4,
+    "label" : "<ABD2B8E0>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신, 요리가 취미였어?"
+  }, {
+    "$id" : 5,
+    "label" : "<3FC3A235>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 예전엔 좀 했지\n요즘 들어서는 직접 만들 생각을\n잘 안 하긴 했는데……"
+  }, {
+    "$id" : 6,
+    "label" : "<E3C2D006>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬구나\n근데 뭘 만들어 주려고?"
+  }, {
+    "$id" : 7,
+    "label" : "<11C65E9A>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음……"
+  }, {
+    "$id" : 8,
+    "label" : "<76071F38>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "활어 콜로니 파차라면\n이 주변 재료로 만들 수 있나……?"
+  }, {
+    "$id" : 9,
+    "label" : "<9F3ABD9B>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시간 남으면 식재료 좀 모아 줘\n기억을 더듬어 가며 만들어 볼게"
+  }, {
+    "$id" : 10,
+    "label" : "<E735EBB0>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮게 나오면\n캠프에서 할 일이 늘지도 모르겠군"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk110206_msg0001",
+    "talker" : "YX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "울하고 콜로니 뮤에 간 뒤로\n전보다 울을 더 잘 알게 된 것 같아"
+  }, {
+    "$id" : 2,
+    "label" : "tlk110206_msg0002",
+    "talker" : "YX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "울이 식물에 박식한 것도 놀라웠지만\n누굴 가르치는 데도 재능이 있더라니까"
+  }, {
+    "$id" : 3,
+    "label" : "tlk110206_msg0003",
+    "talker" : "YX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "울은 감자 경작법을 전파하는 데\n도움이 될 거야"
+  }, {
+    "$id" : 4,
+    "label" : "tlk110206_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 앞으로도 호위는 필요하겠는걸"
+  }, {
+    "$id" : 5,
+    "label" : "tlk110206_msg0005",
+    "talker" : "YX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 누구를 상대하든\n내가 끝까지 지킬 거야"
+  } ]
+}

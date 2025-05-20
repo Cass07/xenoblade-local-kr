@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk610203_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희도 곤도를 따르느라\n고생이 많겠다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk610203_msg0002",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 임무는 아가씨를 지키는 일이야\n……무슨 일이 있어도 말이지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk610203_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 일이 있어도……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk610203_msg0004",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 목숨을 내놓아야 아가씨께서\n살아남으신다면 기꺼이 내놓을 수 있어!"
+  } ]
+}

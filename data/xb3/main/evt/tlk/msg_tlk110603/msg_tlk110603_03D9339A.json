@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk110603_msg0001",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "윽…… 몸이 무거워……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk110603_msg0002",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "밭을 일구는 게\n생각보다 체력을 많이 쓰네……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk110603_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮냐? 내가 좀 도와줘?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk110603_msg0004",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 돕겠다고 나선 건 나야\n밭 담당으로서 모범을 보여야지……!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk110603_msg0005",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그건 그렇고, 제온 녀석은\n이걸 지금까지 혼자 했다고?\n해 보니까 엄청 힘든데……"
+  } ]
+}

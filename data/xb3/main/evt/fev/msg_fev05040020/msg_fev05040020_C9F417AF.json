@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<067E7B80>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래서?\n이제부터 어떻게 시티로 갈 거야?"
+  }, {
+    "$id" : 2,
+    "label" : "<CBBE29AD>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "막다른 길……이지 않아?"
+  }, {
+    "$id" : 3,
+    "label" : "<C95AB25C>",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니"
+  }, {
+    "$id" : 4,
+    "label" : "<A7629C5E>",
+    "talker" : "9",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모?!"
+  }, {
+    "$id" : 5,
+    "label" : "<C202A73D>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗, 문이……"
+  }, {
+    "$id" : 6,
+    "label" : "<81779FC8>",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금부터 대검의 안으로 들어갈 거야\n시티는 그 안쪽에 있지"
+  }, {
+    "$id" : 7,
+    "label" : "<384EC1F2>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훌륭한 위장술이군"
+  }, {
+    "$id" : 8,
+    "label" : "<ABD8CE16>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬구나, 그래서\n에셀이 대검의 대지에는\n아무것도 없다고 했구나……"
+  }, {
+    "$id" : 9,
+    "label" : "<F1A01296>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸 찾지 못했던 거였어"
+  }, {
+    "$id" : 10,
+    "label" : "<F620513D>",
+    "talker" : "hW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들, 슬슬 가지?"
+  } ]
+}

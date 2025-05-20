@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk221402_msg0001",
+    "talker" : "ua1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 람다와는\n교전이 몇 차례 있었는데……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk221402_msg0002",
+    "talker" : "ua1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자율형 레브니스가 많아서\n굉장히 해치우기 어려운 상대였지\n지형적으로 봐도 우리가 공격하기 불리했고"
+  }, {
+    "$id" : 3,
+    "label" : "tlk221402_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬겠지"
+  }, {
+    "$id" : 4,
+    "label" : "tlk221402_msg0004",
+    "talker" : "ua1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어째 기분 좋아 보인다?"
+  } ]
+}

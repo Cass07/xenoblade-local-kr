@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk832201_msg0001",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이상해모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk832201_msg0002",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이상하다니, 뭐가?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk832201_msg0003",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "매일 좋아하는 거 하면서\n유유자적 보내고 있는데……\n뭔가 부족해모……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk832201_msg0004",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 그건 아마\n네가 노동의 기쁨을 깨달아 버린 탓일걸?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk832201_msg0005",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모못?!\n노동의 기쁨……?!"
+  }, {
+    "$id" : 6,
+    "label" : "tlk832201_msg0006",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서, 설마……\n엄마는 이렇게 될 걸 알고서\n브로로를……?!"
+  }, {
+    "$id" : 7,
+    "label" : "tlk832201_msg0007",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "싫어모~~!\n일하기 싫어모! 일하기 싫어모~~!!"
+  } ]
+}

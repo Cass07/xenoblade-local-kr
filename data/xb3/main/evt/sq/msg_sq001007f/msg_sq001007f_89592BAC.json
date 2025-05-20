@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq001007_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토벌했다는 증거를 가져왔어"
+  }, {
+    "$id" : 2,
+    "label" : "sq001007_msg0002",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 3,
+    "label" : "sq001007_msg0003",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말로 그 페리스를\n쓰러뜨렸나 보군"
+  }, {
+    "$id" : 4,
+    "label" : "sq001007_msg0004",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 너희들은\n오늘의 노역을 면제해 주마"
+  }, {
+    "$id" : 5,
+    "label" : "sq001007_msg0005",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번엔 무사히 넘어갔나 보네"
+  }, {
+    "$id" : 6,
+    "label" : "sq001007_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네 덕분이야, 곤도"
+  }, {
+    "$id" : 7,
+    "label" : "sq001007_msg0007",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신경 쓰지 마. 내일 어떻게 할지\n이야기할 시간도 필요하니까"
+  }, {
+    "$id" : 8,
+    "label" : "sq001007_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇긴 해. 우리도 세부적인\n부분들을 의논하고 싶어"
+  } ]
+}

@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq300402_msg0001",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "돌을 가져왔어"
+  }, {
+    "$id" : 2,
+    "label" : "nq300402_msg0002",
+    "talker" : "dk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 고마워모"
+  }, {
+    "$id" : 3,
+    "label" : "nq300402_msg0003",
+    "talker" : "dk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠흠……\n이번엔 이 색이었지모……"
+  }, {
+    "$id" : 4,
+    "label" : "nq300402_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야? 좋아하는 색이 있으면\n처음부터 그렇게 말을……"
+  }, {
+    "$id" : 5,
+    "label" : "nq300402_msg0005",
+    "talker" : "dk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 게 아니니까 문제없어모\n자, 시르지르한텐 이 돌을 갖다줘모"
+  }, {
+    "$id" : 6,
+    "label" : "nq300402_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어"
+  }, {
+    "$id" : 7,
+    "label" : "nq300402_msg0007",
+    "talker" : "dk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 잘 부탁해모~!"
+  }, {
+    "$id" : 8,
+    "label" : "nq300402_msg0008",
+    "talker" : "dk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전부 가져왔어모?"
+  }, {
+    "$id" : 9,
+    "label" : "nq300402_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 우리는 뭐가 뭔지 모르니까"
+  }, {
+    "$id" : 10,
+    "label" : "nq300402_msg0010",
+    "talker" : "dk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠흠……\n그러면 파란색을 건네줄게모"
+  }, {
+    "$id" : 11,
+    "label" : "nq300402_msg0011",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어"
+  }, {
+    "$id" : 12,
+    "label" : "nq300402_msg0012",
+    "talker" : "dk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 시르지르한테\n잘 전달해 줘모~"
+  } ]
+}

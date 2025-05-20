@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831200_msg0001",
+    "talker" : "tq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으으~\n마침내 나도 병사가 된 건가……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831200_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "벌써 전선으로 나가?\n아직 훈련 도중 아니었어?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831200_msg0003",
+    "talker" : "tq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 그렇기는 한데\n만에 하나를 대비하는 거지"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831200_msg0004",
+    "talker" : "tq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "언제 싸우게 될 지 알 수 없으니까\n준비만큼은 철저하게 해 두려고"
+  }, {
+    "$id" : 5,
+    "label" : "tlk831200_msg0005",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……절대 죽지 마\n여차하면 그냥 도망쳐. 알겠지?"
+  }, {
+    "$id" : 6,
+    "label" : "tlk831200_msg0006",
+    "talker" : "tq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 알아\n죽으면 다 소용없잖아"
+  }, {
+    "$id" : 7,
+    "label" : "tlk831200_msg0007",
+    "talker" : "tq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래도 나는 싸울 거야\n시티의 일원으로서\n모두를 반드시 지켜 내겠어!"
+  } ]
+}

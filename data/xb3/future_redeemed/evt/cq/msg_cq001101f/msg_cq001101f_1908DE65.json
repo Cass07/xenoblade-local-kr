@@ -1,0 +1,520 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<C1040045>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면, 어디 보자……"
+  }, {
+    "$id" : 2,
+    "label" : "<15C047B0>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니콜, 중요한 이야기라는 게 뭔데?"
+  }, {
+    "$id" : 3,
+    "label" : "<9E945C9B>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 앞으로 어떻게 할지\n카기로이하고 이야기해 봤어"
+  }, {
+    "$id" : 4,
+    "label" : "<409BD068>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……우리도 싸울 거야\n너희와 함께 싸우고 싶어"
+  }, {
+    "$id" : 5,
+    "label" : "<9D1A1D50>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 6,
+    "label" : "<761824F7>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 7,
+    "label" : "<36A0FB55>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그 말은\n너희도 오리진에 가겠다는 뜻이야?"
+  }, {
+    "$id" : 8,
+    "label" : "<8D459793>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응……\n확실히 매슈 덕분에\n더 이상 싸울 필요는 없어졌지만……"
+  }, {
+    "$id" : 9,
+    "label" : "<5731CA80>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 나와 카기로이의 목숨은……\n남은 시간은 한정되어 있어"
+  }, {
+    "$id" : 10,
+    "label" : "<CC9A2B11>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 시간을……\n너희를 위해 쓰고 싶어"
+  }, {
+    "$id" : 11,
+    "label" : "<673838E3>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니콜, 너……"
+  }, {
+    "$id" : 12,
+    "label" : "<D7B03240>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그…… 알파랬나?\n그 녀석을 쓰러뜨리지 않으면\n세계 자체가 위험한 거잖아?"
+  }, {
+    "$id" : 13,
+    "label" : "<FF28063B>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 사실이면 남 일도 아니고\n그러니까……"
+  }, {
+    "$id" : 14,
+    "label" : "<312475A0>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……안 돼"
+  }, {
+    "$id" : 15,
+    "label" : "<A320B468>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 뭐야……\n우리가 발목이라도 잡을까 봐?"
+  }, {
+    "$id" : 16,
+    "label" : "<AA2D89BC>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 병사야!\n싸울 줄도 알고 각오도 이미 했어"
+  }, {
+    "$id" : 17,
+    "label" : "<3B1AE3E6>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……너희, 잘 들어"
+  }, {
+    "$id" : 18,
+    "label" : "<9E5802E0>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "각오만 가지고\n알파와 싸울 수 있을 거라 생각하지 마"
+  }, {
+    "$id" : 19,
+    "label" : "<D8EC9C88>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 싸움에서 각오 이상으로\n필요한 건 \"힘\"이다"
+  }, {
+    "$id" : 20,
+    "label" : "<73ACB211>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알파에게 대항하기 위해서는\n우로보로스 파워의 힘이\n필수적이라고 할 수 있어"
+  }, {
+    "$id" : 21,
+    "label" : "<F2277611>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 너희에게 깃든 그 힘은\n이제 막 각성한 참이라서\n알파와 싸우기에는 충분하지 않아"
+  }, {
+    "$id" : 22,
+    "label" : "<C749C7C2>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그런 건 해 보기 전에는……"
+  }, {
+    "$id" : 23,
+    "label" : "<CE8A5ECD>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안 해 봐도 알아\n지금의 너희 힘으로는\n아무리 발버둥 쳐도 못 이겨"
+  }, {
+    "$id" : 24,
+    "label" : "<E5674977>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……예전에 우리가 그랬던 것처럼"
+  }, {
+    "$id" : 25,
+    "label" : "<AEE0DBE1>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 26,
+    "label" : "<1AC14D48>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 이번만큼은\n너희를 지키면서 싸울 여유가 없어\n이번에는 얌전히……"
+  }, {
+    "$id" : 27,
+    "label" : "<F93CD193>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약……\n\"힘\"을 얻을 수 있다면?"
+  }, {
+    "$id" : 28,
+    "label" : "<28E8AADF>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐라고?"
+  }, {
+    "$id" : 29,
+    "label" : "<AE981CC5>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리, 리쿠한테 여러 이야기를 들었어요\n우로보로스 스톤에 대해서……"
+  }, {
+    "$id" : 30,
+    "label" : "<4F249F92>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 장치에는 우로보로스 파워를……\n힘을 발동하기 위한 기능이 갖춰져 있어요"
+  }, {
+    "$id" : 31,
+    "label" : "<CE40D5AA>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 아직 개량의 여지가 있어서\n우리가 모르는 힘이 숨겨져 있죠……"
+  }, {
+    "$id" : 32,
+    "label" : "<38B81E62>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 힘을 끌어낼 수 있다면\n저와 카기로이의 우로보로스 파워도\n더 강력해질 거예요……!"
+  }, {
+    "$id" : 33,
+    "label" : "<288CB15E>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응……\n확실히 그럴 가능성을 부정할 순 없지"
+  }, {
+    "$id" : 34,
+    "label" : "<7E55E8AB>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 식의 임기응변으로\n어떻게 될 만한 상대가 아냐"
+  }, {
+    "$id" : 35,
+    "label" : "<52F906D6>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거야말로\n해 보기 전에는 모르는 거잖아!"
+  }, {
+    "$id" : 36,
+    "label" : "<4554214D>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하…… 너 말이야,\n난 지금 널 생각해서……"
+  }, {
+    "$id" : 37,
+    "label" : "<26FD5AFF>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니야, 렉스\n카기로이의 말이 옳아"
+  }, {
+    "$id" : 38,
+    "label" : "<537FDB4D>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨, 너……!"
+  }, {
+    "$id" : 39,
+    "label" : "<A1C42B3D>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하나라도 할 수 있는 일이 있잖아\n그런데 그냥 가만히 지켜보라고 하면\n나 같아도 싫을 거야"
+  }, {
+    "$id" : 40,
+    "label" : "<93D06EC8>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "남은 시간이 한정되어 있다면\n더 그럴 수밖에 없고"
+  }, {
+    "$id" : 41,
+    "label" : "<FA5C951F>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 알게 된 지 오래되진 않았지만\n난 두 사람을 내 동료라고 생각해"
+  }, {
+    "$id" : 42,
+    "label" : "<2726A3EB>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희가 함께 싸워 주겠다고 했을 때……\n솔직히 기뻤어"
+  }, {
+    "$id" : 43,
+    "label" : "<3E1DDFA0>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "매슈……!"
+  }, {
+    "$id" : 44,
+    "label" : "<0DBA73E3>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……흥"
+  }, {
+    "$id" : 45,
+    "label" : "<D8A0D4EF>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "양쪽 의견 모두 일리 있어\n이대로는 평행선인데…… 어떻게 할래?"
+  }, {
+    "$id" : 46,
+    "label" : "<1FB8AD0D>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄…… 어떻게 해야 좋을까"
+  }, {
+    "$id" : 47,
+    "label" : "<096F3DAA>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힘을 끌어내겠다고 했지?\n구체적인 방법은 있는 건가?"
+  }, {
+    "$id" : 48,
+    "label" : "<FD5F68B4>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그 방법은……\n리쿠한테 생각이 있다나 봐\n준비가 끝나면 알려 준댔어"
+  }, {
+    "$id" : 49,
+    "label" : "<9DE9ED32>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……좋아\n리쿠의 이야기를 듣고 다시 이야기하자고"
+  }, {
+    "$id" : 50,
+    "label" : "<CEC651B3>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사람이 기껏 협력해 주겠다는데……\n저 태도는 뭐야?"
+  }, {
+    "$id" : 51,
+    "label" : "<D7B6FC01>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……지금의 당신에겐\n알 수 없는 일입니다"
+  }, {
+    "$id" : 52,
+    "label" : "<AA01619B>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? ……무슨 소리인지 모르겠네"
+  }, {
+    "$id" : 53,
+    "label" : "<23BFE4CB>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쨌든 우리도 리쿠한테 가 보자"
+  }, {
+    "$id" : 54,
+    "label" : "<2F81699E>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응……"
+  }, {
+    "$id" : 55,
+    "label" : "<2849780B>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "렉스……"
+  } ]
+}

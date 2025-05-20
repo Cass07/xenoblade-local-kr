@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq311200_msg0001",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "긴, 네가 가진 그 해머로\n해 줬으면 하는 일이 있는데……"
+  }, {
+    "$id" : 2,
+    "label" : "nq311200_msg0002",
+    "talker" : "rd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!\n긴의 모루가 부르고 있어모?"
+  }, {
+    "$id" : 3,
+    "label" : "nq311200_msg0003",
+    "talker" : "rd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하늘이 무너지기 전에\n만나러 갈게모~!"
+  }, {
+    "$id" : 4,
+    "label" : "nq311200_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도와주려고?\n고마워……!"
+  }, {
+    "$id" : 5,
+    "label" : "nq311200_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "긴의 단말기로 지도를 보낼 테니까\n먼저 가서 기다려 줘"
+  }, {
+    "$id" : 6,
+    "label" : "nq311200_msg0006",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……혼자 갈 수 있겠지?"
+  }, {
+    "$id" : 7,
+    "label" : "<4A93B6FA>",
+    "talker" : "rd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "긴이 자아내는 음색으로\n사우루스를 건너뛰게 할게모"
+  }, {
+    "$id" : 8,
+    "label" : "<FDC88EB0>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮다는…… 뜻이겠지?"
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk420403_msg0001",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마침내 진짜 여왕 폐하를 알현했어……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk420403_msg0002",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "벼락을 맞은 듯한 기분이 들었지\n아니, 실제로 이 지역에 내리친 벼락이\n내게 내리꽂혔을지도 몰라"
+  }, {
+    "$id" : 3,
+    "label" : "tlk420403_msg0003",
+    "talker" : "ve1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만나 뵙자마자 바로 깨달았어\n그분이야말로 우리의 여왕이시라는 걸……"
+  } ]
+}

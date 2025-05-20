@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk835800_msg0001",
+    "talker" : "Zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 여기서도\n의사는 귀하게 대접받는구나"
+  }, {
+    "$id" : 2,
+    "label" : "tlk835800_msg0002",
+    "talker" : "Zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 더 빨리 합류할 수 있었다면\n좋았을 텐데……\n그랬으면 더 많은 목숨을……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk835800_msg0003",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약은 생각하지 말자\n앞으로는 분명 괜찮을 거야\n네가 있으니까"
+  }, {
+    "$id" : 4,
+    "label" : "tlk835800_msg0004",
+    "talker" : "Zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쉽게도 말하네……\n뭐, 당연히 해낼 생각이지만"
+  } ]
+}

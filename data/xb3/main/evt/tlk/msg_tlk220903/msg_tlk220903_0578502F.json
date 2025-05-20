@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk220903_msg0001",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "드루크는 다시 처음부터 만들 거야모\n시간은 걸리겠지만\n분명 다시 만들어 낼 수 있을 거야모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk220903_msg0002",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 30에는 레파파 같은 노폰들도 있고\n가쿠랑 요시노도 있으니까모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk220903_msg0003",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두가 힘을 합치면\n후다닥 순식간에 만들 수 있어모!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk220903_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꼭 그렇게 될 거야!\n잘해 보라고!"
+  } ]
+}

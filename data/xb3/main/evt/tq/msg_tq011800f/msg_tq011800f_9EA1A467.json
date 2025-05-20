@@ -1,0 +1,268 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011800_msg0001",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신병들에게 평판을 들었습니다\n교육은 순조로운 모양이네요"
+  }, {
+    "$id" : 2,
+    "label" : "tq011800_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 우리 나름대로 열심히 해 봤어"
+  }, {
+    "$id" : 3,
+    "label" : "tq011800_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무언가를 가르친다는 일은\n의외로 어렵구나"
+  }, {
+    "$id" : 4,
+    "label" : "tq011800_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 고생을 조금은\n이해한 모양이라 다행이네"
+  }, {
+    "$id" : 5,
+    "label" : "tq011800_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "넌 항상 설교만 하잖아\n아니면 불평이거나"
+  }, {
+    "$id" : 6,
+    "label" : "tq011800_msg0006",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하, 시끌벅적하네요\n다들 좋아하는 이유를 알 것 같습니다"
+  }, {
+    "$id" : 7,
+    "label" : "tq011800_msg0007",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기…… 그건 그렇다 치고……\n교육은 계속할 거야?"
+  }, {
+    "$id" : 8,
+    "label" : "tq011800_msg0008",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 그 교육 말입니다만\n슬슬 마무리할 때가 아닌가 싶어서요"
+  }, {
+    "$id" : 9,
+    "label" : "tq011800_msg0009",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마무리……\n그 말은 설마……"
+  }, {
+    "$id" : 10,
+    "label" : "tq011800_msg0010",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 지금까지 배운 것의 종합 평가로써\n대규모 연습을 실시하겠습니다"
+  }, {
+    "$id" : 11,
+    "label" : "tq011800_msg0011",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "호오! 대규모 연습!\n재밌겠는데?"
+  }, {
+    "$id" : 12,
+    "label" : "tq011800_msg0012",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 연습이 끝나면\n드디어 그 애들도 한 사람 몫이 되는 건가"
+  }, {
+    "$id" : 13,
+    "label" : "tq011800_msg0013",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 셈이죠\n그러니 여러분도 부디\n협력해 주셨으면 좋겠군요"
+  }, {
+    "$id" : 14,
+    "label" : "tq011800_msg0014",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연히 그렇게 해야지\n그래서, 연습은 언제 해?"
+  }, {
+    "$id" : 15,
+    "label" : "tq011800_msg0015",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금부터입니다"
+  }, {
+    "$id" : 16,
+    "label" : "tq011800_msg0016",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐?"
+  }, {
+    "$id" : 17,
+    "label" : "tq011800_msg0017",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사실대로 말하면\n이미 연습 준비는 끝난 상태라서요"
+  }, {
+    "$id" : 18,
+    "label" : "tq011800_msg0018",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "남은 건 제가 여러분을\n현지까지 데리고 가는 것뿐입니다"
+  }, {
+    "$id" : 19,
+    "label" : "tq011800_msg0019",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "처음부터 전부 손바닥 안이었네!\n하여간 철저하다니까~"
+  }, {
+    "$id" : 20,
+    "label" : "tq011800_msg0020",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분의 교육이 모두 끝나면\n지금쯤이겠다고 예상했거든요"
+  }, {
+    "$id" : 21,
+    "label" : "tq011800_msg0021",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……가끔 보면 시도는\n압박을 잘하는 거 같아"
+  }, {
+    "$id" : 22,
+    "label" : "tq011800_msg0022",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아뇨, 아뇨. 당치도 않습니다\n여러분을 신뢰하고 있기 때문이죠"
+  }, {
+    "$id" : 23,
+    "label" : "tq011800_msg0023",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래서\n우리들은 어디로 가면 돼?"
+  }, {
+    "$id" : 24,
+    "label" : "tq011800_msg0024",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"불치 평원\"은 알고 있나요?"
+  }, {
+    "$id" : 25,
+    "label" : "tq011800_msg0025",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼, 당연히 알지\n전에 거기서 싸운 적도 있으니까"
+  }, {
+    "$id" : 26,
+    "label" : "tq011800_msg0026",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이미 신병들은 콜로니를 나가\n연습 장소에서 대기하고 있습니다"
+  }, {
+    "$id" : 27,
+    "label" : "tq011800_msg0027",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자세한 연습 내용은\n그들과 합류하고 나서 설명하는 것으로 하죠"
+  } ]
+}

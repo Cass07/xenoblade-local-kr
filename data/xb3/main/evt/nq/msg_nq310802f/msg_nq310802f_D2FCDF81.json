@@ -1,0 +1,160 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310802_msg0001",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오토마톤까지 가지고 나왔을 줄이야"
+  }, {
+    "$id" : 2,
+    "label" : "nq310802_msg0002",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "장로……"
+  }, {
+    "$id" : 3,
+    "label" : "nq310802_msg0003",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들의 목적은 뭐지?"
+  }, {
+    "$id" : 4,
+    "label" : "nq310802_msg0101",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스……"
+  }, {
+    "$id" : 5,
+    "label" : "nq310802_msg0102",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아머리를 훔쳐서 나갔다는 게\n당신들이구나"
+  }, {
+    "$id" : 6,
+    "label" : "nq310802_msg0103",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 시티 밖으로 나온 거야……?"
+  }, {
+    "$id" : 7,
+    "label" : "nq310802_msg0202",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리의 목적은 시티로부터 독립하는 거야"
+  }, {
+    "$id" : 8,
+    "label" : "nq310802_msg0203",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 난폭한 방법으로 뛰쳐나온 건\n사과해야겠지만……"
+  }, {
+    "$id" : 9,
+    "label" : "nq310802_msg0204",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앞으로 우리 일에는\n개입하지 않았으면 해"
+  }, {
+    "$id" : 10,
+    "label" : "nq310802_msg0301",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 안 될 말이야"
+  }, {
+    "$id" : 11,
+    "label" : "nq310802_msg0401",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모니카나 시티 사람들한테\n이유는 말했어?"
+  }, {
+    "$id" : 12,
+    "label" : "nq310802_msg0501",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 13,
+    "label" : "nq310802_msg0502",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 과격한 방법이지만\n지금 당장 떠나 줘야겠어!"
+  }, {
+    "$id" : 14,
+    "label" : "nq310802_msg0601",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "윽……"
+  }, {
+    "$id" : 15,
+    "label" : "nq310802_msg0602",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오토마톤을 전부 쓰러뜨린다면\n대화할 생각이 들겠지……"
+  } ]
+}

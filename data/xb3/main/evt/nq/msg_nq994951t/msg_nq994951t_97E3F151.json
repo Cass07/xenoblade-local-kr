@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq994951_msg0001",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스 회수부의 일을 돕고 있었어\n자세한 이야기는 그쪽에 가서 물어봐"
+  }, {
+    "$id" : 2,
+    "label" : "nq994951_msg0101",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "성실하게 일해라"
+  }, {
+    "$id" : 3,
+    "label" : "nq994951_msg0102",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다! 맡겨만 주시죠!"
+  }, {
+    "$id" : 4,
+    "label" : "nq994951_msg0201",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음…… 물자…… 밥……\n물자…… 밥……"
+  }, {
+    "$id" : 5,
+    "label" : "nq994951_msg0202",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아아, 배고파……\n빨리 찾았으면 좋겠다……"
+  }, {
+    "$id" : 6,
+    "label" : "nq994951_msg0301",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물자를 못 찾으면\n네 밥은 없을 줄 알아!"
+  }, {
+    "$id" : 7,
+    "label" : "nq994951_msg0302",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세상에! 그건 너무하십니다, 아가씨……"
+  } ]
+}

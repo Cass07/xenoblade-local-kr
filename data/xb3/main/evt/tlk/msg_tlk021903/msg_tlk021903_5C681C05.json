@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk021903_msg0001",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제안합니다\n세주가 론에게 대금을\n지불하는 것이 어떨까 합니다만……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk021903_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 세주는 돈 없지 않아?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk021903_msg0003",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……긍정합니다\n따라서 금전을 마련할 방법을 찾아내서……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk021903_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신경 안 써도 된다니까\n이번에는 우리가 해결해 볼게. 알았지?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk021903_msg0005",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……죄송합니다. 이번 일에 대한 변제는\n조만간 다른 방법으로라도 꼭……"
+  } ]
+}

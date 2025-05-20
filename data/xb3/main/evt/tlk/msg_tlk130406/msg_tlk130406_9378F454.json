@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk130406_msg0001",
+    "talker" : "sY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희, 뫼비우스하고 싸운다면서?\n……세주도 같이 가지?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk130406_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응"
+  }, {
+    "$id" : 3,
+    "label" : "tlk130406_msg0003",
+    "talker" : "sY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……말해 두겠는데\n죽으면 절대로 용서 안 할 테니까\n반드시 살아서 돌아올 생각 해"
+  }, {
+    "$id" : 4,
+    "label" : "tlk130406_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론이지\n세주는 꼭 지킬게"
+  }, {
+    "$id" : 5,
+    "label" : "tlk130406_msg0005",
+    "talker" : "sY1",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희도 걱정해서 한 말인데\n말을 말자……"
+  } ]
+}

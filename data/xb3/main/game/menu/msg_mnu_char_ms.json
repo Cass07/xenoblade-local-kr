@@ -1,0 +1,1078 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<09283A5F>",
+    "style" : 9,
+    "name" : "DEFENDER"
+  }, {
+    "$id" : 2,
+    "label" : "<130474E3>",
+    "style" : 9,
+    "name" : "ATTACKER"
+  }, {
+    "$id" : 3,
+    "label" : "<20D7755C>",
+    "style" : 9,
+    "name" : "HEALER"
+  }, {
+    "$id" : 4,
+    "label" : "<7B39EADE>",
+    "style" : 3,
+    "name" : "[ML:number digit=2 ]"
+  }, {
+    "$id" : 5,
+    "label" : "<9D157023>",
+    "style" : 14,
+    "name" : "CLASS SELECT"
+  }, {
+    "$id" : 6,
+    "label" : "<46F566EE>",
+    "style" : 14,
+    "name" : "ARTS SELECT"
+  }, {
+    "$id" : 7,
+    "label" : "<CC421DFC>",
+    "style" : 14,
+    "name" : "SKILL SELECT"
+  }, {
+    "$id" : 8,
+    "label" : "<2E651DCB>",
+    "style" : 14,
+    "name" : "GEM SELECT"
+  }, {
+    "$id" : 9,
+    "label" : "<FFAF080F>",
+    "style" : 14,
+    "name" : "ACCESSORY SELECT"
+  }, {
+    "$id" : 10,
+    "label" : "<AD843811>",
+    "style" : 14,
+    "name" : "EQUIPMENT"
+  }, {
+    "$id" : 11,
+    "label" : "<EF48F5E9>",
+    "style" : 13,
+    "name" : ""
+  }, {
+    "$id" : 12,
+    "label" : "<9484C798>",
+    "style" : 13,
+    "name" : ""
+  }, {
+    "$id" : 13,
+    "label" : "<9546E7F9>",
+    "style" : 9,
+    "name" : ""
+  }, {
+    "$id" : 14,
+    "label" : "<FEA33A95>",
+    "style" : 9,
+    "name" : ""
+  }, {
+    "$id" : 15,
+    "label" : "<68381CA5>",
+    "style" : 9,
+    "name" : "--------"
+  }, {
+    "$id" : 16,
+    "label" : "<3A4CB05D>",
+    "style" : 11,
+    "name" : "HP"
+  }, {
+    "$id" : 17,
+    "label" : "<953C4BBC>",
+    "style" : 11,
+    "name" : "공격력"
+  }, {
+    "$id" : 18,
+    "label" : "<556B9081>",
+    "style" : 11,
+    "name" : "회복력"
+  }, {
+    "$id" : 19,
+    "label" : "<8F658C4D>",
+    "style" : 11,
+    "name" : "물리 방어"
+  }, {
+    "$id" : 20,
+    "label" : "<F7BE7216>",
+    "style" : 11,
+    "name" : "에테르 방어"
+  }, {
+    "$id" : 21,
+    "label" : "<F4EB6E3E>",
+    "style" : 11,
+    "name" : "손재주"
+  }, {
+    "$id" : 22,
+    "label" : "<31FAD5EC>",
+    "style" : 11,
+    "name" : "속도"
+  }, {
+    "$id" : 23,
+    "label" : "<B908DFE0>",
+    "style" : 11,
+    "name" : "크리티컬 확률"
+  }, {
+    "$id" : 24,
+    "label" : "<CC00E66D>",
+    "style" : 11,
+    "name" : "가드 확률"
+  }, {
+    "$id" : 25,
+    "label" : "<93853355>",
+    "style" : 11,
+    "name" : "타입"
+  }, {
+    "$id" : 26,
+    "label" : "<A38D1FF1>",
+    "style" : 11,
+    "name" : "범위"
+  }, {
+    "$id" : 27,
+    "label" : "<3CB83C22>",
+    "style" : 11,
+    "name" : "파워 배율"
+  }, {
+    "$id" : 28,
+    "label" : "<8C20F4F9>",
+    "style" : 11,
+    "name" : "게이지 회복"
+  }, {
+    "$id" : 29,
+    "label" : "<9571932C>",
+    "style" : 11,
+    "name" : "버프 / 디버프"
+  }, {
+    "$id" : 30,
+    "label" : "<BD7F51E5>",
+    "style" : 11,
+    "name" : "리액션"
+  }, {
+    "$id" : 31,
+    "label" : "<C30C6E3B>",
+    "style" : 7,
+    "name" : "물리 공격"
+  }, {
+    "$id" : 32,
+    "label" : "<C30D2EB4>",
+    "style" : 7,
+    "name" : "에테르 공격"
+  }, {
+    "$id" : 33,
+    "label" : "<01CDCC2B>",
+    "style" : 7,
+    "name" : "HP 회복"
+  }, {
+    "$id" : 34,
+    "label" : "<8435CD7D>",
+    "style" : 7,
+    "name" : "버프"
+  }, {
+    "$id" : 35,
+    "label" : "<5C7F5A46>",
+    "style" : 7,
+    "name" : "디버프"
+  }, {
+    "$id" : 36,
+    "label" : "<188D87D5>",
+    "style" : 7,
+    "name" : "도발"
+  }, {
+    "$id" : 37,
+    "label" : "<32676B27>",
+    "style" : 7,
+    "name" : "디버프 클리어"
+  }, {
+    "$id" : 38,
+    "label" : "<1E3DA1B2>",
+    "style" : 7,
+    "name" : "필드 설치"
+  }, {
+    "$id" : 39,
+    "label" : "<D25C9AC1>",
+    "style" : 7,
+    "name" : "필드 설치"
+  }, {
+    "$id" : 40,
+    "label" : "<7C97C5E4>",
+    "style" : 7,
+    "name" : "방어"
+  }, {
+    "$id" : 41,
+    "label" : "<8FA25F93>",
+    "style" : 7,
+    "name" : "스탠스"
+  }, {
+    "$id" : 42,
+    "label" : "<A05C27F0>",
+    "style" : 7,
+    "name" : "1체"
+  }, {
+    "$id" : 43,
+    "label" : "<0212048E>",
+    "style" : 7,
+    "name" : "전방 범위"
+  }, {
+    "$id" : 44,
+    "label" : "<61C4924A>",
+    "style" : 7,
+    "name" : ""
+  }, {
+    "$id" : 45,
+    "label" : "<1D04B611>",
+    "style" : 7,
+    "name" : ""
+  }, {
+    "$id" : 46,
+    "label" : "<3A75D946>",
+    "style" : 7,
+    "name" : "자기 주변"
+  }, {
+    "$id" : 47,
+    "label" : "<7130ADE1>",
+    "style" : 7,
+    "name" : "대상 주변"
+  }, {
+    "$id" : 48,
+    "label" : "<F906411A>",
+    "style" : 7,
+    "name" : "자기 자신"
+  }, {
+    "$id" : 49,
+    "label" : "<96FDB692>",
+    "style" : 7,
+    "name" : "아군 전체"
+  }, {
+    "$id" : 50,
+    "label" : "<775D95A7>",
+    "style" : 19,
+    "name" : "시간에 따라 충전"
+  }, {
+    "$id" : 51,
+    "label" : "<2C9DCF12>",
+    "style" : 19,
+    "name" : "오토 어택으로 충전"
+  }, {
+    "$id" : 52,
+    "label" : "<DA599425>",
+    "style" : 19,
+    "name" : "롤 액트로 충전"
+  }, {
+    "$id" : 53,
+    "label" : "<765B3138>",
+    "style" : 3,
+    "name" : "RANK [ML:number digit=2 ] 습득"
+  }, {
+    "$id" : 54,
+    "label" : "<9EC6A52A>",
+    "style" : 3,
+    "name" : "RANK [ML:number digit=2 ] 강화"
+  }, {
+    "$id" : 55,
+    "label" : "<CB72549C>",
+    "style" : 11,
+    "name" : ""
+  }, {
+    "$id" : 56,
+    "label" : "<05B31B7C>",
+    "style" : 11,
+    "name" : "CLASS"
+  }, {
+    "$id" : 57,
+    "label" : "<ACA1D5CF>",
+    "style" : 11,
+    "name" : "MASTER"
+  }, {
+    "$id" : 58,
+    "label" : "<BF57ADD1>",
+    "style" : 11,
+    "name" : "ROLE"
+  }, {
+    "$id" : 59,
+    "label" : "<60F6C457>",
+    "style" : 11,
+    "name" : "ENEMY"
+  }, {
+    "$id" : 60,
+    "label" : "<55BA7EA6>",
+    "style" : 15,
+    "name" : "MASTER SKILL"
+  }, {
+    "$id" : 61,
+    "label" : "<C42D1EB8>",
+    "style" : 15,
+    "name" : "MASTER ARTS"
+  }, {
+    "$id" : 62,
+    "label" : "<1822C92F>",
+    "style" : 19,
+    "name" : "마스터 스킬이 없습니다"
+  }, {
+    "$id" : 63,
+    "label" : "<D3BE7EB2>",
+    "style" : 19,
+    "name" : "에너미 스킬이 없습니다"
+  }, {
+    "$id" : 64,
+    "label" : "<110034E3>",
+    "style" : 3,
+    "name" : "RANK"
+  }, {
+    "$id" : 65,
+    "label" : "<067FE02B>",
+    "style" : 11,
+    "name" : ""
+  }, {
+    "$id" : 66,
+    "label" : "<9130C0E7>",
+    "style" : 12,
+    "name" : "CLASS"
+  }, {
+    "$id" : 67,
+    "label" : "<76680DF5>",
+    "style" : 12,
+    "name" : "SKILL"
+  }, {
+    "$id" : 68,
+    "label" : "<6B96C80B>",
+    "style" : 12,
+    "name" : "ARTS"
+  }, {
+    "$id" : 69,
+    "label" : "<0D354023>",
+    "style" : 12,
+    "name" : "GEM"
+  }, {
+    "$id" : 70,
+    "label" : "<A053EA41>",
+    "style" : 12,
+    "name" : "ACCESSORY"
+  }, {
+    "$id" : 71,
+    "label" : "<6ED3273B>",
+    "style" : 12,
+    "name" : "SOULTREE"
+  }, {
+    "$id" : 72,
+    "label" : "<C306DDF5>",
+    "style" : 12,
+    "name" : "SOULLINK"
+  }, {
+    "$id" : 73,
+    "label" : "<D806B1C1>",
+    "style" : 11,
+    "name" : "FASHION"
+  }, {
+    "$id" : 74,
+    "label" : "<61B2DB67>",
+    "style" : 9,
+    "name" : "Level"
+  }, {
+    "$id" : 75,
+    "label" : "<ECD56062>",
+    "style" : 9,
+    "name" : "Next"
+  }, {
+    "$id" : 76,
+    "label" : "<E864AEA0>",
+    "style" : 1,
+    "name" : "SP"
+  }, {
+    "$id" : 77,
+    "label" : "<DA744252>",
+    "style" : 0,
+    "name" : "D"
+  }, {
+    "$id" : 78,
+    "label" : "<40FA662F>",
+    "style" : 0,
+    "name" : "C"
+  }, {
+    "$id" : 79,
+    "label" : "<FE87BF96>",
+    "style" : 0,
+    "name" : "B"
+  }, {
+    "$id" : 80,
+    "label" : "<A6BE92AC>",
+    "style" : 0,
+    "name" : "A"
+  }, {
+    "$id" : 81,
+    "label" : "<EC2B7A1D>",
+    "style" : 0,
+    "name" : "S"
+  }, {
+    "$id" : 82,
+    "label" : "<DC3D527D>",
+    "style" : 11,
+    "name" : "NOAH"
+  }, {
+    "$id" : 83,
+    "label" : "<73F3E871>",
+    "style" : 11,
+    "name" : "MIO"
+  }, {
+    "$id" : 84,
+    "label" : "<FED7FDDE>",
+    "style" : 11,
+    "name" : "EUNIE"
+  }, {
+    "$id" : 85,
+    "label" : "<0B5AADE3>",
+    "style" : 11,
+    "name" : "TAION"
+  }, {
+    "$id" : 86,
+    "label" : "<C345FB4B>",
+    "style" : 11,
+    "name" : "LANZ"
+  }, {
+    "$id" : 87,
+    "label" : "<A97662B1>",
+    "style" : 11,
+    "name" : "SENA"
+  }, {
+    "$id" : 88,
+    "label" : "<E1DC5828>",
+    "style" : 9,
+    "name" : "우로보로스"
+  }, {
+    "$id" : 89,
+    "label" : "<E028E130>",
+    "style" : 11,
+    "name" : "Complete"
+  }, {
+    "$id" : 90,
+    "label" : "<A2ABF831>",
+    "style" : 11,
+    "name" : "SOUL POINT"
+  }, {
+    "$id" : 91,
+    "label" : "<05C70040>",
+    "style" : 1,
+    "name" : "SP"
+  }, {
+    "$id" : 92,
+    "label" : "<0BF88C5B>",
+    "style" : 11,
+    "name" : "SP가 부족합니다"
+  }, {
+    "$id" : 93,
+    "label" : "<B902D034>",
+    "style" : 11,
+    "name" : "소울 링크 가능"
+  }, {
+    "$id" : 94,
+    "label" : "<6DB574AA>",
+    "style" : 11,
+    "name" : "소울 링크 중"
+  }, {
+    "$id" : 95,
+    "label" : "<76DE5DF1>",
+    "style" : 11,
+    "name" : "아츠 미습득"
+  }, {
+    "$id" : 96,
+    "label" : "<0F43A5EF>",
+    "style" : 11,
+    "name" : "스킬 미습득"
+  }, {
+    "$id" : 97,
+    "label" : "<4B07BBEE>",
+    "style" : 11,
+    "name" : "능력 상승"
+  }, {
+    "$id" : 98,
+    "label" : "<C03BFCAB>",
+    "style" : 11,
+    "name" : "아츠 습득"
+  }, {
+    "$id" : 99,
+    "label" : "<6B584F56>",
+    "style" : 11,
+    "name" : "아츠 강화"
+  }, {
+    "$id" : 100,
+    "label" : "<D3A6BF21>",
+    "style" : 11,
+    "name" : "탤런트 아츠 강화"
+  }, {
+    "$id" : 101,
+    "label" : "<2A7048C8>",
+    "style" : 11,
+    "name" : "스킬 습득"
+  }, {
+    "$id" : 102,
+    "label" : "<CECFED15>",
+    "style" : 11,
+    "name" : "스킬 강화"
+  }, {
+    "$id" : 103,
+    "label" : "<D26BCDD7>",
+    "style" : 11,
+    "name" : "히트 게이지"
+  }, {
+    "$id" : 104,
+    "label" : "<5AC35E0A>",
+    "style" : 11,
+    "name" : "소울 링크"
+  }, {
+    "$id" : 105,
+    "label" : "<8CEED9CE>",
+    "style" : 49,
+    "name" : "의 소울 트리로부터\n능력을 공유받을 수 있습니다"
+  }, {
+    "$id" : 106,
+    "label" : "<8CA2CA4E>",
+    "style" : 49,
+    "name" : "미개방 소울 링크용 슬롯"
+  }, {
+    "$id" : 107,
+    "label" : "<16DBAB4A>",
+    "style" : 19,
+    "name" : "미개방 슬롯"
+  }, {
+    "$id" : 108,
+    "label" : "<BC9E3242>",
+    "style" : 15,
+    "name" : "장비 캐릭터"
+  }, {
+    "$id" : 109,
+    "label" : "<D9CFA524>",
+    "style" : 11,
+    "name" : "HERO SELECT"
+  }, {
+    "$id" : 110,
+    "label" : "<45DF632F>",
+    "style" : 11,
+    "name" : "CURRENT HERO"
+  }, {
+    "$id" : 111,
+    "label" : "<9B86D7C5>",
+    "style" : 49,
+    "name" : "퀘스트의 액티브 지정이 해제됩니다\n필수 히어로를 빼겠습니까?"
+  }, {
+    "$id" : 112,
+    "label" : "<F37279AA>",
+    "style" : 15,
+    "name" : "FASHION SELECT"
+  }, {
+    "$id" : 113,
+    "label" : "<C50E0AC3>",
+    "style" : 15,
+    "name" : "ATTACHMENT SELECT"
+  }, {
+    "$id" : 114,
+    "label" : "<5485A1F2>",
+    "style" : 11,
+    "name" : "FASHION"
+  }, {
+    "$id" : 115,
+    "label" : "<DE6834B9>",
+    "style" : 11,
+    "name" : "ATTACHMENT"
+  }, {
+    "$id" : 116,
+    "label" : "<0A03A06F>",
+    "style" : 11,
+    "name" : "패션"
+  }, {
+    "$id" : 117,
+    "label" : "<3FAE0A50>",
+    "style" : 11,
+    "name" : "어태치먼트"
+  }, {
+    "$id" : 118,
+    "label" : "<BC3E46C9>",
+    "style" : 11,
+    "name" : "패션 없음"
+  }, {
+    "$id" : 119,
+    "label" : "<0F84D3DF>",
+    "style" : 11,
+    "name" : "어태치먼트 없음"
+  }, {
+    "$id" : 120,
+    "label" : "<D63EF395>",
+    "style" : 11,
+    "name" : "소드 파이터"
+  }, {
+    "$id" : 121,
+    "label" : "<4D3D2262>",
+    "style" : 11,
+    "name" : "질풍술사"
+  }, {
+    "$id" : 122,
+    "label" : "<8F19C08B>",
+    "style" : 11,
+    "name" : "메딕 거너"
+  }, {
+    "$id" : 123,
+    "label" : "<8265236E>",
+    "style" : 11,
+    "name" : "전술가"
+  }, {
+    "$id" : 124,
+    "label" : "<EE51B12A>",
+    "style" : 11,
+    "name" : "헤비 가드"
+  }, {
+    "$id" : 125,
+    "label" : "<504AA53D>",
+    "style" : 11,
+    "name" : "파괴자"
+  }, {
+    "$id" : 126,
+    "label" : "<96093484>",
+    "style" : 11,
+    "name" : "플래시 펜서"
+  }, {
+    "$id" : 127,
+    "label" : "<04C3A5ED>",
+    "style" : 11,
+    "name" : "냠냠 스미스"
+  }, {
+    "$id" : 128,
+    "label" : "<E60FA9D7>",
+    "style" : 11,
+    "name" : "전략가"
+  }, {
+    "$id" : 129,
+    "label" : "<5D8832BB>",
+    "style" : 11,
+    "name" : "연주가"
+  }, {
+    "$id" : 130,
+    "label" : "<EAAEEF73>",
+    "style" : 11,
+    "name" : "무술가"
+  }, {
+    "$id" : 131,
+    "label" : "<0DF25AF4>",
+    "style" : 11,
+    "name" : "로스트 뱅가드"
+  }, {
+    "$id" : 132,
+    "label" : "<1691D7FF>",
+    "style" : 11,
+    "name" : "생명의 무녀"
+  }, {
+    "$id" : 133,
+    "label" : "<9E9E678C>",
+    "style" : 11,
+    "name" : "로열 서머너"
+  }, {
+    "$id" : 134,
+    "label" : "<8FB02D3B>",
+    "style" : 11,
+    "name" : "워 메딕"
+  }, {
+    "$id" : 135,
+    "label" : "<4C1603A9>",
+    "style" : 11,
+    "name" : "가디언 커맨더"
+  }, {
+    "$id" : 136,
+    "label" : "<E2887E99>",
+    "style" : 11,
+    "name" : "마술사"
+  }, {
+    "$id" : 137,
+    "label" : "<BBBF6639>",
+    "style" : 11,
+    "name" : "공격 기사"
+  }, {
+    "$id" : 138,
+    "label" : "<D79F9428>",
+    "style" : 11,
+    "name" : "환상 궁사"
+  }, {
+    "$id" : 139,
+    "label" : "<E93497C4>",
+    "style" : 11,
+    "name" : "론 엑자일"
+  }, {
+    "$id" : 140,
+    "label" : "<4850BDC4>",
+    "style" : 11,
+    "name" : "소울 해커"
+  }, {
+    "$id" : 141,
+    "label" : "<0138C2BB>",
+    "style" : 11,
+    "name" : "성휘사"
+  }, {
+    "$id" : 142,
+    "label" : "<0CC284E6>",
+    "style" : 11,
+    "name" : "머신 어새신"
+  }, {
+    "$id" : 143,
+    "label" : "<85CE39FD>",
+    "style" : 11,
+    "name" : "마셜 아티스트"
+  }, {
+    "$id" : 144,
+    "label" : "<7A238340>",
+    "style" : 11,
+    "name" : "풀 메탈 재규어"
+  }, {
+    "$id" : 145,
+    "label" : "<2EE9678D>",
+    "style" : 11,
+    "name" : ""
+  }, {
+    "$id" : 146,
+    "label" : "<5A9B8A80>",
+    "style" : 11,
+    "name" : "군복"
+  }, {
+    "$id" : 147,
+    "label" : "<CB3066D7>",
+    "style" : 11,
+    "name" : "안대"
+  }, {
+    "$id" : 148,
+    "label" : "<C96CB4A9>",
+    "style" : 11,
+    "name" : "모나드"
+  }, {
+    "$id" : 149,
+    "label" : "<1841DC84>",
+    "style" : 11,
+    "name" : ""
+  }, {
+    "$id" : 150,
+    "label" : "<257B17C2>",
+    "style" : 11,
+    "name" : ""
+  }, {
+    "$id" : 151,
+    "label" : "<395BED1E>",
+    "style" : 11,
+    "name" : "ACHIEVEMENT"
+  }, {
+    "$id" : 152,
+    "label" : "<D5F04C57>",
+    "style" : 11,
+    "name" : "TARGET ENEMY"
+  }, {
+    "$id" : 153,
+    "label" : "<D05C4CCB>",
+    "style" : 11,
+    "name" : "ARTS SPEC"
+  }, {
+    "$id" : 154,
+    "label" : "<233B6652>",
+    "style" : 11,
+    "name" : "SKILL SPEC"
+  }, {
+    "$id" : 155,
+    "label" : "<4081EC87>",
+    "style" : 11,
+    "name" : "강화 조건"
+  }, {
+    "$id" : 156,
+    "label" : "<7BE35E9C>",
+    "style" : 11,
+    "name" : "서식 지역"
+  }, {
+    "$id" : 157,
+    "label" : "<C726BA8D>",
+    "style" : 11,
+    "name" : "획득 조건"
+  }, {
+    "$id" : 158,
+    "label" : "<01E5C732>",
+    "style" : 11,
+    "name" : "대상 미토벌"
+  }, {
+    "$id" : 159,
+    "label" : "<0AEE0CEF>",
+    "style" : 11,
+    "name" : "획득 완료"
+  }, {
+    "$id" : 160,
+    "label" : "<A84433E8>",
+    "style" : 11,
+    "name" : "강화 완료"
+  }, {
+    "$id" : 161,
+    "label" : "<F4524182>",
+    "style" : 11,
+    "name" : "불명"
+  }, {
+    "$id" : 162,
+    "label" : "<F7C21B4B>",
+    "style" : 11,
+    "name" : "토벌"
+  }, {
+    "$id" : 163,
+    "label" : "<93760D46>",
+    "style" : 11,
+    "name" : "재대결"
+  }, {
+    "$id" : 164,
+    "label" : "<7C83C120>",
+    "style" : 11,
+    "name" : "획득 완료"
+  }, {
+    "$id" : 165,
+    "label" : "<745EBD0B>",
+    "style" : 11,
+    "name" : ""
+  }, {
+    "$id" : 166,
+    "label" : "<E74D5CCB>",
+    "style" : 2,
+    "name" : "?"
+  }, {
+    "$id" : 167,
+    "label" : "<7249873C>",
+    "style" : 2,
+    "name" : "??"
+  }, {
+    "$id" : 168,
+    "label" : "<826947C8>",
+    "style" : 2,
+    "name" : "???"
+  }, {
+    "$id" : 169,
+    "label" : "<D4AEB85F>",
+    "style" : 11,
+    "name" : "UNKNOWN"
+  }, {
+    "$id" : 170,
+    "label" : "<B91E0754>",
+    "style" : 11,
+    "name" : "????"
+  }, {
+    "$id" : 171,
+    "label" : "<CE0280FE>",
+    "style" : 11,
+    "name" : "초기 소유"
+  }, {
+    "$id" : 172,
+    "label" : "<016580C2>",
+    "style" : 9,
+    "name" : "NEW"
+  }, {
+    "$id" : 173,
+    "label" : "<2503FBC7>",
+    "style" : 9,
+    "name" : "UPGRADE"
+  }, {
+    "$id" : 174,
+    "label" : "<F3D45FBB>",
+    "style" : 7,
+    "name" : "Lv [ML:number digit=2 ]"
+  }, {
+    "$id" : 175,
+    "label" : "<274B279A>",
+    "style" : 7,
+    "name" : "Lv ??"
+  }, {
+    "$id" : 176,
+    "label" : "<541EAF15>",
+    "style" : 7,
+    "name" : "MAX"
+  }, {
+    "$id" : 177,
+    "label" : "<99944E68>",
+    "style" : 59,
+    "name" : "보유량이 부족합니다\n해당 장비를 해제할 캐릭터를 선택해 주십시오"
+  }, {
+    "$id" : 178,
+    "label" : "<A4CC4A89>",
+    "style" : 59,
+    "name" : "클래스 랭크가 MAX입니다\n더 이상 랭크 업을 할 수 없습니다"
+  }, {
+    "$id" : 179,
+    "label" : "<182B00D7>",
+    "style" : 11,
+    "name" : "노아 어나더 컬러"
+  }, {
+    "$id" : 180,
+    "label" : "<175F8402>",
+    "style" : 11,
+    "name" : "미오 어나더 컬러"
+  }, {
+    "$id" : 181,
+    "label" : "<CF8CAE46>",
+    "style" : 11,
+    "name" : "유니 어나더 컬러"
+  }, {
+    "$id" : 182,
+    "label" : "<B1196441>",
+    "style" : 11,
+    "name" : "타이온 어나더 컬러"
+  }, {
+    "$id" : 183,
+    "label" : "<5CF8FF66>",
+    "style" : 11,
+    "name" : "란츠 어나더 컬러"
+  }, {
+    "$id" : 184,
+    "label" : "<357A4C98>",
+    "style" : 11,
+    "name" : "세나 어나더 컬러"
+  }, {
+    "$id" : 185,
+    "label" : "<4FCAEDA4>",
+    "style" : 11,
+    "name" : "노아 수영복 A"
+  }, {
+    "$id" : 186,
+    "label" : "<32A04730>",
+    "style" : 11,
+    "name" : "미오 수영복 A"
+  }, {
+    "$id" : 187,
+    "label" : "<A4DF84FD>",
+    "style" : 11,
+    "name" : "유니 수영복 A"
+  }, {
+    "$id" : 188,
+    "label" : "<3177BE61>",
+    "style" : 11,
+    "name" : "타이온 수영복 A"
+  }, {
+    "$id" : 189,
+    "label" : "<844644E2>",
+    "style" : 11,
+    "name" : "란츠 수영복 A"
+  }, {
+    "$id" : 190,
+    "label" : "<3808EF74>",
+    "style" : 11,
+    "name" : "세나 수영복 A"
+  }, {
+    "$id" : 191,
+    "label" : "<FA9AFAFE>",
+    "style" : 11,
+    "name" : "노아 수영복 B"
+  }, {
+    "$id" : 192,
+    "label" : "<A21815C8>",
+    "style" : 11,
+    "name" : "미오 수영복 B"
+  }, {
+    "$id" : 193,
+    "label" : "<4863CDFF>",
+    "style" : 11,
+    "name" : "유니 수영복 B"
+  }, {
+    "$id" : 194,
+    "label" : "<FBF4B7E8>",
+    "style" : 11,
+    "name" : "타이온 수영복 B"
+  }, {
+    "$id" : 195,
+    "label" : "<77313A67>",
+    "style" : 11,
+    "name" : "란츠 수영복 B"
+  }, {
+    "$id" : 196,
+    "label" : "<743A1831>",
+    "style" : 11,
+    "name" : "세나 수영복 B"
+  }, {
+    "$id" : 197,
+    "label" : "<5655B705>",
+    "style" : 11,
+    "name" : "노포닉 브레이브"
+  }, {
+    "$id" : 198,
+    "label" : "<30570253>",
+    "style" : 11,
+    "name" : "노아 노스탤지어 A"
+  }, {
+    "$id" : 199,
+    "label" : "<9FE7A65B>",
+    "style" : 11,
+    "name" : "미오 노스탤지어 A"
+  }, {
+    "$id" : 200,
+    "label" : "<52E6F38D>",
+    "style" : 11,
+    "name" : "유니 노스탤지어 A"
+  }, {
+    "$id" : 201,
+    "label" : "<FA2F4194>",
+    "style" : 11,
+    "name" : "타이온 노스탤지어 A"
+  }, {
+    "$id" : 202,
+    "label" : "<D0F6C61F>",
+    "style" : 11,
+    "name" : "란츠 노스탤지어 A"
+  }, {
+    "$id" : 203,
+    "label" : "<DEB8F2A2>",
+    "style" : 11,
+    "name" : "세나 노스탤지어 A"
+  }, {
+    "$id" : 204,
+    "label" : "<4E98DD22>",
+    "style" : 11,
+    "name" : "노아 노스탤지어 B"
+  }, {
+    "$id" : 205,
+    "label" : "<CC092905>",
+    "style" : 11,
+    "name" : "미오 노스탤지어 B"
+  }, {
+    "$id" : 206,
+    "label" : "<96B24250>",
+    "style" : 11,
+    "name" : "유니 노스탤지어 B"
+  }, {
+    "$id" : 207,
+    "label" : "<9C5192E4>",
+    "style" : 11,
+    "name" : "타이온 노스탤지어 B"
+  }, {
+    "$id" : 208,
+    "label" : "<60538BA4>",
+    "style" : 11,
+    "name" : "란츠 노스탤지어 B"
+  }, {
+    "$id" : 209,
+    "label" : "<A1341235>",
+    "style" : 11,
+    "name" : "세나 노스탤지어 B"
+  }, {
+    "$id" : 210,
+    "label" : "<8CB0018A>",
+    "style" : 11,
+    "name" : "주얼 마이스터"
+  }, {
+    "$id" : 211,
+    "label" : "<F67A6B8E>",
+    "style" : 12,
+    "name" : "DX 에테르 실린더"
+  }, {
+    "$id" : 212,
+    "label" : "<7B31D878>",
+    "style" : 19,
+    "name" : "퀘스트를 클리어하면 개방됩니다"
+  }, {
+    "$id" : 213,
+    "label" : "<49F11B0A>",
+    "style" : 19,
+    "name" : "DX 에테르 실린더가 부족합니다"
+  } ]
+}

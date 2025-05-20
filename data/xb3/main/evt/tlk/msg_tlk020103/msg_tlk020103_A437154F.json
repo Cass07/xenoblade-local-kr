@@ -1,0 +1,43 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk020103_msg0001",
+    "talker" : "nV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곧 평원으로 이어지는 길의 철거 작업이\n끝날 테니 출발하기 전에\n마무리하지 못한 일은 없는지 확인해 둬"
+  }, {
+    "$id" : 2,
+    "label" : "tlk020103_msg0002",
+    "talker" : "nV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약 내 도움이 필요하다면 말해 다오\n여기 있는 동안은 최대한 도울 테니까"
+  } ]
+}

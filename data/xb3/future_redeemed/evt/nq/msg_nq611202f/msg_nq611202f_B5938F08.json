@@ -1,0 +1,619 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<6CEE7CF1>",
+    "talker" : "_q1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기다렸습니다\n카롬한테 연락은 받았습니다"
+  }, {
+    "$id" : 2,
+    "label" : "<DA29C3C4>",
+    "talker" : "_q1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분이 새로운 가게의 개점을\n도와주시겠다는 분들이군요?"
+  }, {
+    "$id" : 3,
+    "label" : "<CE8A2941>",
+    "talker" : "aq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 넵……!\n잘 부탁드립니다!"
+  }, {
+    "$id" : 4,
+    "label" : "<2DBAC071>",
+    "talker" : "Xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 부탁드립니다~!"
+  }, {
+    "$id" : 5,
+    "label" : "<328AB1B2>",
+    "talker" : "_q1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후, 기운차서 좋네요\n그럼 서둘러서……"
+  }, {
+    "$id" : 6,
+    "label" : "<B856868C>",
+    "talker" : "_q1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……바로 시작하고 싶지만\n일단 간단한 연수를 진행하겠습니다"
+  }, {
+    "$id" : 7,
+    "label" : "<03DCFD8C>",
+    "talker" : "Xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "연수……?"
+  }, {
+    "$id" : 8,
+    "label" : "<06F36909>",
+    "talker" : "_q1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 가게에서는 다양한 소재를 다루고 있는데\n그 분류 작업을 두 사람에게 맡길 겁니다"
+  }, {
+    "$id" : 9,
+    "label" : "<5CF03AA9>",
+    "talker" : "_q1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "간단히 말하자면\n아이템을 카테고리별로 나누는 작업이죠"
+  }, {
+    "$id" : 10,
+    "label" : "<5CC1D5DB>",
+    "talker" : "_q1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금부터 그 연습을 시켜 볼 건데\n준비됐나요?"
+  }, {
+    "$id" : 11,
+    "label" : "<BB6D9935>",
+    "talker" : "aq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네!"
+  }, {
+    "$id" : 12,
+    "label" : "<0A85A15F>",
+    "talker" : "Xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "해 볼래!"
+  }, {
+    "$id" : 13,
+    "label" : "<32DA966A>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "악셀, 피니 힘내!"
+  }, {
+    "$id" : 14,
+    "label" : "<78C0C7B9>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 49,
+    "name" : "점원이 제시한 아이템의 카테고리를\n선택지 중에서 골라 봅시다"
+  }, {
+    "$id" : 15,
+    "label" : "<B2DA7E96>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 49,
+    "name" : "모든 문제를 맞히면 연수 합격입니다\n또한 틀리더라도 재도전할 수 있습니다"
+  }, {
+    "$id" : 16,
+    "label" : "<D1A96E83>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "다시마 버섯의 카테고리는?"
+  }, {
+    "$id" : 17,
+    "label" : "<323A4D11>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "우산 버섯의 카테고리는?"
+  }, {
+    "$id" : 18,
+    "label" : "<6A2F874F>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "화끈 팽이버섯의 카테고리는?"
+  }, {
+    "$id" : 19,
+    "label" : "<99BDAD6F>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "밀키 소이의 카테고리는?"
+  }, {
+    "$id" : 20,
+    "label" : "<92222B73>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "럭키 스파이스의 카테고리는?"
+  }, {
+    "$id" : 21,
+    "label" : "<901C9186>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "만복 파의 카테고리는?"
+  }, {
+    "$id" : 22,
+    "label" : "<331237D8>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "호두 포도의 카테고리는?"
+  }, {
+    "$id" : 23,
+    "label" : "<5AA88F22>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "시원한 감자의 카테고리는?"
+  }, {
+    "$id" : 24,
+    "label" : "<ADF95D8E>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "허밍 자두의 카테고리는?"
+  }, {
+    "$id" : 25,
+    "label" : "<74723EAA>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "오일 빈즈의 카테고리는?"
+  }, {
+    "$id" : 26,
+    "label" : "<B1738BA5>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "샤프 크랜베리의 카테고리는?"
+  }, {
+    "$id" : 27,
+    "label" : "<241FF2B9>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "코멧 당근의 카테고리는?"
+  }, {
+    "$id" : 28,
+    "label" : "<117E66B1>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "기괴한 조개의 카테고리는?"
+  }, {
+    "$id" : 29,
+    "label" : "<A9E50D3F>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "바로치니의 카테고리는?"
+  }, {
+    "$id" : 30,
+    "label" : "<3B0A58B7>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "레드 두리안의 카테고리는?"
+  }, {
+    "$id" : 31,
+    "label" : "<598E47DE>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "나무"
+  }, {
+    "$id" : 32,
+    "label" : "<4BB93B28>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "씨앗"
+  }, {
+    "$id" : 33,
+    "label" : "<3B7BAF17>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "풀"
+  }, {
+    "$id" : 34,
+    "label" : "<A5B262ED>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "꽃"
+  }, {
+    "$id" : 35,
+    "label" : "<32D85D21>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "과일"
+  }, {
+    "$id" : 36,
+    "label" : "<51CCBD98>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "야채"
+  }, {
+    "$id" : 37,
+    "label" : "<51BDC623>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "버섯"
+  }, {
+    "$id" : 38,
+    "label" : "<C5F34FA7>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "보석"
+  }, {
+    "$id" : 39,
+    "label" : "<6BEE1344>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "광석"
+  }, {
+    "$id" : 40,
+    "label" : "<B6EBF793>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "화석"
+  }, {
+    "$id" : 41,
+    "label" : "<A9B5A430>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "기계 부품"
+  }, {
+    "$id" : 42,
+    "label" : "<751ED425>",
+    "talker" : "aq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음, 이거다"
+  }, {
+    "$id" : 43,
+    "label" : "<62A18B4A>",
+    "talker" : "aq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 여기고……"
+  }, {
+    "$id" : 44,
+    "label" : "<8D10188C>",
+    "talker" : "Xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 이거!"
+  }, {
+    "$id" : 45,
+    "label" : "<BAA00648>",
+    "talker" : "Xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸로 끝!"
+  }, {
+    "$id" : 46,
+    "label" : "<DA41F0FB>",
+    "talker" : "aq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이, 이거 맞나……?"
+  }, {
+    "$id" : 47,
+    "label" : "<B4A85681>",
+    "talker" : "aq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어라, 이게 뭐였지……?"
+  }, {
+    "$id" : 48,
+    "label" : "<3826573B>",
+    "talker" : "Xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음~ 모르겠어……"
+  }, {
+    "$id" : 49,
+    "label" : "<E25160C7>",
+    "talker" : "Xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 뭘까……?"
+  }, {
+    "$id" : 50,
+    "label" : "<877DFBD8>",
+    "talker" : "_q1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠, 훌륭하군요\n잘 분류하셨습니다"
+  }, {
+    "$id" : 51,
+    "label" : "<A1CFBCED>",
+    "talker" : "_q1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 정도면 안심하고\n재고 정리를 맡길 수 있겠어요"
+  }, {
+    "$id" : 52,
+    "label" : "<41CA8444>",
+    "talker" : "Xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가게 일을 도와도 되는 거야?"
+  }, {
+    "$id" : 53,
+    "label" : "<9CF009E5>",
+    "talker" : "_q1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 물론이죠\n오히려 제가 더 부탁드리고 싶을 정도네요"
+  }, {
+    "$id" : 54,
+    "label" : "<03D53C05>",
+    "talker" : "_q1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "함께 가게를 꾸려 보도록 하죠\n앞으로 잘 부탁드리겠습니다"
+  }, {
+    "$id" : 55,
+    "label" : "<FE892978>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "남은 건 너희 하기 나름이야\n둘 다 열심히 해"
+  }, {
+    "$id" : 56,
+    "label" : "<011A232D>",
+    "talker" : "aq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "매슈 씨, 고마워!"
+  }, {
+    "$id" : 57,
+    "label" : "<E00A4ADA>",
+    "talker" : "Xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꼭 가게에 놀러 와! 약속이야!"
+  }, {
+    "$id" : 58,
+    "label" : "<6A39E3C2>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 물론이지"
+  }, {
+    "$id" : 59,
+    "label" : "<A18F656F>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : "콜로니 9 신설 보급소가 설치됐다\n새로운 상품을 구입할 수 있게 되었다"
+  }, {
+    "$id" : 60,
+    "label" : "<DE8A223A>",
+    "talker" : "_q1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음, 아깝군요\n몇 가지는 잘못 알고 있나 보네요"
+  }, {
+    "$id" : 61,
+    "label" : "<E9BB8476>",
+    "talker" : "aq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죄, 죄송해요……"
+  }, {
+    "$id" : 62,
+    "label" : "<76FA5F62>",
+    "talker" : "Xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어라? 이상하네……"
+  }, {
+    "$id" : 63,
+    "label" : "<6C3D954B>",
+    "talker" : "_q1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "처음엔 어쩔 수 없죠\n어른도 보통 틀리곤 하니까요"
+  }, {
+    "$id" : 64,
+    "label" : "<05413B44>",
+    "talker" : "_q1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나중에 다시 연습해 보도록 하죠\n준비가 되면 시작하겠습니다"
+  }, {
+    "$id" : 65,
+    "label" : "<F538F674>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모르는 게 있으면 물어봐\n우리도 도와줄 테니까"
+  }, {
+    "$id" : 66,
+    "label" : "<A4DEF809>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "조개껍질"
+  } ]
+}

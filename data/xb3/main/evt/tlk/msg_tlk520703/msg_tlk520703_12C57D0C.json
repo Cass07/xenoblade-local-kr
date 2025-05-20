@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520703_msg0001",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시로가 열심히 하겠다곤 했지만\n정말 괜찮을까……?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520703_msg0002",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혹여나 시로가 없는 동안에\n콜로니에 무슨 일이라도 생긴다면……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520703_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐, 걱정이 되는 건 이해가 가는데\n일어나지 않은 일까지\n사서 걱정했다간 너 못 버틴다?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520703_msg0004",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗……! 그렇네요……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk520703_msg0005",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그나저나 싸울 필요가 없어졌는데\n왜 전보다 불안한 걸까요……?"
+  } ]
+}

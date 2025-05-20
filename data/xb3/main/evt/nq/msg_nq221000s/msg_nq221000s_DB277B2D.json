@@ -1,0 +1,187 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq221000s_msg0001",
+    "talker" : "2",
+    "talkattr" : 33096,
+    "talkattr2" : 50348161,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타우에서도 해를 거듭하는 걸\n특별하게 여겨?"
+  }, {
+    "$id" : 2,
+    "label" : "nq221000s_msg0002",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 10502273,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 특히 9기는 각별하기 때문에\n하층에 혼자 내려가게 해요"
+  }, {
+    "$id" : 3,
+    "label" : "nq221000s_msg0003",
+    "talker" : "6",
+    "talkattr" : 33104,
+    "talkattr2" : 50348161,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 위험한 장소로? 어째서?"
+  }, {
+    "$id" : 4,
+    "label" : "nq221000s_msg0004",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그곳에 다다르면\n많은 물자가 투하되거든요"
+  }, {
+    "$id" : 5,
+    "label" : "nq221000s_msg0005",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 가져옴으로써\n훌륭한 병사로 인정받는 거죠……"
+  }, {
+    "$id" : 6,
+    "label" : "nq221000s_msg0006",
+    "talker" : "5",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "또 풍습이라는 건가"
+  }, {
+    "$id" : 7,
+    "label" : "nq221000s_msg0007",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 실제로 가져온 사람은\n그리 많지 않다고 전해집니다"
+  }, {
+    "$id" : 8,
+    "label" : "nq221000s_msg0008",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저만 해도 타우에 배속된 이후로\n돌아온 자를 본 적이 없고요……"
+  }, {
+    "$id" : 9,
+    "label" : "nq221000s_msg0009",
+    "talker" : "4",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대충 집정관이 고안한 걸\n타우 사람들에게 시킨 거겠지"
+  }, {
+    "$id" : 10,
+    "label" : "nq221000s_msg0010",
+    "talker" : "4",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적당한 이유를 붙여서\n몬스터에게 살해당하게 하면\n솎아 내기 편하니까 말이지"
+  }, {
+    "$id" : 11,
+    "label" : "nq221000s_msg0011",
+    "talker" : "3",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐만……\n아마기가 그 짓을 할지도\n모른다고 들었는데?"
+  }, {
+    "$id" : 12,
+    "label" : "nq221000s_msg0012",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……네"
+  }, {
+    "$id" : 13,
+    "label" : "nq221000s_msg0013",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마기는 콜로니 타우의 풍습을\n중요시하고 있어요"
+  }, {
+    "$id" : 14,
+    "label" : "nq221000s_msg0014",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선대 혹은 그 이전의 선대부터……\n계승되어 오던 것을\n버릴 수 없던 거겠죠"
+  }, {
+    "$id" : 15,
+    "label" : "nq221000s_msg0015",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말리러 가야겠어"
+  }, {
+    "$id" : 16,
+    "label" : "nq221000s_msg0016",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "과연 말을 들어줄지 어떨지……"
+  }, {
+    "$id" : 17,
+    "label" : "nq221000s_msg0017",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "해 보지 않고선 모르는 일이야\n아마기의 무모한 짓을 놔둘 순 없어"
+  }, {
+    "$id" : 18,
+    "label" : "nq221000s_msg0018",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다\n일단 아마기가 있는 곳으로 가시죠"
+  } ]
+}

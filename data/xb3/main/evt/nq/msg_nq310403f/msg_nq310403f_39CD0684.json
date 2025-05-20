@@ -1,0 +1,367 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310403_msg0001",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "줄리에타!"
+  }, {
+    "$id" : 2,
+    "label" : "nq310403_msg0002",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로메로!"
+  }, {
+    "$id" : 3,
+    "label" : "nq310403_msg0003",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 찾아서 가져왔군요"
+  }, {
+    "$id" : 4,
+    "label" : "nq310403_msg0004",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오랫동안 기다리게 해서 미안해"
+  }, {
+    "$id" : 5,
+    "label" : "nq310403_msg0005",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니에요!\n앞뒤가 꽉 막힌\n아버지께서 나쁘신 거죠"
+  }, {
+    "$id" : 6,
+    "label" : "nq310403_msg0006",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이분들은……?"
+  }, {
+    "$id" : 7,
+    "label" : "nq310403_msg0007",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나를 많이 도와준 사람들이야"
+  }, {
+    "$id" : 8,
+    "label" : "nq310403_msg0008",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니\n개릿 씨도 모셔 왔다고 했지?"
+  }, {
+    "$id" : 9,
+    "label" : "nq310403_msg0009",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 이쪽이에요"
+  }, {
+    "$id" : 10,
+    "label" : "nq310403_msg0101",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "줄리에타의 아버지가\n개릿이었구나"
+  }, {
+    "$id" : 11,
+    "label" : "nq310403_msg0201",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아버지, 제 말이 맞았죠?\n로메로라면 분명 가져올 거라고 했잖아요!"
+  }, {
+    "$id" : 12,
+    "label" : "nq310403_msg0202",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "주옥석이 확실하군"
+  }, {
+    "$id" : 13,
+    "label" : "nq310403_msg0203",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 이걸 너 혼자만의 힘으로 찾은 건가?"
+  }, {
+    "$id" : 14,
+    "label" : "nq310403_msg0204",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아뇨, 이 사람들이 도와줬습니다!\n알고 계십니까?!\n그 우로보로스들입니다!!"
+  }, {
+    "$id" : 15,
+    "label" : "nq310403_msg0205",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그들은 무척 믿음직합니다!\n뫼비우스와의 전쟁에도\n종지부를 찍을 수 있을 겁니다!!"
+  }, {
+    "$id" : 16,
+    "label" : "nq310403_msg0206",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너는 분명 약속대로\n주옥석을 가져왔다"
+  }, {
+    "$id" : 17,
+    "label" : "nq310403_msg0207",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 그건 네가 정말로\n줄리에타를 맡기기에 적합한\n인간인지 확인하려고 내건 조건이었지"
+  }, {
+    "$id" : 18,
+    "label" : "nq310403_msg0208",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 사람의 힘을 빌려서 찾으면\n그걸 어떻게 판단하겠나?"
+  }, {
+    "$id" : 19,
+    "label" : "nq310403_msg0209",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그……\n그런 거였나……"
+  }, {
+    "$id" : 20,
+    "label" : "nq310403_msg0301",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 하나 더 말했을 텐데"
+  }, {
+    "$id" : 21,
+    "label" : "nq310403_msg0302",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "결혼을 허락하는 조건으로\n로스트 넘버즈를 포기하라고"
+  }, {
+    "$id" : 22,
+    "label" : "nq310403_msg0303",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그건……"
+  }, {
+    "$id" : 23,
+    "label" : "nq310403_msg0304",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "줄리에타는 여섯 씨족 중 하나인\n도일 가문에 속해 있다"
+  }, {
+    "$id" : 24,
+    "label" : "nq310403_msg0305",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "결혼할 상대가\n뫼비우스를 타도한다며 나서다\n일찍 죽어 버리면 곤란하지"
+  }, {
+    "$id" : 25,
+    "label" : "nq310403_msg0306",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는……"
+  }, {
+    "$id" : 26,
+    "label" : "nq310403_msg0401",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 남은 조건 하나는\n어떻게 할 셈이지?"
+  }, {
+    "$id" : 27,
+    "label" : "nq310403_msg0402",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네?\n조건이 더 있어요?"
+  }, {
+    "$id" : 28,
+    "label" : "nq310403_msg0403",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로스트 넘버즈를 포기하라고 했다"
+  }, {
+    "$id" : 29,
+    "label" : "nq310403_msg0404",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 이야기 말입니다만……"
+  }, {
+    "$id" : 30,
+    "label" : "nq310403_msg0501",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 로스트 넘버즈를\n포기할 수 없습니다!"
+  }, {
+    "$id" : 31,
+    "label" : "nq310403_msg0502",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "줄리에타와 결혼한다면\n더더욱 제 손으로\n세계를 되찾고 싶습니다!!"
+  }, {
+    "$id" : 32,
+    "label" : "nq310403_msg0503",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로메로……"
+  }, {
+    "$id" : 33,
+    "label" : "nq310403_msg0504",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 줄리에타와 결혼하는 건\n허락할 수 없다"
+  }, {
+    "$id" : 34,
+    "label" : "nq310403_msg0505",
+    "talker" : "Xl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "윽……"
+  }, {
+    "$id" : 35,
+    "label" : "nq310403_msg0506",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그런 말씀을 하세요?!"
+  }, {
+    "$id" : 36,
+    "label" : "nq310403_msg0507",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이젠 아버지 같은 사람 몰라요!\n정말 싫다고요!"
+  }, {
+    "$id" : 37,
+    "label" : "nq310403_msg0508",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "결국 결혼은 못 하는 거야?"
+  }, {
+    "$id" : 38,
+    "label" : "nq310403_msg0509",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그런가 봐"
+  } ]
+}

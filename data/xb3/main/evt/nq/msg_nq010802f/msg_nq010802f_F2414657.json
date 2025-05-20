@@ -1,0 +1,205 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq010802_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아이리스"
+  }, {
+    "$id" : 2,
+    "label" : "nq010802_msg0002",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희였어? 놀랐잖아"
+  }, {
+    "$id" : 3,
+    "label" : "nq010802_msg0003",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희도 레너드한테 들었어?"
+  }, {
+    "$id" : 4,
+    "label" : "nq010802_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아!"
+  }, {
+    "$id" : 5,
+    "label" : "nq010802_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래서 이게 레너드가 말한 거야?"
+  }, {
+    "$id" : 6,
+    "label" : "nq010802_msg0006",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응"
+  }, {
+    "$id" : 7,
+    "label" : "nq010802_msg0101",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적어도 아그누스의 장비는 아니야\n케베스군 것하고도 다르고……"
+  }, {
+    "$id" : 8,
+    "label" : "nq010802_msg0102",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그러게"
+  }, {
+    "$id" : 9,
+    "label" : "nq010802_msg0103",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 장비……"
+  }, {
+    "$id" : 10,
+    "label" : "nq010802_msg0104",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게르니카가 갖고 있었던 것과\n거의 똑같은 걸 보니 아마도……"
+  }, {
+    "$id" : 11,
+    "label" : "nq010802_msg0201",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 로스트 넘버즈의 물건이야"
+  }, {
+    "$id" : 12,
+    "label" : "nq010802_msg0202",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "짐작 가는 게 있는 모양이네"
+  }, {
+    "$id" : 13,
+    "label" : "nq010802_msg0301",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희가 오기 전까지 조사해 봤는데"
+  }, {
+    "$id" : 14,
+    "label" : "nq010802_msg0302",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쓸 만한 거나 출처를 알 만한 건\n아무것도 없었어"
+  }, {
+    "$id" : 15,
+    "label" : "nq010802_msg0303",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇구나"
+  }, {
+    "$id" : 16,
+    "label" : "nq010802_msg0304",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어찌 됐든 정체 모를 세력이 있다는 걸\n모른 척할 수는 없으니\n이 일을 로어에게 보고할게"
+  }, {
+    "$id" : 17,
+    "label" : "nq010802_msg0305",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래"
+  }, {
+    "$id" : 18,
+    "label" : "nq010802_msg0306",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유품을 이대로 두기도 좀 그렇고\n다시 묻어 줄까?"
+  }, {
+    "$id" : 19,
+    "label" : "nq010802_msg0307",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건……?"
+  }, {
+    "$id" : 20,
+    "label" : "nq010802_msg0308",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 레너드에게 보고하러 가자"
+  } ]
+}

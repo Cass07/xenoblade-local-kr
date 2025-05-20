@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk220603_msg0001",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스의 자율형 레브니스를\n훔칠 생각을 하시다니……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk220603_msg0002",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약 전쟁을 계속했다면\n콜로니 30는 큰 성과를 내고 있었겠지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk220603_msg0003",
+    "talker" : "ma1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아니, 전쟁할 필요가 없어서\n군무장님이 그런 생각을 하신 건가?\n지금 한 말은 잊어 줘"
+  } ]
+}

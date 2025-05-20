@@ -1,0 +1,250 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001913_msg0001",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세키에이 녀석, 사정거리가 터무니없잖아\n사방에서 펑펑 쏘아 대더라니까!"
+  }, {
+    "$id" : 2,
+    "label" : "tq001913_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "들은 얘기로는 그 사람\n예전에 근거리 어태커였대"
+  }, {
+    "$id" : 3,
+    "label" : "tq001913_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 간격을\n조정하는 방식이 독특했던 걸까……"
+  }, {
+    "$id" : 4,
+    "label" : "tq001913_msg0004",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어째서 그런\n귀찮은 짓을 하는 거야?"
+  }, {
+    "$id" : 5,
+    "label" : "tq001913_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 란츠가 느끼는 것처럼\n불편한 느낌을 주기 위해서가 아닐까?"
+  }, {
+    "$id" : 6,
+    "label" : "tq001913_msg0006",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으윽……!"
+  }, {
+    "$id" : 7,
+    "label" : "tq001913_msg0007",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세키에이는 우수한 첩보원이기도 하니\n적과의 상성은 사전에 파악해 뒀을 거야"
+  }, {
+    "$id" : 8,
+    "label" : "tq001913_msg0008",
+    "talker" : "3",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쉽게 말하면……\n란츠, 널 만만하게 본 거 아니야?"
+  }, {
+    "$id" : 9,
+    "label" : "tq001913_msg0009",
+    "talker" : "5",
+    "talkattr" : 33072,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만만하긴 무슨!\n결국 우리가 이겼잖아"
+  }, {
+    "$id" : 10,
+    "label" : "tq001913_msg0010",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신경 쓰지 마……!\n콜로니 요타의 전력은 줄였으니까……"
+  }, {
+    "$id" : 11,
+    "label" : "tq001913_msg0011",
+    "talker" : "6",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 기세로 계속 가자……!"
+  }, {
+    "$id" : 12,
+    "label" : "tq001913_msg0012",
+    "talker" : "5",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 위로는 뭐야?\n난 신경 안 쓴다니까?!"
+  }, {
+    "$id" : 13,
+    "label" : "tq001913_msg0101",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……잠시 물어볼 게 있어"
+  }, {
+    "$id" : 14,
+    "label" : "tq001913_msg0102",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 요타의 세키에이에게\n내 취미를 얘기한 사람 있어?"
+  }, {
+    "$id" : 15,
+    "label" : "tq001913_msg0103",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갑자기 뭐야?"
+  }, {
+    "$id" : 16,
+    "label" : "tq001913_msg0104",
+    "talker" : "6",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타이온 얘기를\n왜 함부로 하고 다니겠어……"
+  }, {
+    "$id" : 17,
+    "label" : "tq001913_msg0105",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네 정보가 알려진 거야?"
+  }, {
+    "$id" : 18,
+    "label" : "tq001913_msg0106",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래\n자세한 언급은 안 하겠지만……"
+  }, {
+    "$id" : 19,
+    "label" : "tq001913_msg0107",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디서 얻은 건지\n꽤 상세한 데이터까지 파악당한 상태였어"
+  }, {
+    "$id" : 20,
+    "label" : "tq001913_msg0108",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세키에이는 우수한 첩보원이라고 들었어\n이미 우리에 대한 조사가 끝났던 건가 봐"
+  }, {
+    "$id" : 21,
+    "label" : "tq001913_msg0109",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근데 어떤 정보였길래?"
+  }, {
+    "$id" : 22,
+    "label" : "tq001913_msg0110",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "묵비권을 행사하지"
+  }, {
+    "$id" : 23,
+    "label" : "tq001913_msg0111",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야, 괜히 더 궁금해지잖아?!"
+  }, {
+    "$id" : 24,
+    "label" : "tq001913_msg0112",
+    "talker" : "1",
+    "talkattr" : 33066,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타이온보다 정보에 밝다니……"
+  }, {
+    "$id" : 25,
+    "label" : "tq001913_msg0113",
+    "talker" : "1",
+    "talkattr" : 33146,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세키에이의 정보망은\n주의하는 게 좋겠어"
+  } ]
+}

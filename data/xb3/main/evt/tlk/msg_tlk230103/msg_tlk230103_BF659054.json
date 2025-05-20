@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230103_msg0001",
+    "talker" : "@a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토비마루에게는…… 끈질긴 근성과……\n승부에 대한 직감이 있다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230103_msg0002",
+    "talker" : "@a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "머지 않아…… 날 넘을 거다"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230103_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "라이조를 넘는다고?!\n그 녀석이 그렇게 강했나……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk230103_msg0004",
+    "talker" : "@a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래……\n차분해졌을 때 말이다만……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk230103_msg0005",
+    "talker" : "@a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……자랑스러운…… 후계자다"
+  } ]
+}

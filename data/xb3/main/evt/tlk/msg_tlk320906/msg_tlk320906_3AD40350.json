@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk320906_msg0001",
+    "talker" : "dd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 이 향은……\n혹시 시리어스 아네모네?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk320906_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아…… 내 거야\n허브티를 마시기 위해 갖고 다니거든"
+  }, {
+    "$id" : 3,
+    "label" : "tlk320906_msg0003",
+    "talker" : "dd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 차 마시는 게 취미구나?\n그럼 좋은 걸 알려 줄게"
+  }, {
+    "$id" : 4,
+    "label" : "tlk320906_msg0004",
+    "talker" : "dd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "머쉬멜로라는 버섯으로 우린 차가\n향도 엄청 진하고 건강에도 좋대\n마시면 힘이 솟는다는 평판이 자자해"
+  }, {
+    "$id" : 5,
+    "label" : "tlk320906_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠…… 그런 게 있었군\n기억해 둘게"
+  } ]
+}

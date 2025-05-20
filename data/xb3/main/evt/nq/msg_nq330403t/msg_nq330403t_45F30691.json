@@ -1,0 +1,232 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330403_msg0001",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후~ 니코를 챙겨 주셔서\n감사합니다~!"
+  }, {
+    "$id" : 2,
+    "label" : "nq330403_msg0002",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……하지만 지금은 아야한테\n먼저 가 주세요"
+  }, {
+    "$id" : 3,
+    "label" : "nq330403_msg0003",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "볼일이 있다면서\n여러분을 찾는 것 같았어요~"
+  }, {
+    "$id" : 4,
+    "label" : "nq330403_msg0101",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수고하십니다~!"
+  }, {
+    "$id" : 5,
+    "label" : "nq330403_msg0102",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 뮤 정문으로 진입해서\n콜로니를 공격해 주세요~"
+  }, {
+    "$id" : 6,
+    "label" : "nq330403_msg0103",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모든 병사를 쓰러뜨리면 훈련 종료예요!\n준비는 되셨나요~?"
+  }, {
+    "$id" : 7,
+    "label" : "nq330403_msg0104",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "준비는 됐어?"
+  }, {
+    "$id" : 8,
+    "label" : "nq330403_msg0200",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "문제없다"
+  }, {
+    "$id" : 9,
+    "label" : "nq330403_msg0201",
+    "talker" : "@f1",
+    "talkattr" : 41984,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다!\n그럼 여러분, 무운을 빌어요……!"
+  }, {
+    "$id" : 10,
+    "label" : "nq330403_msg0202",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : "콜로니 뮤가 훈련 상태에 들어갔습니다.\n중단하려면 니코에게 말을 걸어 주십시오."
+  }, {
+    "$id" : 11,
+    "label" : "nq330403_msg0300",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "잠깐만 기다려"
+  }, {
+    "$id" : 12,
+    "label" : "nq330403_msg0301",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다~\n준비가 끝나면 말씀해 주세요!"
+  }, {
+    "$id" : 13,
+    "label" : "nq330403_msg0401",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훈련을 중단하실 때는\n니코한테 말씀해 주세요~!"
+  }, {
+    "$id" : 14,
+    "label" : "nq330403_msg0402",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "훈련을 중단할까?"
+  }, {
+    "$id" : 15,
+    "label" : "nq330403_msg0500",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "중단한다"
+  }, {
+    "$id" : 16,
+    "label" : "nq330403_msg0501",
+    "talker" : "@f1",
+    "talkattr" : 41984,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다!\n아야랑 애들한테 전할게요"
+  }, {
+    "$id" : 17,
+    "label" : "nq330403_msg0502",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : "콜로니 뮤의 훈련을 중단했습니다.\n다시하려면 니코에게 말을 걸어 주십시오."
+  }, {
+    "$id" : 18,
+    "label" : "nq330403_msg0600",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "계속한다"
+  }, {
+    "$id" : 19,
+    "label" : "nq330403_msg0601",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힘내세요~!"
+  }, {
+    "$id" : 20,
+    "label" : "nq330403_msg0701",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훈련을 다시 시작하시겠어요~?"
+  }, {
+    "$id" : 21,
+    "label" : "nq330403_msg0702",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "훈련을 다시 시작할까?"
+  }, {
+    "$id" : 22,
+    "label" : "nq330403_msg0800",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "다시 시작한다"
+  }, {
+    "$id" : 23,
+    "label" : "nq330403_msg0900",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "잠깐만 기다려"
+  } ]
+}

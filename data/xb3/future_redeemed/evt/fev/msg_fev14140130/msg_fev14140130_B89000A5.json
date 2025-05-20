@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<7E85AE9C>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디, 내일 준비도 다 했으니\n슬슬 잠이나 잘까?"
+  }, {
+    "$id" : 2,
+    "label" : "<037DB8AA>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 조금 일찍 쉬어야겠네\n늦잠 자지 마, 매슈"
+  }, {
+    "$id" : 3,
+    "label" : "<1E81B70A>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안 자!\n애 취급 좀 그만하라니까"
+  }, {
+    "$id" : 4,
+    "label" : "<FF1262F7>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "렉스는 나하고 지령실에서 최종 확인 좀 하자\n부재중일 때를 위해 인수인계도 해 둬야겠어"
+  }, {
+    "$id" : 5,
+    "label" : "<D3D921DD>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어……\n나 원 참, 이런 때마저 서류 작업이라니"
+  }, {
+    "$id" : 6,
+    "label" : "<5017E79A>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 도울게!"
+  }, {
+    "$id" : 7,
+    "label" : "<A74F8150>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저도 돕겠습니다\n……선생님들도\n가능하면 휴식을 취하셔야죠"
+  }, {
+    "$id" : 8,
+    "label" : "<A1CA38A5>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 오늘은 여기서 해산할게\n내일 또 보자!"
+  } ]
+}

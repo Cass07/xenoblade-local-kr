@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120101_msg0001",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시도 군무장님에게\n집정관과 생명의 불시계에\n관한 이야기를 들었어요……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120101_msg0002",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앞으로 어떻게 될지 생각하면\n조금 불안하지만……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120101_msg0003",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래도 시도 군무장님과\n미오 선배가 결정한 일인걸요!\n키리에는 어디까지든지 따라가겠습니다!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120101_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……고마워, 키리에\n우리도 최대한 모두의 힘이 되도록 노력할게"
+  } ]
+}

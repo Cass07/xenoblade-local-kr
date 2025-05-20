@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk712601_msg0001",
+    "talker" : "kl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 손주는 너희만 할 때\n로스트 넘버즈에 들어갔단다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk712601_msg0002",
+    "talker" : "kl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 처음으로 임무를 수행하는 날\n행방불명이 되었지……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk712601_msg0003",
+    "talker" : "kl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어째서 그 아이를 전장으로 보낸 걸까……\n난 아직도 후회하고 있단다"
+  }, {
+    "$id" : 4,
+    "label" : "tlk712601_msg0004",
+    "talker" : "kl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니 지금 내가 할 수 있는 건\n로스트 넘버즈 활동을\n반대하는 것뿐이야"
+  } ]
+}

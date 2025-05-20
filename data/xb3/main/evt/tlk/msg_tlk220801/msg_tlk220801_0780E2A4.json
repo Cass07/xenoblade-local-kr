@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk220801_msg0001",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "밥은 잘 먹고 다니는 거야?\n배 속이 든든하지 않으면\n필요할 때 힘을 제대로 발휘할 수 없을 거야"
+  }, {
+    "$id" : 2,
+    "label" : "tlk220801_msg0002",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 앞에 있는 레베 고원을 지날 거면\n미리 든든하게 먹어 둬"
+  }, {
+    "$id" : 3,
+    "label" : "tlk220801_msg0003",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 콜로니에서 먹어도 되고\n동료가 만든 걸 먹어도 상관없으니까"
+  } ]
+}

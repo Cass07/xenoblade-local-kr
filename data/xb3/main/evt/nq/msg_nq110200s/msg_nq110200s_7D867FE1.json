@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq110200_msg0001",
+    "talker" : "1",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맥시가 말한 작전이\n도대체 뭘까?"
+  }, {
+    "$id" : 2,
+    "label" : "nq110200_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 어쨌든 우릴 믿는 것 같으니\n잘된 거 아니야?"
+  }, {
+    "$id" : 3,
+    "label" : "nq110200_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 지금까지 한 일이……\n소용없지는 않았구나"
+  }, {
+    "$id" : 4,
+    "label" : "nq110200_msg0004",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……여전히 납득 못 한 사람이\n한 명 남아 있기는 하지만"
+  }, {
+    "$id" : 5,
+    "label" : "nq110200_msg0005",
+    "talker" : "3",
+    "talkattr" : 33056,
+    "talkattr2" : 32897,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제레미라고 했나?\n그 녀석한테도 여러 가지 사정이 있겠지"
+  }, {
+    "$id" : 6,
+    "label" : "nq110200_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맥시도 말했잖아\n모두가 다 신뢰하진 않는다고"
+  }, {
+    "$id" : 7,
+    "label" : "nq110200_msg0007",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서…… 이번 의뢰는\n수락하는 걸로 봐도 될까?"
+  }, {
+    "$id" : 8,
+    "label" : "nq110200_msg0008",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……나는 수락해야 한다고 봐\n콜로니 4가 걱정되기도 하고……"
+  }, {
+    "$id" : 9,
+    "label" : "nq110200_msg0009",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맥시가 말했듯이\n우리에 대한\n오해를 풀 계기가 된다면……"
+  }, {
+    "$id" : 10,
+    "label" : "nq110200_msg0010",
+    "talker" : "6",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미오……"
+  }, {
+    "$id" : 11,
+    "label" : "nq110200_msg0011",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 이것저것 고민하기 전에\n일단 행동해 보는 거지"
+  }, {
+    "$id" : 12,
+    "label" : "nq110200_msg0012",
+    "talker" : "1",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 더 고민할 필요 없어\n우리가 옳다고 믿는 일을 하면 돼"
+  } ]
+}

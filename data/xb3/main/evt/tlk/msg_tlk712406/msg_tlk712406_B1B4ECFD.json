@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk712406_msg0001",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스와 케베스가\n손을 잡은 것도 모자라……\n이번엔 시티까지 거기에 가세했어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk712406_msg0002",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이만한 업적을 이룩할 정도면\n난 이 시대의 우로보로스가\n시조에 필적하는 존재라고 생각해"
+  }, {
+    "$id" : 3,
+    "label" : "tlk712406_msg0003",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이런 역사적 순간을\n직접 보는 날이 오다니……\n역시 오래 살고 볼 일이야!"
+  } ]
+}

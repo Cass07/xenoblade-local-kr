@@ -1,0 +1,259 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq240503_msg0001",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이곳이 콜로니 감마군요……\n설마 아그누스의 콜로니에\n발을 들이게 되는 날이 오다니"
+  }, {
+    "$id" : 2,
+    "label" : "nq240503_msg0002",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 콜로니는\n신병이 꽤 많아 보이는군요"
+  }, {
+    "$id" : 3,
+    "label" : "nq240503_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 그들은 예비 전력으로서\n전선에 투입되지 않는 자들이야"
+  }, {
+    "$id" : 4,
+    "label" : "nq240503_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신경 쓰이는 점이라도 있어?"
+  }, {
+    "$id" : 5,
+    "label" : "nq240503_msg0005",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 물론이죠"
+  }, {
+    "$id" : 6,
+    "label" : "nq240503_msg0006",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앞날이 불투명해서 그런 건지\n생명의 불시계에서 해방된 것에\n두려움을 느끼는 병사가 많습니다"
+  }, {
+    "$id" : 7,
+    "label" : "nq240503_msg0007",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 와중에도 그들은 훈련에 힘쓰고\n이 가혹한 세상에서 살아가기 위해\n적극적으로 노력하고 있어요……"
+  }, {
+    "$id" : 8,
+    "label" : "nq240503_msg0008",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이것도 여러분께서 가져오신\n\"변화\" 중 하나군요"
+  }, {
+    "$id" : 9,
+    "label" : "nq240503_msg0009",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "감찰관에게 높은 평가를 받았다는 걸\n알게 되면 그들도 콧대가 높아지겠는걸"
+  }, {
+    "$id" : 10,
+    "label" : "nq240503_msg0010",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분, 이제 여긴 충분합니다\n그럼 다음 장소로 안내해 주시겠어요?"
+  }, {
+    "$id" : 11,
+    "label" : "nq240503_msg0011",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네네, 다음은 어딘데?"
+  }, {
+    "$id" : 12,
+    "label" : "nq240503_msg0012",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"시티\"입니다"
+  }, {
+    "$id" : 13,
+    "label" : "nq240503_msg0013",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네네, 시티……"
+  }, {
+    "$id" : 14,
+    "label" : "nq240503_msg0014",
+    "talker" : "3",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐어?! 시티라고?!"
+  }, {
+    "$id" : 15,
+    "label" : "nq240503_msg0015",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 아이오니온에서\n케베스와 아그누스에\n속하지 않은 세력인…… 시티 말입니다"
+  }, {
+    "$id" : 16,
+    "label" : "nq240503_msg0016",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 곳이 있다는 걸 알았을 때\n제 의지와 상관없이 가슴이 고동치더군요……"
+  }, {
+    "$id" : 17,
+    "label" : "nq240503_msg0017",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 시티에 갑자기\n외부인을 데려가는 건 어려울 텐데"
+  }, {
+    "$id" : 18,
+    "label" : "nq240503_msg0018",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 거기 말고 시티 사람이\n있는 곳이 있을까……?"
+  }, {
+    "$id" : 19,
+    "label" : "nq240503_msg0019",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……앗! 그럼\n아그누스 캐슬은 어때?"
+  }, {
+    "$id" : 20,
+    "label" : "nq240503_msg0020",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……맞아! 그 방법이 있었지!\n머리 좋은데, 세나!"
+  }, {
+    "$id" : 21,
+    "label" : "nq240503_msg0021",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은 생각이야……\n적어도 시티보다는\n받아들여 줄 가능성이 있어"
+  }, {
+    "$id" : 22,
+    "label" : "nq240503_msg0022",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 아교랑 훔교 녀석들이면\n이야기 정도는 들어 주겠지"
+  }, {
+    "$id" : 23,
+    "label" : "nq240503_msg0023",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "트리히 씨, 바람과는 다르지만\n거기로 가도 될까?"
+  }, {
+    "$id" : 24,
+    "label" : "nq240503_msg0024",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 물론이죠"
+  }, {
+    "$id" : 25,
+    "label" : "nq240503_msg0025",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제가 알고 싶은 건\n장소가 아니라 사람이니까요"
+  }, {
+    "$id" : 26,
+    "label" : "nq240503_msg0026",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 그럼 서두르자\n아그누스 캐슬로 가는 거야"
+  } ]
+}

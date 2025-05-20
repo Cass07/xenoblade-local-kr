@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk832200_msg0001",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 전에\n엄마한테 편지가 왔어모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk832200_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오~ 뭐라고 써 있었어?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk832200_msg0003",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰 메달을 다 모은 게 맞냐는\n확인 편지였어모"
+  }, {
+    "$id" : 4,
+    "label" : "tlk832200_msg0004",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 브로로\n일부러 \"아직\"이라고 적어서\n답장을 보냈어모"
+  }, {
+    "$id" : 5,
+    "label" : "tlk832200_msg0005",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그랬어?\n좋은 소식인데 전해 주면 좋잖아"
+  }, {
+    "$id" : 6,
+    "label" : "tlk832200_msg0006",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 말 적었다가는\n바로 집에서 호출할 거야모\n그리고 또 다음 일을 떠맡게 되겠지모"
+  }, {
+    "$id" : 7,
+    "label" : "tlk832200_msg0007",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 일부러 바쁘다고 어필해서\n상황을 넘겨야지모\n이거야말로 행상의 거래 아니겠어모"
+  }, {
+    "$id" : 8,
+    "label" : "tlk832200_msg0008",
+    "talker" : "wp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모후후, 완전 천재적인 발상이야모\n브로로 자기 자신의 재능이 두렵다니까모……!"
+  }, {
+    "$id" : 9,
+    "label" : "tlk832200_msg0009",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어휴……"
+  } ]
+}

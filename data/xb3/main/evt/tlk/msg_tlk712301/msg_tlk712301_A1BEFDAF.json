@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk712301_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스 후보생이 되려면\n많이 힘들어……?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk712301_msg0002",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힘들지\n4년에 한 번 치르는 선정 시험에\n합격해야 하거든"
+  }, {
+    "$id" : 3,
+    "label" : "tlk712301_msg0003",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선정되는 후보생은 총 10명, 그중 넷은 예비야\n많은 병사가 후보생을 노리고 있는 만큼\n선정된 병사는 상당히 우수하다고 볼 수 있지"
+  } ]
+}

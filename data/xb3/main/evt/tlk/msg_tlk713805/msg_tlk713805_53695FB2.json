@@ -1,0 +1,43 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk713805_msg0001",
+    "talker" : "vl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "형님과 동료분들이 남기고 간 임무를\n십수 년만에 완수했다고 명각비에 보고했어……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk713805_msg0002",
+    "talker" : "vl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거기에 모니카 씨는 나한테 맡기고\n지켜봐 달라는 선전 포고까지 하고 왔지"
+  } ]
+}

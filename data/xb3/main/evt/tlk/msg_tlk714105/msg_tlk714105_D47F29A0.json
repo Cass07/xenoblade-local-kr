@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk714105_msg0001",
+    "talker" : "yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모니카 씨도 그렇고\n너희에게 폐를 끼쳐서 미안해"
+  }, {
+    "$id" : 2,
+    "label" : "tlk714105_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너까지 그런 행동을 보인 건\n좀 뜻밖이긴 했어……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk714105_msg0003",
+    "talker" : "yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "할 수 있는 일은 해 두고 싶었거든\n정작 내 미숙함을 깨닫는 기회가 돼 버렸네"
+  }, {
+    "$id" : 4,
+    "label" : "tlk714105_msg0004",
+    "talker" : "yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 우리 때문에 피해를 본\n부서별로 각자 의견서를\n모아서 정리해 봤어"
+  }, {
+    "$id" : 5,
+    "label" : "tlk714105_msg0005",
+    "talker" : "yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어느 쪽에 제출해야 할까……?\n트래비스 부관님? 아니면 모니카 씨?"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk420704_msg0001",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티에 발을 들이는 날이 오다니\n마치 꿈을 꾸는 것 같네요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk420704_msg0002",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "10기를 넘어서도 살아 있는 사람이\n잔뜩 있었습니다"
+  }, {
+    "$id" : 3,
+    "label" : "tlk420704_msg0003",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마 저 모습이야말로\n뫼비우스가 만든 구조에 얽매이지 않은\n자연스러운 모습이겠죠……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk420704_msg0004",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "언젠가는 저희도\n저렇게 살 수 있는 걸까요……?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk420704_msg0005",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 그건 저희의 노력에 달렸겠죠\n힘내겠습니다!"
+  } ]
+}

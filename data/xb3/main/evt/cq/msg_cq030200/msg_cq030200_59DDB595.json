@@ -1,0 +1,169 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "cq030200_0010",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 너희들\n의외로 빨리 왔네"
+  }, {
+    "$id" : 2,
+    "label" : "cq030200_0020",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "남을 기다리게 하긴 싫거든"
+  }, {
+    "$id" : 3,
+    "label" : "cq030200_0030",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마운걸"
+  }, {
+    "$id" : 4,
+    "label" : "cq030200_0040",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 5의 위치는?"
+  }, {
+    "$id" : 5,
+    "label" : "cq030200_0050",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 이 앞에 있는 로스카 분지에 있어\n동굴을 지나면 보일 거야"
+  }, {
+    "$id" : 6,
+    "label" : "cq030200_0060",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 서두르자\n답답한 마음을 빨리 털어 내고 싶어"
+  }, {
+    "$id" : 7,
+    "label" : "cq030200_0070",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유니가 성급하게 굴어 봤자\n상황은 바뀌지 않아모"
+  }, {
+    "$id" : 8,
+    "label" : "cq030200_0080",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 언제 성급하게 굴었다고 그래?"
+  }, {
+    "$id" : 9,
+    "label" : "cq030200_0090",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠는 조심하자는 뜻으로 말한 거야"
+  }, {
+    "$id" : 10,
+    "label" : "cq030200_0100",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지?"
+  }, {
+    "$id" : 11,
+    "label" : "cq030200_0110",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아모, 뫼비우스가 관련된 거면\n더욱 조심해야 해모"
+  }, {
+    "$id" : 12,
+    "label" : "cq030200_0120",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알았어"
+  }, {
+    "$id" : 13,
+    "label" : "cq030200_0130",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 자제하고 있기는 한데\n무작정 뛰쳐나갈 것처럼 보이면 말해 줘"
+  }, {
+    "$id" : 14,
+    "label" : "cq030200_0140",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "허어……\n너답지 않네?"
+  }, {
+    "$id" : 15,
+    "label" : "cq030200_0150",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방해되기 싫단 말이야……"
+  }, {
+    "$id" : 16,
+    "label" : "cq030200_0160",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "[ML:undisp ]훗……"
+  } ]
+}

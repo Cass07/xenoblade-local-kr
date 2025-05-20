@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk211001_msg0001",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "병사들 중에는 여러분을\n콜로니에서 배제해야 한다고\n주장하는 자들도 적지 않습니다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk211001_msg0002",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 그들에게 악의가 있어서라기보다는\n혼란과 공포…… 그런 감정들이 사람들을\n극단적인 생각으로 이끈 결과라 할 수 있죠"
+  }, {
+    "$id" : 3,
+    "label" : "tlk211001_msg0003",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 그들의 목소리를 들어 보시고\n필요하다면 도움도 주시면서\n마음의 앙금을 풀어 나가는 게 어떨까요?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk211001_msg0004",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명 그게 \"계기\"가 되어서\n여러분께 품은 오해도\n하나둘 풀려 나갈 겁니다"
+  }, {
+    "$id" : 5,
+    "label" : "tlk211001_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……고마워, 생각해 볼게"
+  } ]
+}

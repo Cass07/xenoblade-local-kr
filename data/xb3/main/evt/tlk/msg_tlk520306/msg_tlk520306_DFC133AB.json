@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520306_msg0001",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 안에서 싸운 건 처음이야……!\n아직도 가슴이 쿵쿵거려……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520306_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 조금 과했다면 미안해……\n혹시 아픈 데라도 있어……?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520306_msg0003",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 다른 사람들도 모두 괜찮아……!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520306_msg0004",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아야도 이제 더 당당해졌고……\n카나도 전보다 다른 애들이랑\n자주 대화하게 됐어"
+  }, {
+    "$id" : 5,
+    "label" : "tlk520306_msg0005",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진 건 슬프지만\n애들이 다시 웃어 주니까……\n나는 그게 더 기뻐"
+  } ]
+}

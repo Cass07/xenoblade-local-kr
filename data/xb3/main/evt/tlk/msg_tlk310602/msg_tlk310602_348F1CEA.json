@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk310602_msg0001",
+    "talker" : "sc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신들 덕분에 자율형 레브니스를 회수했어\n이제 다음에 쓸 수 있도록 손봐야겠네"
+  }, {
+    "$id" : 2,
+    "label" : "tlk310602_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 게 가능해?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk310602_msg0003",
+    "talker" : "sc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 람다의 기술자니까\n당연히 해내야지"
+  }, {
+    "$id" : 4,
+    "label" : "tlk310602_msg0004",
+    "talker" : "sc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자율형 레브니스는 람다에게\n중요한 존재라 기대가 되는걸"
+  } ]
+}

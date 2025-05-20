@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq220500_msg0001",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 50348161,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니\n콜로니를 떠난 사람들은\n잘들 지내고 있어?"
+  }, {
+    "$id" : 2,
+    "label" : "nq220500_msg0002",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정기적으로 연락을 주고 있는데\n각자 나름대로 잘하고 있는 것 같아요"
+  }, {
+    "$id" : 3,
+    "label" : "nq220500_msg0003",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다만 사이바라만큼은 연락이 끊겨서\n어떻게 지내는지 모르겠네요"
+  }, {
+    "$id" : 4,
+    "label" : "nq220500_msg0004",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 좀 걱정되네……"
+  }, {
+    "$id" : 5,
+    "label" : "nq220500_msg0005",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사이바라가 이상한 짓을 할 거라곤\n생각하지 않습니다만……\n연락이 닿지 않는 건 이상하네요"
+  }, {
+    "$id" : 6,
+    "label" : "nq220500_msg0006",
+    "talker" : "2",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디로 갔다고 했지?"
+  }, {
+    "$id" : 7,
+    "label" : "nq220500_msg0007",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 4로 갔어요"
+  }, {
+    "$id" : 8,
+    "label" : "nq220500_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 4라……\n왜 그런 곳으로 갔을까?"
+  }, {
+    "$id" : 9,
+    "label" : "nq220500_msg0009",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사이바라의 강한 요청으로 보내 주긴 했지만\n실은 저도 이유를 모르겠어요"
+  }, {
+    "$id" : 10,
+    "label" : "nq220500_msg0010",
+    "talker" : "2",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 모른다고 하니\n직접 가서 찾아볼 수밖에 없겠네"
+  }, {
+    "$id" : 11,
+    "label" : "nq220500_msg0011",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 4의 병사들이\n야만적인 녀석들은 아니니\n별일이야 있을까 싶지만……"
+  }, {
+    "$id" : 12,
+    "label" : "nq220500_msg0012",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "직접 가 보죠\n일단 사이바라를 만나야겠어요"
+  } ]
+}

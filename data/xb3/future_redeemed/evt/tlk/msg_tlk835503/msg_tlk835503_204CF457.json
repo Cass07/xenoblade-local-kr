@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk835503_msg0001",
+    "talker" : "Wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "악셀과 피니가\n일을 하고 있다고 들었을 때는\n정말 놀랐어요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk835503_msg0002",
+    "talker" : "Wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어른들 중에는 지금 상황에 절망해서\n살아갈 기력을 잃은 사람도 있는데……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk835503_msg0003",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "언젠가 돌아올 부모님께\n걱정 끼치고 싶지 않다나 보더라고\n……어린데도 참 대단한 녀석들이야"
+  }, {
+    "$id" : 4,
+    "label" : "tlk835503_msg0004",
+    "talker" : "Wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 정말로요……\n저도 아이들을 위해 뭔가\n할 수 있는 일을 찾아야겠어요"
+  } ]
+}

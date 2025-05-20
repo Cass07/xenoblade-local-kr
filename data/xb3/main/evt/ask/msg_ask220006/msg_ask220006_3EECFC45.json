@@ -1,0 +1,124 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<9744A4CB>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 30의 노폰은\n아주 자기 멋대로네"
+  }, {
+    "$id" : 2,
+    "label" : "<5E6BDCAC>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "툭하면 쉬거나 일하다가 자고\n갑자기 사라지기도 하던데……"
+  }, {
+    "$id" : 3,
+    "label" : "<56F9A503>",
+    "talker" : "5",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이참에 노폰한테도 우리처럼\n인식표를 달아서 관리하는 건 어때?"
+  }, {
+    "$id" : 4,
+    "label" : "<1D1293B2>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 그들의 행동을\n하나하나 감시할 수 있겠군"
+  }, {
+    "$id" : 5,
+    "label" : "<5C6485E1>",
+    "talker" : "XW1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말도 안 되는 소리야모!\n그런 짓을 했다간\n일할 의욕이 확 떨어질 게 분명해모!"
+  }, {
+    "$id" : 6,
+    "label" : "<7A001A8A>",
+    "talker" : "tV",
+    "talkattr" : 33072,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래요모! 노폰은\n자유를 신조로 삼는다구요모!"
+  }, {
+    "$id" : 7,
+    "label" : "<AC44D962>",
+    "talker" : "5",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진정해, 화내지 말고……\n예를 들면 그렇단 거지"
+  }, {
+    "$id" : 8,
+    "label" : "<2E97D914>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 콜로니 9의 노폰은\n비교적 착실한 편이었잖아"
+  }, {
+    "$id" : 9,
+    "label" : "<B3ABCDDF>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 감마의 노폰도\n콜로니 30보다는 성실하게 일했어"
+  }, {
+    "$id" : 10,
+    "label" : "<3E7CC73B>",
+    "talker" : "1",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그 말은 루디 때문이란 건가?"
+  }, {
+    "$id" : 11,
+    "label" : "<2ECC5CEB>",
+    "talker" : "2",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 그런 걸지도……"
+  } ]
+}

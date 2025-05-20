@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk113201_msg0001",
+    "talker" : "@X1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 들었어?\n콜로니 9의 철거신이\n당분간 못 움직인대"
+  }, {
+    "$id" : 2,
+    "label" : "tlk113201_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "못 움직인다고?\n전장에서 여기까지\n멀쩡하게 걸어서 돌아왔는데?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk113201_msg0003",
+    "talker" : "@X1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 시그마와 교전하다가\n내연 기관에 조금 손상이 갔나 봐"
+  }, {
+    "$id" : 4,
+    "label" : "tlk113201_msg0004",
+    "talker" : "@X1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 노폰들이 점검할 테니까\n움직이지 말라고 난리더라"
+  }, {
+    "$id" : 5,
+    "label" : "tlk113201_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하아~ 그럼 당분간은\n꼼짝없이 여기 머물러야겠네"
+  } ]
+}

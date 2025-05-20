@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk110103_msg0001",
+    "talker" : "XX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 뮤 사람들은\n대부분 기수가 나랑 비슷하거나\n나보다 낮아서 놀랐어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk110103_msg0002",
+    "talker" : "XX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생각하는 것도 자유로워서\n『비료를 바꾸면 감자 맛도\n달라지지 않을까?』라고 하더라니까"
+  }, {
+    "$id" : 3,
+    "label" : "tlk110103_msg0003",
+    "talker" : "XX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "재밌을 것 같으니까\n군무장님께 허가를 받아서\n시도해 보려고 해"
+  }, {
+    "$id" : 4,
+    "label" : "tlk110103_msg0004",
+    "talker" : "XX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약 잘되면 노아 씨랑\n다른 사람들도 먹어 봐"
+  }, {
+    "$id" : 5,
+    "label" : "tlk110103_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 기대할게"
+  } ]
+}

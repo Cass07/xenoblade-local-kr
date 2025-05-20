@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831201_msg0001",
+    "talker" : "tq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 9 남쪽을 보면\n살짝 높은 산이 있잖아?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831201_msg0002",
+    "talker" : "tq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그쪽으로 길을 따라가다 보면\n전망대 같은 장소가 있는데~\n거기서 보는 경치가 엄청 좋아"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831201_msg0003",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오……\n나중에 한번 가 봐야겠네"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831201_msg0004",
+    "talker" : "tq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응응, 꼭 가 봐~"
+  } ]
+}

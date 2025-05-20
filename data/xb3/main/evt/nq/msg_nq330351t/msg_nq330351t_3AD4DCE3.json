@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330351_msg0001",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "울타리는 어떻게든 될 것 같아!\n타로랑 애들한테 얘기하니까\n텐트 설치도 도와준다고 했어"
+  }, {
+    "$id" : 2,
+    "label" : "nq330351_msg0002",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 아르마들을 기르는 법만 알면 되는데\n무슨 비결이 있으려나……?"
+  }, {
+    "$id" : 3,
+    "label" : "nq330351_msg0101",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안녕! 지금 새로운 메뉴를 구상하고 있었어"
+  }, {
+    "$id" : 4,
+    "label" : "nq330351_msg0102",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아르마들을 기르면\n신선한 우유를 얻기 쉬워질 테니까……"
+  }, {
+    "$id" : 5,
+    "label" : "nq330351_msg0103",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "평소와 다른 맛을 내 보려고 해\n맛있는 밥을 먹으면 기운이 나잖아!"
+  } ]
+}

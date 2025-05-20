@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk111703_msg0001",
+    "talker" : "mX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오리진의 공격으로\n남쪽 평원 근처에 있는 절벽이\n콰앙! 하더니 사라져 버렸어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk111703_msg0002",
+    "talker" : "mX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 먼 곳에 있어서 다치고 끝났지만\n만약 그 근처에 있었다면……\n지금도 몸이 오들오들 떨려……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk111703_msg0003",
+    "talker" : "mX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……하지만 그 충격 때문에\n절벽 위로 갈 수 있게 되지 않았을까?"
+  } ]
+}

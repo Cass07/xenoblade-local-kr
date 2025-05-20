@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011207_msg0001",
+    "talker" : "vl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스의 힘이 없어도\n우리가 할 수 있는 일은 얼마든지 있어"
+  }, {
+    "$id" : 2,
+    "label" : "tq011207_msg0002",
+    "talker" : "vl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희는 괜한 생각 말고\n뫼비우스를 쓰러뜨리는 데 집중해"
+  }, {
+    "$id" : 3,
+    "label" : "tq011207_msg0101",
+    "talker" : "vl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "형님보다 나이가 많아지다니\n뭔가 기분이 묘하네"
+  }, {
+    "$id" : 4,
+    "label" : "tq011207_msg0102",
+    "talker" : "vl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……나는 그 시절의\n형님보다 강해졌을까?"
+  } ]
+}

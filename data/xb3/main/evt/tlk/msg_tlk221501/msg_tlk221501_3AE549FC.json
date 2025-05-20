@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk221501_msg0001",
+    "talker" : "va1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장님은 그냥 평범한 정비사가 아니야\n힐러로서도 실력이 정말 뛰어나거든"
+  }, {
+    "$id" : 2,
+    "label" : "tlk221501_msg0002",
+    "talker" : "va1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엄청나게 회복하는 아츠에다가\n조금 천천히 회복하는 아츠였나?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk221501_msg0003",
+    "talker" : "va1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 회복력을 강화하는 아츠까지……\n군무장님만 있으면 끝까지 싸울 수 있을 거야"
+  }, {
+    "$id" : 4,
+    "label" : "tlk221501_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디가 표적이 되면 끝이야\n그 점은 조심해야 해"
+  }, {
+    "$id" : 5,
+    "label" : "tlk221501_msg0005",
+    "talker" : "va1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "듣고 보니 또 그렇네\n아무쪼록 우리 군무장님을 잘 지켜 줘"
+  } ]
+}

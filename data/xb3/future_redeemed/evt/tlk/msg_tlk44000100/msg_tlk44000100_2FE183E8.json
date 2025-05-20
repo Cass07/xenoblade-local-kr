@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk44000100_msg0001",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠는 이 사건이 해결되고 나면\n어떻게 할 생각이야?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk44000100_msg0002",
+    "talker" : "fq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 우로보로스 스톤의 연구를 계속해야지모\n그러기로 약속했으니까모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk44000100_msg0003",
+    "talker" : "fq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 다음에는……\n슬쩍 케베스에 숨어들어서\n계속 기다릴 거야모"
+  }, {
+    "$id" : 4,
+    "label" : "tlk44000100_msg0004",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기다린다니, 뭘 기다리는데?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk44000100_msg0005",
+    "talker" : "fq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그때가 되면 알 수 있어모"
+  }, {
+    "$id" : 6,
+    "label" : "tlk44000100_msg0006",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어째 얼버무리는 느낌인데……\n뭐, 나야 상관없지만"
+  }, {
+    "$id" : 7,
+    "label" : "tlk44000100_msg0007",
+    "talker" : "fq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직 먼 훗날의 일이야모\n그때까지는 시티에서 신세 질 거야모\n잘 부탁해모"
+  } ]
+}

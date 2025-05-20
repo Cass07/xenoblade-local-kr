@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq001005_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난폭해진 페리스를 쓰러뜨리고 왔어"
+  }, {
+    "$id" : 2,
+    "label" : "sq001005_msg0002",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠, 쓰러뜨렸다는 증거는 어디 있지?"
+  }, {
+    "$id" : 3,
+    "label" : "sq001005_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거라면 여기 페리스의 쌍각이……"
+  }, {
+    "$id" : 4,
+    "label" : "sq001005_msg0004",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 페리스한테서 얻을 수도 있지 않나\n그것만 가지고는 증거라 할 수 없지"
+  }, {
+    "$id" : 5,
+    "label" : "sq001005_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐~~?"
+  }, {
+    "$id" : 6,
+    "label" : "sq001005_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 자식 뭐야?\n진짜 짜증 나네"
+  }, {
+    "$id" : 7,
+    "label" : "sq001005_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩔 수 없어\n돌아가서 증거가\n될 만한 걸 가져오자"
+  }, {
+    "$id" : 8,
+    "label" : "sq001005_msg0008",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젠장, 또 돌아가야 해?"
+  } ]
+}

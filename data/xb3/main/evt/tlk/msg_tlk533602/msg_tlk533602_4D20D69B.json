@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk533602_msg0001",
+    "talker" : "co1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……너희들한테 팔 물건은 없어모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk533602_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"노폰이 필요하대모\""
+  }, {
+    "$id" : 3,
+    "label" : "tlk533602_msg0003",
+    "talker" : "co1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……잘 왔어모"
+  }, {
+    "$id" : 4,
+    "label" : "tlk533602_msg0101",
+    "talker" : "co1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……고마워모"
+  }, {
+    "$id" : 5,
+    "label" : "tlk533602_msg0201",
+    "talker" : "co1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "용무도 없는데 말 거는 녀석이\n제일 성가셔모"
+  } ]
+}

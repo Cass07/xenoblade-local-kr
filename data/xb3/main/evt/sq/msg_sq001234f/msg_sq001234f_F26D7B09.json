@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq001234_msg0001",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 이곳을 파 보자"
+  }, {
+    "$id" : 2,
+    "label" : "sq001234_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거 보통 일이 아니겠는데……"
+  }, {
+    "$id" : 3,
+    "label" : "sq001234_msg0101",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무것도 안 묻혀 있네"
+  }, {
+    "$id" : 4,
+    "label" : "sq001234_msg0201",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모모……"
+  }, {
+    "$id" : 5,
+    "label" : "sq001234_msg0202",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰의 감으로 알 수 있어요모"
+  }, {
+    "$id" : 6,
+    "label" : "sq001234_msg0203",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이쪽에는 없어요모\n멀리 있는 것 같아요모"
+  }, {
+    "$id" : 7,
+    "label" : "sq001234_msg0204",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰의 감……?"
+  }, {
+    "$id" : 8,
+    "label" : "sq001234_msg0205",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 주변에 있는 건 확실해모"
+  }, {
+    "$id" : 9,
+    "label" : "sq001234_msg0206",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 마나나의 감을 믿고\n다른 장소도 파 보자"
+  }, {
+    "$id" : 10,
+    "label" : "sq001234_msg0301",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음~ 으음?\n이쪽에는 없어요모\n멀리 있는 곳에서 느껴져요모"
+  }, {
+    "$id" : 11,
+    "label" : "sq001234_msg0302",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떻게 그런 걸 알 수 있지……?"
+  }, {
+    "$id" : 12,
+    "label" : "sq001234_msg0401",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무것도 안 묻혀 있네"
+  } ]
+}

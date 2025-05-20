@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<37416C57>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 어떻게 운반하면 좋으려나"
+  }, {
+    "$id" : 2,
+    "label" : "<BDC3C63F>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이렇게나 많으면\n저희만으론 힘들겠군요……"
+  }, {
+    "$id" : 3,
+    "label" : "<B8CDFAF5>",
+    "talker" : "xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠시만요\n레브니스 출동을 요청해서\n운반해 달라고 할게요"
+  }, {
+    "$id" : 4,
+    "label" : "<FCD50FFB>",
+    "talker" : "yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그럼 나도 할래"
+  }, {
+    "$id" : 5,
+    "label" : "<6B8D5851>",
+    "talker" : "xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물자 운반은 저희가 맡겠습니다"
+  }, {
+    "$id" : 6,
+    "label" : "<9286490E>",
+    "talker" : "yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 이따가\n콜로니 9에서 합류해요"
+  }, {
+    "$id" : 7,
+    "label" : "<7B0636EB>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어\n여기는 맡길게"
+  } ]
+}

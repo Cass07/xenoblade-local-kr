@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk835803_msg0001",
+    "talker" : "Zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "딜런과 함께\n아이들을 찾아냈나 보구나?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk835803_msg0002",
+    "talker" : "Zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니 어렸을 때\n시티 바깥으로 나간 적이 있었잖아?\n딜런하고 같이 말이야"
+  }, {
+    "$id" : 3,
+    "label" : "tlk835803_msg0003",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어른들 몰래 그랬지……\n그러다 할아버지한테 끌려와서\n엄청 혼났었던가?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk835803_msg0004",
+    "talker" : "Zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 매슈가 끌고 오는 역할이라니……\n이젠 어른 다 됐네"
+  }, {
+    "$id" : 5,
+    "label" : "tlk835803_msg0005",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러는 넌 의사 선생님이잖아\n너도 다를 거 없어"
+  } ]
+}

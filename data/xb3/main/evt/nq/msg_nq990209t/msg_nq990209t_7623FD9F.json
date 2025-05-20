@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq990209_msg0001",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "건조는 순조롭게 진행되고 있어모\n곧 있으면 완성이야모!"
+  }, {
+    "$id" : 2,
+    "label" : "nq990209_msg0002",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "드루크는 현재\n페이즈 8를 진행 중이야모"
+  }, {
+    "$id" : 3,
+    "label" : "nq990209_msg0003",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자재를 가져왔다고모?\n레파파가 후다닥 검품할게모!"
+  }, {
+    "$id" : 4,
+    "label" : "nq990209_msg0101",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직 한참 부족해모!"
+  }, {
+    "$id" : 5,
+    "label" : "nq990209_msg0201",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아주 훌륭해모!\n이거면 페이즈 9을 진행할 수 있겠어모"
+  }, {
+    "$id" : 6,
+    "label" : "nq990209_msg0202",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 조금만 더 하면 완성이야모"
+  }, {
+    "$id" : 7,
+    "label" : "nq990209_msg0203",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "페이즈 9을 진행하려면\n아그누스의 레브니스를 연구해야 해모"
+  }, {
+    "$id" : 8,
+    "label" : "nq990209_msg0204",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무리 레파파가 천재라고 해도\n다른 기술에 관해서는 한계가 있지모"
+  }, {
+    "$id" : 9,
+    "label" : "nq990209_msg0205",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 요타라면\n문제를 해결할 힌트를 지니고 있을 것 같아모\n사이좋게 지냈으면 좋겠는데모~~"
+  } ]
+}

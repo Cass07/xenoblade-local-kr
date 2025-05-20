@@ -1,0 +1,169 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq210804_msg0001",
+    "talker" : "ae1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……오랜만이군, 콜로니 람다\n그리고 이스루기!!"
+  }, {
+    "$id" : 2,
+    "label" : "nq210804_msg0002",
+    "talker" : "A",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너는……"
+  }, {
+    "$id" : 3,
+    "label" : "nq210804_msg0003",
+    "talker" : "ae1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 람다에는\n신세 참 많이 졌다"
+  }, {
+    "$id" : 4,
+    "label" : "nq210804_msg0004",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지난번 싸움에서 전멸한 줄 알았는데"
+  }, {
+    "$id" : 5,
+    "label" : "nq210804_msg0005",
+    "talker" : "be1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자율형 레브니스인지 뭔지 때문에\n우리 콜로니는 초토화됐지만\n우리는 죽지 않았지……"
+  }, {
+    "$id" : 6,
+    "label" : "nq210804_msg0006",
+    "talker" : "be1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 죽지 못했다는 게 맞겠군\n우리를 공격한 람다에\n복수하기 전까지는 말이지!"
+  }, {
+    "$id" : 7,
+    "label" : "nq210804_msg0007",
+    "talker" : "5",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 녀석들은 설마……?!"
+  }, {
+    "$id" : 8,
+    "label" : "nq210804_msg0008",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래……\n과거에 람다와 싸웠던 콜로니 13의……\n우리를 궁지에 몰아넣었던 정예군이다"
+  }, {
+    "$id" : 9,
+    "label" : "nq210804_msg0009",
+    "talker" : "ae1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 새로운 콜로니로 이주했지만\n우리의 증오는 사라지지 않았어!"
+  }, {
+    "$id" : 10,
+    "label" : "nq210804_msg0010",
+    "talker" : "ae1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 13의 동료를 죽인\n람다를 향한 증오만큼은 말이지!"
+  }, {
+    "$id" : 11,
+    "label" : "nq210804_msg0011",
+    "talker" : "ae1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희에게 복수하겠다는 증오심이\n우리가 지닌 생명의 불을\n활활 불태우고 있다!"
+  }, {
+    "$id" : 12,
+    "label" : "nq210804_msg0012",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 헛소리를……\n네 녀석들이 사용한 독 때문에\n우리도 수많은 동료를 잃었다……!"
+  }, {
+    "$id" : 13,
+    "label" : "nq210804_msg0013",
+    "talker" : "4",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 무의미한 짓이야……\n복수해 봤자 무슨 의미가 있지!"
+  }, {
+    "$id" : 14,
+    "label" : "nq210804_msg0014",
+    "talker" : "ce1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 와서 의미를 찾을 생각은 없어!\n우리는 콜로니 람다를 망가뜨리면 그만이다!"
+  }, {
+    "$id" : 15,
+    "label" : "nq210804_msg0015",
+    "talker" : "5",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "칫…… 말이 안 통하네\n말로는 해결이 안 되겠어"
+  }, {
+    "$id" : 16,
+    "label" : "nq210804_msg0016",
+    "talker" : "ae1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "독이 몸 구석구석에 퍼지는 고통을\n네 녀석들에게도 똑똑히 맛보게 해 주마!"
+  } ]
+}

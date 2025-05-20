@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk211306_msg0001",
+    "talker" : "Xa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……앞으로 드랭크랑 하마하마 일은\n그 녀석들 스스로에게 맡겨 둘 거야"
+  }, {
+    "$id" : 2,
+    "label" : "tlk211306_msg0002",
+    "talker" : "Xa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 그 둘은 없어졌지만\n정비 개발반에는 아무 문제도 없으니까"
+  }, {
+    "$id" : 3,
+    "label" : "tlk211306_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하, 센 척할 거 없어\n사실은 외로운 거지?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk211306_msg0004",
+    "talker" : "Xa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시, 시끄러!\n일하는 데 방해되니까 어서 가 버려!"
+  } ]
+}

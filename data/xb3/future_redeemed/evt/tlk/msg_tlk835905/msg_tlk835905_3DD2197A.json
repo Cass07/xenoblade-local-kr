@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk835905_msg0001",
+    "talker" : "aq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나, 힘낼 거야\n아빠와 엄마가 안심하고\n돌아올 수 있도록!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk835905_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……힘들면 어른들한테 말해\n여기 있는 모두가\n네 가족 같은 사람들이니까"
+  }, {
+    "$id" : 3,
+    "label" : "tlk835905_msg0003",
+    "talker" : "aq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 매슈 씨는\n나한텐 형이고 피니한텐 오빠……?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk835905_msg0004",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래!\n형님이라고 불러도 돼"
+  }, {
+    "$id" : 5,
+    "label" : "tlk835905_msg0005",
+    "talker" : "aq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 알았어, 형님!"
+  }, {
+    "$id" : 6,
+    "label" : "tlk835905_msg0006",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗……\n형님이라……"
+  } ]
+}

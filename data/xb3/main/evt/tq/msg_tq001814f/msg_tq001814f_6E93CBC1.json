@@ -1,0 +1,484 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001814_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젠장! 우린 다 같이 덤비고 있는데\n왜 공격이 안 먹히는 거야!"
+  }, {
+    "$id" : 2,
+    "label" : "tq001814_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기량이 엄청난 사람인 줄은 알았지만\n이 정도일 줄이야……"
+  }, {
+    "$id" : 3,
+    "label" : "tq001814_msg0003",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분도 전에 없는 강력한 힘을\n얻은 모양이더군요"
+  }, {
+    "$id" : 4,
+    "label" : "tq001814_msg0004",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 그 힘이야말로 화근입니다\n타인과 자신의 목숨조차 위협할……"
+  }, {
+    "$id" : 5,
+    "label" : "tq001814_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그건 오해세요! 저희는……"
+  }, {
+    "$id" : 6,
+    "label" : "tq001814_msg0006",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니요, 이건 여러분에게만\n해당하는 얘기가 아닙니다"
+  }, {
+    "$id" : 7,
+    "label" : "tq001814_msg0007",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힘이라는 것은 원래\n이 세계를 둘러싼 \"소용돌이\"입니다"
+  }, {
+    "$id" : 8,
+    "label" : "tq001814_msg0008",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "소용돌이는 이윽고 격류가 되어\n사람들의 목숨을 무자비하게 집어삼키죠……"
+  }, {
+    "$id" : 9,
+    "label" : "tq001814_msg0009",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 감마의 현 상황을 아는 여러분이라면\n이 말의 의미를 이해할 수 있을 겁니다"
+  }, {
+    "$id" : 10,
+    "label" : "tq001814_msg0010",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건……"
+  }, {
+    "$id" : 11,
+    "label" : "tq001814_msg0011",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미오, 당신은 어떻죠?"
+  }, {
+    "$id" : 12,
+    "label" : "tq001814_msg0012",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 우로보로스라는 힘이\n당신을 반역의 길로 내몬 겁니까?"
+  }, {
+    "$id" : 13,
+    "label" : "tq001814_msg0013",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신 또한 \"소용돌이\"의 일부로\n전락해 버렸습니까?"
+  }, {
+    "$id" : 14,
+    "label" : "tq001814_msg0014",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 아니야……!"
+  }, {
+    "$id" : 15,
+    "label" : "tq001814_msg0015",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐가 아니라는 거죠?"
+  }, {
+    "$id" : 16,
+    "label" : "tq001814_msg0016",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……우리가 우로보로스가 된 건\n뜻밖의 우연이었어"
+  }, {
+    "$id" : 17,
+    "label" : "tq001814_msg0017",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 이 힘이 있으면\n새로운 가능성이 열릴 거라고 생각해"
+  }, {
+    "$id" : 18,
+    "label" : "tq001814_msg0018",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠…… 가능성이라?"
+  }, {
+    "$id" : 19,
+    "label" : "tq001814_msg0019",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 세계에서 살아가기 위한……\n새로운 생명의 사용법……"
+  }, {
+    "$id" : 20,
+    "label" : "tq001814_msg0020",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말로 표현하기는 어렵지만\n우리가 지닌 힘은 그걸 위해서 존재하는 거야"
+  }, {
+    "$id" : 21,
+    "label" : "tq001814_msg0021",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그것만큼은 확신할 수 있어"
+  }, {
+    "$id" : 22,
+    "label" : "tq001814_msg0022",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "궤변이군요"
+  }, {
+    "$id" : 23,
+    "label" : "tq001814_msg0023",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다고 해도 우리는……\n앞으로 나아가야만 해"
+  }, {
+    "$id" : 24,
+    "label" : "tq001814_msg0024",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "목숨을 저버리지 않는 길로 가는 게\n우리의…… \"희망\"이니까"
+  }, {
+    "$id" : 25,
+    "label" : "tq001814_msg0025",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 26,
+    "label" : "tq001814_msg0026",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 27,
+    "label" : "tq001814_msg0027",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……흠, 아무래도 제 판단에\n착오가 있었던 것 같군요"
+  }, {
+    "$id" : 28,
+    "label" : "tq001814_msg0028",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?"
+  }, {
+    "$id" : 29,
+    "label" : "tq001814_msg0029",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 들으신 대로입니다"
+  }, {
+    "$id" : 30,
+    "label" : "tq001814_msg0030",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제가 판단하기에는\n이들은 반역자가 아닙니다"
+  }, {
+    "$id" : 31,
+    "label" : "tq001814_msg0031",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "따라서 군무장의 권한으로\n처분할 필요가 없다고 결정하겠습니다"
+  }, {
+    "$id" : 32,
+    "label" : "tq001814_msg0032",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이의 없으십니까? 집정관님?"
+  }, {
+    "$id" : 33,
+    "label" : "tq001814_msg0033",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐……! 집정관이라고?!"
+  }, {
+    "$id" : 34,
+    "label" : "tq001814_msg0034",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗……!"
+  }, {
+    "$id" : 35,
+    "label" : "tq001814_msg0035",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 자식……!\n그딴 곳에 숨어 있었냐!"
+  }, {
+    "$id" : 36,
+    "label" : "tq001814_msg0036",
+    "talker" : "sW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……미사여구를 늘어놓는다 한들\n우로보로스는 언젠가 세계를 파괴할 것이다"
+  }, {
+    "$id" : 37,
+    "label" : "tq001814_msg0037",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 또한 하나의 가능성에 불과합니다"
+  }, {
+    "$id" : 38,
+    "label" : "tq001814_msg0038",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사람은 변화하는 존재……\n저는 이들의 의지를 믿습니다"
+  }, {
+    "$id" : 39,
+    "label" : "tq001814_msg0039",
+    "talker" : "sW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "과거의 네 녀석은……"
+  }, {
+    "$id" : 40,
+    "label" : "tq001814_msg0040",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 제게는 의지도 각오도 없었죠\n그저 부끄러울 따름입니다"
+  }, {
+    "$id" : 41,
+    "label" : "tq001814_msg0041",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래도 이들이라면 틀림없이\n저와는 다른 길을 걸어갈 겁니다"
+  }, {
+    "$id" : 42,
+    "label" : "tq001814_msg0042",
+    "talker" : "sW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……기어이 갈 생각인가"
+  }, {
+    "$id" : 43,
+    "label" : "tq001814_msg0043",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신께선 제게 다시 시작할 기회를 주셨습니다\n그 무엇으로도 갚을 수 없는 은혜죠"
+  }, {
+    "$id" : 44,
+    "label" : "tq001814_msg0044",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니 더더욱…… 여기서는 당신의 방식대로\n결판을 내 주실 순 없으신지요"
+  }, {
+    "$id" : 45,
+    "label" : "tq001814_msg0045",
+    "talker" : "sW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알았다"
+  }, {
+    "$id" : 46,
+    "label" : "tq001814_msg0046",
+    "talker" : "sW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 다시 한번\n네 녀석과 반역자들을 심판하겠노라"
+  }, {
+    "$id" : 47,
+    "label" : "tq001814_msg0047",
+    "talker" : "tW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 뫼비우스의 힘으로……!"
+  }, {
+    "$id" : 48,
+    "label" : "tq001814_msg0048",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시도 군무장……!"
+  }, {
+    "$id" : 49,
+    "label" : "tq001814_msg0049",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 지금이야말로\n여러분의 뜻을 내보일 때입니다"
+  }, {
+    "$id" : 50,
+    "label" : "tq001814_msg0050",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "함께 증명해 봅시다\n그 힘이 가는 길 끝에 빛이 있음을……!"
+  }, {
+    "$id" : 51,
+    "label" : "tq001814_msg0051",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래!"
+  } ]
+}

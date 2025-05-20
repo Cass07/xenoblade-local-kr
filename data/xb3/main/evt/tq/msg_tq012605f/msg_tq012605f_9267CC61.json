@@ -1,0 +1,277 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012605_msg0001",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그레이"
+  }, {
+    "$id" : 2,
+    "label" : "tq012605_msg0002",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너는 모니카 부하인……"
+  }, {
+    "$id" : 3,
+    "label" : "tq012605_msg0003",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 신경 쓰이는 일이 생겨서 말이야"
+  }, {
+    "$id" : 4,
+    "label" : "tq012605_msg0004",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말해 봐"
+  }, {
+    "$id" : 5,
+    "label" : "tq012605_msg0005",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네 부인인 로자나가\n\"밖\"으로 나가려고 했대……"
+  }, {
+    "$id" : 6,
+    "label" : "tq012605_msg0006",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇군"
+  }, {
+    "$id" : 7,
+    "label" : "tq012605_msg0007",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "병사들에게 제지당해서\n그대로 물러났다고 들었는데"
+  }, {
+    "$id" : 8,
+    "label" : "tq012605_msg0008",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확인차 기술부에 가 보니\n오늘은 오지 않았다고 하더라고"
+  }, {
+    "$id" : 9,
+    "label" : "tq012605_msg0009",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 그거 괜찮은 거야?\n우리를 습격한 녀석들 부하한테\n납치라도 당한 건……"
+  }, {
+    "$id" : 10,
+    "label" : "tq012605_msg0010",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "습격한 녀석들?"
+  }, {
+    "$id" : 11,
+    "label" : "tq012605_msg0011",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무것도 아니다\n계속 말해 봐"
+  }, {
+    "$id" : 12,
+    "label" : "tq012605_msg0012",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐, 아무튼 수상한 냄새가 나길래\n혹여나 해서 말해 주러 왔어"
+  }, {
+    "$id" : 13,
+    "label" : "tq012605_msg0013",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모니카는 어딨지?"
+  }, {
+    "$id" : 14,
+    "label" : "tq012605_msg0014",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 말이야, 로자나에게 부탁받아서\n별동대를 끌고 밖으로 나가셨어\n매우 급한 일이라나……"
+  }, {
+    "$id" : 15,
+    "label" : "tq012605_msg0015",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "급하다고 해도 그렇지\n우리 보스를 움직이게 하다니\n대체 무슨 경우인지, 참"
+  }, {
+    "$id" : 16,
+    "label" : "tq012605_msg0016",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 모르겠군\n……하지만 확인은 해 두지"
+  }, {
+    "$id" : 17,
+    "label" : "tq012605_msg0017",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꼭 좀 부탁할게\n나도 별로 깊이 관여하고 싶진 않으니까"
+  }, {
+    "$id" : 18,
+    "label" : "tq012605_msg0018",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 로자나가 어디에 있는지\n그레이는 알고 있어?"
+  }, {
+    "$id" : 19,
+    "label" : "tq012605_msg0019",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도무지 짐작도 안 가는군"
+  }, {
+    "$id" : 20,
+    "label" : "tq012605_msg0020",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로자나가 없어졌다는데\n너무 침착한 거 아니야?"
+  }, {
+    "$id" : 21,
+    "label" : "tq012605_msg0021",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모니카를 시티에서 멀어지게 하고\n자기도 밖으로 나가려고 하다니\n아무래도 좀 부자연스러워"
+  }, {
+    "$id" : 22,
+    "label" : "tq012605_msg0022",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "싸움을 못하는 사람이 여기서 나가면\n위험하다는 걸 로자나도 알고 있을 텐데……"
+  }, {
+    "$id" : 23,
+    "label" : "tq012605_msg0023",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 밖으로 꼭 나가야 했다면\n모니카에게 부탁하면 됐을 거야"
+  }, {
+    "$id" : 24,
+    "label" : "tq012605_msg0024",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어이, 그레이\n어쩔 거야?"
+  }, {
+    "$id" : 25,
+    "label" : "tq012605_msg0025",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇다 해도\n정말 대담한 여자군"
+  }, {
+    "$id" : 26,
+    "label" : "tq012605_msg0026",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?"
+  }, {
+    "$id" : 27,
+    "label" : "tq012605_msg0027",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디로 갔는지는 모르지만\n알고 있을 만한 사람이\n몇 명 있지"
+  }, {
+    "$id" : 28,
+    "label" : "tq012605_msg0028",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 물어보는 게\n훨씬 빠르겠네"
+  } ]
+}

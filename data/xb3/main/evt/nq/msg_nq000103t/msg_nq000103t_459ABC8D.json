@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq000103_msg0001",
+    "talker" : "dk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오? 무슨 일이야모?"
+  }, {
+    "$id" : 2,
+    "label" : "nq000103_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시르지르 의뢰로\n이런 돌을 모으고 있어"
+  }, {
+    "$id" : 3,
+    "label" : "nq000103_msg0003",
+    "talker" : "dk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래그래, 기다렸어모"
+  }, {
+    "$id" : 4,
+    "label" : "nq000103_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기다려?"
+  }, {
+    "$id" : 5,
+    "label" : "nq000103_msg0005",
+    "talker" : "dk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꽤 오래전에 노역을 하다\n돌을 잃어버렸거든모"
+  }, {
+    "$id" : 6,
+    "label" : "nq000103_msg0006",
+    "talker" : "dk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모마마 같은 게으름뱅이는 아니니까\n열심히 찾아보려 했는데\n무서운 사람이 많아서 못 찾았어모"
+  }, {
+    "$id" : 7,
+    "label" : "nq000103_msg0007",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하는 수 없지……\n우리가 대신 찾아 줄게"
+  }, {
+    "$id" : 8,
+    "label" : "nq000103_msg0008",
+    "talker" : "dk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래 주면 고맙지모\n어떤 색이든 상관없으니까\n찾으면 가져다줘모"
+  } ]
+}

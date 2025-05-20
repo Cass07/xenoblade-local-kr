@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq010907_msg0001",
+    "talker" : "T",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 방금 너희랑 있었던\n여자애는 어디 갔어?"
+  }, {
+    "$id" : 2,
+    "label" : "nq010907_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아이리스 말이야?"
+  }, {
+    "$id" : 3,
+    "label" : "nq010907_msg0003",
+    "talker" : "T",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희를 만났을 때처럼\n처음 본 것 같지 않아서\n이야기를 나누고 싶었거든"
+  }, {
+    "$id" : 4,
+    "label" : "nq010907_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그대로 전해 줄게"
+  }, {
+    "$id" : 5,
+    "label" : "nq010907_msg0101",
+    "talker" : "T",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "소다 비누석이라면\n하쿠토도 찾고 있지 않았나?"
+  }, {
+    "$id" : 6,
+    "label" : "nq010907_msg0102",
+    "talker" : "T",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 여기서 조금만 더\n자재를 회수하고 돌아갈게"
+  }, {
+    "$id" : 7,
+    "label" : "nq010907_msg0103",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 나중에 보자"
+  } ]
+}

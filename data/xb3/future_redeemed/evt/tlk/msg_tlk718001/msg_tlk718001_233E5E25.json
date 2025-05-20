@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk718001_msg0001",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 89,
+    "name" : "리드 가문"
+  }, {
+    "$id" : 2,
+    "label" : "tlk718001_msg0002",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 89,
+    "name" : "리드 가문의 시조이며 시티의 해방자."
+  }, {
+    "$id" : 3,
+    "label" : "tlk718001_msg0003",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 89,
+    "name" : "이 동상은 시조가 스승으로 섬겼던 인물을 본뜬 것이며\n이는 그저 시조가 스승에게 품었던 경애의 마음으로 말미암아\n만들어진 것이다."
+  }, {
+    "$id" : 4,
+    "label" : "tlk718001_msg0004",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 89,
+    "name" : "스승은 시조와 혈연관계가 아니었으나\n시조를 자기 자식처럼 소중하게 길렀다고 전해진다."
+  }, {
+    "$id" : 5,
+    "label" : "tlk718001_msg0005",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 89,
+    "name" : "스승은 항상 냉정하고 차분한 사람이었지만\n전투에 나가 붉은 대검을 휘두르는 그 모습은\n수많은 뫼비우스를 공포에 떨게 했다."
+  }, {
+    "$id" : 6,
+    "label" : "tlk718001_msg0006",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 89,
+    "name" : "스승은 뫼비우스와의 격렬한 전투에서\n오른팔을 잃게 되었지만……"
+  }, {
+    "$id" : 7,
+    "label" : "tlk718001_msg0007",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 89,
+    "name" : "부상을 입은 후에도 전의를 상실하지 않는\n강한 정신력의 소유자였던 것으로 전해진다."
+  } ]
+}

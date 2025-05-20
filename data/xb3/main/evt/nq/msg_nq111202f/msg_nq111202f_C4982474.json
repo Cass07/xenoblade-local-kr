@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq111202_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 마나나, 다 발랐어"
+  }, {
+    "$id" : 2,
+    "label" : "nq111202_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응? 어디서 날갯소리가……"
+  }, {
+    "$id" : 3,
+    "label" : "nq111202_msg0003",
+    "talker" : "ee1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모~! 뭔가 왔슴다모~~?!"
+  }, {
+    "$id" : 4,
+    "label" : "nq111202_msg0004",
+    "talker" : "de1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으아아아악! 살려 줘!\n벌레만큼은 죽어도 싫어! 진짜로!!"
+  }, {
+    "$id" : 5,
+    "label" : "nq111202_msg0005",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기다리던 \"식재료\"가 왔어요모!\n여러분! 그 모슨을 쓰러뜨려 주세요모!"
+  }, {
+    "$id" : 6,
+    "label" : "nq111202_msg0006",
+    "talker" : "de1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이, 이게 식재료라고오오오?!\n농담이지? 그렇지?!"
+  }, {
+    "$id" : 7,
+    "label" : "nq111202_msg0007",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐 어쨌든 덤벼드는 이상\n쓰러뜨려야지!"
+  } ]
+}

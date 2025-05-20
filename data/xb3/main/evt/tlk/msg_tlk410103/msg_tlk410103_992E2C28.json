@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk410103_msg0001",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 곧 상처도 아물 때군\n다시 한번 사투를 벌여 볼까, 우로보로스!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk410103_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 잠깐! 전에 그걸로\n이야기 끝난 거 아니었어?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk410103_msg0003",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말했을 텐데\n내 목표는 승리가 아니라\n스스로의 한계를 뛰어넘는 것이다"
+  }, {
+    "$id" : 4,
+    "label" : "tlk410103_msg0004",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 초렌을 백 번 쓰러뜨린다고 한들\n내가 추구하는 길을 막을 수 있다고\n생각하지 마라"
+  }, {
+    "$id" : 5,
+    "label" : "tlk410103_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거 완전 고집불통에 승부욕 덩어리네……"
+  } ]
+}

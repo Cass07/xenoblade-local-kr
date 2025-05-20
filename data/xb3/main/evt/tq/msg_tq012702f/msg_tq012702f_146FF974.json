@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<314B860E>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "찾았어요모!\n저 녀석이 노폰 이터예요모!!"
+  }, {
+    "$id" : 2,
+    "label" : "<BEC16F2D>",
+    "talker" : "V",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거기까지예요모!!"
+  }, {
+    "$id" : 3,
+    "label" : "<C4B44FE9>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰을 해치는 극악한 악당!\n이렇게 만나는 게 얼마 만인지모!"
+  }, {
+    "$id" : 4,
+    "label" : "<76629200>",
+    "talker" : "V",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번에는 반드시 붙잡아서\n새 고기로 만들어 줄 거예요모!\n각오하세요모!"
+  } ]
+}

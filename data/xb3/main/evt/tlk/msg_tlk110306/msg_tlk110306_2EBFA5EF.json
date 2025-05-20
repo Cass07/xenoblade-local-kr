@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk110306_msg0001",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "멜리아 여왕님께서\n그렇게나 아름다운 분이셨다니……!!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk110306_msg0002",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "멜리아 님의 존안이\n머릿속에서 계속 떠나질 않아……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk110306_msg0003",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 난 위사가 되겠어!\n우선 캐슬 소속 부대로\n이동 신청부터 해야 하나?!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk110306_msg0004",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 콜로니 9을 떠나도\n너희는 영원히 내 동료야!!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk110306_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음…… 이동 신청이\n받아들여지면 좋겠는데"
+  } ]
+}

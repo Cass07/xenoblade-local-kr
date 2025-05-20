@@ -1,0 +1,259 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012501_msg0001",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 주변일 텐데……"
+  }, {
+    "$id" : 2,
+    "label" : "tq012501_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "소문은 과장되기 쉬워서\n이야기 자체가 부풀려지기 십상이야"
+  }, {
+    "$id" : 3,
+    "label" : "tq012501_msg0003",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그거야 당연하지\n고작 몬스터 한 마리한테 지다니 한심하긴"
+  }, {
+    "$id" : 4,
+    "label" : "tq012501_msg0004",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 한가한 사람 아니라고\n너희끼리 처리할 일 아녔어?"
+  }, {
+    "$id" : 5,
+    "label" : "tq012501_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게나 신경 썼으면서……"
+  }, {
+    "$id" : 6,
+    "label" : "tq012501_msg0006",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "궁금하기는 해\n우리 애들을 두들겨 팬 게\n어떤 녀석인지는 봐야지"
+  }, {
+    "$id" : 7,
+    "label" : "tq012501_msg0007",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "허풍이면 뭐 어때"
+  }, {
+    "$id" : 8,
+    "label" : "tq012501_msg0008",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐가 됐든 날려 버리면\n위험할 건 없잖아?\n간단하다고"
+  }, {
+    "$id" : 9,
+    "label" : "tq012501_msg0009",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바로 그거야!\n이런 건 단순하게 생각해야지"
+  }, {
+    "$id" : 10,
+    "label" : "tq012501_msg0010",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "커다란 녀석이 있으면 날려 버리고\n그렇지 않더라도 날려 버리고!"
+  }, {
+    "$id" : 11,
+    "label" : "tq012501_msg0011",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안 그래?"
+  }, {
+    "$id" : 12,
+    "label" : "tq012501_msg0012",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 글쎄……"
+  }, {
+    "$id" : 13,
+    "label" : "tq012501_msg0013",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기까지 왔는데\n자잘한 거 신경 쓰기보단\n알기 쉬운 편이 낫지 않아?"
+  }, {
+    "$id" : 14,
+    "label" : "tq012501_msg0014",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞는 말이야\n지금은 사소한 일을 따지는 것보다\n조사가 더 중요해"
+  }, {
+    "$id" : 15,
+    "label" : "tq012501_msg0015",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얘들아, 저기 봐!"
+  }, {
+    "$id" : 16,
+    "label" : "tq012501_msg0016",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……만신창이가 됐네"
+  }, {
+    "$id" : 17,
+    "label" : "tq012501_msg0017",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 너희들. 살아 있냐?"
+  }, {
+    "$id" : 18,
+    "label" : "tq012501_msg0018",
+    "talker" : "Yc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "큭…… 너, 너희는 뭐야……"
+  }, {
+    "$id" : 19,
+    "label" : "tq012501_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 일이 있었어?"
+  }, {
+    "$id" : 20,
+    "label" : "tq012501_msg0020",
+    "talker" : "Yc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……괴물한테 습격당했어"
+  }, {
+    "$id" : 21,
+    "label" : "tq012501_msg0021",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 괴물이라고?"
+  }, {
+    "$id" : 22,
+    "label" : "tq012501_msg0022",
+    "talker" : "Yc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우린 아그누스 콜로니와 전투 중이었는데\n그때 녀석이 끼어들었지……"
+  }, {
+    "$id" : 23,
+    "label" : "tq012501_msg0023",
+    "talker" : "Yc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "필사적으로 도망쳤지만\n우리고 저쪽이고 거의 전멸했어……"
+  }, {
+    "$id" : 24,
+    "label" : "tq012501_msg0024",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디서 싸웠는데?\n우리도 그 녀석을 찾는 중이야"
+  }, {
+    "$id" : 25,
+    "label" : "tq012501_msg0025",
+    "talker" : "Yc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바람 소리 동굴의 문이야……\n조심해, 그 녀석은\n평범한 몬스터가 아니야"
+  }, {
+    "$id" : 26,
+    "label" : "tq012501_msg0026",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한번 가 보자\n소문으로 듣던 그 녀석일지도 몰라"
+  } ]
+}

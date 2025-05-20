@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk711104_msg0001",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토도로키 할아버지\n제게도 다양한 선율을\n알려 주실 수 있나요?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk711104_msg0002",
+    "talker" : "_k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠흠후~\n흠흠 흠후~♪"
+  }, {
+    "$id" : 3,
+    "label" : "tlk711104_msg0003",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "멋진 소리예요……\n어떤 걸 생각하며 지으신 선율인가요?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk711104_msg0004",
+    "talker" : "_k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……미야비의 요리란다\n죽은 아내의 요리와 비슷한 맛이 났거든"
+  }, {
+    "$id" : 5,
+    "label" : "tlk711104_msg0005",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……! 미치바 씨네 식당에서\n또 만들어 드릴게요\n나중에 꼭 드셔 주세요"
+  } ]
+}

@@ -1,0 +1,187 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq240100_msg0001",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 오비르부스 요새에 있는\n훈련병들은 좀 이상한 것 같지 않아?"
+  }, {
+    "$id" : 2,
+    "label" : "nq240100_msg0002",
+    "talker" : "6",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이상하다니?"
+  }, {
+    "$id" : 3,
+    "label" : "nq240100_msg0003",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왠지 까다롭고 귀찮은 말만\n많이 하는 것 같다고나 할까……"
+  }, {
+    "$id" : 4,
+    "label" : "nq240100_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 건방진 녀석들이 많았어"
+  }, {
+    "$id" : 5,
+    "label" : "nq240100_msg0005",
+    "talker" : "4",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네가 할 말이야?"
+  }, {
+    "$id" : 6,
+    "label" : "nq240100_msg0006",
+    "talker" : "3",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조용히 해"
+  }, {
+    "$id" : 7,
+    "label" : "nq240100_msg0007",
+    "talker" : "3",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 저렇게 말만 그럴싸한 녀석들은\n마음에 안 든단 말이야"
+  }, {
+    "$id" : 8,
+    "label" : "nq240100_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "간부 후보생이라 이론 교육을\n많이 받아서 그런 게 아닐까?"
+  }, {
+    "$id" : 9,
+    "label" : "nq240100_msg0009",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왠지 보고 있으면 걱정되지 않아?"
+  }, {
+    "$id" : 10,
+    "label" : "nq240100_msg0010",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 이대로 두면 저 녀석들은\n실전에서 절대 제대로 못 싸울 거야"
+  }, {
+    "$id" : 11,
+    "label" : "nq240100_msg0011",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇겠지……"
+  }, {
+    "$id" : 12,
+    "label" : "nq240100_msg0012",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다고 우리가 뭘 할 수 있겠어?"
+  }, {
+    "$id" : 13,
+    "label" : "nq240100_msg0013",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……한판 붙자"
+  }, {
+    "$id" : 14,
+    "label" : "nq240100_msg0014",
+    "talker" : "4",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?"
+  }, {
+    "$id" : 15,
+    "label" : "nq240100_msg0015",
+    "talker" : "5",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한판 벌인 다음에 우리가 압승해서\n그 녀석들의 콧대를 꺾어 주자 이거야"
+  }, {
+    "$id" : 16,
+    "label" : "nq240100_msg0016",
+    "talker" : "3",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "찬성! 경험이 그 어떤 지식보다\n뛰어나다는 걸 몸소 알려 주자고"
+  }, {
+    "$id" : 17,
+    "label" : "nq240100_msg0017",
+    "talker" : "4",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하아…… 막무가내군……"
+  }, {
+    "$id" : 18,
+    "label" : "nq240100_msg0018",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 오비르부스 요새에 가서\n건방진 훈련생들을 찾아보자"
+  } ]
+}

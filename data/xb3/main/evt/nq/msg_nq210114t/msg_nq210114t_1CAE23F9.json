@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq210114t_msg0001",
+    "talker" : "nc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아! 바로 건설을 시작하자!"
+  }, {
+    "$id" : 2,
+    "label" : "nq210114t_msg0002",
+    "talker" : "nc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들한테 정말 고마워\n우리는 여기저기서 허가를 받아야 해서\n가끔 이렇게 일이 멈추곤 하거든"
+  }, {
+    "$id" : 3,
+    "label" : "nq210114t_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 개선하면 되잖아"
+  }, {
+    "$id" : 4,
+    "label" : "nq210114t_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 동감이야"
+  }, {
+    "$id" : 5,
+    "label" : "nq210114t_msg0005",
+    "talker" : "nc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희처럼 머릿수가 적으면 모를까\n사람들이 많은 콜로니에서\n혼자 멋대로 행동할 순 없잖아"
+  }, {
+    "$id" : 6,
+    "label" : "nq210114t_msg0006",
+    "talker" : "nc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "규율을 정해 두면\n쓸데없는 충돌도 피할 수 있어"
+  }, {
+    "$id" : 7,
+    "label" : "nq210114t_msg0007",
+    "talker" : "nc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "허가를 받아서 행동하는 만큼\n명확한 목적을 갖고 일에 집중할 수 있지"
+  }, {
+    "$id" : 8,
+    "label" : "nq210114t_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나\n각 부대에서 정보를 공유하면\n충돌이 발생할 일은 별로 없겠어"
+  }, {
+    "$id" : 9,
+    "label" : "nq210114t_msg0009",
+    "talker" : "nc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 우리 콜로니 람다는\n이 규율과 연대를 바탕으로\n어느 정도 성과를 보였으니까……"
+  }, {
+    "$id" : 10,
+    "label" : "nq210114t_msg0010",
+    "talker" : "nc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신청도 허가도 중요한 업무야\n이게 있어야 콜로니 람다가 돌아가는 거지"
+  }, {
+    "$id" : 11,
+    "label" : "nq210114t_msg0011",
+    "talker" : "nc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무튼 사람을 모아서 식당을 복구할 거야\n건설이 완료되면 너희도 한번 와 줘"
+  }, {
+    "$id" : 12,
+    "label" : "nq210114t_msg0012",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 꼭 갈게"
+  } ]
+}

@@ -1,0 +1,142 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<C132085C>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 14696577,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타이온은 아직도\n아그누스의 교본을 읽고 있지?"
+  }, {
+    "$id" : 2,
+    "label" : "<0C691E51>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 14696577,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 와서 읽어 봤자 쓸모없지 않아?\n우리는 이제……"
+  }, {
+    "$id" : 3,
+    "label" : "<2462AE81>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 12599425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……우로보로스가 되기 전에는\n교본에 쓰인 것이 옳다고\n믿어 의심치 않았어"
+  }, {
+    "$id" : 4,
+    "label" : "<7F76B937>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "교본에 쓰인 대로 실천하면\n콜로니나 여왕 폐하께 도움이 된다고……"
+  }, {
+    "$id" : 5,
+    "label" : "<7F1CA322>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 다들 알다시피\n모든 건 뫼비우스의 기만에 지나지 않았어"
+  }, {
+    "$id" : 6,
+    "label" : "<E4F4817A>",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 14696577,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 알면서 왜……"
+  }, {
+    "$id" : 7,
+    "label" : "<520DF02C>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 반대로 생각하면\n교본에는 뫼비우스의 입맛에 맞는\n정보가 들어 있다고도 할 수 있지"
+  }, {
+    "$id" : 8,
+    "label" : "<B05E1D2F>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 『입맛에 맞는 정보』를 역으로 이용해서\n녀석들의 진짜 의도와 목적을 유추하면……"
+  }, {
+    "$id" : 9,
+    "label" : "<4248B55E>",
+    "talker" : "3",
+    "talkattr" : 33104,
+    "talkattr2" : 14696577,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……! 그럼 적을 깊이 이해하기\n위해서 읽고 있는 거구나!"
+  }, {
+    "$id" : 10,
+    "label" : "<794359CF>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 12599425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정보량이 전황을 좌우한다\n……전술의 기본이야"
+  }, {
+    "$id" : 11,
+    "label" : "<1CBF7CD1>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 콜로니 9의 밭도 그렇고\n교본에 쓰인 게 전부 틀렸다고\n단정 지을 수는 없지"
+  }, {
+    "$id" : 12,
+    "label" : "<384C1E19>",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 14696577,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무작정 믿지 말고 필요한 정보만\n알아서 걸러 내라는 거네?"
+  }, {
+    "$id" : 13,
+    "label" : "<F93D9F4C>",
+    "talker" : "4",
+    "talkattr" : 33152,
+    "talkattr2" : 12599425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이해가 빨라서 다행이군"
+  } ]
+}

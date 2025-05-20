@@ -1,0 +1,43 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk611501_msg0001",
+    "talker" : "Xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "간수를 맡은 아그누스 병사들은\n교육을 참 잘 받은 모양이야"
+  }, {
+    "$id" : 2,
+    "label" : "tlk611501_msg0002",
+    "talker" : "Xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세계는 뫼비우스한테 지배당하고 있다고\n우리 동료들이 아무리 얘기해도\n다들 망언이라면서 듣는 척도 안 하더라"
+  } ]
+}

@@ -1,0 +1,250 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq240405_msg0001",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오오…… 오오……!"
+  }, {
+    "$id" : 2,
+    "label" : "nq240405_msg0002",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "언뜻 보면 덧없어 보이지만\n내면엔 강한 심지가 깃든 눈동자……"
+  }, {
+    "$id" : 3,
+    "label" : "nq240405_msg0003",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그야말로 제가 그리려는\n초상화에 딱 맞는 모델입니다!"
+  }, {
+    "$id" : 4,
+    "label" : "nq240405_msg0004",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응? 내가?!"
+  }, {
+    "$id" : 5,
+    "label" : "nq240405_msg0005",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자자! 이쪽으로 오세요!\n바로 그리기 시작하죠!"
+  }, {
+    "$id" : 6,
+    "label" : "nq240405_msg0006",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흐음……\n표정이 좀 굳었군요……"
+  }, {
+    "$id" : 7,
+    "label" : "nq240405_msg0007",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나, 나한테 그런들\n이런 건 처음이고……"
+  }, {
+    "$id" : 8,
+    "label" : "nq240405_msg0008",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혼자는 싫은데……"
+  }, {
+    "$id" : 9,
+    "label" : "nq240405_msg0009",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마시로~ 힘내라~"
+  }, {
+    "$id" : 10,
+    "label" : "nq240405_msg0010",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나, 나도 힘내고 있거든~!\n란란도 같이 하자~!"
+  }, {
+    "$id" : 11,
+    "label" : "nq240405_msg0011",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음! 지금 그 얼굴은 좋았어요!"
+  }, {
+    "$id" : 12,
+    "label" : "nq240405_msg0012",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분, 이분에게 적극적으로\n말을 걸어 주세요\n그래야 긴장이 풀릴 것 같네요"
+  }, {
+    "$id" : 13,
+    "label" : "nq240405_msg0013",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나……\n마시로, 기분은 어때?"
+  }, {
+    "$id" : 14,
+    "label" : "nq240405_msg0014",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐 원하는 거라도 있어?\n배고프니까 식사를 갖다줬으면 한다든가"
+  }, {
+    "$id" : 15,
+    "label" : "nq240405_msg0015",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음……\n같은 포즈를 계속 취해서 힘들어……"
+  }, {
+    "$id" : 16,
+    "label" : "nq240405_msg0016",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무쪼록 버텨 주세요\n조금만 더 있으면 다 그립니다!"
+  }, {
+    "$id" : 17,
+    "label" : "nq240405_msg0017",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금만 더라니, 구체적으로는?"
+  }, {
+    "$id" : 18,
+    "label" : "nq240405_msg0018",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "23시간쯤 걸리겠네요"
+  }, {
+    "$id" : 19,
+    "label" : "nq240405_msg0019",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "23시간……?!"
+  }, {
+    "$id" : 20,
+    "label" : "nq240405_msg0020",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너무 길어~!\n도중에 졸릴 거야"
+  }, {
+    "$id" : 21,
+    "label" : "nq240405_msg0021",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 문제는 그게 아니잖아……"
+  }, {
+    "$id" : 22,
+    "label" : "nq240405_msg0022",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혹시 중간에 자면\n내가 깨워 줄게!"
+  }, {
+    "$id" : 23,
+    "label" : "nq240405_msg0023",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세니는 참 착하다니까……\n고마워~~"
+  }, {
+    "$id" : 24,
+    "label" : "nq240405_msg0024",
+    "talker" : "se1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으으음~! 지금 그 표정, 훌륭합니다!\n여러분, 23시간 동안\n계속 그렇게 대화해 주세요!"
+  }, {
+    "$id" : 25,
+    "label" : "nq240405_msg0025",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말이 되는 소릴 해라!\n됐으니까 빨리 그리고 끝내!!"
+  } ]
+}

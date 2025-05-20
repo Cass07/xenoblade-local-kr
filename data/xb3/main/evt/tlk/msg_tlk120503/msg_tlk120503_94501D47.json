@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120503_msg0001",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건……!\n점점 더 흥미로워지는군요!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120503_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 의욕이 넘치는걸\n무슨 좋은 일이라도 있었어?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120503_msg0003",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "탈의실에서 모두를 관찰하고 있었는데\n이상하게 다들 눈치를 보느라\n아무도 옷을 벗으려 하지 않더군요"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120503_msg0004",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 일은 전대미문입니다!\n대체 어떻게 된 일일까요!\n뭘 신경 쓰느라 그런 걸까요!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk120503_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그렇구나!\n뭔진 잘 모르겠지만 잘됐다!"
+  } ]
+}

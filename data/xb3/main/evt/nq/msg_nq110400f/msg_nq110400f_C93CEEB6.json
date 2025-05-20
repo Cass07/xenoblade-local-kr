@@ -1,0 +1,241 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq110400_msg0001",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다행이다……\n다들 무사하셨군요"
+  }, {
+    "$id" : 2,
+    "label" : "nq110400_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 볼레아리스가\n경고해 준 덕에"
+  }, {
+    "$id" : 3,
+    "label" : "nq110400_msg0003",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 사정은 들었어\n그래서 에셀 군무장은……"
+  }, {
+    "$id" : 4,
+    "label" : "nq110400_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 5,
+    "label" : "nq110400_msg0005",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그 얼굴을 보니\n안 들어도 알겠군"
+  }, {
+    "$id" : 6,
+    "label" : "nq110400_msg0006",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "목숨 걸고 싸우다……\n전사한 거겠지"
+  }, {
+    "$id" : 7,
+    "label" : "nq110400_msg0007",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 8,
+    "label" : "nq110400_msg0008",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아아…… 에셀……"
+  }, {
+    "$id" : 9,
+    "label" : "nq110400_msg0009",
+    "talker" : "Xa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석은……\n항상 앞서 간다니까…… 젠장"
+  }, {
+    "$id" : 10,
+    "label" : "nq110400_msg0010",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……넋두리나 하고 있을 때가 아니야\n향후의 방침을 시급히 결정해야 해"
+  }, {
+    "$id" : 11,
+    "label" : "nq110400_msg0011",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래, 맞아\n그래서 어쩔 셈이야, 볼레아리스?"
+  }, {
+    "$id" : 12,
+    "label" : "nq110400_msg0012",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 13,
+    "label" : "nq110400_msg0013",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "볼레아리스?\n듣고 있나요?"
+  }, {
+    "$id" : 14,
+    "label" : "nq110400_msg0014",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어?"
+  }, {
+    "$id" : 15,
+    "label" : "nq110400_msg0015",
+    "talker" : "Xa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『어?』가 아니지\n지금부터 어떻게 할 거냐고!"
+  }, {
+    "$id" : 16,
+    "label" : "nq110400_msg0016",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그건……"
+  }, {
+    "$id" : 17,
+    "label" : "nq110400_msg0017",
+    "talker" : "gW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……미안, 조금 생각할 시간을 줘"
+  }, {
+    "$id" : 18,
+    "label" : "nq110400_msg0018",
+    "talker" : "Xa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?! 야, 볼레아리스!"
+  }, {
+    "$id" : 19,
+    "label" : "nq110400_msg0019",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……역시\n충격이 컸나 보네"
+  }, {
+    "$id" : 20,
+    "label" : "nq110400_msg0020",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 부관인 저 녀석이\n새로운 군무장을 맡는 것이 순리다"
+  }, {
+    "$id" : 21,
+    "label" : "nq110400_msg0021",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기서 꺾여 버릴 정도라면\n콜로니 4의 존속에도 영향을 미치겠지"
+  }, {
+    "$id" : 22,
+    "label" : "nq110400_msg0022",
+    "talker" : "Xa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "녀석이 그럴 그릇이 아닐 뿐인 거지\n그땐 어차피 방법도 없어"
+  }, {
+    "$id" : 23,
+    "label" : "nq110400_msg0023",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……우리에겐 여전히\n에셀이 필요할지도 모르겠네요"
+  }, {
+    "$id" : 24,
+    "label" : "nq110400_msg0024",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "볼레아리스……"
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk421201_msg0001",
+    "talker" : "Xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 운이 참 좋아"
+  }, {
+    "$id" : 2,
+    "label" : "tlk421201_msg0002",
+    "talker" : "Xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생명의 불시계가 사라져도\n새로운 체제를 충분히 고려해서\n대응할 시간이 있거든"
+  }, {
+    "$id" : 3,
+    "label" : "tlk421201_msg0003",
+    "talker" : "Xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약 10기였다면 아무것도 못 한 채\n끝나기만을 기다리고 있었을 거야"
+  } ]
+}

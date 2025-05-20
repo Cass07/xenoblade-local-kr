@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk711001_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그나저나 『밤이 되면 나간다』라고 했잖아\n무슨 이유라도 있어?\n밤 되면 어둡고 불편할 텐데"
+  }, {
+    "$id" : 2,
+    "label" : "tlk711001_msg0002",
+    "talker" : "@k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "낮에는……\n가게에서 할머니를 돕고 있었거든"
+  }, {
+    "$id" : 3,
+    "label" : "tlk711001_msg0003",
+    "talker" : "@k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 친구도 안 생기고\n그나마 손님으로 오는 기기쿠가\n말 상대를 해 주곤 했지"
+  }, {
+    "$id" : 4,
+    "label" : "tlk711001_msg0004",
+    "talker" : "@k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 수수께끼 주제는……\n밤이 돼야 더 찾기 쉬워"
+  } ]
+}

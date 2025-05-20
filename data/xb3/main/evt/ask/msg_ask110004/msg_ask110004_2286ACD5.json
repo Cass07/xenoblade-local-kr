@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<BC760044>",
+    "talker" : "4",
+    "talkattr" : 33048,
+    "talkattr2" : 8405122,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "불치 평원에서 콜로니 시그마와 싸운 건\n노아 일행의 콜로니 맞지?"
+  }, {
+    "$id" : 2,
+    "label" : "<355D4659>",
+    "talker" : "1",
+    "talkattr" : 33048,
+    "talkattr2" : 14696579,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아…… 알고 있었어?"
+  }, {
+    "$id" : 3,
+    "label" : "<FA8904C4>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 8405121,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "불치 평원은 콜로니 간의 총력전을 벌일 때\n종종 거론되는 유명한 전장이지"
+  }, {
+    "$id" : 4,
+    "label" : "<3C49CBD7>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 8405121,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "철거신끼리 치고받을 만큼\n규모가 큰 전투를 벌인다면\n그 넓은 황야가 안성맞춤이니까"
+  }, {
+    "$id" : 5,
+    "label" : "<A123957F>",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 풀 한 포기 자라지\n않을 정도로 황폐해진 거구나"
+  }, {
+    "$id" : 6,
+    "label" : "<EB33A8CC>",
+    "talker" : "1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "싸움이 사라지지 않는 이상\n그곳은 계속 불모지로 남는 건가……"
+  }, {
+    "$id" : 7,
+    "label" : "<8BF55DBA>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……언젠가 전쟁이 끝나고\n이자나 평원처럼\n푸른 들판이 되면 좋겠다"
+  } ]
+}

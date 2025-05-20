@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001811_msg0001",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자…… 여기부터가 진짜 시작입니다"
+  }, {
+    "$id" : 2,
+    "label" : "tq001811_msg0002",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 \"말뚝\"을 상상해 봅시다"
+  }, {
+    "$id" : 3,
+    "label" : "tq001811_msg0003",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 말뚝을 지면에 박아 넣습니다\n깊고 조용하게, 대지와 하나가 되듯……"
+  }, {
+    "$id" : 4,
+    "label" : "tq001811_msg0004",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그와 똑같은 느낌으로\n한 걸음을 내디뎌 보세요"
+  }, {
+    "$id" : 5,
+    "label" : "tq001811_msg0005",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앞서 말씀드린 말뚝은 곧 여러분의 발입니다"
+  }, {
+    "$id" : 6,
+    "label" : "tq001811_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음…… 알 것 같기도 하고\n모를 것 같기도 하네……"
+  }, {
+    "$id" : 7,
+    "label" : "tq001811_msg0007",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 그 정도로 충분합니다\n남은 건 실전을 통해 배우는 게 제일이니까요"
+  } ]
+}

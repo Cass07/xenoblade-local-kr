@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk711504_msg0001",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희를 받아들인 뒤로 외부인을 들이질 않나\n심지어 시티를 이동시키기까지……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk711504_msg0002",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모니카 쪽에서 내린 판단에\n불만을 품은 자들이 적지는 않다지만……\n카자미의 행동은 너무 경솔했지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk711504_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "같은 보수파인데 너는 반대하나 보네?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk711504_msg0004",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "착각하지 마라\n나는 모니카와 대립하는 게 아니다\n시티의 평화를 지키기 위해 싸울 뿐이지"
+  } ]
+}

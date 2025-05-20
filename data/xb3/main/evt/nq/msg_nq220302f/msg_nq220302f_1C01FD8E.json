@@ -1,0 +1,124 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq220302_msg0001",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마기! 괜찮아?!"
+  }, {
+    "$id" : 2,
+    "label" : "nq220302_msg0002",
+    "talker" : "_c1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희가…… 어떻게……"
+  }, {
+    "$id" : 3,
+    "label" : "nq220302_msg0003",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "봉화석 연기가 보여서\n다 같이 왔어요\n상처는……"
+  }, {
+    "$id" : 4,
+    "label" : "nq220302_msg0004",
+    "talker" : "3",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상처가 깊어\n그래도 괜찮아, 나한테 맡겨"
+  }, {
+    "$id" : 5,
+    "label" : "nq220302_msg0005",
+    "talker" : "_c1",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 둔해졌군……\n사냥 실력이라면 유즈리하에게\n지지 않는다고 자만했어……"
+  }, {
+    "$id" : 6,
+    "label" : "nq220302_msg0006",
+    "talker" : "3",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말 많이 하지 마\n아직 상처가 덜 아물었어"
+  }, {
+    "$id" : 7,
+    "label" : "nq220302_msg0007",
+    "talker" : "_c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안하지만\n나 대신 사냥감을 잡아 줘"
+  }, {
+    "$id" : 8,
+    "label" : "nq220302_msg0008",
+    "talker" : "_c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 사냥감……\n아니, 그 몬스터는 정체가 불분명해\n어쩐지 위험한 느낌이 들어……"
+  }, {
+    "$id" : 9,
+    "label" : "nq220302_msg0009",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어요\n아마기는 안정을 취하세요\n이건 군무장 명령입니다"
+  }, {
+    "$id" : 10,
+    "label" : "nq220302_msg0010",
+    "talker" : "_c1",
+    "talkattr" : 33128,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꼴이 이래서야 반론도 못 하겠군……\n알았어……"
+  }, {
+    "$id" : 11,
+    "label" : "nq220302_msg0011",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 몬스터를 쫓아가 보자"
+  } ]
+}

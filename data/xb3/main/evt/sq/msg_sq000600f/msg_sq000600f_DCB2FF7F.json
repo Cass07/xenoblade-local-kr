@@ -1,0 +1,196 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq000600_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당장 먹을 식재료도 문제지만……\n저장해 둘 만한 것도\n한번 찾아봐야겠어"
+  }, {
+    "$id" : 2,
+    "label" : "sq000600_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 좋겠다\n그럼……\n버섯이나 과일을 찾아야겠지?"
+  }, {
+    "$id" : 3,
+    "label" : "sq000600_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어!"
+  }, {
+    "$id" : 4,
+    "label" : "sq000600_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 말이야\n터킨이 캠프에 왔을 때\n아무도 눈치 못 챘어?"
+  }, {
+    "$id" : 5,
+    "label" : "sq000600_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전혀~ 요만큼도 몰랐어"
+  }, {
+    "$id" : 6,
+    "label" : "sq000600_msg0006",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어젯밤엔 푹 잠들었어모……"
+  }, {
+    "$id" : 7,
+    "label" : "sq000600_msg0007",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……미안"
+  }, {
+    "$id" : 8,
+    "label" : "sq000600_msg0008",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "워낙 많이 걸었으니\n피곤해서 그랬을 거야"
+  }, {
+    "$id" : 9,
+    "label" : "sq000600_msg0009",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "평소 같았으면 미오가\n터킨 발소리를\n못 듣고 지나쳤을 리가 없지"
+  }, {
+    "$id" : 10,
+    "label" : "sq000600_msg0010",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미오 혼자 사과할 문제가 아니야"
+  }, {
+    "$id" : 11,
+    "label" : "sq000600_msg0011",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아"
+  }, {
+    "$id" : 12,
+    "label" : "sq000600_msg0012",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 관리 방법은\n재검토하는 게 좋겠어"
+  }, {
+    "$id" : 13,
+    "label" : "sq000600_msg0013",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래\n지나간 일에 계속 미련 가져 봐야\n무슨 소용이겠어"
+  }, {
+    "$id" : 14,
+    "label" : "sq000600_msg0014",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어서 찾으러들 가자"
+  }, {
+    "$id" : 15,
+    "label" : "sq000600_msg0015",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래"
+  }, {
+    "$id" : 16,
+    "label" : "sq000600_msg0016",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저건……"
+  }, {
+    "$id" : 17,
+    "label" : "sq000600_msg0017",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하인드야!"
+  }, {
+    "$id" : 18,
+    "label" : "sq000600_msg0018",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "버섯만 가지고는\n어림도 없지!\n역시 고기가 최고 아니겠어?"
+  }, {
+    "$id" : 19,
+    "label" : "sq000600_msg0019",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋았어\n식재료를 잔뜩 모아 가자!"
+  } ]
+}

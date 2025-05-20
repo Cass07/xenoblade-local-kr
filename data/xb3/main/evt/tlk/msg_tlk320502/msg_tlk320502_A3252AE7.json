@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk320502_msg0001",
+    "talker" : "Zd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰의 기술은 대단했어\n내가 잘못 생각하고 있었나 봐"
+  }, {
+    "$id" : 2,
+    "label" : "tlk320502_msg0002",
+    "talker" : "Zd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 콜로니 30에서 배운 것들을\n활용해서 타우를 발전시키겠어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk320502_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰들이랑 다투는 것도 적당히 해"
+  }, {
+    "$id" : 4,
+    "label" : "tlk320502_msg0004",
+    "talker" : "Zd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론이지\n협력하면서 잘 지내볼게"
+  } ]
+}

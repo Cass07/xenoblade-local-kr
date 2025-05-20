@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<3AC1D1CC>",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로스트 넘버즈도\n우리처럼 여러 블레이드를\n다룰 수 있나 보네"
+  }, {
+    "$id" : 2,
+    "label" : "<AD7740D7>",
+    "talker" : "4",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티 사람들은 원래\n우로보로스를 잇는 자들이라고\n모니카가 말했잖아"
+  }, {
+    "$id" : 3,
+    "label" : "<251D8A8B>",
+    "talker" : "1",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리랑 닮은 점이 있어도\n이상하지 않다는 말이구나"
+  }, {
+    "$id" : 4,
+    "label" : "<B0C1F49F>",
+    "talker" : "4",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 여러 종류의 블레이드를\n다룰 수 있는 사람은 드문가 봐"
+  }, {
+    "$id" : 5,
+    "label" : "<76703E7F>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜히 이것저것 손댔다가는\n이도 저도 아니게 되지……\n난 하나를 끝까지 연마하는 타입이야"
+  }, {
+    "$id" : 6,
+    "label" : "<E8689521>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 사용법을 최대한 파악해 두고 싶어\n그때그때 상황에 맞춰 사용하는 게 좋거든"
+  }, {
+    "$id" : 7,
+    "label" : "<28ACFF68>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는…… 파워 계열이 맞아!"
+  }, {
+    "$id" : 8,
+    "label" : "<03A70FBD>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 18890881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "파워 계열이 뭔데?\n아니, 뭘 말하는지는 알겠지만……"
+  }, {
+    "$id" : 9,
+    "label" : "<7450EC60>",
+    "talker" : "2",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스의 힘이 있어도\n블레이드의 숙련도 자체는\n본인의 노력에 달린 거구나"
+  } ]
+}

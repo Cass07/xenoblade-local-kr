@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk421001_msg0001",
+    "talker" : "_e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캐슬에서는 우리 같은\n우수한 장교를 육성하고 있어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk421001_msg0002",
+    "talker" : "_e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "완력이나 전투력이 강한 사람만\n육성해서는 전쟁에서 이길 수 없거든"
+  }, {
+    "$id" : 3,
+    "label" : "tlk421001_msg0003",
+    "talker" : "_e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그들을 효율적으로 지휘할\n우수한 두뇌를 가진 사람이 필요해"
+  }, {
+    "$id" : 4,
+    "label" : "tlk421001_msg0004",
+    "talker" : "5",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  } ]
+}

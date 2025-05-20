@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830302_msg0001",
+    "talker" : "hq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니 얼마 전에\n\"스튜\"에서 왔다는 사람을 만났어모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830302_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스튜에서 왔다고?\n그건 또 무슨 소리야?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830302_msg0003",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아마도\n시티를 말한 거 같은데?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830302_msg0004",
+    "talker" : "hq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그래! 시티였어모!\n그레그레가 또 착각했었네모"
+  }, {
+    "$id" : 5,
+    "label" : "tlk830302_msg0005",
+    "talker" : "hq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩐지 다들 피곤해 보이길래\n그레그레가 버섯을 대접해 줬더니\n엄청 기뻐했어모"
+  }, {
+    "$id" : 6,
+    "label" : "tlk830302_msg0006",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그런 일이 있었구나……\n고마워"
+  } ]
+}

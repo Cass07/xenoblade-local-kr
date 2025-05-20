@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk211502_msg0001",
+    "talker" : "Za1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리들의 여행은 아직 계속된다!\n설령 세계가 끝나더라도!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk211502_msg0002",
+    "talker" : "aa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 무슨 말임까모?\n세계가 끝났는데 어떻게 여행을 함까모?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk211502_msg0003",
+    "talker" : "Za1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래! 그렇군!\n일단 하마하마 넌 입 다물고 있어!"
+  } ]
+}

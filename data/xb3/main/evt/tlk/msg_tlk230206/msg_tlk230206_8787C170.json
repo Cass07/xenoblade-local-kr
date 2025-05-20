@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230206_msg0001",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금이야 웃으며 이야기할 수 있습니다만……\n처음엔 물자를 내주자는 전략에 반대했습니다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230206_msg0002",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 제가 이곳의 관리를 명받았죠\n……시험 목적으로 그러셨을 테지만\n결과는 보시는 바와 같습니다"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230206_msg0003",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나 님께선 앞날을 읽는 힘을 지니고 계세요\n지금까지 니나 님과 함께했다는 사실을……\n영광으로 여기고 있습니다"
+  } ]
+}

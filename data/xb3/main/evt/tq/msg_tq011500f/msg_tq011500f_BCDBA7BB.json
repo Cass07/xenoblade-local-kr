@@ -1,0 +1,574 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011500_msg0001",
+    "talker" : "af1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바보 같은 소리 하지 마\n그런다고 수습될 일이……"
+  }, {
+    "$id" : 2,
+    "label" : "tq011500_msg0002",
+    "talker" : "Zf1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……책임은 내가 지겠다!"
+  }, {
+    "$id" : 3,
+    "label" : "tq011500_msg0003",
+    "talker" : "Zf1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러지 않으면\n여왕님을 뵐 면목이 없어!"
+  }, {
+    "$id" : 4,
+    "label" : "tq011500_msg0004",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어찌하여 다투고 있느냐?"
+  }, {
+    "$id" : 5,
+    "label" : "tq011500_msg0005",
+    "talker" : "Zf1",
+    "talkattr" : 33104,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……멜리아 님!"
+  }, {
+    "$id" : 6,
+    "label" : "tq011500_msg0006",
+    "talker" : "Zf1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "돌아오셨습니까!"
+  }, {
+    "$id" : 7,
+    "label" : "tq011500_msg0007",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……무슨 문제라도 생긴 것이냐?"
+  }, {
+    "$id" : 8,
+    "label" : "tq011500_msg0008",
+    "talker" : "Zf1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아뇨……\n딱히 별일은……"
+  }, {
+    "$id" : 9,
+    "label" : "tq011500_msg0009",
+    "talker" : "af1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사실 조금 곤란한 일이 발생해서……"
+  }, {
+    "$id" : 10,
+    "label" : "tq011500_msg0010",
+    "talker" : "Zf1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐! 멋대로……!"
+  }, {
+    "$id" : 11,
+    "label" : "tq011500_msg0011",
+    "talker" : "af1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제대로 보고드려야지\n문제를 더 크게 만들 셈이야?"
+  }, {
+    "$id" : 12,
+    "label" : "tq011500_msg0012",
+    "talker" : "Zf1",
+    "talkattr" : 33200,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……큭"
+  }, {
+    "$id" : 13,
+    "label" : "tq011500_msg0013",
+    "talker" : "1",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……대체 무슨 일이야?"
+  }, {
+    "$id" : 14,
+    "label" : "tq011500_msg0014",
+    "talker" : "af1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지난번에 동료 아그누스 병사와\n사소한 말다툼이 있었는데……"
+  }, {
+    "$id" : 15,
+    "label" : "tq011500_msg0015",
+    "talker" : "af1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아이젤이 수습하려 했으나\n그 과정에서 실수하는 바람에……"
+  }, {
+    "$id" : 16,
+    "label" : "tq011500_msg0016",
+    "talker" : "Zf1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실수가 아니야\n멜리아 님을 모욕했단 말이다!"
+  }, {
+    "$id" : 17,
+    "label" : "tq011500_msg0017",
+    "talker" : "af1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다고 공격할 필요까진 없었어!\n녀석들을 자극한 건 바로 너야"
+  }, {
+    "$id" : 18,
+    "label" : "tq011500_msg0018",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그자들을 다치게 한 것이냐?"
+  }, {
+    "$id" : 19,
+    "label" : "tq011500_msg0019",
+    "talker" : "Zf1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "위협만…… 할 생각이었습니다\n그러다…… 저항을 하길래……"
+  }, {
+    "$id" : 20,
+    "label" : "tq011500_msg0020",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……쓰러뜨리려 했다는 것이로구나"
+  }, {
+    "$id" : 21,
+    "label" : "tq011500_msg0021",
+    "talker" : "Zf1",
+    "talkattr" : 33200,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 아닙니다……!\n생명의 불시계도 없는데 그런 짓을……"
+  }, {
+    "$id" : 22,
+    "label" : "tq011500_msg0022",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "불시계 때문에 싸움이 일어나는 게 아니다\n불씨는 언제나 우리 안에 존재하는 법"
+  }, {
+    "$id" : 23,
+    "label" : "tq011500_msg0023",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 알고 있으니\n그대도 파랗게 질린 것이 아니겠느냐"
+  }, {
+    "$id" : 24,
+    "label" : "tq011500_msg0024",
+    "talker" : "Zf1",
+    "talkattr" : 33104,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 25,
+    "label" : "tq011500_msg0025",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사정은 그렇다 치고……\n원한을 샀다면 이대로\n가만히 넘어가진 않을 텐데"
+  }, {
+    "$id" : 26,
+    "label" : "tq011500_msg0026",
+    "talker" : "af1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……말씀대로 그 후에 그자들은\n저항 세력의 중심이 되어\n결속하기 시작한 모양입니다"
+  }, {
+    "$id" : 27,
+    "label" : "tq011500_msg0027",
+    "talker" : "Zf1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……면목…… 없습니다……!"
+  }, {
+    "$id" : 28,
+    "label" : "tq011500_msg0028",
+    "talker" : "Zf1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이렇게 된 이상\n모든 책임을 지고……"
+  }, {
+    "$id" : 29,
+    "label" : "tq011500_msg0029",
+    "talker" : "Zf1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "반드시 그자들의 목적을 저지하겠습니다\n제 목숨을 걸고서라도……!"
+  }, {
+    "$id" : 30,
+    "label" : "tq011500_msg0030",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안 된다"
+  }, {
+    "$id" : 31,
+    "label" : "tq011500_msg0031",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "목숨을 건다는 말을\n그리 쉽게 내뱉지 말거라"
+  }, {
+    "$id" : 32,
+    "label" : "tq011500_msg0032",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "더는 동료를 잃고 싶지 않다"
+  }, {
+    "$id" : 33,
+    "label" : "tq011500_msg0033",
+    "talker" : "Zf1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "멜리아 님……"
+  }, {
+    "$id" : 34,
+    "label" : "tq011500_msg0034",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말하지 않았느냐?\n그대들은 나의 희망이라고"
+  }, {
+    "$id" : 35,
+    "label" : "tq011500_msg0035",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 일은 내가 아그누스의 중신들과\n직접 이야기를 나눠 볼 테니"
+  }, {
+    "$id" : 36,
+    "label" : "tq011500_msg0036",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그대는 머리를 좀 식히고 있거라"
+  }, {
+    "$id" : 37,
+    "label" : "tq011500_msg0037",
+    "talker" : "Zf1",
+    "talkattr" : 33200,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 38,
+    "label" : "tq011500_msg0038",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 밖에도 남아 있는 일이 있느냐?"
+  }, {
+    "$id" : 39,
+    "label" : "tq011500_msg0039",
+    "talker" : "af1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지원 요청이 2건 정도 있습니다……\n콜로니 9과 시티에서 들어왔습니다"
+  }, {
+    "$id" : 40,
+    "label" : "tq011500_msg0040",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 9?\n그 말은 제온이?"
+  }, {
+    "$id" : 41,
+    "label" : "tq011500_msg0041",
+    "talker" : "Zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네…… 일전에 오리진으로부터 받은\n공격 때문에 급히 지원이 필요하다고……"
+  }, {
+    "$id" : 42,
+    "label" : "tq011500_msg0042",
+    "talker" : "af1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 하나는 모니카 님에게서 온\n시티 위문과 관련된 상담입니다"
+  }, {
+    "$id" : 43,
+    "label" : "tq011500_msg0043",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……우로보로스의 후예들인가"
+  }, {
+    "$id" : 44,
+    "label" : "tq011500_msg0044",
+    "talker" : "G",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금까지 여러모로\n고생하게 만들었으니……"
+  }, {
+    "$id" : 45,
+    "label" : "tq011500_msg0045",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……하지만 이렇게 진짜 여왕님과\n이야기할 수 있게 됐잖아"
+  }, {
+    "$id" : 46,
+    "label" : "tq011500_msg0046",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명 모두 기뻐할 거야"
+  }, {
+    "$id" : 47,
+    "label" : "tq011500_msg0047",
+    "talker" : "G",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래"
+  }, {
+    "$id" : 48,
+    "label" : "tq011500_msg0048",
+    "talker" : "G",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만나서 이야기할 수 있다는 건……\n특별한 일이지"
+  }, {
+    "$id" : 49,
+    "label" : "tq011500_msg0049",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "멜리아……?"
+  }, {
+    "$id" : 50,
+    "label" : "tq011500_msg0050",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안하다. 모두에게 다시 한번\n수고를 끼치게 되겠구나……"
+  }, {
+    "$id" : 51,
+    "label" : "tq011500_msg0051",
+    "talker" : "2",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 그런 말은 하지 말자"
+  }, {
+    "$id" : 52,
+    "label" : "tq011500_msg0052",
+    "talker" : "2",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스든, 아그누스든\n병사든, 여왕이든…… 상관없어"
+  }, {
+    "$id" : 53,
+    "label" : "tq011500_msg0053",
+    "talker" : "3",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 세계에서 일어나는 일은\n우리가 다 함께 생각해 가는 거야"
+  }, {
+    "$id" : 54,
+    "label" : "tq011500_msg0054",
+    "talker" : "3",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 말한 건 멜리아잖아?"
+  }, {
+    "$id" : 55,
+    "label" : "tq011500_msg0055",
+    "talker" : "G",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그랬었지"
+  }, {
+    "$id" : 56,
+    "label" : "tq011500_msg0056",
+    "talker" : "G",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그대들에겐…… 참 많은 격려를 받는군"
+  }, {
+    "$id" : 57,
+    "label" : "tq011500_msg0057",
+    "talker" : "1",
+    "talkattr" : 33066,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "멜리아는 가끔……\n무척 쓸쓸한 듯이 웃어"
+  }, {
+    "$id" : 58,
+    "label" : "tq011500_msg0058",
+    "talker" : "1",
+    "talkattr" : 33066,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마치 외톨이처럼……"
+  }, {
+    "$id" : 59,
+    "label" : "tq011500_msg0059",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 얼른 돌아보자고\n콜로니 9이랑…… 시티랑……"
+  }, {
+    "$id" : 60,
+    "label" : "tq011500_msg0060",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스 캐슬도 들러야지"
+  }, {
+    "$id" : 61,
+    "label" : "tq011500_msg0061",
+    "talker" : "Zf1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분, 부디 조심하시기를……"
+  } ]
+}

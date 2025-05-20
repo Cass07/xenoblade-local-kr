@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<E92997C4>",
+    "talker" : "kq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우와아아! 보물이데이!\n진짜 보물이었구마~!!"
+  }, {
+    "$id" : 2,
+    "label" : "<30B9D584>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 몬스터도 있네……\n어딜 통해 들어온 거야?"
+  }, {
+    "$id" : 3,
+    "label" : "<54240FD9>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마 저 구멍을 통해 침입했겠지"
+  }, {
+    "$id" : 4,
+    "label" : "<462EAEBB>",
+    "talker" : "kq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "점마들도 보물을 노리는 기가?!\n으으~! 그건 내 용서 몬 한다!"
+  }, {
+    "$id" : 5,
+    "label" : "<2723DE25>",
+    "talker" : "kq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니 선생님들!\n잘 부탁한데이!!"
+  }, {
+    "$id" : 6,
+    "label" : "<4500F425>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다, 당신은 진짜……"
+  }, {
+    "$id" : 7,
+    "label" : "<29DBCCCA>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐, 그럴 줄 알았어"
+  } ]
+}

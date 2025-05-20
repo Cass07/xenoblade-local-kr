@@ -1,0 +1,223 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<6CA47315>",
+    "style" : 2,
+    "name" : "EXP"
+  }, {
+    "$id" : 2,
+    "label" : "<874BE2C9>",
+    "style" : 2,
+    "name" : "SP"
+  }, {
+    "$id" : 3,
+    "label" : "<AE9B8CDD>",
+    "style" : 14,
+    "name" : "휴식 포인트 발견"
+  }, {
+    "$id" : 4,
+    "label" : "<51D4205A>",
+    "style" : 14,
+    "name" : "비경 발견"
+  }, {
+    "$id" : 5,
+    "label" : "<109AA300>",
+    "style" : 14,
+    "name" : "랜드마크 발견"
+  }, {
+    "$id" : 6,
+    "label" : "<64F0BFA2>",
+    "style" : 14,
+    "name" : "로케이션 발견"
+  }, {
+    "$id" : 7,
+    "label" : "<A98581E0>",
+    "style" : 14,
+    "name" : "콜로니 발견"
+  }, {
+    "$id" : 8,
+    "label" : "<7FC93069>",
+    "style" : 13,
+    "name" : "인연 맵 등록"
+  }, {
+    "$id" : 9,
+    "label" : "<EDB5B0BD>",
+    "style" : 13,
+    "name" : "인연 맵 갱신"
+  }, {
+    "$id" : 10,
+    "label" : "<D8A8F085>",
+    "style" : 13,
+    "name" : "콜로니 등록"
+  }, {
+    "$id" : 11,
+    "label" : "<782ECFEF>",
+    "style" : 13,
+    "name" : "인연 레벨 상승"
+  }, {
+    "$id" : 12,
+    "label" : "<C3DD33D5>",
+    "style" : 13,
+    "name" : "콜로니 갱신"
+  }, {
+    "$id" : 13,
+    "label" : "<1A77D26C>",
+    "style" : 13,
+    "name" : ""
+  }, {
+    "$id" : 14,
+    "label" : "<4568F162>",
+    "style" : 13,
+    "name" : "레시피 체크 수집 완료"
+  }, {
+    "$id" : 15,
+    "label" : "<3AB493C6>",
+    "style" : 13,
+    "name" : "TIPS 등록"
+  }, {
+    "$id" : 16,
+    "label" : "<3194BFAB>",
+    "style" : 13,
+    "name" : "훈련"
+  }, {
+    "$id" : 17,
+    "label" : "<4482FFBB>",
+    "style" : 13,
+    "name" : "시스템 개방"
+  }, {
+    "$id" : 18,
+    "label" : "<4BF86B47>",
+    "style" : 13,
+    "name" : "이름을 남길 만한 자의 묘 출현"
+  }, {
+    "$id" : 19,
+    "label" : "<FE1E6A9B>",
+    "style" : 13,
+    "name" : "케베스군 물자 투하"
+  }, {
+    "$id" : 20,
+    "label" : "<D9FB30AF>",
+    "style" : 13,
+    "name" : "아그누스군 물자 투하"
+  }, {
+    "$id" : 21,
+    "label" : "<C7CAB536>",
+    "style" : 13,
+    "name" : ""
+  }, {
+    "$id" : 22,
+    "label" : "<AD87E799>",
+    "style" : 13,
+    "name" : "자동 매각"
+  }, {
+    "$id" : 23,
+    "label" : "<5AC0BFC4>",
+    "style" : 13,
+    "name" : "메뉴 대열 설정"
+  }, {
+    "$id" : 24,
+    "label" : "<8BC97691>",
+    "style" : 13,
+    "name" : "새 대열 타입 추가"
+  }, {
+    "$id" : 25,
+    "label" : "<1261E826>",
+    "style" : 13,
+    "name" : "게임 설정 개방"
+  }, {
+    "$id" : 26,
+    "label" : "<DFBACA1F>",
+    "style" : 13,
+    "name" : "어치브먼트 달성"
+  }, {
+    "$id" : 27,
+    "label" : "<A8A2F2B1>",
+    "style" : 9,
+    "name" : "메뉴에서 확인"
+  }, {
+    "$id" : 28,
+    "label" : "<A3E03ABD>",
+    "style" : 9,
+    "name" : "맵에서 확인"
+  }, {
+    "$id" : 29,
+    "label" : "<C2CDEBBB>",
+    "style" : 9,
+    "name" : "옵션에서 확인"
+  }, {
+    "$id" : 30,
+    "label" : "<08795897>",
+    "style" : 11,
+    "name" : "인연 맵에서 확인"
+  }, {
+    "$id" : 31,
+    "label" : "<4853A4D4>",
+    "style" : 13,
+    "name" : "사운드 설정 개방"
+  }, {
+    "$id" : 32,
+    "label" : "<38A22AB7>",
+    "style" : 13,
+    "name" : "화합 갱신"
+  }, {
+    "$id" : 33,
+    "label" : "<0ED54329>",
+    "style" : 13,
+    "name" : "에너피디아 등록"
+  }, {
+    "$id" : 34,
+    "label" : "<75970FFC>",
+    "style" : 13,
+    "name" : "개방 키트 획득"
+  }, {
+    "$id" : 35,
+    "label" : "<80D47C48>",
+    "style" : 13,
+    "name" : "식사 효과"
+  }, {
+    "$id" : 36,
+    "label" : "<61C8A19D>",
+    "style" : 13,
+    "name" : ""
+  }, {
+    "$id" : 37,
+    "label" : "<E1DB8C32>",
+    "style" : 13,
+    "name" : "엘리트 보너스"
+  }, {
+    "$id" : 38,
+    "label" : "<CCEA6DB3>",
+    "style" : 13,
+    "name" : ""
+  }, {
+    "$id" : 39,
+    "label" : "<F8DE933E>",
+    "style" : 11,
+    "name" : "엑스 디바이스 개조 레시피"
+  }, {
+    "$id" : 40,
+    "label" : "<45E39298>",
+    "style" : 11,
+    "name" : "무기 강화 레시피"
+  }, {
+    "$id" : 41,
+    "label" : "<0B11C968>",
+    "style" : 11,
+    "name" : "인연 어빌리티 성장"
+  }, {
+    "$id" : 42,
+    "label" : "<57703B15>",
+    "style" : 13,
+    "name" : "목표 설정치 클리어"
+  } ]
+}

@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk713201_msg0001",
+    "talker" : "ql1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야, 내가 그렇게 신기하냐?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk713201_msg0002",
+    "talker" : "ql1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티에는 오직 세 종류의 인간뿐이지\n앞길이 창창한 아이, 죽도록 일하는 어른,\n그리고 한가로운 노인!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk713201_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한가롭다니……\n뭐 하는 일 없어?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk713201_msg0004",
+    "talker" : "ql1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "취미로 그림이나 시, 악기를 즐기는 정도지\n정작 난 매일 술이나 마시고 있지만 말이다!"
+  } ]
+}

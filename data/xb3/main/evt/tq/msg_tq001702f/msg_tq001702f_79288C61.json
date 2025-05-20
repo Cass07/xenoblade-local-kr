@@ -1,0 +1,520 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001702_msg0001",
+    "talker" : "I06gZ10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장님, 응답 바랍니다!"
+  }, {
+    "$id" : 2,
+    "label" : "tq001702_msg0002",
+    "talker" : "I05I0",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 일이지?"
+  }, {
+    "$id" : 3,
+    "label" : "tq001702_msg0003",
+    "talker" : "I04gZ10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적습입니다! 아그누스 군대가……"
+  }, {
+    "$id" : 4,
+    "label" : "tq001702_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 일이 있나 봐"
+  }, {
+    "$id" : 5,
+    "label" : "tq001702_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 6,
+    "label" : "tq001702_msg0006",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……군무장"
+  }, {
+    "$id" : 7,
+    "label" : "tq001702_msg0007",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래……"
+  }, {
+    "$id" : 8,
+    "label" : "tq001702_msg0008",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 알아"
+  }, {
+    "$id" : 9,
+    "label" : "tq001702_msg0009",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 지금 뭐라고 했어?\n제온이 군무장이라고?"
+  }, {
+    "$id" : 10,
+    "label" : "tq001702_msg0010",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 전 군무장은……"
+  }, {
+    "$id" : 11,
+    "label" : "tq001702_msg0011",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "경질당했지!\n반역자를 휘하에 둔 책임을 물어서 말야"
+  }, {
+    "$id" : 12,
+    "label" : "tq001702_msg0012",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 랭크 하락은 물론이고……"
+  }, {
+    "$id" : 13,
+    "label" : "tq001702_msg0013",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "식량도 부족해져서\n이런 곳까지 원정을 오게 됐어\n……너희 덕분에 말이지"
+  }, {
+    "$id" : 14,
+    "label" : "tq001702_msg0014",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……말도 안 돼"
+  }, {
+    "$id" : 15,
+    "label" : "tq001702_msg0015",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너는 돌아가\n여긴 우리가 어떻게든 할게"
+  }, {
+    "$id" : 16,
+    "label" : "tq001702_msg0016",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 수는 없다"
+  }, {
+    "$id" : 17,
+    "label" : "tq001702_msg0017",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "됐으니까 가라고!"
+  }, {
+    "$id" : 18,
+    "label" : "tq001702_msg0018",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아그누스의 1개 대대가"
+  }, {
+    "$id" : 19,
+    "label" : "tq001702_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몸을 숨기고 진군해 오는 상황…… 맞지?"
+  }, {
+    "$id" : 20,
+    "label" : "tq001702_msg0020",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그걸 어떻게 알았지?"
+  }, {
+    "$id" : 21,
+    "label" : "tq001702_msg0021",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나를 믿지 못한다는 건 알아\n그러니 이건 혼잣말이야"
+  }, {
+    "$id" : 22,
+    "label" : "tq001702_msg0022",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금부터 우리는\n진군 중인 아그누스를 요격할 거야\n콜로니 9을 내주진 않겠어"
+  }, {
+    "$id" : 23,
+    "label" : "tq001702_msg0023",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제온은 돌아가서\n모두와 함께 수비를 강화해 줬으면 해"
+  }, {
+    "$id" : 24,
+    "label" : "tq001702_msg0024",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……진의가 뭐지?\n무슨 생각으로 싸우는 거냐"
+  }, {
+    "$id" : 25,
+    "label" : "tq001702_msg0025",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서로 입장이 달라진 건 맞아"
+  }, {
+    "$id" : 26,
+    "label" : "tq001702_msg0026",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 분명……\n달라지지 않은 것도 있어"
+  }, {
+    "$id" : 27,
+    "label" : "tq001702_msg0027",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디서 뻔뻔하게 그딴 말을!"
+  }, {
+    "$id" : 28,
+    "label" : "tq001702_msg0028",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……기다려"
+  }, {
+    "$id" : 29,
+    "label" : "tq001702_msg0029",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "작전을 변경하지\n이들을 콜로니로 데려간다"
+  }, {
+    "$id" : 30,
+    "label" : "tq001702_msg0030",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 어째서!"
+  }, {
+    "$id" : 31,
+    "label" : "tq001702_msg0031",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집정관한테 넘기려고?"
+  }, {
+    "$id" : 32,
+    "label" : "tq001702_msg0032",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 첨병으로 전력에 투입한다"
+  }, {
+    "$id" : 33,
+    "label" : "tq001702_msg0033",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……함께 싸우겠다고?!\n하지만 뭄바는 저 녀석들 때문에……"
+  }, {
+    "$id" : 34,
+    "label" : "tq001702_msg0034",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적은 1개 대대다\n수단을 가릴 때가 아니야"
+  }, {
+    "$id" : 35,
+    "label" : "tq001702_msg0035",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 이번 적습에\n이들이 관여하고 있을 가능성도 존재해"
+  }, {
+    "$id" : 36,
+    "label" : "tq001702_msg0036",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진심으로 하는 말이냐?"
+  }, {
+    "$id" : 37,
+    "label" : "tq001702_msg0037",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 성격은 네가 잘 알 텐데?"
+  }, {
+    "$id" : 38,
+    "label" : "tq001702_msg0038",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너 이 자식……"
+  }, {
+    "$id" : 39,
+    "label" : "tq001702_msg0039",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기다려\n지금은 제온 말을 따르자"
+  }, {
+    "$id" : 40,
+    "label" : "tq001702_msg0040",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야? 왜……"
+  }, {
+    "$id" : 41,
+    "label" : "tq001702_msg0041",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말 좀 들어"
+  }, {
+    "$id" : 42,
+    "label" : "tq001702_msg0042",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 9의 움직임을 알면\n우리도 지키기 쉬워지잖아"
+  }, {
+    "$id" : 43,
+    "label" : "tq001702_msg0043",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "란츠"
+  }, {
+    "$id" : 44,
+    "label" : "tq001702_msg0044",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……쳇, 알았어"
+  }, {
+    "$id" : 45,
+    "label" : "tq001702_msg0045",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은 동료로군"
+  }, {
+    "$id" : 46,
+    "label" : "tq001702_msg0046",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "언젠가 네 딱딱한 돌머리를\n때려 부숴 주겠어"
+  }, {
+    "$id" : 47,
+    "label" : "tq001702_msg0047",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기대하지"
+  }, {
+    "$id" : 48,
+    "label" : "tq001702_msg0048",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희는 먼저 돌아가서\n카이트한테 사정을 전달해"
+  }, {
+    "$id" : 49,
+    "label" : "tq001702_msg0049",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이들과는 내가 동행하겠다\n집무실에서 다시 보도록 하지"
+  }, {
+    "$id" : 50,
+    "label" : "tq001702_msg0050",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어"
+  }, {
+    "$id" : 51,
+    "label" : "tq001702_msg0051",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흥……"
+  }, {
+    "$id" : 52,
+    "label" : "tq001702_msg0052",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "달라지지 않은 것도 있다고 했나?"
+  }, {
+    "$id" : 53,
+    "label" : "tq001702_msg0053",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "더 이상 말에 가치는 없다\n너희의 진의를 행동으로 보여 줘야겠어"
+  }, {
+    "$id" : 54,
+    "label" : "tq001702_msg0054",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 나도 그럴 생각이야"
+  }, {
+    "$id" : 55,
+    "label" : "tq001702_msg0100",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : "제온이 일시적으로\n파티에 가입했습니다"
+  } ]
+}

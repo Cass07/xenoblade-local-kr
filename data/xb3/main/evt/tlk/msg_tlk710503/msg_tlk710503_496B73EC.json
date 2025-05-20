@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk710503_msg0001",
+    "talker" : "vk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 술래잡기를 하면 금방 땀범벅이 될까?\n이상하네……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk710503_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뛰어다니니까\n땀 나는 게 당연하잖아?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk710503_msg0003",
+    "talker" : "vk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전에는 안 났단 말이야\n시티가 이동한 뒤로\n조금 더워진 것 같아"
+  }, {
+    "$id" : 4,
+    "label" : "tlk710503_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예전에는 시티가 대검 위에 있었잖아\n그게 온도 차의 원인이겠지"
+  } ]
+}

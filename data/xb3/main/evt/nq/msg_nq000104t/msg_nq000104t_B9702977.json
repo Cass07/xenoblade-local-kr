@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq000104_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐 시간 있어?\n시르지르한테 의뢰받아서 왔는데……"
+  }, {
+    "$id" : 2,
+    "label" : "nq000104_msg0002",
+    "talker" : "xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 인간을 보내다니 웬일이래모"
+  }, {
+    "$id" : 3,
+    "label" : "nq000104_msg0003",
+    "talker" : "xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸 받아 오라고 했어모?\n하여간 도통 직접 움직이지를 않으니\n같은 노폰이라 하기도 부끄럽다니까모"
+  }, {
+    "$id" : 4,
+    "label" : "nq000104_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "파란색 돌이네, 고마워"
+  }, {
+    "$id" : 5,
+    "label" : "nq000104_msg0005",
+    "talker" : "xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 이쪽이 할 말이야모\n인간에겐 늘 신세를 지잖아모"
+  }, {
+    "$id" : 6,
+    "label" : "nq000104_msg0006",
+    "talker" : "xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아카아카도 조조카도\n그런 마음가짐을 잊지 않고 장사하고 있지모"
+  }, {
+    "$id" : 7,
+    "label" : "nq000104_msg0007",
+    "talker" : "xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조조카는 좋은 녀석이야모\n생각 있으면 만나러 가 봐모"
+  }, {
+    "$id" : 8,
+    "label" : "nq000104_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어, 고마워"
+  } ]
+}

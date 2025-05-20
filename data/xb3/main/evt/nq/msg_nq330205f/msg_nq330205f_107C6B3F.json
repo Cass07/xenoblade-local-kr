@@ -1,0 +1,655 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330205_msg0001",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아, 포인트 얼마나 모았어?"
+  }, {
+    "$id" : 2,
+    "label" : "nq330205_msg0002",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 제법 자신 있어"
+  }, {
+    "$id" : 3,
+    "label" : "nq330205_msg0003",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니코도~!"
+  }, {
+    "$id" : 4,
+    "label" : "nq330205_msg0004",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "새로운 부관은\n누가 될까……?"
+  }, {
+    "$id" : 5,
+    "label" : "nq330205_msg0005",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……기다리게 해서 미안!\n바로 집계 결과를 발표할게"
+  }, {
+    "$id" : 6,
+    "label" : "nq330205_msg0006",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "영광스러운 제1위는……"
+  }, {
+    "$id" : 7,
+    "label" : "nq330205_msg0007",
+    "talker" : "xf1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "999포인트를 획득한 아야세!"
+  }, {
+    "$id" : 8,
+    "label" : "nq330205_msg0008",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응?!"
+  }, {
+    "$id" : 9,
+    "label" : "nq330205_msg0009",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "999?!"
+  }, {
+    "$id" : 10,
+    "label" : "nq330205_msg0010",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 뭘 어떻게 해야 그렇게……"
+  }, {
+    "$id" : 11,
+    "label" : "nq330205_msg0011",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아야 굉장해~~~!!"
+  }, {
+    "$id" : 12,
+    "label" : "nq330205_msg0012",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐만, 나도 뭐가 어떻게 된 건지\n모르겠는데……?!"
+  }, {
+    "$id" : 13,
+    "label" : "nq330205_msg0013",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그리고 마찬가지로\n999포인트를 획득한 히마리!"
+  }, {
+    "$id" : 14,
+    "label" : "nq330205_msg0014",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말도 안 돼?! 히마링도?!"
+  }, {
+    "$id" : 15,
+    "label" : "nq330205_msg0015",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어? 나……?!"
+  }, {
+    "$id" : 16,
+    "label" : "nq330205_msg0016",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뒤이어 마찬가지로\n999포인트를 획득한 카나타!"
+  }, {
+    "$id" : 17,
+    "label" : "nq330205_msg0017",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이다음에 어떻게 될지 뻔히 보이네……"
+  }, {
+    "$id" : 18,
+    "label" : "nq330205_msg0018",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직 더 있어!\n마찬가지로 999포인트를 획득한……"
+  }, {
+    "$id" : 19,
+    "label" : "nq330205_msg0019",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 말이 안 되잖아?!"
+  }, {
+    "$id" : 20,
+    "label" : "nq330205_msg0020",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 집계 결과에\n전력으로 이의를 제기하지"
+  }, {
+    "$id" : 21,
+    "label" : "nq330205_msg0021",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저도 말하긴 했어요……\n보고 1건당 1포인트라고……"
+  }, {
+    "$id" : 22,
+    "label" : "nq330205_msg0022",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그치만 몬스터를 한 마리 쓰러뜨릴\n때마다 1포인트잖아?"
+  }, {
+    "$id" : 23,
+    "label" : "nq330205_msg0023",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 꽃밭에 물을 준다고 하면\n꽃 한 송이당 1포인트니까……"
+  }, {
+    "$id" : 24,
+    "label" : "nq330205_msg0024",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……무슨 계산을……"
+  }, {
+    "$id" : 25,
+    "label" : "nq330205_msg0025",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……터킨 타로"
+  }, {
+    "$id" : 26,
+    "label" : "nq330205_msg0026",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "반응이 왜 그래!\n필사적으로 셌다니까!"
+  }, {
+    "$id" : 27,
+    "label" : "nq330205_msg0027",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도저히 다 셀 수 없어서\n999개라고 정한 거였잖아……"
+  }, {
+    "$id" : 28,
+    "label" : "nq330205_msg0028",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노력한 녀석한텐 노력한 만큼\n포인트를 줘야 하는 거 아냐?"
+  }, {
+    "$id" : 29,
+    "label" : "nq330205_msg0029",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "남들이 하기 싫어하는 일이라든가\n잘 못하는 일을 했으면 그래야지!"
+  }, {
+    "$id" : 30,
+    "label" : "nq330205_msg0030",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "귀찮으니까 결론을 말하자면"
+  }, {
+    "$id" : 31,
+    "label" : "nq330205_msg0031",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두 999포인트를 획득해서\n전원 부관이 되었습니다"
+  }, {
+    "$id" : 32,
+    "label" : "nq330205_msg0032",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐어~~?!"
+  }, {
+    "$id" : 33,
+    "label" : "nq330205_msg0033",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐라고~~?!"
+  }, {
+    "$id" : 34,
+    "label" : "nq330205_msg0034",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어이가 없군……"
+  }, {
+    "$id" : 35,
+    "label" : "nq330205_msg0035",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 부관이 된 건가……"
+  }, {
+    "$id" : 36,
+    "label" : "nq330205_msg0036",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하여간……\n은근히 즐기고 있지?"
+  }, {
+    "$id" : 37,
+    "label" : "nq330205_msg0037",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이래서야 부관은 못 정하겠네"
+  }, {
+    "$id" : 38,
+    "label" : "nq330205_msg0038",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기껏 열심히 스티커 모았는데~"
+  }, {
+    "$id" : 39,
+    "label" : "nq330205_msg0039",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그치만 즐거웠어!"
+  }, {
+    "$id" : 40,
+    "label" : "nq330205_msg0040",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지?!"
+  }, {
+    "$id" : 41,
+    "label" : "nq330205_msg0041",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "즐겁다고 넘어갈 문제가 아니잖아?!\n앞으로 어떻게 할 생각인데?"
+  }, {
+    "$id" : 42,
+    "label" : "nq330205_msg0042",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아야세가 걱정하는 것도 당연해"
+  }, {
+    "$id" : 43,
+    "label" : "nq330205_msg0043",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래도 뭐, 타로의 마음도 이해는 가\n너무 뭐라 하는 것도 좀……"
+  }, {
+    "$id" : 44,
+    "label" : "nq330205_msg0044",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 란츠 씨……!"
+  }, {
+    "$id" : 45,
+    "label" : "nq330205_msg0045",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "감정에 휩쓸리면 잘못 판단하기 쉽다는 거야\n너까지 맞장구치면 어떡해?"
+  }, {
+    "$id" : 46,
+    "label" : "nq330205_msg0046",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 내가 언제 그랬다는 건데?"
+  }, {
+    "$id" : 47,
+    "label" : "nq330205_msg0047",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으아아……"
+  }, {
+    "$id" : 48,
+    "label" : "nq330205_msg0048",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그만해……"
+  }, {
+    "$id" : 49,
+    "label" : "nq330205_msg0049",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아, 얘들아……"
+  }, {
+    "$id" : 50,
+    "label" : "nq330205_msg0050",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "많이 생각하고 노력해 줘서 고마워\n진심으로…… 진심으로 기뻐"
+  }, {
+    "$id" : 51,
+    "label" : "nq330205_msg0051",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 언제나 날 많이 도와주고\n힘이 되어 주지만…… 그래도……"
+  }, {
+    "$id" : 52,
+    "label" : "nq330205_msg0052",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 내가 그런 식으로 기대기만 하니까\n잘 안 풀리는 게 아닐까 싶어"
+  }, {
+    "$id" : 53,
+    "label" : "nq330205_msg0053",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마시로……?"
+  }, {
+    "$id" : 54,
+    "label" : "nq330205_msg0054",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부관은 없어도 괜찮아\n나도 군무장으로서 노력할 테니까……"
+  }, {
+    "$id" : 55,
+    "label" : "nq330205_msg0055",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 소릴 하는 거야?\n마시로는 충분히 노력하고……"
+  }, {
+    "$id" : 56,
+    "label" : "nq330205_msg0056",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 왜 모두의 마음이\n다 흩어지고 만 걸까?"
+  }, {
+    "$id" : 57,
+    "label" : "nq330205_msg0057",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그건……"
+  }, {
+    "$id" : 58,
+    "label" : "nq330205_msg0058",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시로 탓이 아니잖아……"
+  }, {
+    "$id" : 59,
+    "label" : "nq330205_msg0059",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니야, 내가 너무 응석만 부리니까……\n모두를 불안하게 만든 거야"
+  }, {
+    "$id" : 60,
+    "label" : "nq330205_msg0060",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "필요한 건 부관이 아니라\n내가 똑바로 하는 거야"
+  }, {
+    "$id" : 61,
+    "label" : "nq330205_msg0061",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마시로의 마음은 이해하지만……\n정말 그래도 괜찮겠어……?"
+  }, {
+    "$id" : 62,
+    "label" : "nq330205_msg0062",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……바뀌기로 결심했어"
+  }, {
+    "$id" : 63,
+    "label" : "nq330205_msg0063",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 조금만 더\n지켜봐 줄래……?"
+  }, {
+    "$id" : 64,
+    "label" : "nq330205_msg0064",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마시로가 그렇게 결심했다면……"
+  }, {
+    "$id" : 65,
+    "label" : "nq330205_msg0065",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응…… 지금보다 더 많이 도와줄게!"
+  }, {
+    "$id" : 66,
+    "label" : "nq330205_msg0066",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혼자 두지 않을게~!"
+  }, {
+    "$id" : 67,
+    "label" : "nq330205_msg0067",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도……\n마시로를 위해 뭐든 할게……!"
+  }, {
+    "$id" : 68,
+    "label" : "nq330205_msg0068",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들…… 고마워"
+  }, {
+    "$id" : 69,
+    "label" : "nq330205_msg0069",
+    "talker" : "O",
+    "talkattr" : 33026,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이거면 됐어"
+  }, {
+    "$id" : 70,
+    "label" : "nq330205_msg0070",
+    "talker" : "O",
+    "talkattr" : 33026,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이대로 나만 열심히 하면…… 괜찮을 거야……"
+  } ]
+}

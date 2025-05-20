@@ -1,0 +1,124 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<17996AF8>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "찾았다, 문장이야"
+  }, {
+    "$id" : 2,
+    "label" : "<2E2EA222>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번엔 뭐라고 적혀 있어?"
+  }, {
+    "$id" : 3,
+    "label" : "<3BE0D5D3>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐 있어 봐\n그러니까……"
+  }, {
+    "$id" : 4,
+    "label" : "<15B6F2EF>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"가장 높은 옛 옥좌는\n검은 바위에 안겨 고독하게 잠든다\""
+  }, {
+    "$id" : 5,
+    "label" : "<F9D0485F>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠, 의미심장한 내용인걸"
+  }, {
+    "$id" : 6,
+    "label" : "<683006DB>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 이것도\n장소를 가리키는 걸까?"
+  }, {
+    "$id" : 7,
+    "label" : "<59F69C11>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『가장 높은』이라고 했으니\n일단 높은 곳이겠지……?"
+  }, {
+    "$id" : 8,
+    "label" : "<C371464E>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『검은 바위』도 말 그대로\n그런 지형을 가리키는 걸지도 몰라"
+  }, {
+    "$id" : 9,
+    "label" : "<63C34329>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음~ 그런 장소에\n옥좌 같은 게 있을까?"
+  }, {
+    "$id" : 10,
+    "label" : "<5602E4B5>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 여기서 고민해 봐야 소용없지\n돌아다니면서 찾아보자고"
+  }, {
+    "$id" : 11,
+    "label" : "<E67AF64A>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : ""
+  } ]
+}

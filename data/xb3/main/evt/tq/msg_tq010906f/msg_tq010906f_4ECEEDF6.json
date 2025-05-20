@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq010906_msg0001",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이것이 온천……?"
+  }, {
+    "$id" : 2,
+    "label" : "tq010906_msg0002",
+    "talker" : "3",
+    "talkattr" : 33105,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아니, 그냥 커다란 욕조랑 뭐가 달라!"
+  }, {
+    "$id" : 3,
+    "label" : "tq010906_msg0003",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보이는 걸로만 판단하면 안 돼\n효능이 있다고 했잖아"
+  }, {
+    "$id" : 4,
+    "label" : "tq010906_msg0004",
+    "talker" : "6",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수증기가 굉장한걸……\n이 물 뜨거우려나?"
+  }, {
+    "$id" : 5,
+    "label" : "tq010906_msg0005",
+    "talker" : "1",
+    "talkattr" : 33105,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……?! 잠깐만! 뭔가 있어!"
+  }, {
+    "$id" : 6,
+    "label" : "tq010906_msg0006",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 여기에도 먼저 온 손님이 있는 모양이군"
+  }, {
+    "$id" : 7,
+    "label" : "tq010906_msg0007",
+    "talker" : "2",
+    "talkattr" : 33065,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 준비해!"
+  } ]
+}

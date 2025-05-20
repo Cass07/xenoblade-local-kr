@@ -1,0 +1,232 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq110201_msg0001",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……설마 정말로\n의뢰를 수락할 줄은 몰랐는데"
+  }, {
+    "$id" : 2,
+    "label" : "nq110201_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 그건 또 뭔 소리래\n그쪽이 먼저 말 꺼냈으면서"
+  }, {
+    "$id" : 3,
+    "label" : "nq110201_msg0003",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 말하기도 뭐하지만……\n꽤 억지스러운 부탁이었으니 기대는 안 했거든"
+  }, {
+    "$id" : 4,
+    "label" : "nq110201_msg0004",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희가 마음을 바꿔도\n어쩔 수 없다고 생각했지"
+  }, {
+    "$id" : 5,
+    "label" : "nq110201_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸로 조금은 믿음이 가?"
+  }, {
+    "$id" : 6,
+    "label" : "nq110201_msg0006",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 내가 잘못 판단했군\n미안하다"
+  }, {
+    "$id" : 7,
+    "label" : "nq110201_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 그 작전이 뭐야?"
+  }, {
+    "$id" : 8,
+    "label" : "nq110201_msg0008",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "개요를 간단히 설명하자면\n몬스터 3마리를 토벌하는 일이다"
+  }, {
+    "$id" : 9,
+    "label" : "nq110201_msg0009",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일부러 우리한테 부탁한 걸 보면\n쉽게 토벌할 상대가 아닌가 본데?"
+  }, {
+    "$id" : 10,
+    "label" : "nq110201_msg0010",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗, 눈치가 빠르군\n이 3마리는 꽤 강한 녀석들이거든"
+  }, {
+    "$id" : 11,
+    "label" : "nq110201_msg0011",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "녀석들은 콜로니 주변 몬스터를\n좌지우지하는 우두머리 격이지"
+  }, {
+    "$id" : 12,
+    "label" : "nq110201_msg0012",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정찰을 통해 서식지는 알아냈지만\n지금의 콜로니 4는\n토벌 작전에 투입할 전력이 없어"
+  }, {
+    "$id" : 13,
+    "label" : "nq110201_msg0013",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니를 지켜야 할 전술반이\n밖으로 나가면 오히려 주객전도일 테고"
+  }, {
+    "$id" : 14,
+    "label" : "nq110201_msg0014",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 그 우두머리 녀석들을 토벌해야만\n몬스터로 생기는 피해가 줄어든다……"
+  }, {
+    "$id" : 15,
+    "label" : "nq110201_msg0015",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정확해\n어때, 할 수 있겠나?"
+  }, {
+    "$id" : 16,
+    "label" : "nq110201_msg0016",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 맡겨만 둬!\n잽싸게 토벌하고 와 주지"
+  }, {
+    "$id" : 17,
+    "label" : "nq110201_msg0017",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 해당 몬스터와\n관련된 정보는……"
+  }, {
+    "$id" : 18,
+    "label" : "nq110201_msg0018",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 자세한 내용은\n실제로 서식지를 알아낸 정찰병인\n내 부하한테 직접 물어보면 돼"
+  }, {
+    "$id" : 19,
+    "label" : "nq110201_msg0019",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제레미, 프라우렌, 요르데. 이 세 명이다"
+  }, {
+    "$id" : 20,
+    "label" : "nq110201_msg0021",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기…… 제레미는\n전에 같이 있었던……"
+  }, {
+    "$id" : 21,
+    "label" : "nq110201_msg0022",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……무슨 말을 하고 싶은 건지는 알아\n뭔가 문제가 발생하면 나한테 알려 줘\n이쪽에서 대처하지"
+  }, {
+    "$id" : 22,
+    "label" : "nq110201_msg0023",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무튼 먼저 그 세 사람이랑\n이야기해 볼게"
+  }, {
+    "$id" : 23,
+    "label" : "nq110201_msg0024",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 부탁한다…… 무운을 비마"
+  } ]
+}

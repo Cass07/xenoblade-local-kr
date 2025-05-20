@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk021504_msg0001",
+    "talker" : "bW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타우는 앞으로도 계속 나아갈 겁니다\n여러분께서 구해 주신 목숨과 함께……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk021504_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 구해 줬다고\n부담 느끼진 마\n너무 애쓸 필요 없어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk021504_msg0003",
+    "talker" : "bW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런가요……?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk021504_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힘들면 언제든 얘기해\n그래서 우리가 있는 거니까"
+  }, {
+    "$id" : 5,
+    "label" : "tlk021504_msg0005",
+    "talker" : "bW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 감사합니다……\n여러분과 함께 나아갈 수 있도록 분발할게요!"
+  } ]
+}

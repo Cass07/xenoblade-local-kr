@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011740_msg0001",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이래 봤자……\n잘될 리 없다고……"
+  }, {
+    "$id" : 2,
+    "label" : "tq011740_msg0002",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……쫀득쫀득 감자 10개야\n이번엔 잊지 말라고"
+  }, {
+    "$id" : 3,
+    "label" : "tq011740_msg0003",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……조금만 더 도와줄게\n진짜, 진짜 조금만이다"
+  }, {
+    "$id" : 4,
+    "label" : "tq011740_msg0004",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……폭스가 폐를 끼쳐서 미안해"
+  }, {
+    "$id" : 5,
+    "label" : "tq011740_msg0005",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 악의는 없었을 거야\n밭을 그냥 둘 수 없어서 그랬겠지\n……걔 착한 녀석이라고"
+  }, {
+    "$id" : 6,
+    "label" : "tq011740_msg0006",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……밭일은 이제\n그쪽에서 알아서들 잘하라고"
+  }, {
+    "$id" : 7,
+    "label" : "tq011740_msg0007",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 밖에 다른 일들은……\n이쪽에서 알아서 잘할 테니까"
+  }, {
+    "$id" : 8,
+    "label" : "tq011740_msg0008",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "밭…… 말인데……"
+  }, {
+    "$id" : 9,
+    "label" : "tq011740_msg0009",
+    "talker" : "cX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아니, 역시 아무것도 아냐……"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk310302_msg0001",
+    "talker" : "pc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아, 환송은 꼭 필요하다고 생각해?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk310302_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응, 내 생각엔 필요해"
+  }, {
+    "$id" : 3,
+    "label" : "tlk310302_msg0003",
+    "talker" : "pc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇구나"
+  }, {
+    "$id" : 4,
+    "label" : "tlk310302_msg0004",
+    "talker" : "pc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "환송이 필요 없다는 사람도 있어서\n조금 자신감을 잃었었어"
+  }, {
+    "$id" : 5,
+    "label" : "tlk310302_msg0005",
+    "talker" : "pc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 내가 해야 할 일을 한다……\n그저 그게 전부인데 말이야"
+  } ]
+}

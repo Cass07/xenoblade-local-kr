@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230902_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 와서 묻기 좀 그렇긴 한데……\n그 헬멧은 네가 직접 산 거야?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230902_msg0002",
+    "talker" : "cb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 사막에서 주운 거예요오\n여분이 있으면 좋겠는데\n아직도 발견하지를 못했네요……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230902_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로스트 넘버즈 물건이니 그럴 법도 하지……\n그래도 시티에 가면 널려 있을 거야"
+  }, {
+    "$id" : 4,
+    "label" : "tlk230902_msg0004",
+    "talker" : "cb1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "널려 있다고요오?! 갖고 싶어요!!\n피이~ 피이~! 피이~ 피이~!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk230902_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 시끄럽게 보채지 마!\n헬멧이 무슨 기념품 같은 건 줄 아냐?!"
+  } ]
+}

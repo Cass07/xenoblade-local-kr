@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831404_msg0001",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "슬슬 저도 할아버지처럼\n자신의 가게를 갖고 싶네요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831404_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 그럼 시티로 올래?\n당신 가게라면 무조건 잘될 거 같은데?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831404_msg0003",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아하하, 그것도 괜찮아 보임다\n계속 여기 있을 수도 없는 노릇 아니겠슴까"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831404_msg0004",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 생각해 보겠슴다\n그때가 되면 또 신세 좀 지겠슴다"
+  } ]
+}

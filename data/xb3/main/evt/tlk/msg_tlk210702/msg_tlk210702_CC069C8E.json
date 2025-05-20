@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210702_msg0001",
+    "talker" : "xZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쿠쿠차 반장은 살짝 둔하지만\n요리 실력이라면 케베스에서도 상위권……\n그야말로 \"실버\"급이라고 해도 될 정도야"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210702_msg0002",
+    "talker" : "xZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄, 아무리 빈약한 재료라 해도\n제법 맛있게 요리해 낸다니까?\n정말 대단한 노폰이야"
+  }, {
+    "$id" : 3,
+    "label" : "tlk210702_msg0003",
+    "talker" : "xZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 사람이 콜로니 4의 주방에 없었더라면\n우린 지금쯤 아무 맛도 안 나는 고무 같은\n전투 식량을 먹으며 지냈을걸……"
+  } ]
+}

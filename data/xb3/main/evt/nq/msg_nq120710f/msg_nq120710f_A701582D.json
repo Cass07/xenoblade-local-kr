@@ -1,0 +1,214 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120710_msg0001",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요시노, 가져왔어!"
+  }, {
+    "$id" : 2,
+    "label" : "nq120710_msg0002",
+    "talker" : "cl1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수고들 많았어\n그럼 뒷일은 나한테 맡기렴"
+  }, {
+    "$id" : 3,
+    "label" : "nq120710_msg0003",
+    "talker" : "cl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번엔 잘될 거야"
+  }, {
+    "$id" : 4,
+    "label" : "nq120710_msg0004",
+    "talker" : "pa1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모!\n또다시 테스트 시작이야모!"
+  }, {
+    "$id" : 5,
+    "label" : "nq120710_msg0005",
+    "talker" : "pa1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "친구 대포 발사!"
+  }, {
+    "$id" : 6,
+    "label" : "nq120710_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어때?"
+  }, {
+    "$id" : 7,
+    "label" : "nq120710_msg0007",
+    "talker" : "9",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "드루크와 친하게 지내고 있어요모~!"
+  }, {
+    "$id" : 8,
+    "label" : "nq120710_msg0008",
+    "talker" : "6",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건……\n성공한 거지?"
+  }, {
+    "$id" : 9,
+    "label" : "nq120710_msg0009",
+    "talker" : "pa1",
+    "talkattr" : 33153,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모!\n대성공이야모!!"
+  }, {
+    "$id" : 10,
+    "label" : "nq120710_msg0010",
+    "talker" : "H",
+    "talkattr" : 33153,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "와아!\n해냈다~!!"
+  }, {
+    "$id" : 11,
+    "label" : "nq120710_msg0011",
+    "talker" : "H",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금만 더 있으면 완성이야\n드루크"
+  }, {
+    "$id" : 12,
+    "label" : "nq120710_msg0012",
+    "talker" : "H",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두를 지킬 수 있도록 강하고\n착한 레브니스가 되어야 해"
+  }, {
+    "$id" : 13,
+    "label" : "nq120710_msg0013",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들, 지금까지 도와줘서 고마워"
+  }, {
+    "$id" : 14,
+    "label" : "nq120710_msg0014",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래"
+  }, {
+    "$id" : 15,
+    "label" : "nq120710_msg0015",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 드루크는\n페이즈 10을 진행할 수 있어모"
+  }, {
+    "$id" : 16,
+    "label" : "nq120710_msg0016",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기서부터는 최종 조정이야모\n레파파랑 동료들 노력에 달렸어모"
+  }, {
+    "$id" : 17,
+    "label" : "nq120710_msg0017",
+    "talker" : "cl1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 이참에\n나도 마지막까지 도와줄까?"
+  }, {
+    "$id" : 18,
+    "label" : "nq120710_msg0018",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응! 잘 부탁해, 요시노!"
+  }, {
+    "$id" : 19,
+    "label" : "nq120710_msg0019",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레파파가 척척 만들게모"
+  }, {
+    "$id" : 20,
+    "label" : "nq120710_msg0020",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 기대해!"
+  }, {
+    "$id" : 21,
+    "label" : "nq120710_msg0021",
+    "talker" : "5",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 힘내라!"
+  } ]
+}

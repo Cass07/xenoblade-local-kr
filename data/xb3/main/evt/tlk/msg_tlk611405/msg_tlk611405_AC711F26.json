@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk611405_msg0001",
+    "talker" : "Wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요전에 시티가 있었던\n대검의 상층을 조사하러 갔었거든"
+  }, {
+    "$id" : 2,
+    "label" : "tlk611405_msg0002",
+    "talker" : "Wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬더니 처음 보는\n예쁜 깃털이 떨어져 있었어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk611405_msg0003",
+    "talker" : "Wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모습을 보진 못했지만\n희귀한 몬스터가 있나 봐……"
+  } ]
+}

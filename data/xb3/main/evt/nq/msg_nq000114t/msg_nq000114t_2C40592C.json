@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq000114_msg0001",
+    "talker" : "ni1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어머어머, 손님인가요모?\n차라도 한잔 하고 가세요모"
+  }, {
+    "$id" : 2,
+    "label" : "nq000114_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 손님이 아니라\n시르지르한테 의뢰를 받고 왔어"
+  }, {
+    "$id" : 3,
+    "label" : "nq000114_msg0003",
+    "talker" : "ni1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬어요모?\n우카우카도 참, 얘기도 제대로 안 듣고\n실수했네요모"
+  }, {
+    "$id" : 4,
+    "label" : "nq000114_msg0004",
+    "talker" : "ni1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 여기, 돌이에요모"
+  }, {
+    "$id" : 5,
+    "label" : "nq000114_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 잘 전해 줄게"
+  }, {
+    "$id" : 6,
+    "label" : "nq000114_msg0006",
+    "talker" : "ni1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서, 차는 드시고 가실래요모?"
+  }, {
+    "$id" : 7,
+    "label" : "nq000114_msg0007",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니…… 우리가 지금 바빠서……"
+  }, {
+    "$id" : 8,
+    "label" : "nq000114_msg0008",
+    "talker" : "ni1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇군요모……\n로로카라면 마셨을 텐데요모\n로로카는 재미있는 노폰이에요모"
+  }, {
+    "$id" : 9,
+    "label" : "nq000114_msg0009",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 우리가 마실 몫까지\n그 애한테 대접해 줘"
+  }, {
+    "$id" : 10,
+    "label" : "nq000114_msg0010",
+    "talker" : "ni1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴게요모!"
+  } ]
+}

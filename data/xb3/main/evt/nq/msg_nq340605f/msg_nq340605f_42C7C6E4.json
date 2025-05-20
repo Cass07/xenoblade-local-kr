@@ -1,0 +1,358 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq340605_msg0001",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여, 여기가 시티……"
+  }, {
+    "$id" : 2,
+    "label" : "nq340605_msg0002",
+    "talker" : "vj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 곳이 있다니……"
+  }, {
+    "$id" : 3,
+    "label" : "nq340605_msg0003",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거 참…… 말이 안 나오는군요"
+  }, {
+    "$id" : 4,
+    "label" : "nq340605_msg0004",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 드디어 납셨군"
+  }, {
+    "$id" : 5,
+    "label" : "nq340605_msg0005",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전부 모여서 마중 나오다니\n참 한가한 녀석들이네"
+  }, {
+    "$id" : 6,
+    "label" : "nq340605_msg0006",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "손님 앞에서\n그런 말 하면 못써"
+  }, {
+    "$id" : 7,
+    "label" : "nq340605_msg0007",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……노아 씨\n저기……"
+  }, {
+    "$id" : 8,
+    "label" : "nq340605_msg0008",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야, 당신\n할머니를 처음 봤나?"
+  }, {
+    "$id" : 9,
+    "label" : "nq340605_msg0009",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그게…… 맞아요\n그…… 하, 할머니라는 건……"
+  }, {
+    "$id" : 10,
+    "label" : "nq340605_msg0010",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하!\n끝내주는 반응이구나"
+  }, {
+    "$id" : 11,
+    "label" : "nq340605_msg0011",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서서 얘기하는 건 이쯤 하고\n차분히 얘기를 나눌 곳으로 이동할까요?"
+  }, {
+    "$id" : 12,
+    "label" : "nq340605_msg0012",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그렇네\n그게 좋겠어"
+  }, {
+    "$id" : 13,
+    "label" : "nq340605_msg0013",
+    "talker" : "jW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오랜만에 시티로 돌아왔군요"
+  }, {
+    "$id" : 14,
+    "label" : "nq340605_msg0014",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아가씨, 가시죠!"
+  }, {
+    "$id" : 15,
+    "label" : "nq340605_msg0015",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기다려, 너희는 나를 따라와야지"
+  }, {
+    "$id" : 16,
+    "label" : "nq340605_msg0016",
+    "talker" : "jW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그러십니까?\n저희에게 하실 말씀이라도?"
+  }, {
+    "$id" : 17,
+    "label" : "nq340605_msg0017",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼, 있고말고\n일 처리를 엉망으로 했으니\n설교가 좀 필요한 것 같아서 말이야"
+  }, {
+    "$id" : 18,
+    "label" : "nq340605_msg0018",
+    "talker" : "kW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐라고요?! 자, 잠시만요……!\n아가씨께서도 뭐라고 말씀 좀 해 주십쇼!!"
+  }, {
+    "$id" : 19,
+    "label" : "nq340605_msg0019",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 모르는 일이야"
+  }, {
+    "$id" : 20,
+    "label" : "nq340605_msg0020",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "남한테 도움은 도움대로 받아 놓고\n폐 끼치고 다니면 안 될 일이잖니"
+  }, {
+    "$id" : 21,
+    "label" : "nq340605_msg0021",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거야 뭐…… 식량을 달라고 졸라 댔으니\n당연한 처사지……"
+  }, {
+    "$id" : 22,
+    "label" : "nq340605_msg0022",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "손님들은 제가 안내하도록 하죠\n자, 이쪽으로"
+  }, {
+    "$id" : 23,
+    "label" : "nq340605_msg0023",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 네……\n잘 부탁드립니다"
+  }, {
+    "$id" : 24,
+    "label" : "nq340605_msg0024",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사실은 우리 보스와 만나 줬으면 했지만\n다른 일로 바쁘시거든"
+  }, {
+    "$id" : 25,
+    "label" : "nq340605_msg0025",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮아요……\n이렇게 받아 주시는 것만으로도\n충분합니다"
+  }, {
+    "$id" : 26,
+    "label" : "nq340605_msg0026",
+    "talker" : "vj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "박살이 날 줄 알았거든"
+  }, {
+    "$id" : 27,
+    "label" : "nq340605_msg0027",
+    "talker" : "Zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흥, 재밌는 소릴 하는군"
+  }, {
+    "$id" : 28,
+    "label" : "nq340605_msg0028",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "불행한 사고가 일어난 건 사실이야\n하지만 그게 당신들의 잘못이 아니란 건\n곤도를 통해 보고받았어"
+  }, {
+    "$id" : 29,
+    "label" : "nq340605_msg0029",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네?"
+  }, {
+    "$id" : 30,
+    "label" : "nq340605_msg0030",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야? 곤도\n수시로 겁주더니\n슬쩍 얘기해 둔 거야?"
+  }, {
+    "$id" : 31,
+    "label" : "nq340605_msg0031",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스는 어찌 되든 내 알 바 아니지만\n진지하게 교류하다 보면\n나름대로 혜택도 있다는 거지"
+  }, {
+    "$id" : 32,
+    "label" : "nq340605_msg0032",
+    "talker" : "il1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 된 거야\n사례는 하지……\n우선 우리의 기술을 전수해 줄게"
+  }, {
+    "$id" : 33,
+    "label" : "nq340605_msg0033",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "감사합니다\n이 관계를 발전시킬 수 있도록\n저희도 최선을 다하겠습니다"
+  }, {
+    "$id" : 34,
+    "label" : "nq340605_msg0034",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "딱딱한 이야기는 여기까지 하자고\n너희만 괜찮다면 이 주변을 돌아다녀 봐"
+  }, {
+    "$id" : 35,
+    "label" : "nq340605_msg0035",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래도 되나요?"
+  }, {
+    "$id" : 36,
+    "label" : "nq340605_msg0036",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 보스에게 허가는 받아 놨어\n그럼, 나머지는 맡길게"
+  }, {
+    "$id" : 37,
+    "label" : "nq340605_msg0037",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어\n그럼 거리를 좀 돌아다녀 볼까?"
+  } ]
+}

@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830104_msg0001",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이곳의 던전 제작도\n드디어 일단락됐어모오!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830104_msg0002",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "슬슬 다른 던전의 상태를\n보러 가야겠어모오!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830104_msg0003",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이곳을 떠나려고?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830104_msg0004",
+    "talker" : "tp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아모오!\n쓸쓸하겠네모오!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk830104_msg0005",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "또 어디선가 볼 수 있겠지\n던전 제작 힘내"
+  }, {
+    "$id" : 6,
+    "label" : "tlk830104_msg0006",
+    "talker" : "tp1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응원 고마워모오!\n잘 지내모오!!"
+  } ]
+}

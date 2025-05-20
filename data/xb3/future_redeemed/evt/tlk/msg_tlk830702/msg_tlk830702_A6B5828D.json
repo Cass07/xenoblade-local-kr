@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830702_msg0001",
+    "talker" : "nq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 기억이 맞다면 곤도 선생님께서는\n블레이드를 한 번도 사용하지 않으셨지"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830702_msg0002",
+    "talker" : "nq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 달인의 경지쯤 되면\n맨손이야말로 궁극적인 도달점이고\n무기 따위는 도리어 방해가 된다는 건가……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830702_msg0003",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음…… 우리 할아버지는 글쎄……\n약간 인간을 벗어난 느낌이지 않았나?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830702_msg0004",
+    "talker" : "nq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음, 역시 위대하신 분이시군……\n그럼 우리도 선생님을 본받아 맨손으로……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk830702_msg0005",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 그건 좀 아냐……"
+  } ]
+}

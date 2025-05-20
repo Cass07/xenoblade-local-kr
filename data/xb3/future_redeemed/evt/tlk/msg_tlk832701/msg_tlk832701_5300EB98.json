@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk832701_msg0001",
+    "talker" : "br1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엑스 디바이스가 너무 흥미로워서\n제대로 된 휴가를 보내게 되면\n콜로니 9이라는 곳에 가 볼 생각이야"
+  }, {
+    "$id" : 2,
+    "label" : "tlk832701_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 생각했어\n환영할게"
+  }, {
+    "$id" : 3,
+    "label" : "tlk832701_msg0003",
+    "talker" : "br1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 다음 휴가가 언제가 될지 모르겠어……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk832701_msg0004",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……건강 신경 쓰면서 일해"
+  }, {
+    "$id" : 5,
+    "label" : "tlk832701_msg0005",
+    "talker" : "br1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그쪽도 건강 조심하면서\n해야 할 일을 해 나가모"
+  }, {
+    "$id" : 6,
+    "label" : "tlk832701_msg0101",
+    "talker" : "br1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엑스 디바이스는 정말 흥미로워모\n타이니도 제대로 된 휴가가 나면\n그런 편리한 단말기를 만들어 보려고 해모"
+  }, {
+    "$id" : 7,
+    "label" : "tlk832701_msg0102",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋네, 당신이라면\n상상도 못 할 물건을 만들어 버릴 것 같아"
+  } ]
+}

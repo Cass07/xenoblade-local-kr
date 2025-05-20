@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120406_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 이 부품은 쓸 수 있겠어"
+  }, {
+    "$id" : 2,
+    "label" : "nq120406_msg0101",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오! 이 부품이라면\n메카 친구에 쓸 만하겠어"
+  }, {
+    "$id" : 3,
+    "label" : "nq120406_msg0201",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거라면 메카 친구에 쓸 수 있겠는데?"
+  }, {
+    "$id" : 4,
+    "label" : "nq120406_msg0301",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 부품, 괜찮아 보이는데?"
+  }, {
+    "$id" : 5,
+    "label" : "nq120406_msg0401",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 부품 형태는……\n메카 친구에 사용한 것과 똑같군"
+  }, {
+    "$id" : 6,
+    "label" : "nq120406_msg0501",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아! 멀쩡한 부품 찾았어!\n이거 가져가자!"
+  } ]
+}

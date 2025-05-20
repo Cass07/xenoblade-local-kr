@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk835500_msg0001",
+    "talker" : "Wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "매슈 씨\n저, 결심했어요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk835500_msg0002",
+    "talker" : "Wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "살아남은 아이들을 위해\n\"보육원\"을 만들 거예요"
+  }, {
+    "$id" : 3,
+    "label" : "tlk835500_msg0003",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보육원이라…… 시티에도 있었으니\n지금이야말로 필요할 시기일 수도 있겠네"
+  }, {
+    "$id" : 4,
+    "label" : "tlk835500_msg0004",
+    "talker" : "Wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 아이들에게는 교육도 교육이지만\n역시 \"가족\"이 필요해요"
+  }, {
+    "$id" : 5,
+    "label" : "tlk835500_msg0005",
+    "talker" : "Wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "설령 피가 이어지지 않았다 해도\n저희가 부모와 형제를 대신해서\n그들을 뒷받침해 줘야 해요"
+  }, {
+    "$id" : 6,
+    "label" : "tlk835500_msg0006",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 도울게\n아이들 상대하는 건 자신 있거든"
+  }, {
+    "$id" : 7,
+    "label" : "tlk835500_msg0007",
+    "talker" : "Wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 잘 부탁드릴게요!"
+  } ]
+}

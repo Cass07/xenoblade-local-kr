@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<81CE4609>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "테르니 특제 SP 꽃가루 구슬로\n노폰 이터를 해치우시는 겁니다모!"
+  }, {
+    "$id" : 2,
+    "label" : "<034DDAD7>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……모모?\nSP 꽃가루 구슬의 제조법을 알고 싶다고요모?"
+  }, {
+    "$id" : 3,
+    "label" : "<51F413E7>",
+    "talker" : "cp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그건 영업 비밀입니다모"
+  } ]
+}

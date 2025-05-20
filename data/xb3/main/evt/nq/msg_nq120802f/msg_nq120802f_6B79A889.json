@@ -1,0 +1,574 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120802_msg0001",
+    "talker" : "H",
+    "talkattr" : 33105,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "윽……!"
+  }, {
+    "$id" : 2,
+    "label" : "nq120802_msg0002",
+    "talker" : "5",
+    "talkattr" : 33105,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디!"
+  }, {
+    "$id" : 3,
+    "label" : "nq120802_msg0003",
+    "talker" : "3",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쿨럭, 쿨럭……"
+  }, {
+    "$id" : 4,
+    "label" : "nq120802_msg0004",
+    "talker" : "5",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제길……\n루디!!"
+  }, {
+    "$id" : 5,
+    "label" : "nq120802_msg0005",
+    "talker" : "H",
+    "talkattr" : 33128,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "메카 친구……"
+  }, {
+    "$id" : 6,
+    "label" : "nq120802_msg0006",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮아?!"
+  }, {
+    "$id" : 7,
+    "label" : "nq120802_msg0007",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무래도 메카 친구가\n폭풍에 직격당할 뻔한 걸 막아 준 모양이야"
+  }, {
+    "$id" : 8,
+    "label" : "nq120802_msg0008",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 메카 친구가\n망가져 버렸어……"
+  }, {
+    "$id" : 9,
+    "label" : "nq120802_msg0009",
+    "talker" : "8",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "드루크도\n완전히 망가진 것 같아모……"
+  }, {
+    "$id" : 10,
+    "label" : "nq120802_msg0010",
+    "talker" : "H",
+    "talkattr" : 33128,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 11,
+    "label" : "nq120802_msg0011",
+    "talker" : "H",
+    "talkattr" : 33128,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래"
+  }, {
+    "$id" : 12,
+    "label" : "nq120802_msg0012",
+    "talker" : "H",
+    "talkattr" : 33128,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너한테는……\n몇 번이고 도움만 받는구나, 메카 친구……"
+  }, {
+    "$id" : 13,
+    "label" : "nq120802_msg0013",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까……"
+  }, {
+    "$id" : 14,
+    "label" : "nq120802_msg0014",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 포기하지 않을게"
+  }, {
+    "$id" : 15,
+    "label" : "nq120802_msg0015",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 도와줄게\n물론 드루크 쪽도 말이지"
+  }, {
+    "$id" : 16,
+    "label" : "nq120802_msg0016",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "란츠……"
+  }, {
+    "$id" : 17,
+    "label" : "nq120802_msg0017",
+    "talker" : "na1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희도 돕겠습니다, 군무장님"
+  }, {
+    "$id" : 18,
+    "label" : "nq120802_msg0018",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디 마음대로 하게 내버려 두면\n나중엔 수습하기도 어려울 테고"
+  }, {
+    "$id" : 19,
+    "label" : "nq120802_msg0019",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얘들아……"
+  }, {
+    "$id" : 20,
+    "label" : "nq120802_msg0020",
+    "talker" : "WW1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어딜 가려고?"
+  }, {
+    "$id" : 21,
+    "label" : "nq120802_msg0021",
+    "talker" : "sa1",
+    "talkattr" : 33105,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "못?! 니나……"
+  }, {
+    "$id" : 22,
+    "label" : "nq120802_msg0022",
+    "talker" : "WW1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나한테 말하기 전에\n먼저 얘기할 상대가 있지 않니?"
+  }, {
+    "$id" : 23,
+    "label" : "nq120802_msg0023",
+    "talker" : "6",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디랑 다른 사람들한테\n제대로 사과해"
+  }, {
+    "$id" : 24,
+    "label" : "nq120802_msg0024",
+    "talker" : "sa1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "못, 못"
+  }, {
+    "$id" : 25,
+    "label" : "nq120802_msg0025",
+    "talker" : "sa1",
+    "talkattr" : 33137,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "히이잉~!!\n이제 싫어모오오!!"
+  }, {
+    "$id" : 26,
+    "label" : "nq120802_msg0026",
+    "talker" : "sa1",
+    "talkattr" : 33136,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무리 노력해도\n되는 일은 하나도 없고"
+  }, {
+    "$id" : 27,
+    "label" : "nq120802_msg0027",
+    "talker" : "sa1",
+    "talkattr" : 33136,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나는 루디나\n다른 녀석들하고만\n친하게 지내고"
+  }, {
+    "$id" : 28,
+    "label" : "nq120802_msg0028",
+    "talker" : "sa1",
+    "talkattr" : 33136,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "브레브레는\n이대로 사라지고 싶어모\n흑, 흐윽……"
+  }, {
+    "$id" : 29,
+    "label" : "nq120802_msg0029",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "브레브레"
+  }, {
+    "$id" : 30,
+    "label" : "nq120802_msg0030",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다친 데는 괜찮아?"
+  }, {
+    "$id" : 31,
+    "label" : "nq120802_msg0031",
+    "talker" : "sa1",
+    "talkattr" : 33105,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "못……?!"
+  }, {
+    "$id" : 32,
+    "label" : "nq120802_msg0032",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "브레브레는 그저\n모두와 친해지고\n싶었던 거지?"
+  }, {
+    "$id" : 33,
+    "label" : "nq120802_msg0033",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다고 방금 같은 짓은\n누군가 다칠 테니 해선 안 돼"
+  }, {
+    "$id" : 34,
+    "label" : "nq120802_msg0034",
+    "talker" : "sa1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말처럼 되면 얼마나 좋아모"
+  }, {
+    "$id" : 35,
+    "label" : "nq120802_msg0035",
+    "talker" : "sa1",
+    "talkattr" : 33136,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "브레브레한테는 아무것도 없어모!\n그러니까 노력하지 않으면\n아무도 봐 주질 않아모!"
+  }, {
+    "$id" : 36,
+    "label" : "nq120802_msg0036",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 있잖아"
+  }, {
+    "$id" : 37,
+    "label" : "nq120802_msg0037",
+    "talker" : "sa1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "못……?"
+  }, {
+    "$id" : 38,
+    "label" : "nq120802_msg0038",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 방식은 틀렸지만\n아까 그 레브니스도\n그렇게나 잘 움직였는걸"
+  }, {
+    "$id" : 39,
+    "label" : "nq120802_msg0039",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "브레브레만이 할 수 있는 일이 있어\n아무것도 없다는 건 잘못 생각한 거야……"
+  }, {
+    "$id" : 40,
+    "label" : "nq120802_msg0040",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 너 자신을 적으로 돌리지 마"
+  }, {
+    "$id" : 41,
+    "label" : "nq120802_msg0041",
+    "talker" : "sa1",
+    "talkattr" : 33105,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 42,
+    "label" : "nq120802_msg0042",
+    "talker" : "sa1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실패투성이인데……\n화 안 내모?"
+  }, {
+    "$id" : 43,
+    "label" : "nq120802_msg0043",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 실패는 꽤 했는걸"
+  }, {
+    "$id" : 44,
+    "label" : "nq120802_msg0044",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘 일도 그렇고\n메카 친구도 여러 번 망가뜨렸거든"
+  }, {
+    "$id" : 45,
+    "label" : "nq120802_msg0045",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만…… 실패에는\n\"그 너머 무언가\"가 있어"
+  }, {
+    "$id" : 46,
+    "label" : "nq120802_msg0046",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "드루크를 만들기 시작하고……"
+  }, {
+    "$id" : 47,
+    "label" : "nq120802_msg0047",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "많은 친구가 생기고……"
+  }, {
+    "$id" : 48,
+    "label" : "nq120802_msg0048",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두들 덕분에\n할 수 있는 일이 잔뜩 생겼어"
+  }, {
+    "$id" : 49,
+    "label" : "nq120802_msg0049",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 전부 \"지금\"으로 이어진 거지"
+  }, {
+    "$id" : 50,
+    "label" : "nq120802_msg0050",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실패를 하면\n무언가 깨닫는 게 있을 거야"
+  }, {
+    "$id" : 51,
+    "label" : "nq120802_msg0051",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 브레브레도\n자기 자신을 포기하지 않았으면 좋겠어"
+  }, {
+    "$id" : 52,
+    "label" : "nq120802_msg0052",
+    "talker" : "sa1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디……"
+  }, {
+    "$id" : 53,
+    "label" : "nq120802_msg0053",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다시 한번 해 보자"
+  }, {
+    "$id" : 54,
+    "label" : "nq120802_msg0054",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 사람들과 레브니스가\n함께 살 수 있는 세계를 만들고 싶어"
+  }, {
+    "$id" : 55,
+    "label" : "nq120802_msg0055",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 혼자서 하면\n시간이 오래 걸릴 것 같은데……"
+  }, {
+    "$id" : 56,
+    "label" : "nq120802_msg0056",
+    "talker" : "H",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "브레브레도\n꼭 도와줬으면 좋겠어\n……안 될까?"
+  }, {
+    "$id" : 57,
+    "label" : "nq120802_msg0057",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "헤헤, 다행이다"
+  }, {
+    "$id" : 58,
+    "label" : "nq120802_msg0058",
+    "talker" : "H",
+    "talkattr" : 33050,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 아직…… 할 수 있는 일이 있어"
+  }, {
+    "$id" : 59,
+    "label" : "nq120802_msg0059",
+    "talker" : "H",
+    "talkattr" : 33050,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두와 함께라면\n훨씬 더 대단한 일도 해낼 수 있을 거야!"
+  }, {
+    "$id" : 60,
+    "label" : "nq120802_msg0060",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아~!\n우선 메카 친구부터 수리해 볼까!"
+  }, {
+    "$id" : 61,
+    "label" : "nq120802_msg0061",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얘들아~!\n흩어진 부품들 좀 찾아 줘!"
+  } ]
+}

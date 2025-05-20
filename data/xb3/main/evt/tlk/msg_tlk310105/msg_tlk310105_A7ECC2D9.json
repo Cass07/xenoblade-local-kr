@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk310105_msg0001",
+    "talker" : "nc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들이구나……\n부끄러운 모습을 보여 버렸네"
+  }, {
+    "$id" : 2,
+    "label" : "tlk310105_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지 않아"
+  }, {
+    "$id" : 3,
+    "label" : "tlk310105_msg0003",
+    "talker" : "nc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생명의 불시계가 없어졌더라도\n지금까지와 똑같이 살아가려고 했는데"
+  }, {
+    "$id" : 4,
+    "label" : "tlk310105_msg0004",
+    "talker" : "nc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제부터는 새로운 삶의 방식을\n스스로 생각해야 한다는 걸 깨달았어"
+  }, {
+    "$id" : 5,
+    "label" : "tlk310105_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너라면 할 수 있을 거야\n잘해 보라고!"
+  } ]
+}

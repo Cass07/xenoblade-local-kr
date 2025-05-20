@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk430102_msg0001",
+    "talker" : "hf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엄청난 광경을 목격해 버렸어모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk430102_msg0002",
+    "talker" : "hf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하늘을 나는 레브니스가 캐슬로\n돌입해서 아주 난장판이 됐거든모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk430102_msg0003",
+    "talker" : "hf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 다른 카라반에도\n전해야만 해모"
+  } ]
+}

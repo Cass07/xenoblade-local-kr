@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230701_msg0001",
+    "talker" : "ab1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이미 눈치채셨을지도 모르지만\n니나 님의 책략이 \"성사된\" 건\n여러분과 처음으로 싸웠을 때부터예요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230701_msg0002",
+    "talker" : "ab1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스가 남쪽으로\n오도록 유도해라……\n그게 니나 님의 지시였죠"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230701_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "남쪽? 왜 굳이……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk230701_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……공격하기 쉬워서겠지\n기신의 손 북쪽에서 침공하는 게 정석이겠지만\n이그스 황야를 빠져나가면 협공도 가능하니까"
+  }, {
+    "$id" : 5,
+    "label" : "tlk230701_msg0005",
+    "talker" : "ab1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아요, 이 유도하기 쉬운 지형을 살려\n이미 몇 개나 되는 전과를 올렸답니다\n이 장소를 고른 것도 니나 님이세요"
+  } ]
+}

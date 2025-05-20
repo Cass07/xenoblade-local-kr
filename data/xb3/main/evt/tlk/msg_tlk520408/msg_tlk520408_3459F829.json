@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520408_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안녕!\n뭔가 기분 좋아 보이네?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520408_msg0002",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후후~\n니코반 전체적으로 분위기가 아주 좋거든요~!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520408_msg0003",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "렌렌의 밥은 날이 갈수록 맛있어지고\n츠무의 목장도 잘 돼 가고 있거든요~"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520408_msg0004",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 제일 많이 변한 건 히마예요!\n시로처럼 되겠다면서 눈에 불을 켜고\n열심히 노력하고 있어요~"
+  }, {
+    "$id" : 5,
+    "label" : "tlk520408_msg0005",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거기에 비축의 달인으로 성장한\n이 니코 반장까지 가담했단 말이죠!\n지금이라면 뭐든지 할 수 있을 것 같아요!"
+  } ]
+}

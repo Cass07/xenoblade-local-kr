@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330553_msg0001",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 녀석…… 정통으로 포격 맞은 거 맞지?\n하나도 안 통한 거 같은데……?!"
+  }, {
+    "$id" : 2,
+    "label" : "nq330553_msg0101",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 뫼비우스를\n콜로니에 들여도 괜찮을까……?!"
+  }, {
+    "$id" : 3,
+    "label" : "nq330553_msg0102",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나…… 나도 따라갈게……!\n저저저, 전혀 무섭지 않아……!!"
+  }, {
+    "$id" : 4,
+    "label" : "nq330553_msg0201",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸 전부 다 먹는다고?!\n내 돈으로?! 거짓말이지?!!"
+  }, {
+    "$id" : 5,
+    "label" : "nq330553_msg0301",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으으으~~~!\n캡틴의 이야기…… 마음에 팍팍 꽂혔습니다!"
+  }, {
+    "$id" : 6,
+    "label" : "nq330553_msg0302",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사나이는 입 다물고 한 그릇 더!\n이게 진정한 바다 사나이의 마음가짐이죠!!"
+  } ]
+}

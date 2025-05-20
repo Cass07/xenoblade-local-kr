@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk420602_msg0001",
+    "talker" : "xe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훈련에 협력해 주셔서\n감사합니다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk420602_msg0002",
+    "talker" : "xe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "덕분에 중요한 것을 깨달았습니다"
+  }, {
+    "$id" : 3,
+    "label" : "tlk420602_msg0003",
+    "talker" : "xe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그대로 있었다면 저희는\n프레드와 같은 후배들에게조차\n졌을지도 모르죠……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk420602_msg0004",
+    "talker" : "xe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동료와 연계하는 마음을 잊지 않고\n정진하겠습니다"
+  } ]
+}

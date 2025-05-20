@@ -1,0 +1,187 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq130211_msg0001",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……별일이네?\n다 함께 날 보러 온 거야?"
+  }, {
+    "$id" : 2,
+    "label" : "nq130211_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나가 쓸쓸하지 않을까\n싶어서 와 봤어"
+  }, {
+    "$id" : 3,
+    "label" : "nq130211_msg0003",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네가 그런 말을 할 때는\n뭔가 꿍꿍이가 있다는 건데……"
+  }, {
+    "$id" : 4,
+    "label" : "nq130211_msg0004",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말하기 힘든 얘기야?"
+  }, {
+    "$id" : 5,
+    "label" : "nq130211_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실은 저장고에 대한 건데……"
+  }, {
+    "$id" : 6,
+    "label" : "nq130211_msg0006",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보충하기가 꽤 힘들잖아?\n뭐 도울 일 없나 해서 온 거야"
+  }, {
+    "$id" : 7,
+    "label" : "nq130211_msg0007",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나……\n마음은 고맙지만\n우리 부대가 이미……"
+  }, {
+    "$id" : 8,
+    "label" : "nq130211_msg0008",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아니, 이 일은 미카게에게\n판단해 달라고 하지 않을래?"
+  }, {
+    "$id" : 9,
+    "label" : "nq130211_msg0009",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도와줄 수 있는 상황이면 도와줘\n나는 여기에 있어야 하거든"
+  }, {
+    "$id" : 10,
+    "label" : "nq130211_msg0010",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……바빠 보이는데\n무슨 일 있었어?"
+  }, {
+    "$id" : 11,
+    "label" : "nq130211_msg0011",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "평소와 똑같아. 앞으로 콜로니를\n어떤 방침으로 꾸려 나갈지 의논하고 있었어"
+  }, {
+    "$id" : 12,
+    "label" : "nq130211_msg0012",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "많은 의견이나 제안이 들어왔거든\n소란스러워서 놀랐어?"
+  }, {
+    "$id" : 13,
+    "label" : "nq130211_msg0013",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 진지하구나……\n하지만 즐거워 보여"
+  }, {
+    "$id" : 14,
+    "label" : "nq130211_msg0014",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "의욕이 넘쳐서 그래\n하고 싶은 일을 할 수 있는 기회니까"
+  }, {
+    "$id" : 15,
+    "label" : "nq130211_msg0015",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러는 니나도 즐거워 보이는걸"
+  }, {
+    "$id" : 16,
+    "label" : "nq130211_msg0016",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "새로운 일을 시도할 수 있다고\n생각하니 두근거리잖아?"
+  }, {
+    "$id" : 17,
+    "label" : "nq130211_msg0017",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아무튼 이런 상황이라\n나는 같이 못 가지만……"
+  }, {
+    "$id" : 18,
+    "label" : "nq130211_msg0018",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저장고 일을 잘 부탁할게"
+  } ]
+}

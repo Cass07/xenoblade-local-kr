@@ -1,0 +1,124 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq001100_msg0001",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘의 노역은\n아름답초와 수유 목이버섯을\n채집하는 거다"
+  }, {
+    "$id" : 2,
+    "label" : "sq001100_msg0002",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 어제\n페리스를 쓰러뜨린 녀석들은"
+  }, {
+    "$id" : 3,
+    "label" : "sq001100_msg0003",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "외곽 개방구 좌측에 풀어 놓은\n길라페의 개체 수를 줄이도록"
+  }, {
+    "$id" : 4,
+    "label" : "sq001100_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리만……?"
+  }, {
+    "$id" : 5,
+    "label" : "sq001100_msg0005",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "길라페의 개체 수를 조정한 다음에는\n클로드의 개체 수도 줄여라\n그리고 식량 보관고 정리도 너희 몫이다"
+  }, {
+    "$id" : 6,
+    "label" : "sq001100_msg0006",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 모든 작업이 끝나면\n다른 자들과 같은 노역에 합류해라"
+  }, {
+    "$id" : 7,
+    "label" : "sq001100_msg0007",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이상!\n어서 노역을 시작해!"
+  }, {
+    "$id" : 8,
+    "label" : "sq001100_msg0008",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리한테만\n일이 너무 많잖아……"
+  }, {
+    "$id" : 9,
+    "label" : "sq001100_msg0009",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우수한 모범수잖아\n마음에 들었나 보지"
+  }, {
+    "$id" : 10,
+    "label" : "sq001100_msg0010",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 가자"
+  }, {
+    "$id" : 11,
+    "label" : "sq001100_msg0011",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응"
+  } ]
+}

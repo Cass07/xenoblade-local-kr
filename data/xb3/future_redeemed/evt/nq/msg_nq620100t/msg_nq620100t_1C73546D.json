@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<400461C0>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건……\n게시판인가?"
+  }, {
+    "$id" : 2,
+    "label" : "<F0CE8AFB>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 이곳에서는\n리퀘스트 보드라고 부르고 있어"
+  }, {
+    "$id" : 3,
+    "label" : "<780AD918>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 9에 사는 사람들의\n의뢰를 확인할 수 있지"
+  }, {
+    "$id" : 4,
+    "label" : "<2FF444AE>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래?\n어디 한번 볼까……"
+  }, {
+    "$id" : 5,
+    "label" : "<E64193AE>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "「결혼반지를 콜로니 9에서 잃어버렸습니다\n만약 이 사실을 아내에게 들킨다면……\n제발 누가 됐든 찾아 주세요」"
+  }, {
+    "$id" : 6,
+    "label" : "<24ADCC2C>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수색 의뢰네?"
+  }, {
+    "$id" : 7,
+    "label" : "<1C8D3941>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 외에는……\n토벌 의뢰가 있는 것 같아"
+  }, {
+    "$id" : 8,
+    "label" : "<B6A7D0E4>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "「콜로니 9의 철탑 광장 주변에서\n크라디 무리가 발견됐어!\n토벌해서 식량을 확보해 줘!」"
+  }, {
+    "$id" : 9,
+    "label" : "<DFB7831A>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "「호수 동굴에 희귀한 루드피가\n살고 있다는 것 같아! 생태를 꼭\n조사해 보고 싶으니 누구든 토벌 부탁해!」"
+  }, {
+    "$id" : 10,
+    "label" : "<61C94E2B>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 식으로 자기가 해결하기 어려운 문제는\n협력을 의뢰해서 해결하는 건가 보네"
+  }, {
+    "$id" : 11,
+    "label" : "<D9A742BF>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 우리도 가끔 돕고 있지\n너희도 시간 날 때만이라도 도와줘"
+  }, {
+    "$id" : 12,
+    "label" : "<77B3A442>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어……\n해 볼게, 서로 돕고 살아야지"
+  } ]
+}

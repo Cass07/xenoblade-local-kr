@@ -1,0 +1,331 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002406_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"콜로니 0\"인가……\n평범한 병사는 아닐 거라 짐작은 했는데……"
+  }, {
+    "$id" : 2,
+    "label" : "tq002406_msg0002",
+    "talker" : "3",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1074,
+    "style" : 126,
+    "name" : "뫼비우스 소속인 이상\n못 본 척 넘길 수도 없잖아"
+  }, {
+    "$id" : 3,
+    "label" : "tq002406_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직 정보가 부족해\n좀 더 알아볼 필요가 있겠어"
+  }, {
+    "$id" : 4,
+    "label" : "tq002406_msg0004",
+    "talker" : "5",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 상대는 3기쯤 되는\n햇병아린데?"
+  }, {
+    "$id" : 5,
+    "label" : "tq002406_msg0005",
+    "talker" : "6",
+    "talkattr" : 33120,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 6,
+    "label" : "tq002406_msg0006",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기, 세나는 어떤 생각이 들었어?"
+  }, {
+    "$id" : 7,
+    "label" : "tq002406_msg0007",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나? 어떤이라니……"
+  }, {
+    "$id" : 8,
+    "label" : "tq002406_msg0008",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실제로 그 아이랑 대화하면서\n세나는 어떤 느낌이었어?"
+  }, {
+    "$id" : 9,
+    "label" : "tq002406_msg0009",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난…… 그냥 질문만 했을 뿐이야\n그 아이는 거기에 대답했을 뿐이고"
+  }, {
+    "$id" : 10,
+    "label" : "tq002406_msg0010",
+    "talker" : "6",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만…… 우리를 습격했는데도\n그 아이에게선 적의도 살의도 없어 보였고……"
+  }, {
+    "$id" : 11,
+    "label" : "tq002406_msg0011",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대화를 나눠봐도 정말 대답만 할 뿐이라\n사람과 얘기한다는 느낌이 들지 않았어"
+  }, {
+    "$id" : 12,
+    "label" : "tq002406_msg0012",
+    "talker" : "6",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "외견은 같아도 우리와는 다른 존재……\n그런 생각을 했더니, 나……\n그 아이가 무서워져서, 그래서……"
+  }, {
+    "$id" : 13,
+    "label" : "tq002406_msg0013",
+    "talker" : "2",
+    "talkattr" : 33144,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세나……"
+  }, {
+    "$id" : 14,
+    "label" : "tq002406_msg0014",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기 세나, 솔직한 의견이 듣고 싶어\n그 아이는 우리의 적인 거 같아?"
+  }, {
+    "$id" : 15,
+    "label" : "tq002406_msg0015",
+    "talker" : "6",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아직 모르겠어\n그래서 난……"
+  }, {
+    "$id" : 16,
+    "label" : "tq002406_msg0016",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한 번 더……\n그 아이와 이야기해 보고 싶어"
+  }, {
+    "$id" : 17,
+    "label" : "tq002406_msg0017",
+    "talker" : "5",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 소리야, 세나?\n방금은 무섭다면서"
+  }, {
+    "$id" : 18,
+    "label" : "tq002406_msg0018",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇긴 한데……\n그 이상으로 확인해 보고 싶거든"
+  }, {
+    "$id" : 19,
+    "label" : "tq002406_msg0019",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적인지 아닌지보다는\n좀 더 그 아이를 제대로……"
+  }, {
+    "$id" : 20,
+    "label" : "tq002406_msg0020",
+    "talker" : "5",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇구나\n그럼 조금 더 기다리지 뭐"
+  }, {
+    "$id" : 21,
+    "label" : "tq002406_msg0021",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 게다가 멋대로 뛰쳐나간 것도\n제대로 사과해야 하고……"
+  }, {
+    "$id" : 22,
+    "label" : "tq002406_msg0022",
+    "talker" : "3",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 문병 겸 사과 겸 해서\n먹을 거라도 챙겨 갈래?"
+  }, {
+    "$id" : 23,
+    "label" : "tq002406_msg0023",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아! 그럼\n세나의 주먹밥은 어때?"
+  }, {
+    "$id" : 24,
+    "label" : "tq002406_msg0024",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "주먹밥?"
+  }, {
+    "$id" : 25,
+    "label" : "tq002406_msg0025",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쪄 낸 순백미를 뭉쳐 만든\n아그누스의 휴대 식량이야"
+  }, {
+    "$id" : 26,
+    "label" : "tq002406_msg0026",
+    "talker" : "2",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "특히 세나의 주먹밥은\n소금 간이 되어 있어서\n훈련 뒤에 먹으면 정말 맛있어"
+  }, {
+    "$id" : 27,
+    "label" : "tq002406_msg0027",
+    "talker" : "5",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너 요리도 할 줄 알았냐……?"
+  }, {
+    "$id" : 28,
+    "label" : "tq002406_msg0028",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무, 물론이지!\n……주먹밥이라면"
+  }, {
+    "$id" : 29,
+    "label" : "tq002406_msg0029",
+    "talker" : "6",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아……\n그런데 정작 중요한 순백미가 없어……"
+  }, {
+    "$id" : 30,
+    "label" : "tq002406_msg0030",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거라면 콜로니 람다에\n비축해 둔 게 있을 거야"
+  }, {
+    "$id" : 31,
+    "label" : "tq002406_msg0031",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오호…… 그런데\n그런 건 어떻게 알고 있는 거야?"
+  }, {
+    "$id" : 32,
+    "label" : "tq002406_msg0032",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이스루기 군무장님께서 좋아하시거든\n……주먹밥을"
+  }, {
+    "$id" : 33,
+    "label" : "tq002406_msg0033",
+    "talker" : "5",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 잘됐네\n조금 나눠 달라 해 보자고"
+  }, {
+    "$id" : 34,
+    "label" : "tq002406_msg0034",
+    "talker" : "6",
+    "talkattr" : 33168,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얘들아…… 고마워"
+  } ]
+}

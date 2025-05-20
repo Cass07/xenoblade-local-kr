@@ -1,0 +1,151 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330500_msg0001",
+    "talker" : "4",
+    "talkattr" : 33048,
+    "talkattr2" : 32897,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하면 된다는 말이 있는데……"
+  }, {
+    "$id" : 2,
+    "label" : "nq330500_msg0002",
+    "talker" : "4",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 뮤의 정문은\n상상 이상의 결과물인걸"
+  }, {
+    "$id" : 3,
+    "label" : "nq330500_msg0003",
+    "talker" : "O",
+    "talkattr" : 33168,
+    "talkattr2" : 14696577,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 열심히 했거든!\n완~~전 튼튼하게 만들고 싶었어!"
+  }, {
+    "$id" : 4,
+    "label" : "nq330500_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내구성이 중요한 건 맞지만……"
+  }, {
+    "$id" : 5,
+    "label" : "nq330500_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 14696577,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야, 신경 쓰이는 점이라도 있어?"
+  }, {
+    "$id" : 6,
+    "label" : "nq330500_msg0006",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "중요한 건 문 자체가 아니라\n적의 침입을 막는 것……"
+  }, {
+    "$id" : 7,
+    "label" : "nq330500_msg0007",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "즉, 문에 다다르기 전에\n적의 전력을 얼마나 줄일 수 있느냐야"
+  }, {
+    "$id" : 8,
+    "label" : "nq330500_msg0008",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 14696577,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "포격 훈련도 하고 있는데\n그것만으론 부족할까……?"
+  }, {
+    "$id" : 9,
+    "label" : "nq330500_msg0009",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 56639617,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대비는 아무리 해도 과하지 않아\n주의하고 또 주의해야지"
+  }, {
+    "$id" : 10,
+    "label" : "nq330500_msg0010",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 함정으로 구멍이나 팔까?"
+  }, {
+    "$id" : 11,
+    "label" : "nq330500_msg0011",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지형을 생각해 보면\n구멍을 위장하기는 힘들지 않나……?"
+  }, {
+    "$id" : 12,
+    "label" : "nq330500_msg0012",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확인하러 가 보자\n보면서 방안을 생각해 보고 싶어"
+  }, {
+    "$id" : 13,
+    "label" : "nq330500_msg0013",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 56639618,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "문을 봐도 괜찮을까?"
+  }, {
+    "$id" : 14,
+    "label" : "nq330500_msg0014",
+    "talker" : "O",
+    "talkattr" : 33152,
+    "talkattr2" : 820002945,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응 꼭 부탁해!"
+  } ]
+}

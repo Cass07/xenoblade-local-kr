@@ -1,0 +1,430 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011005_msg0001",
+    "talker" : "6",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 요리 콘테스트를\n기대하고 있나 보네"
+  }, {
+    "$id" : 2,
+    "label" : "tq011005_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콘테스트 요리도 그렇지만\n다른 것보다 우승 요리 먹는 걸\n기대하는 모양이야"
+  }, {
+    "$id" : 3,
+    "label" : "tq011005_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……저기, 미야비\n잠깐 묻고 싶은 게 있는데……"
+  }, {
+    "$id" : 4,
+    "label" : "tq011005_msg0004",
+    "talker" : "B",
+    "talkattr" : 33104,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응……?"
+  }, {
+    "$id" : 5,
+    "label" : "tq011005_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미야비가 콘테스트에 나가는 게\n우승하고 싶어서만은…… 아니지?"
+  }, {
+    "$id" : 6,
+    "label" : "tq011005_msg0006",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응"
+  }, {
+    "$id" : 7,
+    "label" : "tq011005_msg0007",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티 사람들에게 신세 지고 있으니\n이번 기회에 어떻게 보답할 수는 없을까\n하고 생각했거든……"
+  }, {
+    "$id" : 8,
+    "label" : "tq011005_msg0008",
+    "talker" : "6",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미야비답네"
+  }, {
+    "$id" : 9,
+    "label" : "tq011005_msg0009",
+    "talker" : "2",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 역시 그런 점은\n여전해"
+  }, {
+    "$id" : 10,
+    "label" : "tq011005_msg0010",
+    "talker" : "tV",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모~!\n미야비 씨에게 어떤 사정이 있든\n마나나도 양보할 수 없는 게 있어요모!"
+  }, {
+    "$id" : 11,
+    "label" : "tq011005_msg0011",
+    "talker" : "tV",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 마나나도 마나나의\n실력을 백 퍼센트 발휘할 거예요모!"
+  }, {
+    "$id" : 12,
+    "label" : "tq011005_msg0012",
+    "talker" : "B",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응! 마나나\n당연히 그래야지!"
+  }, {
+    "$id" : 13,
+    "label" : "tq011005_msg0013",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 그럼\n들은 얘기를 정리해 보자"
+  }, {
+    "$id" : 14,
+    "label" : "tq011005_msg0014",
+    "talker" : "5",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보아하니 맛이 진하고\n양이 많은 요리가 인기 있는 것 같아"
+  }, {
+    "$id" : 15,
+    "label" : "tq011005_msg0015",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맛뿐만이 아니라\n요리의 겉모습도 평가받는 듯해\n강렬한 인상을 남기면 호응이 더 좋다고 해"
+  }, {
+    "$id" : 16,
+    "label" : "tq011005_msg0016",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "강렬한 인상이라……\n그건 그거대로 난이도가 높겠네"
+  }, {
+    "$id" : 17,
+    "label" : "tq011005_msg0017",
+    "talker" : "6",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 집에서 만들 수 있으면 좋겠다는\n사람도 있었으니 익숙한 요리도 괜찮지 않을까?"
+  }, {
+    "$id" : 18,
+    "label" : "tq011005_msg0018",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무엇보다 심사 위원이 누군지 모르니\n대중적인 맛으로 만드는 게 좋을지도 몰라"
+  }, {
+    "$id" : 19,
+    "label" : "tq011005_msg0019",
+    "talker" : "3",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇다면\n의외로 뭐든지 괜찮은 거 아니야?"
+  }, {
+    "$id" : 20,
+    "label" : "tq011005_msg0020",
+    "talker" : "B",
+    "talkattr" : 33096,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그럼\n그게 좋겠네……"
+  }, {
+    "$id" : 21,
+    "label" : "tq011005_msg0021",
+    "talker" : "tV",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모후후~ 그걸 만들면\n마나나의 우승은 틀림없어요모……"
+  }, {
+    "$id" : 22,
+    "label" : "tq011005_msg0022",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 마나나는 여유로워 보이네"
+  }, {
+    "$id" : 23,
+    "label" : "tq011005_msg0023",
+    "talker" : "tV",
+    "talkattr" : 33176,
+    "talkattr2" : 32897,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모후후…… 마나나는\n이미 궁극의 레시피를\n떠올렸어요모!"
+  }, {
+    "$id" : 24,
+    "label" : "tq011005_msg0024",
+    "talker" : "tV",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요리명은 아직 비밀이랍니다모!"
+  }, {
+    "$id" : 25,
+    "label" : "tq011005_msg0025",
+    "talker" : "B",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후훗, 그야 대결인걸"
+  }, {
+    "$id" : 26,
+    "label" : "tq011005_msg0026",
+    "talker" : "tV",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아요모!\n기대해 주세요모~!"
+  }, {
+    "$id" : 27,
+    "label" : "tq011005_msg0027",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "둘 다 정했으면\n다음은 식재료를 구할 차례인가?"
+  }, {
+    "$id" : 28,
+    "label" : "tq011005_msg0028",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나는 무슨 식재료가 필요해?"
+  }, {
+    "$id" : 29,
+    "label" : "tq011005_msg0029",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모! 마나나한테 필요한 건\n아리에스의 얼룩덜룩 등심과\n슈리브의 활활 매운맛살……"
+  }, {
+    "$id" : 30,
+    "label" : "tq011005_msg0030",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로글의 따끈따끈 진주란과\n마린의 복스러운 극대뱃살이에요모!"
+  }, {
+    "$id" : 31,
+    "label" : "tq011005_msg0032",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 뭔가\n위험하다는 건 알겠네"
+  }, {
+    "$id" : 32,
+    "label" : "tq011005_msg0033",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미야비는 뭐가 필요해?"
+  }, {
+    "$id" : 33,
+    "label" : "tq011005_msg0034",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는…… 꿀맛 쌀에\n새먼의 담백한 흰 살이랑\n기라성 무……"
+  }, {
+    "$id" : 34,
+    "label" : "tq011005_msg0035",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거기에 간짱 소스…… 정도인데\n이건 시티 사람에게 부탁해서\n얻어 써 볼까 싶어"
+  }, {
+    "$id" : 35,
+    "label" : "tq011005_msg0036",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왠지 모르게……\n평범한 식재료뿐인데……"
+  }, {
+    "$id" : 36,
+    "label" : "tq011005_msg0037",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게…… 되도록 익숙한 식재료로\n모두가 만들 수 있는\n요리를 해 볼까 하거든"
+  }, {
+    "$id" : 37,
+    "label" : "tq011005_msg0038",
+    "talker" : "6",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 그래! 좋은 생각이야!"
+  }, {
+    "$id" : 38,
+    "label" : "tq011005_msg0039",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 일단……"
+  }, {
+    "$id" : 39,
+    "label" : "tq011005_msg0040",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "누구의 식재료를 먼저 모으러 갈까?"
+  }, {
+    "$id" : 40,
+    "label" : "tq011005_msg0041",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "마나나"
+  }, {
+    "$id" : 41,
+    "label" : "tq011005_msg0141",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "미야비"
+  }, {
+    "$id" : 42,
+    "label" : "tq011005_msg0042",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나의 식재료부터 모으러 가자"
+  }, {
+    "$id" : 43,
+    "label" : "tq011005_msg0043",
+    "talker" : "tV",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모모~!\n다들 협조 부탁드려요모!"
+  }, {
+    "$id" : 44,
+    "label" : "tq011005_msg0142",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미야비의 식재료부터 모으러 가자"
+  }, {
+    "$id" : 45,
+    "label" : "tq011005_msg0143",
+    "talker" : "B",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워\n식재료 모으기, 힘내 보자……!"
+  } ]
+}

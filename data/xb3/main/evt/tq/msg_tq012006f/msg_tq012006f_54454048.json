@@ -1,0 +1,268 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012006_msg0001",
+    "talker" : "1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "헉…… 헉……"
+  }, {
+    "$id" : 2,
+    "label" : "tq012006_msg0002",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어머, 정말 다 쓰러뜨렸어?\n기운차네……"
+  }, {
+    "$id" : 3,
+    "label" : "tq012006_msg0003",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금처럼 아무것도 하지 않고\n콜로니로부터 거리를 둬 주신다면……"
+  }, {
+    "$id" : 4,
+    "label" : "tq012006_msg0004",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "구태여 책임을 묻지 않겠습니다"
+  }, {
+    "$id" : 5,
+    "label" : "tq012006_msg0005",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무것도 하지 않고……?"
+  }, {
+    "$id" : 6,
+    "label" : "tq012006_msg0006",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이렇게 어이가 없을 정도로\n착한 애일 줄이야……\n내가 일은 열심히 하는 편이라고 말 안 했니?"
+  }, {
+    "$id" : 7,
+    "label" : "tq012006_msg0007",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "애초에 전투도 없고\n남들이 노릴 만한 생명의 불도 없는 이곳에서\n왜 이렇게 성인이 된 아이가 적은지는 아니?"
+  }, {
+    "$id" : 8,
+    "label" : "tq012006_msg0008",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생명의 불시계의 잔량이 언제 다할지 모를\n상황이라곤 해도 공격받을 걱정조차 없어\n왜 그런지 알고는 있니?"
+  }, {
+    "$id" : 9,
+    "label" : "tq012006_msg0009",
+    "talker" : "L",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그건……"
+  }, {
+    "$id" : 10,
+    "label" : "tq012006_msg0010",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희는 멍청해서\n눈치 못 챘을 수도 있겠지만"
+  }, {
+    "$id" : 11,
+    "label" : "tq012006_msg0011",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 \"그렇게 되지 않도록\"\n솎아 냈기 때문이란다"
+  }, {
+    "$id" : 12,
+    "label" : "tq012006_msg0012",
+    "talker" : "L",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……?!"
+  }, {
+    "$id" : 13,
+    "label" : "tq012006_msg0013",
+    "talker" : "5",
+    "talkattr" : 33081,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너 이 자식, 얼마나 썩어빠진 거냐!"
+  }, {
+    "$id" : 14,
+    "label" : "tq012006_msg0014",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곧 성인이 될 아이들이 죽게끔\n관습을 들인 것도\n몬스터를 끌어들인 것도"
+  }, {
+    "$id" : 15,
+    "label" : "tq012006_msg0015",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니가 사라지지 않도록\n사람이 줄어든 뒤에 인원을 보충한 것도"
+  }, {
+    "$id" : 16,
+    "label" : "tq012006_msg0016",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희의 생명의 불이 다하지 않도록\n쓰러뜨릴 만한 몬스터를 풀어놓은 것도"
+  }, {
+    "$id" : 17,
+    "label" : "tq012006_msg0017",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 순간을 지켜보기 위해\n내가 필사적으로 생각해서 꾸민 짓이란다!"
+  }, {
+    "$id" : 18,
+    "label" : "tq012006_msg0018",
+    "talker" : "L",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……당신이란 사람은"
+  }, {
+    "$id" : 19,
+    "label" : "tq012006_msg0019",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "많은 노력과 시간이 걸렸지만\n너 같은 아이를 만나서 정말 다행이야"
+  }, {
+    "$id" : 20,
+    "label" : "tq012006_msg0020",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "화내는 표정도 어쩜 그리 예쁘니!\n나를 죽이고 싶어 한다면 훨씬 더 좋을 텐데"
+  }, {
+    "$id" : 21,
+    "label" : "tq012006_msg0021",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괴로워하는 표정으로 바꿔 줄게\n엉망진창으로 만들고 싶어 죽겠어……"
+  }, {
+    "$id" : 22,
+    "label" : "tq012006_msg0022",
+    "talker" : "1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 타우 사람들은\n하루하루를 필사적으로 살아가고 있다고!"
+  }, {
+    "$id" : 23,
+    "label" : "tq012006_msg0023",
+    "talker" : "1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "더는 네 만행을\n두고 보지 않겠어!"
+  }, {
+    "$id" : 24,
+    "label" : "tq012006_msg0024",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래! 바로 그거란다!\n용서하면 안 되지!"
+  }, {
+    "$id" : 25,
+    "label" : "tq012006_msg0025",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 조금만 더\n발악해 보려무나"
+  }, {
+    "$id" : 26,
+    "label" : "tq012006_msg0026",
+    "talker" : "uW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나를 죽이지 못하면……"
+  }, {
+    "$id" : 27,
+    "label" : "tq012006_msg0027",
+    "talker" : "vW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희 눈앞에서 콜로니 타우의 아이들을\n갈기갈기 찢어 버릴 테니까!"
+  } ]
+}

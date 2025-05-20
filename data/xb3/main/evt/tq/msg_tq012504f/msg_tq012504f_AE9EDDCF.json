@@ -1,0 +1,556 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012504_msg0001",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 도망가는데!"
+  }, {
+    "$id" : 2,
+    "label" : "tq012504_msg0002",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갑자기 쫓아오면 당연히 도망치지!\n무섭잖아!"
+  }, {
+    "$id" : 3,
+    "label" : "tq012504_msg0003",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네가 그 커다란 터킨이지!"
+  }, {
+    "$id" : 4,
+    "label" : "tq012504_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "딱 봐도……"
+  }, {
+    "$id" : 5,
+    "label" : "tq012504_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보통 터킨보다 훨씬 커……"
+  }, {
+    "$id" : 6,
+    "label" : "tq012504_msg0006",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대체 뭐야, 너희들……\n뭔데 남의 집에 멋대로 쳐들어와……"
+  }, {
+    "$id" : 7,
+    "label" : "tq012504_msg0007",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오리발 내밀어도 소용없어!\n우리 애들을 아주 제대로 밟아 놨더라?"
+  }, {
+    "$id" : 8,
+    "label" : "tq012504_msg0008",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "허어…… 트집 잡으려고 납셨나……"
+  }, {
+    "$id" : 9,
+    "label" : "tq012504_msg0009",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐가 어째?! 트집이라 했냐?!\n애초에 네가……"
+  }, {
+    "$id" : 10,
+    "label" : "tq012504_msg0010",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디 인간인지는 모르겠지만\n난 날 공격하길래 물리쳤을 뿐이거든!"
+  }, {
+    "$id" : 11,
+    "label" : "tq012504_msg0011",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기도 요즘 눈만 돌렸다 하면 싸움이야\n하여간 적당히들 했으면 좋겠어 좀!"
+  }, {
+    "$id" : 12,
+    "label" : "tq012504_msg0012",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "병사들을 도망치게 놔뒀다고 하던데……"
+  }, {
+    "$id" : 13,
+    "label" : "tq012504_msg0013",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흥, 인간은 툭하면 보기 드물다면서\n포획하려 들거나 공격하곤 하지"
+  }, {
+    "$id" : 14,
+    "label" : "tq012504_msg0014",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "공격당하면 되받아치기야 하지만\n전의가 없는 녀석까지 공격하진 않아"
+  }, {
+    "$id" : 15,
+    "label" : "tq012504_msg0015",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사람을 보고 공격할지를 정한다 이건가?"
+  }, {
+    "$id" : 16,
+    "label" : "tq012504_msg0016",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희도 어차피 마찬가지잖아?\n폭력은 폭력을 낳을 뿐이야\n그러니까 나도 맞은 만큼 갚는 거지"
+  }, {
+    "$id" : 17,
+    "label" : "tq012504_msg0017",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐라고? 이 자식이 배짱 한번 두둑하네!"
+  }, {
+    "$id" : 18,
+    "label" : "tq012504_msg0018",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 진정해, 곤도\n일단 이야기는 통하잖아"
+  }, {
+    "$id" : 19,
+    "label" : "tq012504_msg0019",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "칫……"
+  }, {
+    "$id" : 20,
+    "label" : "tq012504_msg0020",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서…… 넌 왜\n이런 곳에 있는 거야?"
+  }, {
+    "$id" : 21,
+    "label" : "tq012504_msg0021",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "별 이유는 없어\n다른 녀석들이랑 좀 틀어져서\n살기 좋은 곳을 찾아 다녔을 뿐이야"
+  }, {
+    "$id" : 22,
+    "label" : "tq012504_msg0022",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "살기 좋은 곳?"
+  }, {
+    "$id" : 23,
+    "label" : "tq012504_msg0023",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래"
+  }, {
+    "$id" : 24,
+    "label" : "tq012504_msg0024",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 혼자가 아니야\n너희랑 같아"
+  }, {
+    "$id" : 25,
+    "label" : "tq012504_msg0025",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혼자가 아니라고?\n너, 설마 다른 녀석들이랑\n작당해서 우릴 공격할 셈……"
+  }, {
+    "$id" : 26,
+    "label" : "tq012504_msg0026",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희랑은 달라\n나는 싸울 땐 혼자 싸워"
+  }, {
+    "$id" : 27,
+    "label" : "tq012504_msg0027",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼…… 혼자가 아니라는 말은……"
+  }, {
+    "$id" : 28,
+    "label" : "tq012504_msg0028",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "새끼 터킨……?"
+  }, {
+    "$id" : 29,
+    "label" : "tq012504_msg0029",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 아이들이야\n이 애들 때문에\n살기 좋은 곳을 찾고 있어"
+  }, {
+    "$id" : 30,
+    "label" : "tq012504_msg0030",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 31,
+    "label" : "tq012504_msg0031",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬구나……"
+  }, {
+    "$id" : 32,
+    "label" : "tq012504_msg0032",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 공격한다면\n나도 맞서 싸워야 해"
+  }, {
+    "$id" : 33,
+    "label" : "tq012504_msg0033",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "인간은 새한테 낯가림을 하거든\n말만 걸려 하면 도망치니 난감할 따름이야"
+  }, {
+    "$id" : 34,
+    "label" : "tq012504_msg0034",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자세한 건 잘 모르겠지만\n너도 고생이 많았구나"
+  }, {
+    "$id" : 35,
+    "label" : "tq012504_msg0035",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고생이지. 이웃 간 불화도 있고\n먹을 것도 부족해"
+  }, {
+    "$id" : 36,
+    "label" : "tq012504_msg0036",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조만간 또 이사할 예정이야\n인간이 없고 먹을 것도\n풍부한 곳으로 가야지"
+  }, {
+    "$id" : 37,
+    "label" : "tq012504_msg0037",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐야, 먹을 게 없어?"
+  }, {
+    "$id" : 38,
+    "label" : "tq012504_msg0038",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 난 미식가니까"
+  }, {
+    "$id" : 39,
+    "label" : "tq012504_msg0039",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네 입맛 때문이냐?!"
+  }, {
+    "$id" : 40,
+    "label" : "tq012504_msg0040",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……방금 건 농담이야\n내 아이들을 먹이기 위해\n식량이 더 풍부한 곳으로 이사하고 싶어"
+  }, {
+    "$id" : 41,
+    "label" : "tq012504_msg0041",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 전에도\n먹을 걸 찾으러 가는 길이었어"
+  }, {
+    "$id" : 42,
+    "label" : "tq012504_msg0042",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혹시 우릴 만나는 바람에……"
+  }, {
+    "$id" : 43,
+    "label" : "tq012504_msg0043",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 그대로 쫓겼지\n인간은 터킨을 보기만 하면\n쫓는 습성이라도 있나? 못 살겠어, 아주"
+  }, {
+    "$id" : 44,
+    "label" : "tq012504_msg0044",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "먹을 것만 있으면\n거기로 이사하겠다 그거지?"
+  }, {
+    "$id" : 45,
+    "label" : "tq012504_msg0045",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당장 먹을 식량만 있으면\n여기도 바로 뜰 수 있어"
+  }, {
+    "$id" : 46,
+    "label" : "tq012504_msg0046",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 이 주변엔 몬스터도 인간도 많으니\n이사하려면 시간이 꽤 걸리겠지"
+  }, {
+    "$id" : 47,
+    "label" : "tq012504_msg0047",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 48,
+    "label" : "tq012504_msg0048",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하는 수 없지\n내가 먹을 걸 가져다줄게"
+  }, {
+    "$id" : 49,
+    "label" : "tq012504_msg0049",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 주변에서 나는…… 촉촉한 토마토랑\n찌릿 버섯이 있으면 충분하겠지"
+  }, {
+    "$id" : 50,
+    "label" : "tq012504_msg0050",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곤도?"
+  }, {
+    "$id" : 51,
+    "label" : "tq012504_msg0051",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그때까지 거기 있는 네 자식들이랑\n이사할 준비나 끝내고 있어"
+  }, {
+    "$id" : 52,
+    "label" : "tq012504_msg0052",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말이 통하는 인간이 다 있네\n조금 다시 봤어"
+  }, {
+    "$id" : 53,
+    "label" : "tq012504_msg0053",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가는 김에 태엽 나무 10개도 가져다주라"
+  }, {
+    "$id" : 54,
+    "label" : "tq012504_msg0054",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔데 상전 노릇이야?\n따지고 보면 네가 자초한 일이잖아"
+  }, {
+    "$id" : 55,
+    "label" : "tq012504_msg0055",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말로 가려고?"
+  }, {
+    "$id" : 56,
+    "label" : "tq012504_msg0056",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 녀석도 뭔가 생각이 있어서 이러겠지\n나도 거들게"
+  }, {
+    "$id" : 57,
+    "label" : "tq012504_msg0057",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나쁘지 않은 판단이야, 덩치\n그런 점이 싫진 않아"
+  }, {
+    "$id" : 58,
+    "label" : "tq012504_msg0058",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하! 웃기시네"
+  }, {
+    "$id" : 59,
+    "label" : "tq012504_msg0059",
+    "talker" : "ac1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안해, 인간\n신세 좀 질게"
+  } ]
+}

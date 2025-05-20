@@ -1,0 +1,457 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq010907_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "녀, 녀석들…… 빨리도 회복하네!"
+  }, {
+    "$id" : 2,
+    "label" : "tq010907_msg0002a",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이게 바로"
+  }, {
+    "$id" : 3,
+    "label" : "tq010907_msg0002b",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "온천의 효능이란 말인가"
+  }, {
+    "$id" : 4,
+    "label" : "tq010907_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "무슨 상관이야\n이제 온천에 들어갈 수 있는 거지?"
+  }, {
+    "$id" : 5,
+    "label" : "tq010907_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "어, 그치만……"
+  }, {
+    "$id" : 6,
+    "label" : "tq010907_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "좋아, 이스루기"
+  }, {
+    "$id" : 7,
+    "label" : "tq010907_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "약속한 대로 확 담가 줄게!"
+  }, {
+    "$id" : 8,
+    "label" : "tq010907_msg0007a",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "자, 잠깐!"
+  }, {
+    "$id" : 9,
+    "label" : "tq010907_msg0007b",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "난 그런 약속을 한 기억이……!"
+  }, {
+    "$id" : 10,
+    "label" : "tq010907_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "앗…… 너희들! 대체 무슨 짓을……!"
+  }, {
+    "$id" : 11,
+    "label" : "tq010907_msg0009",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "군무장님, 괜찮으십니까?!"
+  }, {
+    "$id" : 12,
+    "label" : "tq010907_msg0010",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……푸핫"
+  }, {
+    "$id" : 13,
+    "label" : "tq010907_msg0011a",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "너무 놀라서 심장이 멈출 뻔했지만"
+  }, {
+    "$id" : 14,
+    "label" : "tq010907_msg0011b",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "괜찮아"
+  }, {
+    "$id" : 15,
+    "label" : "tq010907_msg0012",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그 할아버지도 그랬잖아?\n아무도 없을 땐 뛰어드는 게 매너라고"
+  }, {
+    "$id" : 16,
+    "label" : "tq010907_msg0013",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래도 그렇지……"
+  }, {
+    "$id" : 17,
+    "label" : "tq010907_msg0014",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그나저나 이 물은 정말……"
+  }, {
+    "$id" : 18,
+    "label" : "tq010907_msg0015",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "어떤 느낌이야?"
+  }, {
+    "$id" : 19,
+    "label" : "tq010907_msg0016",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "따뜻해서 기분이 좋은걸"
+  }, {
+    "$id" : 20,
+    "label" : "tq010907_msg0017",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그니까 그냥 목욕이잖아!"
+  }, {
+    "$id" : 21,
+    "label" : "tq010907_msg0018a",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이걸 봐!"
+  }, {
+    "$id" : 22,
+    "label" : "tq010907_msg0018b",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "상처가 순식간에 아물어 가"
+  }, {
+    "$id" : 23,
+    "label" : "tq010907_msg0019",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "와…… 그 사람이\n틀린 말을 한 건 아니었나 봐"
+  }, {
+    "$id" : 24,
+    "label" : "tq010907_msg0020a",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……그래"
+  }, {
+    "$id" : 25,
+    "label" : "tq010907_msg0020b",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "한번 들어오면\n나가기 힘들 것 같군"
+  }, {
+    "$id" : 26,
+    "label" : "tq010907_msg0021",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그럼 나도……"
+  }, {
+    "$id" : 27,
+    "label" : "tq010907_msg0022",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "야, 왜 그래? 너희도 들어와"
+  }, {
+    "$id" : 28,
+    "label" : "tq010907_msg0023",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "어?"
+  }, {
+    "$id" : 29,
+    "label" : "tq010907_msg0024",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이건 몸 구석구석까지\n회복되는 느낌이군……"
+  }, {
+    "$id" : 30,
+    "label" : "tq010907_msg0025a",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "너희도 들어오는 게 어때?"
+  }, {
+    "$id" : 31,
+    "label" : "tq010907_msg0025b",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나쁘지 않아"
+  }, {
+    "$id" : 32,
+    "label" : "tq010907_msg0026",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그, 그건 좀……"
+  }, {
+    "$id" : 33,
+    "label" : "tq010907_msg0027a",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "하아~ 되살아나는 기분이야……"
+  }, {
+    "$id" : 34,
+    "label" : "tq010907_msg0027b",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭐, 난 안 죽었지만"
+  }, {
+    "$id" : 35,
+    "label" : "tq010907_msg0028a",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "저기……"
+  }, {
+    "$id" : 36,
+    "label" : "tq010907_msg0028b",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "옷…… 벗어야 하지?"
+  }, {
+    "$id" : 37,
+    "label" : "tq010907_msg0029a",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "으, 응……"
+  }, {
+    "$id" : 38,
+    "label" : "tq010907_msg0029b",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그 사람은 그게 올바른\n입욕법이라고 했었는데……"
+  }, {
+    "$id" : 39,
+    "label" : "tq010907_msg0030a",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그치만, 그……"
+  }, {
+    "$id" : 40,
+    "label" : "tq010907_msg0030b",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "여, 여기에서?"
+  }, {
+    "$id" : 41,
+    "label" : "tq010907_msg0031",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭐 해, 군소리하지 말고 빨리 들어와\n식어 버리면 어쩌려고 그래?"
+  }, {
+    "$id" : 42,
+    "label" : "tq010907_msg0032",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "싸움으로 다친 몸을 치유하는 데\n아주 좋아"
+  }, {
+    "$id" : 43,
+    "label" : "tq010907_msg0033",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아, 네…… 하지만 군무장님……"
+  }, {
+    "$id" : 44,
+    "label" : "tq010907_msg0034a",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "손이 많이 가는 남자군"
+  }, {
+    "$id" : 45,
+    "label" : "tq010907_msg0034b",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "유니, 그를 차서 떨어뜨려 줘"
+  }, {
+    "$id" : 46,
+    "label" : "tq010907_msg0035",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "좋았어!"
+  }, {
+    "$id" : 47,
+    "label" : "tq010907_msg0036",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "잠깐만 기다려, 유니……"
+  }, {
+    "$id" : 48,
+    "label" : "tq010907_msg0037",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나는 아직 들어간다고 말하지 않았……!"
+  } ]
+}

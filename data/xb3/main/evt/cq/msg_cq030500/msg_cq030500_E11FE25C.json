@@ -1,0 +1,484 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "cq030500_0010",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그만! 전투 중지!"
+  }, {
+    "$id" : 2,
+    "label" : "cq030500_0020",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "다, 당신 볼레아리스 맞지?\n에셀이 소속된 콜로니 4의……"
+  }, {
+    "$id" : 3,
+    "label" : "cq030500_0030",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래, 맞아"
+  }, {
+    "$id" : 4,
+    "label" : "cq030500_0040",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그럼 당신들은…… 아닌 건가?"
+  }, {
+    "$id" : 5,
+    "label" : "cq030500_0050",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아니라니?"
+  }, {
+    "$id" : 6,
+    "label" : "cq030500_0060",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아니지?"
+  }, {
+    "$id" : 7,
+    "label" : "cq030500_0061",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그 괴물이랑 한패가 아닌 거지?"
+  }, {
+    "$id" : 8,
+    "label" : "cq030500_0070",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "괴물?"
+  }, {
+    "$id" : 9,
+    "label" : "cq030500_0080",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "다행이다……"
+  }, {
+    "$id" : 10,
+    "label" : "cq030500_0090",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……?"
+  }, {
+    "$id" : 11,
+    "label" : "cq030500_0100",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……그 일은 갑자기 벌어졌어"
+  }, {
+    "$id" : 12,
+    "label" : "cq030500_0110",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "군무장님께서 골드 랭크를 하사받으신\n다음날 밤에 녀석이 들이닥쳤지"
+  }, {
+    "$id" : 13,
+    "label" : "cq030500_0120",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아그누스의 병기나,\n이 지역에 사는 생물이 아니라는 건 단번에 알았어"
+  }, {
+    "$id" : 14,
+    "label" : "cq030500_0130",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "웃고 있었거든……"
+  }, {
+    "$id" : 15,
+    "label" : "cq030500_0131",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그 녀석은, 우리를 죽일 때마다!"
+  }, {
+    "$id" : 16,
+    "label" : "cq030500_9010",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]으하하하하하핫!"
+  }, {
+    "$id" : 17,
+    "label" : "cq030500_9013",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]으하하하하하핫!"
+  }, {
+    "$id" : 18,
+    "label" : "cq030500_9016",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]으하하하하하핫!\n으하하하하하핫!"
+  }, {
+    "$id" : 19,
+    "label" : "cq030500_0140",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……뫼비우스야"
+  }, {
+    "$id" : 20,
+    "label" : "cq030500_0145",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "틀림없어"
+  }, {
+    "$id" : 21,
+    "label" : "cq030500_0150",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "하지만 왜 콜로니 5를 습격했지?"
+  }, {
+    "$id" : 22,
+    "label" : "cq030500_0160",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그걸 확인하러 온 거잖아"
+  }, {
+    "$id" : 23,
+    "label" : "cq030500_0165",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이유가 있을 테니까"
+  }, {
+    "$id" : 24,
+    "label" : "cq030500_0170",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "콜로니는?"
+  }, {
+    "$id" : 25,
+    "label" : "cq030500_0175",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우르술라는 어떻게 됐지?"
+  }, {
+    "$id" : 26,
+    "label" : "cq030500_0180",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "모르겠어\n우리도 도망치는 데 정신이 팔려서……"
+  }, {
+    "$id" : 27,
+    "label" : "cq030500_0190",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "숨을 장소를 찾고 있었는데……"
+  }, {
+    "$id" : 28,
+    "label" : "cq030500_0195",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그러는 와중에 당신들이 온 거고……"
+  }, {
+    "$id" : 29,
+    "label" : "cq030500_0200",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그렇군……"
+  }, {
+    "$id" : 30,
+    "label" : "cq030500_0210",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이제 바로 코앞이네"
+  }, {
+    "$id" : 31,
+    "label" : "cq030500_0215",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "갈 거야?"
+  }, {
+    "$id" : 32,
+    "label" : "cq030500_0220",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "당연하지"
+  }, {
+    "$id" : 33,
+    "label" : "cq030500_0230",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "만약 아직도 뫼비우스가 남아 있다면\n날려 버리겠어"
+  }, {
+    "$id" : 34,
+    "label" : "cq030500_0240",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래"
+  }, {
+    "$id" : 35,
+    "label" : "cq030500_0250",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "내가 보기에 이 사람들은\n뫼비우스에게 조종당하는 건 아니야"
+  }, {
+    "$id" : 36,
+    "label" : "cq030500_0260",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우리가 지켜야 할 사람들이지"
+  }, {
+    "$id" : 37,
+    "label" : "cq030500_0270",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나도 그렇게 생각해"
+  }, {
+    "$id" : 38,
+    "label" : "cq030500_0280",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "당신들은 대체……"
+  }, {
+    "$id" : 39,
+    "label" : "cq030500_0285",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아그누스 병사들도 함께 있고……"
+  }, {
+    "$id" : 40,
+    "label" : "cq030500_0290",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "사태가 수습되고 나면 천천히 들려줄게"
+  }, {
+    "$id" : 41,
+    "label" : "cq030500_0295",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "놀라 자빠질걸?"
+  }, {
+    "$id" : 42,
+    "label" : "cq030500_0300",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "좋아\n그럼 가 보실까"
+  }, {
+    "$id" : 43,
+    "label" : "cq030500_0310",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그 전에 이 사람들을 안전한 장소까지 호위하자"
+  }, {
+    "$id" : 44,
+    "label" : "cq030500_0315",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "부상자도 있는 모양이고"
+  }, {
+    "$id" : 45,
+    "label" : "cq030500_0320",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아, 그렇지"
+  }, {
+    "$id" : 46,
+    "label" : "cq030500_0330",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "확실히 싸우는 건 무리겠어"
+  }, {
+    "$id" : 47,
+    "label" : "cq030500_0340",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "동굴 입구는 어때?"
+  }, {
+    "$id" : 48,
+    "label" : "cq030500_0345",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그쪽이라면 위험하지 않을 거야"
+  }, {
+    "$id" : 49,
+    "label" : "cq030500_0350",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "동굴 입구라……"
+  }, {
+    "$id" : 50,
+    "label" : "cq030500_0355",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래, 거기로 가자"
+  }, {
+    "$id" : 51,
+    "label" : "cq030500_0360",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "당신들…… 고마워"
+  } ]
+}

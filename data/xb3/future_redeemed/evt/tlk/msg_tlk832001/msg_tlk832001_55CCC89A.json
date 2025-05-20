@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk832001_msg0001",
+    "talker" : "zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이곳에서는 리버레이터뿐 아니라\n시티 사람들도 함께 생활하고 있어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk832001_msg0002",
+    "talker" : "zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서로 역할을 나눠서\n집도 짓고 밥도 짓고……\n덕분에 많은 도움을 받고 있지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk832001_msg0003",
+    "talker" : "zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 전투에 관해서만큼은\n어디까지나 리버레이터의 관할로\n보고 있지만 말이야"
+  }, {
+    "$id" : 4,
+    "label" : "tlk832001_msg0004",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜?\n시티 측도 병사는 있을 텐데?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk832001_msg0005",
+    "talker" : "zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다고 듣긴 했는데\n피난해 온 사람 대부분은\n민간인이란 말이지……"
+  }, {
+    "$id" : 6,
+    "label" : "tlk832001_msg0006",
+    "talker" : "zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그래도 지원병은 환영이야\n물론 그에 맞는 훈련은 받게 되겠지만"
+  } ]
+}

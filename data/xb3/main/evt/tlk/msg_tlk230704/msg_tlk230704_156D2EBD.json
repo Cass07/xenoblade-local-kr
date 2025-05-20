@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230704_msg0001",
+    "talker" : "ab1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "골드 랭크가 된 콜로니는\n제거당한다는 게…… 사실인가요……?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230704_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응\n유감스럽지만……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230704_msg0003",
+    "talker" : "ab1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!\n그럼 실버였던 우리도\n자칫 잘못했으면……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk230704_msg0004",
+    "talker" : "ab1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……등골에 소름이 돋네요……"
+  } ]
+}

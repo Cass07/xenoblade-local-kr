@@ -1,0 +1,178 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq000901_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다 모았어"
+  }, {
+    "$id" : 2,
+    "label" : "sq000901_msg0002",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 확인해 보겠다"
+  }, {
+    "$id" : 3,
+    "label" : "sq000901_msg0003",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 이어서 모아 올 품목은……"
+  }, {
+    "$id" : 4,
+    "label" : "sq000901_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니!\n이렇게 모아 왔는데\n또 있다고?"
+  }, {
+    "$id" : 5,
+    "label" : "sq000901_msg0005",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "불만이 있다면\n네 녀석은 처분이다!"
+  }, {
+    "$id" : 6,
+    "label" : "sq000901_msg0006",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 네 녀석들을\n살려 주고 있는 거다\n죽고 싶지 않으면 일해!"
+  }, {
+    "$id" : 7,
+    "label" : "sq000901_msg0007",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐가 어째?"
+  }, {
+    "$id" : 8,
+    "label" : "sq000901_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"지금은\" 얌전히…… 알지?"
+  }, {
+    "$id" : 9,
+    "label" : "sq000901_msg0009",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 이만하면 됐겠지\n오늘 작업을 종료한다"
+  }, {
+    "$id" : 10,
+    "label" : "sq000901_msg0010",
+    "talker" : "Yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어서 각자 방으로 돌아가!"
+  }, {
+    "$id" : 11,
+    "label" : "sq000901_msg0011",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으아~\n온몸에서 흙냄새가 나~"
+  }, {
+    "$id" : 12,
+    "label" : "sq000901_msg0012",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이틀만 더 참으면 돼"
+  }, {
+    "$id" : 13,
+    "label" : "sq000901_msg0013",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기 있는 사람들은\n매일 이렇게 일을 해야 한다니……"
+  }, {
+    "$id" : 14,
+    "label" : "sq000901_msg0014",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "막 부려 먹어도 상관없는\n노동력으로만 여기니까\n이럴 수 있는 거겠지"
+  }, {
+    "$id" : 15,
+    "label" : "sq000901_msg0015",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 16,
+    "label" : "sq000901_msg0016",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내일에 대비해서\n오늘은 그만 쉬자"
+  }, {
+    "$id" : 17,
+    "label" : "sq000901_msg0017",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러자"
+  } ]
+}

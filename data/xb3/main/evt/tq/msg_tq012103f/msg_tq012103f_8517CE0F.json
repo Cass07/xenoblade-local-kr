@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012103_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상황이 좋지 않아……\n이미 전투가 시작됐어"
+  }, {
+    "$id" : 2,
+    "label" : "tq012103_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 저기 봐!\n적은 콜로니가 아냐\n케베스와 아그누스의 혼성군이야!"
+  }, {
+    "$id" : 3,
+    "label" : "tq012103_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알의 사병이겠지\n수단과 방법을 가리지 않고 모았나 본데"
+  }, {
+    "$id" : 4,
+    "label" : "tq012103_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저러면 적과 아군을 구별할 수 없어……\n어떡하지?"
+  }, {
+    "$id" : 5,
+    "label" : "tq012103_msg0005",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나한테 좋은 생각이 있어\n그냥 한꺼번에 전부 죽이……"
+  }, {
+    "$id" : 6,
+    "label" : "tq012103_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 당연히 안 되지, 인마!"
+  }, {
+    "$id" : 7,
+    "label" : "tq012103_msg0007",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 농담이고\n우선 콜로니 11의 본대와 합류하자"
+  }, {
+    "$id" : 8,
+    "label" : "tq012103_msg0008",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "촌의 작전대로 적을 협공하면서\n다리가 있는 곳까지 진군한다. 알았지?"
+  }, {
+    "$id" : 9,
+    "label" : "tq012103_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 그래…… 그러자"
+  }, {
+    "$id" : 10,
+    "label" : "tq012103_msg0010",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "의외로 제대로 된 제안이 나왔네……"
+  }, {
+    "$id" : 11,
+    "label" : "tq012103_msg0011",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 한마디로\n저 아수라장을 뚫고 가자는 소리지"
+  }, {
+    "$id" : 12,
+    "label" : "tq012103_msg0012",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 줄 알았어……"
+  } ]
+}

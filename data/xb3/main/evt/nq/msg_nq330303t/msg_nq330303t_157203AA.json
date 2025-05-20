@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330303_msg0001",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "웰컴이에요모\n웰웰 숍에서 편하게 보고 가세요모"
+  }, {
+    "$id" : 2,
+    "label" : "nq330303_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명 여기에서\n책을 취급했던 것 같은데……"
+  }, {
+    "$id" : 3,
+    "label" : "nq330303_msg0003",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "공부하고 싶은 거 있어요모?\n호기심이 많다는 건 멋진 일이죠모"
+  }, {
+    "$id" : 4,
+    "label" : "nq330303_msg0004",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지식의 숲은 깊고 넓죠모……\n웰웰의 안내가 필요하신가요모?"
+  }, {
+    "$id" : 5,
+    "label" : "nq330303_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도와주면 고맙지\n아르마 기르는 법을 알고 싶은데……"
+  }, {
+    "$id" : 6,
+    "label" : "nq330303_msg0006",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거라면 추천하는 입문서가 있어요모\n상하권 구성이라 읽어 볼 만해요모"
+  }, {
+    "$id" : 7,
+    "label" : "nq330303_msg0007",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오오, 진짜 교본 같은 게 있구나!"
+  }, {
+    "$id" : 8,
+    "label" : "nq330303_msg0008",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "웰웰 숍은 동서고금의\n보물과 만날 수 있는 장소예요모\n이 정도는 당연해요모"
+  }, {
+    "$id" : 9,
+    "label" : "nq330303_msg0101",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정하지 마세요모\n그 책이라면 아직 안 팔렸어요모"
+  }, {
+    "$id" : 10,
+    "label" : "nq330303_msg0201",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "관심이 있으시면\n대가를 받고 양도해 드릴게요모"
+  }, {
+    "$id" : 11,
+    "label" : "nq330303_msg0301",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "또 방문해 주세요모~"
+  }, {
+    "$id" : 12,
+    "label" : "nq330303_msg0401",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "웰웰웰……\n아무것도 안 사요모?!"
+  } ]
+}

@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011210_msg0001",
+    "talker" : "yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 어쩔 수 없네\n이렇게 되면 차선책을 써야지"
+  }, {
+    "$id" : 2,
+    "label" : "tq011210_msg0002",
+    "talker" : "yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아! 별일 아냐!\n너희는 신경 쓸 것 없어"
+  }, {
+    "$id" : 3,
+    "label" : "tq011210_msg0101",
+    "talker" : "yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스가 될 수 없다면\n머리를 써서 시티에 공헌해야지"
+  }, {
+    "$id" : 4,
+    "label" : "tq011210_msg0102",
+    "talker" : "yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "원래 머리 쓰는 일을 더 잘하기도 하니\n나도 가만히 있기만 하지는 않을 거야"
+  } ]
+}

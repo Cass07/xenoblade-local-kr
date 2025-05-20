@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<6AD57593>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들, 들어 봐"
+  }, {
+    "$id" : 2,
+    "label" : "<8007FE2B>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여긴 이미 콜로니 람다의 세력권이야……\n아그누스군과 마주칠 확률이 훨씬 높아지겠지"
+  }, {
+    "$id" : 3,
+    "label" : "<32F98443>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니 탐지 범위의 중심으로 접근하기 전에\n일단 한번 휴식하는 게 어떨까?"
+  }, {
+    "$id" : 4,
+    "label" : "<6DF5BB05>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 같은 의견이야"
+  }, {
+    "$id" : 5,
+    "label" : "<CF4D8C55>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇네……\n타이온의 말대로 하는 게 좋겠어"
+  } ]
+}

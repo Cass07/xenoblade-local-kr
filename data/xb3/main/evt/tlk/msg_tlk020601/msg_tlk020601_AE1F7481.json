@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk020601_msg0001",
+    "talker" : "sV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그대들을 돕고 있지 않을 때는\n병사들의 훈련을 돕기로 했다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk020601_msg0002",
+    "talker" : "sV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에셀은 임무를 수행하고 싶어 했지만\n우리는 모르는 게 너무나도 많아……\n시티에 대한 것은 물론 그들의 전법도 모르지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk020601_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알고 싶은 것을……\n지금 하고 싶은 일을 찾았구나"
+  }, {
+    "$id" : 4,
+    "label" : "tlk020601_msg0004",
+    "talker" : "sV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 우리의 기술을 전해 주는 대가로\n정보와 지식을 얻는 거다……\n당분간은 그렇게 지내보기로 했지"
+  }, {
+    "$id" : 5,
+    "label" : "tlk020601_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮은 생각인데? 그래도\n혹시 불편한 점 있으면 언제든 말해\n우리도 도와줄 만한 게 있을 테니까"
+  } ]
+}

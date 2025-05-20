@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq240700_msg0001",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무리 봐도 이건\n그 오귀스트라는 녀석이 범인이야"
+  }, {
+    "$id" : 2,
+    "label" : "nq240700_msg0002",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 32897,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 본인은 시치미를 뗐지만\n수상한 에테르 실린더의 존재도 그렇고……"
+  }, {
+    "$id" : 3,
+    "label" : "nq240700_msg0003",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 요새에서 새로 얻은 정보까지\n고려하면 아마 틀림없을 거야"
+  }, {
+    "$id" : 4,
+    "label" : "nq240700_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정보라고 하니\n밤중에 요새 지하로 가는 길에서\n감찰관을 봤다는 녀석이 있었지?"
+  }, {
+    "$id" : 5,
+    "label" : "nq240700_msg0005",
+    "talker" : "5",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐, 그게 사실이면\n점점 더 수상한데?"
+  }, {
+    "$id" : 6,
+    "label" : "nq240700_msg0006",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지하라고 해 봤자\n거기엔 창고밖에 없었을 텐데……"
+  }, {
+    "$id" : 7,
+    "label" : "nq240700_msg0007",
+    "talker" : "4",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 무시하기엔 꺼림칙해"
+  }, {
+    "$id" : 8,
+    "label" : "nq240700_msg0008",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아…… 다른 단서도 없고\n일단 지하 창고를 확인하러 가 보자"
+  } ]
+}

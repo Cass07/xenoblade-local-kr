@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120403_msg0001",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세나 선배와 유니 선배의 교육을\n받아 보니까 확실히 알겠어요……\n저희는 역시 아직 멀었네요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120403_msg0002",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그런데 후츠랑 나구모는\n쓸데없이 자신감만 넘쳐서\n툭하면 으스대고……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120403_msg0003",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 마음가짐으로 전장에 뛰어들었다가\n순식간에 죽어 버리기라도 하면\n평생 시달릴 것 같아요……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120403_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힘내, 이소라\n저 둘을 말릴 수 있는 건 오직 너뿐이야!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk120403_msg0005",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그러지 말고 좀 도와주세요~\n유니 선배~~"
+  } ]
+}

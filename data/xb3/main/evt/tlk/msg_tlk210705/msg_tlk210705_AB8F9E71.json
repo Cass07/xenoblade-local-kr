@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210705_msg0001",
+    "talker" : "xZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……들었어\n케베스뿐 아니라 아그누스 여왕까지\n가짜였다면서?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210705_msg0002",
+    "talker" : "xZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "새삼스럽지만 생각하게 되더라고……\n우린 대체 뭘 위해 싸웠던 건지 말이야"
+  }, {
+    "$id" : 3,
+    "label" : "tlk210705_msg0003",
+    "talker" : "xZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……미안, 이 이야기는 그만하자\n이제 와서 무슨 소용이겠어"
+  }, {
+    "$id" : 4,
+    "label" : "tlk210705_msg0004",
+    "talker" : "xZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 이미 콜로니 4와 너희를 위해\n싸우기로 마음먹었으니까"
+  } ]
+}

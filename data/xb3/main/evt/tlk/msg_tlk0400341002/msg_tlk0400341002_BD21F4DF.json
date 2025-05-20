@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk0400341002_msg0001",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바빠 보이네"
+  }, {
+    "$id" : 2,
+    "label" : "tlk0400341002_msg0002",
+    "talker" : "lW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로스트 넘버즈를 돕고 있거든\n몸을 안 쓰면 둔해지니까"
+  }, {
+    "$id" : 3,
+    "label" : "tlk0400341002_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그들과 함께\n전장에 나갈 생각이야……?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk0400341002_msg0004",
+    "talker" : "lW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에이 설마!\n훈련도 부족한데 내가 어떻게 나가겠어\n심부름하러 다니기도 벅차다고"
+  }, {
+    "$id" : 5,
+    "label" : "tlk0400341002_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래\n너무 무리하지는 마"
+  } ]
+}

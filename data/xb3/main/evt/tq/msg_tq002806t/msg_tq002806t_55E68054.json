@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<CA0C0AF8>",
+    "talker" : "qp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이래 봬도\n저는 액세서리 제작 의뢰를\n제법 많이 받고 있어서요……"
+  }, {
+    "$id" : 2,
+    "label" : "<5AD88209>",
+    "talker" : "qp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 시티에서 일을 하고 있지만\n용건이 있으시면 언제든 불러 주세요"
+  }, {
+    "$id" : 3,
+    "label" : "<33DB623F>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바쁘겠네…… 정말 괜찮아?"
+  }, {
+    "$id" : 4,
+    "label" : "<44D95A15>",
+    "talker" : "qp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 걱정하실 필요 없답니다"
+  }, {
+    "$id" : 5,
+    "label" : "<DEA24953>",
+    "talker" : "qp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전속 계약을 맺은 이상 여러분을 돕는 일은\n그 어떤 일보다도 우선해야 하니까요\n후후후……"
+  } ]
+}

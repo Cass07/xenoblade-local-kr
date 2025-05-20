@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<D759B87A>",
+    "talker" : "mp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "티안의 가문인 로디스 가문은\n반담 가문, 도일 가문과는\n일정한 거리를 두고 있는 중도파야"
+  }, {
+    "$id" : 2,
+    "label" : "<3ACC94FC>",
+    "talker" : "mp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 티안 본인은\n반담 가문과 가까운 성향이라\n뫼비우스와 싸우는 데 적극적이었지"
+  }, {
+    "$id" : 3,
+    "label" : "<ABE6B4AB>",
+    "talker" : "mp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연히 티안의 부모님께선\n그 녀석이 병사가 되는 걸 반대하셨고\n한때는 연을 끊기 직전까지 갔었는데……"
+  }, {
+    "$id" : 4,
+    "label" : "<FAB12020>",
+    "talker" : "mp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그때 중재하러 끼어든 사람이\n제이크였다는 이야기야"
+  }, {
+    "$id" : 5,
+    "label" : "<301C42BD>",
+    "talker" : "mp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제이크는 자기도 병사가 돼서\n티안을 지키는 걸 조건으로\n로스트 넘버즈 입대를 허가받았거든"
+  }, {
+    "$id" : 6,
+    "label" : "<9B140902>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말로 티안이 소중하면\n오히려 제이크도 반대해야 맞는 거 아냐?"
+  }, {
+    "$id" : 7,
+    "label" : "<CA8EC898>",
+    "talker" : "mp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 보통이긴 해\n하지만 그렇게 해 버리면\n티안한테는 자기 편이 안 남잖아"
+  }, {
+    "$id" : 8,
+    "label" : "<F0339B54>",
+    "talker" : "mp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진부한 표현이지만……\n설령 세상 전부를 적으로 돌리더라도\n제이크는 티안 편에 있을 생각인 거야"
+  }, {
+    "$id" : 9,
+    "label" : "<C6ED7AA5>",
+    "talker" : "mp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하여간 열정적인 녀석들이라니까"
+  } ]
+}

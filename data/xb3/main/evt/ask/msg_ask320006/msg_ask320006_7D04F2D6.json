@@ -1,0 +1,160 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<0D5A058A>",
+    "talker" : "5",
+    "talkattr" : 33096,
+    "talkattr2" : 32897,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갑자기 궁금한데 말이야"
+  }, {
+    "$id" : 2,
+    "label" : "<8730F36C>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타우의 감자랑 콜로니 9의 감자\n어느 쪽이 더 맛있는 것 같아?"
+  }, {
+    "$id" : 3,
+    "label" : "<A3198B09>",
+    "talker" : "tV",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "궁극의 질문이에요모!"
+  }, {
+    "$id" : 4,
+    "label" : "<519DAD03>",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사소한 의문이겠지……"
+  }, {
+    "$id" : 5,
+    "label" : "<726DA8E3>",
+    "talker" : "5",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 타우 쪽이 더 맛있는 것 같아\n단맛도 있고 식감도 살아 있어"
+  }, {
+    "$id" : 6,
+    "label" : "<2488ACA7>",
+    "talker" : "2",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 잘 모르겠네……"
+  }, {
+    "$id" : 7,
+    "label" : "<4F3A2501>",
+    "talker" : "6",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 콜로니 9 쪽이려나……?\n익혀도 흐물흐물해지지 않고\n속이 꽉 찬 느낌이야"
+  }, {
+    "$id" : 8,
+    "label" : "<4130D0CA>",
+    "talker" : "4",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 타우 쪽인 것 같아……\n깊이 생각해 본 적은 없지만"
+  }, {
+    "$id" : 9,
+    "label" : "<789B3E4A>",
+    "talker" : "1",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우열을 가리기 어렵네……"
+  }, {
+    "$id" : 10,
+    "label" : "<62040FD2>",
+    "talker" : "2",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 타우 쪽인가……?\n제대로 비교해 본 적은 없지만\n담백한 맛이라 맛있었던 거 같아"
+  }, {
+    "$id" : 11,
+    "label" : "<44EEB00B>",
+    "talker" : "XW1",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠는 콜로니 9 쪽이야모\n제온[KR:Perticle char=ga ] 열심히 하는 걸\n봐 버렸으니 동정표라도 줘야지모"
+  }, {
+    "$id" : 12,
+    "label" : "<D0D25ADD>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 그런 거라면\n나도 제온한테 동정표 하나 던질까!"
+  }, {
+    "$id" : 13,
+    "label" : "<5F294E83>",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이쯤 되면 맛은 상관도 없잖아……"
+  }, {
+    "$id" : 14,
+    "label" : "<BD765D6D>",
+    "talker" : "tV",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기다려 주세요모. 마나나는\n3일쯤 더 생각해 볼게요모"
+  }, {
+    "$id" : 15,
+    "label" : "<215184AA>",
+    "talker" : "5",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 오래 생각할 일도 아냐……"
+  } ]
+}

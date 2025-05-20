@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq010104_msg0001",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희도 울을\n같이 찾고 있다면서?"
+  }, {
+    "$id" : 2,
+    "label" : "nq010104_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "단서가 될 만한 건 찾았어?"
+  }, {
+    "$id" : 3,
+    "label" : "nq010104_msg0003",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 아무것도……\n나도 이 주변을\n샅샅이 뒤져 봤는데"
+  }, {
+    "$id" : 4,
+    "label" : "nq010104_msg0004",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 근처에는 없는 것 같은데\n콜로니 9으로 돌아간 건 아닐까?"
+  }, {
+    "$id" : 5,
+    "label" : "nq010104_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 가능성도 있겠네……"
+  }, {
+    "$id" : 6,
+    "label" : "nq010104_msg0101",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실은 울이 나한테\n환송을 못 하게 됐다고\n고민을 털어놨었어"
+  }, {
+    "$id" : 7,
+    "label" : "nq010104_msg0102",
+    "talker" : "ZX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아이리스를 말리려고 여기까지 온 건데\n스스로가 한심스러워"
+  } ]
+}

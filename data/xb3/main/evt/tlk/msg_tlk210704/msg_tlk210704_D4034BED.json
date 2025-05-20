@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210704_msg0001",
+    "talker" : "xZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사과한다고 끝날 일은 아니긴 한데……\n제레미 일은 정말로 미안해"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210704_msg0002",
+    "talker" : "xZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제레미는 상응하는 처벌을 받게 될 거고\n콜로니 4에 그 녀석이 있을 자리는 이제 없어\n……그만한 일을 저질렀으니까"
+  }, {
+    "$id" : 3,
+    "label" : "tlk210704_msg0003",
+    "talker" : "xZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지만…… 나는 그 녀석을 믿어\n내가 안 믿어 주면 그 녀석은\n이번에야말로 진짜 외톨이가 되잖아"
+  }, {
+    "$id" : 4,
+    "label" : "tlk210704_msg0004",
+    "talker" : "xZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마르크트도 분명 똑같이 했을 거야\n그게 친구니까…… 안 그래?"
+  } ]
+}

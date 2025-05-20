@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120618_msg0001",
+    "talker" : "qa1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모~ 꼭 좀 부탁해모"
+  }, {
+    "$id" : 2,
+    "label" : "nq120618_msg0002",
+    "talker" : "po1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 참, 하아……"
+  }, {
+    "$id" : 3,
+    "label" : "nq120618_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 얘기에 끼워 줄래?"
+  }, {
+    "$id" : 4,
+    "label" : "nq120618_msg0004",
+    "talker" : "po1",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미오!"
+  }, {
+    "$id" : 5,
+    "label" : "nq120618_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 30의 정비사들은 전문가야\n꽤 유용할 거라고 생각하는데……"
+  }, {
+    "$id" : 6,
+    "label" : "nq120618_msg0006",
+    "talker" : "po1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희가 그리 말한다면……"
+  }, {
+    "$id" : 7,
+    "label" : "nq120618_msg0007",
+    "talker" : "po1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어!\n윗선에 물어볼게"
+  }, {
+    "$id" : 8,
+    "label" : "nq120618_msg0008",
+    "talker" : "qa1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디와 친구들 덕분에\n에테르를 잔뜩 받을 수 있겠어모"
+  }, {
+    "$id" : 9,
+    "label" : "nq120618_msg0009",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 고마워!"
+  } ]
+}

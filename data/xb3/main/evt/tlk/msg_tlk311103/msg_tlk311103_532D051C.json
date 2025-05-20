@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk311103_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "호츠마가 설치했던 그 장치는\n잘 작동하고 있어?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk311103_msg0002",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 것 같아\n하지만 설치한 곳이 너무 어설퍼"
+  }, {
+    "$id" : 3,
+    "label" : "tlk311103_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 말이야?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk311103_msg0004",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모르크나 대삼림에서 대폭포 상층으로\n빠져나갈 수 있거든"
+  }, {
+    "$id" : 5,
+    "label" : "tlk311103_msg0005",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 먼저 그런 곳에\n설치해야 된다고 생각하는데……"
+  } ]
+}

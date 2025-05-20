@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq220501_msg0001",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이상하네……\n사이바라가 보이질 않아"
+  }, {
+    "$id" : 2,
+    "label" : "nq220501_msg0002",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇네요……\n콜로니 4로 가겠다고\n말한 건 확실한데요……"
+  }, {
+    "$id" : 3,
+    "label" : "nq220501_msg0003",
+    "talker" : "4",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "통신은 해 봤어?"
+  }, {
+    "$id" : 4,
+    "label" : "nq220501_msg0004",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네…… 아까부터 몇 번이고\n연락을 시도해 봤지만 반응이 없어요"
+  }, {
+    "$id" : 5,
+    "label" : "nq220501_msg0005",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 사건에 휘말린 거 아닐까……?"
+  }, {
+    "$id" : 6,
+    "label" : "nq220501_msg0006",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 그렇지는 않을 거야"
+  }, {
+    "$id" : 7,
+    "label" : "nq220501_msg0007",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 사건이 있었다면\n콜로니 4 녀석들이\n평소와 다를 게 없다는 건 이상해"
+  }, {
+    "$id" : 8,
+    "label" : "nq220501_msg0008",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇네"
+  }, {
+    "$id" : 9,
+    "label" : "nq220501_msg0009",
+    "talker" : "L",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 밖에 있을 가능성도 고려되네요……\n하지만 정말 밖에 있다면\n찾기가 쉽지 않을 것 같아요"
+  }, {
+    "$id" : 10,
+    "label" : "nq220501_msg0010",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 주변에 있는 사람들에게\n얘기를 들어 볼 수밖에 없겠네"
+  } ]
+}

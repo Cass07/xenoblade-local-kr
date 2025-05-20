@@ -1,0 +1,23 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "ev06130100_0010",
+    "style" : 124,
+    "name" : "너는 선택했다"
+  }, {
+    "$id" : 2,
+    "label" : "ev06130100_0015",
+    "style" : 124,
+    "name" : "\"영원한 현재\"를……"
+  } ]
+}

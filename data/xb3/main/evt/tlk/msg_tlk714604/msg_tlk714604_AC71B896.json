@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk714604_msg0001",
+    "talker" : "Xm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미야비, 믿음직스러운 동료가 있으니\n크게 걱정되지는 않지만\n부디 무리는 하지 말렴"
+  }, {
+    "$id" : 2,
+    "label" : "tlk714604_msg0002",
+    "talker" : "Xm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나중에 또 얼굴 비치러 오고……\n그래만 준다면\n나도 안심이 되겠구나"
+  }, {
+    "$id" : 3,
+    "label" : "tlk714604_msg0003",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네……!"
+  } ]
+}

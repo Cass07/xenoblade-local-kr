@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk421101_msg0001",
+    "talker" : "Wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하아……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk421101_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 일 있어?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk421101_msg0003",
+    "talker" : "Wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 감찰관이나\n내무관 위사가 되기 위해서\n훈련을 받아 왔어"
+  }, {
+    "$id" : 4,
+    "label" : "tlk421101_msg0004",
+    "talker" : "Wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 캐슬의 생명의 불시계가 파괴됐으니\n장래 계획이 꼬여 버렸다 이 말이지"
+  }, {
+    "$id" : 5,
+    "label" : "tlk421101_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그래……?\n미안하게 됐네……"
+  } ]
+}

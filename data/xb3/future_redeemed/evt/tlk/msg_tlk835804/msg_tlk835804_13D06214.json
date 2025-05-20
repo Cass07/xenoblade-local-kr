@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk835804_msg0001",
+    "talker" : "Zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나엘을 데려오러 가는 거지? 매슈"
+  }, {
+    "$id" : 2,
+    "label" : "tlk835804_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk835804_msg0003",
+    "talker" : "Zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나……\n그러면 귀환 환영 파티를\n준비해 둬야겠네"
+  }, {
+    "$id" : 4,
+    "label" : "tlk835804_msg0004",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하, 마음도 급하셔라"
+  }, {
+    "$id" : 5,
+    "label" : "tlk835804_msg0005",
+    "talker" : "Zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너라면 해낼 거라고 믿으니까\n……둘 다, 무사히 돌아와야 해"
+  } ]
+}

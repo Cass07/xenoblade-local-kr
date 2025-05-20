@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831000_msg0001",
+    "talker" : "qq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 이후로 검증에 검증을 거듭해서\n드디어 오토마톤 완성 예정일이 잡혔어요……!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831000_msg0002",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "드디어구나……\n역시 너희 남매에게 맡기길 잘했어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831000_msg0003",
+    "talker" : "qq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저, 저는 전혀 싸우지 못하고\n기계 만지는 일 정도밖에 못 하니까요……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831000_msg0004",
+    "talker" : "qq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 조금이라도 공헌할 수 있었다니\n그…… 기뻐요……"
+  } ]
+}

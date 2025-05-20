@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520503_msg0001",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이치카와 나는\n어딘가 닮았다고 생각했었어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520503_msg0002",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "소중한 걸 잘 안 늘리는 것도 그렇고\n사람들과 거리를 두는 버릇도 그렇고……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520503_msg0003",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진실이 밝혀지긴 했지만 그렇다고\n\"이치카\"의 모든 게 거짓은 아니었다고 봐\n그 정도로 영악한 사람은 아니거든"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520503_msg0004",
+    "talker" : "_f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 난…… 전부 각오하고\n정체를 밝힌 거라고 생각해……"
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk713904_msg0001",
+    "talker" : "wl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잰슨하고 오래 알고 지냈다 보니\n그쪽 오빠와 모니카 씨 사이의 일이야\n전부터 알고 있었지만……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk713904_msg0002",
+    "talker" : "wl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "설마 잰슨도 어릴 적부터\n일편단심 짝사랑했을 줄이야……!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk713904_msg0003",
+    "talker" : "wl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생각만 해도 가슴이 찡하네!!\n아~ 나도 그런 격렬한 사랑 해 보고 싶어~"
+  } ]
+}

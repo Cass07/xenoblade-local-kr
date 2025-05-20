@@ -1,0 +1,277 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq130503_msg0001",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 예상이 맞았네……"
+  }, {
+    "$id" : 2,
+    "label" : "nq130503_msg0101",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제즈가 모으던 레드 리치는\n후겐이 좋아하는 거야"
+  }, {
+    "$id" : 3,
+    "label" : "nq130503_msg0102",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후겐이라면 콜로니 요타를 나갔던\n그 대장 말이지?"
+  }, {
+    "$id" : 4,
+    "label" : "nq130503_msg0103",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 한 대 걷어차고 싶을 정도로\n편식이 심하지만\n그것만은 정말 잘 먹거든……"
+  }, {
+    "$id" : 5,
+    "label" : "nq130503_msg0104",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 30에서\n잘 지내고 있나 보네"
+  }, {
+    "$id" : 6,
+    "label" : "nq130503_msg0201",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "프라우렌이 찾고 있던 건\n후겐을 격퇴하기 위한 비장의 수단이었어"
+  }, {
+    "$id" : 7,
+    "label" : "nq130503_msg0202",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후겐이라면 콜로니 요타를 나갔던\n그 대장 말이지?"
+  }, {
+    "$id" : 8,
+    "label" : "nq130503_msg0203",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 평소엔 초연해 보이다가도\n그것만 보면 질색을 하거든……"
+  }, {
+    "$id" : 9,
+    "label" : "nq130503_msg0204",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "같은 공간에 있기만 해도 굳어 버리니까\n세키에이는 항상 자기 방에 구비해 뒀지"
+  }, {
+    "$id" : 10,
+    "label" : "nq130503_msg0205",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그 정도로 싫어할 줄이야……"
+  }, {
+    "$id" : 11,
+    "label" : "nq130503_msg0206",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 프라우렌은\n친구들을 후겐한테서 지키려고……?"
+  }, {
+    "$id" : 12,
+    "label" : "nq130503_msg0207",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후…… 그렇다고 봐야겠지?"
+  }, {
+    "$id" : 13,
+    "label" : "nq130503_msg0301",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야, 기분 좋아 보인다?"
+  }, {
+    "$id" : 14,
+    "label" : "nq130503_msg0302",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……컬렉피디아 카드를 만든 이유는\n솔직히 내 이익을 위해서였어"
+  }, {
+    "$id" : 15,
+    "label" : "nq130503_msg0303",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상대방보다 앞서려고 사람과 물자의\n움직임을 감시하고 해독하면서……\n싸움을 유리하게 유도했지"
+  }, {
+    "$id" : 16,
+    "label" : "nq130503_msg0304",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자기중심적이고 남에 대한 배려는\n하나도 없는 도구……\n그게 컬렉피디아 카드야"
+  }, {
+    "$id" : 17,
+    "label" : "nq130503_msg0305",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나……"
+  }, {
+    "$id" : 18,
+    "label" : "nq130503_msg0306",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만…… 이런 식으로\n누군가를 위해 쓸 수도 있었구나"
+  }, {
+    "$id" : 19,
+    "label" : "nq130503_msg0307",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만든 이의 의도나 규칙을 넘어서……"
+  }, {
+    "$id" : 20,
+    "label" : "nq130503_msg0308",
+    "talker" : "K06Wb10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……니나\n그리고 우로보로스"
+  }, {
+    "$id" : 21,
+    "label" : "nq130503_msg0309",
+    "talker" : "K04Wb10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "들리면 응답해"
+  }, {
+    "$id" : 22,
+    "label" : "nq130503_msg0310",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……?! 세키에이야?"
+  }, {
+    "$id" : 23,
+    "label" : "nq130503_msg0311",
+    "talker" : "K0300",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그 반응을 보니 좋은 소식이 있나 보네?"
+  }, {
+    "$id" : 24,
+    "label" : "nq130503_msg0312",
+    "talker" : "K04Wb10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, \"즐거운 축제\"가 시작될 거야"
+  }, {
+    "$id" : 25,
+    "label" : "nq130503_msg0313",
+    "talker" : "K04Wb10",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 요타 거점 입구로 와 줘\n나는 바빠서 못 가"
+  }, {
+    "$id" : 26,
+    "label" : "nq130503_msg0314",
+    "talker" : "K0700",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어……"
+  }, {
+    "$id" : 27,
+    "label" : "nq130503_msg0315",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니에 무슨 일이 생겼나 보네"
+  }, {
+    "$id" : 28,
+    "label" : "nq130503_msg0316",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빨리 돌아가자"
+  } ]
+}

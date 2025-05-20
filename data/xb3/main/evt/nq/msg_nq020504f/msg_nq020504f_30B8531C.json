@@ -1,0 +1,646 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq020504_msg0001",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이제 그만\n블레이드를 거둬 주세요"
+  }, {
+    "$id" : 2,
+    "label" : "nq020504_msg0002",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "끄, 끝났다……"
+  }, {
+    "$id" : 3,
+    "label" : "nq020504_msg0003",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "허억…… 허억……\n이걸로 만족했냐, 카무키"
+  }, {
+    "$id" : 4,
+    "label" : "nq020504_msg0004",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사실은 좀 더 싸웠으면 했지만\n우선 최소한의 데이터는 얻었어요"
+  }, {
+    "$id" : 5,
+    "label" : "nq020504_msg0005",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나중에 모두에게 전투 기록을 공유하겠습니다\n각자 역량 개선에 참고해 주세요"
+  }, {
+    "$id" : 6,
+    "label" : "nq020504_msg0006",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워, 카무키! 역시 대단해!"
+  }, {
+    "$id" : 7,
+    "label" : "nq020504_msg0007",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 전 아직 선배들이랑 할 얘기가 있으니까\n이제 각자 알아서 해산해도 됩니다"
+  }, {
+    "$id" : 8,
+    "label" : "nq020504_msg0008",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수고하셨습니다!"
+  }, {
+    "$id" : 9,
+    "label" : "nq020504_msg0009",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……수고"
+  }, {
+    "$id" : 10,
+    "label" : "nq020504_msg0010",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두 오래 기다리셨죠"
+  }, {
+    "$id" : 11,
+    "label" : "nq020504_msg0011",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스에서 오신 세 분의 전투에 대해\n약식으로나마 평가하겠습니다"
+  }, {
+    "$id" : 12,
+    "label" : "nq020504_msg0012",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔가 시작했어……"
+  }, {
+    "$id" : 13,
+    "label" : "nq020504_msg0013",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신은 능력의 균형이 좋고\n임기응변도 잘하시네요……"
+  }, {
+    "$id" : 14,
+    "label" : "nq020504_msg0014",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "특출나게 뛰어난 능력은 없지만\n큰 결점도 없는 게 장점이죠"
+  }, {
+    "$id" : 15,
+    "label" : "nq020504_msg0015",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그런가?\n나는 잘 모르겠는데……"
+  }, {
+    "$id" : 16,
+    "label" : "nq020504_msg0016",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신은 에테르를 능숙하게 다루시고……"
+  }, {
+    "$id" : 17,
+    "label" : "nq020504_msg0017",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇다기보단\n신체적으로 에테르와 친화력이\n무척 높으시군요"
+  }, {
+    "$id" : 18,
+    "label" : "nq020504_msg0018",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몸에 흐르는 에테르가\n효율 좋게 아츠로 변환되고 있어요\n마치 고성능 회로처럼 말이죠……"
+  }, {
+    "$id" : 19,
+    "label" : "nq020504_msg0019",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흐음~?"
+  }, {
+    "$id" : 20,
+    "label" : "nq020504_msg0020",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제가 보기에는 머리에 달린 날개에\n비밀이 있다고 생각됩니다만……"
+  }, {
+    "$id" : 21,
+    "label" : "nq020504_msg0021",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "깃털 하나 주시면 안……"
+  }, {
+    "$id" : 22,
+    "label" : "nq020504_msg0022",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "싫어"
+  }, {
+    "$id" : 23,
+    "label" : "nq020504_msg0023",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇습니까\n그래도 전 포기하지 않을 겁니다"
+  }, {
+    "$id" : 24,
+    "label" : "nq020504_msg0024",
+    "talker" : "aY1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "란츠 씨!!"
+  }, {
+    "$id" : 25,
+    "label" : "nq020504_msg0025",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그래!"
+  }, {
+    "$id" : 26,
+    "label" : "nq020504_msg0026",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "개인적으로 가장 흥미로웠던\n란츠 씨 말입니다만……"
+  }, {
+    "$id" : 27,
+    "label" : "nq020504_msg0027",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "겉모습을 배신하지 않는달까요\n세 분 중에서 내구력이 가장 뛰어나시네요"
+  }, {
+    "$id" : 28,
+    "label" : "nq020504_msg0028",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗, 그야 그렇겠지\n내 단련 강도는 보통이 아니거든"
+  }, {
+    "$id" : 29,
+    "label" : "nq020504_msg0029",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아뇨, 단련 이전에\n애초에 몸 자체가 튼튼한 구조로\n이루어져 있다고 생각됩니다"
+  }, {
+    "$id" : 30,
+    "label" : "nq020504_msg0030",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오히려…… 그런 구조가\n무척 자연스러운 것처럼 보여요……"
+  }, {
+    "$id" : 31,
+    "label" : "nq020504_msg0031",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "더 조사해 보면 노아 씨나 유니 씨와는\n신체 조직부터 다른 별개의 종일지도……"
+  }, {
+    "$id" : 32,
+    "label" : "nq020504_msg0032",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무튼 세 분 사이에는\n명확한 개체차가 존재하는 건 확실합니다"
+  }, {
+    "$id" : 33,
+    "label" : "nq020504_msg0033",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래서 뭔 소리야?"
+  }, {
+    "$id" : 34,
+    "label" : "nq020504_msg0034",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난들 알겠어?\n그야 너희 둘은 날개가 없긴 한데"
+  }, {
+    "$id" : 35,
+    "label" : "nq020504_msg0035",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "딱히 신경 쓴 적도 없었지……"
+  }, {
+    "$id" : 36,
+    "label" : "nq020504_msg0036",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러시겠죠, 이해합니다"
+  }, {
+    "$id" : 37,
+    "label" : "nq020504_msg0037",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희는 같은 듯하면서도 같지 않아요……\n그런데 아무도 그 사실을 신경 쓰지 않죠"
+  }, {
+    "$id" : 38,
+    "label" : "nq020504_msg0038",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 위화감을 규명하는 것은 둘째 치고\n저희가 『같지 않다』는 걸 증명하기 위해서는\n아직 더 많은 샘플이 필요합니다"
+  }, {
+    "$id" : 39,
+    "label" : "nq020504_msg0039",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런고로……"
+  }, {
+    "$id" : 40,
+    "label" : "nq020504_msg0040",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "란츠 씨, 다음은 신체검사를 할 테니\n옷을 벗어 주세요"
+  }, {
+    "$id" : 41,
+    "label" : "nq020504_msg0041",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갑자기 벗으라고?!"
+  }, {
+    "$id" : 42,
+    "label" : "nq020504_msg0042",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 벗으라면 벗는데……"
+  }, {
+    "$id" : 43,
+    "label" : "nq020504_msg0043",
+    "talker" : "5",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이익……?!"
+  }, {
+    "$id" : 44,
+    "label" : "nq020504_msg0044",
+    "talker" : "5",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아프잖아!! 무슨 짓이야!"
+  }, {
+    "$id" : 45,
+    "label" : "nq020504_msg0045",
+    "talker" : "3",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너야말로 뭐 하는 건데!\n갑자기 옷을 벗다니 제정신이야?!"
+  }, {
+    "$id" : 46,
+    "label" : "nq020504_msg0046",
+    "talker" : "6",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내, 내 말이!\n세상에, 깜짝 놀랐잖아!"
+  }, {
+    "$id" : 47,
+    "label" : "nq020504_msg0047",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐야? 그냥 옷 벗는 거잖아\n무슨 문제라도 있어?"
+  }, {
+    "$id" : 48,
+    "label" : "nq020504_msg0048",
+    "talker" : "3",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그야 당연히……"
+  }, {
+    "$id" : 49,
+    "label" : "nq020504_msg0049",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어?"
+  }, {
+    "$id" : 50,
+    "label" : "nq020504_msg0050",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음, 딱히 문제는…… 없나?"
+  }, {
+    "$id" : 51,
+    "label" : "nq020504_msg0051",
+    "talker" : "5",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 왜 때렸는데?!"
+  }, {
+    "$id" : 52,
+    "label" : "nq020504_msg0052",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 그게…… 그냥 반사적으로?"
+  }, {
+    "$id" : 53,
+    "label" : "nq020504_msg0053",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마, 맞아! 뭐랄까\n란츠는 때리는 보람이 있잖아!"
+  }, {
+    "$id" : 54,
+    "label" : "nq020504_msg0054",
+    "talker" : "5",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너, 너희들~!!"
+  }, {
+    "$id" : 55,
+    "label" : "nq020504_msg0055",
+    "talker" : "aY1",
+    "talkattr" : 33026,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠, 아주 흥미로워……"
+  }, {
+    "$id" : 56,
+    "label" : "nq020504_msg0056",
+    "talker" : "aY1",
+    "talkattr" : 33026,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 대체 무슨 반응일까요?\n란츠 씨에게만 그러는 건지, 아니면……"
+  }, {
+    "$id" : 57,
+    "label" : "nq020504_msg0057",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗……! 이렇게 가만히 있을 때가 아니죠\n빨리 다음 테스트를 검토해야겠어요!"
+  }, {
+    "$id" : 58,
+    "label" : "nq020504_msg0058",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?! 잠깐…… 야!"
+  }, {
+    "$id" : 59,
+    "label" : "nq020504_msg0059",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 저도 참\n또 마음만 너무 앞서서……"
+  }, {
+    "$id" : 60,
+    "label" : "nq020504_msg0060",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "란츠 씨\n다음번에도 꼭 도와주세요"
+  }, {
+    "$id" : 61,
+    "label" : "nq020504_msg0061",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신한테는……\n특히 기대하고 있으니까요"
+  }, {
+    "$id" : 62,
+    "label" : "nq020504_msg0062",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 63,
+    "label" : "nq020504_msg0063",
+    "talker" : "aY1",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "주로 생태 쪽에서요"
+  }, {
+    "$id" : 64,
+    "label" : "nq020504_msg0064",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그래! 맡겨만 두라고!\n언제든 의지해도 돼!"
+  }, {
+    "$id" : 65,
+    "label" : "nq020504_msg0065",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 당신이라면\n그렇게 말씀하실 줄 알았어요"
+  }, {
+    "$id" : 66,
+    "label" : "nq020504_msg0066",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 저는 이만……"
+  }, {
+    "$id" : 67,
+    "label" : "nq020504_msg0067",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "들었냐, 노아\n『기대하고 있다』잖아"
+  }, {
+    "$id" : 68,
+    "label" : "nq020504_msg0068",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그래……"
+  }, {
+    "$id" : 69,
+    "label" : "nq020504_msg0069",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……후배란 건 좋구나"
+  } ]
+}

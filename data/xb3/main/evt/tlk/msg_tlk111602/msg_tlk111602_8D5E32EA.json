@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk111602_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티 생활은 좀 어때?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk111602_msg0002",
+    "talker" : "yV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "많이 익숙해졌어\n몸 상태도 예전보다 많이 나아져서\n채집 업무라도 따라가서 도우려고"
+  }, {
+    "$id" : 3,
+    "label" : "tlk111602_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 좋지!\n뭄바라면 채집의 달인이 될 수 있을걸"
+  }, {
+    "$id" : 4,
+    "label" : "tlk111602_msg0004",
+    "talker" : "yV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얘기가 왜 그렇게 돼\n호위하러 따라가는 거라니까"
+  } ]
+}

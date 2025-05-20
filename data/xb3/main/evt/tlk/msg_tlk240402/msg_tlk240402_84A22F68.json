@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk240402_msg0001",
+    "talker" : "@b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어머, 여행자 여러분께서는\n절벽을 기어오르실 수 있었군요모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk240402_msg0002",
+    "talker" : "@b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 지금까지 못 올라간 곳까지\n가실 수 있겠어요모!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk240402_msg0003",
+    "talker" : "@b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아에티아 지방하고 미리크 평원을\n가 보시는 것을 추천할게요모"
+  } ]
+}

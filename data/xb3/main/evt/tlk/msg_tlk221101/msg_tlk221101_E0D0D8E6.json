@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk221101_msg0001",
+    "talker" : "ra1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디가 레브니스를 망가뜨렸어모……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk221101_msg0002",
+    "talker" : "ra1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고출력, 고기동, 최강의 가트라테스가\n완성되기 직전이었는데 너무 아까워모……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk221101_msg0003",
+    "talker" : "ra1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 우베베는\n어쩌면 좋지모……"
+  } ]
+}

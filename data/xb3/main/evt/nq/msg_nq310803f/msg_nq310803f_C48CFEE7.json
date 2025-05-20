@@ -1,0 +1,331 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310803_msg0001",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티로부터 독립하려는 이유가 뭐지?"
+  }, {
+    "$id" : 2,
+    "label" : "nq310803_msg0101",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩌다가 시티로부터\n독립할 생각을 했어?"
+  }, {
+    "$id" : 3,
+    "label" : "nq310803_msg0201",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "장로라면 알고 있겠지……"
+  }, {
+    "$id" : 4,
+    "label" : "nq310803_msg0202",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일찍이 다른 곳에 있던 시티가\n뫼비우스의 손에 파괴된 \"기록\"을 말이야"
+  }, {
+    "$id" : 5,
+    "label" : "nq310803_msg0203",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래"
+  }, {
+    "$id" : 6,
+    "label" : "nq310803_msg0204",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 개릿 씨한테\n그 이야기를 들었어"
+  }, {
+    "$id" : 7,
+    "label" : "nq310803_msg0301",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얼마 전에 뫼비우스가 습격한 것도 그렇고……"
+  }, {
+    "$id" : 8,
+    "label" : "nq310803_msg0401",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얼마 전에 뫼비우스가 공격한 것도 그래……"
+  }, {
+    "$id" : 9,
+    "label" : "nq310803_msg0501",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방어를 철저히 한들\n결국 아무 소용 없잖아……"
+  }, {
+    "$id" : 10,
+    "label" : "nq310803_msg0502",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 살아남으려면\n계속 도망칠 수밖에 없겠다는\n생각이 들더라고……"
+  }, {
+    "$id" : 11,
+    "label" : "nq310803_msg0503",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그랬군"
+  }, {
+    "$id" : 12,
+    "label" : "nq310803_msg0504",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "겁먹었다고 비난해도 상관없어\n우리 나름대로 미래를 생각해서 판단한 거니까"
+  }, {
+    "$id" : 13,
+    "label" : "nq310803_msg0505",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리의 목적은\n시티가 전멸하는 것을 피하는 거야……"
+  }, {
+    "$id" : 14,
+    "label" : "nq310803_msg0506",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리들이 살아남는다면\n힘을 모아서 수백 년 후에는\n다시 뫼비우스와 싸울 수 있을지도 몰라"
+  }, {
+    "$id" : 15,
+    "label" : "nq310803_msg0507",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 16,
+    "label" : "nq310803_msg0508",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들의 뜻은 잘 알았어"
+  }, {
+    "$id" : 17,
+    "label" : "nq310803_msg0509",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만…… 장로로서 명령하지\n즉시 시티로 복귀하도록"
+  }, {
+    "$id" : 18,
+    "label" : "nq310803_msg0510",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐라고……?"
+  }, {
+    "$id" : 19,
+    "label" : "nq310803_msg0511",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우린 로스트 넘버즈가 싸우는 걸\n말릴 생각은 없어!!"
+  }, {
+    "$id" : 20,
+    "label" : "nq310803_msg0512",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 어째서……"
+  }, {
+    "$id" : 21,
+    "label" : "nq310803_msg0513",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희는 준비도 제대로 안 하고\n시티를 나왔잖아?"
+  }, {
+    "$id" : 22,
+    "label" : "nq310803_msg0514",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건……"
+  }, {
+    "$id" : 23,
+    "label" : "nq310803_msg0516",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "개릿이 너희 의견에 찬성했다면\n원로원을 통해서 그 계획을\n의제로 올렸을 테지……"
+  }, {
+    "$id" : 24,
+    "label" : "nq310803_msg0517",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 25,
+    "label" : "nq310803_msg0518",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들의 선택을 부정하진 않겠어\n하지만 계획을 다시 생각해 보는 건 어때?"
+  }, {
+    "$id" : 26,
+    "label" : "nq310803_msg0519",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 27,
+    "label" : "nq310803_msg0520",
+    "talker" : "jl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래, 개릿 씨와 다시 한번\n얘기를 나눠 봐야겠어"
+  }, {
+    "$id" : 28,
+    "label" : "nq310803_msg0521",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 말해도 되는 거야?"
+  }, {
+    "$id" : 29,
+    "label" : "nq310803_msg0522",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "건설적인 안건을 내놓는다면\n검토하지 못할 것도 없지"
+  }, {
+    "$id" : 30,
+    "label" : "nq310803_msg0523",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미래의 모습은 하나가 아니니까"
+  }, {
+    "$id" : 31,
+    "label" : "nq310803_msg0524",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고…… 그들이 계획을 보완하는 동안\n뫼비우스와 결판이 날지도 모르지"
+  }, {
+    "$id" : 32,
+    "label" : "nq310803_msg0525",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇네"
+  }, {
+    "$id" : 33,
+    "label" : "nq310803_msg0526",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무튼 수고들 했어"
+  }, {
+    "$id" : 34,
+    "label" : "nq310803_msg0527",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 이만 돌아가자"
+  } ]
+}

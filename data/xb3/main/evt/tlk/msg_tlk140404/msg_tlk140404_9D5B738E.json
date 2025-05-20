@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk140404_msg0001",
+    "talker" : "_Y1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "할 일이 없어져서\n카라반을 둘러보려고 했는데\n새먼이 못 하게 막았어모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk140404_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "외로워서 그런 걸까?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk140404_msg0003",
+    "talker" : "_Y1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니면 얼티밋 해머가 있는 동안에\n뭔가 만들고 싶은 게 있는 건지도 모르지모"
+  }, {
+    "$id" : 4,
+    "label" : "tlk140404_msg0004",
+    "talker" : "_Y1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석은 무슨 생각을 하고 있는지\n알기 어려운 노폰이야모……"
+  } ]
+}

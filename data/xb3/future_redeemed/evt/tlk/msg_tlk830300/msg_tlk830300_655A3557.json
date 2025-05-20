@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830300_msg0001",
+    "talker" : "hq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "들어 봐모!\n바루바루가 절대로 길을 잃지 않는\n방법을 고안했어모!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830300_msg0002",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떤 방법인데?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830300_msg0003",
+    "talker" : "hq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모후후후……\n들으면 깜짝 놀랄걸모!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830300_msg0004",
+    "talker" : "hq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바루바루가 정말 좋아하는 버섯을\n그레그레가 갖고 있으면 돼모!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk830300_msg0005",
+    "talker" : "hq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 바루바루는\n그 냄새에 이끌려 오게 될 거야모!\n이런 게 바로 역발상 아니겠어모!"
+  }, {
+    "$id" : 6,
+    "label" : "tlk830300_msg0006",
+    "talker" : "hq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그레그레는 천재야모!\n나 자신의 재능이 두려워모……!"
+  }, {
+    "$id" : 7,
+    "label" : "tlk830300_msg0007",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그렇구나~\n참 대단하네, 응"
+  } ]
+}

@@ -1,0 +1,367 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120301_msg0001",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유제트……!\n있잖아, 나 말이야!"
+  }, {
+    "$id" : 2,
+    "label" : "nq120301_msg0002",
+    "talker" : "ha1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 일하는 중이야\n보면 모르겠어?"
+  }, {
+    "$id" : 3,
+    "label" : "nq120301_msg0003",
+    "talker" : "H",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응!\n항상 수고가 많아!"
+  }, {
+    "$id" : 4,
+    "label" : "nq120301_msg0004",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알면 됐어"
+  }, {
+    "$id" : 5,
+    "label" : "nq120301_msg0005",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저래선 누가\n군무장인지 모르겠네"
+  }, {
+    "$id" : 6,
+    "label" : "nq120301_msg0006",
+    "talker" : "H",
+    "talkattr" : 33153,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유제트!\n뭔가 해 보자!!"
+  }, {
+    "$id" : 7,
+    "label" : "nq120301_msg0007",
+    "talker" : "ha1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔가 해 보자!!\n라고 할 때가 아니잖아"
+  }, {
+    "$id" : 8,
+    "label" : "nq120301_msg0008",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 먼저\n콜로니를 안정시켜야지"
+  }, {
+    "$id" : 9,
+    "label" : "nq120301_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생명의 불시계를 부순 뒤로\n혼란스러운 상태야?"
+  }, {
+    "$id" : 10,
+    "label" : "nq120301_msg0010",
+    "talker" : "oa1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혼란스럽다고 할까……"
+  }, {
+    "$id" : 11,
+    "label" : "nq120301_msg0011",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "싸움이 멈췄으니\n레브니스를 수리할 필요도 없어져서\n이 지경이 된 거지"
+  }, {
+    "$id" : 12,
+    "label" : "nq120301_msg0012",
+    "talker" : "ha1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "매일 심심하다고 떠들어 대서\n아주 시끄러워 죽겠어……"
+  }, {
+    "$id" : 13,
+    "label" : "nq120301_msg0013",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "해야 할 일을 찾는 건가?\n나랑 똑같네!"
+  }, {
+    "$id" : 14,
+    "label" : "nq120301_msg0014",
+    "talker" : "H",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼, 모두에게\n『드루크』를\n만들어 달라고 해야겠어!"
+  }, {
+    "$id" : 15,
+    "label" : "nq120301_msg0015",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "드루크라면\n이 대형 레브니스를 말하는 거야?"
+  }, {
+    "$id" : 16,
+    "label" : "nq120301_msg0017",
+    "talker" : "H",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응"
+  }, {
+    "$id" : 17,
+    "label" : "nq120301_msg0018",
+    "talker" : "H",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좀 더 굉장한 레브니스로\n만들어 준다고 약속했으니까"
+  }, {
+    "$id" : 18,
+    "label" : "nq120301_msg0019",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집정관 명령으로\n만들던 녀석이었나?"
+  }, {
+    "$id" : 19,
+    "label" : "nq120301_msg0020",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선배도 도와주지 않을래?"
+  }, {
+    "$id" : 20,
+    "label" : "nq120301_msg0021",
+    "talker" : "8",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모못"
+  }, {
+    "$id" : 21,
+    "label" : "nq120301_msg0022",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 조언 정도라면\n해 줄 수도 있지모"
+  }, {
+    "$id" : 22,
+    "label" : "nq120301_msg0023",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야호!"
+  }, {
+    "$id" : 23,
+    "label" : "nq120301_msg0024",
+    "talker" : "ha1",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만드는 걸 말리진 않겠지만\n지금 있는 자재는 내줄 수 없어"
+  }, {
+    "$id" : 24,
+    "label" : "nq120301_msg0025",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어!"
+  }, {
+    "$id" : 25,
+    "label" : "nq120301_msg0026",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금까지 해 왔던 대로\n스스로 구해 올게!"
+  }, {
+    "$id" : 26,
+    "label" : "nq120301_msg0027",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얘들아~!\n레브니스 만들자!!"
+  }, {
+    "$id" : 27,
+    "label" : "nq120301_msg0028",
+    "talker" : "4",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "완성하면 무슨 이익이라도 있어?"
+  }, {
+    "$id" : 28,
+    "label" : "nq120301_msg0029",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "없지"
+  }, {
+    "$id" : 29,
+    "label" : "nq120301_msg0030",
+    "talker" : "ha1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 노폰들이 조용해지는 것만으로도 충분해"
+  }, {
+    "$id" : 30,
+    "label" : "nq120301_msg0031",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장다운지는 모르겠지만\n이것도 콜로니를 위한 걸지도 모르겠네"
+  }, {
+    "$id" : 31,
+    "label" : "nq120301_msg0032",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자재 수집 정도라면\n우리도 할 수 있겠는데?"
+  }, {
+    "$id" : 32,
+    "label" : "nq120301_msg0033",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩔까, 란츠?"
+  }, {
+    "$id" : 33,
+    "label" : "nq120301_msg0034",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도와주는 거야?!"
+  }, {
+    "$id" : 34,
+    "label" : "nq120301_msg0035",
+    "talker" : "5",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아\n뭐라도 하라고 한 것도\n우리였으니까 말이지"
+  }, {
+    "$id" : 35,
+    "label" : "nq120301_msg0036",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워!"
+  }, {
+    "$id" : 36,
+    "label" : "nq120301_msg0037",
+    "talker" : "H",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "드루크에 관련된 건\n레파파가 관리하고 있어"
+  }, {
+    "$id" : 37,
+    "label" : "nq120301_msg0038",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐가 필요한지 물어보러 가자!"
+  }, {
+    "$id" : 38,
+    "label" : "nq120301_msg0039",
+    "talker" : "5",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래!"
+  } ]
+}

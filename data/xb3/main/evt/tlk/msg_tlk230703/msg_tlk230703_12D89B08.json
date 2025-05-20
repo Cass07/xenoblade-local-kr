@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230703_msg0001",
+    "talker" : "ab1",
+    "talkattr" : 33025,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나 님께서 6기셨다고요?!\n저, 저보다도 1기 아래세요? 말도 안 돼……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230703_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 처음 알았을 땐 깜짝 놀랐어\n전혀 그렇게 안 보이지……?!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230703_msg0003",
+    "talker" : "ab1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 보통 노력이 아니면\n그렇게 보이기도 힘들 거예요……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk230703_msg0004",
+    "talker" : "ab1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나 님께선 대체 얼마나 많은 짐을\n혼자서 떠안고 계셨던 걸까요……"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk710102_msg0001",
+    "talker" : "rk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "들었어, 모니카 장로님께서도 너희와 함께\n최전선으로 출진하신다며……?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk710102_msg0002",
+    "talker" : "rk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보통 용기가 아냐……\n어떻게 그런 결단을\n내리실 수 있는 건지 모르겠어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk710102_msg0003",
+    "talker" : "rk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 게르니카 씨조차 돌아오지 못하셨잖아\n유우도 그랬고……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk710102_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 그곳에서 싸우는 사람들이 있으니까\n무서워도…… 모르는 척할 수는 없어"
+  }, {
+    "$id" : 5,
+    "label" : "tlk710102_msg0005",
+    "talker" : "rk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……네 말이 맞아. 미안해\n하지만 목숨은 소중히 여겨 줘\n목숨이 있어야 무슨 일이든 하는 거잖아"
+  } ]
+}

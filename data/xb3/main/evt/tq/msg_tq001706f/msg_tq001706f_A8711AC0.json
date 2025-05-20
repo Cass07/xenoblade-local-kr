@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001706_msg0001",
+    "talker" : "hZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젠장, 이게 뭐야!\n어째서 우로보로스가 여기에……!"
+  }, {
+    "$id" : 2,
+    "label" : "tq001706_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "계속할 거냐?"
+  }, {
+    "$id" : 3,
+    "label" : "tq001706_msg0003",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죽일 목적은 아니다\n이대로 물러나면 쫓지 않겠어"
+  }, {
+    "$id" : 4,
+    "label" : "tq001706_msg0004",
+    "talker" : "iZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러시겠지"
+  }, {
+    "$id" : 5,
+    "label" : "tq001706_msg0005",
+    "talker" : "iZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들은"
+  }, {
+    "$id" : 6,
+    "label" : "tq001706_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레브니스?!"
+  }, {
+    "$id" : 7,
+    "label" : "tq001706_msg0007",
+    "talker" : "iZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "비장의 카드는 말야\n마지막까지 숨겨 두니까\n비장의 카드인 거다!"
+  }, {
+    "$id" : 8,
+    "label" : "tq001706_msg0008",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "큭……"
+  }, {
+    "$id" : 9,
+    "label" : "tq001706_msg0009",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당황하지 마라\n저쪽엔 카이트 팀이 있어"
+  }, {
+    "$id" : 10,
+    "label" : "tq001706_msg0010",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 우리는……\n여기를 끝까지 지켜 내자!"
+  } ]
+}

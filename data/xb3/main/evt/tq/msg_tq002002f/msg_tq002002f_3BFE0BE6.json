@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002002_msg0001",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "발자국이 끊긴 걸 보니\n아까 그 녀석들은 여기를 지나간 모양이야"
+  }, {
+    "$id" : 2,
+    "label" : "tq002002_msg0002",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 곳을 어떻게……"
+  }, {
+    "$id" : 3,
+    "label" : "tq002002_msg0003",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확실히…… 쉽게 갈 수 있는 곳은 아니네"
+  }, {
+    "$id" : 4,
+    "label" : "tq002002_msg0004",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 뛰어넘는 건\n불가능해 보이는데……"
+  }, {
+    "$id" : 5,
+    "label" : "tq002002_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "돌아서 가면 못 갈 정도는 아냐\n이쪽으로 가자"
+  }, {
+    "$id" : 6,
+    "label" : "tq002002_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래\n고마워, 타이온"
+  }, {
+    "$id" : 7,
+    "label" : "tq002002_msg0007",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 곳에 멈춰 있을 시간이\n없다고 말했잖아"
+  }, {
+    "$id" : 8,
+    "label" : "tq002002_msg0008",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았으면 서두르자"
+  } ]
+}

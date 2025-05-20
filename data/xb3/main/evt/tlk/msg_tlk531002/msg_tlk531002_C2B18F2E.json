@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk531002_msg0001",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빨리 이곳에서 나가고 싶지만\n새먼 때문에 옴짝달싹 못 하고 있다네모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk531002_msg0002",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "밖은 위험하다면서\n시티 밖으로 통 내보내 주지를 않아모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk531002_msg0003",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니 자네들의 블레이드로\n모든 걸 끝내고 오게나모"
+  } ]
+}

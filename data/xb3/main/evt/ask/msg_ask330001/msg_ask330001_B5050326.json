@@ -1,0 +1,124 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<A6D517A2>",
+    "talker" : "1",
+    "talkattr" : 33096,
+    "talkattr2" : 25182338,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나의 요리는 맛있고\n배가 든든해져서 좋긴 한데\n매번 만들려면 힘들지 않아?"
+  }, {
+    "$id" : 2,
+    "label" : "<F2A42F78>",
+    "talker" : "3",
+    "talkattr" : 33120,
+    "talkattr2" : 25182337,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리야 뭐 고맙지만\n아그누스에 있을 때보다\n4인분 더 만들어야 하잖아……"
+  }, {
+    "$id" : 3,
+    "label" : "<2178D84D>",
+    "talker" : "tV",
+    "talkattr" : 33056,
+    "talkattr2" : 49281,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "염려하지 마세요모\n요리는 마나나의 인생 그 자체예요모"
+  }, {
+    "$id" : 4,
+    "label" : "<96D95AB9>",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니에 있는 식당도 좋지만\n역시 여러분의 식사는\n마나나가 만들어 주고 싶어요모"
+  }, {
+    "$id" : 5,
+    "label" : "<C3825A65>",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분의 취향이나 몸 상태에 맞춰서\n요리를 만드는 건\n마나나 말고는 없을 테니까요모!"
+  }, {
+    "$id" : 6,
+    "label" : "<EFB5EB16>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 25182337,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나가 신경 써 준 덕분에\n오늘도 우리는 기운을 낼 수 있는 거야"
+  }, {
+    "$id" : 7,
+    "label" : "<F3FE74D0>",
+    "talker" : "tV",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엣헴이에요모!"
+  }, {
+    "$id" : 8,
+    "label" : "<28CD6E8B>",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이렇게 잘난 척하긴 했지만\n가끔은 콜로니 식당에도\n가 보고 싶어요모"
+  }, {
+    "$id" : 9,
+    "label" : "<2EAEB60D>",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러 가지 요리를 먹어 보고\n새로운 메뉴를 개발해서\n모두에게 대접하고 싶어요모"
+  }, {
+    "$id" : 10,
+    "label" : "<BD9E3BA0>",
+    "talker" : "5",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 좋네. 밥도 먹고\n마나나의 메뉴도 늘어나고\n일거양득인데?"
+  }, {
+    "$id" : 11,
+    "label" : "<C41CA489>",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바로 그거예요모!\n나중에 꼭 데려가 주세요모!"
+  } ]
+}

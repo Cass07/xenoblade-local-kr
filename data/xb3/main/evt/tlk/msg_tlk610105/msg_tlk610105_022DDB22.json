@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk610105_msg0001",
+    "talker" : "jW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안톤은 좋은 녀석이었지……\n함께 시티로 돌아가고 싶었어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk610105_msg0002",
+    "talker" : "jW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아교, 훔교, 안톤. 이렇게 셋이서 아가씨를\n뒷받침해 드리자고 얘기하곤 했는데"
+  }, {
+    "$id" : 3,
+    "label" : "tlk610105_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 말을 해야 위로가 될지는 모르겠지만……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk610105_msg0004",
+    "talker" : "jW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮아, 너희 잘못도 아니잖아"
+  }, {
+    "$id" : 5,
+    "label" : "tlk610105_msg0005",
+    "talker" : "jW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 마음만 받아 둘게\n안톤도 기뻐할 거야"
+  } ]
+}

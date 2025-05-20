@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq001202_msg0001",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모! 이제 곧\n오리진의 금속이 있는 장소야모"
+  }, {
+    "$id" : 2,
+    "label" : "sq001202_msg0002",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보물찾기 같아서 재밌어졌어모"
+  }, {
+    "$id" : 3,
+    "label" : "sq001202_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세계의 운명을 건 보물찾기 아냐?\n딱히 틀린 말도 아니지"
+  }, {
+    "$id" : 4,
+    "label" : "sq001202_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서? 반응은?"
+  }, {
+    "$id" : 5,
+    "label" : "sq001202_msg0005",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저쪽에서 나오고 있어모"
+  }, {
+    "$id" : 6,
+    "label" : "sq001202_msg0006",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 정도 거리라면\n틀림없이 저 바위 너머야모……"
+  }, {
+    "$id" : 7,
+    "label" : "sq001202_msg0007",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나\n누가 먼저 찾는지 시합할까?"
+  }, {
+    "$id" : 8,
+    "label" : "sq001202_msg0008",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아요모~!"
+  } ]
+}

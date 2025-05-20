@@ -1,0 +1,142 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq220304_msg0001",
+    "talker" : "_c1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 쫓던 몬스터는 어떻게 됐지?"
+  }, {
+    "$id" : 2,
+    "label" : "nq220304_msg0002",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도망쳤어요\n아마 하층으로 갔을 거예요"
+  }, {
+    "$id" : 3,
+    "label" : "nq220304_msg0003",
+    "talker" : "_c1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하층까지 도망쳐 버렸나\n내가 끝장을 못 내는 바람에……"
+  }, {
+    "$id" : 4,
+    "label" : "nq220304_msg0004",
+    "talker" : "_c1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석이 돌아오지 않는지\n경계할 필요가 있겠어"
+  }, {
+    "$id" : 5,
+    "label" : "nq220304_msg0005",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다친 건? 좀 괜찮아?"
+  }, {
+    "$id" : 6,
+    "label" : "nq220304_msg0006",
+    "talker" : "_c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이까짓 부상이 뭐 대단하다고……"
+  }, {
+    "$id" : 7,
+    "label" : "nq220304_msg0007",
+    "talker" : "ed1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "충분히 대단한 부상이거든?\n무모한 행동은 삼가란 말이야"
+  }, {
+    "$id" : 8,
+    "label" : "nq220304_msg0008",
+    "talker" : "_c1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요카제……"
+  }, {
+    "$id" : 9,
+    "label" : "nq220304_msg0009",
+    "talker" : "ed1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유즈리하가 밖에 나가 있으니\n지금은 아마기가 듬직하게\n자리를 지키고 있어야 하는 거 몰라?"
+  }, {
+    "$id" : 10,
+    "label" : "nq220304_msg0010",
+    "talker" : "_c1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "윽……"
+  }, {
+    "$id" : 11,
+    "label" : "nq220304_msg0011",
+    "talker" : "ed1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말이지……\n또 제멋대로 굴면\n나무에 매달아 놓을 줄 알아"
+  }, {
+    "$id" : 12,
+    "label" : "nq220304_msg0012",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇게 됐으니\n한동안은 안정을 취할 거예요"
+  }, {
+    "$id" : 13,
+    "label" : "nq220304_msg0013",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제발 그래 줬으면 좋겠다"
+  } ]
+}

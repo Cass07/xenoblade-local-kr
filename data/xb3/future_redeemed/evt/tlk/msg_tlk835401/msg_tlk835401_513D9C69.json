@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk835401_msg0001",
+    "talker" : "_p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이곳이 콜로니 9인가……\n여기저기 다 낡아 빠졌잖아?\n마음에 드는걸!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk835401_msg0002",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음? 낡아 빠진 게\n오히려 마음에 든다고?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk835401_msg0003",
+    "talker" : "_p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼, 당연하지!\n보수든 뭐든 일이 많을 거 아냐?\n지루할 틈은 없겠어!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk835401_msg0004",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 뭐야……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk835401_msg0005",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하, 든든한 동료가 늘었네"
+  } ]
+}

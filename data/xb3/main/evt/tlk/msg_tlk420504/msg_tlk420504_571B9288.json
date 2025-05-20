@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk420504_msg0001",
+    "talker" : "we1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오귀스트는 참 멍청한 녀석이야……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk420504_msg0002",
+    "talker" : "we1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석이 안고 있던 문제를\n눈치채지 못했던 나도 마찬가지고……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk420504_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "히스, 너 혼자 책임을 느낄 필요는 없어"
+  }, {
+    "$id" : 4,
+    "label" : "tlk420504_msg0004",
+    "talker" : "we1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 말이 맞을지도 모르지만\n적어도 위사대에만 정신 팔려서는\n안 된다는 걸 깨달았어"
+  }, {
+    "$id" : 5,
+    "label" : "tlk420504_msg0005",
+    "talker" : "we1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "최소한 주변 동료와 친구는 볼 수 있어야지……\n그게 쌓이고 이어지면\n아이오니온은 더욱 발전할 거야"
+  } ]
+}

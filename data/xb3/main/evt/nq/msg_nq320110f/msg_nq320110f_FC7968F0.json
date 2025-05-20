@@ -1,0 +1,205 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq320110_msg0001",
+    "talker" : "hl1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건……"
+  }, {
+    "$id" : 2,
+    "label" : "nq320110_msg0002",
+    "talker" : "hl1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떻게 된 일인지\n설명해 주실까"
+  }, {
+    "$id" : 3,
+    "label" : "nq320110_msg0003",
+    "talker" : "1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미, 미안해……\n분위기에 휩쓸려서 그만……"
+  }, {
+    "$id" : 4,
+    "label" : "nq320110_msg0201",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토르톤 일이라면\n내가 대처할 수 있어"
+  }, {
+    "$id" : 5,
+    "label" : "nq320110_msg0202",
+    "talker" : "hl1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……하지만 이 일은 어떻게 해야 할지……"
+  }, {
+    "$id" : 6,
+    "label" : "nq320110_msg0203",
+    "talker" : "6",
+    "talkattr" : 33128,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죄송합니다……"
+  }, {
+    "$id" : 7,
+    "label" : "nq320110_msg0204",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐 하고 있어?"
+  }, {
+    "$id" : 8,
+    "label" : "nq320110_msg0205",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다 함께 토르톤을 데리러 왔어"
+  }, {
+    "$id" : 9,
+    "label" : "nq320110_msg0206",
+    "talker" : "qf1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 많이 기다렸지!\n나도 참 인기가 많다니깐"
+  }, {
+    "$id" : 10,
+    "label" : "nq320110_msg0207",
+    "talker" : "qf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안하지만 난 지금부터\n시노랑 계속 특훈하러 가야 해!"
+  }, {
+    "$id" : 11,
+    "label" : "nq320110_msg0208",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번엔 오해받지 않게 조심해"
+  }, {
+    "$id" : 12,
+    "label" : "nq320110_msg0209",
+    "talker" : "wk1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응!"
+  }, {
+    "$id" : 13,
+    "label" : "nq320110_msg0210",
+    "talker" : "wk1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토르톤, 나 결심했어\n그냥 강해지는 게 아니라……"
+  }, {
+    "$id" : 14,
+    "label" : "nq320110_msg0211",
+    "talker" : "wk1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앞으로는 나 혼자서\n친구를 도울 수 있는 남자가 될 거야"
+  }, {
+    "$id" : 15,
+    "label" : "nq320110_msg0212",
+    "talker" : "qf1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 좋지!"
+  }, {
+    "$id" : 16,
+    "label" : "nq320110_msg0213",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 15의 모두라면\n분명 시티 사람들이랑\n잘 지낼 수 있을 것 같아"
+  }, {
+    "$id" : 17,
+    "label" : "nq320110_msg0214",
+    "talker" : "6",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응……!"
+  }, {
+    "$id" : 18,
+    "label" : "nq320110_msg0215",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "믿음직한 감시역도 있으니까 말이지"
+  }, {
+    "$id" : 19,
+    "label" : "nq320110_msg0216",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번 보수파의 행동은 도가 지나쳤어\n그 점을 파고들면 오늘 일은\n마무리지을 수 있을 거야"
+  }, {
+    "$id" : 20,
+    "label" : "nq320110_msg0217",
+    "talker" : "hl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 재발을 방지하기 위해\n너희에게도 살~짝 설교해 두는 편이 좋겠군"
+  } ]
+}

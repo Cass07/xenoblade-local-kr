@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120605_msg0001",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……키리에를 구해 주셔서 감사합니다\n저희가 조금만 더 일찍 발견했다면……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120605_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 애 행동은 아무도 예측할 수 없는걸\n그러니까 신경 쓰지 마, 이즈노메"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120605_msg0003",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……다음 연습 때까지\n키리에의 방향치 기질을 어떻게든 고쳐 둘게요"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120605_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어…… 적당히 할 거지……?"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330653_msg0001",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흐흐흐~\n오늘은 많이 먹어야겠어요~!"
+  }, {
+    "$id" : 2,
+    "label" : "nq330653_msg0002",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 열심히 노력했으니까\n이 정도 상은 줘야 한다고요~!"
+  }, {
+    "$id" : 3,
+    "label" : "nq330653_msg0101",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "히마요?\n저녁엔 꽃밭에 있을 거예요~"
+  }, {
+    "$id" : 4,
+    "label" : "nq330653_msg0102",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"모두\"를 만나러 가는 것 같아요\n예전엔 괴로워 보였지만 요즘은……"
+  }, {
+    "$id" : 5,
+    "label" : "nq330653_msg0103",
+    "talker" : "@f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……왠지 모르게\n시로를 닮아 가는 것 같더라고요!"
+  } ]
+}

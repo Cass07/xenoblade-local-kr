@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310500_msg0001",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……\"소설\"?"
+  }, {
+    "$id" : 2,
+    "label" : "nq310500_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티에서 유행하는 거래\n무슨 책이라는데?"
+  }, {
+    "$id" : 3,
+    "label" : "nq310500_msg0003",
+    "talker" : "5",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "책이라고~?\n그런 게 뭐가 재미있어?"
+  }, {
+    "$id" : 4,
+    "label" : "nq310500_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게, 우리가 지금까지 읽은 교본이랑\n내용이 많이 다르다고 하더라"
+  }, {
+    "$id" : 5,
+    "label" : "nq310500_msg0005",
+    "talker" : "2",
+    "talkattr" : 33096,
+    "talkattr2" : 8405122,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흐음…… 무슨 내용인데?"
+  }, {
+    "$id" : 6,
+    "label" : "nq310500_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 10502274,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 그건 나도 잘 모르는데\n혹시 관심 있어, 미오?"
+  }, {
+    "$id" : 7,
+    "label" : "nq310500_msg0007",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 8405121,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 조금 궁금해"
+  }, {
+    "$id" : 8,
+    "label" : "nq310500_msg0008",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 10502274,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 그 \"소설\"이란 거\n한번 읽어 볼까?"
+  }, {
+    "$id" : 9,
+    "label" : "nq310500_msg0009",
+    "talker" : "2",
+    "talkattr" : 33152,
+    "talkattr2" : 12599425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래야겠어\n다음에 시티에서 사 볼래"
+  } ]
+}

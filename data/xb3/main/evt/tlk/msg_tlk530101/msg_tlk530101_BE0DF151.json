@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk530101_msg0001",
+    "talker" : "ni1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우카우카랑 친구들은 이슨섬에서 살았어요모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk530101_msg0002",
+    "talker" : "ni1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "차 마시면서 느긋하게 지내기에는\n딱 좋은 섬이었죠모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk530101_msg0003",
+    "talker" : "ni1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 손님이 전혀 오질 않는다는 걸\n깨닫고 자리를 옮겼어요모"
+  } ]
+}

@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<1650BA9C>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노후된 철거신은 미리크 평원 말고\n다른 곳에도 있나 봐"
+  }, {
+    "$id" : 2,
+    "label" : "<3A2EFF4A>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 아마도\n아이오니온 각지에 있을 거야"
+  }, {
+    "$id" : 3,
+    "label" : "<196D9DEF>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그나저나 성한 곳이 하나도 없던데\n보통 그렇게 격렬하게 싸우나?"
+  }, {
+    "$id" : 4,
+    "label" : "<D35429C6>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "철거신도 불시계 랭크에 따라 달라\n전략과의 상성이 좋지 않으면\n크게 참패할 수도 있어"
+  }, {
+    "$id" : 5,
+    "label" : "<C23A05BE>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "철거신 회수나 수송에도 비용이 드니까\n파손 상태에 따라서는\n전장에 방치할 수밖에 없을 거야"
+  }, {
+    "$id" : 6,
+    "label" : "<FD94F6DF>",
+    "talker" : "5",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 지금은 몬스터 거처가 된 건가\n뭔가 안타깝네……"
+  }, {
+    "$id" : 7,
+    "label" : "<A8BF4BEA>",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방치됐다고는 해도\n물자는 어느 정도 남아 있을 테니\n여정에 도움이 될 거야"
+  }, {
+    "$id" : 8,
+    "label" : "<50FF0464>",
+    "talker" : "2",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 방치된 철거신을 발견하면\n되도록 살펴보기로 하자"
+  } ]
+}

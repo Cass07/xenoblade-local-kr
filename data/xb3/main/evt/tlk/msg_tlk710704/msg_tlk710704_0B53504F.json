@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk710704_msg0001",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티가 움직이는 거였구나~!\n엄마도 처음 알았대!\n엄청 흔들려서 완전 무서웠어……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk710704_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "많이 놀랐겠다……\n다치진 않았고?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk710704_msg0003",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 괜찮아!\n그보다 시노를 좀 도와줄 수 있을까?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk710704_msg0004",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시노가 여섯 씨족인데 심지어 후계자라\n우리한테 \"모든 걸\" 말할 수가 없거든\n이번처럼 시티의 비밀 같은 거 말이야"
+  }, {
+    "$id" : 5,
+    "label" : "tlk710704_msg0005",
+    "talker" : "xk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "숨기고 있어서 미안하다며 사과까지 하더라고\n하지만 형, 누나들이라면\n같은 입장에서 힘이 돼 줄 수 있을 거야"
+  } ]
+}

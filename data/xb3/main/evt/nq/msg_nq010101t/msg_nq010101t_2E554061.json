@@ -1,0 +1,160 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq010101_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "울에 대한 걸 알려 주지 않을래?\n요즘 어떤지……"
+  }, {
+    "$id" : 2,
+    "label" : "nq010101_msg0002",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "울 말이지……"
+  }, {
+    "$id" : 3,
+    "label" : "nq010101_msg0101",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사실은 제온에게 보고할지 말지\n조금 망설였는데……"
+  }, {
+    "$id" : 4,
+    "label" : "nq010101_msg0201",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "울이 환송을 안 하려고 들어서\n콜로니 사람들의 불만이 생긴 거 같아"
+  }, {
+    "$id" : 5,
+    "label" : "nq010101_msg0202",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "환송자면서\n환송을 안 해?\n그게 무슨 말이야?"
+  }, {
+    "$id" : 6,
+    "label" : "nq010101_msg0203",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정확히는 사람들이\n있는 곳에서는\n하지 않게 됐어"
+  }, {
+    "$id" : 7,
+    "label" : "nq010101_msg0204",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그의 호위를 맡은 캐리가\n그러더라고"
+  }, {
+    "$id" : 8,
+    "label" : "nq010101_msg0205",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘도 모습이 보이지 않는 걸 보니\n분명 환송을 하러 갔을 거야"
+  }, {
+    "$id" : 9,
+    "label" : "nq010101_msg0206",
+    "talker" : "1",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사람들 눈을 피해서 환송을……?"
+  }, {
+    "$id" : 10,
+    "label" : "nq010101_msg0207",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "울이 어디로 갔는지 짐작 가는 곳 있어?"
+  }, {
+    "$id" : 11,
+    "label" : "nq010101_msg0208",
+    "talker" : "hX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빌리에라 구릉일 거야\n아이리스가 동료의 유해를 발견했다고\n막 보고한 참이거든"
+  }, {
+    "$id" : 12,
+    "label" : "nq010101_msg0209",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나, 고마워"
+  }, {
+    "$id" : 13,
+    "label" : "nq010101_msg0301",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "울에게도 사정을 들어 봐야겠군"
+  }, {
+    "$id" : 14,
+    "label" : "nq010101_msg0401",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 일인지 물어보러 갈 거지?"
+  }, {
+    "$id" : 15,
+    "label" : "nq010101_msg0501",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아\n빌리에라 구릉으로 가 보자"
+  } ]
+}

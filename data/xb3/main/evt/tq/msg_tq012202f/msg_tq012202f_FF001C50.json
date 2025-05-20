@@ -1,0 +1,187 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012202_msg0001",
+    "talker" : "N",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이야, 큰일 날 뻔했네\n저 몬스터도 꽤 강해졌군그래!"
+  }, {
+    "$id" : 2,
+    "label" : "tq012202_msg0002",
+    "talker" : "4",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너 때문에 이게 무슨 꼴이야!\n네 기억은 대체 뭐였던 거야!"
+  }, {
+    "$id" : 3,
+    "label" : "tq012202_msg0003",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지나간 일은 내버려 두고\n네가 찾던 물건은 있었어?"
+  }, {
+    "$id" : 4,
+    "label" : "tq012202_msg0004",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 말이지, 하나 기억났어"
+  }, {
+    "$id" : 5,
+    "label" : "tq012202_msg0005",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오! 잘됐네\n기억을 차근차근 떠올려 봐"
+  }, {
+    "$id" : 6,
+    "label" : "tq012202_msg0006",
+    "talker" : "N",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "옛날에는 이곳에 콜로니 감마가 없었어"
+  }, {
+    "$id" : 7,
+    "label" : "tq012202_msg0007",
+    "talker" : "N",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그때는……\n콜로니 요타와 콜로니 18이\n팽팽하게 적대하고 있었거든"
+  }, {
+    "$id" : 8,
+    "label" : "tq012202_msg0008",
+    "talker" : "N",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 그런 사실을 전혀 모른 채\n그 사이를 가로질러 가다가\n양쪽 모두에게 쫓겨서 죽을 뻔했지!"
+  }, {
+    "$id" : 9,
+    "label" : "tq012202_msg0009",
+    "talker" : "3",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쓸데없는 기억을\n떠올려서 뭐 어쩌자고!"
+  }, {
+    "$id" : 10,
+    "label" : "tq012202_msg0010",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집정관을 죽이려 들다니 배짱도 두둑하더군\n하긴 그 시절에는 사방이 적이었으니까"
+  }, {
+    "$id" : 11,
+    "label" : "tq012202_msg0011",
+    "talker" : "3",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 어디 맞아 봐라\n야, 노아, 이 녀석 두들겨 패도 되지?"
+  }, {
+    "$id" : 12,
+    "label" : "tq012202_msg0012",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 잠깐만, 얘기는 다 듣고……"
+  }, {
+    "$id" : 13,
+    "label" : "tq012202_msg0013",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 녀석들한테서 도망치는 와중에\n여기서 쓰러뜨린 몬스터의 고기를\n조리해서 먹었었지"
+  }, {
+    "$id" : 14,
+    "label" : "tq012202_msg0014",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석은 요리도 잘했었어"
+  }, {
+    "$id" : 15,
+    "label" : "tq012202_msg0015",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안하다. 여기엔 없는 거 같아"
+  }, {
+    "$id" : 16,
+    "label" : "tq012202_msg0016",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기가 끝은 아니잖아?"
+  }, {
+    "$id" : 17,
+    "label" : "tq012202_msg0017",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 또 어디였냐면……\n지금의 람다가 있는 곳 근처지"
+  }, {
+    "$id" : 18,
+    "label" : "tq012202_msg0018",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 거기도 가 보자고\n또 생각나는 게 있겠지"
+  } ]
+}

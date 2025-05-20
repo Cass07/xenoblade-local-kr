@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk611803_msg0001",
+    "talker" : "ak1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 수용소 안에서\n일생을 마감할 줄 알았는데……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk611803_msg0002",
+    "talker" : "ak1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마지막으로 로스트 넘버즈로서\n목숨 걸고 싸울 기회를 얻었어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk611803_msg0003",
+    "talker" : "ak1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "끈질기게 살아남으니 이런 일도 있군……\n죽어 간 동료들의 복수를 위해서라도\n너희를 전력으로 지원해 줄게"
+  } ]
+}

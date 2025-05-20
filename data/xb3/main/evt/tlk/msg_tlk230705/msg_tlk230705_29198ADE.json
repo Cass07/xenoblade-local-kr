@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230705_msg0001",
+    "talker" : "ab1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제, 제 말 좀 들어 보세요!\n실은 토비마루가 \"비밀 특훈\"을\n같이 하자고 했는데……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230705_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "비밀 특훈이라고?!\n그런 게 있어?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230705_msg0003",
+    "talker" : "ab1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 강함의 비결을 물어봤더니\n관심이 있으면 같이 하자고 하더라고요……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk230705_msg0004",
+    "talker" : "ab1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 훈련 장소로 지정된 곳이\n엘시 폭포고……\n젖어도 괜찮은 옷으로 오라니까……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk230705_msg0005",
+    "talker" : "ab1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안 좋은 예감이 드는데……\n제 생각이 지나친 걸까요……?"
+  } ]
+}

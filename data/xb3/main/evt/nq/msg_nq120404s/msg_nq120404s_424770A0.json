@@ -1,0 +1,142 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120404_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "메카 친구 말인데……"
+  }, {
+    "$id" : 2,
+    "label" : "nq120404_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부품을 잃어버린 게 아니고\n누군가 훔쳐 간 거 같지 않아?"
+  }, {
+    "$id" : 3,
+    "label" : "nq120404_msg0101",
+    "talker" : "H",
+    "talkattr" : 33112,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1076,
+    "style" : 126,
+    "name" : "뭐?!"
+  }, {
+    "$id" : 4,
+    "label" : "nq120404_msg0201",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 그렇게 생각하던 참이야"
+  }, {
+    "$id" : 5,
+    "label" : "nq120404_msg0202",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 것보다 지금 중요한 건\n메카 친구를 고치는 거잖아"
+  }, {
+    "$id" : 6,
+    "label" : "nq120404_msg0203",
+    "talker" : "3",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아!"
+  }, {
+    "$id" : 7,
+    "label" : "nq120404_msg0204",
+    "talker" : "3",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "범인은 나중에 찾고\n빨리 메카 친구의 부품이나\n모으러 가자"
+  }, {
+    "$id" : 8,
+    "label" : "nq120404_msg0205",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러자!"
+  }, {
+    "$id" : 9,
+    "label" : "nq120404_msg0301",
+    "talker" : "2",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부족한 부품만 모으면\n바로 고칠 수 있는 거지?"
+  }, {
+    "$id" : 10,
+    "label" : "nq120404_msg0302",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응!"
+  }, {
+    "$id" : 11,
+    "label" : "nq120404_msg0401",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부족한 부품을 가져오면\n레파파가 고쳐 주지 않을까?"
+  }, {
+    "$id" : 12,
+    "label" : "nq120404_msg0501",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "메카 친구의 부품을\n구할 수 있을 만한 구역의 정보는 들었어"
+  }, {
+    "$id" : 13,
+    "label" : "nq120404_msg0502",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고…… 몇 군데\n신경 쓰이는 곳도 있으니\n찾으러 가 보자"
+  } ]
+}

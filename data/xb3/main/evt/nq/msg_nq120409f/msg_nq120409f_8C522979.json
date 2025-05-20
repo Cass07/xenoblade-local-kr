@@ -1,0 +1,160 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120409_msg0001",
+    "talker" : "pa1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아주 잘 모아 왔어모\n후다닥 수리에 들어갈게모!"
+  }, {
+    "$id" : 2,
+    "label" : "nq120409_msg0101",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 도울게!"
+  }, {
+    "$id" : 3,
+    "label" : "nq120409_msg0201",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디도 금방 온다고 했어모!\n같이 고칠 거야모"
+  }, {
+    "$id" : 4,
+    "label" : "nq120409_msg0401",
+    "talker" : "ia1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 5,
+    "label" : "nq120409_msg0402",
+    "talker" : "1",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 실력이 대단하네"
+  }, {
+    "$id" : 6,
+    "label" : "nq120409_msg0403",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레파파도 있어서\n금방 끝낼 수 있었어"
+  }, {
+    "$id" : 7,
+    "label" : "nq120409_msg0404",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "백업은 문제없어모"
+  }, {
+    "$id" : 8,
+    "label" : "nq120409_msg0405",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노아, \"눈동자\"에 메카 친구의 정보를 보낼게모\n누군지 확인하고 범인을 찾으러 가모"
+  }, {
+    "$id" : 9,
+    "label" : "nq120409_msg0406",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "메카 친구의 기록을 확인해 볼래모?"
+  }, {
+    "$id" : 10,
+    "label" : "nq120409_msg0407",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 좋겠지?\n부품을 가져간 게 누군지\n알 수 있을지도 모르잖아"
+  }, {
+    "$id" : 11,
+    "label" : "nq120409_msg0502",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰 2인조야……"
+  }, {
+    "$id" : 12,
+    "label" : "nq120409_msg0503",
+    "talker" : "pa1",
+    "talkattr" : 33105,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모?!\n니토니토랑 우베베야모!"
+  }, {
+    "$id" : 13,
+    "label" : "nq120409_msg0504",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석들이 부품을 숨긴 거였군"
+  }, {
+    "$id" : 14,
+    "label" : "nq120409_msg0505",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얼른 끌고 와서\n유제트에게 넘기자고"
+  }, {
+    "$id" : 15,
+    "label" : "nq120409_msg0506",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래!"
+  } ]
+}

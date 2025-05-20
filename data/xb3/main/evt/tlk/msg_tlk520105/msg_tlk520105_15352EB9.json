@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520105_msg0001",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "처음부터 다시 시작하겠다니……\n역시 강하네…… 마시로는……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520105_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……괜찮겠어? 너도 신경 쓰느라\n여러모로 고생했잖아"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520105_msg0003",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 지금 생각해 보니\n별로 잘 안 됐던 거 같아"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520105_msg0004",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "심지어 잘 안 된 이유를\n다른 사람 탓으로 돌렸던 것 같기도 하고……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk520105_msg0005",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "원인은 나한테도 있었던 거야\n그러니까 나도……\n처음부터 다시 시작하겠어!"
+  } ]
+}

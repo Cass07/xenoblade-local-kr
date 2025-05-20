@@ -1,0 +1,331 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq020308_msg0001",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이 교육을 그 사람들도\n꼭 받아 봤으면 하네요"
+  }, {
+    "$id" : 2,
+    "label" : "nq020308_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 사람들이라니?"
+  }, {
+    "$id" : 3,
+    "label" : "nq020308_msg0003",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "키리에랑 후츠를 말씀드린 거예요"
+  }, {
+    "$id" : 4,
+    "label" : "nq020308_msg0004",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "의자에 얌전히\n앉아 있지도 못하니……"
+  }, {
+    "$id" : 5,
+    "label" : "nq020308_msg0005",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힘이나 운만으로는\n극복할 수 없는 전황이 있음을\n깨달아야 해요"
+  }, {
+    "$id" : 6,
+    "label" : "nq020308_msg0006",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그들의 경솔한 행동이 시도 군무장님 이름에\n흠집을 내지 않으리란 보장도 없고"
+  }, {
+    "$id" : 7,
+    "label" : "nq020308_msg0007",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "애당초 후츠에게서는\n평소에 시도 군무장님에 대한\n경의가 느껴지질 않아요"
+  }, {
+    "$id" : 8,
+    "label" : "nq020308_msg0008",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 주제에 나와 같은 소대장이라니 도저히……"
+  }, {
+    "$id" : 9,
+    "label" : "nq020308_msg0009",
+    "talker" : "dY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아시하라, 그것보단 먼저\n해야 할 말이 있지 않나요?"
+  }, {
+    "$id" : 10,
+    "label" : "nq020308_msg0010",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……실례했습니다\n당신 말이 맞아요, 오미나"
+  }, {
+    "$id" : 11,
+    "label" : "nq020308_msg0011",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노아 씨라고 했나요?"
+  }, {
+    "$id" : 12,
+    "label" : "nq020308_msg0012",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸로 확실해졌습니다\n달리 하실 말씀이라도 있나요?"
+  }, {
+    "$id" : 13,
+    "label" : "nq020308_msg0013",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니…… 내 패배를 인정할게\n내가 너희한테 이래라저래라할 자격은……"
+  }, {
+    "$id" : 14,
+    "label" : "nq020308_msg0014",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아시하라, 설령 노아가 승부에서\n이겼다 하더라도……"
+  }, {
+    "$id" : 15,
+    "label" : "nq020308_msg0015",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너는 케베스를\n신뢰하지 않았을 거잖아. 아냐?"
+  }, {
+    "$id" : 16,
+    "label" : "nq020308_msg0016",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그 말씀이 맞습니다\n어떤 결과였든 간에\n제 본심이 변하지는 않았을 거예요"
+  }, {
+    "$id" : 17,
+    "label" : "nq020308_msg0017",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저에게 이 승부는\n처음부터 아무런 의미도 없었으니까요"
+  }, {
+    "$id" : 18,
+    "label" : "nq020308_msg0018",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그럼에도 넌 나와의 승부를 받아들였어\n난 그것 자체에 의미는 있다고 생각해"
+  }, {
+    "$id" : 19,
+    "label" : "nq020308_msg0019",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……참 낙관적이시네요"
+  }, {
+    "$id" : 20,
+    "label" : "nq020308_msg0020",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리한테 필요한 건\n조금씩이라도 가까워지는 일이라 생각해"
+  }, {
+    "$id" : 21,
+    "label" : "nq020308_msg0021",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이렇게 승부를 하든, 진심을 말하든\n어떠한 형태든 상관없어"
+  }, {
+    "$id" : 22,
+    "label" : "nq020308_msg0022",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "중요한 건 서로를 알아 가는 과정……\n거기에 의미가 있다고 나는 믿어"
+  }, {
+    "$id" : 23,
+    "label" : "nq020308_msg0023",
+    "talker" : "eY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서로를 알아 가는 과정……"
+  }, {
+    "$id" : 24,
+    "label" : "nq020308_msg0024",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희를 위협할 생각은 전혀 없어\n오히려 도움이 되기 위해 노력할 생각이야"
+  }, {
+    "$id" : 25,
+    "label" : "nq020308_msg0025",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이게 우리의 진심이야"
+  }, {
+    "$id" : 26,
+    "label" : "nq020308_msg0026",
+    "talker" : "dY1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 27,
+    "label" : "nq020308_msg0027",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇게까지 말씀하신다면\n그 말이 진심이라는 걸\n증명해 주세요"
+  }, {
+    "$id" : 28,
+    "label" : "nq020308_msg0028",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "증명……?"
+  }, {
+    "$id" : 29,
+    "label" : "nq020308_msg0029",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그에 맞는 책임을 가지고\n병사들과 마주해 줬으면 합니다\n……그런 뜻이죠"
+  }, {
+    "$id" : 30,
+    "label" : "nq020308_msg0030",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇게 해주신다면 일단\n저희를 교육하시는 걸 인정하겠습니다"
+  }, {
+    "$id" : 31,
+    "label" : "nq020308_msg0031",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 32,
+    "label" : "nq020308_msg0032",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼, 물론이지!\n고마워, 아시하라"
+  }, {
+    "$id" : 33,
+    "label" : "nq020308_msg0033",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워할 필요 없습니다\n착각하지 마세요"
+  }, {
+    "$id" : 34,
+    "label" : "nq020308_msg0034",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 어디까지나 시도 군무장님의\n의향을 존중했을 뿐입니다"
+  } ]
+}

@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq000119_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시르지르의 의뢰로 돌을 받으러 왔어\n가지고 있으면 우리한테 줄래?"
+  }, {
+    "$id" : 2,
+    "label" : "nq000119_msg0002",
+    "talker" : "WZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "돌……? 아아……"
+  }, {
+    "$id" : 3,
+    "label" : "nq000119_msg0003",
+    "talker" : "WZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잃어버렸어모~"
+  }, {
+    "$id" : 4,
+    "label" : "nq000119_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?!"
+  }, {
+    "$id" : 5,
+    "label" : "nq000119_msg0005",
+    "talker" : "WZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "높은 나무 위에서 자다가\n떨어졌는데 그때 잃어버렸어모~"
+  }, {
+    "$id" : 6,
+    "label" : "nq000119_msg0006",
+    "talker" : "WZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 시르지르한텐\n그렇다고 전해모~"
+  }, {
+    "$id" : 7,
+    "label" : "nq000119_msg0007",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 상관없는데……\n돌은 안 줘도 되겠어?"
+  }, {
+    "$id" : 8,
+    "label" : "nq000119_msg0008",
+    "talker" : "WZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "귀찮으니까 됐어모~\n시르지르는 고지식하니까\n화낼지도 모르지만 어쩔 수 없지모~"
+  }, {
+    "$id" : 9,
+    "label" : "nq000119_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그래도 괜찮다면야……\n그렇게 전해 둘게……"
+  } ]
+}

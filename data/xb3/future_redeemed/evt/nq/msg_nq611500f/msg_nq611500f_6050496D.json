@@ -1,0 +1,349 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<80D8FD17>",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 매슈 왔어?"
+  }, {
+    "$id" : 2,
+    "label" : "<3E05799F>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안녕, 딜런\n이런 곳에 가만히 서서 뭐 해?"
+  }, {
+    "$id" : 3,
+    "label" : "<DE261A24>",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 음, 뭐라고 해야 하나……\n앞으로에 대해 생각 좀 했어\n너도 알잖아?"
+  }, {
+    "$id" : 4,
+    "label" : "<12F89171>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……시티 말이구나"
+  }, {
+    "$id" : 5,
+    "label" : "<AB9FA8C9>",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지"
+  }, {
+    "$id" : 6,
+    "label" : "<C5BBD3BE>",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티를 재건하지 못하면\n시간이 아무리 많이 지나도\n우린 원래대로 돌아갈 수 없어"
+  }, {
+    "$id" : 7,
+    "label" : "<9601AA6D>",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "슬슬 새로운 시티……\n새로운 세상을 찾아야지"
+  }, {
+    "$id" : 8,
+    "label" : "<3B46EA29>",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 아머리만 움직였어도……\n그런 생각 중이었어"
+  }, {
+    "$id" : 9,
+    "label" : "<9835F8DC>",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 슈르크 씨 말로는\n금방은 힘들다나 보더라고……"
+  }, {
+    "$id" : 10,
+    "label" : "<E5F26097>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저만큼 커다란 기체를 수리하려면\n역시 인원이 필요하거든"
+  }, {
+    "$id" : 11,
+    "label" : "<084A3B4F>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내부 구조도 보기보다 복잡해\n……작업도 쉽지 않겠지"
+  }, {
+    "$id" : 12,
+    "label" : "<C8D6FA0E>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아, 이 이야기\n다른 녀석들한테도 했어?"
+  }, {
+    "$id" : 13,
+    "label" : "<CF813A81>",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 아직이야\n그건 왜?"
+  }, {
+    "$id" : 14,
+    "label" : "<2535AB6F>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 마침 잘됐네\n내가 다른 사람들한테 말해 볼게"
+  }, {
+    "$id" : 15,
+    "label" : "<E770EEE0>",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 매슈\n우리만으로는……"
+  }, {
+    "$id" : 16,
+    "label" : "<E677DCA7>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, \"우리\"만이 아냐"
+  }, {
+    "$id" : 17,
+    "label" : "<213CAE6B>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리버레이터 사람들한테도 협력을 요청할 거야"
+  }, {
+    "$id" : 18,
+    "label" : "<B50D96B5>",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 잠깐만…… 시티 문제에\n그 사람들을 끌어들이겠다고?"
+  }, {
+    "$id" : 19,
+    "label" : "<DBC51531>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바로 그거야, 딜런"
+  }, {
+    "$id" : 20,
+    "label" : "<2F4B7047>",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?"
+  }, {
+    "$id" : 21,
+    "label" : "<9C08ACCA>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 선 긋는 거 말이야\n이제 그만하자"
+  }, {
+    "$id" : 22,
+    "label" : "<2B9C74F7>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 지금껏 우리가 바깥과 관계를\n맺지 않는 길을 택해 온 건 사실이야"
+  }, {
+    "$id" : 23,
+    "label" : "<AED04DAC>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 리버레이터 사람들은\n이제 그렇게 얕은 관계가 아니잖아?"
+  }, {
+    "$id" : 24,
+    "label" : "<21DC1316>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오히려 난 가족이라고 해도\n상관없다고 생각하는데"
+  }, {
+    "$id" : 25,
+    "label" : "<9DA9D689>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그쪽도 그렇게 생각하지 않아?"
+  }, {
+    "$id" : 26,
+    "label" : "<9E657581>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄, 어떠려나?"
+  }, {
+    "$id" : 27,
+    "label" : "<EE54C0CA>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어…… 진짜로?"
+  }, {
+    "$id" : 28,
+    "label" : "<AC259B64>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "매슈, 네 생각이 그렇다면\n직접 확인해 봐"
+  }, {
+    "$id" : 29,
+    "label" : "<A9DC1383>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네 말을 들은 사람들이\n어떻게 대답하는지를 말이야"
+  }, {
+    "$id" : 30,
+    "label" : "<C4E7F216>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 처음부터 그럴 생각이었어"
+  }, {
+    "$id" : 31,
+    "label" : "<7E03A748>",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "매슈, 넌 정말……"
+  }, {
+    "$id" : 32,
+    "label" : "<5DED5973>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐 어쨌든 간에\n아머리는 내가 어떻게든 해 볼게"
+  }, {
+    "$id" : 33,
+    "label" : "<FC79F896>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너도 너무 혼자 끌어안고 있지 말라고"
+  }, {
+    "$id" : 34,
+    "label" : "<54A777EF>",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 녀석…… 어느새\n멋들어진 말도 하게 됐네"
+  }, {
+    "$id" : 35,
+    "label" : "<3EEF8BA4>",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……믿을게, 매슈"
+  }, {
+    "$id" : 36,
+    "label" : "<03D0D6B6>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면……\n어디 고개 숙이러 다녀 볼까!"
+  } ]
+}

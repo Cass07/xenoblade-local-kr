@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk113102_msg0001",
+    "talker" : "zX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캐슬의 칙명이라면\n반드시 성공시켜야지"
+  }, {
+    "$id" : 2,
+    "label" : "tlk113102_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명 랭크도\n아이언으로 오를 거야"
+  }, {
+    "$id" : 3,
+    "label" : "tlk113102_msg0003",
+    "talker" : "zX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 이제 콜로니 9도\n출셋길이 열렸다고"
+  }, {
+    "$id" : 4,
+    "label" : "tlk113102_msg0004",
+    "talker" : "zX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아이언 다음엔 스틸, 그다음엔 실버\n그리고 골드까지 랭크를 올려서\n케베스 최강의 콜로니가 되는 거야"
+  } ]
+}

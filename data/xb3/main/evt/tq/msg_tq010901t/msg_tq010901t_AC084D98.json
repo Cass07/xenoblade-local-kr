@@ -1,0 +1,178 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq010901t_msg0001",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안하지만 뭐 좀 물어보지"
+  }, {
+    "$id" : 2,
+    "label" : "tq010901t_msg0002",
+    "talker" : "_k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 뭐지?"
+  }, {
+    "$id" : 3,
+    "label" : "tq010901t_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 온천이란 걸 찾고 있는데……"
+  }, {
+    "$id" : 4,
+    "label" : "tq010901t_msg0004",
+    "talker" : "_k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "온천? 흠……"
+  }, {
+    "$id" : 5,
+    "label" : "tq010901t_msg0005",
+    "talker" : "_k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유감스럽지만 천연 온천이라면\n나도 본 적이 없어"
+  }, {
+    "$id" : 6,
+    "label" : "tq010901t_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "천연?"
+  }, {
+    "$id" : 7,
+    "label" : "tq010901t_msg0007",
+    "talker" : "_k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야, 그런 것도 모르나……?\n아, 그렇군…… 젊은 애들은\n보거나 들은 적이 없을 만도 하지"
+  }, {
+    "$id" : 8,
+    "label" : "tq010901t_msg0008",
+    "talker" : "_k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나 같은 늙은이 중에\n자세히 아는 사람이 있을지도 몰라"
+  }, {
+    "$id" : 9,
+    "label" : "tq010901t_msg0009",
+    "talker" : "_k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한때는 그걸 찾아다니던 녀석도 있었지만……\n끝내 찾아내지 못해 비밀의 탕이 되었지"
+  }, {
+    "$id" : 10,
+    "label" : "tq010901t_msg0010",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "비밀의 탕?"
+  }, {
+    "$id" : 11,
+    "label" : "tq010901t_msg0011",
+    "talker" : "_k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 숲이나 절벽 밑에 있다고도 하고\n어떤 동굴 깊숙한 곳에 있다는 말도 들었지만\n결국 아무도 찾아내질 못했다더군"
+  }, {
+    "$id" : 12,
+    "label" : "tq010901t_msg0012",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런가……"
+  }, {
+    "$id" : 13,
+    "label" : "tq010901t_msg0013",
+    "talker" : "_k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐만, 그 영감이라면\n가 본 적이 있을지도……\n아닌가, 그 녀석은 죽었나?"
+  }, {
+    "$id" : 14,
+    "label" : "tq010901t_msg0014",
+    "talker" : "_k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죽었을지도 모르겠군\n요즘 들어서는 얼굴을 못 봤으니"
+  }, {
+    "$id" : 15,
+    "label" : "tq010901t_msg0015",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇군…… 얘기 잘 들었어. 고마워"
+  }, {
+    "$id" : 16,
+    "label" : "tq010901t_msg0016",
+    "talker" : "_k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "별 도움이 못 돼서 미안하군"
+  }, {
+    "$id" : 17,
+    "label" : "tq010901t_msg0017",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 충분해\n가자"
+  } ]
+}

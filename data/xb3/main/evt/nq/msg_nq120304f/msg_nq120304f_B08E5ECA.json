@@ -1,0 +1,169 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120304_msg0001",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모!\n이걸로 페이즈 2는 완료야모"
+  }, {
+    "$id" : 2,
+    "label" : "nq120304_msg0002",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 고마워!"
+  }, {
+    "$id" : 3,
+    "label" : "nq120304_msg0003",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "페이즈 2……?"
+  }, {
+    "$id" : 4,
+    "label" : "nq120304_msg0004",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모! 지금까지는\n있는 부품으로\n적당히 조립해 왔지만"
+  }, {
+    "$id" : 5,
+    "label" : "nq120304_msg0005",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 드디어 필요한\n부위를 만들 수 있게 됐어모!"
+  }, {
+    "$id" : 6,
+    "label" : "nq120304_msg0006",
+    "talker" : "pa1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다음은 페이즈 3야모!\n이 느낌으로 다음 것도\n후다닥 부탁해모"
+  }, {
+    "$id" : 7,
+    "label" : "nq120304_msg0007",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "참고로……\n앞으로 얼마나 남았어?"
+  }, {
+    "$id" : 8,
+    "label" : "nq120304_msg0008",
+    "talker" : "pa1",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "페이즈 10에 완성될 예정이야모"
+  }, {
+    "$id" : 9,
+    "label" : "nq120304_msg0009",
+    "talker" : "3",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?!\n말도 안 돼……"
+  }, {
+    "$id" : 10,
+    "label" : "nq120304_msg0010",
+    "talker" : "8",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도와준다고 했잖아모\n이렇게 된 이상 끝까지\n지켜봐 줘야지모"
+  }, {
+    "$id" : 11,
+    "label" : "nq120304_msg0011",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……말은 그렇지\n너도 즐기고 있을 뿐이잖아"
+  }, {
+    "$id" : 12,
+    "label" : "nq120304_msg0012",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그치? 즐겁지?!"
+  }, {
+    "$id" : 13,
+    "label" : "nq120304_msg0013",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모\n앞으로도 자재를 착착 모아서\n레파파한테 가져다줘모!"
+  }, {
+    "$id" : 14,
+    "label" : "nq120304_msg0014",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "드루크는\n모두를 지키는 레브니스가 될 거야"
+  }, {
+    "$id" : 15,
+    "label" : "nq120304_msg0015",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래?\n완성을 기대해 볼까?"
+  }, {
+    "$id" : 16,
+    "label" : "nq120304_msg0016",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나만 믿어!"
+  } ]
+}

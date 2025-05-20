@@ -1,0 +1,169 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<D7D46C78>",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜 감사함다\n이만큼 있으면 조리장 완성까지\n한걸음 남은 셈임다"
+  }, {
+    "$id" : 2,
+    "label" : "<EB02B332>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 그 말은……"
+  }, {
+    "$id" : 3,
+    "label" : "<69957806>",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇슴다, 약속한 대로\n할아버지의 특별한 요리를……"
+  }, {
+    "$id" : 4,
+    "label" : "<EA743601>",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "드리겠다고 말하고 싶지만……"
+  }, {
+    "$id" : 5,
+    "label" : "<F8EC6A44>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "싶지만?"
+  }, {
+    "$id" : 6,
+    "label" : "<64C63A9D>",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사실은 맛을 내는 데 가장 중요한\n\"그것\"이 다 떨어져 버렸슴다"
+  }, {
+    "$id" : 7,
+    "label" : "<25B1FDDE>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혹시……\n댄싱 애플을 말하는 거야?"
+  }, {
+    "$id" : 8,
+    "label" : "<F82377FA>",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어라? 어떻게 아셨슴까?"
+  }, {
+    "$id" : 9,
+    "label" : "<D3090454>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 게 있어\n그렇다면……\n역시 그 요리려나"
+  }, {
+    "$id" : 10,
+    "label" : "<DA647A52>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "슈르크, 무슨 요리인지 알아?"
+  }, {
+    "$id" : 11,
+    "label" : "<4D1AC423>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 나한테도\n기억에 남아 있는 요리야"
+  }, {
+    "$id" : 12,
+    "label" : "<1D6729FE>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확실히 댄싱 애플을 조달해서라도\n먹을 가치가 있는 음식이긴 해"
+  }, {
+    "$id" : 13,
+    "label" : "<54C7DB8B>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오호……"
+  }, {
+    "$id" : 14,
+    "label" : "<2759F515>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……사정은 대충 알겠는데\n그 댄싱 애플을 구해 오면\n만들 수 있는 거 맞지?"
+  }, {
+    "$id" : 15,
+    "label" : "<4850A8DA>",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇슴다\n뭔가 일 시키는 것 같아 미안하네요"
+  }, {
+    "$id" : 16,
+    "label" : "<C594E4DE>",
+    "talker" : "sq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 5개면 충분함다\n콜로니 9 근처에서 찾으면\n꽤 흔하게 보일 검다"
+  } ]
+}

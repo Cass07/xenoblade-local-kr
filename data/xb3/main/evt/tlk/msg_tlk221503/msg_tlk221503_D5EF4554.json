@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk221503_msg0001",
+    "talker" : "va1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 콜로니는 운이 좋은 것 같아\n예전에 실버 랭크 콜로니랑 붙어서\n이긴 적이 있거든"
+  }, {
+    "$id" : 2,
+    "label" : "tlk221503_msg0002",
+    "talker" : "va1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 요타라고 하는데\n그때는 아직 코퍼였나 아이언이었어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk221503_msg0003",
+    "talker" : "va1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금만 더 늦게 싸웠더라면\n상위 랭크 레브니스랑 붙어야 해서\n우리가 깨졌을걸?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk221503_msg0004",
+    "talker" : "va1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마 우리 군무장님은\n전부 다 잊어버렸겠지만 말이야"
+  } ]
+}

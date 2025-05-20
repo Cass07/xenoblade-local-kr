@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk021401_msg0001",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기…… 만약에 말이야\n우리가 집정관을 쓰러뜨리지 못했다면\n니나는 어떻게 할 생각이었어?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk021401_msg0002",
+    "talker" : "WW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄? 어떻게 했으려나"
+  }, {
+    "$id" : 3,
+    "label" : "tlk021401_msg0003",
+    "talker" : "WW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집정관 이는 나를 밀어주면서도\n한편으론 경계하고 있었어\n결국 적대했을지 안 했을지는 모르는 일이지"
+  }, {
+    "$id" : 4,
+    "label" : "tlk021401_msg0004",
+    "talker" : "WW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어찌 됐든 너희들이 없었다면\n밝은 미래도 없었을 거야"
+  }, {
+    "$id" : 5,
+    "label" : "tlk021401_msg0005",
+    "talker" : "WW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……안 그래 보이겠지만\n사실은 이렇게 돼서 안도했어"
+  } ]
+}

@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<4E5D0E67>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너…… 클라리테냐?!"
+  }, {
+    "$id" : 2,
+    "label" : "<0323B102>",
+    "talker" : "Zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 말도 안 돼……\n매슈잖아?!"
+  }, {
+    "$id" : 3,
+    "label" : "<3E6BE876>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 곳에 있었구나!\n참 나, 걱정이나 끼치고 말이야"
+  }, {
+    "$id" : 4,
+    "label" : "<1EB8ABB8>",
+    "talker" : "Zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 태도는 뭐야\n이쪽도 열심히 찾아다녔거든?"
+  }, {
+    "$id" : 5,
+    "label" : "<26B19D2A>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쨌든 무사해서 다행이야\n자, 가자. 딜런도 기다리고 있어"
+  }, {
+    "$id" : 6,
+    "label" : "<9494B154>",
+    "talker" : "Zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "딜런……\n그렇구나, 그 녀석도 살아 있었어"
+  }, {
+    "$id" : 7,
+    "label" : "<A947E9D9>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "돌아가면 셋이서 이야기하자\n밥이라도 같이 먹으면서 말이야"
+  }, {
+    "$id" : 8,
+    "label" : "<F7FA2B90>",
+    "talker" : "Zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것도 좋지만\n지금은 일단 쉬고 싶어……\n제대로 된 침소에서"
+  }, {
+    "$id" : 9,
+    "label" : "<AB837324>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하, 알았어"
+  }, {
+    "$id" : 10,
+    "label" : "<052E79AB>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : "클라리테를 콜로니 9에서 보호하게 되었다"
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210801_msg0001",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생명의 불시계는 사라졌지만\n몸의 \"각인\"은 남아 있나 본데?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210801_msg0002",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확실한 건 아니지만\n생명의 시간과 육체에 남은 시간은\n별개인 걸지도 몰라"
+  }, {
+    "$id" : 3,
+    "label" : "tlk210801_msg0003",
+    "talker" : "yZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 그건 그렇다 치고\n싸우지 않고 살아갈 수 있게 된 것만으로도\n당신들에게는 고맙다고 해야겠지"
+  } ]
+}

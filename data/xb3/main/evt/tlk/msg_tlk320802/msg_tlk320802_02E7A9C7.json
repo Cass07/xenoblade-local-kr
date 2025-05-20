@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk320802_msg0001",
+    "talker" : "cd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "터킨 일은 도와줘서 고마워"
+  }, {
+    "$id" : 2,
+    "label" : "tlk320802_msg0002",
+    "talker" : "cd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 주변엔 터킨이 여럿 살고 있으니까\n동맹 관계를 유지하는 편이 좋거든"
+  }, {
+    "$id" : 3,
+    "label" : "tlk320802_msg0003",
+    "talker" : "cd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 또 식량을 가져다주는 건\n좀 힘들지도 모르겠어……"
+  } ]
+}

@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq230611_msg0001",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이전에 제군들과 싸웠을 때는\n더블유에게 놀아나느라\n즐길 여유가 통 없었어"
+  }, {
+    "$id" : 2,
+    "label" : "nq230611_msg0002",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적어도 이번만큼은 각자 입장을 잊고\n제대로 한번 붙어 보자"
+  }, {
+    "$id" : 3,
+    "label" : "nq230611_msg0003",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗……\n과연 그 여유가 얼마나 오래 갈지……\n시험해 보는 것도 재미있겠군요"
+  }, {
+    "$id" : 4,
+    "label" : "nq230611_msg0004",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하, 그거 좋지!\n제발 나를 한계까지 몰아붙여 달라고!"
+  }, {
+    "$id" : 5,
+    "label" : "nq230611_msg0005",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그럴 각오도 없다면\n굳이 내가 진심을 발휘할 이유가 없잖아?"
+  }, {
+    "$id" : 6,
+    "label" : "nq230611_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조심해, 시도. 저 녀석이\n언행은 저래도 실력만큼은 진짜니까"
+  }, {
+    "$id" : 7,
+    "label" : "nq230611_msg0007",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 주의하고 있습니다\n진심으로 덤비지 않으면 이쪽이 당하겠죠……\n다들 정신 바짝 차립시다"
+  }, {
+    "$id" : 8,
+    "label" : "nq230611_msg0008",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자…… 갑니다!"
+  } ]
+}

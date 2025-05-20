@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq990208_msg0001",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이젠 에테르를\n마음껏 써도 문제없어모!"
+  }, {
+    "$id" : 2,
+    "label" : "nq990208_msg0002",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "드루크는 현재\n페이즈 7을 진행 중이야모"
+  }, {
+    "$id" : 3,
+    "label" : "nq990208_msg0101",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이젠 에테르를\n마음껏 써도 문제없어모!"
+  }, {
+    "$id" : 4,
+    "label" : "nq990208_msg0102",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "드루크는 현재\n페이즈 7을 진행 중이야모"
+  }, {
+    "$id" : 5,
+    "label" : "nq990208_msg0103",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자재를 가져왔다고모?\n레파파가 후다닥 검품할게모!"
+  }, {
+    "$id" : 6,
+    "label" : "nq990208_msg0201",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직 한참 부족해모!"
+  }, {
+    "$id" : 7,
+    "label" : "nq990208_msg0301",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전부 모였네모\n이거면 페이즈 7을 완료할 수 있겠어모\n고마워모!"
+  }, {
+    "$id" : 8,
+    "label" : "nq990208_msg0302",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금부터가 난관이야모\n마음 단단히 먹어모!"
+  }, {
+    "$id" : 9,
+    "label" : "nq990208_msg0304",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앞으로도 잘 부탁할게모!"
+  } ]
+}

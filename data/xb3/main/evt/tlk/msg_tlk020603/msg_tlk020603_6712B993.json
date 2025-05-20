@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk020603_msg0001",
+    "talker" : "sV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나와 에셀은 준비됐다\n목표는 최후의 전장……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk020603_msg0002",
+    "talker" : "sV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "트래비스는 복잡한 얼굴이었지만\n내 목숨을 바칠 순간이\n언제인지는 잘 알고 있지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk020603_msg0003",
+    "talker" : "sV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는…… 있을 곳을 마련해 준 그대들과\n시티 사람들에게 보답하고 싶다"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120406_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어때, 이소라\n군의 공부는 할 만해?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120406_msg0002",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네! 외울 게 많아서 힘들기는 하지만\n마이벡 씨 덕분에\n전보다 많이 좋아졌어요!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120406_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 지금까지처럼 계속 열심히 해\n……그건 그렇고, 후츠랑 나구모한테\n네가 군의 지망이란 건 말했어?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120406_msg0004",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아뇨, 아직 안 했어요\n하지만 언제까지 계속\n숨기고 있을 수도 없으니까……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk120406_msg0005",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "날 봐서 얘기해 보려고요\n……저래도 제 소중한 동료니까요"
+  } ]
+}

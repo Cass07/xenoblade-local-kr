@@ -1,0 +1,331 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq010200_msg0001",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "소문에 따르면\n콜로니 9은 자원이 부족해서\n제법 고생하는 모양이야"
+  }, {
+    "$id" : 2,
+    "label" : "nq010200_msg0002",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "새삼스러운 일은 아니지"
+  }, {
+    "$id" : 3,
+    "label" : "nq010200_msg0003",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만……"
+  }, {
+    "$id" : 4,
+    "label" : "nq010200_msg0004",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 9은 랭크가 내려가기 전까진\n자원과 식량 때문에\n곤란을 겪은 적이 별로 없었다"
+  }, {
+    "$id" : 5,
+    "label" : "nq010200_msg0005",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 조금만 부족해도\n불만이 쉽게 터져 나오는 거지……"
+  }, {
+    "$id" : 6,
+    "label" : "nq010200_msg0006",
+    "talker" : "1",
+    "talkattr" : 33056,
+    "talkattr2" : 44056706,
+    "talkattr3" : 1074,
+    "style" : 126,
+    "name" : "우리가 도와줄 수 있는 일이 있다면\n기꺼이 도와줄게"
+  }, {
+    "$id" : 7,
+    "label" : "nq010200_msg0007",
+    "talker" : "I",
+    "talkattr" : 33048,
+    "talkattr2" : 8405121,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "든든하군"
+  }, {
+    "$id" : 8,
+    "label" : "nq010200_msg0008",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 뭔가\n지금 당장 할 수 있는 일은\n없어 보이는데……"
+  }, {
+    "$id" : 9,
+    "label" : "nq010200_msg0009",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가장 먼저 식량 문제를\n해결해야 하는 거였지?"
+  }, {
+    "$id" : 10,
+    "label" : "nq010200_msg0010",
+    "talker" : "tV",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "배가 꼬르륵거린다는 건\n너무 슬픈 일이에요모"
+  }, {
+    "$id" : 11,
+    "label" : "nq010200_msg0011",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "밭에서 기르는 작물도\n자라려면 시간이 걸릴 테니까……"
+  }, {
+    "$id" : 12,
+    "label" : "nq010200_msg0012",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음……"
+  }, {
+    "$id" : 13,
+    "label" : "nq010200_msg0013",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제온의 밭이 완성되기 전까지\n그 공백을 메울 수 있다면\n좋을 텐데……"
+  }, {
+    "$id" : 14,
+    "label" : "nq010200_msg0014",
+    "talker" : "1",
+    "talkattr" : 32768,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 15,
+    "label" : "nq010200_msg0015",
+    "talker" : "XW1",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후…… 변함없이 손이 많이 가는 녀석들이네모"
+  }, {
+    "$id" : 16,
+    "label" : "nq010200_msg0016",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 23085185,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야, 리쿠\n좋은 생각 있으면\n뜸 들이지 말고 말해 봐"
+  }, {
+    "$id" : 17,
+    "label" : "nq010200_msg0017",
+    "talker" : "XW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모! 너희도\n다 아는 방법일 거야모"
+  }, {
+    "$id" : 18,
+    "label" : "nq010200_msg0018",
+    "talker" : "XW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "소유자가 없으면 주워도\n아무도 불평하지 않아모"
+  }, {
+    "$id" : 19,
+    "label" : "nq010200_msg0019",
+    "talker" : "2",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 혹시……"
+  }, {
+    "$id" : 20,
+    "label" : "nq010200_msg0020",
+    "talker" : "XW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전적지에 가 보면 아직\n쓸 만한 물건이 남아 있을 거야모"
+  }, {
+    "$id" : 21,
+    "label" : "nq010200_msg0021",
+    "talker" : "3",
+    "talkattr" : 33056,
+    "talkattr2" : 49281,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇겠네"
+  }, {
+    "$id" : 22,
+    "label" : "nq010200_msg0022",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 콜로니로 돌아가지 못하게 됐을 때\n전장에서 주운 물건들을\n사용하면서 살아남았으니까"
+  }, {
+    "$id" : 23,
+    "label" : "nq010200_msg0023",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "살아가기 위해선\n이용할 수 있는 건 전부 이용해야 해"
+  }, {
+    "$id" : 24,
+    "label" : "nq010200_msg0024",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……나도 그 의견에 동의해"
+  }, {
+    "$id" : 25,
+    "label" : "nq010200_msg0025",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전적지라면 식량은 물론\n자원도 얻을 수 있을 거야"
+  }, {
+    "$id" : 26,
+    "label" : "nq010200_msg0026",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 9 주변이라면\n불치 평원의 전적지는 어떨까?"
+  }, {
+    "$id" : 27,
+    "label" : "nq010200_msg0027",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 한 군데 더……"
+  }, {
+    "$id" : 28,
+    "label" : "nq010200_msg0028",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 게르니카와 만난 곳도\n후보지로 삼는 게 좋겠어"
+  }, {
+    "$id" : 29,
+    "label" : "nq010200_msg0029",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아"
+  }, {
+    "$id" : 30,
+    "label" : "nq010200_msg0030",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어느 정도 모이면\n군수과로 넘겨주자"
+  }, {
+    "$id" : 31,
+    "label" : "nq010200_msg0031",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카밀라에게 맡기면\n적절하게 분배해 줄 거야"
+  }, {
+    "$id" : 32,
+    "label" : "nq010200_msg0032",
+    "talker" : "5",
+    "talkattr" : 33048,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아!\n다 정해졌으면……"
+  }, {
+    "$id" : 33,
+    "label" : "nq010200_msg0033",
+    "talker" : "6",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기……\n나도 도울게!"
+  }, {
+    "$id" : 34,
+    "label" : "nq010200_msg0034",
+    "talker" : "tV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나도 도와드릴게요모~!"
+  } ]
+}

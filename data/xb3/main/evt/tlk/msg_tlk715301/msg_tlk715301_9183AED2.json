@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk715301_msg0001",
+    "talker" : "em1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시대를 개척하는 건 젊은이들이지만\n젊음이란 무기는 결코 만능이 아닐세\n젊기에 방황하고, 고뇌하는 날도 있겠지"
+  }, {
+    "$id" : 2,
+    "label" : "tlk715301_msg0002",
+    "talker" : "em1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 앞길을\n조금이라도 밝혀서\n도움이 되고자 하는 마음에……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk715301_msg0003",
+    "talker" : "em1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 사람의 과오와 공적 모두\n역사로 다루며 입으로 전하고 있다네\n그것이 『이야기꾼』의 역할이지"
+  }, {
+    "$id" : 4,
+    "label" : "tlk715301_msg0004",
+    "talker" : "em1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시간을 넘어서 사람을 잇는 일……\n난 그리 여기고 있다네"
+  }, {
+    "$id" : 5,
+    "label" : "tlk715301_msg0005",
+    "talker" : "em1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 내 쌍둥이 형제인\n코탄의 생각은 전혀 다르겠지만……"
+  } ]
+}

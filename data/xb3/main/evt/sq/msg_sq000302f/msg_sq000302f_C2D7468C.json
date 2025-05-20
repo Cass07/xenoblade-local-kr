@@ -1,0 +1,340 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq000302_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "휴~ 진짜 잘 먹었다\n이렇게 든든하게 먹은 것도 오랜만이네"
+  }, {
+    "$id" : 2,
+    "label" : "sq000302_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맛있게 잘 먹었어, 마나나"
+  }, {
+    "$id" : 3,
+    "label" : "sq000302_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야영장에서 이렇게 제대로 된\n요리를 할 수 있다니 대단한데?"
+  }, {
+    "$id" : 4,
+    "label" : "sq000302_msg0004",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엣헴이에요모"
+  }, {
+    "$id" : 5,
+    "label" : "sq000302_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나는 우리랑 같이 전장에 나가서\n병사들을 위해 요리를 해 줬어"
+  }, {
+    "$id" : 6,
+    "label" : "sq000302_msg0006",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전장에서도 이런 걸……"
+  }, {
+    "$id" : 7,
+    "label" : "sq000302_msg0007",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정신적으로 불안정해지기 쉬운 전선에서\n사기 유지를 위해 여러모로 도운 거야"
+  }, {
+    "$id" : 8,
+    "label" : "sq000302_msg0008",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아하~"
+  }, {
+    "$id" : 9,
+    "label" : "sq000302_msg0009",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나는 미오 씨나 다른 분들과 같이 있으면\n다양한 식재료를 발견할 수 있어서 즐거워요모"
+  }, {
+    "$id" : 10,
+    "label" : "sq000302_msg0010",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "새로운 요리나 식재료를 발견하면\n더욱 다양한 요리를 할 수 있죠모"
+  }, {
+    "$id" : 11,
+    "label" : "sq000302_msg0011",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데……\n리쿠는 노아 씨가 있는 팀에서\n무슨 일을 했었나요모?"
+  }, {
+    "$id" : 12,
+    "label" : "sq000302_msg0012",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠는 서포트 업무라면\n뭐든 다 했어모"
+  }, {
+    "$id" : 13,
+    "label" : "sq000302_msg0013",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "파워 어시스트의 정비나\n젬 크래프트가 특기지모"
+  }, {
+    "$id" : 14,
+    "label" : "sq000302_msg0014",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠도 대단하네"
+  }, {
+    "$id" : 15,
+    "label" : "sq000302_msg0015",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니에서 보급받을 수 없게 된 이상\n자력으로 강화할 수 있다면 편하겠군"
+  }, {
+    "$id" : 16,
+    "label" : "sq000302_msg0016",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠의 놀라운 솜씨, 보고 싶어모?"
+  }, {
+    "$id" : 17,
+    "label" : "sq000302_msg0017",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응! 보여 주라!"
+  }, {
+    "$id" : 18,
+    "label" : "sq000302_msg0018",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은……"
+  }, {
+    "$id" : 19,
+    "label" : "sq000302_msg0019",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "못 해모"
+  }, {
+    "$id" : 20,
+    "label" : "sq000302_msg0020",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐~?"
+  }, {
+    "$id" : 21,
+    "label" : "sq000302_msg0021",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기대치를 잔뜩 올려놓고\n그건 좀 아니지 않냐?"
+  }, {
+    "$id" : 22,
+    "label" : "sq000302_msg0022",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갑자기 하라고 해도 못 해모"
+  }, {
+    "$id" : 23,
+    "label" : "sq000302_msg0023",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젬을 만들려면\n거기에 필요한 소재를 모아야 한다고모"
+  }, {
+    "$id" : 24,
+    "label" : "sq000302_msg0024",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠"
+  }, {
+    "$id" : 25,
+    "label" : "sq000302_msg0025",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모?"
+  }, {
+    "$id" : 26,
+    "label" : "sq000302_msg0026",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금까지 장비는 리쿠한테\n떠맡기다시피 했지만"
+  }, {
+    "$id" : 27,
+    "label" : "sq000302_msg0027",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앞으로의 여정을 생각하면\n우리도 블레이드를 강화하는 방법을\n익혀 두는 게 좋을 것 같아"
+  }, {
+    "$id" : 28,
+    "label" : "sq000302_msg0028",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 찬성"
+  }, {
+    "$id" : 29,
+    "label" : "sq000302_msg0029",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모모모모\n그렇게 하루 이틀 배워서\n할 수 있는 게 아니야모"
+  }, {
+    "$id" : 30,
+    "label" : "sq000302_msg0030",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 가능하면 배워 보고 싶어"
+  }, {
+    "$id" : 31,
+    "label" : "sq000302_msg0031",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나, 나도!"
+  }, {
+    "$id" : 32,
+    "label" : "sq000302_msg0032",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 정말, 알았어모"
+  }, {
+    "$id" : 33,
+    "label" : "sq000302_msg0033",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "특별히 젬 크래프트 하는 방법을 알려 줄게모"
+  }, {
+    "$id" : 34,
+    "label" : "sq000302_msg0034",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 소재부터 모아야 해모"
+  }, {
+    "$id" : 35,
+    "label" : "sq000302_msg0035",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방금 리코샘 근처에서 앙그를 봤거든모?\n녀석한테 노려보는 눈알을 얻어 와모"
+  } ]
+}

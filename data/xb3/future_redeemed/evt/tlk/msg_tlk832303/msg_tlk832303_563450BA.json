@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk832303_msg0001",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "릭키 녀석을 보면\n어렸을 때의 네 모습과 많이 닮았단 말이지"
+  }, {
+    "$id" : 2,
+    "label" : "tlk832303_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런가……?\n구체적으로는 어떤 점이 닮았는데?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk832303_msg0003",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "강해지는 데 열심인 점 같은 거\n예전엔 매일 곤도 할아버지와 수행했었잖아"
+  }, {
+    "$id" : 4,
+    "label" : "tlk832303_msg0004",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아……\n그러던 때도 있었지"
+  }, {
+    "$id" : 5,
+    "label" : "tlk832303_msg0005",
+    "talker" : "mq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "릭키는 널 어지간히도 존경하나 보던데\n허술한 모습 보여 줘 가지고\n실망시키는 건 아니겠지~?"
+  }, {
+    "$id" : 6,
+    "label" : "tlk832303_msg0006",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시끄러워, 내가 알아서 한다고"
+  } ]
+}

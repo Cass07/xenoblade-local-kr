@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230503_msg0001",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "최근에 니나 님의 표정과 목소리가\n조금 부드러워지신 듯해요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230503_msg0002",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩌면 지금은 \"그 제안\"을\n해도 괜찮지 않을까요……?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230503_msg0003",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……? 무슨 소리야?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk230503_msg0004",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 아니에요……!\n니나 님, 요즘은 기분이\n좋아 보이시길래요!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk230503_msg0005",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스 여러분이\n좋은 자극이 되었나 봐요"
+  } ]
+}

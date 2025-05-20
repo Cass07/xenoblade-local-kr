@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq110304_msg0001",
+    "talker" : "sZ1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젠장! 어디냐?!\n어디로 도망쳤냔 말이다! 이 비겁한 자식!!"
+  }, {
+    "$id" : 2,
+    "label" : "nq110304_msg0002",
+    "talker" : "sZ1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제기랄! 이럴 순 없어!\n이럴 순 없다고오오!!"
+  }, {
+    "$id" : 3,
+    "label" : "nq110304_msg0003",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "허억…… 허억……"
+  }, {
+    "$id" : 4,
+    "label" : "nq110304_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맥시……"
+  }, {
+    "$id" : 5,
+    "label" : "nq110304_msg0005",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……내가 부하를 죽인 거나 마찬가지다\n전부 내 잘못된 판단 때문에 일어난 일이야"
+  }, {
+    "$id" : 6,
+    "label" : "nq110304_msg0006",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "녀석들한테 앙갚음해 봤자\n그 사실은 변하지 않는데도 말이지……"
+  }, {
+    "$id" : 7,
+    "label" : "nq110304_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "화가 날 수밖에 없지\n동료가 당했잖아"
+  }, {
+    "$id" : 8,
+    "label" : "nq110304_msg0008",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 9,
+    "label" : "nq110304_msg0009",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신의 부하는 우리가 환송할게\n그래도 되겠어?"
+  }, {
+    "$id" : 10,
+    "label" : "nq110304_msg0010",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……미안하지만 부탁한다"
+  } ]
+}

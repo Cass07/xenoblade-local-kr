@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk410804_msg0001",
+    "talker" : "me1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이것들이 말이야~\n너희끼리만 즐기고 오니까 좋지?!\n나도 집정관을 박살 내고 싶었는데!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk410804_msg0002",
+    "talker" : "me1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 어땠어?\n그 녀석이랑 사투를 벌이면서 재미 좀 봤지~?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk410804_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……딱히 할 말이 없다"
+  }, {
+    "$id" : 4,
+    "label" : "tlk410804_msg0004",
+    "talker" : "me1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말로 표현이 안 될 정도로 끝내줬구나?!\n크으~ 부러워 죽겠어 아주! 하하하하!"
+  } ]
+}

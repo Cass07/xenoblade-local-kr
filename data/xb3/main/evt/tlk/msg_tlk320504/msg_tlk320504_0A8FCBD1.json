@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk320504_msg0001",
+    "talker" : "Zd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 노폰들과 협력해서\n엄청난 걸 발명하고 있는데……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk320504_msg0002",
+    "talker" : "Zd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앞으로 5년만 있으면\n저 거대한 구체를 박살 낼 수 있대"
+  }, {
+    "$id" : 3,
+    "label" : "tlk320504_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 오래는 못 기다리겠는데……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk320504_msg0004",
+    "talker" : "Zd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 나도 그거 기다리다 죽고 싶지는 않아\n당장 도움이 못 되는 건 미안하지만……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk320504_msg0005",
+    "talker" : "Zd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 여기서 기다릴게……\n너희가 이길 거라고 믿어"
+  } ]
+}

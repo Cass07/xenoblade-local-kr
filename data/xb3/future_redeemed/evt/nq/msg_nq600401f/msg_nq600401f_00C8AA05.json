@@ -1,0 +1,160 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<A8CB0F01>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……막다른 길이네"
+  }, {
+    "$id" : 2,
+    "label" : "<B37AD410>",
+    "talker" : "kq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음~?\n무신 일이고?"
+  }, {
+    "$id" : 3,
+    "label" : "<B54954A1>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이상하네……\n지도를 봤을 땐 분명 이 앞인데"
+  }, {
+    "$id" : 4,
+    "label" : "<3C6A49F3>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 이 방향이 맞아\n절벽 밑에 길 같은 게 있어"
+  }, {
+    "$id" : 5,
+    "label" : "<D2210E4C>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 내려가는 수밖에 없겠군"
+  }, {
+    "$id" : 6,
+    "label" : "<5EBB36CA>",
+    "talker" : "jq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……네?\n내려가다니, 여기를요?!"
+  }, {
+    "$id" : 7,
+    "label" : "<CD6B753B>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안심해\n우리한테는 에테르 리프트가 있다고"
+  }, {
+    "$id" : 8,
+    "label" : "<B86CB907>",
+    "talker" : "jq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 하지만……\n제가 뭐라고 한들 밑으로 갈 거죠?"
+  }, {
+    "$id" : 9,
+    "label" : "<0D04B391>",
+    "talker" : "kq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐꼬, 하이젠\n무섭나? 설마 겁먹은 기가~?"
+  }, {
+    "$id" : 10,
+    "label" : "<834AEC30>",
+    "talker" : "jq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 정상이죠……\n사오미 씨는 아무렇지도 않나 보네요?"
+  }, {
+    "$id" : 11,
+    "label" : "<055D828E>",
+    "talker" : "kq1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 리가 있나!\n내도 지릴 것 같데이!!"
+  }, {
+    "$id" : 12,
+    "label" : "<3ADE3C2D>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "더러워요, 사오미"
+  }, {
+    "$id" : 13,
+    "label" : "<95C62BDD>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가기 싫으면 여기서 기다릴래?"
+  }, {
+    "$id" : 14,
+    "label" : "<73B7FE66>",
+    "talker" : "kq1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 언제 안 간다 캤나!\n보물을 위해서라믄 죽을 수도 있데이!"
+  }, {
+    "$id" : 15,
+    "label" : "<B80C175E>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근성이 있는 건지 없는 건지……"
+  } ]
+}

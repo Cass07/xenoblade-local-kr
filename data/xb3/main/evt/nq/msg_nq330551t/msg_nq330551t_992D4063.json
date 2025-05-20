@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330551_msg0001",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 사람 뫼비우스죠?\n적 아니에요……?"
+  }, {
+    "$id" : 2,
+    "label" : "nq330551_msg0101",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혹시 저 사람이 저희를 공격하면……\n제, 제가 모두를 지키겠어요!"
+  }, {
+    "$id" : 3,
+    "label" : "nq330551_msg0201",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무지막지하게 주문하고 있어요~~!\n배가 고파도 정도가 있죠~~!!"
+  }, {
+    "$id" : 4,
+    "label" : "nq330551_msg0202",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 엄청 맛있게 먹고 있잖아요!\n정말이지~~ 뭐냐고요~~~"
+  }, {
+    "$id" : 5,
+    "label" : "nq330551_msg0301",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "들어 주세요~\n캡틴은 진짜 너무하다니까요~!"
+  }, {
+    "$id" : 6,
+    "label" : "nq330551_msg0302",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제 이름을 아직도 못 외웠다니까요, 글쎄~!\n타로는 외웠으면서! 불공평해요~"
+  } ]
+}

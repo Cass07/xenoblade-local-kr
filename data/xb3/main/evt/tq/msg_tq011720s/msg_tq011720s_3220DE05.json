@@ -1,0 +1,286 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011720_msg0001",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 32897,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "밭에 있는 감자 줄기에\n나타난 증상으로 보아……"
+  }, {
+    "$id" : 2,
+    "label" : "tq011720_msg0002",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "깜자병에 걸린 건\n확실해 보여"
+  }, {
+    "$id" : 3,
+    "label" : "tq011720_msg0003",
+    "talker" : "6",
+    "talkattr" : 33192,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얼마 전까지만 해도 싱싱했는데……"
+  }, {
+    "$id" : 4,
+    "label" : "tq011720_msg0004",
+    "talker" : "2",
+    "talkattr" : 33192,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "살릴 방법은 없을까?"
+  }, {
+    "$id" : 5,
+    "label" : "tq011720_msg0005",
+    "talker" : "3",
+    "talkattr" : 33064,
+    "talkattr2" : 10502273,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "딱 하나 있어. 병에 걸린 줄기를\n전부 뽑아서 버리는 거야"
+  }, {
+    "$id" : 6,
+    "label" : "tq011720_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 감자에 전염되기 전에 말이지……\n유즈리하가 준 자료에도 그렇게 나와 있어"
+  }, {
+    "$id" : 7,
+    "label" : "tq011720_msg0007",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 12599425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 살린다고 볼 수 있나?"
+  }, {
+    "$id" : 8,
+    "label" : "tq011720_msg0008",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "색이 변한 잎만 떼는 건 어때?\n다른 부분은 남겨 두고……"
+  }, {
+    "$id" : 9,
+    "label" : "tq011720_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니…… 줄기째로 뽑아내자"
+  }, {
+    "$id" : 10,
+    "label" : "tq011720_msg0010",
+    "talker" : "6",
+    "talkattr" : 33104,
+    "talkattr2" : 276840577,
+    "talkattr3" : 1074,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 11,
+    "label" : "tq011720_msg0011",
+    "talker" : "5",
+    "talkattr" : 33104,
+    "talkattr2" : 8405121,
+    "talkattr3" : 1074,
+    "style" : 126,
+    "name" : "진심으로 하는 말이야?\n그렇게 많이 자랐는데?"
+  }, {
+    "$id" : 12,
+    "label" : "tq011720_msg0012",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16793729,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 전부 살리고 싶어\n하지만 악화되는 속도가 너무 빨라"
+  }, {
+    "$id" : 13,
+    "label" : "tq011720_msg0013",
+    "talker" : "2",
+    "talkattr" : 33192,
+    "talkattr2" : 8405121,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뽑으면 거기서 끝이잖아\n마지막까지 다른 방법을 생각해 보는 건……"
+  }, {
+    "$id" : 14,
+    "label" : "tq011720_msg0014",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……토론이 한창 뜨겁군"
+  }, {
+    "$id" : 15,
+    "label" : "tq011720_msg0015",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 44056705,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너…… 지금 여유 부릴 때야?\n콜로니 9의 미래가 걸린 일이라고!"
+  }, {
+    "$id" : 16,
+    "label" : "tq011720_msg0016",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16793729,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 맞다\n망설일 여지는 없지"
+  }, {
+    "$id" : 17,
+    "label" : "tq011720_msg0017",
+    "talker" : "I",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "병에 걸린 줄기를 뽑아내자\n전부 병드는 걸 막으려면 이 방법밖에 없다"
+  }, {
+    "$id" : 18,
+    "label" : "tq011720_msg0018",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "살리기 위해 솎아 내자…… 그런 건가"
+  }, {
+    "$id" : 19,
+    "label" : "tq011720_msg0019",
+    "talker" : "I",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 보기보다\n의지가 약해서……"
+  }, {
+    "$id" : 20,
+    "label" : "tq011720_msg0020",
+    "talker" : "I",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장이 되고 나서도 늘 망설이기만 하지\n이걸로 된 건가, 틀린 건 아닌가 하고"
+  }, {
+    "$id" : 21,
+    "label" : "tq011720_msg0021",
+    "talker" : "I",
+    "talkattr" : 33048,
+    "talkattr2" : 32897,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만…… 너희를 보고 틀리지 않는 것보다\n다시 일어서는 것이 중요하다는 걸 배웠어"
+  }, {
+    "$id" : 22,
+    "label" : "tq011720_msg0022",
+    "talker" : "I",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "배웠으면 활용해야지"
+  }, {
+    "$id" : 23,
+    "label" : "tq011720_msg0023",
+    "talker" : "5",
+    "talkattr" : 33176,
+    "talkattr2" : 44056706,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……너도 참 완고하다"
+  }, {
+    "$id" : 24,
+    "label" : "tq011720_msg0024",
+    "talker" : "I",
+    "talkattr" : 33152,
+    "talkattr2" : 16793729,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……칭찬으로 받아들이지"
+  }, {
+    "$id" : 25,
+    "label" : "tq011720_msg0025",
+    "talker" : "6",
+    "talkattr" : 33152,
+    "talkattr2" : 44056705,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……제온이 포기하지 않는다면\n나도 포기하지 않을 거야"
+  }, {
+    "$id" : 26,
+    "label" : "tq011720_msg0026",
+    "talker" : "6",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 할 수 있는 일을 확실히 해내겠어!"
+  }, {
+    "$id" : 27,
+    "label" : "tq011720_msg0027",
+    "talker" : "2",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 이러고 있어 봤자\n시간은 기다려 주지 않아"
+  }, {
+    "$id" : 28,
+    "label" : "tq011720_msg0028",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 상한 것들을 솎아 내자"
+  }, {
+    "$id" : 29,
+    "label" : "tq011720_msg0029",
+    "talker" : "I",
+    "talkattr" : 33168,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들…… 고맙다"
+  } ]
+}

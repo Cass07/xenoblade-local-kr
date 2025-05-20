@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq210802_msg0001",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들……\n아니, 군무장님까지 이곳에……?!"
+  }, {
+    "$id" : 2,
+    "label" : "nq210802_msg0002",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상관없다, 계속해"
+  }, {
+    "$id" : 3,
+    "label" : "nq210802_msg0003",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네!"
+  }, {
+    "$id" : 4,
+    "label" : "nq210802_msg0004",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "침입한 흔적을 확인했다는 보고를 받고\n현재 주변을 수색 중입니다"
+  }, {
+    "$id" : 5,
+    "label" : "nq210802_msg0005",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무래도 침입자는\n숲 방면으로 이동한 모양입니다"
+  }, {
+    "$id" : 6,
+    "label" : "nq210802_msg0006",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무것도 안 하고 도망치지는 않을 텐데……"
+  }, {
+    "$id" : 7,
+    "label" : "nq210802_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "발자국이 보여……\n여기부터는 우리가 갈게"
+  }, {
+    "$id" : 8,
+    "label" : "nq210802_msg0008",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어\n우리는 별동대와 합류하지\n다들 잘 부탁한다"
+  } ]
+}

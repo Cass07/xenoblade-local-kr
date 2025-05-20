@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk540401_msg0001",
+    "talker" : "oj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 전쟁에\n다가가지 않도록 조심했어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk540401_msg0002",
+    "talker" : "oj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다가가면 휘말리거나\n발각되기 마련이니까……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk540401_msg0003",
+    "talker" : "oj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이곳에 숨어서 나가지 않으면\n휘말릴 일도, 발각될 일도 없지……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk540401_msg0004",
+    "talker" : "oj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만……\n그것도 이제 곧 끝이네……"
+  } ]
+}

@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk112303_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 어때?\n콜로니 9은 살기 좋아?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk112303_msg0002",
+    "talker" : "rX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맨날 흙만 만져 대니\n모래투성이였던 콜로니 4랑\n다른 점을 도저히 모르겠어……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk112303_msg0003",
+    "talker" : "rX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 여기 부관이\n정기적으로 상태를 보러 오니까\n감시당하는 것 같아서 기분 더러워"
+  }, {
+    "$id" : 4,
+    "label" : "tlk112303_msg0004",
+    "talker" : "rX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쓸데없이 친절하게 굴던데 대체 뭐야?\n가끔 우릴 전부터 알고 있었다는 것처럼\n떠들어 대고 말이야……"
+  } ]
+}

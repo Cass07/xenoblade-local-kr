@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<0F18B743>",
+    "talker" : "fp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스모모는 오키니 마님의 하인이옵니다모"
+  }, {
+    "$id" : 2,
+    "label" : "<2582027F>",
+    "talker" : "fp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 카라반에서는\n동서고금의 온갖 식재료를\n팔고 있사옵니다모"
+  }, {
+    "$id" : 3,
+    "label" : "<A2F0E408>",
+    "talker" : "fp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "새로운 식재료도 계속해서 입하되오니\n종종 걸음 하셔서 구경해 주시면\n감사하겠사옵니다모"
+  }, {
+    "$id" : 4,
+    "label" : "<BE2DC11E>",
+    "talker" : "fp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘도 참으로 신선한 식재료를\n두루 갖추고 있사옵니다모"
+  }, {
+    "$id" : 5,
+    "label" : "<E603CB42>",
+    "talker" : "fp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "구매 감사하옵니다모"
+  }, {
+    "$id" : 6,
+    "label" : "<1DE8B059>",
+    "talker" : "fp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "새로운 식재료가 입하되었사옵니다모\n부디 구경해 주시길 바라겠사옵니다모"
+  }, {
+    "$id" : 7,
+    "label" : "<153B297F>",
+    "talker" : "fp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번에 들여온 물건으로 재고가 가득 찼기에\n한동안은 이 라인업으로 거래하겠사옵니다모"
+  }, {
+    "$id" : 8,
+    "label" : "<2E0A2747>",
+    "talker" : "fp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다시 방문해 주시기를\n고대하고 있겠사옵니다모"
+  } ]
+}

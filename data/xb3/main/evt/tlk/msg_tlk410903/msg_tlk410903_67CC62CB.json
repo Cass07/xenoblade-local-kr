@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk410903_msg0001",
+    "talker" : "ne1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아오~! 내 레브니스는 아직이냐!\n도대체 언제까지 정비하는 거야?!\n내가 출격을 못 하잖아!!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk410903_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 우리한테 윽박질이야……\n차라리 이참에 안 타고 싸우지 그래?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk410903_msg0003",
+    "talker" : "ne1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 레브니스로 유린하는 게 좋단 말이다!\n백병전은 무슨?! 난 절대 안 해!!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk410903_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그러셔……"
+  } ]
+}

@@ -1,0 +1,250 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330503_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 먼저 가지 말라고!"
+  }, {
+    "$id" : 2,
+    "label" : "nq330503_msg0002",
+    "talker" : "aW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하! 이쪽에서 맛있는 냄새가 나잖아"
+  }, {
+    "$id" : 3,
+    "label" : "nq330503_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "막무가내네, 정말……"
+  }, {
+    "$id" : 4,
+    "label" : "nq330503_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서, 이번 보물은 뭔데?"
+  }, {
+    "$id" : 5,
+    "label" : "nq330503_msg0005",
+    "talker" : "aW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무진장 커다란 조개다!"
+  }, {
+    "$id" : 6,
+    "label" : "nq330503_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "또 먹을 거냐?!"
+  }, {
+    "$id" : 7,
+    "label" : "nq330503_msg0007",
+    "talker" : "aW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아! 술에 쪄서 먹으면\n끝내주게 맛있거든!"
+  }, {
+    "$id" : 8,
+    "label" : "nq330503_msg0008",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "커다란 조개?\n본 적 없는데……"
+  }, {
+    "$id" : 9,
+    "label" : "nq330503_msg0009",
+    "talker" : "aW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "옛날엔 자주 보였어\n싸워 가며 먹을 정도였지……"
+  }, {
+    "$id" : 10,
+    "label" : "nq330503_msg0010",
+    "talker" : "aW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그땐 이 콜로니도 없었는데"
+  }, {
+    "$id" : 11,
+    "label" : "nq330503_msg0011",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말로?"
+  }, {
+    "$id" : 12,
+    "label" : "nq330503_msg0012",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마시로, 우선 식당으로 가자\n다른 녀석들이 뚫어져라 보고 있잖아……"
+  }, {
+    "$id" : 13,
+    "label" : "nq330503_msg0201",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캡틴은 얼마만큼 살았어?"
+  }, {
+    "$id" : 14,
+    "label" : "nq330503_msg0202",
+    "talker" : "aW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하, 잊어버렸지"
+  }, {
+    "$id" : 15,
+    "label" : "nq330503_msg0203",
+    "talker" : "aW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오래 살다 보면\n쓸데없는 일 따윈\n어찌 되든 상관없어지거든"
+  }, {
+    "$id" : 16,
+    "label" : "nq330503_msg0301",
+    "talker" : "aW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어, 형씨?\n사람은 두 종류밖에 없어……"
+  }, {
+    "$id" : 17,
+    "label" : "nq330503_msg0302",
+    "talker" : "aW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 먹냐, 아니냐다!\n고민될 땐 한 그릇 더 시키면 그만이야!"
+  }, {
+    "$id" : 18,
+    "label" : "nq330503_msg0401",
+    "talker" : "aW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇군, 꽝이었나"
+  }, {
+    "$id" : 19,
+    "label" : "nq330503_msg0402",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 힌트는 없어?\n근처에 뭔가 보였다든가……"
+  }, {
+    "$id" : 20,
+    "label" : "nq330503_msg0403",
+    "talker" : "aW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 모래 속에 있다는 것밖에\n기억이 안 나는데……"
+  }, {
+    "$id" : 21,
+    "label" : "nq330503_msg0404",
+    "talker" : "aW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응? 그러고 보니\n위에서 모래가 떨어졌던 거 같기도……"
+  }, {
+    "$id" : 22,
+    "label" : "nq330503_msg0405",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야…… 그 말은\n진짜 \"모래 속\"에 있다는 거 아냐?!"
+  }, {
+    "$id" : 23,
+    "label" : "nq330503_msg0406",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "라비아 사구도일지도 몰라\n가 보자!"
+  }, {
+    "$id" : 24,
+    "label" : "nq330503_msg0501",
+    "talker" : "aW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "설마 유사 속에서 잡았을 줄이야"
+  }, {
+    "$id" : 25,
+    "label" : "nq330503_msg0502",
+    "talker" : "aW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "라비아 사구도랬나?\n대왕 대합도 분명 거기 있겠군!"
+  } ]
+}

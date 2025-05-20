@@ -1,0 +1,439 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310903_msg0001",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……작전 설명은 이상이다\n그럼 출격 시간까지 대기하도록!"
+  }, {
+    "$id" : 2,
+    "label" : "nq310903_msg0002",
+    "talker" : "_m1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다~!"
+  }, {
+    "$id" : 3,
+    "label" : "nq310903_msg0003",
+    "talker" : "sk1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거기! 정신 안 차려?!\n이미 작전 중이라 생각하라고!"
+  }, {
+    "$id" : 4,
+    "label" : "nq310903_msg0004",
+    "talker" : "_m1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다!!"
+  }, {
+    "$id" : 5,
+    "label" : "nq310903_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "목소리 쩌렁쩌렁한 건 여전하네……"
+  }, {
+    "$id" : 6,
+    "label" : "nq310903_msg0006",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "줄리에타!"
+  }, {
+    "$id" : 7,
+    "label" : "nq310903_msg0007",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어머\n여러분은……!"
+  }, {
+    "$id" : 8,
+    "label" : "nq310903_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로스트 넘버즈에는 언제 지원한 거야?"
+  }, {
+    "$id" : 9,
+    "label" : "nq310903_msg0009",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분께서 로메로를 만나러 가신\n다음 날에 지원했어요"
+  }, {
+    "$id" : 10,
+    "label" : "nq310903_msg0010",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 어릴 적부터 모니카 씨처럼\n되는 게 꿈이었답니다"
+  }, {
+    "$id" : 11,
+    "label" : "nq310903_msg0011",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금까지 아버지께서 허락해 주질 않으셔서\n병사로 지원할 수 없었지만……"
+  }, {
+    "$id" : 12,
+    "label" : "nq310903_msg0012",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 곧 어른이 될 나이니\n스스로 생각하고 행동해야겠다고 생각했죠"
+  }, {
+    "$id" : 13,
+    "label" : "nq310903_msg0013",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "개릿 씨나 로메로는\n이 일을……"
+  }, {
+    "$id" : 14,
+    "label" : "nq310903_msg0014",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "비밀로 하고 있어요"
+  }, {
+    "$id" : 15,
+    "label" : "nq310903_msg0015",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번 작전을 끝내고 나서\n두 사람에게 알릴 생각이에요"
+  }, {
+    "$id" : 16,
+    "label" : "nq310903_msg0016",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "첫 출전인데도 그러한 마음가짐이라면\n걱정할 필요는 없겠군"
+  }, {
+    "$id" : 17,
+    "label" : "nq310903_msg0017",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 대장님!"
+  }, {
+    "$id" : 18,
+    "label" : "nq310903_msg0018",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "넌 내가 가르친 병사 중에서도\n가장 자질이 좋아. 기대하마"
+  }, {
+    "$id" : 19,
+    "label" : "nq310903_msg0019",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서?\n이번에도 도와주려고?"
+  }, {
+    "$id" : 20,
+    "label" : "nq310903_msg0020",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희야 보통내기가 아니니\n도와준다면 언제든 대환영이야!"
+  }, {
+    "$id" : 21,
+    "label" : "nq310903_msg0021",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭘 회수하러 가는데?"
+  }, {
+    "$id" : 22,
+    "label" : "nq310903_msg0022",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번에는 \"육성 모듈\"을 탈취할 거야"
+  }, {
+    "$id" : 23,
+    "label" : "nq310903_msg0023",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "줄리에타가 신병치고는 우수하지만\n실전 경험이 없거든"
+  }, {
+    "$id" : 24,
+    "label" : "nq310903_msg0024",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희가 곁에 있어 준다면\n더할 나위 없이 든든하지!"
+  }, {
+    "$id" : 25,
+    "label" : "nq310903_msg0025",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 작전에는\n반드시 교전이 일어날 거야"
+  }, {
+    "$id" : 26,
+    "label" : "nq310903_msg0026",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로메로는……\n제때 못 오겠는데"
+  }, {
+    "$id" : 27,
+    "label" : "nq310903_msg0027",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……줄리에타가 무모한 짓을 하지 않도록\n우리가 로메로 대신 동행하자"
+  }, {
+    "$id" : 28,
+    "label" : "nq310903_msg0028",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카키츠바타\n우리도 도울게"
+  }, {
+    "$id" : 29,
+    "label" : "nq310903_msg0029",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 줄 알았어!"
+  }, {
+    "$id" : 30,
+    "label" : "nq310903_msg0030",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "작전은 아주 단순해\n케이지를 실은 케베스군의\n수송형 레브니스를 협공할 거야"
+  }, {
+    "$id" : 31,
+    "label" : "nq310903_msg0031",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "습격 포인트는\n대검 아래쪽의 노 옴 습지대야"
+  }, {
+    "$id" : 32,
+    "label" : "nq310903_msg0032",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼……\n너희에게 전위 부대와 후위 부대\n어느 쪽을 맡길까?"
+  }, {
+    "$id" : 33,
+    "label" : "nq310903_msg0100",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "전위 부대와 후위 부대 어느 쪽을 맡을까?"
+  }, {
+    "$id" : 34,
+    "label" : "nq310903_msg0101",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "전위 부대"
+  }, {
+    "$id" : 35,
+    "label" : "nq310903_msg0102",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "후위 부대"
+  }, {
+    "$id" : 36,
+    "label" : "nq310903_msg0201",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전위 부대를 맡을게"
+  }, {
+    "$id" : 37,
+    "label" : "nq310903_msg0202",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "줄리에타랑 같이 싸우는 거면\n확실하게 협공할 수 있는 위치가 좋겠어"
+  }, {
+    "$id" : 38,
+    "label" : "nq310903_msg0301",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후위 부대를 맡을게"
+  }, {
+    "$id" : 39,
+    "label" : "nq310903_msg0302",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "줄리에타랑 같이 싸우는 거면\n후방에서 공격하는 편이 좋겠어"
+  }, {
+    "$id" : 40,
+    "label" : "nq310903_msg0401",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 그렇게 하자!!"
+  }, {
+    "$id" : 41,
+    "label" : "nq310903_msg0402",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방금 막 집합 지점을 보냈거든?"
+  }, {
+    "$id" : 42,
+    "label" : "nq310903_msg0403",
+    "talker" : "sk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 먼저 습격 포인트로 갈 테니까\n너희도 준비해서 늦지 않게 도착해 줘"
+  }, {
+    "$id" : 43,
+    "label" : "nq310903_msg0404",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어"
+  }, {
+    "$id" : 44,
+    "label" : "nq310903_msg0405",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이러는 편이 오히려 더 잘된 거 아냐?\n로메로에게는 너무 버거운 작전이잖아"
+  }, {
+    "$id" : 45,
+    "label" : "nq310903_msg0406",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 말도 일리는 있는데……"
+  }, {
+    "$id" : 46,
+    "label" : "nq310903_msg0407",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무튼 일단\n줄리에타를 지키면서\n이 작전을 성공시키자"
+  } ]
+}

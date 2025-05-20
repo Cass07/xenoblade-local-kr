@@ -1,0 +1,38 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<1D239955>",
+    "style" : 49,
+    "name" : "승강기를 기동해\n상하로 이동할 수 있습니다"
+  }, {
+    "$id" : 2,
+    "label" : "<72CF72D9>",
+    "style" : 49,
+    "name" : "사다리를 타고\n내려가거나 올라갈 수 있습니다"
+  }, {
+    "$id" : 3,
+    "label" : "<DF43206E>",
+    "style" : 49,
+    "name" : "에테르 입자의 위에 타고\n내려가거나 올라갈 수 있습니다"
+  }, {
+    "$id" : 4,
+    "label" : "<1D68FEF2>",
+    "style" : 49,
+    "name" : "수직으로 뻗은 에테르 입자 위를\n이동할 수 있게 됩니다"
+  }, {
+    "$id" : 5,
+    "label" : "<66955EAD>",
+    "style" : 49,
+    "name" : "유효 범위 안에 있는 미발견 필드 탐색물이\n미니맵에 [ML:icon icon=icon_unknown ] 아이콘으로 표시됩니다"
+  } ]
+}

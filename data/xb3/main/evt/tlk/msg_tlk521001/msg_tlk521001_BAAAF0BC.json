@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk521001_msg0001",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "구구 생각엔 생명의 불시계는\n있어도 그만 없어도 그만이라고 봐모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk521001_msg0002",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 다들 괴로워 보였어모\n동료들을 수도 없이 떠나보냈지모\n참 많은 생명이 빨려 들어갔어모……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk521001_msg0003",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 부수고 싶다는 마음은 이해가 가모"
+  }, {
+    "$id" : 4,
+    "label" : "tlk521001_msg0004",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말로 부술 수 있다곤\n생각지도 못했지만모……"
+  } ]
+}

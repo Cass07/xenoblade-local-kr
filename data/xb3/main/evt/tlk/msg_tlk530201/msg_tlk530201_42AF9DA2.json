@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk530201_msg0001",
+    "talker" : "oi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그대들은 카라반에서도 꽤 유명해모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk530201_msg0002",
+    "talker" : "oi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "듣기로는 콜로니에 있는 생명의 불시계를\n부수고 노후된 철거신을 작동시키며\n여기저기 돌아다닌다던데……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk530201_msg0003",
+    "talker" : "oi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거참, 사람은 직접 만나 봐야 알 수 있다는 게\n바로 이런 거였군모"
+  } ]
+}

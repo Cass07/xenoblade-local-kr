@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk021802_msg0001",
+    "talker" : "uV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이치카의 열쇠는\n당분간 내가 갖고 있으려고"
+  }, {
+    "$id" : 2,
+    "label" : "tlk021802_msg0002",
+    "talker" : "uV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 마음의 정리를 한 것 같으면\n꽃밭에 묻을지 말지\n다시 한번 이야기를 나눠 볼 생각이야"
+  }, {
+    "$id" : 3,
+    "label" : "tlk021802_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약 다들……\n싫다고 하면……?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk021802_msg0004",
+    "talker" : "uV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 내가 갖고 있어야지"
+  }, {
+    "$id" : 5,
+    "label" : "tlk021802_msg0005",
+    "talker" : "uV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 가장 중요한 건\n이치카의 좋은 면과 나쁜 면 모두를\n다 같이 보는 거라고 생각하니까……"
+  } ]
+}

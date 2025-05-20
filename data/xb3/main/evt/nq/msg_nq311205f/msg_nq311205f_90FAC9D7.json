@@ -1,0 +1,340 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq311205_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 해머……\n역시 잘못 본 게 아니었어"
+  }, {
+    "$id" : 2,
+    "label" : "nq311205_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐, 들리지?\n너한테 부탁할 일이 있는데……"
+  }, {
+    "$id" : 3,
+    "label" : "nq311205_msg0003",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……돌아가모\n이제 해머를 쓰지 않을 거니까모"
+  }, {
+    "$id" : 4,
+    "label" : "nq311205_msg0004",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수리해 봤자……\n아무 의미도 없었어모……"
+  }, {
+    "$id" : 5,
+    "label" : "nq311205_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 그게 무슨 소리야……?"
+  }, {
+    "$id" : 6,
+    "label" : "nq311205_msg0101",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 7,
+    "label" : "nq311205_msg0102",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……칫, 묵비권이냐"
+  }, {
+    "$id" : 8,
+    "label" : "nq311205_msg0103",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대화를 나눌 방법이 없을까……?"
+  }, {
+    "$id" : 9,
+    "label" : "nq311205_msg0201",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……스승님?"
+  }, {
+    "$id" : 10,
+    "label" : "nq311205_msg0202",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 11,
+    "label" : "nq311205_msg0203",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디……?"
+  }, {
+    "$id" : 12,
+    "label" : "nq311205_msg0204",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 스승님이구나!"
+  }, {
+    "$id" : 13,
+    "label" : "nq311205_msg0205",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 곳에서 뭐 하고 있어?\n못 나올 사정이라도 있는 거야?"
+  }, {
+    "$id" : 14,
+    "label" : "nq311205_msg0206",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디……\n토바리는 이제 지쳤어모"
+  }, {
+    "$id" : 15,
+    "label" : "nq311205_msg0207",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만들고 고쳐도\n아무런 의미도 없었어모\n부수고, 상처 입히고, 뺏고……"
+  }, {
+    "$id" : 16,
+    "label" : "nq311205_msg0208",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 아이오니온에 있는 자들은\n싸우는 것만 생각해모\n그러니까……"
+  }, {
+    "$id" : 17,
+    "label" : "nq311205_msg0209",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……나도 그렇게 보여?\n\"그때\"도 그런 식으로 생각했던 거야?"
+  }, {
+    "$id" : 18,
+    "label" : "nq311205_msg0210",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모……?"
+  }, {
+    "$id" : 19,
+    "label" : "nq311205_msg0211",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『자기 자신을 아군으로 만들어라\n결코 적으로 돌려서는 안 된다』……"
+  }, {
+    "$id" : 20,
+    "label" : "nq311205_msg0212",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스승님이 한 말이잖아\n이 건틀렛과 그 말이\n지금까지 나를 지켜 줬는걸"
+  }, {
+    "$id" : 21,
+    "label" : "nq311205_msg0213",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이번엔 내가 지켜 줄 차례야"
+  }, {
+    "$id" : 22,
+    "label" : "nq311205_msg0214",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……루디……"
+  }, {
+    "$id" : 23,
+    "label" : "nq311205_msg0215",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 여기에서 나가자!"
+  }, {
+    "$id" : 24,
+    "label" : "nq311205_msg0216",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스승님, 기운 없어 보여서\n걱정된단 말이야……"
+  }, {
+    "$id" : 25,
+    "label" : "nq311205_msg0217",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 26,
+    "label" : "nq311205_msg0218",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토바리가 만들어야 할 게 있어모?\n얼른 작업장으로 이동하자모"
+  }, {
+    "$id" : 27,
+    "label" : "nq311205_msg0219",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어?! 하지만 스승님이\n방금 지쳤다고……"
+  }, {
+    "$id" : 28,
+    "label" : "nq311205_msg0220",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제자가 싸우고 있는데\n손가락만 빨고 있을 순 없지모"
+  }, {
+    "$id" : 29,
+    "label" : "nq311205_msg0221",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이대로 가면 토바리는……\n나 자신을 적으로 돌리게 될 거야모"
+  }, {
+    "$id" : 30,
+    "label" : "nq311205_msg0222",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……! 스승님……!"
+  }, {
+    "$id" : 31,
+    "label" : "nq311205_msg0223",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 좌표에 있는 곳인데……\n혼자서 갈 수 있겠어?"
+  }, {
+    "$id" : 32,
+    "label" : "nq311205_msg0224",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맡겨만 둬모"
+  }, {
+    "$id" : 33,
+    "label" : "nq311205_msg0225",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토바리를 지키려면\n넌 한참 멀었어모"
+  }, {
+    "$id" : 34,
+    "label" : "nq311205_msg0226",
+    "talker" : "ta1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스승의 위업을……\n두 눈으로 똑똑히 보라고모!"
+  }, {
+    "$id" : 35,
+    "label" : "nq311205_msg0227",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응!\n또 잘 부탁할게, 스승님!!"
+  } ]
+}

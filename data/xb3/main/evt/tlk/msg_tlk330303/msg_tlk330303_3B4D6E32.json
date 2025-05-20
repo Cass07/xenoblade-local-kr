@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk330303_msg0001",
+    "talker" : "od1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오리진이 공격하는 광경을\n여기서 멍하니 보고 있었어모……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk330303_msg0002",
+    "talker" : "od1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너무 무서워서\n그 자리에 박혀 꼼짝도 못 했어모……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk330303_msg0003",
+    "talker" : "od1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 카라반 동료들이\n너무 걱정돼모……"
+  } ]
+}

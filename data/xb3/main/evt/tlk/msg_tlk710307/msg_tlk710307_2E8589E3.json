@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk710307_msg0001",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보스는 천부적인 디펜더셔\n뭐, 그 커다란 방패를 보면 말 안 해도 알겠지"
+  }, {
+    "$id" : 2,
+    "label" : "tlk710307_msg0002",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자기뿐만 아니라\n동료도 지킬 수 있다는 점이\n정말 굉장하시다니까"
+  }, {
+    "$id" : 3,
+    "label" : "tlk710307_msg0003",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 보스를 선두에 계속 세워 두지는 마\n큰 부상이라도 입고 쓰러지셨다간 큰일 난다고"
+  }, {
+    "$id" : 4,
+    "label" : "tlk710307_msg0004",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보스한테 의지할 땐 의지하고\n위험할 때는 있는 힘껏 도와드려\n상부상조 정신을 잊지 마"
+  } ]
+}

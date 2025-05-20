@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<E391F04A>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사진이 들어간 펜던트……\n이걸 가져가자"
+  }, {
+    "$id" : 2,
+    "label" : "<B287C14E>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오래된 펜던트로군\n조심스럽게 회수하자"
+  }, {
+    "$id" : 3,
+    "label" : "<03DB44F2>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 펜던트는……\n분명 시티의 누군가가 갖고 있던 거겠지"
+  }, {
+    "$id" : 4,
+    "label" : "<25669B31>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 펜던트는 안이 열리는구나\n여기 들어 있는 건 누구일까?"
+  }, {
+    "$id" : 5,
+    "label" : "<8D97697D>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……사진이 들어있는 펜던트인가\n신분도 확인할 수 있겠어"
+  }, {
+    "$id" : 6,
+    "label" : "<70DDB30E>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "펜던트 그리고 그 안에는\n가족으로 보이는 사진인가……"
+  }, {
+    "$id" : 7,
+    "label" : "<9253C91B>",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : ""
+  } ]
+}

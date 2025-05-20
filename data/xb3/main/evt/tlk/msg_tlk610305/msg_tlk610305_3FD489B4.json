@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk610305_msg0001",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직도 흥분이\n가라앉지 않는 느낌이에요……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk610305_msg0002",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희는 시티를 방문한 덕분에\n정말 진귀한 경험을 했군요"
+  }, {
+    "$id" : 3,
+    "label" : "tlk610305_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아\n지금까지는 상상도 못 했던 일이야"
+  }, {
+    "$id" : 4,
+    "label" : "tlk610305_msg0004",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앞으로 더더욱 교류를 활성화해서\n시티에 관해 알아 간다면……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk610305_msg0005",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명 지금보다 더……\n좋은 관계가 될 수 있을 거예요"
+  } ]
+}

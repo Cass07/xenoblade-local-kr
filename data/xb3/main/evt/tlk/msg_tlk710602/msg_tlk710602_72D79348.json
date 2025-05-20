@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk710602_msg0001",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어른들은 참 힘들겠어\n친구 한 명 사귀는 데도\n일일이 \"입장\"을 고려해야 한대"
+  }, {
+    "$id" : 2,
+    "label" : "tlk710602_msg0002",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 같은 애들은\n전혀 그런 걸 신경 안 쓰는데 말이지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk710602_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리라면……\n자주 같이 노는 네온이랑 산 말하는 거야?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk710602_msg0004",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 특히 산의 부모님께선\n교사에다 보수파라 엄격하셔\n나도 별로 좋게 보시진 않더라"
+  }, {
+    "$id" : 5,
+    "label" : "tlk710602_msg0005",
+    "talker" : "wk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 난 이겨 낼 거야\n친구를 소중히 여기지 못하는\n나약한 병사가 되긴 싫거든"
+  } ]
+}

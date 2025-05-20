@@ -1,0 +1,412 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012609_msg0001",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정보를 정리해 보자"
+  }, {
+    "$id" : 2,
+    "label" : "tq012609_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단…… 로자나는\n그레이와 모니카를 멀리 보내려고 했어"
+  }, {
+    "$id" : 3,
+    "label" : "tq012609_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 자기도\n밖으로 나가려고 했지"
+  }, {
+    "$id" : 4,
+    "label" : "tq012609_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 로자나 씨 본인이 밖으로 나가려 한 건\n뭔가 부자연스러웠어……"
+  }, {
+    "$id" : 5,
+    "label" : "tq012609_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알리려고 한 행동일지도 몰라"
+  }, {
+    "$id" : 6,
+    "label" : "tq012609_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알린다고?"
+  }, {
+    "$id" : 7,
+    "label" : "tq012609_msg0007",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 예를 들면\n\"나는 밖에 없다\"는 걸 알리는 거지"
+  }, {
+    "$id" : 8,
+    "label" : "tq012609_msg0008",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그레이에게 그걸 전하려고 했다는 거야?"
+  }, {
+    "$id" : 9,
+    "label" : "tq012609_msg0009",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부정할 수는 없어"
+  }, {
+    "$id" : 10,
+    "label" : "tq012609_msg0010",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그때는 이미 문제에 휘말린\n상황이었을지도 몰라"
+  }, {
+    "$id" : 11,
+    "label" : "tq012609_msg0011",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리를 습격한 강경파라는 집단과\n관계가 있는 걸까?"
+  }, {
+    "$id" : 12,
+    "label" : "tq012609_msg0012",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "녀석들은 뫼비우스 토벌을 위해서라면\n시티 사람들이 휘말려도 개의치 않을 거다"
+  }, {
+    "$id" : 13,
+    "label" : "tq012609_msg0013",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 그 부분도 의심하고 있어"
+  }, {
+    "$id" : 14,
+    "label" : "tq012609_msg0014",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "애초에 싸움도 못하는 로자나가\n어떻게 강경파를 제지할 수 있었을까?"
+  }, {
+    "$id" : 15,
+    "label" : "tq012609_msg0015",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게, 게다가 그 사람은……\n보수파와도 교류가 있었어"
+  }, {
+    "$id" : 16,
+    "label" : "tq012609_msg0016",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건…… 분명 그렇지만……"
+  }, {
+    "$id" : 17,
+    "label" : "tq012609_msg0017",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 파벌에 상관없이\n개인적인 친분을 가졌을 수도 있지"
+  }, {
+    "$id" : 18,
+    "label" : "tq012609_msg0018",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 그 사람의 행적은 다소 타산적이야\n그레이, 뭔가 짚이는 거 없어?"
+  }, {
+    "$id" : 19,
+    "label" : "tq012609_msg0019",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떻게 환심을 샀는지 모르겠군\n하지만 로자나는 목적을 위해서라면\n수단을 가리지 않는 녀석이다"
+  }, {
+    "$id" : 20,
+    "label" : "tq012609_msg0020",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석은 한다고 하면\n해내고야 마는 성격이니까"
+  }, {
+    "$id" : 21,
+    "label" : "tq012609_msg0021",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 파벌과의 교류가 수단이라면\n무언가 목적을 이루기 위해\n움직이고 있는 건 틀림없다"
+  }, {
+    "$id" : 22,
+    "label" : "tq012609_msg0022",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그러고 보니 우리를\n거기로 보낸 것도 로자나였지"
+  }, {
+    "$id" : 23,
+    "label" : "tq012609_msg0023",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "강경파와 짜고 우리를\n함정에 빠뜨리려고 한 걸까?"
+  }, {
+    "$id" : 24,
+    "label" : "tq012609_msg0024",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄. 아니라고\n단정할 수는 없군"
+  }, {
+    "$id" : 25,
+    "label" : "tq012609_msg0025",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약 그런 거라면……\n여유 부릴 때가 아니잖아"
+  }, {
+    "$id" : 26,
+    "label" : "tq012609_msg0026",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응…… 일단 강경파 사람들이\n있는 곳을 찾는 게 우선이야"
+  }, {
+    "$id" : 27,
+    "label" : "tq012609_msg0027",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇긴 한데……\n그 의사 선생님 말을 들어 보면\n한곳에 모여 있진 않을 거 같아"
+  }, {
+    "$id" : 28,
+    "label" : "tq012609_msg0028",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 잡듯이 샅샅이 뒤져 볼까?"
+  }, {
+    "$id" : 29,
+    "label" : "tq012609_msg0029",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "언제 사건을 일으킬지 모르니\n그건 현실적인 방안이 아니야"
+  }, {
+    "$id" : 30,
+    "label" : "tq012609_msg0030",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니 오토마톤도 신경 쓰여"
+  }, {
+    "$id" : 31,
+    "label" : "tq012609_msg0031",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 시티 안에서 그런 걸\n사용하기라도 하면……"
+  }, {
+    "$id" : 32,
+    "label" : "tq012609_msg0032",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 오토마톤을 먼저 부수도록 하지"
+  }, {
+    "$id" : 33,
+    "label" : "tq012609_msg0033",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근데 어디에 있는지 모르잖아"
+  }, {
+    "$id" : 34,
+    "label" : "tq012609_msg0034",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아까…… 의사 선생님이\n3곳 정도 알려 줬지?"
+  }, {
+    "$id" : 35,
+    "label" : "tq012609_msg0035",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 거점이 여러 곳\n있다는 점은 성가시군"
+  }, {
+    "$id" : 36,
+    "label" : "tq012609_msg0036",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그럼 어떡할까\n눈에 띄는 곳부터 가면 되나?"
+  }, {
+    "$id" : 37,
+    "label" : "tq012609_msg0037",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그럴 필요는 없어"
+  }, {
+    "$id" : 38,
+    "label" : "tq012609_msg0038",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 의사가 말한 건 어디까지나\n강경파 녀석들의 \"거점\"이다"
+  }, {
+    "$id" : 39,
+    "label" : "tq012609_msg0039",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 타루타루라는 노폰은\n오토마톤이 있는 장소를 시사했지"
+  }, {
+    "$id" : 40,
+    "label" : "tq012609_msg0040",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아하, 그곳부터\n간다고 하면……"
+  }, {
+    "$id" : 41,
+    "label" : "tq012609_msg0041",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 시티가 한눈에 보이는 곳과\n리베리 광장 주변은 제외되지"
+  }, {
+    "$id" : 42,
+    "label" : "tq012609_msg0042",
+    "talker" : "R",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 추측에 불과하지만\n오토마톤을 숨길 만한 곳이니\n아마 맞을 거다"
+  }, {
+    "$id" : 43,
+    "label" : "tq012609_msg0043",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 어서 가 보자!"
+  } ]
+}

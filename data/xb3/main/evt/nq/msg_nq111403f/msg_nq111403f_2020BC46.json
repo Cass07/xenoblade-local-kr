@@ -1,0 +1,178 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq111403_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아…… 이제 기다리기만 하면 돼"
+  }, {
+    "$id" : 2,
+    "label" : "nq111403_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 떨어져서 상황을 지켜보자"
+  }, {
+    "$id" : 3,
+    "label" : "nq111403_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 4,
+    "label" : "nq111403_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안 오네……"
+  }, {
+    "$id" : 5,
+    "label" : "nq111403_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 하마하마가\n잘못 본 걸까?"
+  }, {
+    "$id" : 6,
+    "label" : "nq111403_msg0006",
+    "talker" : "qZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 그렇다고 했잖아……\n추운데 이제 슬슬 돌아가는 게……"
+  }, {
+    "$id" : 7,
+    "label" : "nq111403_msg0007",
+    "talker" : "qZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 8,
+    "label" : "nq111403_msg0008",
+    "talker" : "rZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 9,
+    "label" : "nq111403_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……? 왜 그래?"
+  }, {
+    "$id" : 10,
+    "label" : "nq111403_msg0010",
+    "talker" : "qZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뒤…… 뒤에……\n너희 뒤…… 너희 뒤에!"
+  }, {
+    "$id" : 11,
+    "label" : "nq111403_msg0011",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뒤?"
+  }, {
+    "$id" : 12,
+    "label" : "nq111403_msg0012",
+    "talker" : "6",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "떠, 떴다~~~~~~!!"
+  }, {
+    "$id" : 13,
+    "label" : "nq111403_msg0013",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이야~ 정말로 있었네!\n게다가 뭐가 이렇게 커?!"
+  }, {
+    "$id" : 14,
+    "label" : "nq111403_msg0014",
+    "talker" : "rZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게 뭐라고 했슴까모~~!\n이걸로 하마하마가 거짓말하지\n않았다는 게 증명되었슴다모!!"
+  }, {
+    "$id" : 15,
+    "label" : "nq111403_msg0015",
+    "talker" : "qZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 지금 알 바냐!\n이대로라면 우리가 먹잇감이 되게 생겼는데!"
+  }, {
+    "$id" : 16,
+    "label" : "nq111403_msg0016",
+    "talker" : "rZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……핫?! 그 말이 맞슴다모!\n아주 큰일 났슴다모~~!"
+  }, {
+    "$id" : 17,
+    "label" : "nq111403_msg0017",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얘넨 매번 뭐 이렇게 손이 많이 가냐!"
+  } ]
+}

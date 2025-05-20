@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk711402_msg0001",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 로메로의 솔직하고\n올곧은 면을 정말 좋아해요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk711402_msg0002",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아버지께선 제가 여섯 씨족이라는 이유로\n그를 쉽게 받아들여 주질 않으시지만요……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk711402_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직도 결혼 허락을 못 받았구나"
+  }, {
+    "$id" : 4,
+    "label" : "tlk711402_msg0004",
+    "talker" : "Yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 뫼비우스와 전쟁 중만 아니었다면\n아버지께서도 이렇게까지 완고하게\n반대하진 않으셨을 텐데……"
+  } ]
+}

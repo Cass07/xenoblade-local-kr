@@ -1,0 +1,304 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330607_msg0001",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "히마링!"
+  }, {
+    "$id" : 2,
+    "label" : "nq330607_msg0002",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시로……!"
+  }, {
+    "$id" : 3,
+    "label" : "nq330607_msg0003",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기 있었구나……"
+  }, {
+    "$id" : 4,
+    "label" : "nq330607_msg0004",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응, 잠깐 생각 좀 하고 있었어"
+  }, {
+    "$id" : 5,
+    "label" : "nq330607_msg0005",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약 나한테 조금만 더 힘이 있었다면……"
+  }, {
+    "$id" : 6,
+    "label" : "nq330607_msg0006",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금도 \"다 함께\"\n물고기 파이를 먹을 수 있었을까?"
+  }, {
+    "$id" : 7,
+    "label" : "nq330607_msg0007",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "히마링……"
+  }, {
+    "$id" : 8,
+    "label" : "nq330607_msg0008",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 물론\n즐겁게 지내고 있어……"
+  }, {
+    "$id" : 9,
+    "label" : "nq330607_msg0009",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 아무리 즐거운 시간도 언젠간 끝나겠지\n하루하루가 너무나도 짧아"
+  }, {
+    "$id" : 10,
+    "label" : "nq330607_msg0010",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정작 허약한 나는……\n도대체 뭘 할 수 있을까……"
+  }, {
+    "$id" : 11,
+    "label" : "nq330607_msg0011",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그 마음 이해해\n나도 항상 고민했거든"
+  }, {
+    "$id" : 12,
+    "label" : "nq330607_msg0012",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시로도?"
+  }, {
+    "$id" : 13,
+    "label" : "nq330607_msg0013",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 지금도 마찬가지야\n하지만……"
+  }, {
+    "$id" : 14,
+    "label" : "nq330607_msg0014",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "결국 해 보는 수밖에 없어\n그렇지 않으면 보이는 게 없으니까……"
+  }, {
+    "$id" : 15,
+    "label" : "nq330607_msg0015",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "히마링도 하고 싶은 일을 했으면 좋겠어\n분명 누군가는 널 지켜볼 거야"
+  }, {
+    "$id" : 16,
+    "label" : "nq330607_msg0016",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 노력하는 히마링의 모습을 보며\n용기를 내겠지"
+  }, {
+    "$id" : 17,
+    "label" : "nq330607_msg0017",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는……\n시로처럼 되고 싶어"
+  }, {
+    "$id" : 18,
+    "label" : "nq330607_msg0018",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시로랑 있으면 마음이 설레고\n의욕이 샘솟아!"
+  }, {
+    "$id" : 19,
+    "label" : "nq330607_msg0019",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 굉장해……\n나도 그런……\n그런 사람이 되고 싶어"
+  }, {
+    "$id" : 20,
+    "label" : "nq330607_msg0020",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……넌 이미 그런 사람이야"
+  }, {
+    "$id" : 21,
+    "label" : "nq330607_msg0021",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "히마링의 말은\n날 빛나게 하거든……"
+  }, {
+    "$id" : 22,
+    "label" : "nq330607_msg0022",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빛이 난다고……?"
+  }, {
+    "$id" : 23,
+    "label" : "nq330607_msg0023",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "히마링한테는 분명\n힐러 소질이 있어"
+  }, {
+    "$id" : 24,
+    "label" : "nq330607_msg0024",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……괜찮다면 같이 해 보지 않을래?"
+  }, {
+    "$id" : 25,
+    "label" : "nq330607_msg0025",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저…… 정말 그래도 돼?!"
+  }, {
+    "$id" : 26,
+    "label" : "nq330607_msg0026",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혼자보다 둘이라면\n더 많은 것들을 해낼 수 있을 거야"
+  }, {
+    "$id" : 27,
+    "label" : "nq330607_msg0027",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나와 함께……\n콜로니 뮤를 가꿔 가자"
+  }, {
+    "$id" : 28,
+    "label" : "nq330607_msg0028",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응……!\n나도 열심히 도울게!!"
+  }, {
+    "$id" : 29,
+    "label" : "nq330607_msg0029",
+    "talker" : "zf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워, 시로!"
+  }, {
+    "$id" : 30,
+    "label" : "nq330607_msg0030",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오히려 내가 고맙지!\n히마리 덕분에 기운이 났는걸!"
+  }, {
+    "$id" : 31,
+    "label" : "nq330607_msg0031",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 렌게가 있는 곳으로 돌아가자\n다들 널 기다리고 있어"
+  } ]
+}

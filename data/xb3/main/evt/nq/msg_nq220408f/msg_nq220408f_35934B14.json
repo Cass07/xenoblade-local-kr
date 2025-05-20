@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq220408_msg0001",
+    "talker" : "ud1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음…… 제법이군……"
+  }, {
+    "$id" : 2,
+    "label" : "nq220408_msg0002",
+    "talker" : "td1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "폭력을 행사하다니\n인간은 어쩜 이렇게 야만적이람!"
+  }, {
+    "$id" : 3,
+    "label" : "nq220408_msg0003",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 잠깐만\n너희가 먼저 덤벼들었거든?"
+  }, {
+    "$id" : 4,
+    "label" : "nq220408_msg0004",
+    "talker" : "td1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희 얼굴 다 기억했어!\n다음에 만나면 가만두지 않을 거야!\n아버님께 말씀드릴 거라고!"
+  }, {
+    "$id" : 5,
+    "label" : "nq220408_msg0005",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 다투고 싶은 마음이 없습니다만……"
+  }, {
+    "$id" : 6,
+    "label" : "nq220408_msg0006",
+    "talker" : "td1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시끄러워!\n어서 가 버려!"
+  }, {
+    "$id" : 7,
+    "label" : "nq220408_msg0007",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다는데, 유즈리하\n동맹은 파기된 거야. 돌아가자"
+  }, {
+    "$id" : 8,
+    "label" : "nq220408_msg0008",
+    "talker" : "L",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 네…… 알겠습니다……"
+  }, {
+    "$id" : 9,
+    "label" : "nq220408_msg0009",
+    "talker" : "td1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바보, 멍청이!"
+  }, {
+    "$id" : 10,
+    "label" : "nq220408_msg0010",
+    "talker" : "5",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "결국 뭐였던 거야……?"
+  } ]
+}

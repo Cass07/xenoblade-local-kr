@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq340201_msg0001",
+    "talker" : "vj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시키에 대해 알고 싶다고?\n그거야 어려울 것 없는데……"
+  }, {
+    "$id" : 2,
+    "label" : "nq340201_msg0002",
+    "talker" : "vj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근데 딱히 얘기할 것도 없어\n일을 열심히 하는 사람이긴 하지"
+  }, {
+    "$id" : 3,
+    "label" : "nq340201_msg0003",
+    "talker" : "vj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "윗사람들의 신임도 두터워 보였고\n포상도 여러 번 받았던 것 같은데?"
+  }, {
+    "$id" : 4,
+    "label" : "nq340201_msg0101",
+    "talker" : "vj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시키는 일을 열심히 해서\n상부의 신임을 받았었어"
+  }, {
+    "$id" : 5,
+    "label" : "nq340201_msg0201",
+    "talker" : "vj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "식량이라면 병참국의 회수부가\n모으고 있을 거야"
+  } ]
+}

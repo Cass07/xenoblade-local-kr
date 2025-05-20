@@ -1,0 +1,151 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq020701_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아, 시도\n이소라가 의료에 관심이 있나 봐"
+  }, {
+    "$id" : 2,
+    "label" : "nq020701_msg0002",
+    "talker" : "J",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "호오…… 그건 처음 알았네요"
+  }, {
+    "$id" : 3,
+    "label" : "nq020701_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "열심히 독학하고 있지만\n꽤 고생하는 모양이더라고\n걔한테 가르쳐 줄 사람 누구 없어?"
+  }, {
+    "$id" : 4,
+    "label" : "nq020701_msg0004",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠…… 그런 거라면\n저에게 좋은 생각이 있습니다"
+  }, {
+    "$id" : 5,
+    "label" : "nq020701_msg0005",
+    "talker" : "2",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은 생각이라니?"
+  }, {
+    "$id" : 6,
+    "label" : "nq020701_msg0006",
+    "talker" : "J",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 외부에서 그쪽과 관련된 전문가……\n\"특별 교육관\"을 초빙하는 거죠"
+  }, {
+    "$id" : 7,
+    "label" : "nq020701_msg0007",
+    "talker" : "4",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "특별 교육관이라……\n그러고 보니 그런 제도도 있었죠"
+  }, {
+    "$id" : 8,
+    "label" : "nq020701_msg0008",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 사람의 도움을 받아 부족한 경험을\n채우는 건 결코 부끄러운 일이 아닙니다\n그렇게 뭔가를 배울 수 있으면 좋은 거죠"
+  }, {
+    "$id" : 9,
+    "label" : "nq020701_msg0009",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번 일 같은 경우엔\n군의인 사람을 부른다 이건가"
+  }, {
+    "$id" : 10,
+    "label" : "nq020701_msg0010",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리랑 아는 사이이고 군의라면……\n콜로니 4에 있는 올레샤 씨려나?"
+  }, {
+    "$id" : 11,
+    "label" : "nq020701_msg0011",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "올레샤라……\n거기 일만 해도 바빠 보이던데\n일단 말이라도 해 볼까?"
+  }, {
+    "$id" : 12,
+    "label" : "nq020701_msg0012",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 저도 동행하겠습니다\n콜로니 감마에 초빙하는 것이니\n제가 나서서 부탁을 드려야 맞겠죠"
+  }, {
+    "$id" : 13,
+    "label" : "nq020701_msg0013",
+    "talker" : "3",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 결정됐네!"
+  }, {
+    "$id" : 14,
+    "label" : "nq020701_msg0014",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 올레샤를 만나러 가자"
+  } ]
+}

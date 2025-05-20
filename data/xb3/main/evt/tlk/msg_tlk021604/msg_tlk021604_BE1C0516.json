@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk021604_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너 말이야……\n시도한테 유난히 공격적이던데\n그 녀석이랑 무슨 일 있었어?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk021604_msg0002",
+    "talker" : "mV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "딱히 별일 없었는데?\n음, 굳이 말하면……\n견해의 차이가 좀 있었을 뿐이지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk021604_msg0003",
+    "talker" : "mV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 그렇고 이상하네……\n그 군무장 나리는 나랑 동류라고 생각했는데\n내 예상이 틀렸나 봐"
+  }, {
+    "$id" : 4,
+    "label" : "tlk021604_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너랑 동류인 건\n여기 있는 녀석들만으로도 충분해"
+  } ]
+}

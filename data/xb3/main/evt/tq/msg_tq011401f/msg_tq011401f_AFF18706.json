@@ -1,0 +1,412 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011401_msg0001",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 2,
+    "label" : "tq011401_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니아, 왜 그래?"
+  }, {
+    "$id" : 3,
+    "label" : "tq011401_msg0003",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이 모르크나 대삼림이라고\n불리는 장소 말입니다만……"
+  }, {
+    "$id" : 4,
+    "label" : "tq011401_msg0004",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곳곳에 있는 유적 같은 잔해가 무엇인지\n여러분은 알고 있나요?"
+  }, {
+    "$id" : 5,
+    "label" : "tq011401_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 모르는데……"
+  }, {
+    "$id" : 6,
+    "label" : "tq011401_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금까지 한 번도 신경 쓴 적 없었는데\n듣고 보니 궁금하네. 뭘까?"
+  }, {
+    "$id" : 7,
+    "label" : "tq011401_msg0007",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아! 혹시 니아가\n살던 세계랑 관련된 거야?"
+  }, {
+    "$id" : 8,
+    "label" : "tq011401_msg0008",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 추측은 반은 맞고 반은 틀렸다……\n그렇게 말씀드리는 게 맞겠네요"
+  }, {
+    "$id" : 9,
+    "label" : "tq011401_msg0009",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그 말씀은?"
+  }, {
+    "$id" : 10,
+    "label" : "tq011401_msg0010",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇네요\n역시 여러분에게는 말씀드려야겠군요"
+  }, {
+    "$id" : 11,
+    "label" : "tq011401_msg0011",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아이오니온이 생겨난 경위는\n전에도 설명해 드렸습니다만……"
+  }, {
+    "$id" : 12,
+    "label" : "tq011401_msg0012",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금부터 말씀드릴 내용은 그보다도\n아득한 옛 시대까지 거슬러 올라갑니다"
+  }, {
+    "$id" : 13,
+    "label" : "tq011401_msg0013",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까…… 세계가 하나였던 때 말이야?"
+  }, {
+    "$id" : 14,
+    "label" : "tq011401_msg0014",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당시 인간들은 절대적인 힘을 얻어\n고도의 문명을 이루고 번영을 누리고 있었죠"
+  }, {
+    "$id" : 15,
+    "label" : "tq011401_msg0015",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 결국 그 힘을 둘러싸고\n인간들 사이에 분쟁이 일어났고……"
+  }, {
+    "$id" : 16,
+    "label" : "tq011401_msg0016",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "결국은 힘 자체가 재앙이 되어\n세계를 둘로 갈라놓았습니다"
+  }, {
+    "$id" : 17,
+    "label" : "tq011401_msg0017",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 우리 눈앞에 있는 건\n그런 인간들이 다다른 멸망의 말로이며……"
+  }, {
+    "$id" : 18,
+    "label" : "tq011401_msg0018",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 세계가 탄생한 역사의 원점……\n그것이 이 유적의 정체입니다"
+  }, {
+    "$id" : 19,
+    "label" : "tq011401_msg0019",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "파헤쳐 보면 결국 모든 원인은\n우리 인간들에게 있었다는 말씀이시군요……"
+  }, {
+    "$id" : 20,
+    "label" : "tq011401_msg0020",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……진짜 이해가 안 돼\n이 지경이 될 때까지 싸운 이유가 뭔데?"
+  }, {
+    "$id" : 21,
+    "label" : "tq011401_msg0021",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건…… 두려워했기 때문입니다"
+  }, {
+    "$id" : 22,
+    "label" : "tq011401_msg0022",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐를 두려워했는데?"
+  }, {
+    "$id" : 23,
+    "label" : "tq011401_msg0023",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……\"끝\"이 온다는 것을요"
+  }, {
+    "$id" : 24,
+    "label" : "tq011401_msg0024",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 25,
+    "label" : "tq011401_msg0025",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모든 생명, 그 어떤 문명이라도\n언젠가 반드시 끝을 맞이합니다"
+  }, {
+    "$id" : 26,
+    "label" : "tq011401_msg0026",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 세계의 일부인 이상\n이러한 이치에서 벗어날 수 없어요"
+  }, {
+    "$id" : 27,
+    "label" : "tq011401_msg0027",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 때문에 사람은 이치 밖에서 구원을 바라죠"
+  }, {
+    "$id" : 28,
+    "label" : "tq011401_msg0028",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 바로……\n\"영원\"이라는 겁니다"
+  }, {
+    "$id" : 29,
+    "label" : "tq011401_msg0029",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"영원\"……"
+  }, {
+    "$id" : 30,
+    "label" : "tq011401_msg0030",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 이 순간이 영원히 계속되면\n절대로 끝이 찾아오지 않겠죠"
+  }, {
+    "$id" : 31,
+    "label" : "tq011401_msg0031",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이 유적처럼\n무참히 사그라지는 일도 없어요"
+  }, {
+    "$id" : 32,
+    "label" : "tq011401_msg0032",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 33,
+    "label" : "tq011401_msg0033",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금까지 말씀드린 얘기에서\n여러분도 눈치챘을 겁니다"
+  }, {
+    "$id" : 34,
+    "label" : "tq011401_msg0034",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 이 세계가 영원이라는 뜻을 지닌\n\"아이오니온\"이라고 불리는지"
+  }, {
+    "$id" : 35,
+    "label" : "tq011401_msg0035",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제트 또한 영원을 바랐으니까……\n과거의 인간들처럼……"
+  }, {
+    "$id" : 36,
+    "label" : "tq011401_msg0036",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만…… 설령 그게 정말로\n인간의 바람이었다고 해도……"
+  }, {
+    "$id" : 37,
+    "label" : "tq011401_msg0037",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수많은 희생으로 이루어진\n이 세계가 옳다는 생각은…… 안 들어"
+  }, {
+    "$id" : 38,
+    "label" : "tq011401_msg0038",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……맞아"
+  }, {
+    "$id" : 39,
+    "label" : "tq011401_msg0039",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상처 입어도, 언젠가 사라지더라도\n우리는 앞으로 나아가야 해"
+  }, {
+    "$id" : 40,
+    "label" : "tq011401_msg0040",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 \"살아간다\"는 뜻이니까……\n그렇지, 니아?"
+  }, {
+    "$id" : 41,
+    "label" : "tq011401_msg0041",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……네, 물론이죠\n새삼스레 물어볼 필요도 없었네요"
+  }, {
+    "$id" : 42,
+    "label" : "tq011401_msg0042",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부디 그 마음을\n앞으로도 소중히 간직해 주세요"
+  }, {
+    "$id" : 43,
+    "label" : "tq011401_msg0043",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "옛 세계에서 저지른 과오를\n두 번 다시 되풀이하지 않도록……"
+  } ]
+}

@@ -1,0 +1,160 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq030701_msg0001",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 유물에 대해서는\n10호에게 보고받았습니다"
+  }, {
+    "$id" : 2,
+    "label" : "nq030701_msg0002",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "8호가 간절히 부탁해서\n이 회화의 복원을 도와줬다고……"
+  }, {
+    "$id" : 3,
+    "label" : "nq030701_msg0003",
+    "talker" : "6",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 그랬지\n조금 애먹었지만\n기뻐 보여서 뿌듯했어"
+  }, {
+    "$id" : 4,
+    "label" : "nq030701_msg0004",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……8호는 명령을 잘 따라서\n규율을 중시하는 6호에게도\n높은 평가를 받았습니다"
+  }, {
+    "$id" : 5,
+    "label" : "nq030701_msg0005",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇기 때문에 8호가 동료들 몰래\n유물을 은닉했다는 걸 알았을 때는……\n솔직히 말해서 놀랐습니다"
+  }, {
+    "$id" : 6,
+    "label" : "nq030701_msg0006",
+    "talker" : "6",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아하하…… 역시 세주가\n보기에도 뜻밖이었나 보네"
+  }, {
+    "$id" : 7,
+    "label" : "nq030701_msg0007",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어쩌면 그게 8호의\n진짜 모습이었을지도 모릅니다"
+  }, {
+    "$id" : 8,
+    "label" : "nq030701_msg0008",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "10호는 그걸 알고 있었기에\n8호의 바람을 이루어 주려고 했다\n……그렇게 추측해 볼 수도 있어 보입니다"
+  }, {
+    "$id" : 9,
+    "label" : "nq030701_msg0009",
+    "talker" : "6",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬던 거구나……\n호기심이 많은 부분도 그렇고\n사실은 둘이 닮았을지도 몰라"
+  }, {
+    "$id" : 10,
+    "label" : "nq030701_msg0010",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 그걸 알게 된 것만으로도……\n세주는 이 유물을 둘러싼 사건에\n의미가 있었다고 생각합니다"
+  }, {
+    "$id" : 11,
+    "label" : "nq030701_msg0101",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다음은 수용소 밖으로도\n한번 가 볼까?"
+  }, {
+    "$id" : 12,
+    "label" : "nq030701_msg0102",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세주는 문제없습니다\n어디로 가면 되겠습니까?"
+  }, {
+    "$id" : 13,
+    "label" : "nq030701_msg0103",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으음…… 지난번에\n다 같이 갔던 곳이 어디였더라……"
+  }, {
+    "$id" : 14,
+    "label" : "nq030701_msg0104",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모르크나 대삼림……\n그리고 카푸트코르누 봉우리였을 거야"
+  }, {
+    "$id" : 15,
+    "label" : "nq030701_msg0105",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다"
+  } ]
+}

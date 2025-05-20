@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk610602_msg0001",
+    "talker" : "uj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "감찰국에 배치된 그날부터\n난 수많은 콜로니를 감시해 왔어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk610602_msg0002",
+    "talker" : "uj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부정과 규율 위반을 엄격히 단속해서\n각 콜로니가 캐슬의 뜻을 따르게 하는 거였지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk610602_msg0003",
+    "talker" : "uj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보람찬 임무라고 생각해 왔어"
+  }, {
+    "$id" : 4,
+    "label" : "tlk610602_msg0004",
+    "talker" : "uj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 지금은 모든 부서의 기능이 멈추고\n난 내 능력을 써먹을 수도 없게 됐지"
+  }, {
+    "$id" : 5,
+    "label" : "tlk610602_msg0005",
+    "talker" : "uj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "살아가는 의미를\n다시 생각해 볼 필요가 있겠어"
+  } ]
+}

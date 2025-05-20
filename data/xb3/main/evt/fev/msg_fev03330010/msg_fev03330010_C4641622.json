@@ -1,0 +1,151 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<9D60E8B6>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이스루기 군무장은?"
+  }, {
+    "$id" : 2,
+    "label" : "<8ED3FFFB>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "금방 복귀하실 거라나 봐\n일단은 좀 쉬셨으면 좋겠지만……\n예전부터 저런 분이셨어"
+  }, {
+    "$id" : 3,
+    "label" : "<86E6E158>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……괜찮아 보여서 다행이다"
+  }, {
+    "$id" : 4,
+    "label" : "<8CFD9E28>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 병사들도 점점 정신 차리고 있어"
+  }, {
+    "$id" : 5,
+    "label" : "<20765E85>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래……"
+  }, {
+    "$id" : 6,
+    "label" : "<F32061C0>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상황을 설명해 줘야 할 거 같은데\n우리는 외부인이야"
+  }, {
+    "$id" : 7,
+    "label" : "<F1660C86>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "원래 여기 소속이었잖아?\n네가 모두에게 설명해 줘"
+  }, {
+    "$id" : 8,
+    "label" : "<0F0DF910>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거라면 걱정할 필요 없어"
+  }, {
+    "$id" : 9,
+    "label" : "<9CFFF188>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곧 이스루기 군무장님께서\n콜로니 병사들을 수습해 주실 거야"
+  }, {
+    "$id" : 10,
+    "label" : "<73C4CA92>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 돌아다녀도 괜찮겠네"
+  }, {
+    "$id" : 11,
+    "label" : "<E079D9D4>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확인하고 싶은 게 있는데"
+  }, {
+    "$id" : 12,
+    "label" : "<E36DD6AD>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타이온도 같이 가자"
+  }, {
+    "$id" : 13,
+    "label" : "<2A9F3E99>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……? 그래, 어디인데?"
+  }, {
+    "$id" : 14,
+    "label" : "<5F844947>",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 람다 밖이야"
+  } ]
+}

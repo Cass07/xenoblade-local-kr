@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520706_msg0001",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "배에서 미오 씨와 얘기하고 나서 생각했어요\n저랑 아야가 사이좋긴 한데……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520706_msg0002",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 아야가 뭐든 결정해 주니\n편해서 그런 게 아닐까 싶더라고요……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520706_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "같이 있으면 편해지는 거랑\n나 편하자고 붙어 있는 건 다른 거긴 하지"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520706_msg0004",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네…… 그래서 좀 더 얘기를\n나눠 보려고 해요. 아야뿐만 아니라\n다른 사람들과도 더 다양한 얘기를 할 거예요!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk520706_msg0005",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "친구가 괴로워하는데\n아무것도 모르고 있는 건 이제 싫어요……!"
+  } ]
+}

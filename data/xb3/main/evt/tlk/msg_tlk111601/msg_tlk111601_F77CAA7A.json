@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk111601_msg0001",
+    "talker" : "yV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하나부터 열까지 미안해\n도와줘서 고마워"
+  }, {
+    "$id" : 2,
+    "label" : "tlk111601_msg0002",
+    "talker" : "yV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 이렇게까지 친절하게 챙겨 주다니\n너흰 사람도 참 좋아"
+  }, {
+    "$id" : 3,
+    "label" : "tlk111601_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예전에 뭄바랑 닮은 사람한테\n마찬가지로 신세를 진 적이 있어서\n내버려 둘 수가 없었어"
+  }, {
+    "$id" : 4,
+    "label" : "tlk111601_msg0004",
+    "talker" : "yV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 그럼 그 녀석한테 감사해야겠는걸"
+  } ]
+}

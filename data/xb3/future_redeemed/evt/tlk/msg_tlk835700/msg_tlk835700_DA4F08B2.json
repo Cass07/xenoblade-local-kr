@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk835700_msg0001",
+    "talker" : "Yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "명각비에 이름을 새기는 일은\n시티 사람에게는 아주 명예로운 일이죠"
+  }, {
+    "$id" : 2,
+    "label" : "tlk835700_msg0002",
+    "talker" : "Yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 새겨지는 이름이 늘어날 때마다\n역시 마음이 아픈 것도 사실이네요……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk835700_msg0003",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캐시……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk835700_msg0004",
+    "talker" : "Yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……바라건대\n제 대에 여러분의 이름을\n새기게 되지는 않기를 빌게요"
+  }, {
+    "$id" : 5,
+    "label" : "tlk835700_msg0005",
+    "talker" : "Yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분은 시티의 희망……\n부디 죽지 말아 주세요"
+  } ]
+}

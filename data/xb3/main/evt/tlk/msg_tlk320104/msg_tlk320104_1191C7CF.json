@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk320104_msg0001",
+    "talker" : "_c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 내 기수가 가장 높은 만큼\n직접 사람들을 이끌려고 애를 썼어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk320104_msg0002",
+    "talker" : "_c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 실제로는 콜로니의 변화를 거부하고\n눈과 귀를 막은 채로 멈춰 서 있었지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk320104_msg0003",
+    "talker" : "_c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다고 자포자기하고 싶지는 않아\n나도 변화에 발을 맞춰야 해……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk320104_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타우 사람들 모두와 함께 가야지\n안 그래?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk320104_msg0005",
+    "talker" : "_c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗, 그렇네\n뒤처지지 않도록…… 전력을 다하겠어"
+  } ]
+}

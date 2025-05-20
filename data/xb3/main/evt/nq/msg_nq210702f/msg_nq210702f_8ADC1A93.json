@@ -1,0 +1,214 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq210702_msg0001",
+    "talker" : "wc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시토네한테 들었어\n너희도 도와주겠다고?\n이런 일에 끌어들여서 미안한걸"
+  }, {
+    "$id" : 2,
+    "label" : "nq210702_msg0002",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그냥 두고 볼 일은 아니잖아?"
+  }, {
+    "$id" : 3,
+    "label" : "nq210702_msg0003",
+    "talker" : "wc1",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 든든한걸"
+  }, {
+    "$id" : 4,
+    "label" : "nq210702_msg0004",
+    "talker" : "vc1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 다 모인 모양이니\n지금부터 브리핑을 진행하지"
+  }, {
+    "$id" : 5,
+    "label" : "nq210702_msg0005",
+    "talker" : "vc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자세한 내용은 각 부대의 대장에게\n통신으로 보낼 테니\n여기선 대략적인 배치만 파악해 줘"
+  }, {
+    "$id" : 6,
+    "label" : "nq210702_msg0006",
+    "talker" : "vc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "녀석들은 상당한 전력을 보유한 모양이야\n우수한 방위를 자랑하는 람다라 해도……\n지금은 온전하지 않은 상황이지"
+  }, {
+    "$id" : 7,
+    "label" : "nq210702_msg0007",
+    "talker" : "rc1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적의 정보는 확실한 거 맞아?"
+  }, {
+    "$id" : 8,
+    "label" : "nq210702_msg0008",
+    "talker" : "vc1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "코주가 적의 전력을 확인한 결과\n정찰 부대가 보낸 정보와 일치해"
+  }, {
+    "$id" : 9,
+    "label" : "nq210702_msg0009",
+    "talker" : "rc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……코주가 말한 거면\n틀림없겠지"
+  }, {
+    "$id" : 10,
+    "label" : "nq210702_msg0010",
+    "talker" : "vc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이미 우수한 방어 부대를 배치해 뒀어\n정보가 확실한지는 금방 알게 될 거야"
+  }, {
+    "$id" : 11,
+    "label" : "nq210702_msg0011",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 여유가 있어?\n거기까지 공격하러 쳐들어왔단 소리잖아?"
+  }, {
+    "$id" : 12,
+    "label" : "nq210702_msg0012",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방금 전략 담당인 이타리가\n방어라고 말했잖아……"
+  }, {
+    "$id" : 13,
+    "label" : "nq210702_msg0013",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그저 공격을 계속 받고만 있겠다는 뜻이 아니야"
+  }, {
+    "$id" : 14,
+    "label" : "nq210702_msg0014",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상황에 따라 적을 무찌르거나\n지체시키는 것 양쪽 모두 상정하고 한 말이지"
+  }, {
+    "$id" : 15,
+    "label" : "nq210702_msg0015",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 이런 전투에서는\n적대 세력의 정보를\n최대한 많이 아는 게 중요해"
+  }, {
+    "$id" : 16,
+    "label" : "nq210702_msg0016",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전력이 얼마나 되는지, 어떤 행동을 취할지\n파악하는 일이 중요한 건 사실이니까"
+  }, {
+    "$id" : 17,
+    "label" : "nq210702_msg0017",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지"
+  }, {
+    "$id" : 18,
+    "label" : "nq210702_msg0018",
+    "talker" : "vc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자율형 레브니스는……\n위쪽에 배치할 생각이야"
+  }, {
+    "$id" : 19,
+    "label" : "nq210702_msg0019",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 좋겠어\n병사만으로는 방위하기 어려운 곳에\n배치하는 게 전술의 기본이니까"
+  }, {
+    "$id" : 20,
+    "label" : "nq210702_msg0020",
+    "talker" : "vc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아\n그럼 그렇게 배치하고\n각 부대에 전투를 준비하라고 전하지"
+  }, {
+    "$id" : 21,
+    "label" : "nq210702_msg0021",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 우리도 가 볼까"
+  } ]
+}

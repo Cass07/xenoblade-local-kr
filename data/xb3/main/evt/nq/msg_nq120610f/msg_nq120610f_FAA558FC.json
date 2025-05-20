@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120610_msg0001",
+    "talker" : "fb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당장 윗선과 얘기해 볼게"
+  }, {
+    "$id" : 2,
+    "label" : "nq120610_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "교섭은 순조롭나 보네"
+  }, {
+    "$id" : 3,
+    "label" : "nq120610_msg0003",
+    "talker" : "sa1",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 너희였구나모"
+  }, {
+    "$id" : 4,
+    "label" : "nq120610_msg0004",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수고했어!\n같이 돌아가자!"
+  }, {
+    "$id" : 5,
+    "label" : "nq120610_msg0005",
+    "talker" : "sa1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "싫어모!!\n니나와 만날 때까지\n돌아가지 않을 거야모!!"
+  }, {
+    "$id" : 6,
+    "label" : "nq120610_msg0006",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빨리 와, 가자!!"
+  }, {
+    "$id" : 7,
+    "label" : "nq120610_msg0007",
+    "talker" : "sa1",
+    "talkattr" : 33136,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으앙~~~~\n니나아아아아!!"
+  }, {
+    "$id" : 8,
+    "label" : "nq120610_msg0101",
+    "talker" : "fb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 확인은 해 보겠지만\n별로 기대는 하지 마"
+  }, {
+    "$id" : 9,
+    "label" : "nq120610_msg0102",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "교섭이 잘되지는 않았나 보네"
+  }, {
+    "$id" : 10,
+    "label" : "nq120610_msg0103",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수고했어, 브레브레\n같이 돌아가자!"
+  }, {
+    "$id" : 11,
+    "label" : "nq120610_msg0104",
+    "talker" : "sa1",
+    "talkattr" : 33128,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직 돌아갈 수 없어모"
+  }, {
+    "$id" : 12,
+    "label" : "nq120610_msg0105",
+    "talker" : "sa1",
+    "talkattr" : 33128,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직……\n니나와 만나지 못했단 말이야모!!"
+  } ]
+}

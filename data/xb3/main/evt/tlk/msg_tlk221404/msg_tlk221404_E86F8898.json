@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk221404_msg0001",
+    "talker" : "ua1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스 캐슬을 해방했다며?!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk221404_msg0002",
+    "talker" : "ua1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇다는 건\n아그누스군과의 전투가 줄어든다는 거네?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk221404_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘된 일이지 뭐\n전쟁이 줄어드는 거니까!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk221404_msg0004",
+    "talker" : "ua1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전쟁이 사라지면\n우리 파일럿들의 역할도 사라져\n기왕이면 화려하게 생을 마감하고 싶었는데……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk221404_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 소리 하지 마……"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk714201_msg0001",
+    "talker" : "zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모니카가 시켜서 온 겐가?\n이 늙은이를 그만 좀 내버려 두게"
+  }, {
+    "$id" : 2,
+    "label" : "tlk714201_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 우린 그런 게 아니야"
+  }, {
+    "$id" : 3,
+    "label" : "tlk714201_msg0003",
+    "talker" : "zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 로스트 넘버즈가 아니라고?\n그럼 됐다마는……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk714201_msg0004",
+    "talker" : "zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티에 사는 주민 모두가\n로스트 넘버즈를 지지하는 건 아닐세"
+  }, {
+    "$id" : 5,
+    "label" : "tlk714201_msg0005",
+    "talker" : "zl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조용히 살고 싶어 하는 사람들도 있지……\n그러니 나는 상관하지 말고\n그냥 내버려 뒀으면 좋겠구먼"
+  } ]
+}

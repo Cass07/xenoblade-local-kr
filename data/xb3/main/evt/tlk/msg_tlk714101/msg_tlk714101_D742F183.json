@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk714101_msg0001",
+    "talker" : "yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "식별 장치는\n잘 작동하고 있나 보네"
+  }, {
+    "$id" : 2,
+    "label" : "tlk714101_msg0002",
+    "talker" : "yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아! 하지만 개조 중인 장치는\n간수한테 들키지 않도록 조심해"
+  }, {
+    "$id" : 3,
+    "label" : "tlk714101_msg0003",
+    "talker" : "yl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 너희는 인터링크 같이\n눈에 띄는 행동은 절대 하면 안 되는 거 알지?"
+  } ]
+}

@@ -1,0 +1,709 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120604_msg0001",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……다시 말해서모!\n다른 콜로니로 정비사를 파견해서"
+  }, {
+    "$id" : 2,
+    "label" : "nq120604_msg0002",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 대가로 에테르 실린더를\n받는 작전이야모"
+  }, {
+    "$id" : 3,
+    "label" : "nq120604_msg0003",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 선발대는 각 콜로니로 갈 거야모\n그리고 직접 교섭을 진행하게 될 거고모"
+  }, {
+    "$id" : 4,
+    "label" : "nq120604_msg0004",
+    "talker" : "qa1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모, 그걸 니토니토\n일행이 한다고모?"
+  }, {
+    "$id" : 5,
+    "label" : "nq120604_msg0005",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응!"
+  }, {
+    "$id" : 6,
+    "label" : "nq120604_msg0006",
+    "talker" : "ra1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 사람도 아닌 루디의 부탁이야모\n최선을 다해 교섭해 볼게모!"
+  }, {
+    "$id" : 7,
+    "label" : "nq120604_msg0007",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "와~ 고마워~!"
+  }, {
+    "$id" : 8,
+    "label" : "nq120604_msg0008",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모흠!"
+  }, {
+    "$id" : 9,
+    "label" : "nq120604_msg0009",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 지금부터 누가\n어떤 콜로니로 갈지 정하자모!"
+  }, {
+    "$id" : 10,
+    "label" : "nq120604_msg0010",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "먼저 니토니토야모"
+  }, {
+    "$id" : 11,
+    "label" : "nq120604_msg0100",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디로 파견할까모?"
+  }, {
+    "$id" : 12,
+    "label" : "nq120604_msg0101",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 타우"
+  }, {
+    "$id" : 13,
+    "label" : "nq120604_msg0102",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 9"
+  }, {
+    "$id" : 14,
+    "label" : "nq120604_msg0103",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 감마"
+  }, {
+    "$id" : 15,
+    "label" : "nq120604_msg0201",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼…… 콜로니 타우!"
+  }, {
+    "$id" : 16,
+    "label" : "nq120604_msg0202",
+    "talker" : "qa1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모! 최선을 다할게모~!"
+  }, {
+    "$id" : 17,
+    "label" : "nq120604_msg0301",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼…… 콜로니 9!"
+  }, {
+    "$id" : 18,
+    "label" : "nq120604_msg0401",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼…… 콜로니 감마!"
+  }, {
+    "$id" : 19,
+    "label" : "nq120604_msg0025",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다음은 우베베야모"
+  }, {
+    "$id" : 20,
+    "label" : "nq120604_msg0600",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디로 파견할까모?"
+  }, {
+    "$id" : 21,
+    "label" : "nq120604_msg0601",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 람다"
+  }, {
+    "$id" : 22,
+    "label" : "nq120604_msg0602",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 11"
+  }, {
+    "$id" : 23,
+    "label" : "nq120604_msg0701",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 람다가 좋겠어!"
+  }, {
+    "$id" : 24,
+    "label" : "nq120604_msg0702",
+    "talker" : "ra1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모, 알겠어모"
+  }, {
+    "$id" : 25,
+    "label" : "nq120604_msg0801",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 11이 좋겠어!"
+  }, {
+    "$id" : 26,
+    "label" : "nq120604_msg0901",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마지막으로 브레브레야모"
+  }, {
+    "$id" : 27,
+    "label" : "nq120604_msg1000",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디로 파견할까모?"
+  }, {
+    "$id" : 28,
+    "label" : "nq120604_msg1001",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티"
+  }, {
+    "$id" : 29,
+    "label" : "nq120604_msg1002",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 요타"
+  }, {
+    "$id" : 30,
+    "label" : "nq120604_msg1003",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 뮤"
+  }, {
+    "$id" : 31,
+    "label" : "nq120604_msg1101",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티로 결정!"
+  }, {
+    "$id" : 32,
+    "label" : "nq120604_msg1102",
+    "talker" : "5",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 잠깐만\n시티에도 파견한다고?"
+  }, {
+    "$id" : 33,
+    "label" : "nq120604_msg1103",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응!"
+  }, {
+    "$id" : 34,
+    "label" : "nq120604_msg1104",
+    "talker" : "sa1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 요타가 아니었어모?!"
+  }, {
+    "$id" : 35,
+    "label" : "nq120604_msg1105",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 부탁해!"
+  }, {
+    "$id" : 36,
+    "label" : "nq120604_msg1201",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 요타로 결정!"
+  }, {
+    "$id" : 37,
+    "label" : "nq120604_msg1202",
+    "talker" : "sa1",
+    "talkattr" : 33153,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모?!\n콜로니 요타모?!"
+  }, {
+    "$id" : 38,
+    "label" : "nq120604_msg1203",
+    "talker" : "sa1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어모!\n다녀올게모!!"
+  }, {
+    "$id" : 39,
+    "label" : "nq120604_msg1204",
+    "talker" : "H",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 뮤로 결정!"
+  }, {
+    "$id" : 40,
+    "label" : "nq120604_msg1401",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸로 됐어모\n그럼 뒷일을 잘 부탁할……"
+  }, {
+    "$id" : 41,
+    "label" : "nq120604_msg1402",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레파파는 어디가 좋으려나~"
+  }, {
+    "$id" : 42,
+    "label" : "nq120604_msg1403",
+    "talker" : "pa1",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모?!\n레파파도 가는 거야모?!"
+  }, {
+    "$id" : 43,
+    "label" : "nq120604_msg1404",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 안 갈 거야?"
+  }, {
+    "$id" : 44,
+    "label" : "nq120604_msg1405",
+    "talker" : "pa1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모……"
+  }, {
+    "$id" : 45,
+    "label" : "nq120604_msg1406",
+    "talker" : "pa1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 알았어모!!\n형님으로서 발 벗고 나설게모!!"
+  }, {
+    "$id" : 46,
+    "label" : "nq120604_msg1407",
+    "talker" : "pa1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레파파가 에테르 실린더를\n1000개든, 10000개든\n반드시 받아 오겠어모!!"
+  }, {
+    "$id" : 47,
+    "label" : "nq120604_msg1500",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디로 보내도 자신 있어모!"
+  }, {
+    "$id" : 48,
+    "label" : "nq120604_msg1501",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 4"
+  }, {
+    "$id" : 49,
+    "label" : "nq120604_msg1502",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스 캐슬"
+  }, {
+    "$id" : 50,
+    "label" : "nq120604_msg1503",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오비르부스 요새"
+  }, {
+    "$id" : 51,
+    "label" : "nq120604_msg1601",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 4를 부탁해!"
+  }, {
+    "$id" : 52,
+    "label" : "nq120604_msg1602",
+    "talker" : "pa1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맡겨만 줘모!"
+  }, {
+    "$id" : 53,
+    "label" : "nq120604_msg1701",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스 캐슬을 부탁해!"
+  }, {
+    "$id" : 54,
+    "label" : "nq120604_msg1801",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오비르부스 요새를 부탁해!"
+  }, {
+    "$id" : 55,
+    "label" : "nq120604_msg1901",
+    "talker" : "pa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모\n준비되는 대로\n각자 출발하자모!"
+  }, {
+    "$id" : 56,
+    "label" : "nq120604_msg1902",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래서\n보냈던 레파파 일행이\n아무도 돌아오지 않는다고?"
+  }, {
+    "$id" : 57,
+    "label" : "nq120604_msg1903",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "교섭에 실패했나?"
+  }, {
+    "$id" : 58,
+    "label" : "nq120604_msg1904",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정되니까 상황을 살펴보러 가야겠어"
+  }, {
+    "$id" : 59,
+    "label" : "nq120604_msg1905",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 콜로니의 레브니스도\n보고 싶던 참이었는데\n마침 잘됐지 뭐!"
+  }, {
+    "$id" : 60,
+    "label" : "nq120604_msg1906",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 가 보자고!"
+  }, {
+    "$id" : 61,
+    "label" : "nq120604_msg2000",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음……"
+  }, {
+    "$id" : 62,
+    "label" : "nq120604_msg2001",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "친구가 있는 콜로니……\n이제 없는 거 같아!"
+  }, {
+    "$id" : 63,
+    "label" : "nq120604_msg2002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래서\n이번에도 저 녀석들만\n가게 할 거야?"
+  }, {
+    "$id" : 64,
+    "label" : "nq120604_msg2003",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 가자!!"
+  }, {
+    "$id" : 65,
+    "label" : "nq120604_msg2004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "넌 그냥 다른 콜로니의\n레브니스를 보고 싶어서 그러는 거잖아……"
+  }, {
+    "$id" : 66,
+    "label" : "nq120604_msg3001",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아!"
+  }, {
+    "$id" : 67,
+    "label" : "nq120604_msg3002",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐 어디 좀 다녀올게!"
+  }, {
+    "$id" : 68,
+    "label" : "nq120604_msg3003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디 가려고?"
+  }, {
+    "$id" : 69,
+    "label" : "nq120604_msg3004",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 콜로니랑 친구 하러 가려고"
+  }, {
+    "$id" : 70,
+    "label" : "nq120604_msg3005",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇군요모~!\n루디 씨 똑똑하네요모"
+  }, {
+    "$id" : 71,
+    "label" : "nq120604_msg3006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디에 있는지\n전쟁을 계속하고 있는지\n그런 건 생각도 안 하겠지……"
+  }, {
+    "$id" : 72,
+    "label" : "nq120604_msg3007",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 생명의 불시계에서……"
+  }, {
+    "$id" : 73,
+    "label" : "nq120604_msg3008",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뫼비우스에게서\n해방되지 않은 콜로니는\n아직 남아 있을 거야"
+  }, {
+    "$id" : 74,
+    "label" : "nq120604_msg3009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "녀석들에게 맞서기 위해서라도\n동료가 됐으면 좋겠다"
+  }, {
+    "$id" : 75,
+    "label" : "nq120604_msg3010",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니를 해방하자는 제안 자체는 찬성이야"
+  }, {
+    "$id" : 76,
+    "label" : "nq120604_msg3011",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 루디와 사람들을\n돕는 일이기도 하고 말이지"
+  } ]
+}

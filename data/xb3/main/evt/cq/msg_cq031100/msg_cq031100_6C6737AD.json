@@ -1,0 +1,916 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "cq031100_0010",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "너희가 올 줄 알았다면"
+  }, {
+    "$id" : 2,
+    "label" : "cq031100_0015",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "좀 더 다른 방식으로 써먹었을 텐데에"
+  }, {
+    "$id" : 3,
+    "label" : "cq031100_0020",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "너는……"
+  }, {
+    "$id" : 4,
+    "label" : "cq031100_0030",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "엑스……"
+  }, {
+    "$id" : 5,
+    "label" : "cq031100_0040",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "후훗, 난 엑스야"
+  }, {
+    "$id" : 6,
+    "label" : "cq031100_0050",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "후후, 캐슬에서 본 게 마지막이었나?"
+  }, {
+    "$id" : 7,
+    "label" : "cq031100_0060",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이 녀석은……"
+  }, {
+    "$id" : 8,
+    "label" : "cq031100_0070",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭐, 내 하인 비슷한 거니까\n신경 쓸 필요 없어"
+  }, {
+    "$id" : 9,
+    "label" : "cq031100_0080",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그건 그렇고 운이 좋구나?"
+  }, {
+    "$id" : 10,
+    "label" : "cq031100_0085",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우리가 단죄할 때 딱 맞춰 오다니"
+  }, {
+    "$id" : 11,
+    "label" : "cq031100_0090",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "단죄한다고?"
+  }, {
+    "$id" : 12,
+    "label" : "cq031100_0100",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "어?\n혹시 알아챈 거야?"
+  }, {
+    "$id" : 13,
+    "label" : "cq031100_0110",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭘 말이지?"
+  }, {
+    "$id" : 14,
+    "label" : "cq031100_0120",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭐야, 아니었어~?"
+  }, {
+    "$id" : 15,
+    "label" : "cq031100_0125",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "살짝 실망인걸"
+  }, {
+    "$id" : 16,
+    "label" : "cq031100_0130",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "콜로니 랭크에 대해\n알아챈 게 있어서 온 줄 알았지"
+  }, {
+    "$id" : 17,
+    "label" : "cq031100_0140",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "랭크라고?"
+  }, {
+    "$id" : 18,
+    "label" : "cq031100_0150",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래, 랭크"
+  }, {
+    "$id" : 19,
+    "label" : "cq031100_0155",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "너희도 필사적으로 올렸잖아?"
+  }, {
+    "$id" : 20,
+    "label" : "cq031100_0160",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "편해지고 싶어서"
+  }, {
+    "$id" : 21,
+    "label" : "cq031100_0165",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "적의 목숨을 뺏으면서 말이야"
+  }, {
+    "$id" : 22,
+    "label" : "cq031100_0170",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래서 뭔 말을 하려는 건데?"
+  }, {
+    "$id" : 23,
+    "label" : "cq031100_0180",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "참 나……"
+  }, {
+    "$id" : 24,
+    "label" : "cq031100_0185",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "너 바보니?"
+  }, {
+    "$id" : 25,
+    "label" : "cq031100_0190",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "지금 이 상황을 보고도 모르겠어?"
+  }, {
+    "$id" : 26,
+    "label" : "cq031100_0195",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "조금만 생각해 보면 알 거 아냐?"
+  }, {
+    "$id" : 27,
+    "label" : "cq031100_0200",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭐라고!"
+  }, {
+    "$id" : 28,
+    "label" : "cq031100_0210",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]후……"
+  }, {
+    "$id" : 29,
+    "label" : "cq031100_0215",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "바보도 이해하기 쉽게 알려 줄게"
+  }, {
+    "$id" : 30,
+    "label" : "cq031100_0220",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "잘 들어, 콜로니 랭크를 만든 건 우리……"
+  }, {
+    "$id" : 31,
+    "label" : "cq031100_0225",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뫼비우스라고"
+  }, {
+    "$id" : 32,
+    "label" : "cq031100_0230",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……?!"
+  }, {
+    "$id" : 33,
+    "label" : "cq031100_0240",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……?!"
+  }, {
+    "$id" : 34,
+    "label" : "cq031100_0320",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "더트부터 시작해서~ 그다음이 브론즈"
+  }, {
+    "$id" : 35,
+    "label" : "cq031100_0325",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "브론즈 다음이 코퍼"
+  }, {
+    "$id" : 36,
+    "label" : "cq031100_0330",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "코퍼 다음은 아이언"
+  }, {
+    "$id" : 37,
+    "label" : "cq031100_0333",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아이언 다음엔 스틸"
+  }, {
+    "$id" : 38,
+    "label" : "cq031100_0336",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "스틸 다음이 실버지"
+  }, {
+    "$id" : 39,
+    "label" : "cq031100_0340",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그리고 대망의……"
+  }, {
+    "$id" : 40,
+    "label" : "cq031100_0345",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "실버 다음이 골드야"
+  }, {
+    "$id" : 41,
+    "label" : "cq031100_0350",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "너희가 혈안이 돼서"
+  }, {
+    "$id" : 42,
+    "label" : "cq031100_0355",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "매일매일 서로 죽이고 그랬잖아~?"
+  }, {
+    "$id" : 43,
+    "label" : "cq031100_0360",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]큭……!"
+  }, {
+    "$id" : 44,
+    "label" : "cq031100_0370",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "말해!"
+  }, {
+    "$id" : 45,
+    "label" : "cq031100_0375",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "랭크를 만든 이유가 뭐지?!"
+  }, {
+    "$id" : 46,
+    "label" : "cq031100_0380",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그야 뭐어……"
+  }, {
+    "$id" : 47,
+    "label" : "cq031100_0385",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그렇게 해야 자극이 될 거 아냐?"
+  }, {
+    "$id" : 48,
+    "label" : "cq031100_0390",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭐?"
+  }, {
+    "$id" : 49,
+    "label" : "cq031100_0400",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "인간한텐 항상 목표가 있어야 하잖아"
+  }, {
+    "$id" : 50,
+    "label" : "cq031100_0410",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "블레이드를 강화하고 싶다든가~"
+  }, {
+    "$id" : 51,
+    "label" : "cq031100_0415",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "맛있는 밥을 먹고 싶다든가~"
+  }, {
+    "$id" : 52,
+    "label" : "cq031100_0420",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……더 오래 살고 싶다든가?"
+  }, {
+    "$id" : 53,
+    "label" : "cq031100_0430",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이 자식……!"
+  }, {
+    "$id" : 54,
+    "label" : "cq031100_0440",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우리는 동기를 부여해 준 거야"
+  }, {
+    "$id" : 55,
+    "label" : "cq031100_0450",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "생명은 올라가려고 애쓸 때 가장 빛나거든"
+  }, {
+    "$id" : 56,
+    "label" : "cq031100_0455",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "진짜 최고라니까"
+  }, {
+    "$id" : 57,
+    "label" : "cq031100_0460",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "하지만 다 올라가고 나면"
+  }, {
+    "$id" : 58,
+    "label" : "cq031100_0462",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "남은 건 내려가는 것뿐이지~"
+  }, {
+    "$id" : 59,
+    "label" : "cq031100_0470",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그러면 이제 쓸모가 없잖아?"
+  }, {
+    "$id" : 60,
+    "label" : "cq031100_0480",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그러니까 거둬들이는 거야"
+  }, {
+    "$id" : 61,
+    "label" : "cq031100_0483",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "끝까지 저항하는"
+  }, {
+    "$id" : 62,
+    "label" : "cq031100_0486",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "마지막 생명의 빛을"
+  }, {
+    "$id" : 63,
+    "label" : "cq031100_0490",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "즉 골드 랭크는\n미끼였다는 건가?"
+  }, {
+    "$id" : 64,
+    "label" : "cq031100_0500",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아까 말했잖아\n자극이라고"
+  }, {
+    "$id" : 65,
+    "label" : "cq031100_0510",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……지금까지 속인 거네"
+  }, {
+    "$id" : 66,
+    "label" : "cq031100_0515",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그런 줄도 모른 채 우리는 계속 싸우고……"
+  }, {
+    "$id" : 67,
+    "label" : "cq031100_0520",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭐? 무슨 소리야?"
+  }, {
+    "$id" : 68,
+    "label" : "cq031100_0525",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "앞다퉈 싸운 건 너희잖아?"
+  }, {
+    "$id" : 69,
+    "label" : "cq031100_0530",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아무도 강요한 적 없는데~"
+  }, {
+    "$id" : 70,
+    "label" : "cq031100_0535",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "서로 좋다고 죽일 땐 언제고 왜 이러실까?"
+  }, {
+    "$id" : 71,
+    "label" : "cq031100_0540",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "누가 좋아했다는 거야!"
+  }, {
+    "$id" : 72,
+    "label" : "cq031100_0550",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그딴 걸 누가 좋아해!"
+  }, {
+    "$id" : 73,
+    "label" : "cq031100_0555",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "늘 무서웠지만 그래도 싸울 수밖에 없었어"
+  }, {
+    "$id" : 74,
+    "label" : "cq031100_0560",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "골드까지 올라가면\n싸우지 않아도 되는 줄 알았으니까……"
+  }, {
+    "$id" : 75,
+    "label" : "cq031100_0565",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그런데……"
+  }, {
+    "$id" : 76,
+    "label" : "cq031100_0570",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그걸 너희는!"
+  }, {
+    "$id" : 77,
+    "label" : "cq031100_0580",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "멍청해서 몰랐던 거잖아?"
+  }, {
+    "$id" : 78,
+    "label" : "cq031100_0590",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "사알짝 생각해 보면 알 수 있는데"
+  }, {
+    "$id" : 79,
+    "label" : "cq031100_0595",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "생각하기를 관둔 건 너희지!"
+  }, {
+    "$id" : 80,
+    "label" : "cq031100_0600",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "웃기지 마"
+  }, {
+    "$id" : 81,
+    "label" : "cq031100_0610",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "생각할 틈조차 주지 않았던 너네가\n그딴 말을 할 자격은 없어!"
+  }, {
+    "$id" : 82,
+    "label" : "cq031100_0620",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그러니까 멍청하다는 거야"
+  }, {
+    "$id" : 83,
+    "label" : "cq031100_0630",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "주는 대로 받을 줄만 알면서"
+  }, {
+    "$id" : 84,
+    "label" : "cq031100_0635",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그걸로 따지면 어쩌자는 건데?"
+  }, {
+    "$id" : 85,
+    "label" : "cq031100_0640",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이 자식…… 뚫린 입이라고……!"
+  }, {
+    "$id" : 86,
+    "label" : "cq031100_0645",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우리 목숨을 뭐라고 생각하는 거야!!"
+  }, {
+    "$id" : 87,
+    "label" : "cq031100_0650",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "유니"
+  }, {
+    "$id" : 88,
+    "label" : "cq031100_0655",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이 녀석, 일부러 짜증 나게 말하는 것뿐이야모"
+  }, {
+    "$id" : 89,
+    "label" : "cq031100_0660",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "침착해모"
+  }, {
+    "$id" : 90,
+    "label" : "cq031100_0670",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "리쿠……"
+  }, {
+    "$id" : 91,
+    "label" : "cq031100_0680",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이 녀석은 유니 같은 우로보로스가 무서운 거야모"
+  }, {
+    "$id" : 92,
+    "label" : "cq031100_0690",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그러니까 이성을 잃게 만든 뒤에\n해치우려 하는 거지모"
+  }, {
+    "$id" : 93,
+    "label" : "cq031100_0700",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우리가 무섭다고……?"
+  }, {
+    "$id" : 94,
+    "label" : "cq031100_0710",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "너는 조금 똑똑하구나?"
+  }, {
+    "$id" : 95,
+    "label" : "cq031100_0720",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "노폰은 \"중립적\"이라고 들었는데\n아닌가 보네"
+  }, {
+    "$id" : 96,
+    "label" : "cq031100_0730",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭐, 됐어"
+  }, {
+    "$id" : 97,
+    "label" : "cq031100_0740",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "예정이 조금 틀어졌지만"
+  }, {
+    "$id" : 98,
+    "label" : "cq031100_0745",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "하는 김에 같이 거둬들여 줄게"
+  }, {
+    "$id" : 99,
+    "label" : "cq031100_0750",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그 생명, 남김없이 전부!"
+  } ]
+}

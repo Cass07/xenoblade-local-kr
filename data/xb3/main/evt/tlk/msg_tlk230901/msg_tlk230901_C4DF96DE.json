@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230901_msg0001",
+    "talker" : "cb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미오 씨는 다리가 참……\n아니, 달리기가 빠르시네요오\n특기신가요?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230901_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……?\n어, 그렇지……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230901_msg0003",
+    "talker" : "cb1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면!\n평상시와 변이체가 된 후로 나눠서\n다리에 생기는 변화를 계측……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk230901_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어딜 감히!\n그렇게 눈 번뜩이면서\n미오를 쳐다봤자 소용없거든!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk230901_msg0005",
+    "talker" : "cb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "피이~ 피이~!"
+  } ]
+}

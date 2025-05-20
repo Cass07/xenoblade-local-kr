@@ -1,0 +1,187 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002202_msg0001",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭐야? 손님인가?"
+  }, {
+    "$id" : 2,
+    "label" : "tq002202_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……?!"
+  }, {
+    "$id" : 3,
+    "label" : "tq002202_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "네 녀석은……!"
+  }, {
+    "$id" : 4,
+    "label" : "tq002202_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뫼비우스……!"
+  }, {
+    "$id" : 5,
+    "label" : "tq002202_msg0005a",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "오, 혈기 넘치는 형씨들이잖아"
+  }, {
+    "$id" : 6,
+    "label" : "tq002202_msg0005b",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭐, 진정하고 밥이나 먹고 가"
+  }, {
+    "$id" : 7,
+    "label" : "tq002202_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "바, 밥……?"
+  }, {
+    "$id" : 8,
+    "label" : "tq002202_msg0007a",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "밥은 기력의 원천!"
+  }, {
+    "$id" : 9,
+    "label" : "tq002202_msg0007b",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "너희들, 밥은 먹고 다니냐는 소리 듣지 않나?"
+  }, {
+    "$id" : 10,
+    "label" : "tq002202_msg0008",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "들어본 적 없어! 뭐야, 이 녀석"
+  }, {
+    "$id" : 11,
+    "label" : "tq002202_msg0009a",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이 녀석이고 저 녀석이고 전부 삐쩍 말랐네"
+  }, {
+    "$id" : 12,
+    "label" : "tq002202_msg0009b",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "안 그래, 형씨?"
+  }, {
+    "$id" : 13,
+    "label" : "tq002202_msg0010a",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]컥"
+  }, {
+    "$id" : 14,
+    "label" : "tq002202_msg0010b",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "왜 때리고 난리야!\n애초에 난 밥 같은 건……"
+  }, {
+    "$id" : 15,
+    "label" : "tq002202_msg0011a",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "잡아먹지 않을 테니 안심하라고"
+  }, {
+    "$id" : 16,
+    "label" : "tq002202_msg0011b",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "얼른 따라와"
+  }, {
+    "$id" : 17,
+    "label" : "tq002202_msg0012",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……어, 어쩌지?"
+  }, {
+    "$id" : 18,
+    "label" : "tq002202_msg0013",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "무시하기엔…… 늦은 거 같은데"
+  } ]
+}

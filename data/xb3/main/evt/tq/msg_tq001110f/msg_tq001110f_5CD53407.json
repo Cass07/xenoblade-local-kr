@@ -1,0 +1,421 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001110_msg0001",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……하하\n사정은 대충 알겠는데……"
+  }, {
+    "$id" : 2,
+    "label" : "tq001110_msg0002",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네가 육아를 할 수 있겠어?"
+  }, {
+    "$id" : 3,
+    "label" : "tq001110_msg0003",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "육아가…… 뭐지?"
+  }, {
+    "$id" : 4,
+    "label" : "tq001110_msg0004",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말하자면 이 아가씨를\n책임지고 키울 수 있겠냐는 거야"
+  }, {
+    "$id" : 5,
+    "label" : "tq001110_msg0005",
+    "talker" : "dn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아가씨가 아니야\n내 이름은 에셀이다"
+  }, {
+    "$id" : 6,
+    "label" : "tq001110_msg0006",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하…… 진짜 못 해 먹겠네"
+  }, {
+    "$id" : 7,
+    "label" : "tq001110_msg0007",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "승낙해 준다면\n시티를 위해 힘을 보태지"
+  }, {
+    "$id" : 8,
+    "label" : "tq001110_msg0008",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미숙한 점도 있겠지만……\n맡은 임무는 반드시 완수하겠다"
+  }, {
+    "$id" : 9,
+    "label" : "tq001110_msg0009",
+    "talker" : "dn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 돕겠어"
+  }, {
+    "$id" : 10,
+    "label" : "tq001110_msg0010",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……음? 그대는 못 싸우지 않나"
+  }, {
+    "$id" : 11,
+    "label" : "tq001110_msg0011",
+    "talker" : "dn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 카무나비의 눈이 될 수는 있지"
+  }, {
+    "$id" : 12,
+    "label" : "tq001110_msg0012",
+    "talker" : "dn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네가 못 보는 건 내가 보겠어\n……안 되나?"
+  }, {
+    "$id" : 13,
+    "label" : "tq001110_msg0013",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말이지…… 별난 녀석이군"
+  }, {
+    "$id" : 14,
+    "label" : "tq001110_msg0014",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 정말 별나다, 너희들\n제발 내 말을 들어는 줘……"
+  }, {
+    "$id" : 15,
+    "label" : "tq001110_msg0015",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 힘들까?"
+  }, {
+    "$id" : 16,
+    "label" : "tq001110_msg0016",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 권한으론 방법이 없어"
+  }, {
+    "$id" : 17,
+    "label" : "tq001110_msg0017",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나……\n모니카에게 얘기해 볼게"
+  }, {
+    "$id" : 18,
+    "label" : "tq001110_msg0018",
+    "talker" : "tk1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~~~~ 좋아, 알겠어!\n이렇게 하자고!"
+  }, {
+    "$id" : 19,
+    "label" : "tq001110_msg0019",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에셀을 맡기는 대신에\n카무나비는 전력이 되어 줘야겠어"
+  }, {
+    "$id" : 20,
+    "label" : "tq001110_msg0020",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸로 됐지? 그치?!"
+  }, {
+    "$id" : 21,
+    "label" : "tq001110_msg0021",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 모니카가 무서워?"
+  }, {
+    "$id" : 22,
+    "label" : "tq001110_msg0022",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무섭지…… 하지만 그런 이유로\n숨기려는 건 아니야"
+  }, {
+    "$id" : 23,
+    "label" : "tq001110_msg0023",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보스는 떠안은 일이 너무 많은 데다\n쉬라고 해 봤자 들은 척도 안 하시니까"
+  }, {
+    "$id" : 24,
+    "label" : "tq001110_msg0024",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 짐을 조금이나마\n줄여 드리고 싶은 거야"
+  }, {
+    "$id" : 25,
+    "label" : "tq001110_msg0025",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……트래비스 앞에 놓인\n싸움의 길은 험난하군"
+  }, {
+    "$id" : 26,
+    "label" : "tq001110_msg0026",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 배려는 절대 잊지 않겠다\n반드시 보답하도록 하지"
+  }, {
+    "$id" : 27,
+    "label" : "tq001110_msg0027",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 이왕이면 100배로 갚아 줘"
+  }, {
+    "$id" : 28,
+    "label" : "tq001110_msg0028",
+    "talker" : "dn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "구두쇠로군, 트래비스"
+  }, {
+    "$id" : 29,
+    "label" : "tq001110_msg0029",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이름까지 막 부르기냐……\n적어도 『트래비스 부관』이라고 불러 줘"
+  }, {
+    "$id" : 30,
+    "label" : "tq001110_msg0030",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그대들에게도\n여러모로 신세를 많이 졌군"
+  }, {
+    "$id" : 31,
+    "label" : "tq001110_msg0031",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "신경 쓰지 마"
+  }, {
+    "$id" : 32,
+    "label" : "tq001110_msg0032",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 순 없지\n특히……"
+  }, {
+    "$id" : 33,
+    "label" : "tq001110_msg0033",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타이온"
+  }, {
+    "$id" : 34,
+    "label" : "tq001110_msg0034",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그대가 나답게 살라고 했었지\n아직 답을 찾지는 못했지만……"
+  }, {
+    "$id" : 35,
+    "label" : "tq001110_msg0035",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 그렇게 살고 싶다\n그런 생각을 할 수 있게 돼서 기쁘군"
+  }, {
+    "$id" : 36,
+    "label" : "tq001110_msg0036",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 마음에 불을 지펴 준 것은 그대다\n감사를 표하지"
+  }, {
+    "$id" : 37,
+    "label" : "tq001110_msg0037",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 38,
+    "label" : "tq001110_msg0038",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……타이온?"
+  }, {
+    "$id" : 39,
+    "label" : "tq001110_msg0039",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 이런 얘길 하는 날이\n올 줄은 상상도 못 했거든"
+  }, {
+    "$id" : 40,
+    "label" : "tq001110_msg0040",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미래란……\n정말 알 수 없는 거구나……"
+  }, {
+    "$id" : 41,
+    "label" : "tq001110_msg0041",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응…… 그러게"
+  }, {
+    "$id" : 42,
+    "label" : "tq001110_msg0042",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "반드시 발견할 거라 믿어\n카무나비와 에셀다운 『길』을"
+  }, {
+    "$id" : 43,
+    "label" : "tq001110_msg0043",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래"
+  }, {
+    "$id" : 44,
+    "label" : "tq001110_msg0044",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그때까지 이 카무나비가\n그대들과 시티를 위해 싸우겠다"
+  } ]
+}

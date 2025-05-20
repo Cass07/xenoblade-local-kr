@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk610107_msg0001",
+    "talker" : "jW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시키 녀석한테 혼났어……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk610107_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 그 녀석한테 혼났다고……?\n뭐라고 혼난 거야?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk610107_msg0003",
+    "talker" : "jW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티에는 책이 많은 만큼\n배울 기회도 많으셨을 텐데……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk610107_msg0004",
+    "talker" : "jW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 놀고만 계셨던 건가요?\n……이런 식으로 말이지. 귀가 아파……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk610107_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건, 뭐라고 해야 하나……\n앞으로는 놀지만 말고 힘내 봐……"
+  } ]
+}

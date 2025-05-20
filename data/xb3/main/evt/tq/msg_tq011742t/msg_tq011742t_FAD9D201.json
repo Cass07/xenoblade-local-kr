@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011742_msg0001",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흙이 얼마나 말랐는지 살펴보고\n대처하면 된다 이거지?"
+  }, {
+    "$id" : 2,
+    "label" : "tq011742_msg0002",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 잘 살펴볼게\n맡겨만 줘"
+  }, {
+    "$id" : 3,
+    "label" : "tq011742_msg0003",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 미안하다……"
+  }, {
+    "$id" : 4,
+    "label" : "tq011742_msg0004",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "씨감자 10개만 부탁할게"
+  }, {
+    "$id" : 5,
+    "label" : "tq011742_msg0005",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "비료 만드는 건 울에게 맡겨 봐\n예전부터 식물을 좋아하는 것 같더라고"
+  }, {
+    "$id" : 6,
+    "label" : "tq011742_msg0006",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사정을 설명하니까 도와주겠대"
+  }, {
+    "$id" : 7,
+    "label" : "tq011742_msg0007",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카이트 성격은 내가 잘 알아\n지금은 고집부리고 있지만……"
+  }, {
+    "$id" : 8,
+    "label" : "tq011742_msg0008",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석도 분명 이대로는\n안 된다는 사실을 알고 있을 거야"
+  }, {
+    "$id" : 9,
+    "label" : "tq011742_msg0009",
+    "talker" : "bX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔가……\n밭 쪽이 소란스럽지 않아?"
+  } ]
+}

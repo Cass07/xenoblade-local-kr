@@ -1,0 +1,475 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330602_msg0001",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어? 저 배는……"
+  }, {
+    "$id" : 2,
+    "label" : "nq330602_msg0002",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얘들아~!"
+  }, {
+    "$id" : 3,
+    "label" : "nq330602_msg0003",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "웬일이야~!\n이런 데서 만날 때가 다 있네!"
+  }, {
+    "$id" : 4,
+    "label" : "nq330602_msg0004",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 놀랐어~! 무슨 일이야?"
+  }, {
+    "$id" : 5,
+    "label" : "nq330602_msg0005",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "배 상태 좀 보려고\n초계 지점을 돌고 있었어"
+  }, {
+    "$id" : 6,
+    "label" : "nq330602_msg0006",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어?!\n나도 초계 임무 하러 왔는데……"
+  }, {
+    "$id" : 7,
+    "label" : "nq330602_msg0007",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말?!"
+  }, {
+    "$id" : 8,
+    "label" : "nq330602_msg0008",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 한다고 말했을 텐데……\n타로 녀석 설마 연락한 걸 깜빡했나?"
+  }, {
+    "$id" : 9,
+    "label" : "nq330602_msg0009",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아……\n타로는 다 알고 있었구나"
+  }, {
+    "$id" : 10,
+    "label" : "nq330602_msg0010",
+    "talker" : "O",
+    "talkattr" : 33026,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "매번 배려받기만 하네……"
+  }, {
+    "$id" : 11,
+    "label" : "nq330602_msg0011",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마시로……"
+  }, {
+    "$id" : 12,
+    "label" : "nq330602_msg0012",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……하나만 더 물어봐도 돼?\n타로한테 부탁받은 건데……"
+  }, {
+    "$id" : 13,
+    "label" : "nq330602_msg0013",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아야에게 『지금 가장 걱정되는 일』이 뭐야?"
+  }, {
+    "$id" : 14,
+    "label" : "nq330602_msg0014",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……마시로가 안 쉬는 거"
+  }, {
+    "$id" : 15,
+    "label" : "nq330602_msg0015",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어?\n내가 안 쉬기는 무슨……!"
+  }, {
+    "$id" : 16,
+    "label" : "nq330602_msg0016",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안 쉬잖아!"
+  }, {
+    "$id" : 17,
+    "label" : "nq330602_msg0017",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뫼비우스랑 싸우면서\n콜로니 임무까지 수행하고……"
+  }, {
+    "$id" : 18,
+    "label" : "nq330602_msg0018",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "툭 까놓고 말해서\n노력이 버릇됐다고는 생각 안 해 봤어?"
+  }, {
+    "$id" : 19,
+    "label" : "nq330602_msg0019",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가…… 무슨……"
+  }, {
+    "$id" : 20,
+    "label" : "nq330602_msg0020",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아니, 맞는 것 같아……"
+  }, {
+    "$id" : 21,
+    "label" : "nq330602_msg0021",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 말이야, 노력하는 시로가\n정말 좋지만……"
+  }, {
+    "$id" : 22,
+    "label" : "nq330602_msg0022",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 시로를 도와주고 싶어서\n새로운 일도 열심히 해 보려고 마음먹었거든?"
+  }, {
+    "$id" : 23,
+    "label" : "nq330602_msg0023",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그니까 우리한테 좀 더 기대!\n임무도 땡땡이 좀 치고!"
+  }, {
+    "$id" : 24,
+    "label" : "nq330602_msg0024",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "땡땡이……?!\n그런 걸 어떻게 해……"
+  }, {
+    "$id" : 25,
+    "label" : "nq330602_msg0025",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 생각에는 말이야……"
+  }, {
+    "$id" : 26,
+    "label" : "nq330602_msg0026",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마시로에게 노력하는 것이란\n생존과 같은 것 아닐까?"
+  }, {
+    "$id" : 27,
+    "label" : "nq330602_msg0027",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니 다 함께 살아남자는 마음이 큰만큼\n움직이지를 않으면 불안하고……"
+  }, {
+    "$id" : 28,
+    "label" : "nq330602_msg0028",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기 둘은 또 마시로가 소중하니까\n무리하는 듯 보여서 불안한 거지……"
+  }, {
+    "$id" : 29,
+    "label" : "nq330602_msg0029",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아니야?"
+  }, {
+    "$id" : 30,
+    "label" : "nq330602_msg0030",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아……!!"
+  }, {
+    "$id" : 31,
+    "label" : "nq330602_msg0031",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오히려 남이 말해 주니까\n납득이 가네……"
+  }, {
+    "$id" : 32,
+    "label" : "nq330602_msg0032",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다행이다, \"소중하게\" 여기는 방식이라는 게\n보통 사람마다 다르거든……"
+  }, {
+    "$id" : 33,
+    "label" : "nq330602_msg0033",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 이런 게 아닐까 싶었어"
+  }, {
+    "$id" : 34,
+    "label" : "nq330602_msg0034",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "와…… 굉장해요~~~\n마음을 꿰뚫어 보는 것 같아요!!"
+  }, {
+    "$id" : 35,
+    "label" : "nq330602_msg0035",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나, 사람마다 다르니까……"
+  }, {
+    "$id" : 36,
+    "label" : "nq330602_msg0036",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……또 서로 오해할 뻔했구나"
+  }, {
+    "$id" : 37,
+    "label" : "nq330602_msg0037",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서로를 소중히\n여기고 싶었던 것뿐인데……"
+  }, {
+    "$id" : 38,
+    "label" : "nq330602_msg0038",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……미안해, 나만 편하게 지내는 것\n같아서 왠지 불안했거든……"
+  }, {
+    "$id" : 39,
+    "label" : "nq330602_msg0039",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 우리 생각만\n밀어붙여서 미안해"
+  }, {
+    "$id" : 40,
+    "label" : "nq330602_msg0040",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두들…… 정말 좋아해~~~!!"
+  }, {
+    "$id" : 41,
+    "label" : "nq330602_msg0041",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도~~~~!!"
+  }, {
+    "$id" : 42,
+    "label" : "nq330602_msg0042",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "해결된…… 걸까?"
+  }, {
+    "$id" : 43,
+    "label" : "nq330602_msg0043",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마도"
+  }, {
+    "$id" : 44,
+    "label" : "nq330602_msg0044",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명 타로는\n이걸 알려 주고 싶었을 거야……"
+  }, {
+    "$id" : 45,
+    "label" : "nq330602_msg0045",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아 참, 이제부터\n레브니스 잔해를 정리하고\n돌아가려 했는데……"
+  }, {
+    "$id" : 46,
+    "label" : "nq330602_msg0046",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……! 나도 마침 그 생각하고 있었어!\n나한테 맡겨 줄래?"
+  }, {
+    "$id" : 47,
+    "label" : "nq330602_msg0047",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 잘 부탁해"
+  }, {
+    "$id" : 48,
+    "label" : "nq330602_msg0048",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……나도 이제\n조금씩 달라질 테니까"
+  }, {
+    "$id" : 49,
+    "label" : "nq330602_msg0049",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나 때문에 불안할 때도 있겠지만\n지켜봐 줘……!"
+  }, {
+    "$id" : 50,
+    "label" : "nq330602_msg0050",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론이지!"
+  } ]
+}

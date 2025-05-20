@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831800_msg0001",
+    "talker" : "xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "처음에는 뭘 해야 할지 모르겠어서\n그냥 멍하니 있었는데……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831800_msg0002",
+    "talker" : "xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이렇게 다시\n병참 경험을 살리는 일을 할 수 있으니\n그저 정말로 감사할 따름이에요"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831800_msg0003",
+    "talker" : "xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고…… 이요라는\n둘도 없는 친구도 생겼죠"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831800_msg0004",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "설령 적이었다고 해도\n손을 잡을 수 있다……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk831800_msg0005",
+    "talker" : "xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네……\n정말 그랬어요"
+  }, {
+    "$id" : 6,
+    "label" : "tlk831800_msg0006",
+    "talker" : "xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "언젠가 그 진실을\n케베스 사람들이 깨달아 주기를\n진심으로 기원할 거예요……"
+  } ]
+}

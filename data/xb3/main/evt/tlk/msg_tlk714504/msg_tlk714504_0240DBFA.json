@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk714504_msg0001",
+    "talker" : "Wm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "코랄리는 나중에 자라면\n모험가가 될 거래"
+  }, {
+    "$id" : 2,
+    "label" : "tlk714504_msg0002",
+    "talker" : "Wm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 걔 보디가드가 돼서\n세계 각지를 돌아다닐 거야"
+  }, {
+    "$id" : 3,
+    "label" : "tlk714504_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 그래?\n그러려면 너도 강해져야겠는데?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk714504_msg0004",
+    "talker" : "Wm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응!\n그러니까 다음에 훈련 좀 도와줘"
+  }, {
+    "$id" : 5,
+    "label" : "tlk714504_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋지!"
+  } ]
+}

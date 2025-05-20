@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330103_msg0001",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안녕, 마시로!\n오늘의 메뉴는…… 아직 생각 중이야!"
+  }, {
+    "$id" : 2,
+    "label" : "nq330103_msg0002",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응? 광장에 집합하라고?\n나도 가야 해?"
+  }, {
+    "$id" : 3,
+    "label" : "nq330103_msg0003",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오케이, 오케이\n뭔진 모르겠지만 금방 갈게!"
+  }, {
+    "$id" : 4,
+    "label" : "nq330103_msg0101",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야~ 다들 아직 안 왔잖아!"
+  }, {
+    "$id" : 5,
+    "label" : "nq330103_msg0102",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오케이, 그럴 수도 있지\n여기서 메뉴 생각이나 하지, 뭐!"
+  }, {
+    "$id" : 6,
+    "label" : "nq330103_msg0201",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후후, 사실은 말이지……\n비장의 메뉴를 떠올렸어!"
+  }, {
+    "$id" : 7,
+    "label" : "nq330103_msg0202",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 기운 차렸으면 좋겠으니까~\n나 혼자서라도 열심히 해 봐야지!"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk110705_msg0001",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어째서 트리시는\n카이트가 그런 무모한 생각을 하는데\n말리질 않았어?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk110705_msg0002",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카이트의 생각을 존중하니까\n나머진 내 고집이지"
+  }, {
+    "$id" : 3,
+    "label" : "tlk110705_msg0003",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "옛날에 콜로니가 습격당했을 때\n카이트가 나를 감싸다가 크게 다치는\n바람에 팀원이랑 격리된 적이 있거든"
+  }, {
+    "$id" : 4,
+    "label" : "tlk110705_msg0004",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동료를 끔찍이 생각하는데도\n어째선지 옛날부터\n혼자가 되기 십상이더라고"
+  }, {
+    "$id" : 5,
+    "label" : "tlk110705_msg0005",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 나는 마지막까지\n카이트의 곁에 있자고 결심했지\n이유는 그게 전부야"
+  } ]
+}

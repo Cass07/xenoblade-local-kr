@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310302_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저어……"
+  }, {
+    "$id" : 2,
+    "label" : "nq310302_msg0002",
+    "talker" : "_k1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 3,
+    "label" : "nq310302_msg0003",
+    "talker" : "vk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 찾았다!"
+  }, {
+    "$id" : 4,
+    "label" : "nq310302_msg0004",
+    "talker" : "vk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "할아버지!\n또 악보 버렸지!"
+  }, {
+    "$id" : 5,
+    "label" : "nq310302_msg0005",
+    "talker" : "vk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은 곡이 안 써진다고 해서\n그런 짓을 하면 안 돼!"
+  }, {
+    "$id" : 6,
+    "label" : "nq310302_msg0006",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"안 써진다\"니……\n그 악보의 선율은\n당신이 만든 거야?"
+  }, {
+    "$id" : 7,
+    "label" : "nq310302_msg0007",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우린 그다음 부분이 궁금해서\n당신을 찾고 있었어"
+  }, {
+    "$id" : 8,
+    "label" : "nq310302_msg0008",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무척 근사한 선율이었으니까\n마지막까지 연주해 보고 싶었거든"
+  }, {
+    "$id" : 9,
+    "label" : "nq310302_msg0009",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……?"
+  }, {
+    "$id" : 10,
+    "label" : "<2C75824B>",
+    "talker" : "vk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "따라오라는 뜻인 것 같아"
+  } ]
+}

@@ -1,0 +1,349 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<390300C6>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 2,
+    "label" : "<52E27505>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……매슈"
+  }, {
+    "$id" : 3,
+    "label" : "<EBD91E22>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나엘이란 사람은\n네 가족이나 가까운 사람이야?"
+  }, {
+    "$id" : 4,
+    "label" : "<CD46C90B>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……여동생이야\n계속 행방을 찾는 중이지"
+  }, {
+    "$id" : 5,
+    "label" : "<4DB38870>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇구나"
+  }, {
+    "$id" : 6,
+    "label" : "<3CA0B6E6>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아, 린카\n구조 신호는 어디서 나왔어?"
+  }, {
+    "$id" : 7,
+    "label" : "<3FE0D7C9>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수색대에 따르면\n라그엘호 근처라는 모양입니다"
+  }, {
+    "$id" : 8,
+    "label" : "<067C2105>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐, 기다려\n설마 혼자 갈 셈이냐?"
+  }, {
+    "$id" : 9,
+    "label" : "<7AE1E158>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 이건 내 문제니까\n직접 가서 확인하고 와야겠어"
+  }, {
+    "$id" : 10,
+    "label" : "<AEE6FCA0>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이곳에서 라그엘호까지는\n상당히 거리가 있습니다\n단독으로 움직이면 위험이……"
+  }, {
+    "$id" : 11,
+    "label" : "<A2C407DF>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "겨우 찾았어!\n겨우 찾은 단서란 말이야!"
+  }, {
+    "$id" : 12,
+    "label" : "<2511F7BA>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수색대를 습격한 녀석들이 아직 있다면\n더욱더 나엘을 내버려 둘 순 없어!"
+  }, {
+    "$id" : 13,
+    "label" : "<3BBA9AC7>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭘 그렇게 흥분해\n딱히 가지 말라고 한 건 아냐"
+  }, {
+    "$id" : 14,
+    "label" : "<1EAE9D6B>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "애초에 우리도 갈 생각이었어\n수색대가 전멸이라니, 심상치 않은 일이야"
+  }, {
+    "$id" : 15,
+    "label" : "<459C7807>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……미안\n마음이 급해져서 그만"
+  }, {
+    "$id" : 16,
+    "label" : "<8DC1EF6D>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮아\n느긋하게 있을 수 없는 것도 사실이니까"
+  }, {
+    "$id" : 17,
+    "label" : "<FC449CEF>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 지금이……\n\"에테르 슬라이드\"를 쓸 때로군"
+  }, {
+    "$id" : 18,
+    "label" : "<CE3A831D>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에테르…… 슬라이드?"
+  }, {
+    "$id" : 19,
+    "label" : "<96E6E3C2>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 이쪽으로 와 봐"
+  }, {
+    "$id" : 20,
+    "label" : "<83844BB8>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에테르 슬라이드는……"
+  }, {
+    "$id" : 21,
+    "label" : "<4ED7347A>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쉽게 말해서\n에테르의 흐름을 타고\n이동하는 장치야"
+  }, {
+    "$id" : 22,
+    "label" : "<1E8E8EE0>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예를 들면\n에테르로 만든 와이어로\n활주하는 거지"
+  }, {
+    "$id" : 23,
+    "label" : "<54EFEAB5>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에테르 슬라이드를 쓰면\n라그엘호 근처까지 단숨에 갈 수 있어"
+  }, {
+    "$id" : 24,
+    "label" : "<0ACABBDF>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사부하고 리쿠가 공동으로 개발한 물건이지\n어때, 대단하지?"
+  }, {
+    "$id" : 25,
+    "label" : "<1AB79B8F>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 정말 대단해……!\n그런 기술이 있다니……!"
+  }, {
+    "$id" : 26,
+    "label" : "<F7C28C6B>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗…… 흥미가 있다면\n날 좀 도와줄래?"
+  }, {
+    "$id" : 27,
+    "label" : "<2E609BD6>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네!"
+  }, {
+    "$id" : 28,
+    "label" : "<BF7ADC65>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "먼저 필요한 소재를 건네줄게"
+  }, {
+    "$id" : 29,
+    "label" : "<DE51469A>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건……\n특이한 에테르 결정이네요"
+  }, {
+    "$id" : 30,
+    "label" : "<0E21324F>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 \"검은 안개\"의 영향으로\n에테르가 변질된 거야\n나는 블랙 샤드라고 부르고 있어"
+  }, {
+    "$id" : 31,
+    "label" : "<78F4110A>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "검은 안개가 발생한 장소에서만\n찾을 수 있나요?"
+  }, {
+    "$id" : 32,
+    "label" : "<EE778664>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아\n좀처럼 찾기 힘든 귀중품이지"
+  }, {
+    "$id" : 33,
+    "label" : "<789BB478>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 와이어를 발사할\n\"에테르 증폭기\"를 만들 때\n반드시 필요한 소재이기도 해"
+  }, {
+    "$id" : 34,
+    "label" : "<03939ABF>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇군요……"
+  }, {
+    "$id" : 35,
+    "label" : "<7AEF7780>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 설명은 이쯤에서 끝내고\n장치 제작을 시작할까?"
+  }, {
+    "$id" : 36,
+    "label" : "<DAD410A9>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어요!"
+  } ]
+}

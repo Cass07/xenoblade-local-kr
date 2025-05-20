@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk611906_msg0001",
+    "talker" : "bk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 곤도 일행이랑 같이\n오리진으로 가고 싶었는데……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk611906_msg0002",
+    "talker" : "bk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실은 나, 아이가 생긴 것 같아서\n로스트 넘버즈에서 은퇴했어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk611906_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아이가……!\n그렇구나, 축하해!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk611906_msg0004",
+    "talker" : "bk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 평화롭게 살 수 있는 세계를\n반드시 되찾아 줘. 너희만 믿을게"
+  }, {
+    "$id" : 5,
+    "label" : "tlk611906_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어"
+  } ]
+}

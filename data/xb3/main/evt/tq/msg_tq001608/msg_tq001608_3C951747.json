@@ -1,0 +1,295 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001608_msg0001",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "너는……"
+  }, {
+    "$id" : 2,
+    "label" : "tq001608_msg0002",
+    "talker" : "qW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭡니까? 이 잡동사니는……"
+  }, {
+    "$id" : 3,
+    "label" : "tq001608_msg0003",
+    "talker" : "qW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "저리 비키세요!"
+  }, {
+    "$id" : 4,
+    "label" : "tq001608_msg0004",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그만둬! 이제 충분해"
+  }, {
+    "$id" : 5,
+    "label" : "tq001608_msg0005",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이제 됐어……"
+  }, {
+    "$id" : 6,
+    "label" : "tq001608_msg0006a",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그런 식으로"
+  }, {
+    "$id" : 7,
+    "label" : "tq001608_msg0006b",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "지켜 주길 바란 게 아니야"
+  }, {
+    "$id" : 8,
+    "label" : "tq001608_msg0007",
+    "talker" : "qW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "에잇! 자꾸 귀찮게 굴기는!!"
+  }, {
+    "$id" : 9,
+    "label" : "tq001608_msg0008a",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "란츠!"
+  }, {
+    "$id" : 10,
+    "label" : "tq001608_msg0008b",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "여긴 어떻게?"
+  }, {
+    "$id" : 11,
+    "label" : "tq001608_msg0009",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "고맙다는 말은 저 녀석한테 하라고"
+  }, {
+    "$id" : 12,
+    "label" : "tq001608_msg0010",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "여기까지 안내해 줬어!"
+  }, {
+    "$id" : 13,
+    "label" : "tq001608_msg0011",
+    "talker" : "qW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "도구 주제에 건방 떨지 말라고!!"
+  }, {
+    "$id" : 14,
+    "label" : "tq001608_msg0012",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그만……"
+  }, {
+    "$id" : 15,
+    "label" : "tq001608_msg0013",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그만해!!"
+  }, {
+    "$id" : 16,
+    "label" : "tq001608_msg0014",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……"
+  }, {
+    "$id" : 17,
+    "label" : "tq001608_msg0015",
+    "talker" : "qW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]하하핫!!"
+  }, {
+    "$id" : 18,
+    "label" : "tq001608_msg0016a",
+    "talker" : "qW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "내 명령에 따르지 않는 도구는 쓰레기일 뿐!"
+  }, {
+    "$id" : 19,
+    "label" : "tq001608_msg0016b",
+    "talker" : "qW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "마땅히 폐기돼야 합니다!"
+  }, {
+    "$id" : 20,
+    "label" : "tq001608_msg0017",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "쓰레기가 아니야!"
+  }, {
+    "$id" : 21,
+    "label" : "tq001608_msg0018",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "레브니스는 항상……"
+  }, {
+    "$id" : 22,
+    "label" : "tq001608_msg0019",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "내 소중한 것들을 지켜 줬어"
+  }, {
+    "$id" : 23,
+    "label" : "tq001608_msg0020a",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "작고 나약한 나도"
+  }, {
+    "$id" : 24,
+    "label" : "tq001608_msg0020b",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "할 수 있는 일이 있다는 걸 가르쳐 줬어"
+  }, {
+    "$id" : 25,
+    "label" : "tq001608_msg0021",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래서 난 정비사가 됐어"
+  }, {
+    "$id" : 26,
+    "label" : "tq001608_msg0022a",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이런……"
+  }, {
+    "$id" : 27,
+    "label" : "tq001608_msg0022b",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "참혹한 상황을 만들려고 된 게 아니야!"
+  }, {
+    "$id" : 28,
+    "label" : "tq001608_msg0023",
+    "talker" : "qW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "도구의 감정 따윈 어찌 되든 상관없다"
+  }, {
+    "$id" : 29,
+    "label" : "tq001608_msg0024",
+    "talker" : "qW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "반항한다면 한꺼번에 폐기해 주마!"
+  }, {
+    "$id" : 30,
+    "label" : "tq001608_msg0025",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "할 수 있으면 어디 한번 해 보시지!"
+  } ]
+}

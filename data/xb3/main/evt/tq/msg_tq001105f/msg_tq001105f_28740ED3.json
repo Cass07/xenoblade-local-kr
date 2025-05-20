@@ -1,0 +1,475 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001105_msg0001",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "언소자약…… 단엄침중……"
+  }, {
+    "$id" : 2,
+    "label" : "tq001105_msg0002",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "평심서기…… 적연부동……"
+  }, {
+    "$id" : 3,
+    "label" : "tq001105_msg0003",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "윽……"
+  }, {
+    "$id" : 4,
+    "label" : "tq001105_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮아!\n이제 도착했으니까……!"
+  }, {
+    "$id" : 5,
+    "label" : "tq001105_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "높은 곳을 무서워하는구나……"
+  }, {
+    "$id" : 6,
+    "label" : "tq001105_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "철거신은\n잘만 탔는데 말이야"
+  }, {
+    "$id" : 7,
+    "label" : "tq001105_msg0007",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 말인데……\n옛날이야기는 안 하면 안 돼?"
+  }, {
+    "$id" : 8,
+    "label" : "tq001105_msg0008",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안 그래도 저 녀석은\n10기로 태어났잖아"
+  }, {
+    "$id" : 9,
+    "label" : "tq001105_msg0009",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명 \"현재\"에 집중하고 싶을 거야"
+  }, {
+    "$id" : 10,
+    "label" : "tq001105_msg0010",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……왜 그래?"
+  }, {
+    "$id" : 11,
+    "label" : "tq001105_msg0011",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 유니는 좋은 녀석이구나 싶어서"
+  }, {
+    "$id" : 12,
+    "label" : "tq001105_msg0012",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 갑자기 무슨 소리야"
+  }, {
+    "$id" : 13,
+    "label" : "tq001105_msg0013",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어~이!"
+  }, {
+    "$id" : 14,
+    "label" : "tq001105_msg0014",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "트래비스!"
+  }, {
+    "$id" : 15,
+    "label" : "tq001105_msg0015",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만나서 다행이야\n실은 성가신 일이 생겼거든"
+  }, {
+    "$id" : 16,
+    "label" : "tq001105_msg0016",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아 참, 보스한테는 비밀로 해 줘\n내 봉급이 깎일지도 모르니까"
+  }, {
+    "$id" : 17,
+    "label" : "tq001105_msg0017",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서론이 너무 길잖아\n대체 무슨 일인데?"
+  }, {
+    "$id" : 18,
+    "label" : "tq001105_msg0018",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요람 하나가\n누군가에 의해 열렸어"
+  }, {
+    "$id" : 19,
+    "label" : "tq001105_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "침입자야?"
+  }, {
+    "$id" : 20,
+    "label" : "tq001105_msg0020",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모르겠어\n그런 흔적은 없었어"
+  }, {
+    "$id" : 21,
+    "label" : "tq001105_msg0021",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "깨어난 병사도 사라졌지 뭐야\n너희도 아는 녀석인데……"
+  }, {
+    "$id" : 22,
+    "label" : "tq001105_msg0022",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 누구였더라?\n왜, 그 은발 머리 있잖아……"
+  }, {
+    "$id" : 23,
+    "label" : "tq001105_msg0023",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "설마…… 에셀?"
+  }, {
+    "$id" : 24,
+    "label" : "tq001105_msg0024",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 에셀!"
+  }, {
+    "$id" : 25,
+    "label" : "tq001105_msg0025",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일이 왜 꼬리에 꼬리를 물고……\n아, 투덜거릴 때가 아니지"
+  }, {
+    "$id" : 26,
+    "label" : "tq001105_msg0026",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 일이라면……"
+  }, {
+    "$id" : 27,
+    "label" : "tq001105_msg0027",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 거들어 주지\n어딜 찾으면 되겠나?"
+  }, {
+    "$id" : 28,
+    "label" : "tq001105_msg0028",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……왜 그러지?"
+  }, {
+    "$id" : 29,
+    "label" : "tq001105_msg0029",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게…… 친절한 모습에\n깜짝 놀라서……?"
+  }, {
+    "$id" : 30,
+    "label" : "tq001105_msg0030",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 요람에서 막 나온 참이니\n이것 또한 연이겠지"
+  }, {
+    "$id" : 31,
+    "label" : "tq001105_msg0031",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 에셀이라는 병사도\n방황하고 있을지도 모르고"
+  }, {
+    "$id" : 32,
+    "label" : "tq001105_msg0032",
+    "talker" : "1",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기억난 건…… 아니구나"
+  }, {
+    "$id" : 33,
+    "label" : "tq001105_msg0033",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가…… 그대"
+  }, {
+    "$id" : 34,
+    "label" : "tq001105_msg0034",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 나?"
+  }, {
+    "$id" : 35,
+    "label" : "tq001105_msg0035",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩐지 빌빌대는 것 같군……\n더는 무리하지 않는 게 좋을 거다"
+  }, {
+    "$id" : 36,
+    "label" : "tq001105_msg0036",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "와, 이거 설마 젊다고 자랑하는 거냐?\n울어 버린다?!"
+  }, {
+    "$id" : 37,
+    "label" : "tq001105_msg0037",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안, 저 녀석 태어난 지 얼마 안 돼서……"
+  }, {
+    "$id" : 38,
+    "label" : "tq001105_msg0038",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무튼 말이야"
+  }, {
+    "$id" : 39,
+    "label" : "tq001105_msg0039",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티에 드나들 수 있는 녀석은 얼마 안 되잖아\n여태까지 의심스러운 움직임이 없다는 건……"
+  }, {
+    "$id" : 40,
+    "label" : "tq001105_msg0040",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "범인도 그렇고 에셀도\n이곳 어딘가에 있을 거야"
+  }, {
+    "$id" : 41,
+    "label" : "tq001105_msg0041",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 먼저 모듈 격납고에서\n단서를 찾아보자"
+  }, {
+    "$id" : 42,
+    "label" : "tq001105_msg0042",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부탁한다, 젊은이!"
+  }, {
+    "$id" : 43,
+    "label" : "tq001105_msg0043",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그동안 우리 쪽에서\n보고받은 동료를 데려갈게"
+  }, {
+    "$id" : 44,
+    "label" : "tq001105_msg0044",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭄바랑 하쿠토…… 어떻게 할 거야?"
+  }, {
+    "$id" : 45,
+    "label" : "tq001105_msg0045",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직 완전히 회복된 건 아니잖아?\n이상이 없는지 검사해 보고……"
+  }, {
+    "$id" : 46,
+    "label" : "tq001105_msg0046",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그다음엔…… 경과를 관찰해야지\n어차피 우리가 돌보게 될 거야"
+  }, {
+    "$id" : 47,
+    "label" : "tq001105_msg0047",
+    "talker" : "C",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두를 잘 부탁한다"
+  }, {
+    "$id" : 48,
+    "label" : "tq001105_msg0048",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그래\n맡겨 줘"
+  }, {
+    "$id" : 49,
+    "label" : "tq001105_msg0049",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 작전 지령실에 있을 테니\n진전이 있으면 알려 줘"
+  }, {
+    "$id" : 50,
+    "label" : "tq001105_msg1000",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : "카무나비가 일시적으로\n파티에 가입했습니다"
+  } ]
+}

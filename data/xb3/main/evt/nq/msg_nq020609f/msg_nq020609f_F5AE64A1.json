@@ -1,0 +1,340 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq020609_msg0001",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……도착했어요, 미오 선배!"
+  }, {
+    "$id" : 2,
+    "label" : "nq020609_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기는……"
+  }, {
+    "$id" : 3,
+    "label" : "nq020609_msg0003",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……선배랑 다른 분들이 사라진 뒤에\n여기로 몇 번이고 찾으러 왔어요"
+  }, {
+    "$id" : 4,
+    "label" : "nq020609_msg0004",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 거의 포기했지만……"
+  }, {
+    "$id" : 5,
+    "label" : "nq020609_msg0005",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 사실은 앞으로의 일을\n생각하기 시작했던 걸지도 모르지만……"
+  }, {
+    "$id" : 6,
+    "label" : "nq020609_msg0006",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래도 전…… 제가 아는\n미오 선배는 분명 어딘가에서\n살아 있을 거라 믿었어요……"
+  }, {
+    "$id" : 7,
+    "label" : "nq020609_msg0007",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "키리에……"
+  }, {
+    "$id" : 8,
+    "label" : "nq020609_msg0008",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만…… 미오 선배한테\n의지하기만 하면 안 되잖아요"
+  }, {
+    "$id" : 9,
+    "label" : "nq020609_msg0009",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 대장이니까……"
+  }, {
+    "$id" : 10,
+    "label" : "nq020609_msg0010",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 전에…… 그 이야기 말인데\n키리에는 왜 대장이 되고 싶었어?"
+  }, {
+    "$id" : 11,
+    "label" : "nq020609_msg0011",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건……!"
+  }, {
+    "$id" : 12,
+    "label" : "nq020609_msg0012",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너무 멋있잖아요……!"
+  }, {
+    "$id" : 13,
+    "label" : "nq020609_msg0013",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "멋져……?"
+  }, {
+    "$id" : 14,
+    "label" : "nq020609_msg0014",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제, 제대로 설명할 순 없는데……"
+  }, {
+    "$id" : 15,
+    "label" : "nq020609_msg0015",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 식으로……\n모두를 이끌어 가는 사람을 동경해서……\n저도 그렇게 되고 싶었어요"
+  }, {
+    "$id" : 16,
+    "label" : "nq020609_msg0016",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나……"
+  }, {
+    "$id" : 17,
+    "label" : "nq020609_msg0017",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "키리에는 누군가에게 의지하는 게\n대장답지 않다고 생각해?"
+  }, {
+    "$id" : 18,
+    "label" : "nq020609_msg0018",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……네?"
+  }, {
+    "$id" : 19,
+    "label" : "nq020609_msg0019",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "누군가에게 의지하거나 도움을 받는 건\n생각보다 쉬운 일이 아니야"
+  }, {
+    "$id" : 20,
+    "label" : "nq020609_msg0020",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 어떤 의미로는\n자신의 약함이나 부족함을\n다른 사람한테 드러내는 거나 마찬가지니까……"
+  }, {
+    "$id" : 21,
+    "label" : "nq020609_msg0021",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 22,
+    "label" : "nq020609_msg0022",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 키리에는 주눅 들지 않고\n카무키나 이즈노메에게 도와 달라 할 수 있잖아"
+  }, {
+    "$id" : 23,
+    "label" : "nq020609_msg0023",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 다들 그 말에\n부응하려고 열심히 도와주잖아?"
+  }, {
+    "$id" : 24,
+    "label" : "nq020609_msg0024",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 해서\n키리에 팀은 하나가 되는 거야"
+  }, {
+    "$id" : 25,
+    "label" : "nq020609_msg0025",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 난 키리에가\n충분히 대장답다고 생각해"
+  }, {
+    "$id" : 26,
+    "label" : "nq020609_msg0026",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미, 미오 선배……"
+  }, {
+    "$id" : 27,
+    "label" : "nq020609_msg0027",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "같은 대장인 후츠나 아시하라보다\n뒤처진다고 느껴질 때도\n있을지 모르지만……"
+  }, {
+    "$id" : 28,
+    "label" : "nq020609_msg0028",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "키리에는 키리에니까\n좀 더 자신감을 가져도 돼"
+  }, {
+    "$id" : 29,
+    "label" : "nq020609_msg0029",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……역시 미오 선배는 굉장해요"
+  }, {
+    "$id" : 30,
+    "label" : "nq020609_msg0030",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미오 선배한테 조언을 들으니까\n뭔가 마음속에 응어리졌던 게\n확…… 사라졌어요!"
+  }, {
+    "$id" : 31,
+    "label" : "nq020609_msg0031",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후, 다행이다\n내가 제대로 교육한 모양이네"
+  }, {
+    "$id" : 32,
+    "label" : "nq020609_msg0032",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 엄청 달리고 싶은 기분이에요!"
+  }, {
+    "$id" : 33,
+    "label" : "nq020609_msg0033",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 교육도 마무리 지을 겸\n콜로니까지 달리기 연습이나 할까!"
+  }, {
+    "$id" : 34,
+    "label" : "nq020609_msg0034",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네!"
+  }, {
+    "$id" : 35,
+    "label" : "nq020609_msg0035",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "키리에, 전속력으로 갈게요~!"
+  } ]
+}

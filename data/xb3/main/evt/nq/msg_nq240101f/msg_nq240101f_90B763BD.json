@@ -1,0 +1,295 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq240101_msg0001",
+    "talker" : "_e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……역시 이렇게 해야 좋지 않을까?"
+  }, {
+    "$id" : 2,
+    "label" : "nq240101_msg0002",
+    "talker" : "Wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 그러면 진격하는 데\n시간이 너무 오래 걸려"
+  }, {
+    "$id" : 3,
+    "label" : "nq240101_msg0003",
+    "talker" : "Xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 내가 레브니스 투입을\n전술에 포함해야 한다고 했잖아"
+  }, {
+    "$id" : 4,
+    "label" : "nq240101_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐"
+  }, {
+    "$id" : 5,
+    "label" : "nq240101_msg0005",
+    "talker" : "_e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희는 누구지?"
+  }, {
+    "$id" : 6,
+    "label" : "nq240101_msg0006",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 우리는……"
+  }, {
+    "$id" : 7,
+    "label" : "nq240101_msg0007",
+    "talker" : "Xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐만, 이 녀석들\n전에 위사장님께서 말씀하신……"
+  }, {
+    "$id" : 8,
+    "label" : "nq240101_msg0008",
+    "talker" : "Wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 캐슬의 집정관을 쓰러뜨리고\n생명의 불시계를 파괴했다는 그……"
+  }, {
+    "$id" : 9,
+    "label" : "nq240101_msg0009",
+    "talker" : "_e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스?!"
+  }, {
+    "$id" : 10,
+    "label" : "nq240101_msg0010",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 안다니 설명할 필요 없겠네"
+  }, {
+    "$id" : 11,
+    "label" : "nq240101_msg0011",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "듣자 하니 너희들은\n머리가 엄청 잘 돌아간다고 하던데?"
+  }, {
+    "$id" : 12,
+    "label" : "nq240101_msg0012",
+    "talker" : "Xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흥! 물론이지"
+  }, {
+    "$id" : 13,
+    "label" : "nq240101_msg0013",
+    "talker" : "Wf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캐슬의 병사는\n케베스 내에서도 정예 중의 정예야!"
+  }, {
+    "$id" : 14,
+    "label" : "nq240101_msg0014",
+    "talker" : "_e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희처럼 낮은 랭크의\n콜로니 출신인 병사들 따위는\n추월하는 데 1년도 안 걸려"
+  }, {
+    "$id" : 15,
+    "label" : "nq240101_msg0015",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "낮은 랭크……"
+  }, {
+    "$id" : 16,
+    "label" : "nq240101_msg0016",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜 건방진 녀석들이네"
+  }, {
+    "$id" : 17,
+    "label" : "nq240101_msg0017",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게, 웃음이 다 나온다"
+  }, {
+    "$id" : 18,
+    "label" : "nq240101_msg0018",
+    "talker" : "_e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐라고?"
+  }, {
+    "$id" : 19,
+    "label" : "nq240101_msg0019",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼, 그 정예병님들이라면\n우리랑 한판 붙어도 손쉽게 이기겠네?"
+  }, {
+    "$id" : 20,
+    "label" : "nq240101_msg0020",
+    "talker" : "_e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연하지\n뭣하면 지금 당장 겨뤄도 좋아"
+  }, {
+    "$id" : 21,
+    "label" : "nq240101_msg0021",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아! 확실히 들었다!!"
+  }, {
+    "$id" : 22,
+    "label" : "nq240101_msg0022",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 몬스터 토벌로\n겨뤄 보는 건 어때!"
+  }, {
+    "$id" : 23,
+    "label" : "nq240101_msg0023",
+    "talker" : "_e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "재밌군……"
+  }, {
+    "$id" : 24,
+    "label" : "nq240101_msg0024",
+    "talker" : "_e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 지식만이 아니라\n무력도 탁월하다는 걸 보여 주지"
+  }, {
+    "$id" : 25,
+    "label" : "nq240101_msg0025",
+    "talker" : "Xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 세 명이라서 인원수가 적으니까……"
+  }, {
+    "$id" : 26,
+    "label" : "nq240101_msg0026",
+    "talker" : "Xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 5마리를 쓰러뜨리고\n너희는 10마리를 쓰러뜨리는 게 어때?"
+  }, {
+    "$id" : 27,
+    "label" : "nq240101_msg0027",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 상관없어"
+  }, {
+    "$id" : 28,
+    "label" : "nq240101_msg0028",
+    "talker" : "_e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몬스터 토벌을 끝마치고\n먼저 여기로 돌아온 쪽이 이기는 거야"
+  }, {
+    "$id" : 29,
+    "label" : "nq240101_msg0029",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아!"
+  }, {
+    "$id" : 30,
+    "label" : "nq240101_msg0030",
+    "talker" : "_e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 대결 시작이다!"
+  } ]
+}

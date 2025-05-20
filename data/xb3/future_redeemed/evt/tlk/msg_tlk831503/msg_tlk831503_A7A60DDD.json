@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831503_msg0001",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안녕, 릭키\n밥은 먹었어?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831503_msg0002",
+    "talker" : "vq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아뇨, 오늘은 아직 안 먹었어요"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831503_msg0003",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 신메뉴로 카레란 게 있는데\n그거 진짜 추천해"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831503_msg0004",
+    "talker" : "vq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오~ 카레라는 이름인가요?\n어쩐지 매운 음식일 것 같네요"
+  }, {
+    "$id" : 5,
+    "label" : "tlk831503_msg0005",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 그건 먹어 보면 알 거야\n기회가 되면 내가 사 줄게"
+  }, {
+    "$id" : 6,
+    "label" : "tlk831503_msg0006",
+    "talker" : "vq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 매슈 씨야!\n기대할게요!"
+  } ]
+}

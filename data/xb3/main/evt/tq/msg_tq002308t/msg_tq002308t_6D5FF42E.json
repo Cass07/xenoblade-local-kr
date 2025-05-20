@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002308_msg0001",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유키나리…… 토지……"
+  }, {
+    "$id" : 2,
+    "label" : "tq002308_msg0002",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "돌아온다고……\n했잖아……"
+  }, {
+    "$id" : 3,
+    "label" : "tq002308_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안하지만…… 과거 전적에 대해\n확인하고 싶은데……"
+  }, {
+    "$id" : 4,
+    "label" : "tq002308_msg0004",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!\n시로 씨한테 들었어요!"
+  }, {
+    "$id" : 5,
+    "label" : "tq002308_msg0005",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠시만 기다려 주세요……"
+  }, {
+    "$id" : 6,
+    "label" : "tq002308_msg0006",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그쪽으로 데이터를 전송했어요\n궁금한 점이 있으시면 말씀해 주세요"
+  }, {
+    "$id" : 7,
+    "label" : "tq002308_msg0007",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워"
+  }, {
+    "$id" : 8,
+    "label" : "tq002308_msg0101",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸로 싸움이 끝난다면\n최대한 협조할게요"
+  }, {
+    "$id" : 9,
+    "label" : "tq002308_msg0102",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시로 씨, 그리고 모두와 함께 웃으면서\n살아가는 일상이 꿈이었거든요……"
+  } ]
+}

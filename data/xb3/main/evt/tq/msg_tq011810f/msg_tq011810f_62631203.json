@@ -1,0 +1,214 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011810_msg0001",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……여기서부턴 가기 전에\n얘기해 둬야 할 게 있습니다"
+  }, {
+    "$id" : 2,
+    "label" : "tq011810_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신이 어째서 키리에가 있는 곳을\n아는지에 대해서 말이야?"
+  }, {
+    "$id" : 3,
+    "label" : "tq011810_msg0003",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 아마도 적의 진짜 목적은……\n바로 저입니다"
+  }, {
+    "$id" : 4,
+    "label" : "tq011810_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그렇다면\n키리에가 붙잡힌 건……"
+  }, {
+    "$id" : 5,
+    "label" : "tq011810_msg0005",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저를 유인하기 위한 인질……\n그렇게 생각하면 앞뒤가 맞죠"
+  }, {
+    "$id" : 6,
+    "label" : "tq011810_msg0006",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "즉 군무장님께선\n적의 정체를 알고 계시다는 말씀이신가요?"
+  }, {
+    "$id" : 7,
+    "label" : "tq011810_msg0007",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아뇨……\n하지만 짐작은 갑니다"
+  }, {
+    "$id" : 8,
+    "label" : "tq011810_msg0008",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 짐작이 맞는다면\n키리에는 이 앞에 있을 터……"
+  }, {
+    "$id" : 9,
+    "label" : "tq011810_msg0009",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대체 무슨 일이 있던 거야?"
+  }, {
+    "$id" : 10,
+    "label" : "tq011810_msg0010",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……\"인과\""
+  }, {
+    "$id" : 11,
+    "label" : "tq011810_msg0011",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "인과……?"
+  }, {
+    "$id" : 12,
+    "label" : "tq011810_msg0012",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "과거에 이 전적지에서\n큰 싸움이 있었습니다"
+  }, {
+    "$id" : 13,
+    "label" : "tq011810_msg0013",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스도 아그누스도\n셀 수 없을 만큼 목숨을 잃고\n마지막에는 양쪽 모두 전멸……"
+  }, {
+    "$id" : 14,
+    "label" : "tq011810_msg0014",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 처참함의 끝을 달린 싸움은\n\"콜로니 카이\"가 방아쇠를 당긴 것에서 유래해\n교훈을 얻고자 이렇게 불리고 있죠"
+  }, {
+    "$id" : 15,
+    "label" : "tq011810_msg0015",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"카이를 잊지 마라\"……"
+  }, {
+    "$id" : 16,
+    "label" : "tq011810_msg0016",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 교전 기록이라면 저도 알고 있습니다\n하지만 그게 지금 이 일과 어떤 관련이 있죠?"
+  }, {
+    "$id" : 17,
+    "label" : "tq011810_msg0017",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그것을 확인하기 위해서라도\n저희는 키리에를 구해야만 합니다"
+  }, {
+    "$id" : 18,
+    "label" : "tq011810_msg0018",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래, 어떤 사연이 있든\n우리의 목적은 변하지 않아. 그렇지?"
+  }, {
+    "$id" : 19,
+    "label" : "tq011810_msg0019",
+    "talker" : "J",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는…… 이번에야말로\n\"화근\"을 제거할 수 있을지"
+  }, {
+    "$id" : 20,
+    "label" : "tq011810_msg0020",
+    "talker" : "J",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니면, 또다시……"
+  }, {
+    "$id" : 21,
+    "label" : "tq011810_msg0021",
+    "talker" : "J",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "키리에……\n제발 무사히 있어 주세요"
+  } ]
+}

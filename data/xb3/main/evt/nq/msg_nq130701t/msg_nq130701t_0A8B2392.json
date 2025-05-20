@@ -1,0 +1,196 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq130701_msg0001",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……컬렉피디아 오류라니\n아, 그 코멘트 표시 관련 말인가요?"
+  }, {
+    "$id" : 2,
+    "label" : "nq130701_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "원인은 알겠어?"
+  }, {
+    "$id" : 3,
+    "label" : "nq130701_msg0003",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "검은 안개로 인한 장애입니다. 아마도요"
+  }, {
+    "$id" : 4,
+    "label" : "nq130701_msg0004",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "툴 자체에 문제가 생기지는 않았어요\n오히려 생기면 곤란합니다"
+  }, {
+    "$id" : 5,
+    "label" : "nq130701_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜 큰일 나나 보네……"
+  }, {
+    "$id" : 6,
+    "label" : "nq130701_msg0006",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "짜증 난다고요, 이 시후라는 사람\n같은 의뢰를 하나씩 계속 올려 대고 있잖아요?"
+  }, {
+    "$id" : 7,
+    "label" : "nq130701_msg0007",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한 번에 모아서 의뢰하면 되지 않아요?\n이러면 효율이 너무 나쁘다고요"
+  }, {
+    "$id" : 8,
+    "label" : "nq130701_msg0008",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 그렇네……\n계속 신규로 올려 대니까 눈에도 띄고"
+  }, {
+    "$id" : 9,
+    "label" : "nq130701_msg0009",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……혹시……\n그게 목적이지는 않을까?"
+  }, {
+    "$id" : 10,
+    "label" : "nq130701_msg0010",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "의뢰품을 획득하는 게 아니라\n이 의뢰를 보게 하는 것 자체가\n목적이라면……"
+  }, {
+    "$id" : 11,
+    "label" : "nq130701_msg0011",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……오호라"
+  }, {
+    "$id" : 12,
+    "label" : "nq130701_msg0012",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 사람의 의뢰품은 다 갱도에서\n손쉽게 채집할 수 있는 것들이네요"
+  }, {
+    "$id" : 13,
+    "label" : "nq130701_msg0013",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "검은 안개도 그 부근에서 발생 중이고요\n그렇다는 말은……"
+  }, {
+    "$id" : 14,
+    "label" : "nq130701_msg0014",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!\n갱도에서 무슨 일이 생겼나?!"
+  }, {
+    "$id" : 15,
+    "label" : "nq130701_msg0015",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확실하지는 않지만\n무언가 난처한 일이 생긴 게 아닐까요?"
+  }, {
+    "$id" : 16,
+    "label" : "nq130701_msg0016",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워\n상태를 보러 가 볼게!"
+  }, {
+    "$id" : 17,
+    "label" : "nq130701_msg0101",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 사람의 의뢰품은 다 갱도에서\n손쉽게 채집할 수 있는 것들이네요"
+  }, {
+    "$id" : 18,
+    "label" : "nq130701_msg0102",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "검은 안개도 그 부근에서 발생 중이고요\n그렇다는 말은……"
+  }, {
+    "$id" : 19,
+    "label" : "nq130701_msg0103",
+    "talker" : "Wb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확실하지는 않지만\n무언가 난처한 일이 생긴 게 아닐까요?"
+  } ]
+}

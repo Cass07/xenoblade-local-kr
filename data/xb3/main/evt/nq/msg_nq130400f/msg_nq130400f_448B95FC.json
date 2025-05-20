@@ -1,0 +1,367 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq130400_msg0001",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약 잘못 알고 있는 거면 미안한데……"
+  }, {
+    "$id" : 2,
+    "label" : "nq130400_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요즘 콜로니 요타에서 화제인\n니나 생일 말이야……"
+  }, {
+    "$id" : 3,
+    "label" : "nq130400_msg0003",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연히 진짜 생일은 아니야"
+  }, {
+    "$id" : 4,
+    "label" : "nq130400_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 그런 거였냐!"
+  }, {
+    "$id" : 5,
+    "label" : "nq130400_msg0005",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장이 언제 성인이 되는지\n알려지면 좀 그렇잖아?"
+  }, {
+    "$id" : 6,
+    "label" : "nq130400_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "약점을 잡히고 싶지 않다는 거지?\n네 말도 일리는 있는데……"
+  }, {
+    "$id" : 7,
+    "label" : "nq130400_msg0007",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 생일은 특별한 날이니까\n철저히 비밀로 해 버리면 섭섭하지 않아?"
+  }, {
+    "$id" : 8,
+    "label" : "nq130400_msg0008",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어머, 섭섭했어?"
+  }, {
+    "$id" : 9,
+    "label" : "nq130400_msg0101",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내…… 내가 아니라\n콜로니 요타 녀석들 말이야!"
+  }, {
+    "$id" : 10,
+    "label" : "nq130400_msg0102",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후……\n그런 거라고 생각할게"
+  }, {
+    "$id" : 11,
+    "label" : "nq130400_msg0201",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그야 뭐\n제대로 축하해 주고 싶으니까"
+  }, {
+    "$id" : 12,
+    "label" : "nq130400_msg0202",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……고마워, 유니"
+  }, {
+    "$id" : 13,
+    "label" : "nq130400_msg0301",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 그렇고 귀찮게 됐군\n네가 몇 기인지 명확히 밝히지 않으니……"
+  }, {
+    "$id" : 14,
+    "label" : "nq130400_msg0302",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번에 성인이 되는 게 아니냐며\n걱정하는 목소리도 들리던데"
+  }, {
+    "$id" : 15,
+    "label" : "nq130400_msg0303",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 문제야\n예전이랑은 상황도 많이 달라졌고……"
+  }, {
+    "$id" : 16,
+    "label" : "nq130400_msg0304",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디까지나 내 의견인데……"
+  }, {
+    "$id" : 17,
+    "label" : "nq130400_msg0305",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자신에게 소중한 사람이\n이번엔 정말 성인이 되는 게 아닌지\n매년 걱정하는 건 꽤 괴로운 일일 거야"
+  }, {
+    "$id" : 18,
+    "label" : "nq130400_msg0306",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……소중한 사람이라면 그렇겠지"
+  }, {
+    "$id" : 19,
+    "label" : "nq130400_msg0307",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사정을 몰랐다면\n나도 그랬을걸?"
+  }, {
+    "$id" : 20,
+    "label" : "nq130400_msg0308",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나와 좀 더\n함께 있고 싶다고 생각했겠지"
+  }, {
+    "$id" : 21,
+    "label" : "nq130400_msg0309",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐……?"
+  }, {
+    "$id" : 22,
+    "label" : "nq130400_msg0310",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응?"
+  }, {
+    "$id" : 23,
+    "label" : "nq130400_msg0311",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그…… 그렇지? 중요한 임무 중에\n갑자기 사라지면 곤란하니까……"
+  }, {
+    "$id" : 24,
+    "label" : "nq130400_msg0312",
+    "talker" : "K",
+    "talkattr" : 33026,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜, 왜 동요하는 거야……?!"
+  }, {
+    "$id" : 25,
+    "label" : "nq130400_msg0313",
+    "talker" : "K",
+    "talkattr" : 33026,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무튼 진정하자……"
+  }, {
+    "$id" : 26,
+    "label" : "nq130400_msg0314",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……지금 한 이야기는\n코토리와 의논해 볼게"
+  }, {
+    "$id" : 27,
+    "label" : "nq130400_msg0315",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어……"
+  }, {
+    "$id" : 28,
+    "label" : "nq130400_msg0316",
+    "talker" : "K",
+    "talkattr" : 41472,
+    "talkattr2" : 2113795,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 29,
+    "label" : "nq130400_msg0317",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……?"
+  }, {
+    "$id" : 30,
+    "label" : "nq130400_msg0318",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이상하네? 연결이 안 돼……"
+  }, {
+    "$id" : 31,
+    "label" : "nq130400_msg0319",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바쁜 건가?"
+  }, {
+    "$id" : 32,
+    "label" : "nq130400_msg0320",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그럴지도 모르지만\n이런 적은 처음이야"
+  }, {
+    "$id" : 33,
+    "label" : "nq130400_msg0321",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 우리가\n코토리를 찾아가 볼까?"
+  }, {
+    "$id" : 34,
+    "label" : "nq130400_msg0322",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 순 없어\n지금은 너희들과 같이 여행하는 중이고……"
+  }, {
+    "$id" : 35,
+    "label" : "nq130400_msg0323",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "함께 찾아보자\n콜로니 어딘가에 있을 거 아냐"
+  }, {
+    "$id" : 36,
+    "label" : "nq130400_msg0324",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "의논하려면 빨리해야지\n모처럼 경사스러운 날을 챙기려는 거잖아"
+  }, {
+    "$id" : 37,
+    "label" : "nq130400_msg0325",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……너희들은 정말 착해서 탈이야"
+  }, {
+    "$id" : 38,
+    "label" : "nq130400_msg0326",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 코토리를 찾을 때까지만\n조금 도와줄래?"
+  } ]
+}

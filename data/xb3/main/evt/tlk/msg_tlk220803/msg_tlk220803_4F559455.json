@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk220803_msg0001",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대형 레브니스 때문에 필요하단 건 알겠지만\n군무장님도 다른 사람들도 에테르를 너무 써!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk220803_msg0002",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유제트 씨는 이제야 간신히\n과로 후유증에서 회복됐는데\n이런 식이면……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk220803_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레파파도 루디도\n방법을 찾으려고 노력하고 있으니까\n그쪽을 응원해 줘"
+  }, {
+    "$id" : 4,
+    "label" : "tlk220803_msg0004",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오…… 군무장님께서……\n……뭐?!"
+  } ]
+}

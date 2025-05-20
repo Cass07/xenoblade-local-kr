@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq991702_msg0001",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 문제라도 생겼나, 발로이?\n주먹이 떨리고 있군"
+  }, {
+    "$id" : 2,
+    "label" : "nq991702_msg0002",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한때 철저하게\n박살 났던 기억이 떠올라서\n겁먹었나?"
+  }, {
+    "$id" : 3,
+    "label" : "nq991702_msg0003",
+    "talker" : "ef1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐야?\n겁먹었……냐고?"
+  }, {
+    "$id" : 4,
+    "label" : "nq991702_msg0004",
+    "talker" : "ef1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내, 내가……\n너를 두려워한다고……"
+  }, {
+    "$id" : 5,
+    "label" : "nq991702_msg0005",
+    "talker" : "ef1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말하는 거냐아아아앗!!"
+  }, {
+    "$id" : 6,
+    "label" : "nq991702_msg0006",
+    "talker" : "ef1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘도 지껄였겠다아아아!\n죽여 주마! 쳐 죽여 버리겠어!!"
+  }, {
+    "$id" : 7,
+    "label" : "nq991702_msg0007",
+    "talker" : "ef1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으오오오아아아앗!!"
+  } ]
+}

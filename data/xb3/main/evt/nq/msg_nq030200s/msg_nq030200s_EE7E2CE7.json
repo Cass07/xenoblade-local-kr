@@ -1,0 +1,268 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq030200_msg0001",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무사히 이사해서 다행이긴 한데……\n처음 오는 곳이라\n당황하는 아이들이 있는 듯해"
+  }, {
+    "$id" : 2,
+    "label" : "nq030200_msg0002",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리 가트 수용소는\n거주에 적합하긴 하나……"
+  }, {
+    "$id" : 3,
+    "label" : "nq030200_msg0003",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"수용소\"라는 환경에\n다들 무의식적으로 위축된 듯합니다"
+  }, {
+    "$id" : 4,
+    "label" : "nq030200_msg0004",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어…… 그러니까……\n결론이 뭐야?"
+  }, {
+    "$id" : 5,
+    "label" : "nq030200_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "병영에서 자는 것과 감옥에서 자는 건\n정신적인 부담이 다를 수밖에 없단 거야"
+  }, {
+    "$id" : 6,
+    "label" : "nq030200_msg0006",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 아이들처럼 경계심이 강하면\n부담은 배로 늘어날 테고"
+  }, {
+    "$id" : 7,
+    "label" : "nq030200_msg0007",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정신 건강에 문제가 된다 이거네"
+  }, {
+    "$id" : 8,
+    "label" : "nq030200_msg0008",
+    "talker" : "1",
+    "talkattr" : 33200,
+    "talkattr2" : 58736769,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안해, 세주\n우리의 배려가 부족했던 거 같아……"
+  }, {
+    "$id" : 9,
+    "label" : "nq030200_msg0009",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 8405122,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아뇨, 이런 상황을 상정하지 못한\n세주의 책임입니다"
+  }, {
+    "$id" : 10,
+    "label" : "nq030200_msg0010",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세주는 모두를 지키려고 했으면서\n동료들을 제대로 파악하지 못했습니다……"
+  }, {
+    "$id" : 11,
+    "label" : "nq030200_msg0011",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 이제 와서……\n다른 곳을 찾기에도 좀 그러잖아"
+  }, {
+    "$id" : 12,
+    "label" : "nq030200_msg0012",
+    "talker" : "6",
+    "talkattr" : 33064,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1074,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 13,
+    "label" : "nq030200_msg0013",
+    "talker" : "6",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼……\n아예 바꿔 버리면 어떨까?"
+  }, {
+    "$id" : 14,
+    "label" : "nq030200_msg0014",
+    "talker" : "3",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바꾸다니, 뭘?"
+  }, {
+    "$id" : 15,
+    "label" : "nq030200_msg0015",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 \"수용소의 내부\"지"
+  }, {
+    "$id" : 16,
+    "label" : "nq030200_msg0016",
+    "talker" : "6",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분위기를 개선할 물건을 둬서\n수용소가 아닌 것처럼 만드는 거야"
+  }, {
+    "$id" : 17,
+    "label" : "nq030200_msg0017",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……수용소 내부를 리모델링하는 겁니까?"
+  }, {
+    "$id" : 18,
+    "label" : "nq030200_msg0018",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니 잠깐, 그게 말이 쉽지\n그 넓은 공간을?"
+  }, {
+    "$id" : 19,
+    "label" : "nq030200_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제대로 리모델링하려면\n물자랑 인원도 마련해야 할 텐데……"
+  }, {
+    "$id" : 20,
+    "label" : "nq030200_msg0020",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그 부분에 대해서는 제안이 있습니다"
+  }, {
+    "$id" : 21,
+    "label" : "nq030200_msg0021",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔가 방법이 있어?"
+  }, {
+    "$id" : 22,
+    "label" : "nq030200_msg0022",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금까지 콜로니 0의 물자 관리는\n6호가 담당했습니다"
+  }, {
+    "$id" : 23,
+    "label" : "nq030200_msg0023",
+    "talker" : "6",
+    "talkattr" : 33104,
+    "talkattr2" : 58736773,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "6호?"
+  }, {
+    "$id" : 24,
+    "label" : "nq030200_msg0024",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "6호는 세주의 보좌관입니다"
+  }, {
+    "$id" : 25,
+    "label" : "nq030200_msg0025",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "6호는 이동 중에 보급이 필요할 때\n독자적인 유통 경로를 사용했습니다"
+  }, {
+    "$id" : 26,
+    "label" : "nq030200_msg0026",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "6호라면 재료를 마련할 방법을\n알고 있을지도 모릅니다"
+  }, {
+    "$id" : 27,
+    "label" : "nq030200_msg0027",
+    "talker" : "6",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나\n그럼 어서 6호와 얘기해 보자"
+  } ]
+}

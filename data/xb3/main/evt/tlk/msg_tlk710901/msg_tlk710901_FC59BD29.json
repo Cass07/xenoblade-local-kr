@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk710901_msg0001",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바깥은 전쟁으로 엉망진창이지만\n시티는 평화롭고 편안해모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk710901_msg0002",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이게 다 안대 덕분이지모\n기기쿠도 늘 차고 다녀모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk710901_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……?\n노폰도 안대를 차야 해?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk710901_msg0004",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "윽……\n그, 그렇게 순진하게 물어보면……!\n그냥 멋으로 찼다고 말하기가 난감한데모……!"
+  } ]
+}

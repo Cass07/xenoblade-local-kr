@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk320305_msg0001",
+    "talker" : "Xd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 타우에는\n이상한 풍습이 많지?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk320305_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마 집정관 때문인 것 같은데……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk320305_msg0003",
+    "talker" : "Xd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선대나 그 이전 세대의 사상에서\n상당수가 전래되었을 거야"
+  }, {
+    "$id" : 4,
+    "label" : "tlk320305_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모든 걸 다 이어받을 필요는 없고\n정말 필요한 것만 남기면 돼"
+  }, {
+    "$id" : 5,
+    "label" : "tlk320305_msg0005",
+    "talker" : "Xd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네 말이 맞아…… 고마워\n너희 덕분에 눈이 뜨이는 것 같아"
+  } ]
+}

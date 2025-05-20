@@ -1,0 +1,799 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001711_msg0001",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이런 짓을 해도……"
+  }, {
+    "$id" : 2,
+    "label" : "tq001711_msg0002",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "바뀌는 건 아무것도 없다……"
+  }, {
+    "$id" : 3,
+    "label" : "tq001711_msg0003",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이 앞에서 기다리는 건 미래가 아니야"
+  }, {
+    "$id" : 4,
+    "label" : "tq001711_msg0004",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "고난과 절망이다……"
+  }, {
+    "$id" : 5,
+    "label" : "tq001711_msg0005",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그렇다 하더라도 받아들이겠어"
+  }, {
+    "$id" : 6,
+    "label" : "tq001711_msg0006",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "설명을 들을 수 있을까? 군무장"
+  }, {
+    "$id" : 7,
+    "label" : "tq001711_msg0007a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "집정관은 괴물이었고"
+  }, {
+    "$id" : 8,
+    "label" : "tq001711_msg0007b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "불시계는 박살 난 데다가\n식량 문제도 미해결인 상태지"
+  }, {
+    "$id" : 9,
+    "label" : "tq001711_msg0008",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "결국 우리가 지금까지 한 건……"
+  }, {
+    "$id" : 10,
+    "label" : "tq001711_msg0009a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "성과는 있다"
+  }, {
+    "$id" : 11,
+    "label" : "tq001711_msg0009b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "원했던 것과는 다르다만"
+  }, {
+    "$id" : 12,
+    "label" : "tq001711_msg0010",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "모두, 잘 들어……"
+  }, {
+    "$id" : 13,
+    "label" : "tq001711_msg0011",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "마, 말도 안 돼……"
+  }, {
+    "$id" : 14,
+    "label" : "tq001711_msg0012",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그럼 우린 지금까지 속았다는……"
+  }, {
+    "$id" : 15,
+    "label" : "tq001711_msg0013",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그런 말이지"
+  }, {
+    "$id" : 16,
+    "label" : "tq001711_msg0014",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그러니 지금부터는 알기 위해 노력해야 해"
+  }, {
+    "$id" : 17,
+    "label" : "tq001711_msg0015a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우리 스스로를"
+  }, {
+    "$id" : 18,
+    "label" : "tq001711_msg0015b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이 콜로니 밖에 있는 것을"
+  }, {
+    "$id" : 19,
+    "label" : "tq001711_msg0016",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "말처럼 쉽냐고!\n뭐가 있을지 모르잖아"
+  }, {
+    "$id" : 20,
+    "label" : "tq001711_msg0017",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래도"
+  }, {
+    "$id" : 21,
+    "label" : "tq001711_msg0018a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "어떤 결과가 될지는"
+  }, {
+    "$id" : 22,
+    "label" : "tq001711_msg0018b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "자기가 한 대로 달라질 것이라고"
+  }, {
+    "$id" : 23,
+    "label" : "tq001711_msg0019",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……그렇게 믿는다"
+  }, {
+    "$id" : 24,
+    "label" : "tq001711_msg0020",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우리도 협력할게"
+  }, {
+    "$id" : 25,
+    "label" : "tq001711_msg0021a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "다시 받아들여 주길 바라서가 아니야"
+  }, {
+    "$id" : 26,
+    "label" : "tq001711_msg0021b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "단지 모두가 살아가기 위해……"
+  }, {
+    "$id" : 27,
+    "label" : "tq001711_msg0022",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우리가 할 수 있는 일을 하게 해 줘"
+  }, {
+    "$id" : 28,
+    "label" : "tq001711_msg0023a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "불안한 심정은 이해하지만"
+  }, {
+    "$id" : 29,
+    "label" : "tq001711_msg0023b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "부디 기회를 주지 않겠나?"
+  }, {
+    "$id" : 30,
+    "label" : "tq001711_msg0024",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "솔직히 지금도 이해되지 않는 구석이 있지만……"
+  }, {
+    "$id" : 31,
+    "label" : "tq001711_msg0025",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭐, 선처해 주자"
+  }, {
+    "$id" : 32,
+    "label" : "tq001711_msg0026a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그러니까……"
+  }, {
+    "$id" : 33,
+    "label" : "tq001711_msg0026b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우리 군무장이 이렇게까지 말하는 것도 드물고"
+  }, {
+    "$id" : 34,
+    "label" : "tq001711_msg0027",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……뭄바가 살아 있었다면\n협력했을 테니까"
+  }, {
+    "$id" : 35,
+    "label" : "tq001711_msg0028",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "모두들……"
+  }, {
+    "$id" : 36,
+    "label" : "tq001711_msg0029",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나는 인정 못 해"
+  }, {
+    "$id" : 37,
+    "label" : "tq001711_msg0030a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭐가 옳고 그른지"
+  }, {
+    "$id" : 38,
+    "label" : "tq001711_msg0030b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그걸 정하는 건 나야! 네가 아니라"
+  }, {
+    "$id" : 39,
+    "label" : "tq001711_msg0031",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "증명하겠어"
+  }, {
+    "$id" : 40,
+    "label" : "tq001711_msg0032",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "군무장에 걸맞은 사람은 나라는 걸"
+  }, {
+    "$id" : 41,
+    "label" : "tq001711_msg0033",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "가자"
+  }, {
+    "$id" : 42,
+    "label" : "tq001711_msg0034",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "말하는 것 좀 봐"
+  }, {
+    "$id" : 43,
+    "label" : "tq001711_msg0035",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "저래 보여도 콜로니를 걱정하는 거다"
+  }, {
+    "$id" : 44,
+    "label" : "tq001711_msg0036",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "카이트라면 걱정할 필요 없어"
+  }, {
+    "$id" : 45,
+    "label" : "tq001711_msg0037",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래서 이제 어쩔 건데?"
+  }, {
+    "$id" : 46,
+    "label" : "tq001711_msg0038",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우선 식량 문제를 해결하고 싶군"
+  }, {
+    "$id" : 47,
+    "label" : "tq001711_msg0039",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그건 일단 원정을 가는 수밖에 없지\n주변에 식량이 없으니까 발생한 문제잖아"
+  }, {
+    "$id" : 48,
+    "label" : "tq001711_msg0040",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "확실히 지금까지는 그랬어"
+  }, {
+    "$id" : 49,
+    "label" : "tq001711_msg0041",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……그래서 반대로 시험해 보려 한다"
+  }, {
+    "$id" : 50,
+    "label" : "tq001711_msg0042",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "반대로?"
+  }, {
+    "$id" : 51,
+    "label" : "tq001711_msg0043",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "밭을 일구는 거다"
+  }, {
+    "$id" : 52,
+    "label" : "tq001711_msg0044",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우리 식량은 우리가 확보하는 거지"
+  }, {
+    "$id" : 53,
+    "label" : "tq001711_msg0045",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "밭이라면 교본에서 봤던 그 밭?"
+  }, {
+    "$id" : 54,
+    "label" : "tq001711_msg0046",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "『식량이 부족하면 땅을 일구어\n기라성 무를 심을 것』"
+  }, {
+    "$id" : 55,
+    "label" : "tq001711_msg0047",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "잘 아네"
+  }, {
+    "$id" : 56,
+    "label" : "tq001711_msg0048",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "당연하지"
+  }, {
+    "$id" : 57,
+    "label" : "tq001711_msg0049",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그렇구나, 생명의 불시계를 유지하면서\n작물을 기르기는 어려웠지만……"
+  }, {
+    "$id" : 58,
+    "label" : "tq001711_msg0050",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래, 지금은 상황이 달라졌지"
+  }, {
+    "$id" : 59,
+    "label" : "tq001711_msg0051",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……도전할 생각이구나"
+  }, {
+    "$id" : 60,
+    "label" : "tq001711_msg0052",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "서툴겠지만 시도해 볼 가치는 충분해"
+  }, {
+    "$id" : 61,
+    "label" : "tq001711_msg0053",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……그럼 식물 생태 관찰부터 시작하는 걸 추천해"
+  }, {
+    "$id" : 62,
+    "label" : "tq001711_msg0054",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "식물도 이 땅에서 살고 싶은 건 똑같아\n분명 배울 게 많을 거야"
+  }, {
+    "$id" : 63,
+    "label" : "tq001711_msg0055",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "일리 있군, 그렇게 해 보겠다"
+  }, {
+    "$id" : 64,
+    "label" : "tq001711_msg0056a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그리고 다음에 내 힘이 필요할 때에는\n언제든지 불러 줘"
+  }, {
+    "$id" : 65,
+    "label" : "tq001711_msg0056b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "힘을 빌려주지"
+  }, {
+    "$id" : 66,
+    "label" : "tq001711_msg0057a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그건 고맙지만……"
+  }, {
+    "$id" : 67,
+    "label" : "tq001711_msg0057b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "정말로 괜찮겠어?"
+  }, {
+    "$id" : 68,
+    "label" : "tq001711_msg0058a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "무언가를 바꾸고 싶다면"
+  }, {
+    "$id" : 69,
+    "label" : "tq001711_msg0058b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "자기가 먼저 달라져야 한다……"
+  }, {
+    "$id" : 70,
+    "label" : "tq001711_msg0059",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그렇게 말한 건 노아였을 텐데?"
+  }, {
+    "$id" : 71,
+    "label" : "tq001711_msg0060",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그치만 우리랑 같이 있으면\n안 좋게 보는 녀석도 있을 거야"
+  }, {
+    "$id" : 72,
+    "label" : "tq001711_msg0061",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "내가 남한테 어떻게 보일지는 중요하지 않아"
+  }, {
+    "$id" : 73,
+    "label" : "tq001711_msg0062",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "군무장으로서\n필요하다고 생각한 일을 하는 거지"
+  }, {
+    "$id" : 74,
+    "label" : "tq001711_msg0063a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "제온은……"
+  }, {
+    "$id" : 75,
+    "label" : "tq001711_msg0063b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "역시 달라진 게 없네"
+  }, {
+    "$id" : 76,
+    "label" : "tq001711_msg0064a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "비꼬는 건가?"
+  }, {
+    "$id" : 77,
+    "label" : "tq001711_msg0064b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "지금 이 분위기에?"
+  }, {
+    "$id" : 78,
+    "label" : "tq001711_msg0065",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아니야"
+  }, {
+    "$id" : 79,
+    "label" : "tq001711_msg0066",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "예전이나 지금이나\n우리의 자랑스러운 동료구나 싶어서"
+  }, {
+    "$id" : 80,
+    "label" : "tq001711_msg0067",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "말솜씨가 제법 좋아졌군"
+  }, {
+    "$id" : 81,
+    "label" : "tq001711_msg0068",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "과연, 사람은 정말 달라지는 법인가"
+  }, {
+    "$id" : 82,
+    "label" : "tq001711_msg0069",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그 반응은 뭐야……"
+  }, {
+    "$id" : 83,
+    "label" : "tq001711_msg0070",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]하하하"
+  }, {
+    "$id" : 84,
+    "label" : "tq001711_msg0071a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "용기를 받았어"
+  }, {
+    "$id" : 85,
+    "label" : "tq001711_msg0071b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "고맙다"
+  }, {
+    "$id" : 86,
+    "label" : "tq001711_msg0072",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나도 그래"
+  } ]
+}

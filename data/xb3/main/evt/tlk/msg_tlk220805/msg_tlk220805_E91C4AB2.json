@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk220805_msg0001",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 요타의 후겐이라는 사람, 정말 신기해\n금세 여기 사람들이랑 허물없이 지내고 있어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk220805_msg0002",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여행을 하는 이유를 물었더니\n본 적이 없는 걸 보고 싶어져서래\n10기가 되면 그런 생각이 들게 되나……?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk220805_msg0003",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여하튼 그래서\n본 적이 없을 만한 걸 건네줬더니\n굉장히 기뻐하긴 했는데……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk220805_msg0004",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……내가 잘못 봤을 수도 있지만\n눈물도 조금 글썽이는 것처럼 보였어\n엄청 대단한 걸 준 것도 아닌데 말이야"
+  }, {
+    "$id" : 5,
+    "label" : "tlk220805_msg0005",
+    "talker" : "oa1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도대체 무슨 생각을 했길래\n눈물을 글썽였을까……?"
+  } ]
+}

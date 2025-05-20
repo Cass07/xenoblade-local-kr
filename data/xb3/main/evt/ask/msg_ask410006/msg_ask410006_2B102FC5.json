@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<BD6361A2>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 11의 식당은 삼시 세끼\n고기 요리만 나와서 부럽네……"
+  }, {
+    "$id" : 2,
+    "label" : "<FF1BF0B5>",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명 고기를 많이 먹는 게\n강함의 비결일 거야"
+  }, {
+    "$id" : 3,
+    "label" : "<53DD9BB2>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아~ 마나나, 우리도 매일\n고기 요리를 해 먹으면 안 돼?"
+  }, {
+    "$id" : 4,
+    "label" : "<1FCC9D63>",
+    "talker" : "tV",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안 돼요모!\n야채도 많이 먹어야죠모"
+  }, {
+    "$id" : 5,
+    "label" : "<E6582ADC>",
+    "talker" : "tV",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 머쉬멜로나 휘황찬란 가지를 먹으면\n고기를 먹는 것 못지않게 근육을 빵빵하게\n키울 수 있다고요모"
+  }, {
+    "$id" : 6,
+    "label" : "<C8FB8648>",
+    "talker" : "6",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야채인데도?"
+  }, {
+    "$id" : 7,
+    "label" : "<BD99881E>",
+    "talker" : "tV",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야채를 얕보지 마세요모!\n식사는 밸런스가 중요해요모!"
+  }, {
+    "$id" : 8,
+    "label" : "<5EE61FBE>",
+    "talker" : "tV",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거기에 아삭한 무나\n보라색 피망도 함께 먹으면\n효과가 몇 배는 늘어나요모!"
+  }, {
+    "$id" : 9,
+    "label" : "<C372C1B1>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흐음~ 그렇구나\n그럼 그걸로 부탁해, 마나나"
+  }, {
+    "$id" : 10,
+    "label" : "<EDCE49C3>",
+    "talker" : "tV",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근데 혈액 순환이 너무 잘돼서\n코피가 펑펑 터질지도 몰라요모\n그래도 괜찮아요모?"
+  }, {
+    "$id" : 11,
+    "label" : "<D8A708DF>",
+    "talker" : "6",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그건 좀……"
+  }, {
+    "$id" : 12,
+    "label" : "<2E46C90A>",
+    "talker" : "5",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "밸런스가 중요한 거\n아니었어……?"
+  } ]
+}

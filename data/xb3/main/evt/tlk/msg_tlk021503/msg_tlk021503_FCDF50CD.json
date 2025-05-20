@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk021503_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 일 있어? 유즈리하"
+  }, {
+    "$id" : 2,
+    "label" : "tlk021503_msg0002",
+    "talker" : "bW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집정관이 무슨 생각으로\n저희를 대했는지 고민하고 있었어요"
+  }, {
+    "$id" : 3,
+    "label" : "tlk021503_msg0003",
+    "talker" : "bW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 물어볼 수도 없지만요"
+  }, {
+    "$id" : 4,
+    "label" : "tlk021503_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 못되게 굴었는데도\n그런 생각을 하고 있었어?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk021503_msg0005",
+    "talker" : "bW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후, 저도 이상하다곤 생각해요\n이유가 뭘까요?"
+  } ]
+}

@@ -1,0 +1,250 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<A9FCF122>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거 봐\n이런 곳에 낙서가 있어"
+  }, {
+    "$id" : 2,
+    "label" : "<88F6CF8D>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 뭐? 어떤 녀석이야?\n웃기지도 않는 장난질을……"
+  }, {
+    "$id" : 3,
+    "label" : "<238679B6>",
+    "talker" : "c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음……\n이게 정말 낙서일까?"
+  }, {
+    "$id" : 4,
+    "label" : "<F91444D1>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확실히 낙서라기에는 의미심장하고\n묘한 박력이 느껴지는 것 같은데……"
+  }, {
+    "$id" : 5,
+    "label" : "<17A31351>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 문장 같아 보이는 그림도\n정교함을 보니 평범한 사람의 솜씨 같지 않아"
+  }, {
+    "$id" : 6,
+    "label" : "<11CE207B>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔지 모를 문자열도 있어\n하지만 난 못 읽겠네…… 무슨 언어일까?"
+  }, {
+    "$id" : 7,
+    "label" : "<86101AA5>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"고원에 저문 고성의 잔재\n코앞에서 기다리는 나락의 골짜기\""
+  }, {
+    "$id" : 8,
+    "label" : "<BD62824C>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "렉스, 이거 읽을 줄 알아?"
+  }, {
+    "$id" : 9,
+    "label" : "<50537495>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선생님, 역시 이 문자는……"
+  }, {
+    "$id" : 10,
+    "label" : "<E9AA3629>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 틀림없어\n이건 고대 아르스트어야"
+  }, {
+    "$id" : 11,
+    "label" : "<9698439C>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 이 문양도 본 기억이 있어\n이건 그냥 낙서가 아냐"
+  }, {
+    "$id" : 12,
+    "label" : "<7A7D2CF4>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 추측이 맞다면\n이 메시지는 \"장소\"를 가리키고 있어"
+  }, {
+    "$id" : 13,
+    "label" : "<FE1B9099>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "장소?\n거기에 뭔가가 있다는 거구나?"
+  }, {
+    "$id" : 14,
+    "label" : "<F6FF5291>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄다\n하지만 \"무언가\"가 있을 건 확실해"
+  }, {
+    "$id" : 15,
+    "label" : "<CFC7CC54>",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까, 그 무언가가 뭔데?"
+  }, {
+    "$id" : 16,
+    "label" : "<BDEC1E33>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 알고 싶으면\n메시지에 담긴 수수께끼를 풀어 보라는 게\n이 낙서를 쓴 녀석의 말인 거지"
+  }, {
+    "$id" : 17,
+    "label" : "<7973A3E0>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "참 나, 뭐 하는 녀석인지는 모르겠지만\n별짓을 다 하는군"
+  }, {
+    "$id" : 18,
+    "label" : "<86A1D28F>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗, 흥미로운데……!\n그렇다면 그 도전은\n이 렉스가 받아 주마!"
+  }, {
+    "$id" : 19,
+    "label" : "<0668CE7B>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "즐거워 보이네, 렉스"
+  }, {
+    "$id" : 20,
+    "label" : "<E873B36B>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 이렇게 두근거리는 기분은\n오랜만에 느껴 봤거든"
+  }, {
+    "$id" : 21,
+    "label" : "<77499081>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "있잖아, 아까 그 메시지\n다시 한번 들려줄 수 있어?"
+  }, {
+    "$id" : 22,
+    "label" : "<84F7F4A3>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 기억으로는 \"고원에 저문 고성의 잔재\n코앞에서 기다리는 나락의 골짜기\"였어"
+  }, {
+    "$id" : 23,
+    "label" : "<AC30BBBB>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……우와, 하나도 모르겠어"
+  }, {
+    "$id" : 24,
+    "label" : "<F2F023B4>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고원, 고성, 나락……\n아마 이런 단어들에 힌트가 있겠지"
+  }, {
+    "$id" : 25,
+    "label" : "<0102F97A>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 이런 수수께끼는 끈기와의 승부니까\n느긋하게 생각해 보자고"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk331003_msg0001",
+    "talker" : "ud1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "곧 결혼식이 있을 건데……\n너희도 참석하지 않겠나?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk331003_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "결혼이 뭔지 잘 모르겠지만……\n우린 아직 할 일이 남아 있어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk331003_msg0003",
+    "talker" : "ud1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래…… 아쉽게 됐군"
+  }, {
+    "$id" : 4,
+    "label" : "tlk331003_msg0004",
+    "talker" : "ud1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "터킨의 결혼식은 참석자가\n축의금을 들고 오는 게 예절인데……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk331003_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "축의금 때문에 우릴 꼬신 거였어?!"
+  } ]
+}

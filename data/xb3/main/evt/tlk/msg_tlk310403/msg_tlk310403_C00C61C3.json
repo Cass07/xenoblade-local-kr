@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk310403_msg0001",
+    "talker" : "qc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 5의 랭크는\n골드였었지?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk310403_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "골드든 뭐든 의미 없어\n그 녀석들 손바닥 위에서 놀아나는 거니까"
+  }, {
+    "$id" : 3,
+    "label" : "tlk310403_msg0003",
+    "talker" : "qc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도…… 콜로니로서\n쭉 골드를 목표로 살아왔는데"
+  }, {
+    "$id" : 4,
+    "label" : "tlk310403_msg0004",
+    "talker" : "qc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 전부 환상이었다니\n지금도 믿을 수가 없어"
+  } ]
+}

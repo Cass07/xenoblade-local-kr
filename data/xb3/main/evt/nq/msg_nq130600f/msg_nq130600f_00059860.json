@@ -1,0 +1,439 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq130600_msg0001",
+    "talker" : "Xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힘내라 힘~"
+  }, {
+    "$id" : 2,
+    "label" : "nq130600_msg0002",
+    "talker" : "Xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빨리 끝내고~ 빨리 돌아가자~"
+  }, {
+    "$id" : 3,
+    "label" : "nq130600_msg0003",
+    "talker" : "bb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 싶으시다면\n대장님께서도 좀 도와주세요!"
+  }, {
+    "$id" : 4,
+    "label" : "nq130600_msg0004",
+    "talker" : "Xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 그 부탁, 진심이야?"
+  }, {
+    "$id" : 5,
+    "label" : "nq130600_msg0005",
+    "talker" : "bb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진심이고 말고요\n10기나 되는 대선배가 이런 식이시면……"
+  }, {
+    "$id" : 6,
+    "label" : "nq130600_msg0006",
+    "talker" : "bb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어? 여러분은……"
+  }, {
+    "$id" : 7,
+    "label" : "nq130600_msg0007",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 투하 물자를\n보고 쫓아왔는데……"
+  }, {
+    "$id" : 8,
+    "label" : "nq130600_msg0008",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희가 우리보다 빨랐나 봐"
+  }, {
+    "$id" : 9,
+    "label" : "nq130600_msg0009",
+    "talker" : "Xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"여기에 떨어질 걸\" 알았으니까"
+  }, {
+    "$id" : 10,
+    "label" : "nq130600_msg0010",
+    "talker" : "Xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 \"눈동자\"는 뭐든지 꿰뚫어보거든\n이를테면……"
+  }, {
+    "$id" : 11,
+    "label" : "nq130600_msg0011",
+    "talker" : "Xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희랑 이렇게 재회할 일도 다 알았지\n우리 귀여운 걸즈……"
+  }, {
+    "$id" : 12,
+    "label" : "nq130600_msg0012",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐가 어째……?"
+  }, {
+    "$id" : 13,
+    "label" : "nq130600_msg0013",
+    "talker" : "bb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희는 각 콜로니가 보유한 물자와\n캐슬의 사정을 파악하고 있어서……"
+  }, {
+    "$id" : 14,
+    "label" : "nq130600_msg0014",
+    "talker" : "bb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "각지의 전황이나 지형을 함께 고려해\n투하 지점을 예측하고 있어요"
+  }, {
+    "$id" : 15,
+    "label" : "nq130600_msg0015",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그런 것까지 파악할 줄이야"
+  }, {
+    "$id" : 16,
+    "label" : "nq130600_msg0016",
+    "talker" : "bb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희 첩보원은 우수하니까요"
+  }, {
+    "$id" : 17,
+    "label" : "nq130600_msg0017",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "믿기 어려운데……"
+  }, {
+    "$id" : 18,
+    "label" : "nq130600_msg0018",
+    "talker" : "Xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "의심이 많구나~ 더벅머리 군"
+  }, {
+    "$id" : 19,
+    "label" : "nq130600_msg0019",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "더벅……?"
+  }, {
+    "$id" : 20,
+    "label" : "nq130600_msg0020",
+    "talker" : "Xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 투하 예측 지점도 있어\n세 영걸의 언덕과 나밤 구릉이야"
+  }, {
+    "$id" : 21,
+    "label" : "nq130600_msg0022",
+    "talker" : "Xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "끌리는 쪽으로 확인하러 가 보든지"
+  }, {
+    "$id" : 22,
+    "label" : "nq130600_msg0023",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 우리가 그런 일을……"
+  }, {
+    "$id" : 23,
+    "label" : "nq130600_msg0024",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일리는 있어"
+  }, {
+    "$id" : 24,
+    "label" : "nq130600_msg0025",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 요타의 정보 정밀도는\n언제 한번 검증해 보려고 했거든"
+  }, {
+    "$id" : 25,
+    "label" : "nq130600_msg0026",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너…… 진심인 거냐……"
+  }, {
+    "$id" : 26,
+    "label" : "nq130600_msg0027",
+    "talker" : "Xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 여기 물자를 손봐야 하니까\n회수하면 우리 콜로니까지 가져다주라"
+  }, {
+    "$id" : 27,
+    "label" : "nq130600_msg0101",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "슬쩍 이용해 먹으려고?"
+  }, {
+    "$id" : 28,
+    "label" : "nq130600_msg0102",
+    "talker" : "Xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아! 니나를 보고 배웠지"
+  }, {
+    "$id" : 29,
+    "label" : "nq130600_msg0103",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너 정말……"
+  }, {
+    "$id" : 30,
+    "label" : "nq130600_msg0201",
+    "talker" : "bb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……보시다시피\n요즘 통 의욕이 없으셔서……"
+  }, {
+    "$id" : 31,
+    "label" : "nq130600_msg0202",
+    "talker" : "bb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "10기나 되는 대선배가 이 모양이면\n후배들이 뭘 보고 배우겠어요……"
+  }, {
+    "$id" : 32,
+    "label" : "nq130600_msg0203",
+    "talker" : "Xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "10기니까 그렇지"
+  }, {
+    "$id" : 33,
+    "label" : "nq130600_msg0204",
+    "talker" : "Xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이대로 끝나도 괜찮은 건가~ 같은\n생각이 불현듯 들 때가 있거든"
+  }, {
+    "$id" : 34,
+    "label" : "nq130600_msg0205",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그 말은……"
+  }, {
+    "$id" : 35,
+    "label" : "nq130600_msg0206",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "후겐이 하고 싶은 건……"
+  }, {
+    "$id" : 36,
+    "label" : "nq130600_msg0300",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "자신의 가능성을 시험해 보고 싶어?"
+  }, {
+    "$id" : 37,
+    "label" : "nq130600_msg0301",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자신의 가능성을 시험해 보고 싶은 거야……?"
+  }, {
+    "$id" : 38,
+    "label" : "nq130600_msg0400",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "좀 더 즐거운 일이 하고 싶어?"
+  }, {
+    "$id" : 39,
+    "label" : "nq130600_msg0401",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좀 더 즐거운 일이 하고 싶은 거야……?"
+  }, {
+    "$id" : 40,
+    "label" : "nq130600_msg0501",
+    "talker" : "Xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미오는 아는구나…… 내 마음을"
+  }, {
+    "$id" : 41,
+    "label" : "nq130600_msg0502",
+    "talker" : "Xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기, 이따가 시간 있어?\n단 둘이서 더 얘기하고 싶은데……"
+  }, {
+    "$id" : 42,
+    "label" : "nq130600_msg0503",
+    "talker" : "bb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시간…… 없으시다면서요?\n바쁘신 거 맞죠? 대장님……?"
+  }, {
+    "$id" : 43,
+    "label" : "nq130600_msg0504",
+    "talker" : "Xb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "명치에…… 명치에 제대로 들어갔어……"
+  }, {
+    "$id" : 44,
+    "label" : "nq130600_msg0505",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말로 예측 지점에 떨어졌어……"
+  }, {
+    "$id" : 45,
+    "label" : "nq130600_msg0506",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다 끝나면 콜로니 요타로\n보고하러 갈게"
+  }, {
+    "$id" : 46,
+    "label" : "nq130600_msg0507",
+    "talker" : "bb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러모로 죄송합니다…… 잘 부탁드려요"
+  } ]
+}

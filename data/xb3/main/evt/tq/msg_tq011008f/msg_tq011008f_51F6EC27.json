@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011008_msg0001",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋았어, 이걸로 미야비의 식재료는 다 모았네"
+  }, {
+    "$id" : 2,
+    "label" : "tq011008_msg0002",
+    "talker" : "B",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 고마워"
+  }, {
+    "$id" : 3,
+    "label" : "tq011008_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다음은 마나나 차례인데……\n음…… 뭐였더라……?"
+  }, {
+    "$id" : 4,
+    "label" : "tq011008_msg0004",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아리에스의 얼룩덜룩 등심과\n슈리브의 활활 매운맛살……"
+  }, {
+    "$id" : 5,
+    "label" : "tq011008_msg0005",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로글의 따끈따끈 진주란과\n마린의 복스러운 극대뱃살이에요모!"
+  }, {
+    "$id" : 6,
+    "label" : "tq011008_msg0007",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분\n조~금 힘들 수도 있지만\n잘 부탁드려요모!"
+  } ]
+}

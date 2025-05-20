@@ -1,0 +1,169 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq010803_msg0001",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 무얼 대접해 줄 겐가모?"
+  }, {
+    "$id" : 2,
+    "label" : "tq010803_msg0002",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 좋겠어요모!"
+  }, {
+    "$id" : 3,
+    "label" : "tq010803_msg0101",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "허허~ 이건……"
+  }, {
+    "$id" : 4,
+    "label" : "tq010803_msg0102",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나의 수제 야전 수프예요모!\n자신 있는 요리예요모!"
+  }, {
+    "$id" : 5,
+    "label" : "tq010803_msg0103",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한번 먹어 볼까모"
+  }, {
+    "$id" : 6,
+    "label" : "tq010803_msg0104",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠…… 과연모"
+  }, {
+    "$id" : 7,
+    "label" : "tq010803_msg0105",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어때요모?"
+  }, {
+    "$id" : 8,
+    "label" : "tq010803_msg0106",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "평범하구나모"
+  }, {
+    "$id" : 9,
+    "label" : "tq010803_msg0107",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모못?! 이걸론 부족해요모?!"
+  }, {
+    "$id" : 10,
+    "label" : "tq010803_msg0201",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음식 나왔어요모~!"
+  }, {
+    "$id" : 11,
+    "label" : "tq010803_msg0202",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 먹기 간편하구먼모"
+  }, {
+    "$id" : 12,
+    "label" : "tq010803_msg0203",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모? 성공인가모?"
+  }, {
+    "$id" : 13,
+    "label" : "tq010803_msg0204",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 내 취향은 아닐세모"
+  }, {
+    "$id" : 14,
+    "label" : "tq010803_msg0205",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "망했어요모……"
+  }, {
+    "$id" : 15,
+    "label" : "tq010803_msg0301",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "비장의 요리가 있어요모!"
+  }, {
+    "$id" : 16,
+    "label" : "tq010803_msg0302",
+    "talker" : "wi1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디 한번 보여 주게모"
+  } ]
+}

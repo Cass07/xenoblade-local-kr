@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310202_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "표시가 없어……\n찾고 있는 상자가 아닌가 봐"
+  }, {
+    "$id" : 2,
+    "label" : "nq310202_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "칫, 표시가 안 보여……\n정답인 상자는 대체 어딨는 거지?"
+  }, {
+    "$id" : 3,
+    "label" : "nq310202_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "X자 표시가 없다는 건……\n수수께끼의 답을 틀렸다는 건가……"
+  }, {
+    "$id" : 4,
+    "label" : "nq310202_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "X자 표시가 없어……\n이건 꽝인가 보네……"
+  }, {
+    "$id" : 5,
+    "label" : "nq310202_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 표시가 없어……!\n정답인 상자는 어디 있는 걸까?"
+  }, {
+    "$id" : 6,
+    "label" : "nq310202_msg0006",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "큭, 내가 이런 실수를……\n꽝을 고를 줄이야……"
+  } ]
+}

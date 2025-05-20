@@ -1,0 +1,322 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq030404_msg0001",
+    "talker" : "pY1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 2,
+    "label" : "nq030404_msg0002",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기, 15호……"
+  }, {
+    "$id" : 3,
+    "label" : "nq030404_msg0003",
+    "talker" : "pY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "듣고 있으니 말해, 7호\n전투 데이터는 잘 받았어"
+  }, {
+    "$id" : 4,
+    "label" : "nq030404_msg0004",
+    "talker" : "pY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……모든 더미 리액터 가동 정상\n출력 계수도 오차 범위 내에 수렴……"
+  }, {
+    "$id" : 5,
+    "label" : "nq030404_msg0005",
+    "talker" : "pY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이상은 없군……\n좋아, 어떻게든 유지되고 있어"
+  }, {
+    "$id" : 6,
+    "label" : "nq030404_msg0006",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "15호, 그러면……"
+  }, {
+    "$id" : 7,
+    "label" : "nq030404_msg0007",
+    "talker" : "pY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래그래, 알았어\n내릴 테니까 보채지 마"
+  }, {
+    "$id" : 8,
+    "label" : "nq030404_msg0008",
+    "talker" : "pY1",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 시킨 대로 내렸어\n이제 됐지?"
+  }, {
+    "$id" : 9,
+    "label" : "nq030404_msg0009",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 15호\n건강해 보여서 안심했습니다"
+  }, {
+    "$id" : 10,
+    "label" : "nq030404_msg0010",
+    "talker" : "pY1",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……흠"
+  }, {
+    "$id" : 11,
+    "label" : "nq030404_msg0011",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그러죠……?"
+  }, {
+    "$id" : 12,
+    "label" : "nq030404_msg0012",
+    "talker" : "pY1",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 7호가 그런 걱정을 하는\n녀석이었나 싶어서"
+  }, {
+    "$id" : 13,
+    "label" : "nq030404_msg0013",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건……"
+  }, {
+    "$id" : 14,
+    "label" : "nq030404_msg0014",
+    "talker" : "pY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐, 아무러면 어때\n15호랑은 상관없는걸"
+  }, {
+    "$id" : 15,
+    "label" : "nq030404_msg0015",
+    "talker" : "pY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 15호는 잘 테니까\n식사 시간 되면 깨워 줘"
+  }, {
+    "$id" : 16,
+    "label" : "nq030404_msg0016",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저…… 저기!"
+  }, {
+    "$id" : 17,
+    "label" : "nq030404_msg0017",
+    "talker" : "pY1",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하아…… 또 뭐야?"
+  }, {
+    "$id" : 18,
+    "label" : "nq030404_msg0018",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 그게……\n결국 철기병 안에서\n뭘 하고 있었나 해서……"
+  }, {
+    "$id" : 19,
+    "label" : "nq030404_msg0019",
+    "talker" : "pY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 그거? 일반인들도\n알 수 있게 설명하자면……"
+  }, {
+    "$id" : 20,
+    "label" : "nq030404_msg0020",
+    "talker" : "pY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모든 철기병의 더미 리액터에\n이상이 없는지 조사하고 있었어"
+  }, {
+    "$id" : 21,
+    "label" : "nq030404_msg0021",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "더미 리액터는 불시계를 대신하는\n철기병의 동력 기관입니다"
+  }, {
+    "$id" : 22,
+    "label" : "nq030404_msg0022",
+    "talker" : "pY1",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후훗……\n참고로 그걸 만든 게 바로 15호지"
+  }, {
+    "$id" : 23,
+    "label" : "nq030404_msg0023",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 네 덕분에 철기병이\n지금도 움직일 수 있는 거네"
+  }, {
+    "$id" : 24,
+    "label" : "nq030404_msg0024",
+    "talker" : "pY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐, 시험 삼아 급히 만든 거라\n가동에 위험성이 있기는 한데"
+  }, {
+    "$id" : 25,
+    "label" : "nq030404_msg0025",
+    "talker" : "pY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다고 해서 15호나 다른 사람들이\n철기병 없이 싸우긴 쉽지 않지"
+  }, {
+    "$id" : 26,
+    "label" : "nq030404_msg0026",
+    "talker" : "pY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 급하게 리액터를 조정해서\n동력 공급을 안정시켜야 했어"
+  }, {
+    "$id" : 27,
+    "label" : "nq030404_msg0027",
+    "talker" : "pY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전투 중에 갑자기 기능이 정지된다면\n그거야말로 죽은 거나 다름없으니까"
+  }, {
+    "$id" : 28,
+    "label" : "nq030404_msg0028",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 되지 않도록\n당신이 지켜보고 있었군요\n감사합니다, 15호"
+  }, {
+    "$id" : 29,
+    "label" : "nq030404_msg0029",
+    "talker" : "pY1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "따, 딱히 그런 건 아니거든!"
+  }, {
+    "$id" : 30,
+    "label" : "nq030404_msg0030",
+    "talker" : "pY1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "15호가 만든 리액터 때문에\n누군가가 죽지 않았으면 해서니까……"
+  }, {
+    "$id" : 31,
+    "label" : "nq030404_msg0031",
+    "talker" : "3",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……솔직하지 못한 녀석이네"
+  }, {
+    "$id" : 32,
+    "label" : "nq030404_msg0032",
+    "talker" : "pY1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "칫…… 이제 됐지?\n밤새워서 작업하느라 피곤하다고"
+  }, {
+    "$id" : 33,
+    "label" : "nq030404_msg0033",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 15호\n이제 푹 쉬세요"
+  } ]
+}

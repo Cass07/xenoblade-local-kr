@@ -1,0 +1,142 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<DC32857B>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어때, 찾았어?"
+  }, {
+    "$id" : 2,
+    "label" : "<9B5FD5DD>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠……\n비슷해 보이는 게 안 보여"
+  }, {
+    "$id" : 3,
+    "label" : "<6A90A4EA>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이거야 원……\n생각보다 성가시겠는걸"
+  }, {
+    "$id" : 4,
+    "label" : "<A03B509E>",
+    "talker" : "zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 일이야? 뭐 찾아?"
+  }, {
+    "$id" : 5,
+    "label" : "<40B8DF74>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 리쿠의 해머를 찾고 있는데\n혹시 짐작 가는 물건 본 적 있어?"
+  }, {
+    "$id" : 6,
+    "label" : "<B0957834>",
+    "talker" : "zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠의 해머……?"
+  }, {
+    "$id" : 7,
+    "label" : "<98A5552A>",
+    "talker" : "zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아! 본 거 같아\n노폰스러운 디자인의 묘한 해머 말이지?"
+  }, {
+    "$id" : 8,
+    "label" : "<D39794E8>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 그거 맞을 거 같은데!\n어디 있어?"
+  }, {
+    "$id" : 9,
+    "label" : "<F08242AE>",
+    "talker" : "zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 음…… 그건 분명\n보급소로 보냈던 거 같은데"
+  }, {
+    "$id" : 10,
+    "label" : "<32357522>",
+    "talker" : "zq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 물건인지 모르겠으니\n일단 상점에 내놔 보자는 결론이 나서……"
+  }, {
+    "$id" : 11,
+    "label" : "<A309345C>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜로? 거기로 간 거냐고"
+  }, {
+    "$id" : 12,
+    "label" : "<D254B37E>",
+    "talker" : "b1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "누가 사 가기라도 하면\n더 일이 복잡해질 거야……"
+  }, {
+    "$id" : 13,
+    "label" : "<9BB7A3AE>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 알아. 어서 보급소로 가자"
+  } ]
+}

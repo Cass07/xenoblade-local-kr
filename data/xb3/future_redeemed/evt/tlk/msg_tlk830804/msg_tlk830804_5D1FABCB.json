@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830804_msg0001",
+    "talker" : "oq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생명의 각인이 있는 한\n저희의 수명이 10년이라는 점은\n변하지 않아요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830804_msg0002",
+    "talker" : "oq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 다행스럽게도\n싸우는 것 외의 선택지를……\n어떻게 살 것인지를 생각할 시간은 생겼어요"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830804_msg0003",
+    "talker" : "oq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저는 히미토와 함께 살아갈 거예요\n\"그날\"이 올 때까지\n후회가 남지 않도록……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830804_msg0004",
+    "talker" : "d1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응, 좋은 생각 같은데?\n히미토도 같은 걸 바라고 있을 거야"
+  } ]
+}

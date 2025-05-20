@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120401_msg0001",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저, 저기……!\n키리에를 구해 주셔서\n정말 감사합니다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120401_msg0002",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 애가 방향치 기질이 워낙 심해서……\n옛날이나 지금이나 한결같은 게\n대체 언제쯤이면 나을지……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120401_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니 이소라는\n키리에랑 동기던가?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120401_msg0004",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 반은 다르지만 동기예요\n보는 사람 조마조마하게 만드는 건 여전해서\n정말 손이 많이 간다니까요"
+  } ]
+}

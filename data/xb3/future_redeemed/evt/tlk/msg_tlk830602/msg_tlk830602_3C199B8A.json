@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830602_msg0001",
+    "talker" : "kq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하이젠~!\n참말로 그 녀석도 참……\n어데를 싸돌아 다니는 기고?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830602_msg0002",
+    "talker" : "kq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 사오미 님께서 세기의 대발견을 해 가꼬\n난리가 나려는 이 상황에……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830602_msg0003",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대발견이라니?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830602_msg0004",
+    "talker" : "kq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 별일 아니데이\n신경 쓰지 마래이"
+  } ]
+}

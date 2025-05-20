@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk021902_msg0001",
+    "talker" : "zV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 정도의 대규모 시설이라면\n철기병도 문제없이 정비할 수 있습니다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk021902_msg0002",
+    "talker" : "zV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "철기병 7호기도 만반의 준비가 된 상태입니다\n전투에 필요할 경우 출격 명령을 내려 주십시오"
+  }, {
+    "$id" : 3,
+    "label" : "tlk021902_msg0003",
+    "talker" : "zV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……가능하다면 세주도\n우로보로스의 임무에 공헌하고 싶습니다"
+  } ]
+}

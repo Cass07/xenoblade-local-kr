@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk130106_msg0001",
+    "talker" : "mY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "7호가 대뜸 자기를 『세주』라 부르길래\n대체 무슨 일인가 싶었는데……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk130106_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "설마 너도\n그 당사자가 될 줄은 몰랐나 봐?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk130106_msg0003",
+    "talker" : "mY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……맞아, 그리고 신기한 게\n6호보다 『준』이라고 불리는 편이\n더 친숙한 기분이 들어"
+  }, {
+    "$id" : 4,
+    "label" : "tlk130106_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들은 누가 뭐래도 인간이야\n그런 기분이 드는 게\n자연스러운 걸지도 모르지"
+  }, {
+    "$id" : 5,
+    "label" : "tlk130106_msg0005",
+    "talker" : "mY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴까……\n그래서 세주가 모두에게 이름을……"
+  } ]
+}

@@ -1,0 +1,214 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq010107_msg0001",
+    "talker" : "YX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "울!"
+  }, {
+    "$id" : 2,
+    "label" : "nq010107_msg0002",
+    "talker" : "YX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금까지 어디 갔었어……\n걱정했잖아!"
+  }, {
+    "$id" : 3,
+    "label" : "nq010107_msg0003",
+    "talker" : "YX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "울에게 무슨 일이라도 생겼을까 봐\n걱정돼 죽는 줄 알았다고!!"
+  }, {
+    "$id" : 4,
+    "label" : "nq010107_msg0004",
+    "talker" : "XX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안해……"
+  }, {
+    "$id" : 5,
+    "label" : "nq010107_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진정해, 그렇게 무조건 화내지 말고"
+  }, {
+    "$id" : 6,
+    "label" : "nq010107_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "울도 여러모로 생각이 많았나 봐\n얘기 좀 들어 줘"
+  }, {
+    "$id" : 7,
+    "label" : "nq010107_msg0007",
+    "talker" : "YX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만……"
+  }, {
+    "$id" : 8,
+    "label" : "nq010107_msg0008",
+    "talker" : "XX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캐리"
+  }, {
+    "$id" : 9,
+    "label" : "nq010107_msg0009",
+    "talker" : "XX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나, 환송을 못 하게 돼서\n앞으로의 일을 조금 정리하고 있었어"
+  }, {
+    "$id" : 10,
+    "label" : "nq010107_msg0010",
+    "talker" : "XX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 왜 예전처럼 할 수 없는지는\n찬찬히 생각하려고 해"
+  }, {
+    "$id" : 11,
+    "label" : "nq010107_msg0011",
+    "talker" : "XX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고…… 환송을 못 하게 된 걸\n콜로니 9 사람들한테 숨기는 건 그만할래"
+  }, {
+    "$id" : 12,
+    "label" : "nq010107_msg0012",
+    "talker" : "YX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?! 하지만……"
+  }, {
+    "$id" : 13,
+    "label" : "nq010107_msg0013",
+    "talker" : "XX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노아 씨 일행에게 얘기하고 나서\n내 나름대로 생각한 결과야"
+  }, {
+    "$id" : 14,
+    "label" : "nq010107_msg0014",
+    "talker" : "XX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금같이 불편한 마음인 채로\n환송하는 건 잘못된 것 같아"
+  }, {
+    "$id" : 15,
+    "label" : "nq010107_msg0015",
+    "talker" : "YX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "울……"
+  }, {
+    "$id" : 16,
+    "label" : "nq010107_msg0016",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "환송자 녀석들은\n죄다 손이 많이 간다니까"
+  }, {
+    "$id" : 17,
+    "label" : "nq010107_msg0017",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동감이야"
+  }, {
+    "$id" : 18,
+    "label" : "nq010107_msg0018",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이렇게 됐으니\n조금만 더 뒤치다꺼리해 줘"
+  }, {
+    "$id" : 19,
+    "label" : "nq010107_msg0019",
+    "talker" : "YX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말하지 않아도 그럴 거야\n나는 울을 호위하는 역할이니까"
+  }, {
+    "$id" : 20,
+    "label" : "nq010107_msg0020",
+    "talker" : "XX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캐리, 고마워"
+  }, {
+    "$id" : 21,
+    "label" : "nq010107_msg0021",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사건 해결이야모"
+  } ]
+}

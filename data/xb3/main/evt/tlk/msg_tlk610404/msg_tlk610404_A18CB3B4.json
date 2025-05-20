@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk610404_msg0001",
+    "talker" : "sj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티가 정말로 원했던 건\n식량이 아니었던 것 같군요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk610404_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런가 보네……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk610404_msg0003",
+    "talker" : "sj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무기나 레브니스에 쓸 자재가\n필요했었다니 이것 참 곤란하네요"
+  }, {
+    "$id" : 4,
+    "label" : "tlk610404_msg0004",
+    "talker" : "sj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희도 필사적인 상황이라 잘못된 연락이 오면\n아무리 노력한들 문제가 발생하고 맙니다"
+  }, {
+    "$id" : 5,
+    "label" : "tlk610404_msg0005",
+    "talker" : "sj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "누구라고 하지는 않겠지만\n좀 더 생각해서 행동해 주셨으면 좋겠네요"
+  } ]
+}

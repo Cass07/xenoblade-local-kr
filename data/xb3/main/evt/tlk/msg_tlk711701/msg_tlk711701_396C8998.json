@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk711701_msg0001",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 일대는 예전에\n케베스와 아그누스의 전쟁터였는데\n상당한 격전지였다고 해"
+  }, {
+    "$id" : 2,
+    "label" : "tlk711701_msg0002",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "양쪽 다 진흙탕 같은 전쟁을 벌이다\n결국 황폐해진 전쟁터와\n산처럼 쌓인 유해만이 남았지……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk711701_msg0003",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그곳에 우리 선조가 이주한 거야\n복잡한 과거가 있는 곳이긴 해도\n숨어서 살기에는 딱 좋았거든"
+  }, {
+    "$id" : 4,
+    "label" : "tlk711701_msg0004",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이후 우리는 지금까지 변함없이\n이곳에서 근근이 삶을 유지하고 있어\n……정체된 나날을 보내고 있지"
+  } ]
+}

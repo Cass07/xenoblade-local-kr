@@ -1,0 +1,394 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq310503_msg0001",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저어……\n당신이 리안다 씨야?"
+  }, {
+    "$id" : 2,
+    "label" : "nq310503_msg0002",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 내가 리안다야\n무슨 볼일이지?"
+  }, {
+    "$id" : 3,
+    "label" : "nq310503_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "웰웰한테 들었는데……\n당신이 『시조행록』을 쓴 거 맞지?"
+  }, {
+    "$id" : 4,
+    "label" : "nq310503_msg0004",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "호오! 이번 우로보로스들이\n내 소설에 관심을 가질 줄이야"
+  }, {
+    "$id" : 5,
+    "label" : "nq310503_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "애초에 그 소설이란 게 뭔지\n아직도 잘 모르겠는데……"
+  }, {
+    "$id" : 6,
+    "label" : "nq310503_msg0006",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……흐흠, 그랬군\n하지만 그럴 만해"
+  }, {
+    "$id" : 7,
+    "label" : "nq310503_msg0007",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티 밖에도 책 같은 건 있겠지만\n소설은 존재하지 않을 테니까"
+  }, {
+    "$id" : 8,
+    "label" : "nq310503_msg0008",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자세히는 모르겠지만……\n혹시 \"일기\" 같은 건가?"
+  }, {
+    "$id" : 9,
+    "label" : "nq310503_msg0009",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠…… 시조들의 행동을\n구체적으로 기술했다는 점에서\n완전히 다르다고 할 수는 없지만……"
+  }, {
+    "$id" : 10,
+    "label" : "nq310503_msg0010",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일기와 결정적으로 다른 점은\n기술한 내용 대부분을 내가 창작했다는 거야"
+  }, {
+    "$id" : 11,
+    "label" : "nq310503_msg0011",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "창작……?"
+  }, {
+    "$id" : 12,
+    "label" : "nq310503_msg0012",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "쉽게 말하자면…… \"거짓말\"이지"
+  }, {
+    "$id" : 13,
+    "label" : "nq310503_msg0013",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐어?!\n그럼 전부 엉터리란 거야?"
+  }, {
+    "$id" : 14,
+    "label" : "nq310503_msg0014",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 가능한 한 사실을 토대로\n기술하려고 노력했어"
+  }, {
+    "$id" : 15,
+    "label" : "nq310503_msg0015",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 시티에도 시조와 관련된\n문헌이나 자료는 별로 남아 있지 않거든"
+  }, {
+    "$id" : 16,
+    "label" : "nq310503_msg0016",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 내 나름대로 추측과 해석을 덧붙여서\n부족한 분량을 채울 수밖에 없는 거야"
+  }, {
+    "$id" : 17,
+    "label" : "nq310503_msg0017",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그런데 이제 슬슬\n절필할 때가 온 것 같긴 해"
+  }, {
+    "$id" : 18,
+    "label" : "nq310503_msg0018",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "절필이라니……\n글을 그만 쓰겠다는 말이야?"
+  }, {
+    "$id" : 19,
+    "label" : "nq310503_msg0019",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상상력에 한계가 온 것 같아서 말이야\n아무리 용을 써도 다음 편을 못 쓰겠어"
+  }, {
+    "$id" : 20,
+    "label" : "nq310503_msg0020",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮겠어?\n다들 당신의 소설을\n기대하고 있잖아?"
+  }, {
+    "$id" : 21,
+    "label" : "nq310503_msg0021",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 그래서 이렇게\n아이디어가 하늘에서 떨어지기만을\n기다리는 중인데……"
+  }, {
+    "$id" : 22,
+    "label" : "nq310503_msg0022",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아니, 지금 막\n눈앞에 떨어졌다고 해야 하나"
+  }, {
+    "$id" : 23,
+    "label" : "nq310503_msg0023",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 소리야?"
+  }, {
+    "$id" : 24,
+    "label" : "nq310503_msg0024",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들, 이것도 인연인데\n괜찮다면 내 \"취재\"를\n도와주지 않을래?"
+  }, {
+    "$id" : 25,
+    "label" : "nq310503_msg0025",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "취재……?"
+  }, {
+    "$id" : 26,
+    "label" : "nq310503_msg0026",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오늘은 들어 본 적 없는\n단어가 많이 등장하는군……"
+  }, {
+    "$id" : 27,
+    "label" : "nq310503_msg0027",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "문헌에 따르면\n여섯 시조는 새로운 세상을 찾아\n세계 각지를 여행했다나 봐"
+  }, {
+    "$id" : 28,
+    "label" : "nq310503_msg0028",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나름대로 연구를 진행하면서\n그들이 찾아갔다는 장소를\n특정하긴 했는데……"
+  }, {
+    "$id" : 29,
+    "label" : "nq310503_msg0029",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안타깝게도 난 싸우는 쪽으로는 재능이\n거의 없다고 할 만큼 약하단 말이지\n그러니 너희가 대신 조사해 줬으면 좋겠어"
+  }, {
+    "$id" : 30,
+    "label" : "nq310503_msg0030",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조사하라니 말은 쉽지……\n뭘 조사해야 하는 건데?"
+  }, {
+    "$id" : 31,
+    "label" : "nq310503_msg0031",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠…… 그럼……\n뭔가 특별한 물건을 보면\n주워 오지 않을래?"
+  }, {
+    "$id" : 32,
+    "label" : "nq310503_msg0032",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 시조의 문헌에 기술되어 있는\n장소에 \"무언가\"가 있을 거라 믿어"
+  }, {
+    "$id" : 33,
+    "label" : "nq310503_msg0033",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 장소가 어디야?"
+  }, {
+    "$id" : 34,
+    "label" : "nq310503_msg0034",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우선 포니스 지방에 있는\n\"천애의 손끝\"과 \"다나 사막\""
+  }, {
+    "$id" : 35,
+    "label" : "nq310503_msg0035",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 펜테라스 지방에 있는\n\"세브 유적\"과 \"절벽의 옛길\""
+  }, {
+    "$id" : 36,
+    "label" : "nq310503_msg0036",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마지막으로 카덴시아 지방에 있는\n\"유구의 천반\"이라는 장소야"
+  }, {
+    "$id" : 37,
+    "label" : "nq310503_msg0037",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐, 잠깐만……\n설마 거길 전부 다 살펴보고 오라고?"
+  }, {
+    "$id" : 38,
+    "label" : "nq310503_msg0038",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젊어 고생은 사서도 하는 법이지\n나이를 먹은 뒤에는\n사서 하고 싶어도 못 하거든"
+  }, {
+    "$id" : 39,
+    "label" : "nq310503_msg0039",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하여간 나도\n펜보다 무거운 건 못 드는\n내 늙은 몸뚱이가 원망스러워"
+  }, {
+    "$id" : 40,
+    "label" : "nq310503_msg0040",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알겠어\n만약 무언가 찾으면 알려 줄게"
+  }, {
+    "$id" : 41,
+    "label" : "nq310503_msg0041",
+    "talker" : "bl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워, 젊은이들\n기대하면서 기다릴게"
+  } ]
+}

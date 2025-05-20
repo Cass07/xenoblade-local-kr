@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011743_msg0001",
+    "talker" : "eX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "밭이라면 걱정 마라\n물 주는 것쯤은 2초면 끝나니까"
+  }, {
+    "$id" : 2,
+    "label" : "tq011743_msg0002",
+    "talker" : "eX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "땅을 다시 간다면……\n15초는 걸리나……"
+  }, {
+    "$id" : 3,
+    "label" : "tq011743_msg0003",
+    "talker" : "eX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……훗\n완벽하게 갈아 주지"
+  }, {
+    "$id" : 4,
+    "label" : "tq011743_msg0004",
+    "talker" : "eX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "3초 주지……\n빨리 비료를 준비해"
+  }, {
+    "$id" : 5,
+    "label" : "tq011743_msg0005",
+    "talker" : "eX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "카이트를 싫어하진 않는다\n내 시간을 뺏지 않으니까"
+  }, {
+    "$id" : 6,
+    "label" : "tq011743_msg0006",
+    "talker" : "eX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……너희도 조심해라\n시간과 동료는……\n한번 잃으면 돌아오지 않는다"
+  }, {
+    "$id" : 7,
+    "label" : "tq011743_msg0007",
+    "talker" : "eX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……카이트가 어떻게 된 거지?\n약속 시간에 1분 늦었다"
+  }, {
+    "$id" : 8,
+    "label" : "tq011743_msg0008",
+    "talker" : "eX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……무슨 일이 생긴 걸지도 모르겠군"
+  } ]
+}

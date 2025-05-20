@@ -1,0 +1,322 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011801_msg0001",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두 모였습니까?\n그럼 본 연습의 임무를 설명하겠습니다"
+  }, {
+    "$id" : 2,
+    "label" : "tq011801_msg0002",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아, 그 전에\n일단 위를 봐 주세요"
+  }, {
+    "$id" : 3,
+    "label" : "tq011801_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……위?"
+  }, {
+    "$id" : 4,
+    "label" : "tq011801_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗……!"
+  }, {
+    "$id" : 5,
+    "label" : "tq011801_msg0005",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방금 제가 이번 연습용으로 준비해 둔\n컨테이너가 투하되었습니다"
+  }, {
+    "$id" : 6,
+    "label" : "tq011801_msg0006",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후츠반, 아시하라반, 키리에반. 각 부대는\n컨테이너를 수색하고 신속하게 회수해 주세요"
+  }, {
+    "$id" : 7,
+    "label" : "tq011801_msg0007",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 우리는?"
+  }, {
+    "$id" : 8,
+    "label" : "tq011801_msg0008",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희는 컨테이너를 노리는 \"적\"입니다\n그들의 회수 임무를 전력으로 방해하면 됩니다"
+  }, {
+    "$id" : 9,
+    "label" : "tq011801_msg0009",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네에?! 미오 선배 일행이랑 싸워야 해요?!\n그런 건 못해요!"
+  }, {
+    "$id" : 10,
+    "label" : "tq011801_msg0010",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하나하나 딴지 걸지 마세요\n이게 연습이라는 걸 잊었나요?"
+  }, {
+    "$id" : 11,
+    "label" : "tq011801_msg0011",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 우리 같은 신병 상대로\n선배들이 제 실력을 발휘할 리가 없잖아"
+  }, {
+    "$id" : 12,
+    "label" : "tq011801_msg0012",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……세 사람 모두, 지금부터\n제 말을 잘 들으세요"
+  }, {
+    "$id" : 13,
+    "label" : "tq011801_msg0013",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적이 누가 됐든, 상대를\n업신여기거나 얕봐선 안 됩니다"
+  }, {
+    "$id" : 14,
+    "label" : "tq011801_msg0014",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 블레이드를 맞댔다면\n모든 힘을 동원해서 싸워야 하죠"
+  }, {
+    "$id" : 15,
+    "label" : "tq011801_msg0015",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것이 \"경의\"라는 것입니다"
+  }, {
+    "$id" : 16,
+    "label" : "tq011801_msg0016",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "경의…… 말인가요……?"
+  }, {
+    "$id" : 17,
+    "label" : "tq011801_msg0017",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "경의를 표하는 마음 없이 전투에 임했다간\n그 자리에는 오직 \"화근\"이 남을 뿐……"
+  }, {
+    "$id" : 18,
+    "label" : "tq011801_msg0018",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힘에 몸을 내맡기고 싸우기만 한다면\n이 전쟁은 절대 끝나지 않습니다"
+  }, {
+    "$id" : 19,
+    "label" : "tq011801_msg0019",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러므로 저희들 병사의 근본적인 사명이란\n경의를 지니고 화근을 제거하는 것이죠"
+  }, {
+    "$id" : 20,
+    "label" : "tq011801_msg0020",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여전히 어려운 말을 하네"
+  }, {
+    "$id" : 21,
+    "label" : "tq011801_msg0021",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으, 응……\n시도 군무장님다우시긴 하지만"
+  }, {
+    "$id" : 22,
+    "label" : "tq011801_msg0022",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미오 일행도 사양할 필요 없습니다\n여러분도 전력으로 그들과 싸워 주세요"
+  }, {
+    "$id" : 23,
+    "label" : "tq011801_msg0023",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알겠어\n우리도 전력으로 \"적\"을 물리치겠어"
+  }, {
+    "$id" : 24,
+    "label" : "tq011801_msg0024a",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋습니다"
+  }, {
+    "$id" : 25,
+    "label" : "tq011801_msg0024b",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 각 반은 지정된 포인트로 향해서\n연습 개시 시간까지 대기하세요"
+  }, {
+    "$id" : 26,
+    "label" : "tq011801_msg0025",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이후 \"눈동자\"를 통한 통신을 금지합니다\n……이상, 해산!"
+  }, {
+    "$id" : 27,
+    "label" : "tq011801_msg0026",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "슬슬 시간이 됐군요\n저희도 작전 행동을 시작……"
+  }, {
+    "$id" : 28,
+    "label" : "tq011801_msg0027",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 29,
+    "label" : "tq011801_msg0028",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시도……? 왜 그래?"
+  }, {
+    "$id" : 30,
+    "label" : "tq011801_msg0029",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아뇨, 누군가의 시선을 느낀 것 같았는데\n기분 탓이었나 봅니다"
+  }, {
+    "$id" : 31,
+    "label" : "tq011801_msg0030",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이봐, 빨리 컨테이너를 찾으러 가자\n이러다 햇병아리들한테 지면 어쩌려고"
+  }, {
+    "$id" : 32,
+    "label" : "tq011801_msg0031",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗…… 그렇군요\n저희도 선배로서 위엄을 보여야겠죠"
+  }, {
+    "$id" : 33,
+    "label" : "tq011801_msg0032",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 임무 개시야"
+  } ]
+}

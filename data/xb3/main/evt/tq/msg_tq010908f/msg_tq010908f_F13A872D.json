@@ -1,0 +1,241 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq010908_msg0001",
+    "talker" : "4",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제길…… 내가 왜 이런 꼴을……"
+  }, {
+    "$id" : 2,
+    "label" : "tq010908_msg0002",
+    "talker" : "A",
+    "talkattr" : 33160,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하! 타이온\n무슨 일이든 경험이 중요해\n온천은 나쁘지 않았잖아?"
+  }, {
+    "$id" : 3,
+    "label" : "tq010908_msg0003",
+    "talker" : "4",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 뭐어…… 물론 그랬습니다만……"
+  }, {
+    "$id" : 4,
+    "label" : "tq010908_msg0004",
+    "talker" : "3",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "확실히 들어가 보니까 나쁘진 않더라"
+  }, {
+    "$id" : 5,
+    "label" : "tq010908_msg0005",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으, 응……"
+  }, {
+    "$id" : 6,
+    "label" : "tq010908_msg0006",
+    "talker" : "2",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "피로가 싹 가셨어"
+  }, {
+    "$id" : 7,
+    "label" : "tq010908_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은 휴가였어?"
+  }, {
+    "$id" : 8,
+    "label" : "tq010908_msg0008",
+    "talker" : "A",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 너희 덕분에\n마음의 여유가 생긴 것 같아"
+  }, {
+    "$id" : 9,
+    "label" : "tq010908_msg0009",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니만 신경 쓰느라\n몸을 꽤 혹사했던 것 같군"
+  }, {
+    "$id" : 10,
+    "label" : "tq010908_msg0010",
+    "talker" : "2",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기 온 보람이 있었네"
+  }, {
+    "$id" : 11,
+    "label" : "tq010908_msg0011",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "문화를 즐기려면\n마음의 여유가 있어야지"
+  }, {
+    "$id" : 12,
+    "label" : "tq010908_msg0012",
+    "talker" : "A",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생각이 정리된 느낌이야\n기회가 되면 콜로니 사람들을\n여기로 데리고 와야겠는걸"
+  }, {
+    "$id" : 13,
+    "label" : "tq010908_msg0013",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다 함께 들어가고 싶어도\n이만한 크기의 온천이라면\n순서를 기다리는 줄이 생길 거야"
+  }, {
+    "$id" : 14,
+    "label" : "tq010908_msg0014",
+    "talker" : "A",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗, 그렇다면 땅을 파면 돼\n새로운 온천을 찾아낼 수 있도록 말이지"
+  }, {
+    "$id" : 15,
+    "label" : "tq010908_msg0015",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진심이야?"
+  }, {
+    "$id" : 16,
+    "label" : "tq010908_msg0016",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전쟁이 사라지고 사람들에게 여유가 생기면\n진심으로 생각해 볼 만하지"
+  }, {
+    "$id" : 17,
+    "label" : "tq010908_msg0017",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "채굴에 익숙한 우리에게\n땅을 파는 일쯤은 간단해"
+  }, {
+    "$id" : 18,
+    "label" : "tq010908_msg0018",
+    "talker" : "A",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 잠깐만……\n땅을 파서 온천을 많이 찾는다면\n다른 콜로니 사람들도 데려와서……"
+  }, {
+    "$id" : 19,
+    "label" : "tq010908_msg0019",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너무 앞서가는데……"
+  }, {
+    "$id" : 20,
+    "label" : "tq010908_msg0020",
+    "talker" : "1",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "온천의 매력에\n완전히 빠진 것 같은데?"
+  }, {
+    "$id" : 21,
+    "label" : "tq010908_msg0021",
+    "talker" : "4",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이스루기 군무장님께선\n이럴 때일수록\n더욱 강해지는 분이시거든"
+  }, {
+    "$id" : 22,
+    "label" : "tq010908_msg0022",
+    "talker" : "2",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 좋은 일이네, 타이온"
+  }, {
+    "$id" : 23,
+    "label" : "tq010908_msg0023",
+    "talker" : "4",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 분명 앞으로도\n우리의 힘이 되어 주실 거야"
+  }, {
+    "$id" : 24,
+    "label" : "tq010908_msg0024",
+    "talker" : "A",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 가자\n다음 목표를 향해"
+  } ]
+}

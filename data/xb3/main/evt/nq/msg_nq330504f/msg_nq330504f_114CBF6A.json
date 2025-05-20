@@ -1,0 +1,502 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq330504_msg0001",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "히익! 왔다……!"
+  }, {
+    "$id" : 2,
+    "label" : "nq330504_msg0002",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "처, 처음 뵙겠슴미다!"
+  }, {
+    "$id" : 3,
+    "label" : "nq330504_msg0003",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 말! 말 더듬었어!"
+  }, {
+    "$id" : 4,
+    "label" : "nq330504_msg0004",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기, 긴장해서……!"
+  }, {
+    "$id" : 5,
+    "label" : "nq330504_msg0005",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우왓?!"
+  }, {
+    "$id" : 6,
+    "label" : "nq330504_msg0006",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아가씨, 요리사군?"
+  }, {
+    "$id" : 7,
+    "label" : "nq330504_msg0007",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 냄새는…… 크림소스인가?"
+  }, {
+    "$id" : 8,
+    "label" : "nq330504_msg0008",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아르마 우유를 사용한 화이트 소스야모\n렌게 씨가 잘 만드는 요리야모!"
+  }, {
+    "$id" : 9,
+    "label" : "nq330504_msg0009",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오오, 맛있어 보이는걸"
+  }, {
+    "$id" : 10,
+    "label" : "nq330504_msg0010",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무척 맛있어모\n그러니까 렌게 씨를 괴롭히면 안 돼모"
+  }, {
+    "$id" : 11,
+    "label" : "nq330504_msg0011",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연하지!\n밥을 만드는 녀석은 훌륭하다고"
+  }, {
+    "$id" : 12,
+    "label" : "nq330504_msg0012",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐니 뭐니 해도 사람을 행복하게 하잖아\n불행하게 만드는 건 쉽지만\n행복하게 만드는 건 어렵거든"
+  }, {
+    "$id" : 13,
+    "label" : "nq330504_msg0013",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘은 모르겠지만……\n나 칭찬받은 거야?"
+  }, {
+    "$id" : 14,
+    "label" : "nq330504_msg0014",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "트라이던은 우리 동료인 뫼비우스야\n걱정하지 않아도 돼"
+  }, {
+    "$id" : 15,
+    "label" : "nq330504_msg0015",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뫼비우스는……\n이렇게 크구나?"
+  }, {
+    "$id" : 16,
+    "label" : "nq330504_msg0016",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이치카랑 전혀 딴판이네……"
+  }, {
+    "$id" : 17,
+    "label" : "nq330504_msg0017",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어엉?"
+  }, {
+    "$id" : 18,
+    "label" : "nq330504_msg0018",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나를 쏜 게 형씨들이지?"
+  }, {
+    "$id" : 19,
+    "label" : "nq330504_msg0019",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "히익! 어어, 어떻게 알았지?!"
+  }, {
+    "$id" : 20,
+    "label" : "nq330504_msg0020",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "화약 냄새가 나잖아\n보기 좋게 쏴 주셨겠다……"
+  }, {
+    "$id" : 21,
+    "label" : "nq330504_msg0021",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "덕분에 딱 알맞게 배가 고파졌어!\n하하하!"
+  }, {
+    "$id" : 22,
+    "label" : "nq330504_msg0022",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜, 왜 웃는 거야……?"
+  }, {
+    "$id" : 23,
+    "label" : "nq330504_msg0023",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 몰라……"
+  }, {
+    "$id" : 24,
+    "label" : "nq330504_msg0024",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "렌게……\n이 주변에 커다란 조개가 있던가?"
+  }, {
+    "$id" : 25,
+    "label" : "nq330504_msg0025",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "커다란 조개?"
+  }, {
+    "$id" : 26,
+    "label" : "nq330504_msg0026",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대왕 대합 말하는 거야?\n사람 머리만큼 큰 조개인데……"
+  }, {
+    "$id" : 27,
+    "label" : "nq330504_msg0027",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 그 대왕 대합이야!\n그건 어디서 캘 수 있어?"
+  }, {
+    "$id" : 28,
+    "label" : "nq330504_msg0028",
+    "talker" : "bg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떤 모래사장이었던 것 같은데……\n나도 실제로 본 적은 한 번밖에 없거든"
+  }, {
+    "$id" : 29,
+    "label" : "nq330504_msg0029",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조개가 잘 잡히는 곳은\n크레센 해안 근처였지?"
+  }, {
+    "$id" : 30,
+    "label" : "nq330504_msg0030",
+    "talker" : "ag1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "암초뿔 모래사장에서도 잡혀모~"
+  }, {
+    "$id" : 31,
+    "label" : "nq330504_msg0031",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러 곳에 가 보는 게 좋겠네"
+  }, {
+    "$id" : 32,
+    "label" : "nq330504_msg0032",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 부탁한다\n난 여기서 기다릴게!"
+  }, {
+    "$id" : 33,
+    "label" : "nq330504_msg0033",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야? 네가 찾는 거잖아?!"
+  }, {
+    "$id" : 34,
+    "label" : "nq330504_msg0034",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "공교롭게도 지금부터 난 식사 시간이거든"
+  }, {
+    "$id" : 35,
+    "label" : "nq330504_msg0035",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어때? 형씨들도 같이 먹을래?"
+  }, {
+    "$id" : 36,
+    "label" : "nq330504_msg0036",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엑?!"
+  }, {
+    "$id" : 37,
+    "label" : "nq330504_msg0037",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우, 우리도?!"
+  }, {
+    "$id" : 38,
+    "label" : "nq330504_msg0038",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잡아먹진 않을 테니까\n걱정 말고 와 봐, 어서"
+  }, {
+    "$id" : 39,
+    "label" : "nq330504_msg0039",
+    "talker" : "N",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "크악~~~~!!!"
+  }, {
+    "$id" : 40,
+    "label" : "nq330504_msg0040",
+    "talker" : "xf1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우아아아아아악?!!"
+  }, {
+    "$id" : 41,
+    "label" : "nq330504_msg0041",
+    "talker" : "Xg1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꺄악~~~~?!"
+  }, {
+    "$id" : 42,
+    "label" : "nq330504_msg0042",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하~하핫! 방심은 금물이다!"
+  }, {
+    "$id" : 43,
+    "label" : "nq330504_msg0043",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 장난치지 마!\n얘네한텐 웃을 일이 아니란 말이야!"
+  }, {
+    "$id" : 44,
+    "label" : "nq330504_msg0044",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캡틴, 모두와\n사이좋게 지내지 않으면……"
+  }, {
+    "$id" : 45,
+    "label" : "nq330504_msg0045",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조개는 없어"
+  }, {
+    "$id" : 46,
+    "label" : "nq330504_msg0046",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 그럼 안 되지……\n미안해, 아가씨"
+  }, {
+    "$id" : 47,
+    "label" : "nq330504_msg0047",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알아들었으면 됐어!"
+  }, {
+    "$id" : 48,
+    "label" : "nq330504_msg0048",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……무섭다"
+  }, {
+    "$id" : 49,
+    "label" : "nq330504_msg0049",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마시로도 화낼 때가 있구나……"
+  }, {
+    "$id" : 50,
+    "label" : "nq330504_msg0050",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대왕 대합을 찾아올게\n다들, 뒷일은 잘 부탁해!"
+  }, {
+    "$id" : 51,
+    "label" : "nq330504_msg0051",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정 말라고"
+  }, {
+    "$id" : 52,
+    "label" : "nq330504_msg0052",
+    "talker" : "N",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 밥은 형씨들이 사는 거다"
+  }, {
+    "$id" : 53,
+    "label" : "nq330504_msg0053",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엑~~?!"
+  } ]
+}

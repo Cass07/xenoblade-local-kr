@@ -1,0 +1,178 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq340401_msg0001",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저건……!"
+  }, {
+    "$id" : 2,
+    "label" : "nq340401_msg0002",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미안해……\n실수했나 봐……"
+  }, {
+    "$id" : 3,
+    "label" : "nq340401_msg0101",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "데이나……! 뻗어 있지 말고 일어나!\n젠장, 대체 누가……!"
+  }, {
+    "$id" : 4,
+    "label" : "nq340401_msg0201",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대체 무슨…… 데이나……!"
+  }, {
+    "$id" : 5,
+    "label" : "nq340401_msg0301",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "큭…… 어째서……"
+  }, {
+    "$id" : 6,
+    "label" : "nq340401_msg0302",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저건……\n아그누스의 레브니스야……"
+  }, {
+    "$id" : 7,
+    "label" : "nq340401_msg0303",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래…… 틀림없어……"
+  }, {
+    "$id" : 8,
+    "label" : "nq340401_msg0304",
+    "talker" : "zj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하필이면 우로보로스가\n알아채고 올 줄이야!"
+  }, {
+    "$id" : 9,
+    "label" : "nq340401_msg0305",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "설마 당신들이……"
+  }, {
+    "$id" : 10,
+    "label" : "nq340401_msg0306",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레브니스를 이용해서\n배를 공격한 거냐?!"
+  }, {
+    "$id" : 11,
+    "label" : "nq340401_msg0307",
+    "talker" : "zj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "공격? 우리는 우리 식량을\n돌려받으러 왔을 뿐이다"
+  }, {
+    "$id" : 12,
+    "label" : "nq340401_msg0308",
+    "talker" : "zj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물자를 적에게 넘기다니\n웃기지도 않는 짓이지!"
+  }, {
+    "$id" : 13,
+    "label" : "nq340401_msg0309",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적이 아니라……!"
+  }, {
+    "$id" : 14,
+    "label" : "nq340401_msg0310",
+    "talker" : "zj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "닥쳐라, 닥쳐!\n질서를 어지럽히려는 너희도 공범이다!!"
+  }, {
+    "$id" : 15,
+    "label" : "nq340401_msg0311",
+    "talker" : "zj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "계속 방해한다면\n너희도 해치워 버리겠다!"
+  }, {
+    "$id" : 16,
+    "label" : "nq340401_msg0312",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "칫…… 결국 이렇게 되는 거냐!"
+  }, {
+    "$id" : 17,
+    "label" : "nq340401_msg0313",
+    "talker" : "zj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "해치워!"
+  } ]
+}

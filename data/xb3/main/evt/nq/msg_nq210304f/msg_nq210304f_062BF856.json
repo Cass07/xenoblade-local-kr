@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq210304_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 잘 움직이는 것 같던데"
+  }, {
+    "$id" : 2,
+    "label" : "nq210304_msg0002",
+    "talker" : "sc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게, 수치를 봐도 안정적이야"
+  }, {
+    "$id" : 3,
+    "label" : "nq210304_msg0003",
+    "talker" : "sc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제대로 작동할지 불안했는데\n막상 해 보니까 괜찮은걸"
+  }, {
+    "$id" : 4,
+    "label" : "nq210304_msg0004",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "불안했다고……?"
+  }, {
+    "$id" : 5,
+    "label" : "nq210304_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 이 상태라면 바로 실전에\n투입해도 딱히 문제없겠어"
+  }, {
+    "$id" : 6,
+    "label" : "nq210304_msg0006",
+    "talker" : "sc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 당신들이 도와준 덕분이야"
+  }, {
+    "$id" : 7,
+    "label" : "nq210304_msg0007",
+    "talker" : "sc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바로 이타리와 함께 배치를 논의해 볼게"
+  }, {
+    "$id" : 8,
+    "label" : "nq210304_msg0008",
+    "talker" : "sc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞다, 답례할 게 있으니까\n나중에 받으러 와 줘"
+  }, {
+    "$id" : 9,
+    "label" : "nq210304_msg0009",
+    "talker" : "5",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……하여튼 분주한 녀석이네"
+  } ]
+}

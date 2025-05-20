@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk320501_msg0001",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어라? 너는 콜로니 타우의……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk320501_msg0002",
+    "talker" : "Zd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 너희들이구나……\n나는 레브니스에 대해 배우러 왔어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk320501_msg0003",
+    "talker" : "Zd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 털북숭이들이 너무 많아서\n전혀 집중이 안 돼"
+  }, {
+    "$id" : 4,
+    "label" : "tlk320501_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "털북숭이? 노폰 말하는 거야?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk320501_msg0005",
+    "talker" : "Zd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하아…… 맞아……\n이러면 내가 뭐 하러 여길 왔나 싶어……"
+  } ]
+}

@@ -1,0 +1,232 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq030301_msg0001",
+    "talker" : "lY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "7호, 다들 준비 마쳤어\n지시를 부탁해"
+  }, {
+    "$id" : 2,
+    "label" : "nq030301_msg0002",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다"
+  }, {
+    "$id" : 3,
+    "label" : "nq030301_msg0003",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번 작전은 2대 1조로 행동하며\n몬스터를 각개 격파합니다"
+  }, {
+    "$id" : 4,
+    "label" : "nq030301_msg0004",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "파트너와 긴밀히 연계해 싸우고\n단독 전투는 삼가십시오"
+  }, {
+    "$id" : 5,
+    "label" : "nq030301_msg0005",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 조를 짜겠습니다"
+  }, {
+    "$id" : 6,
+    "label" : "nq030301_msg0006",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "6호, 8호"
+  }, {
+    "$id" : 7,
+    "label" : "nq030301_msg0007",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "9호, 3호"
+  }, {
+    "$id" : 8,
+    "label" : "nq030301_msg0008",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "10호, 15호"
+  }, {
+    "$id" : 9,
+    "label" : "nq030301_msg0009",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이상입니다"
+  }, {
+    "$id" : 10,
+    "label" : "nq030301_msg0010",
+    "talker" : "lY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……잠깐, 15호는 어디 갔지?"
+  }, {
+    "$id" : 11,
+    "label" : "nq030301_msg0011",
+    "talker" : "vY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음~ 나중에 합류하겠대\n데이터 해석으로 바쁘다나 뭐라나"
+  }, {
+    "$id" : 12,
+    "label" : "nq030301_msg0012",
+    "talker" : "vY1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 15호라면 걱정할 것 없어\n이쪽에서 알아서 할게"
+  }, {
+    "$id" : 13,
+    "label" : "nq030301_msg0013",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다\n10호, 부탁드립니다"
+  }, {
+    "$id" : 14,
+    "label" : "nq030301_msg0014",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기…… 우리는 어떡할까?"
+  }, {
+    "$id" : 15,
+    "label" : "nq030301_msg0015",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희는 전황을 살피면서\n유격 부대로서 각 조를 지원할 계획입니다"
+  }, {
+    "$id" : 16,
+    "label" : "nq030301_msg0016",
+    "talker" : "rY1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럴 필요는 없어, 7호\n몬스터쯤이야 9호 혼자서도 충분해"
+  }, {
+    "$id" : 17,
+    "label" : "nq030301_msg0017",
+    "talker" : "tY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……7호가 단독 행동은 피하라고 했어\n9호, 명령에 불복할 셈이야?"
+  }, {
+    "$id" : 18,
+    "label" : "nq030301_msg0018",
+    "talker" : "rY1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그런 말은 안 했잖아!\n8호는 정말 까탈스럽다니까!"
+  }, {
+    "$id" : 19,
+    "label" : "nq030301_msg0019",
+    "talker" : "nY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "9호, 싸우면 안 돼……"
+  }, {
+    "$id" : 20,
+    "label" : "nq030301_msg0020",
+    "talker" : "rY1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "3호는 끼어들지 마!"
+  }, {
+    "$id" : 21,
+    "label" : "nq030301_msg0021",
+    "talker" : "nY1",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미, 미안……!"
+  }, {
+    "$id" : 22,
+    "label" : "nq030301_msg0022",
+    "talker" : "lY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잡담은 그만하고\n질문 없으면 전원 배치 준비해"
+  }, {
+    "$id" : 23,
+    "label" : "nq030301_msg0023",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전원, 철기병에 탑승\n작전을 개시합니다"
+  } ]
+}

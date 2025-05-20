@@ -1,0 +1,502 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq130505_msg0001",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐! 기다려 줘~~!"
+  }, {
+    "$id" : 2,
+    "label" : "nq130505_msg0002",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후우~ 겨우 따라잡았네……"
+  }, {
+    "$id" : 3,
+    "label" : "nq130505_msg0003",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "루디?! 여기는 왜……"
+  }, {
+    "$id" : 4,
+    "label" : "nq130505_msg0004",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나를 만나러 왔어!"
+  }, {
+    "$id" : 5,
+    "label" : "nq130505_msg0005",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아미고가 드디어 완성됐어!\n빨리 전해 주고 싶었거든"
+  }, {
+    "$id" : 6,
+    "label" : "nq130505_msg0006",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아미고라니……"
+  }, {
+    "$id" : 7,
+    "label" : "nq130505_msg0007",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 레브니스 말이야?"
+  }, {
+    "$id" : 8,
+    "label" : "nq130505_msg0008",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 더 강력해진 신형 레브니스야!\n가쿠도 도와줬어"
+  }, {
+    "$id" : 9,
+    "label" : "nq130505_msg0009",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 일이 있을 때\n니나에게 도움이 됐으면 좋겠대"
+  }, {
+    "$id" : 10,
+    "label" : "nq130505_msg0010",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도움이라……"
+  }, {
+    "$id" : 11,
+    "label" : "nq130505_msg0011",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전에 만난 코팡도 그렇고……\n당신의 그 \"친구\"는 볼 때마다 참 놀랍네"
+  }, {
+    "$id" : 12,
+    "label" : "nq130505_msg0012",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "헤헤, 제어 회로가 아직 불안정한가 봐……\n놀라게 해서 미안해"
+  }, {
+    "$id" : 13,
+    "label" : "nq130505_msg0013",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사출 전에 시험 운전했을 땐\n문제없었는데……"
+  }, {
+    "$id" : 14,
+    "label" : "nq130505_msg0014",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐"
+  }, {
+    "$id" : 15,
+    "label" : "nq130505_msg0015",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 30엔 사출 장치가 없었을 텐데\n도대체 어떻게……"
+  }, {
+    "$id" : 16,
+    "label" : "nq130505_msg0016",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "새로 만들었어!\n니나한테는 큐 때문에\n민폐도 많이 끼쳤고……"
+  }, {
+    "$id" : 17,
+    "label" : "nq130505_msg0017",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 요타에서 온 물자 덕도\n많이 봤고 말이야!"
+  }, {
+    "$id" : 18,
+    "label" : "nq130505_msg0018",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐라도 답례를 하고 싶었어"
+  }, {
+    "$id" : 19,
+    "label" : "nq130505_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 콜로니 타우에서\n부품을 받았던 거구나……"
+  }, {
+    "$id" : 20,
+    "label" : "nq130505_msg0020",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 타우만이 아니야"
+  }, {
+    "$id" : 21,
+    "label" : "nq130505_msg0021",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 4랑\n콜로니 람다에서도 줬어!"
+  }, {
+    "$id" : 22,
+    "label" : "nq130505_msg0101",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고……"
+  }, {
+    "$id" : 23,
+    "label" : "nq130505_msg0201",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 감마도!"
+  }, {
+    "$id" : 24,
+    "label" : "nq130505_msg0301",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 9도!"
+  }, {
+    "$id" : 25,
+    "label" : "nq130505_msg0401",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 뮤도!"
+  }, {
+    "$id" : 26,
+    "label" : "nq130505_msg0501",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 11도!"
+  }, {
+    "$id" : 27,
+    "label" : "nq130505_msg0601",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두 많이 도와줬어!\n덕분에 예상보다 빨리 완성됐지"
+  }, {
+    "$id" : 28,
+    "label" : "nq130505_msg0602",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다른 콜로니와 연계한 거야?"
+  }, {
+    "$id" : 29,
+    "label" : "nq130505_msg0603",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "컬렉피디아 카드 덕분에\n교환도 간편했거든"
+  }, {
+    "$id" : 30,
+    "label" : "nq130505_msg0604",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 니나가 고안해 낸 거지?\n정말 굉장해!! 나 깜짝 놀랐다니까!"
+  }, {
+    "$id" : 31,
+    "label" : "nq130505_msg0605",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "깜짝 놀란 건 우리 쪽이라고"
+  }, {
+    "$id" : 32,
+    "label" : "nq130505_msg0606",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "란츠도 놀랐어?"
+  }, {
+    "$id" : 33,
+    "label" : "nq130505_msg0607",
+    "talker" : "H",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에헤헤, 똑같네!"
+  }, {
+    "$id" : 34,
+    "label" : "nq130505_msg0608",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에헤헤, 하고 웃음이 나오냐!\n칭찬한 거 아니거든!"
+  }, {
+    "$id" : 35,
+    "label" : "nq130505_msg0609",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왠지 일이\n이상하게 돌아가네요……"
+  }, {
+    "$id" : 36,
+    "label" : "nq130505_msg0610",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 37,
+    "label" : "nq130505_msg0611",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……니나 님?"
+  }, {
+    "$id" : 38,
+    "label" : "nq130505_msg0612",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……코토리, 난 말이야……"
+  }, {
+    "$id" : 39,
+    "label" : "nq130505_msg0613",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『규칙 밖의 풍경』이 보고 싶어서\n지금까지 노력한 건데……"
+  }, {
+    "$id" : 40,
+    "label" : "nq130505_msg0614",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "결국 사람이 바뀌어 가는 모습을\n보고 싶었던 걸지도 모르겠어"
+  }, {
+    "$id" : 41,
+    "label" : "nq130505_msg0615",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "관리당하면서 싸우기만 하는 우리에게\n만일 따뜻한 무언가가 통한다면……"
+  }, {
+    "$id" : 42,
+    "label" : "nq130505_msg0616",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세계가 어떤 식으로 바뀔지……\n그 풍경을 항상 보고 싶었어"
+  }, {
+    "$id" : 43,
+    "label" : "nq130505_msg0617",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명…… 사람도, 이 세계도\n좋아하고 싶었던 거야"
+  }, {
+    "$id" : 44,
+    "label" : "nq130505_msg0618",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……저도 그런 니나 님의 표정을\n항상 보고 싶었어요"
+  }, {
+    "$id" : 45,
+    "label" : "nq130505_msg0619",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "함께 이 풍경을 볼 수 있어서\n정말 기뻐요……"
+  }, {
+    "$id" : 46,
+    "label" : "nq130505_msg0620",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 하지만 분명\n이건 시작에 불과해……"
+  }, {
+    "$id" : 47,
+    "label" : "nq130505_msg0621",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 관계를 유지할 수 있을지 없을지는\n우리 손에 달렸어"
+  }, {
+    "$id" : 48,
+    "label" : "nq130505_msg0622",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 이 너머의 풍경을\n더 보고 싶어졌어"
+  }, {
+    "$id" : 49,
+    "label" : "nq130505_msg0623",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디까지든 따라갈게요!"
+  }, {
+    "$id" : 50,
+    "label" : "nq130505_msg0624",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나를 뛰어넘을 기세로\n따라와야 하는 거 알지?"
+  }, {
+    "$id" : 51,
+    "label" : "nq130505_msg0625",
+    "talker" : "Yb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서…… 성장할 거예요!!"
+  }, {
+    "$id" : 52,
+    "label" : "nq130505_msg0626",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후……\n나도 더 강해질게"
+  }, {
+    "$id" : 53,
+    "label" : "nq130505_msg0627",
+    "talker" : "K",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두와 다 함께……"
+  } ]
+}

@@ -1,0 +1,349 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011524_msg0001",
+    "talker" : "nf1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젠장……"
+  }, {
+    "$id" : 2,
+    "label" : "tq011524_msg0002",
+    "talker" : "nf1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 식으로 우릴……\n내려다보고 살았나?"
+  }, {
+    "$id" : 3,
+    "label" : "tq011524_msg0003",
+    "talker" : "G",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐라?"
+  }, {
+    "$id" : 4,
+    "label" : "tq011524_msg0004",
+    "talker" : "nf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알고 있다고!\n당신들 여왕은 우리보다\n훨씬 오래 산다는 거!"
+  }, {
+    "$id" : 5,
+    "label" : "tq011524_msg0005",
+    "talker" : "nf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 이제 사람도 뭣도 아니잖아?!\n그러니까 우리를 그렇게……"
+  }, {
+    "$id" : 6,
+    "label" : "tq011524_msg0006",
+    "talker" : "2",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……사람이야!"
+  }, {
+    "$id" : 7,
+    "label" : "tq011524_msg0007",
+    "talker" : "2",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상처 입으면 아픔을 느끼고……\n피도 흘려"
+  }, {
+    "$id" : 8,
+    "label" : "tq011524_msg0008",
+    "talker" : "G",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미오……"
+  }, {
+    "$id" : 9,
+    "label" : "tq011524_msg0009",
+    "talker" : "2",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 이렇게\n당신의 이야기를 듣는 거야"
+  }, {
+    "$id" : 10,
+    "label" : "tq011524_msg0010",
+    "talker" : "2",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신을 알고 싶으니까……\n당신과 같은 시간을 살고 싶으니까!"
+  }, {
+    "$id" : 11,
+    "label" : "tq011524_msg0011",
+    "talker" : "nf1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨…… 오래 살 수 있는 녀석의\n심정 같은 건 난 이해 못 해!"
+  }, {
+    "$id" : 12,
+    "label" : "tq011524_msg0012",
+    "talker" : "2",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오래 산다고 해도\n당신과 하나도 다르지 않아……"
+  }, {
+    "$id" : 13,
+    "label" : "tq011524_msg0013",
+    "talker" : "2",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두 똑같은 생명이야"
+  }, {
+    "$id" : 14,
+    "label" : "tq011524_msg0014",
+    "talker" : "G",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이제 됐다"
+  }, {
+    "$id" : 15,
+    "label" : "tq011524_msg0015",
+    "talker" : "G",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그대의 마음은\n잘 알았다"
+  }, {
+    "$id" : 16,
+    "label" : "tq011524_msg0016",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너, 설마 케베스 장교한테도\n똑같이 말했냐?"
+  }, {
+    "$id" : 17,
+    "label" : "tq011524_msg0017",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "멜리아는 사람이 아니라고……"
+  }, {
+    "$id" : 18,
+    "label" : "tq011524_msg0018",
+    "talker" : "nf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 말했어\n하도 무사태평해 보여서 화가 났거든"
+  }, {
+    "$id" : 19,
+    "label" : "tq011524_msg0019",
+    "talker" : "5",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……사람도 아닌 건 너잖아"
+  }, {
+    "$id" : 20,
+    "label" : "tq011524_msg0020",
+    "talker" : "nf1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 어떻게 해야 했지?\n이 분노를 누구한테 풀면 되냐고?!"
+  }, {
+    "$id" : 21,
+    "label" : "tq011524_msg0021",
+    "talker" : "nf1",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜 옳은 게 뭔지 가르쳐 달라고!\n지금 당장!!"
+  }, {
+    "$id" : 22,
+    "label" : "tq011524_msg0022",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가르쳐 줄 수 없다\n답은 그대만이 알고 있으니까"
+  }, {
+    "$id" : 23,
+    "label" : "tq011524_msg0023",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……누군가가 제시한 옳고 그름의 기준은\n아무 소용이 없다는 걸 깨닫지 않았느냐?"
+  }, {
+    "$id" : 24,
+    "label" : "tq011524_msg0024",
+    "talker" : "nf1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!!"
+  }, {
+    "$id" : 25,
+    "label" : "tq011524_msg0025",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "누군가를 증오하지 않고는\n살아갈 수 없다면\n나를 증오해도 좋다"
+  }, {
+    "$id" : 26,
+    "label" : "tq011524_msg0026",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 언젠가는……\n가장 소중한 것을 위해 살거라"
+  }, {
+    "$id" : 27,
+    "label" : "tq011524_msg0027",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그대와 동료들이\n그랬던 것처럼……"
+  }, {
+    "$id" : 28,
+    "label" : "tq011524_msg0028",
+    "talker" : "nf1",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇게 말해도 이젠……\n돌이킬 수 없다고……"
+  }, {
+    "$id" : 29,
+    "label" : "tq011524_msg0029",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇지만도 않다"
+  }, {
+    "$id" : 30,
+    "label" : "tq011524_msg0030",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그대는 살아 있으니까"
+  }, {
+    "$id" : 31,
+    "label" : "tq011524_msg0031",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……괜찮아?"
+  }, {
+    "$id" : 32,
+    "label" : "tq011524_msg0032",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말하지 않았느냐\n험난한 일에는 익숙하다고"
+  }, {
+    "$id" : 33,
+    "label" : "tq011524_msg0033",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가 아무것도 못 하고\n지켜보기만 하는 게…… 훨씬 괴롭더구나"
+  }, {
+    "$id" : 34,
+    "label" : "tq011524_msg0034",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "멜리아……"
+  }, {
+    "$id" : 35,
+    "label" : "tq011524_msg0035",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두의 슬픔, 억울함, 분노를……\n절대로 잊지 않겠다"
+  }, {
+    "$id" : 36,
+    "label" : "tq011524_msg0036",
+    "talker" : "G",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자…… 다음 장소로 가자꾸나"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230603_msg0001",
+    "talker" : "Zb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "니나 님과 대장님들의 과거를……\n라이조 대장님께 들었소"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230603_msg0002",
+    "talker" : "Zb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "함께 엘시 폭포를 맞으며\n소인 나름대로 생각해 보았는데……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230603_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……폭포를 맞았어?\n라이조랑 같이……?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk230603_msg0004",
+    "talker" : "Zb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동료를 위해 몸을 던진다는 건\n결코 평범한 마음가짐으론 할 수 없는 일이오\n소인은 다시 한번 대장님들을 존경하게 됐소"
+  }, {
+    "$id" : 5,
+    "label" : "tlk230603_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "폭포를 맞으면서 대화했다고?\n어떡하지…… 엄청 신경 쓰여서\n이야기에 집중을 못 하겠어……"
+  } ]
+}

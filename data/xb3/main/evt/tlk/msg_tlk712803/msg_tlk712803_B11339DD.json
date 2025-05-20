@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk712803_msg0001",
+    "talker" : "ml1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야르밀 씨가 로스트 넘버즈에서\n제대되었다고 들었어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk712803_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여전히 정보 수집이 빠른걸"
+  }, {
+    "$id" : 3,
+    "label" : "tlk712803_msg0003",
+    "talker" : "ml1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "로자나 씨에게 정보를 제공한 게 나거든"
+  }, {
+    "$id" : 4,
+    "label" : "tlk712803_msg0004",
+    "talker" : "ml1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방해꾼이 사라졌으니\n이제 더 편하게 일할 수 있겠어"
+  } ]
+}

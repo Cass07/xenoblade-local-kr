@@ -1,0 +1,413 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<97CA732D>",
+    "style" : 19,
+    "name" : "HERO SELECT"
+  }, {
+    "$id" : 2,
+    "label" : "<B19BF3EE>",
+    "style" : 19,
+    "name" : "무기"
+  }, {
+    "$id" : 3,
+    "label" : "<ABE40433>",
+    "style" : 19,
+    "name" : "각성 퀘스트 조건 (RANK 10)"
+  }, {
+    "$id" : 4,
+    "label" : "<83DFCE42>",
+    "style" : 19,
+    "name" : "ARTS"
+  }, {
+    "$id" : 5,
+    "label" : "<C90C0234>",
+    "style" : 19,
+    "name" : "SKILL"
+  }, {
+    "$id" : 6,
+    "label" : "<A2FDDA1E>",
+    "style" : 19,
+    "name" : "캐릭터 디자인"
+  }, {
+    "$id" : 7,
+    "label" : "<D8A8F2DB>",
+    "style" : 19,
+    "name" : "히어로 체인"
+  }, {
+    "$id" : 8,
+    "label" : "<DAD8AC61>",
+    "style" : 19,
+    "name" : "각성 퀘스트 발생 중!"
+  }, {
+    "$id" : 9,
+    "label" : "<F5D56940>",
+    "style" : 11,
+    "name" : "인터링크"
+  }, {
+    "$id" : 10,
+    "label" : "<8EABA9CA>",
+    "style" : 11,
+    "name" : "인터링크 해제"
+  }, {
+    "$id" : 11,
+    "label" : "<20E1FB61>",
+    "style" : 11,
+    "name" : "파일럿"
+  }, {
+    "$id" : 12,
+    "label" : "<C320CE33>",
+    "style" : 11,
+    "name" : "철기병"
+  }, {
+    "$id" : 13,
+    "label" : "<F11DD444>",
+    "style" : 11,
+    "name" : "히어로 상세 1"
+  }, {
+    "$id" : 14,
+    "label" : "<135C1A2E>",
+    "style" : 11,
+    "name" : "히어로 상세 2"
+  }, {
+    "$id" : 15,
+    "label" : "<8F25FACF>",
+    "style" : 7,
+    "name" : "CV"
+  }, {
+    "$id" : 16,
+    "label" : "<1A2901E1>",
+    "style" : 11,
+    "name" : "히어로 상세 3"
+  }, {
+    "$id" : 17,
+    "label" : "<D4D8A8B8>",
+    "style" : 19,
+    "name" : "Masatsugu Saito"
+  }, {
+    "$id" : 18,
+    "label" : "<339CB636>",
+    "style" : 19,
+    "name" : ""
+  }, {
+    "$id" : 19,
+    "label" : "<4C62F712>",
+    "style" : 19,
+    "name" : "MONOLITHSOFT"
+  }, {
+    "$id" : 20,
+    "label" : "<AB577577>",
+    "style" : 19,
+    "name" : "Ryohei Arai"
+  }, {
+    "$id" : 21,
+    "label" : "<C6D725DB>",
+    "style" : 19,
+    "name" : "Minami Tsuda"
+  }, {
+    "$id" : 22,
+    "label" : "<6D5148C3>",
+    "style" : 19,
+    "name" : "Megumi Han"
+  }, {
+    "$id" : 23,
+    "label" : "<EE637543>",
+    "style" : 19,
+    "name" : "Ryohei Kimura"
+  }, {
+    "$id" : 24,
+    "label" : "<B1F3AB03>",
+    "style" : 19,
+    "name" : "Kohsuke Tanabe"
+  }, {
+    "$id" : 25,
+    "label" : "<9F363B8E>",
+    "style" : 19,
+    "name" : "Miyuki Satou"
+  }, {
+    "$id" : 26,
+    "label" : "<51E03965>",
+    "style" : 19,
+    "name" : "Atsumi Tanezaki"
+  }, {
+    "$id" : 27,
+    "label" : "<181AA2E3>",
+    "style" : 19,
+    "name" : "Sayaka Sembongi"
+  }, {
+    "$id" : 28,
+    "label" : "<7EB4FCF3>",
+    "style" : 19,
+    "name" : "Aya Suzaki"
+  }, {
+    "$id" : 29,
+    "label" : "<F220D0A8>",
+    "style" : 19,
+    "name" : "Tomoaki Maeno"
+  }, {
+    "$id" : 30,
+    "label" : "<5AFAE50A>",
+    "style" : 19,
+    "name" : "Misato Fukuen"
+  }, {
+    "$id" : 31,
+    "label" : "<AFBC86E9>",
+    "style" : 19,
+    "name" : "Taiten Kusunoki"
+  }, {
+    "$id" : 32,
+    "label" : "<710315ED>",
+    "style" : 19,
+    "name" : "Akeno Watanabe"
+  }, {
+    "$id" : 33,
+    "label" : "<C8ADBB27>",
+    "style" : 19,
+    "name" : ""
+  }, {
+    "$id" : 34,
+    "label" : "<D95C9410>",
+    "style" : 19,
+    "name" : "Hitomi Ohwada"
+  }, {
+    "$id" : 35,
+    "label" : "<426B914B>",
+    "style" : 19,
+    "name" : "Shiori Katsuta"
+  }, {
+    "$id" : 36,
+    "label" : "<EC2F6171>",
+    "style" : 19,
+    "name" : "Yu Kobayashi"
+  }, {
+    "$id" : 37,
+    "label" : "<D121BFCA>",
+    "style" : 19,
+    "name" : "Ryota Osaka"
+  }, {
+    "$id" : 38,
+    "label" : "<3FA29196>",
+    "style" : 19,
+    "name" : "Hiroki Takahashi"
+  }, {
+    "$id" : 39,
+    "label" : "<BDD45D7F>",
+    "style" : 19,
+    "name" : "Ami Koshimizu"
+  }, {
+    "$id" : 40,
+    "label" : "<98C911A2>",
+    "style" : 19,
+    "name" : "Rie Kugimiya"
+  }, {
+    "$id" : 41,
+    "label" : "<7A3DC4D4>",
+    "style" : 19,
+    "name" : "M・A・O"
+  }, {
+    "$id" : 42,
+    "label" : "<158827DC>",
+    "style" : 19,
+    "name" : "Takaya Hashi"
+  }, {
+    "$id" : 43,
+    "label" : "<0C53D69D>",
+    "style" : 19,
+    "name" : "Aoi Yuki"
+  }, {
+    "$id" : 44,
+    "label" : "<A625C804>",
+    "style" : 19,
+    "name" : "Ai Kayano"
+  }, {
+    "$id" : 45,
+    "label" : "<C5B132FE>",
+    "style" : 19,
+    "name" : "Satomi Akesaka"
+  }, {
+    "$id" : 46,
+    "label" : "<9C8D99E2>",
+    "style" : 19,
+    "name" : "Shigeru Chiba"
+  }, {
+    "$id" : 47,
+    "label" : "<DD57DE5E>",
+    "style" : 19,
+    "name" : "Harry McEntire"
+  }, {
+    "$id" : 48,
+    "label" : "<411E0CCD>",
+    "style" : 19,
+    "name" : "Aimee-Ffion Edwards"
+  }, {
+    "$id" : 49,
+    "label" : "<B26D1657>",
+    "style" : 19,
+    "name" : "Kitty Archer"
+  }, {
+    "$id" : 50,
+    "label" : "<0B573D41>",
+    "style" : 19,
+    "name" : "Olivier Huband"
+  }, {
+    "$id" : 51,
+    "label" : "<D5245ACF>",
+    "style" : 19,
+    "name" : "Jack Bardoe"
+  }, {
+    "$id" : 52,
+    "label" : "<CFB345A6>",
+    "style" : 19,
+    "name" : "Rebecca LaChance"
+  }, {
+    "$id" : 53,
+    "label" : "<0E7978F5>",
+    "style" : 19,
+    "name" : "Lucy Doyle"
+  }, {
+    "$id" : 54,
+    "label" : "<00C16234>",
+    "style" : 19,
+    "name" : "Tarinn Callender"
+  }, {
+    "$id" : 55,
+    "label" : "<EAFCED0D>",
+    "style" : 19,
+    "name" : "Grace Saif"
+  }, {
+    "$id" : 56,
+    "label" : "<612E2E8D>",
+    "style" : 19,
+    "name" : "Ian Bouillion"
+  }, {
+    "$id" : 57,
+    "label" : "<AC1DCF25>",
+    "style" : 19,
+    "name" : "Sorcha Groundsell"
+  }, {
+    "$id" : 58,
+    "label" : "<840BA3EC>",
+    "style" : 19,
+    "name" : "Shai Matheson"
+  }, {
+    "$id" : 59,
+    "label" : "<14E33E2D>",
+    "style" : 19,
+    "name" : "Pippa Bennett-Warner"
+  }, {
+    "$id" : 60,
+    "label" : "<94FD4528>",
+    "style" : 0,
+    "name" : ""
+  }, {
+    "$id" : 61,
+    "label" : "<8B92918A>",
+    "style" : 19,
+    "name" : "Catrin-Mai Huw"
+  }, {
+    "$id" : 62,
+    "label" : "<9A7D7CE6>",
+    "style" : 19,
+    "name" : "Jenna Coleman"
+  }, {
+    "$id" : 63,
+    "label" : "<EB27EAFC>",
+    "style" : 19,
+    "name" : "Mack Keith-Roach"
+  }, {
+    "$id" : 64,
+    "label" : "<388CA278>",
+    "style" : 19,
+    "name" : "Neil Newbon"
+  }, {
+    "$id" : 65,
+    "label" : "<CBC08196>",
+    "style" : 19,
+    "name" : "Martin T. Sherman"
+  }, {
+    "$id" : 66,
+    "label" : "<1927C097>",
+    "style" : 19,
+    "name" : "Sharlit Deyzac"
+  }, {
+    "$id" : 67,
+    "label" : "<538DB1AC>",
+    "style" : 19,
+    "name" : "Lilly Hart"
+  }, {
+    "$id" : 68,
+    "label" : "<D08B4B3C>",
+    "style" : 19,
+    "name" : "Cassie Layton"
+  }, {
+    "$id" : 69,
+    "label" : "<8AF139A0>",
+    "style" : 19,
+    "name" : "Stanley Townsend"
+  }, {
+    "$id" : 70,
+    "label" : "<6BD2BEC2>",
+    "style" : 19,
+    "name" : "Rebecca Benson"
+  }, {
+    "$id" : 71,
+    "label" : "<F22061E2>",
+    "style" : 19,
+    "name" : "Brigid Leahy"
+  }, {
+    "$id" : 72,
+    "label" : "<F25DD900>",
+    "style" : 19,
+    "name" : "Dominique Moore"
+  }, {
+    "$id" : 73,
+    "label" : "<FD2CF8D9>",
+    "style" : 19,
+    "name" : "Shaun Dooley"
+  }, {
+    "$id" : 74,
+    "label" : "<E56CE831>",
+    "style" : 19,
+    "name" : "각성 퀘스트 조건"
+  }, {
+    "$id" : 75,
+    "label" : "<FE836A6A>",
+    "style" : 19,
+    "name" : "Aoi Koga"
+  }, {
+    "$id" : 76,
+    "label" : "<CF1A9252>",
+    "style" : 19,
+    "name" : "Ina Marie Smith"
+  }, {
+    "$id" : 77,
+    "label" : "<19522F23>",
+    "style" : 19,
+    "name" : "PALOW."
+  }, {
+    "$id" : 78,
+    "label" : "<2BA4AD9A>",
+    "style" : 19,
+    "name" : "Rie Tanaka"
+  }, {
+    "$id" : 79,
+    "label" : "<AB944ED5>",
+    "style" : 19,
+    "name" : "Hannah Morrish"
+  }, {
+    "$id" : 80,
+    "label" : "<0A16D9A9>",
+    "style" : 19,
+    "name" : "Mai Yoneyama"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk410402_msg0001",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 먼저 말해 드리지만\n옛 콜로니 이야기는 묻지 말아 주세요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk410402_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 말을 들으니까\n괜히 캐묻고 싶어지는데~?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk410402_msg0002",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 말고 다른 녀석한테 듣는 편이 좋을 겁니다\n여기 대다수가 옛 사정 때문에 이러고 사는데\n……그 옛 사정이라는 게 다들 기상천외하죠"
+  }, {
+    "$id" : 4,
+    "label" : "tlk410402_msg0003",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상관한테 대들었다고 좌천당한\n제 이야기는 너무 평범해서 재미없을 겁니다\n그러니 얘기하고 싶지 않은 거고요"
+  }, {
+    "$id" : 5,
+    "label" : "tlk410402_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서였냐……"
+  } ]
+}

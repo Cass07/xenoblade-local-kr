@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk220503_msg0001",
+    "talker" : "la1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미하일도 그렇고\n여기 파일럿들은\n거친 녀석들이 많아서 문제야"
+  }, {
+    "$id" : 2,
+    "label" : "tlk220503_msg0002",
+    "talker" : "la1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "레브니스를 소중히 다루지 않으면\n군무장님이 속상해하실 텐데…… 정말이지……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk220503_msg0003",
+    "talker" : "la1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 레브니스가 손상될\n전투 방식만 고집했다가는\n조만간 녀석들도 무사하지 못할 거야"
+  } ]
+}

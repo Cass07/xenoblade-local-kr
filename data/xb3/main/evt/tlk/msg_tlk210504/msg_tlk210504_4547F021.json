@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210504_msg0001",
+    "talker" : "vZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그 사건 이후로 콜로니 내에서\n제레미를 규탄하는 목소리가 커지고 있어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210504_msg0002",
+    "talker" : "vZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 그를 벼랑 끝으로 몰아붙인다 해도\n문제가 모두 해결되지는 않아"
+  }, {
+    "$id" : 3,
+    "label" : "tlk210504_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……확실히 지금 이대로는 안 돼\n제레미의 동기를 생각하면 더 그렇고"
+  }, {
+    "$id" : 4,
+    "label" : "tlk210504_msg0004",
+    "talker" : "vZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응…… 같은 전술반 동료로서\n어떻게든 화해할 길을 찾고 싶어"
+  } ]
+}

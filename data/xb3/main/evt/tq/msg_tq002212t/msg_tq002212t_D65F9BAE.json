@@ -1,0 +1,151 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002212_msg0001",
+    "talker" : "pf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "드디어 왔구나! 기다렸어!"
+  }, {
+    "$id" : 2,
+    "label" : "tq002212_msg0002",
+    "talker" : "pf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 사오루는 못 봤어?"
+  }, {
+    "$id" : 3,
+    "label" : "tq002212_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사오루? 아니, 못 봤는데"
+  }, {
+    "$id" : 4,
+    "label" : "tq002212_msg0004",
+    "talker" : "pf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말이지…… 어차피\n이렇게 될 줄 알았다니까!"
+  }, {
+    "$id" : 5,
+    "label" : "tq002212_msg0005",
+    "talker" : "pf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사오루 녀석, 길치니까\n어디서 방황하고 있겠지!"
+  }, {
+    "$id" : 6,
+    "label" : "tq002212_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "길치라고?"
+  }, {
+    "$id" : 7,
+    "label" : "tq002212_msg0007",
+    "talker" : "pf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 몬스터한테\n잡아먹혔을지도 몰라! 하하하하!"
+  }, {
+    "$id" : 8,
+    "label" : "tq002212_msg0008",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기…… 그게 웃을 일이야……?"
+  }, {
+    "$id" : 9,
+    "label" : "tq002212_msg0009",
+    "talker" : "pf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사오루가 없으니 어쩔 수 없지!\n다음 과제는 내가 설명할게!"
+  }, {
+    "$id" : 10,
+    "label" : "tq002212_msg0010",
+    "talker" : "pf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떤 몬스터의 발자국을 쫓아가서\n그 녀석을 먼저 쓰러뜨리는 쪽의 승리야!"
+  }, {
+    "$id" : 11,
+    "label" : "tq002212_msg0011",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "꽤 단순한 대결이군"
+  }, {
+    "$id" : 12,
+    "label" : "tq002212_msg0012",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "발자국을 쫓아가면 금방 찾을 테니까"
+  }, {
+    "$id" : 13,
+    "label" : "tq002212_msg0013",
+    "talker" : "pf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 열심히 해 봐!"
+  }, {
+    "$id" : 14,
+    "label" : "tq002212_msg0014",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 가 보자!"
+  } ]
+}

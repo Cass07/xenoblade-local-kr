@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk540202_msg0001",
+    "talker" : "mj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희 생명의 불시계는 고장이 나서\n아그누스군한테는 무용지물이에요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk540202_msg0002",
+    "talker" : "mj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 수장님도 저도 전쟁에 휘말려서\n죽으면 그것도 업보라 여겼습니다"
+  }, {
+    "$id" : 3,
+    "label" : "tlk540202_msg0003",
+    "talker" : "mj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 여러분이 가르쳐 주신 것처럼\n다른 길 또한 있었군요……"
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230801_msg0001",
+    "talker" : "bb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금은 의욕 없이 다니시지만\n후겐 대장님께서도 예전에는 멀쩡하셨어요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230801_msg0002",
+    "talker" : "bb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "강하고, 두뇌 회전도 빠르셔서……\n동경의 대상이었죠. 후겐 부대에\n배치됐을 때는 정말로 기뻤어요……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230801_msg0003",
+    "talker" : "bb1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서인지 지금의 대장님을 보면\n괜히 더 화가 나네요……"
+  } ]
+}

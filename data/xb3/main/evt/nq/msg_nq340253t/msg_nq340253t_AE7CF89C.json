@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq340253_msg0001",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시키? 나는 고마워하고 있어\n동료들이 시티에 돌아간 것도\n그 사람이 힘써 준 덕분이잖아"
+  }, {
+    "$id" : 2,
+    "label" : "nq340253_msg0002",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 너희한테도 고맙고"
+  }, {
+    "$id" : 3,
+    "label" : "nq340253_msg0101",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티로 돌아간 사람들 수를 생각하면\n식량 문제가 일어날 가능성도 있어"
+  }, {
+    "$id" : 4,
+    "label" : "nq340253_msg0102",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시키의 제안은 매력적이야\n너희도 힘을 빌려줘서 도움이 됐어"
+  }, {
+    "$id" : 5,
+    "label" : "nq340253_msg0201",
+    "talker" : "_j1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기도 사람이 줄어서 조용해진 것 같아\n시티는 그만큼 시끄러워졌을까?"
+  } ]
+}

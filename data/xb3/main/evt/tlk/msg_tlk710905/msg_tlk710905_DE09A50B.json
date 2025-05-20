@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk710905_msg0001",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 시간이 멈춘 것처럼\n꿈쩍을 안 하길래 무서웠어모\n그래서 필사적으로 얼굴을 지켰어모……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk710905_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얼굴……? 왜 얼굴이야?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk710905_msg0003",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생각해 봐모, 만약 눈이 덜 감겼거나\n콧구멍을 벌름거릴 때\n시간이 멈춘다면……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk710905_msg0004",
+    "talker" : "zk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……생각만 해도 식은땀이 나모\n기기쿠도 자존심이 있다고모"
+  } ]
+}

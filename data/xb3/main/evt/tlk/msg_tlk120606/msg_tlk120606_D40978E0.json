@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120606_msg0001",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 오리진한테 직격당하면\n아무리 콜로니 감마라도\n무사하지 못하겠네요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120606_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……걱정하지 마. 그렇게 되기 전에\n우리가 반드시 결판을 지을게"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120606_msg0003",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……선배는 굉장하네요\n세계를 지키다니, 저라면 절대 못 할 거예요"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120606_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이즈노메에게는 따로\n지킬 사람이 있잖아. 아니야?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk120606_msg0005",
+    "talker" : "bY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……말 안 해도 알아요\n세계는 지킬 수 없어도\n그 녀석만은 내가 반드시……!"
+  } ]
+}

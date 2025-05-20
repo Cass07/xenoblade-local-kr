@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120407_msg0001",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마이벡 씨가 항상 옆에서 가르쳐 주셔서\n군의학 공부가 정말 수월해요!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120407_msg0002",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그뿐 아니라 콜로니 4에 대해\n많이 가르쳐 주시기도 하고……\n케베스에도 이런 사람이 있었다니……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120407_msg0003",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아니, 이제 와서\n케베스라든가 아그누스라든가\n그런 건 더 이상 의미가 없겠죠"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120407_msg0004",
+    "talker" : "ZY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약 군의가 되면\n그때는 제가 마이벡 씨를 도와서\n은혜를 갚고 싶어요!"
+  } ]
+}

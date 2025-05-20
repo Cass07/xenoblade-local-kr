@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<46555C50>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐 기다려모!"
+  }, {
+    "$id" : 2,
+    "label" : "<FF8D1766>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그래, 리쿠?"
+  }, {
+    "$id" : 3,
+    "label" : "<A9C8B995>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노아……\n전투 뒤라서 피곤하더라도\n좀 더 주변을 신경 써야 해모"
+  }, {
+    "$id" : 4,
+    "label" : "<085094FA>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 이거 봐모!"
+  }, {
+    "$id" : 5,
+    "label" : "<77C864DD>",
+    "talker" : "T",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방치된 컨테이너?"
+  }, {
+    "$id" : 6,
+    "label" : "<96EA27C7>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방치된 걸 보면\n회수할 가치가 없는 거 아니야?"
+  }, {
+    "$id" : 7,
+    "label" : "<48E06954>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "승리 후의 뒤처리 작업은\n대충대충 진행되기 쉬워모!"
+  }, {
+    "$id" : 8,
+    "label" : "<55BB12BC>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들은 노폰의 후방 지원 덕분에\n전장에서 살아 돌아올 수 있는 거야모"
+  }, {
+    "$id" : 9,
+    "label" : "<F6E3ED16>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠 같은 지식인의 의견은\n귀담아듣는 게 좋겠지모?"
+  }, {
+    "$id" : 10,
+    "label" : "<2F0DE495>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇다는데?"
+  }, {
+    "$id" : 11,
+    "label" : "<5240EDBC>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞는 말이지만 말투가 좀 그렇지 않아?\n다른 노폰은 좀 더 우호적이라고"
+  }, {
+    "$id" : 12,
+    "label" : "<0D68184C>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "란츠, 리쿠는\n우릴 위해서 하는 말이야"
+  } ]
+}

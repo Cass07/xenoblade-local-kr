@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk111003_msg0001",
+    "talker" : "gX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노아 씨와 여러분을 또 만나서 기뻐요!\n필요하신 물건이 있다면 말씀해 주세요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk111003_msg0101",
+    "talker" : "gX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분의 도움이 되어 다행이에요!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk111003_msg0201",
+    "talker" : "gX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죄송합니다……\n물건이 변변찮은 것들뿐이라서……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk111003_msg0301",
+    "talker" : "gX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다음에 또 이용해 주세요"
+  } ]
+}

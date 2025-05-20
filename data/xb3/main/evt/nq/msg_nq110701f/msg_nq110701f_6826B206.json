@@ -1,0 +1,178 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq110701_msg0001",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이야, 수고 많으셨습니다!\n샘플이 이만큼 모였으니\n해석하기엔 충분하겠어요!"
+  }, {
+    "$id" : 2,
+    "label" : "nq110701_msg0002",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 바로……!"
+  }, {
+    "$id" : 3,
+    "label" : "nq110701_msg0003",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이, 이건…… 그렇군요!\n그런 거였어요!!"
+  }, {
+    "$id" : 4,
+    "label" : "nq110701_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 뭔가 알아냈어?"
+  }, {
+    "$id" : 5,
+    "label" : "nq110701_msg0005",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네! 좋은 소식입니다!\n여러분이 가져오신 샘플 덕분에\n무척 신빙성 높은 가설에 다다랐습니다!"
+  }, {
+    "$id" : 6,
+    "label" : "nq110701_msg0006",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "호오?"
+  }, {
+    "$id" : 7,
+    "label" : "nq110701_msg0007",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어~ 간단히 설명해 드리자면……"
+  }, {
+    "$id" : 8,
+    "label" : "nq110701_msg0008",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기체의 받침점이 되는 양극 간에 에테르에 의한\n초고압력 에너지 부하가 발생하면 방출되는\n에너지로 국소적인 기체 이동이 일어나고"
+  }, {
+    "$id" : 9,
+    "label" : "nq110701_msg0009",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 결과 일종의 \"장\"이 발생하는데\n리프터 장치와 밸런서로 제어하면\n레브니스의 중량을 지탱할 정도의 장력이……"
+  }, {
+    "$id" : 10,
+    "label" : "nq110701_msg0010",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 그래, 그렇구나\n잘 알았어. 이제 됐어"
+  }, {
+    "$id" : 11,
+    "label" : "nq110701_msg0011",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "구조를 파악했으니까\n이제 케베스의 레브니스도\n띄울 수 있는 거야?"
+  }, {
+    "$id" : 12,
+    "label" : "nq110701_msg0012",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네! 이론상으로는요!\n시간과 비용을 따지지 않는다면 말이죠!"
+  }, {
+    "$id" : 13,
+    "label" : "nq110701_msg0013",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇겠지"
+  }, {
+    "$id" : 14,
+    "label" : "nq110701_msg0014",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런고로! 방금 말한 가설을 바탕으로\n우선 시험 삼아 이 레브니스를\n수리해 보려고 합니다!"
+  }, {
+    "$id" : 15,
+    "label" : "nq110701_msg0015",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸 다시 작동시킬 수만 있다면!\n제 가설이 맞다는 게 증명되니까요!"
+  }, {
+    "$id" : 16,
+    "label" : "nq110701_msg0016",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗! 이렇게 가만히 있을 순 없죠!\n딘젤 반장님에게 개발 자재\n사용 허가를 받으러 가야겠어요!"
+  }, {
+    "$id" : 17,
+    "label" : "nq110701_msg0017",
+    "talker" : "Ya1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우옷~! 이제부터 바빠지겠는데요!\n그럼 안녕히~~~!!"
+  } ]
+}

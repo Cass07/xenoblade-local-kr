@@ -1,0 +1,439 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012102_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갑자기 안 보인다 했더니만\n이런 곳에 있었어?"
+  }, {
+    "$id" : 2,
+    "label" : "tq012102_msg0002",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 미안, 미안\n왠지 이게 보고 싶어져서 말이야"
+  }, {
+    "$id" : 3,
+    "label" : "tq012102_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"골드\"의 불시계를?"
+  }, {
+    "$id" : 4,
+    "label" : "tq012102_msg0004",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……황금처럼 빛나는 생명도\n사라지고 나면 마지막은 \"이런 꼴\"이 돼"
+  }, {
+    "$id" : 5,
+    "label" : "tq012102_msg0005",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래도 사람은 등불에 달려드는 날벌레처럼\n명예나 영광을 추구하며 살아가지"
+  }, {
+    "$id" : 6,
+    "label" : "tq012102_msg0006",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이유가 대체 뭘까?"
+  }, {
+    "$id" : 7,
+    "label" : "tq012102_msg0007",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄, 갑자기 물어보면 뭐라고 해야 할지……"
+  }, {
+    "$id" : 8,
+    "label" : "tq012102_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 인간의 \"본성\"이기 때문…… 아닌가?"
+  }, {
+    "$id" : 9,
+    "label" : "tq012102_msg0009",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"본성\"이라……\n그렇다면 우린 정말 구제할 도리가 없겠는걸"
+  }, {
+    "$id" : 10,
+    "label" : "tq012102_msg0010",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 인간은 등불로부터 도망치지도 못하고\n그 불에 타서 죽을 운명이겠어"
+  }, {
+    "$id" : 11,
+    "label" : "tq012102_msg0011",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은 말씀 잘 들었고요\n……그래서 결국 하고 싶은 말이 뭔데?"
+  }, {
+    "$id" : 12,
+    "label" : "tq012102_msg0012",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 최후만큼은 꼭 좀 피하고 싶다는 말이지"
+  }, {
+    "$id" : 13,
+    "label" : "tq012102_msg0013",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어이쿠, 통신이 들어왔네\n잠깐 실례할게"
+  }, {
+    "$id" : 14,
+    "label" : "tq012102_msg0014",
+    "talker" : "fe10600",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 11의 초렌이다\n응답하라"
+  }, {
+    "$id" : 15,
+    "label" : "tq012102_msg0015",
+    "talker" : "M0300",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래그래, 이쪽은 아셰라인데\n지금은 바쁘니까 다음에……"
+  }, {
+    "$id" : 16,
+    "label" : "tq012102_msg0016",
+    "talker" : "fe10400",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗, 후회할걸? 아셰라\n네 녀석한테는 좋은 소식일 수도 있는데"
+  }, {
+    "$id" : 17,
+    "label" : "tq012102_msg0017",
+    "talker" : "M0300",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오…… 웬일로 그렇게 신났어, 촌?\n그렇다면야 어디 한번 들어 봐야지"
+  }, {
+    "$id" : 18,
+    "label" : "tq012102_msg0018",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……왜일까?\n불길한 예감밖에 안 들어"
+  }, {
+    "$id" : 19,
+    "label" : "tq012102_msg0019",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 나도 그래……"
+  }, {
+    "$id" : 20,
+    "label" : "tq012102_msg0020",
+    "talker" : "fe10400",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 전에 콜로니 11이\n선전 포고를 받았다"
+  }, {
+    "$id" : 21,
+    "label" : "tq012102_msg0021",
+    "talker" : "M0300",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에이, 뭐야, 그런 건 매번 있는 일이잖아?\n그게 뭐가 어쨌다고……"
+  }, {
+    "$id" : 22,
+    "label" : "tq012102_msg0022",
+    "talker" : "fe10400",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "상대가 네 녀석이 고대하던\n\"그 녀석\"이라고 해도……?"
+  }, {
+    "$id" : 23,
+    "label" : "tq012102_msg0023",
+    "talker" : "M0300",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……! 정말이야? 그것참……"
+  }, {
+    "$id" : 24,
+    "label" : "tq012102_msg0024",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기, 무슨 일인데 그래?"
+  }, {
+    "$id" : 25,
+    "label" : "tq012102_msg0025",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하…… 기뻐해라, 제군!"
+  }, {
+    "$id" : 26,
+    "label" : "tq012102_msg0026",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 집정관님께서\n드디어 설욕전에 나서신다는구나!"
+  }, {
+    "$id" : 27,
+    "label" : "tq012102_msg0027",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니……! 그 자식\n진짜로 쳐들어온 거냐!"
+  }, {
+    "$id" : 28,
+    "label" : "tq012102_msg0028",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집념이 대단한 자군……"
+  }, {
+    "$id" : 29,
+    "label" : "tq012102_msg0029",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 콜로니 11에 아주 큰일이 났는걸?\n어서 도우러 가야겠어"
+  }, {
+    "$id" : 30,
+    "label" : "tq012102_msg0030",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "켁, 능청 떨기는\n그냥 날뛰고 싶은 거라고 솔직하게 말해"
+  }, {
+    "$id" : 31,
+    "label" : "tq012102_msg0031",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하, 역시 유니야\n날 아주 잘 안다니까"
+  }, {
+    "$id" : 32,
+    "label" : "tq012102_msg0032",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어휴…… 이번엔 결판을 내, 알겠어?\n또 봐주거나 했다간 재미없을 줄 알아"
+  }, {
+    "$id" : 33,
+    "label" : "tq012102_msg0033",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어\n이번엔 확실히 끝장낼게, 약속해"
+  }, {
+    "$id" : 34,
+    "label" : "tq012102_msg0034",
+    "talker" : "fe10400",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이야기는 끝난 것 같군\n지금 어디에 있지?"
+  }, {
+    "$id" : 35,
+    "label" : "tq012102_msg0035",
+    "talker" : "M0300",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어…… 포니스 지방……\n\"카나 전적지\" 근처인데"
+  }, {
+    "$id" : 36,
+    "label" : "tq012102_msg0036",
+    "talker" : "fe10400",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠…… 그럼 차라리 잘됐군\n너희들은 \"모르크나 대삼림\" 쪽으로 와"
+  }, {
+    "$id" : 37,
+    "label" : "tq012102_msg0037",
+    "talker" : "fe10400",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 11에서는 우리가 치고 나가지\n협공해서 단숨에 섬멸해 버리자"
+  }, {
+    "$id" : 38,
+    "label" : "tq012102_msg0038",
+    "talker" : "M0300",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은데! 재미있겠어\n그 작전으로 가자"
+  }, {
+    "$id" : 39,
+    "label" : "tq012102_msg0039",
+    "talker" : "M0300",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그 녀석 목은 남겨 둬야 해\n반드시 죽이겠다고 약속했거든"
+  }, {
+    "$id" : 40,
+    "label" : "tq012102_msg0040",
+    "talker" : "fe10800",
+    "talkattr" : 33027,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗, 그건 장담 못 하겠는데\n\"재미\" 보려면 얼른 달려오시지"
+  }, {
+    "$id" : 41,
+    "label" : "tq012102_msg0041a",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗, 야!"
+  }, {
+    "$id" : 42,
+    "label" : "tq012102_msg0041b",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이거 난감하네\n정말 서두르지 않으면 큰일 나겠어"
+  }, {
+    "$id" : 43,
+    "label" : "tq012102_msg0042a",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "큰일 난 건 네 머리……"
+  }, {
+    "$id" : 44,
+    "label" : "tq012102_msg0042b",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 이제 됐어\n어서 알이나 박살 내러 가자"
+  }, {
+    "$id" : 45,
+    "label" : "tq012102_msg0043",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래야지! 바로 출진하자!"
+  }, {
+    "$id" : 46,
+    "label" : "tq012102_msg0044",
+    "talker" : "6",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 둘, 의외로 사이가 좋은 걸까……?"
+  } ]
+}

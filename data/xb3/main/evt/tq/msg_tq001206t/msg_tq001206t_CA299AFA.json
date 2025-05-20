@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001206_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 곳에 있었다니……\n망가지지 않게 숨겨 둔 건가?"
+  }, {
+    "$id" : 2,
+    "label" : "tq001206_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……당신의 유품은\n시티에 꼭 가져갈게"
+  }, {
+    "$id" : 3,
+    "label" : "tq001206_msg0101",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기에 숨겨져 있었네"
+  }, {
+    "$id" : 4,
+    "label" : "tq001206_msg0102",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 잘 챙겨서 돌아갈게"
+  }, {
+    "$id" : 5,
+    "label" : "tq001206_msg0201",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기서 싸웠던 건가……"
+  }, {
+    "$id" : 6,
+    "label" : "tq001206_msg0202",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 가져갈게"
+  }, {
+    "$id" : 7,
+    "label" : "tq001206_msg0301",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이렇게 가까이서 싸우고 있었구나……"
+  }, {
+    "$id" : 8,
+    "label" : "tq001206_msg0302",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티에서 기다리는 사람에게\n잘 전달해 줄게"
+  }, {
+    "$id" : 9,
+    "label" : "tq001206_msg0401",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "거대한 폭발 자국이야……\n여기에 휘말렸나 보군"
+  }, {
+    "$id" : 10,
+    "label" : "tq001206_msg0402",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 유품은 반드시 전해 주겠어"
+  }, {
+    "$id" : 11,
+    "label" : "tq001206_msg0501",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "찾아서 정말 다행이야"
+  }, {
+    "$id" : 12,
+    "label" : "tq001206_msg0502",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "반드시 시티까지 전해다 줄게……"
+  } ]
+}

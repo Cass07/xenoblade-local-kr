@@ -1,0 +1,367 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq230500_msg0001",
+    "talker" : "ne1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오옷! 딱 맞춰서 왔군!\n마침 너희를 찾고 있던 중이었다!"
+  }, {
+    "$id" : 2,
+    "label" : "nq230500_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흐~음 찾아서 다행이네\n그럼 우린 이만……"
+  }, {
+    "$id" : 3,
+    "label" : "nq230500_msg0003",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠시만요, 그렇게 매정하게 구시지 말고\n이야기만이라도 들어 주시면 안 될까요?"
+  }, {
+    "$id" : 4,
+    "label" : "nq230500_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응?\n너희는 분명 초렌 부대에 있던……"
+  }, {
+    "$id" : 5,
+    "label" : "nq230500_msg0005",
+    "talker" : "je1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후…… 오랜만이야"
+  }, {
+    "$id" : 6,
+    "label" : "nq230500_msg0006",
+    "talker" : "ne1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떠한 부탁도 망설임 없이 받아 주는\n호인 집단인 너희에게 기쁜 소식이다!"
+  }, {
+    "$id" : 7,
+    "label" : "nq230500_msg0007",
+    "talker" : "ne1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 당장 너희의 도움이 필요하다!\n어떠냐! 기쁘지?!"
+  }, {
+    "$id" : 8,
+    "label" : "nq230500_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대체 어디서부터 정정해야 하는 거야……\n일단 계속 얘기해 봐"
+  }, {
+    "$id" : 9,
+    "label" : "nq230500_msg0009",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사실 저희……\n아니, 클래드 부대에서\n\"탈영병\"이 나와서요"
+  }, {
+    "$id" : 10,
+    "label" : "nq230500_msg0010",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "탈영병……?\n콜로니에서 도망쳤다는 소리야?"
+  }, {
+    "$id" : 11,
+    "label" : "nq230500_msg0011",
+    "talker" : "je1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생명의 불시계가 없는 지금……\n머무르고 떠나는 건 그들의 자유지……"
+  }, {
+    "$id" : 12,
+    "label" : "nq230500_msg0012",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "녹 나리의 \"훈련\"은\n보고 있는 쪽이 더 괴로울 정도로\n가혹하니까요"
+  }, {
+    "$id" : 13,
+    "label" : "nq230500_msg0013",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연히 도망치고 싶어지죠\n결국 나리의 자업자득……"
+  }, {
+    "$id" : 14,
+    "label" : "nq230500_msg0014",
+    "talker" : "ne1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하여간!\n그 얼간이들을 끌고 와서\n다시 한번 자기 분수를 알게 해 줘야겠다!"
+  }, {
+    "$id" : 15,
+    "label" : "nq230500_msg0015",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그런데 그 탈영병들이\n어디로 도망갔는지 짐작 가는 곳은 있어?"
+  }, {
+    "$id" : 16,
+    "label" : "nq230500_msg0016",
+    "talker" : "je1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모르크나 대삼림……\n아마 거기가 틀림없을 거야……"
+  }, {
+    "$id" : 17,
+    "label" : "nq230500_msg0017",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모르크나 대삼림이라……\n그 일대로 도망쳤다면\n상당히 찾기 어렵겠는걸"
+  }, {
+    "$id" : 18,
+    "label" : "nq230500_msg0018",
+    "talker" : "ne1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아!\n산을 뒤지려면 일손이 필요해!\n그래서 너희가 나설 차례라는 거다!"
+  }, {
+    "$id" : 19,
+    "label" : "nq230500_msg0019",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "산을 뒤진다기보다 \"숲을 뒤지는 것\"이죠"
+  }, {
+    "$id" : 20,
+    "label" : "nq230500_msg0020",
+    "talker" : "ne1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연히 수락해 줄 거지?!\n수락할 거지?!\n어서 수락하라고!!"
+  }, {
+    "$id" : 21,
+    "label" : "nq230500_msg0021",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너 말이야…… 그런 식으로 부탁하면\n진심으로 우리가 수락할 거라고 생각하는 거야?"
+  }, {
+    "$id" : 22,
+    "label" : "nq230500_msg0022",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 들어 봐야 소용없었네\n뭐, 너희들끼리 잘해 봐. 그럼 이만"
+  }, {
+    "$id" : 23,
+    "label" : "nq230500_msg0023",
+    "talker" : "ne1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "윽……! 크윽……!"
+  }, {
+    "$id" : 24,
+    "label" : "nq230500_msg0024",
+    "talker" : "ne1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이, 이렇게 부탁한다……!"
+  }, {
+    "$id" : 25,
+    "label" : "nq230500_msg0025",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어? 갑자기 왜 그러는 거야……?"
+  }, {
+    "$id" : 26,
+    "label" : "nq230500_msg0026",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 말이죠. 나리는\n이번 일로 클래드 대장님에게\n호되게 혼난 모양이에요"
+  }, {
+    "$id" : 27,
+    "label" : "nq230500_msg0027",
+    "talker" : "je1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만약 데리고 돌아오지 않으면\n그…… 입장이라든가 이것저것……"
+  }, {
+    "$id" : 28,
+    "label" : "nq230500_msg0028",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수색하기 위해서 사람을 모으려고 해도\n나리에게 인망이 없다는 건\n부하가 도망갔다는 시점에서 짐작이 가시죠?"
+  }, {
+    "$id" : 29,
+    "label" : "nq230500_msg0029",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "즉, 애초에 우리 말고는\n부탁할 상대가 없었다는 건가……"
+  }, {
+    "$id" : 30,
+    "label" : "nq230500_msg0030",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……한심하네"
+  }, {
+    "$id" : 31,
+    "label" : "nq230500_msg0031",
+    "talker" : "ne1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……으으윽!!"
+  }, {
+    "$id" : 32,
+    "label" : "nq230500_msg0032",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음, 이건 이거대로\n조금 불쌍할지도……?"
+  }, {
+    "$id" : 33,
+    "label" : "nq230500_msg0033",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하아~ 정말이지 어쩔 수 없겠는데?\n빚 하나 달아 두는 셈 치고 도와줄까?"
+  }, {
+    "$id" : 34,
+    "label" : "nq230500_msg0034",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 그러자. 곤란한 사람을\n못 본 척하고 지나칠 수는 없으니까"
+  }, {
+    "$id" : 35,
+    "label" : "nq230500_msg0035",
+    "talker" : "ne1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……혀, 협력해 줘서 고맙다……\n고맙다고오오오오……!"
+  }, {
+    "$id" : 36,
+    "label" : "nq230500_msg0036",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전혀 그렇게 안 보이는데?"
+  }, {
+    "$id" : 37,
+    "label" : "nq230500_msg0037",
+    "talker" : "ie1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 출발하도록 하죠\n즐거운 업무 시간이에요"
+  }, {
+    "$id" : 38,
+    "label" : "nq230500_msg0038",
+    "talker" : "je1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "후후후…… 다시 한번 잘 부탁해"
+  } ]
+}

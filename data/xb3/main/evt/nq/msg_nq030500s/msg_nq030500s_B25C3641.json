@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq030500_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 18890881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세나, 그 9호 녀석한테\n한 소리 들었다며?"
+  }, {
+    "$id" : 2,
+    "label" : "nq030500_msg0002",
+    "talker" : "6",
+    "talkattr" : 33104,
+    "talkattr2" : 16793729,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어? 그걸 어떻게…… 아!\n혹시 보고 있었어?"
+  }, {
+    "$id" : 3,
+    "label" : "nq030500_msg0003",
+    "talker" : "3",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나 말고도 다들 알아\n무슨 혼날 짓이라도 했어?"
+  }, {
+    "$id" : 4,
+    "label" : "nq030500_msg0004",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안 했어! ……아마도\n제대로 얘기를 나눠본 것도 그게 처음인걸"
+  }, {
+    "$id" : 5,
+    "label" : "nq030500_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "9호라……\n분명 몬스터를 퇴치할 때도\n동료와 다퉜었지"
+  }, {
+    "$id" : 6,
+    "label" : "nq030500_msg0006",
+    "talker" : "3",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보아하니 원래부터\n성격이 까칠한 거 아니야?"
+  }, {
+    "$id" : 7,
+    "label" : "nq030500_msg0007",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄……\n그뿐만은 아닌 거 같아"
+  }, {
+    "$id" : 8,
+    "label" : "nq030500_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다들 나름 사정이 있겠지\n별로 깊게 파고들지 않는 편이 좋아"
+  }, {
+    "$id" : 9,
+    "label" : "nq030500_msg0009",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 대놓고 적대시하는 마당에\n뭔가 오해가 남은 채로 넘기자니\n영 찜찜하단 말이지"
+  }, {
+    "$id" : 10,
+    "label" : "nq030500_msg0010",
+    "talker" : "6",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러게 말이야……\n한 번 더 슬쩍 떠볼까?"
+  } ]
+}

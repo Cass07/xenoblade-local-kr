@@ -1,0 +1,151 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq210403_msg0001",
+    "talker" : "xc1",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무사해?!"
+  }, {
+    "$id" : 2,
+    "label" : "nq210403_msg0002",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "싸우는 모습이 보여서\n우리도 얼른 처리하고 왔는데……"
+  }, {
+    "$id" : 3,
+    "label" : "nq210403_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 정도는 별거 아냐"
+  }, {
+    "$id" : 4,
+    "label" : "nq210403_msg0004",
+    "talker" : "xc1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다행이군…… 너흰 강하구나"
+  }, {
+    "$id" : 5,
+    "label" : "nq210403_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물자는 사수했는데\n이대로 계속 놔두면\n또 다른 적이 올지도 몰라"
+  }, {
+    "$id" : 6,
+    "label" : "nq210403_msg0006",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 바로 회수하자\n도와줘서 고마워"
+  }, {
+    "$id" : 7,
+    "label" : "nq210403_msg0007",
+    "talker" : "xc1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 그렇고 역시 이 주변은 적이 많군\n병력 배치를 재고해야겠어……"
+  }, {
+    "$id" : 8,
+    "label" : "nq210403_msg0008",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것도 도와줄까?"
+  }, {
+    "$id" : 9,
+    "label" : "nq210403_msg0009",
+    "talker" : "xc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 그런 일까지 부탁하면 미안하지\n담당자들과 의논해 볼게"
+  }, {
+    "$id" : 10,
+    "label" : "nq210403_msg0010",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 좋겠어"
+  }, {
+    "$id" : 11,
+    "label" : "nq210403_msg0011",
+    "talker" : "xc1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 먼저 실례하지\n고마웠어"
+  }, {
+    "$id" : 12,
+    "label" : "nq210403_msg0012",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 람다라면\n뒷일은 알아서 잘할 거야"
+  }, {
+    "$id" : 13,
+    "label" : "nq210403_msg0013",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇겠지\n우리가 너무 나서는 것도 좋지 않아"
+  }, {
+    "$id" : 14,
+    "label" : "nq210403_msg0014",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 우리도 이만 돌아가자"
+  } ]
+}

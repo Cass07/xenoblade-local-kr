@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk420701_msg0001",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희 감찰관들은 콜로니를 감시하거나\n콜로니와 캐슬 사이에서\n중개를 담당했습니다만……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk420701_msg0002",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금 큰 변화가 일고 있습니다"
+  }, {
+    "$id" : 3,
+    "label" : "tlk420701_msg0003",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대부분의 콜로니는 이제\n캐슬한테 감시받을 이유가 없다고\n생각하고 있을 테니까요……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk420701_msg0004",
+    "talker" : "ye1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 저희가 할 수 있는 일이\n무엇인지 모색하고 있습니다"
+  } ]
+}

@@ -1,0 +1,214 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq220206_msg0001",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "주변 몬스터들은 노아 씨 일행분들과\n함께 쓰러뜨렸어요"
+  }, {
+    "$id" : 2,
+    "label" : "nq220206_msg0002",
+    "talker" : "Xd1",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 대단하네. 우리만으로는\n쉽게 해결할 수 없었는데 말이야"
+  }, {
+    "$id" : 3,
+    "label" : "nq220206_msg0003",
+    "talker" : "5",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모처럼 수확한 감자를 빼앗겨 버리면\n너무 속상하잖아"
+  }, {
+    "$id" : 4,
+    "label" : "nq220206_msg0004",
+    "talker" : "ed1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 그렇지\n땀 뻘뻘 흘려 가면서 기른 건데"
+  }, {
+    "$id" : 5,
+    "label" : "nq220206_msg0005",
+    "talker" : "Xd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요카제는 사실 밭 담당도 아닌데\n이렇게 거들어 주러 오거든"
+  }, {
+    "$id" : 6,
+    "label" : "nq220206_msg0006",
+    "talker" : "Xd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 녀석들을 생각해서라도\n몬스터 같은 것들한테 뺏기고 싶진 않아"
+  }, {
+    "$id" : 7,
+    "label" : "nq220206_msg0007",
+    "talker" : "1",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이해해\n빼앗기는 게 좋을 리가 없지"
+  }, {
+    "$id" : 8,
+    "label" : "nq220206_msg0008",
+    "talker" : "ed1",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "편안한 마음으로 하면 돼\n이마요처럼 복잡하게 생각하면\n실패했을 때 충격도 훨씬 더 크잖아"
+  }, {
+    "$id" : 9,
+    "label" : "nq220206_msg0009",
+    "talker" : "Xd1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 딱히……"
+  }, {
+    "$id" : 10,
+    "label" : "nq220206_msg0010",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몬스터는 쓰러뜨렸으니\n지금은 잘 해결된 거라고 생각하죠"
+  }, {
+    "$id" : 11,
+    "label" : "nq220206_msg0011",
+    "talker" : "Xd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래\n몬스터 고기도 얻었으니\n로에이 녀석도 좋아하겠어"
+  }, {
+    "$id" : 12,
+    "label" : "nq220206_msg0012",
+    "talker" : "ed1",
+    "talkattr" : 33184,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석은 너무 많이 먹어\n좀 더 위기의식을 가져야 한다니까"
+  }, {
+    "$id" : 13,
+    "label" : "nq220206_msg0013",
+    "talker" : "ed1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 밥을 먹고 싶으면\n좀 더 성실하게 일을 해야지"
+  }, {
+    "$id" : 14,
+    "label" : "nq220206_msg0014",
+    "talker" : "Xd1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아까랑 말이 다른데……"
+  }, {
+    "$id" : 15,
+    "label" : "nq220206_msg0015",
+    "talker" : "ed1",
+    "talkattr" : 33072,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐가?"
+  }, {
+    "$id" : 16,
+    "label" : "nq220206_msg0016",
+    "talker" : "Xd1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니…… 아냐……"
+  }, {
+    "$id" : 17,
+    "label" : "nq220206_msg0017",
+    "talker" : "L",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 어쨌든\n도와주셔서 감사합니다"
+  }, {
+    "$id" : 18,
+    "label" : "nq220206_msg0018",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 화제를 돌렸어"
+  }, {
+    "$id" : 19,
+    "label" : "nq220206_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐 어때\n일단 감자는 무사하잖아"
+  }, {
+    "$id" : 20,
+    "label" : "nq220206_msg0020",
+    "talker" : "5",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것도 그렇네\n이걸로 만든 요리가 완성되면\n나한테도 좀 줘"
+  }, {
+    "$id" : 21,
+    "label" : "nq220206_msg0021",
+    "talker" : "L",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 그때는 꼭 말씀드릴게요"
+  } ]
+}

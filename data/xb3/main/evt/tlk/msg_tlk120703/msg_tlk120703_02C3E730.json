@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120703_msg0001",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "최근에는 훈련이나 실전만 중시하고\n이론을 경시하는 병사들이 너무 많아요……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120703_msg0002",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "완력만이 아니라 지력도 단련하지 않으면\n막상 중요할 때에 대응이 늦어져\n불필요한 희생이 발생할 겁니다"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120703_msg0003",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무쪼록 노아 씨는\n이전의 결과를 엄중히 받아들여\n복습에 힘써 주셨으면 하네요"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120703_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "윽…… 그러네\n괜찮다면 네가 가르쳐 주지 않을래?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk120703_msg0005",
+    "talker" : "cY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신은 교육관이라는 입장을\n제대로 이해하고 있기는 한가요?\n……뭐, 검토는 해 보겠습니다"
+  } ]
+}

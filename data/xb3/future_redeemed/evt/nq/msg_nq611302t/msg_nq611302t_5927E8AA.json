@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<DD617D21>",
+    "talker" : "Yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……명각비를 만드신다고요?"
+  }, {
+    "$id" : 2,
+    "label" : "<D9DD8DC9>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 그래서 캐시한테\n이름 새기는 일을 부탁하고 싶은데……"
+  }, {
+    "$id" : 3,
+    "label" : "<F0599061>",
+    "talker" : "Yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어머 어머……\n제게 그렇게 중요한 일을 맡겨 주시다니\n영광스러운 일이네요"
+  }, {
+    "$id" : 4,
+    "label" : "<86FE78F9>",
+    "talker" : "Yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당연히 받아들일게요\n도움을 받은 은혜도 있으니 말이죠"
+  }, {
+    "$id" : 5,
+    "label" : "<9BDE9E21>",
+    "talker" : "Yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서둘러 준비에 착수할게요\n나중에 다시 뵙도록 해요"
+  }, {
+    "$id" : 6,
+    "label" : "<84299D59>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어\n중앙 광장에서 기다릴게"
+  } ]
+}

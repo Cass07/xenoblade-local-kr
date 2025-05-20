@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk211004_msg0001",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생명의 불시계가 파괴된 것을 시작으로\n저희를 둘러싼 세계는 크게 변화했습니다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk211004_msg0002",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분 덕분……이라고 말하자니 묘하지만\n이 변혁의 시기를 맞이할 수 있었던 것은\n오히려 영광스러운 일일지도 모르겠군요"
+  }, {
+    "$id" : 3,
+    "label" : "tlk211004_msg0003",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 영예에 보답하는 차원에서라도\n저희 콜로니 4의 총력을 다해\n여러분의 싸움에 힘을 보태겠습니다"
+  }, {
+    "$id" : 4,
+    "label" : "tlk211004_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말 든든한걸\n우리도 모두의 기대에 보답할 수 있게\n최선을 다하겠어"
+  } ]
+}

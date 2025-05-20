@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk320401_msg0001",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스의 캐슬에 가려고?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk320401_msg0002",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면 타우 위쪽에서\n우리가 싸웠던 곳으로 돌아갈 수 있는데"
+  }, {
+    "$id" : 3,
+    "label" : "tlk320401_msg0003",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 거기에서 로프 슬라이드를\n이용하면 갈 수 있을 거야"
+  }, {
+    "$id" : 4,
+    "label" : "tlk320401_msg0004",
+    "talker" : "Yd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다만 하층에는 가까이 가지 않는 걸 추천해\n거기에 있는 몬스터는 만만치 않거든……"
+  } ]
+}

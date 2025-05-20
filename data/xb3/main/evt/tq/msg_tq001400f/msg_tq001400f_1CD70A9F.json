@@ -1,0 +1,619 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001400_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어? 여왕님은?"
+  }, {
+    "$id" : 2,
+    "label" : "tq001400_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자리를 비우신 걸까?\n하지만 대체 어디에……"
+  }, {
+    "$id" : 3,
+    "label" : "tq001400_msg0003",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흥~ 흥흥흥~♪"
+  }, {
+    "$id" : 4,
+    "label" : "tq001400_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응?"
+  }, {
+    "$id" : 5,
+    "label" : "tq001400_msg0005",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음~ 오랜만에 입어 본 건데\n아직 그럭저럭 봐 줄 만한걸"
+  }, {
+    "$id" : 6,
+    "label" : "tq001400_msg0006",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "평소에 입는 정장은 움직이기도 힘들고\n뛰다가 옷자락을 밟고 넘어지기 일쑤고……"
+  }, {
+    "$id" : 7,
+    "label" : "tq001400_msg0007",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 역시 이 복장이 편안하다니까~\n이 해방감! 너무 좋아!"
+  }, {
+    "$id" : 8,
+    "label" : "tq001400_msg0008",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아"
+  }, {
+    "$id" : 9,
+    "label" : "tq001400_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아"
+  }, {
+    "$id" : 10,
+    "label" : "tq001400_msg0010",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너, 너, 너희들이 왜 이곳에……"
+  }, {
+    "$id" : 11,
+    "label" : "tq001400_msg0011",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그게 그러니까……"
+  }, {
+    "$id" : 12,
+    "label" : "tq001400_msg0012",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기, 여왕님? 그 복장은……"
+  }, {
+    "$id" : 13,
+    "label" : "tq001400_msg0013",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기, 기다려! 잠깐 기다려 봐!\n정말 잠깐이면 되니까!"
+  }, {
+    "$id" : 14,
+    "label" : "tq001400_msg0014",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스읍~ 하아~ 스읍~ 하아~"
+  }, {
+    "$id" : 15,
+    "label" : "tq001400_msg0015",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오시는 길 수고 많으셨습니다\n여러분의 방문을 진심으로 환영합니다"
+  }, {
+    "$id" : 16,
+    "label" : "tq001400_msg0016",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대접해 드릴 것은 많지 않습니다만\n편안하게 쉬다 가셨으면 좋겠네요"
+  }, {
+    "$id" : 17,
+    "label" : "tq001400_msg0017",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 18,
+    "label" : "tq001400_msg0018",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그러시죠?"
+  }, {
+    "$id" : 19,
+    "label" : "tq001400_msg0019",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "피곤하지 않아? 억지로 그러는 거……"
+  }, {
+    "$id" : 20,
+    "label" : "tq001400_msg0020",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으윽?!"
+  }, {
+    "$id" : 21,
+    "label" : "tq001400_msg0021",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐, 노아!"
+  }, {
+    "$id" : 22,
+    "label" : "tq001400_msg0022",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괘, 괜찮습니다\n제게 그런 배려는 하지 않으셔도 됩니다"
+  }, {
+    "$id" : 23,
+    "label" : "tq001400_msg0023",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이참에 제가 여왕이라는 건 잊고\n편하게 얘기해 주세요"
+  }, {
+    "$id" : 24,
+    "label" : "tq001400_msg0024",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 묻겠는데, 여왕님\n그 복장은 뭐야?"
+  }, {
+    "$id" : 25,
+    "label" : "tq001400_msg0025",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇겠죠\n역시 신경 쓰이나 보네요"
+  }, {
+    "$id" : 26,
+    "label" : "tq001400_msg0026",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 말하기 싫으면\n안 해도 되는데……"
+  }, {
+    "$id" : 27,
+    "label" : "tq001400_msg0027",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아뇨, 그런 뜻은 아니고……"
+  }, {
+    "$id" : 28,
+    "label" : "tq001400_msg0028",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지난번에 여러분에게\n둘로 나뉜 세계에 관해 얘기했었죠"
+  }, {
+    "$id" : 29,
+    "label" : "tq001400_msg0029",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여왕님을 처음 만났을 때였지?\n물론 기억하고 있어"
+  }, {
+    "$id" : 30,
+    "label" : "tq001400_msg0030",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 옷은 두 세계가 나뉘어\n다시 하나가 되기 전의 시대……"
+  }, {
+    "$id" : 31,
+    "label" : "tq001400_msg0031",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일찍이 제가 있었던 세계에서\n특별히 제작한 것입니다"
+  }, {
+    "$id" : 32,
+    "label" : "tq001400_msg0032",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여왕님의 세계가 아직 있었던 시절에……?"
+  }, {
+    "$id" : 33,
+    "label" : "tq001400_msg0033",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네…… 그렇기에 제게는 고향의 향수를\n느낄 수 있는 물건이라 할 수 있죠"
+  }, {
+    "$id" : 34,
+    "label" : "tq001400_msg0034",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고향이…… 뭐죠?"
+  }, {
+    "$id" : 35,
+    "label" : "tq001400_msg0035",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생명이 태어나고 자란 곳……\n사람들은 그곳을 \"고향\"이라고 부릅니다"
+  }, {
+    "$id" : 36,
+    "label" : "tq001400_msg0036",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여왕님의 \"고향\"이라……\n대체 어떤 곳이었을까"
+  }, {
+    "$id" : 37,
+    "label" : "tq001400_msg0037",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "관심이 있나요, 노아?"
+  }, {
+    "$id" : 38,
+    "label" : "tq001400_msg0038",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래…… 다만 너무 엄청난 얘기라서\n상상이 잘 안 가기는 해"
+  }, {
+    "$id" : 39,
+    "label" : "tq001400_msg0039",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮다면 여왕님의 세계에 대한 이야기를\n좀 더 자세히 들려주지 않겠어?"
+  }, {
+    "$id" : 40,
+    "label" : "tq001400_msg0040",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 좋습니다\n그렇다면 먼저……"
+  }, {
+    "$id" : 41,
+    "label" : "tq001400_msg0041",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……라고 말씀드리고 싶습니다만"
+  }, {
+    "$id" : 42,
+    "label" : "tq001400_msg0042",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전부 얘기하려면 하루 내내 얘기해도\n시간이 부족할지도 모릅니다"
+  }, {
+    "$id" : 43,
+    "label" : "tq001400_msg0043",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 무조건 부족하겠군요"
+  }, {
+    "$id" : 44,
+    "label" : "tq001400_msg0044",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그래? 무리한 부탁을 해서 미안해\n그럼 나중에 얘기해 줘"
+  }, {
+    "$id" : 45,
+    "label" : "tq001400_msg0045",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지만 여러분은 할 일이 많으니\n여기에 붙잡아 둘 순 없죠"
+  }, {
+    "$id" : 46,
+    "label" : "tq001400_msg0046",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 아, 그렇지. 그러니까……"
+  }, {
+    "$id" : 47,
+    "label" : "tq001400_msg0047",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니 제가 여러분과\n동행하도록 하겠습니다"
+  }, {
+    "$id" : 48,
+    "label" : "tq001400_msg0048",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 그래? 알겠어……"
+  }, {
+    "$id" : 49,
+    "label" : "tq001400_msg0049",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐?"
+  }, {
+    "$id" : 50,
+    "label" : "tq001400_msg0050",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죄, 죄송하지만…… 지금 뭐라고……"
+  }, {
+    "$id" : 51,
+    "label" : "tq001400_msg0051",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 저도 당신들의 여정에\n함께하겠다고 말씀드리는 겁니다"
+  }, {
+    "$id" : 52,
+    "label" : "tq001400_msg0052",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 하면 하루 내내든 날마다든\n늘 저와 얘기할 수 있지 않나요?"
+  }, {
+    "$id" : 53,
+    "label" : "tq001400_msg0053",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 딱히 여기에만 있어서 지루하다거나\n혼자 있어서 외롭다거나……"
+  }, {
+    "$id" : 54,
+    "label" : "tq001400_msg0054",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "밖에 나가기 좋은 구실이 생겨서\n운이 좋았다거나……"
+  }, {
+    "$id" : 55,
+    "label" : "tq001400_msg0055",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 건 아니니까\n오해하지 말아 주시길"
+  }, {
+    "$id" : 56,
+    "label" : "tq001400_msg0056",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "딱히 아무 말도 안 했는데……"
+  }, {
+    "$id" : 57,
+    "label" : "tq001400_msg0057",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안…… 될까요?"
+  }, {
+    "$id" : 58,
+    "label" : "tq001400_msg0058",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 그럴 리가……"
+  }, {
+    "$id" : 59,
+    "label" : "tq001400_msg0059",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 결정된 거라고 봐도 되죠?"
+  }, {
+    "$id" : 60,
+    "label" : "tq001400_msg0060",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그래……"
+  }, {
+    "$id" : 61,
+    "label" : "tq001400_msg0061",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……좋았어!"
+  }, {
+    "$id" : 62,
+    "label" : "tq001400_msg0062",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼, 저기……\n앞으로 잘 부탁해…… 이럼 되는 거지?"
+  }, {
+    "$id" : 63,
+    "label" : "tq001400_msg0063",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네, 편하게 대해 주시면 됩니다\n저도 잘 부탁드립니다, 노아"
+  }, {
+    "$id" : 64,
+    "label" : "tq001400_msg0064",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 그리고……\n저는 니아라고 불러 주세요"
+  }, {
+    "$id" : 65,
+    "label" : "tq001400_msg0065",
+    "talker" : "F",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금부터 저는\n당신들의 \"동료\"니까요"
+  }, {
+    "$id" : 66,
+    "label" : "tq001400_msg0071",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 79,
+    "name" : "니아와 아이오니온 각지를 다녀 봅시다\n특정 장소에서는 이벤트가 발생합니다"
+  } ]
+}

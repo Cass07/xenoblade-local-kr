@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq110605_msg0001",
+    "talker" : "_Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아아아! 고마워!\n이만큼 있으면 충분해~!"
+  }, {
+    "$id" : 2,
+    "label" : "nq110605_msg0002",
+    "talker" : "_Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얼른 의료반에 전달해 줘야지……"
+  }, {
+    "$id" : 3,
+    "label" : "nq110605_msg0003",
+    "talker" : "_Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 4,
+    "label" : "nq110605_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……저기, 괜찮아?\n얼굴이 새파란데"
+  }, {
+    "$id" : 5,
+    "label" : "nq110605_msg0005",
+    "talker" : "_Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……미, 미안한데\n너희한테 부탁 하나만 더……"
+  }, {
+    "$id" : 6,
+    "label" : "nq110605_msg0006",
+    "talker" : "_Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나랑 의료반까지\n같이 가 주면 안 될까……?"
+  }, {
+    "$id" : 7,
+    "label" : "nq110605_msg0007",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮긴 한데, 왜?"
+  }, {
+    "$id" : 8,
+    "label" : "nq110605_msg0008",
+    "talker" : "_Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게…… 물자 전달이 상당히\n늦어지는 바람에……"
+  }, {
+    "$id" : 9,
+    "label" : "nq110605_msg0009",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "올레샤 씨한테 또 혼날 것 같다고?"
+  }, {
+    "$id" : 10,
+    "label" : "nq110605_msg0010",
+    "talker" : "_Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지, 지, 지, 진짜로 간절하게 부탁할게!\n중간까지만이라도 좋아!"
+  }, {
+    "$id" : 11,
+    "label" : "nq110605_msg0011",
+    "talker" : "_Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나한테 혼날 용기를 줘!\n제발 부탁할게!!"
+  }, {
+    "$id" : 12,
+    "label" : "nq110605_msg0012",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자재 조달반도 참 힘들겠어……"
+  } ]
+}

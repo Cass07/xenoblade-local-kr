@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002407_msg0001",
+    "talker" : "yc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "순백미요? 네, 괜찮아요\n가져가세요"
+  }, {
+    "$id" : 2,
+    "label" : "tq002407_msg0002",
+    "talker" : "yc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 부근이 수원지 근처라서\n품질 좋은 순백미가 나거든요"
+  }, {
+    "$id" : 3,
+    "label" : "tq002407_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오~ 그렇구나……"
+  }, {
+    "$id" : 4,
+    "label" : "tq002407_msg0004",
+    "talker" : "yc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "또 필요하시면\n편히 말씀해 주세요"
+  }, {
+    "$id" : 5,
+    "label" : "tq002407_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 주먹밥을 만들 장소인데……"
+  }, {
+    "$id" : 6,
+    "label" : "tq002407_msg0006",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갓 만든 걸 먹이고 싶은데\n시티의 식당을 좀 빌려 볼까?"
+  } ]
+}

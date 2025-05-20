@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk320302_msg0001",
+    "talker" : "Xd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 사냥감이 보이면 숨을 죽이고 있다가\n빈틈을 노려 기습을 가하지……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk320302_msg0002",
+    "talker" : "Xd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 그런 싸움 방식이\n너희에겐 안 통한 모양이네"
+  }, {
+    "$id" : 3,
+    "label" : "tlk320302_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "통했거든?!\n졸도하는 줄 알았다고!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk320302_msg0004",
+    "talker" : "Xd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하핫, 그럼 우리 실력도\n아직 건재한가 보네!"
+  } ]
+}

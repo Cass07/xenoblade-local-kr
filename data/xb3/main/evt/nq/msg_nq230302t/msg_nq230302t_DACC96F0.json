@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq230302_msg0001",
+    "talker" : "ke1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이야~ 그걸 정말로\n가져와 주신 거예요~?"
+  }, {
+    "$id" : 2,
+    "label" : "nq230302_msg0002",
+    "talker" : "ke1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아유~ 감사합니다\n이렇게까지 친절하신 분이셨다니\n제법 마음에 드네요~"
+  }, {
+    "$id" : 3,
+    "label" : "nq230302_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 그 신경에 거슬리는 말투 좀 작작 해라\n짜증 나니까"
+  }, {
+    "$id" : 4,
+    "label" : "nq230302_msg0004",
+    "talker" : "ke1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 너나 그 사람 깔보는 말투 먼저\n때려 고칠 생각해, 이 얼뜨기야"
+  }, {
+    "$id" : 5,
+    "label" : "nq230302_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 6,
+    "label" : "nq230302_msg0006",
+    "talker" : "ke1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐~ 그건 그렇다 치고\n약속은 지켜야겠죠"
+  }, {
+    "$id" : 7,
+    "label" : "nq230302_msg0007",
+    "talker" : "ke1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이젤 씨가 있는 곳까지는\n제가 안내하겠습니다~"
+  }, {
+    "$id" : 8,
+    "label" : "nq230302_msg0008",
+    "talker" : "ke1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자~ 그럼\n카타라 구릉으로 출발~"
+  }, {
+    "$id" : 9,
+    "label" : "nq230302_msg0101",
+    "talker" : "ke1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자 자~\n빨리 가져와 주세요~\n대장님이 기다리고 있다니까요~"
+  } ]
+}

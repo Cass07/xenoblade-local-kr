@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk710104_msg0001",
+    "talker" : "rk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마침 잘 만났다!\n할 얘기가 있었거든"
+  }, {
+    "$id" : 2,
+    "label" : "tlk710104_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그래? 무슨 일 있었어?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk710104_msg0003",
+    "talker" : "rk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "실은 나…… 곧 애 아빠가 돼\n메이의 배 안에 아이가 있는데……\n너희가 그 애 이름을 지어 줬으면 해서"
+  }, {
+    "$id" : 4,
+    "label" : "tlk710104_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?! 그런 중요한 일을 우리가……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk710104_msg0005",
+    "talker" : "rk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 싸움이 끝난 뒤에 다시 얘기할게\n그러니까…… 꼭 살아서 다시 만나자"
+  } ]
+}

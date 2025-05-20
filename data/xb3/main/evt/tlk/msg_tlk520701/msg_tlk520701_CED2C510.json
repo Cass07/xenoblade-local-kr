@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520701_msg0001",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이치카, 이 거짓말쟁이……!\n다 같이 살아남자고 말했으면서……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520701_msg0002",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흐윽…… 해적 대책도……\n나 혼자서는……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520701_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "해적 대책……?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520701_msg0004",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "디다라섬의 동쪽에……\n해적이 출몰하나 봐요\n이치카랑 가끔 얘기하곤 했는데……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk520701_msg0005",
+    "talker" : "Xg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 경계해야 한다고 했으면서……\n그런데 왜…… 흐윽……"
+  } ]
+}

@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk310803_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야? 걱정이라도 있어?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk310803_msg0002",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정이라……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk310803_msg0003",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "람다 사람들도 너희처럼 빠른 상황 판단을\n할 수 있으면 좋겠다고 생각하던 참이야"
+  }, {
+    "$id" : 4,
+    "label" : "tlk310803_msg0004",
+    "talker" : "uc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유연하게 대처하지 못하면\n분명 이 콜로니는 언젠가……"
+  } ]
+}

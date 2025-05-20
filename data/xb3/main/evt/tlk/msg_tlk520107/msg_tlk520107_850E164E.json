@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520107_msg0001",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네가 연 상담회가 소문이 자자하던데\n대단한걸?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520107_msg0002",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "헤헤, 힘들긴 해도 보람은 있어\n사람들의 이야기를 듣다 보면\n나도 설레거든!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520107_msg0003",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 무슨 문제가 있을 때\n일단 상담할 상대가 있으면\n도움이 되니까……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520107_msg0004",
+    "talker" : "xf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "더는 누구도……\n혼자 괴로워하지 않았으면 좋겠어"
+  }, {
+    "$id" : 5,
+    "label" : "tlk520107_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래, 지금의 너희라면\n충분히 할 수 있을 거야"
+  } ]
+}

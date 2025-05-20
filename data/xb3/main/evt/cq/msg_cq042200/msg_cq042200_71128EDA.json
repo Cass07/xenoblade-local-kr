@@ -1,0 +1,151 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "cq042200_0010",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어때?"
+  }, {
+    "$id" : 2,
+    "label" : "cq042200_0020",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타이온이 말한 대로\n동력은 살아 있어모"
+  }, {
+    "$id" : 3,
+    "label" : "cq042200_0030",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "구동 기관도 많이 낡았지만\n가동할 수는 있겠어모"
+  }, {
+    "$id" : 4,
+    "label" : "cq042200_0040",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고칠 수 있어?"
+  }, {
+    "$id" : 5,
+    "label" : "cq042200_0050",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몇 가지 부품만 있으면 가능해모"
+  }, {
+    "$id" : 6,
+    "label" : "cq042200_0060",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "얼마나 걸릴 거 같아?"
+  }, {
+    "$id" : 7,
+    "label" : "cq042200_0070",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "서둘러야 한다는 거지모?"
+  }, {
+    "$id" : 8,
+    "label" : "cq042200_0080",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 리쿠가 손보면 30분쯤 걸릴 거야모"
+  }, {
+    "$id" : 9,
+    "label" : "cq042200_0090",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "부품은 금방 구할 수 있는 거야?"
+  }, {
+    "$id" : 10,
+    "label" : "cq042200_0100",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이곳엔 수많은 철거신과\n레브니스의 잔해가 있어모"
+  }, {
+    "$id" : 11,
+    "label" : "cq042200_0110",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명 쓸 만한 것도 남아 있을 거야모"
+  }, {
+    "$id" : 12,
+    "label" : "cq042200_0120",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어\n리쿠는 수리할 준비를 해 줘"
+  }, {
+    "$id" : 13,
+    "label" : "cq042200_0130",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리는 흩어져서\n필요한 부품을 모아 오자"
+  }, {
+    "$id" : 14,
+    "label" : "cq042200_0140",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 맡겨 줘"
+  } ]
+}

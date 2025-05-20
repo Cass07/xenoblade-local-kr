@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230202_msg0001",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당장은 여유가 있지만\n비축한 물자에도 한계가 있습니다"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230202_msg0002",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모든 콜로니에 나눠 줄 순 없으니\n잘 검토해 주세요"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230202_msg0003",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다만 너무 신중하실 필요는 없습니다\n신경 쓰이는 콜로니부터 차례대로\n나눠 주면 문제없을 거예요"
+  } ]
+}

@@ -1,0 +1,142 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq300101_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엘티아해에 자욱이 낀\n흰 안개에 대해 뭐 아는 거 있어?"
+  }, {
+    "$id" : 2,
+    "label" : "nq300101_msg0002",
+    "talker" : "ti1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어? 너희도 그걸 조사하나 봐?"
+  }, {
+    "$id" : 3,
+    "label" : "nq300101_msg0003",
+    "talker" : "ti1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 마침 모니카 씨 부탁으로\n조사하고 있던 참이거든"
+  }, {
+    "$id" : 4,
+    "label" : "nq300101_msg0004",
+    "talker" : "ti1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 안개……\n배에 타고 있을 땐\n아무 일도 안 생기는데"
+  }, {
+    "$id" : 5,
+    "label" : "nq300101_msg0005",
+    "talker" : "ti1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안개가 깔린 섬에 상륙하면\n잠시 눈을 돌린 사이에\n옆에 있는 동료가 사라져 버린대"
+  }, {
+    "$id" : 6,
+    "label" : "nq300101_msg0006",
+    "talker" : "ti1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 안개 때문에\n내가 아는 녀석들도\n몇 명 사라져 버렸다고 했어……"
+  }, {
+    "$id" : 7,
+    "label" : "nq300101_msg0007",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬구나……"
+  }, {
+    "$id" : 8,
+    "label" : "nq300101_msg0008",
+    "talker" : "ti1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "피해가 더 커지는 걸 막으려면\n빨리 원인을 밝혀내야지"
+  }, {
+    "$id" : 9,
+    "label" : "nq300101_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몬스터가 퍼뜨리는 안개인지\n아니면 다른 군대의 최신 병기인지\n정보가 하나도 없잖아?"
+  }, {
+    "$id" : 10,
+    "label" : "nq300101_msg0010",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혼자서 조사하기에는\n너무 위험하지 않을까?\n우리도 도와줄게"
+  }, {
+    "$id" : 11,
+    "label" : "nq300101_msg0011",
+    "talker" : "ti1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스가 도와준다니\n나야 환영이지! 잘 부탁해!"
+  }, {
+    "$id" : 12,
+    "label" : "nq300101_msg0101",
+    "talker" : "ti1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아누 군도 근처에서\n흰 안개를 목격했다는 정보가\n가장 많이 들어와"
+  }, {
+    "$id" : 13,
+    "label" : "nq300101_msg0102",
+    "talker" : "ti1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스라도 배 위에선\n실력 발휘를 제대로 못 할 거 아냐?\n신중하게 조사해"
+  } ]
+}

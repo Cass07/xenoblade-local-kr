@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq991405_msg0001",
+    "talker" : "cf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마, 말도 안 돼……!\n내 책략은 완벽했을 터……!"
+  }, {
+    "$id" : 2,
+    "label" : "nq991405_msg0002",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이까짓 비겁한 함정으로\n책략 운운하다니…… 웃기는군"
+  }, {
+    "$id" : 3,
+    "label" : "nq991405_msg0003",
+    "talker" : "le1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "함정을 경계하느라 쩔쩔맬 바에야\n거침없이 뚫고 나가는 게 더 빠르다 이거지"
+  }, {
+    "$id" : 4,
+    "label" : "nq991405_msg0004",
+    "talker" : "cf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이럴 수가……\n이렇게 머리까지 근육으로 들어찬 것 같은\n녀석들한테 내가 진 건가……"
+  }, {
+    "$id" : 5,
+    "label" : "nq991405_msg0005",
+    "talker" : "ke1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아하하~ 그렇게 말씀하시면~\n다음번엔 몸이 조각날 텐데요~?"
+  }, {
+    "$id" : 6,
+    "label" : "nq991405_msg0006",
+    "talker" : "cf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "큭……! 이게 안타레스 소대인가……\n소문대로…… 아니, 그 이상이야……"
+  }, {
+    "$id" : 7,
+    "label" : "nq991405_msg0007",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "됐으니까 빨리 투항하는 게 좋을걸\n……사지 멀쩡할 때 잘 생각해"
+  } ]
+}

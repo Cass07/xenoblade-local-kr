@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk710305_msg0001",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뫼비우스도 단결력이 좋은 건 아닌가 보군\n우리로 치면 원로원 같은 건가……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk710305_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "종종 듣는데\n『원로원』이 뭐야……?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk710305_msg0003",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여섯 씨족으로 구성된 의회야\n뭐, 케케묵은 감정도 있고 대립도 있지만\n지식과 경험이 풍부한 높으신 분들이거든"
+  }, {
+    "$id" : 4,
+    "label" : "tlk710305_msg0004",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사상의 차이는 접어 두고\n서로 지혜를 모아\n시티의 방침을 정하지"
+  }, {
+    "$id" : 5,
+    "label" : "tlk710305_msg0005",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그중 최고 책임자가 『장로』야\n보스가 어깨에 짊어지신\n무거~~운 짐 중 하나지"
+  } ]
+}

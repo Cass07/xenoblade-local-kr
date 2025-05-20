@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk110401_msg0001",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 시그마에게 이겼지만\n생명의 불시계는 별로 안 채워졌어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk110401_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아이리스, 네가 쉽게 흥분하는 성격이라\n레브니스로 아그누스 녀석들을\n쓸어 버린 거 아냐?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk110401_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "블레이드로 쓰러뜨리지 않으면\n생명의 불시계는 안 채워지니까\n조심하라고~"
+  }, {
+    "$id" : 4,
+    "label" : "tlk110401_msg0004",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난 항상 냉정한 파일럿이야\n적에게 고통을 주기는 하지만\n치명상은 입히지 않게 조심하고 있어!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk110401_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "냉정하네, 그래……"
+  } ]
+}

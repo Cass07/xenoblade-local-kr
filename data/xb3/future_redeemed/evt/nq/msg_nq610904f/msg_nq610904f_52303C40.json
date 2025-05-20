@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<4EB26646>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "준비는 됐겠지?"
+  }, {
+    "$id" : 2,
+    "label" : "<B33BC6B0>",
+    "talker" : "@p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예! 소인은 언제든 환영입니다!!"
+  }, {
+    "$id" : 3,
+    "label" : "<09F122B3>",
+    "talker" : "tq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전 언제든 오케이입니다~"
+  }, {
+    "$id" : 4,
+    "label" : "<F8575970>",
+    "talker" : "wq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……됐어요"
+  }, {
+    "$id" : 5,
+    "label" : "<E7D41DB4>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사양하지 말고 진심으로 덤비라고\n모처럼의 시합이니 말이야"
+  }, {
+    "$id" : 6,
+    "label" : "<7D124FEB>",
+    "talker" : "@p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바로 그겁니다, 매슈 공!"
+  }, {
+    "$id" : 7,
+    "label" : "<862297EE>",
+    "talker" : "@p1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티 사격 훈련 스코어\n상위 랭커인 소인의 실려……"
+  }, {
+    "$id" : 8,
+    "label" : "<34D4A35C>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래그래\n떠드는 건 거기까지"
+  }, {
+    "$id" : 9,
+    "label" : "<D981856D>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "린카, 넌 심판을 부탁해\n멈출 타이밍은 맡길게"
+  }, {
+    "$id" : 10,
+    "label" : "<13F3D365>",
+    "talker" : "gq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다"
+  }, {
+    "$id" : 11,
+    "label" : "<D70411A5>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전원…… 준비!"
+  }, {
+    "$id" : 12,
+    "label" : "<533E9680>",
+    "talker" : "vp1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전투…… 시작!"
+  } ]
+}

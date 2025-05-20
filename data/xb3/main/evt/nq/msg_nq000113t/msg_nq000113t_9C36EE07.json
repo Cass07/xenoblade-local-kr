@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq000113_msg0001",
+    "talker" : "pd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭔데모? 여긴 구경거리가 아니야모"
+  }, {
+    "$id" : 2,
+    "label" : "nq000113_msg0002",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시르지르라고 알지?\n그 일로 왔는데……"
+  }, {
+    "$id" : 3,
+    "label" : "nq000113_msg0003",
+    "talker" : "pd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하아…… 뭐가 싫어서 인간 따위를 보내는지모\n자, 이거 받고 빨리 사라져모"
+  }, {
+    "$id" : 4,
+    "label" : "nq000113_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으, 응…… 고마워……"
+  }, {
+    "$id" : 5,
+    "label" : "nq000113_msg0005",
+    "talker" : "pd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 나파파가 온 것보단 낫네모\n자기 머리가 좋은 줄 아는 귀찮은 녀석이니까모"
+  }, {
+    "$id" : 6,
+    "label" : "nq000113_msg0006",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저기……"
+  }, {
+    "$id" : 7,
+    "label" : "nq000113_msg0007",
+    "talker" : "pd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무것도 아니야모\n뭐 사러 온 거 아니면\n빨리 가 버려모"
+  } ]
+}

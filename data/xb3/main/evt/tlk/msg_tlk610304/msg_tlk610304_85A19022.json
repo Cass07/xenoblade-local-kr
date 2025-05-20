@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk610304_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시키…… 무슨 말을 들어도\n위로가 되진 않겠지만……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk610304_msg0002",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희 내부의 갈등 때문에 소중한\n로스트 넘버즈의 병사분께서 돌아가셨습니다"
+  }, {
+    "$id" : 3,
+    "label" : "tlk610304_msg0003",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제부터 쌓아 가려고 했던\n시티와의 관계도 이걸로 끝이겠죠"
+  }, {
+    "$id" : 4,
+    "label" : "tlk610304_msg0004",
+    "talker" : "rj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희의 어리석음 때문에……\n다시 원점으로 돌아가 버렸어요……"
+  } ]
+}

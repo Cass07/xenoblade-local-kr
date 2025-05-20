@@ -1,0 +1,376 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq230100_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아셰라, 콜로니 11은\n앞으로 어떻게 할 생각이야?"
+  }, {
+    "$id" : 2,
+    "label" : "nq230100_msg0002",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐? 그걸 왜 나한테 물어봐?"
+  }, {
+    "$id" : 3,
+    "label" : "nq230100_msg0003",
+    "talker" : "3",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 바보 같은 소리야……\n네 콜로니잖아"
+  }, {
+    "$id" : 4,
+    "label" : "nq230100_msg0004",
+    "talker" : "M",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니지. 이제는\n\"너희\" 콜로니라고 해야지"
+  }, {
+    "$id" : 5,
+    "label" : "nq230100_msg0005",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐?\n아니, 왜 그렇게 되는 건데?"
+  }, {
+    "$id" : 6,
+    "label" : "nq230100_msg0006",
+    "talker" : "M",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그야, 콜로니 11은\n반역자 우로보로스가\n철저히 박살 냈으니까 그런 거지"
+  }, {
+    "$id" : 7,
+    "label" : "nq230100_msg0007",
+    "talker" : "M",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "승자는 패자의 모든 걸 지배할 권리가 있어\n……그런 연유로 콜로니 11은 이제 너희 거야"
+  }, {
+    "$id" : 8,
+    "label" : "nq230100_msg0008",
+    "talker" : "2",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그때 아셰라도\n같이 싸웠는데……"
+  }, {
+    "$id" : 9,
+    "label" : "nq230100_msg0009",
+    "talker" : "5",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 군무장 본인이 말한 거니\n괜찮은 거 아니야?"
+  }, {
+    "$id" : 10,
+    "label" : "nq230100_msg0010",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리에게 아군은 한정되어 있어\n협조해 주는 건 고마운 일이지"
+  }, {
+    "$id" : 11,
+    "label" : "nq230100_msg0011",
+    "talker" : "M",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 말하는 걸 잊었는데……"
+  }, {
+    "$id" : 12,
+    "label" : "nq230100_msg0012",
+    "talker" : "M",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 콜로니 녀석들은\n멋대로 행동하는 녀석들뿐이니까\n상대할 때 주의하는 게 좋을 거야"
+  }, {
+    "$id" : 13,
+    "label" : "nq230100_msg0013",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 너희가 마음에 들지만\n걔네까지 그럴 거라고는 단정할 수 없거든"
+  }, {
+    "$id" : 14,
+    "label" : "nq230100_msg0014",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 우리한테 협조해 달라고\n아셰라가 말 좀 해 줘"
+  }, {
+    "$id" : 15,
+    "label" : "nq230100_msg0015",
+    "talker" : "M",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 말을 순순히 들을 거 같아?\n틈만 나면 나를 치려던 녀석들인데?"
+  }, {
+    "$id" : 16,
+    "label" : "nq230100_msg0016",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것도 그렇네……\n아니, 그럼 어쩌라는 거야!"
+  }, {
+    "$id" : 17,
+    "label" : "nq230100_msg0017",
+    "talker" : "M",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠…… 그렇다면 전 군무장으로서\n조언을 하나 줘야겠는걸"
+  }, {
+    "$id" : 18,
+    "label" : "nq230100_msg0018",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 콜로니 11에는\n\"삼총사\"라고 불리는\n세 명의 상급 병사가 있어"
+  }, {
+    "$id" : 19,
+    "label" : "nq230100_msg0019",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "삼총사?"
+  }, {
+    "$id" : 20,
+    "label" : "nq230100_msg0020",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기억 안 나?\n익시아대교 위에서 싸웠잖아"
+  }, {
+    "$id" : 21,
+    "label" : "nq230100_msg0021",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아! 그 녀석들이구나!\n이름이 뭐였더라……"
+  }, {
+    "$id" : 22,
+    "label" : "nq230100_msg0022",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"예봉의 초렌\"\n\"사나운 매 이젤\"\n\"불굴의 클래드\""
+  }, {
+    "$id" : 23,
+    "label" : "nq230100_msg0023",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 11을 구성하는 세 부대는\n대장급인 그들이 총괄하고 있어\n말하자면 콜로니의 기둥이지"
+  }, {
+    "$id" : 24,
+    "label" : "nq230100_msg0024",
+    "talker" : "M",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석들만 포섭하면\n콜로니 전체를 지배한 거나 다름없어"
+  }, {
+    "$id" : 25,
+    "label" : "nq230100_msg0025",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말은 쉽지만\n무슨 수로 포섭하라는 거야?"
+  }, {
+    "$id" : 26,
+    "label" : "nq230100_msg0026",
+    "talker" : "M",
+    "talkattr" : 33168,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄, 어떻게 해야 할까……\n나는 세 사람 모두\n때려눕혀서 따르게 했는데"
+  }, {
+    "$id" : 27,
+    "label" : "nq230100_msg0027",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그런 식이니까\n내부에서 목숨을 노리는 거라고"
+  }, {
+    "$id" : 28,
+    "label" : "nq230100_msg0028",
+    "talker" : "M",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 너희들이라면 좀 더 현명하게\n해결할 수 있지 않겠어?"
+  }, {
+    "$id" : 29,
+    "label" : "nq230100_msg0029",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예를 들면…… 그래\n세 사람과 관련된 정보를 모으는 거지\n적을 알려면 아군부터 알라는 말도 있잖아?"
+  }, {
+    "$id" : 30,
+    "label" : "nq230100_msg0030",
+    "talker" : "6",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그런가……?"
+  }, {
+    "$id" : 31,
+    "label" : "nq230100_msg0031",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이상한 녀석들로 가득한 콜로니지만\n병사로서는 최정예라 할 수 있어\n……물론 나만큼은 아니지만"
+  }, {
+    "$id" : 32,
+    "label" : "nq230100_msg0032",
+    "talker" : "M",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "포섭한다면 손해 보진 않을걸?\n아군은 많을수록 좋기도 하잖아…… 안 그래?"
+  }, {
+    "$id" : 33,
+    "label" : "nq230100_msg0033",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론 그렇긴 한데……\n좀 더 생각해 볼게"
+  }, {
+    "$id" : 34,
+    "label" : "nq230100_msg0034",
+    "talker" : "M",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생각해 본다고……?\n그렇게 여유 부릴 틈은 없을걸?"
+  }, {
+    "$id" : 35,
+    "label" : "nq230100_msg0035",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 무슨 뜻이야?"
+  }, {
+    "$id" : 36,
+    "label" : "nq230100_msg0036",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1200,
+    "style" : 126,
+    "name" : "그 녀석들을 방치하면 닥치는 대로\n싸움이나 걸고 다닐지도 모르니까……"
+  }, {
+    "$id" : 37,
+    "label" : "nq230100_msg0037",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "남들한테 피해 주기 전에\n빨리 손을 쓰는 게 좋을 거라는 말이지"
+  }, {
+    "$id" : 38,
+    "label" : "nq230100_msg0038",
+    "talker" : "3",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……너네 콜로니는\n하나부터 열까지 문제투성이네"
+  }, {
+    "$id" : 39,
+    "label" : "nq230100_msg0039",
+    "talker" : "M",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하하, 그러게~ 정말 난감하다니까\n뭐, 다들 힘내 보라고"
+  } ]
+}

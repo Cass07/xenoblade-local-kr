@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210502_msg0001",
+    "talker" : "vZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신들은 원래 콜로니 9과\n콜로니 감마 소속이었다면서?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210502_msg0002",
+    "talker" : "vZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "두 곳 모두 반역자를 배출한 콜로니가 돼서\n큰일이 났을 거 같은데…… 괜찮을까?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk210502_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……괜찮을 거라곤 못 하겠는걸\n가능하다면 상황만이라도\n확인하러 가고 싶긴 한데……"
+  } ]
+}

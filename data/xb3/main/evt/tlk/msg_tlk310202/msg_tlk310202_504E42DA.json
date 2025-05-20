@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk310202_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 후론 좀 어때?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk310202_msg0002",
+    "talker" : "oc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하하, 좋다고는 못 하겠지만\n어쨌든 기분은 괜찮은 편이야"
+  }, {
+    "$id" : 3,
+    "label" : "tlk310202_msg0003",
+    "talker" : "oc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들 덕분에 개운해졌어\n시간은 얼마 남지 않았지만……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk310202_msg0004",
+    "talker" : "oc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "온 힘을 다해서 살아가려고 해\n정말 고마워"
+  } ]
+}

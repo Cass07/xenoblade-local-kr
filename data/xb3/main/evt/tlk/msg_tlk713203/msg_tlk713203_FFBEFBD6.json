@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk713203_msg0001",
+    "talker" : "ql1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뫼비우스랑 아주 끝장을 보러 간다고?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk713203_msg0002",
+    "talker" : "ql1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "소싯적에 내가 꿈꾸던 일이\n드디어 이루어지는군!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk713203_msg0003",
+    "talker" : "ql1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뫼비우스 타도를 위하여!\n자! 너희도 한잔 들어!"
+  }, {
+    "$id" : 4,
+    "label" : "tlk713203_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……사양할게요"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk510402_msg0001",
+    "talker" : "rf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토르톤이 귀찮게 해서 미안해"
+  }, {
+    "$id" : 2,
+    "label" : "tlk510402_msg0002",
+    "talker" : "rf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 시티에 은혜를 갚아야 한다고\n생각은 하고 있어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk510402_msg0003",
+    "talker" : "rf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다만 그게 마음처럼 되질 않아……\n우리를 탐탁지 않게 여기는 사람도 있고……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk510402_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리도 쉽게 받아들여지진 않았어\n그러니까 너무 조급해하진 마"
+  }, {
+    "$id" : 5,
+    "label" : "tlk510402_msg0005",
+    "talker" : "rf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그랬구나…… 일단 우리가 확실하게\n할 수 있는 일이 뭔지 생각해 봐야겠어"
+  } ]
+}

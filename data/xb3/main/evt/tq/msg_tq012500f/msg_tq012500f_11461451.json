@@ -1,0 +1,232 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq012500_msg0001",
+    "talker" : "fk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 곤도\n마침 잘 왔어"
+  }, {
+    "$id" : 2,
+    "label" : "tq012500_msg0002",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……무슨 일 있었어?"
+  }, {
+    "$id" : 3,
+    "label" : "tq012500_msg0003",
+    "talker" : "fk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래…… 어제 막 생긴 일인데\n커다란 몬스터한테 습격당한 부대가 있거든"
+  }, {
+    "$id" : 4,
+    "label" : "tq012500_msg0004",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "커다란 몬스터?"
+  }, {
+    "$id" : 5,
+    "label" : "tq012500_msg0005",
+    "talker" : "fk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다니깐\n그 녀석한테 당하는 바람에……"
+  }, {
+    "$id" : 6,
+    "label" : "tq012500_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그야 몬스터니까 커다란 녀석\n한둘쯤은 있을 거 아냐? 안 그래?"
+  }, {
+    "$id" : 7,
+    "label" : "tq012500_msg0007",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼, 커다란 몬스터는 질리게 봤지"
+  }, {
+    "$id" : 8,
+    "label" : "tq012500_msg0008",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서? 몬스터한테 습격당해서\n그대로 도망쳐 왔다 이거야? 한심하기는"
+  }, {
+    "$id" : 9,
+    "label" : "tq012500_msg0009",
+    "talker" : "fk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니…… 듣기로는\n몬스터가 홀로 습격했다고 하더라니까"
+  }, {
+    "$id" : 10,
+    "label" : "tq012500_msg0010",
+    "talker" : "fk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "병기국 소속인 노획 부대가\n포니스 지방에서 습격당해\n처참한 꼴로 돌아왔어……"
+  }, {
+    "$id" : 11,
+    "label" : "tq012500_msg0011",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "호오…… 홀로 덤벼들다니\n근성 좀 있는데?"
+  }, {
+    "$id" : 12,
+    "label" : "tq012500_msg0012",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무리 커다래도 고작 한 마리인데\n너희가 너무 방심한 거 아냐?"
+  }, {
+    "$id" : 13,
+    "label" : "tq012500_msg0013",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그랬을지도 모르지\n몬스터는 빈틈을\n보이는 순간 덤벼드니까"
+  }, {
+    "$id" : 14,
+    "label" : "tq012500_msg0014",
+    "talker" : "fk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어, 아니…… 그게……\n도망치게 뒀다 하더라고……"
+  }, {
+    "$id" : 15,
+    "label" : "tq012500_msg0015",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엥? 도망치게 뒀다고?\n몬스터가?"
+  }, {
+    "$id" : 16,
+    "label" : "tq012500_msg0016",
+    "talker" : "fk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래…… 그랬다고 들었어……"
+  }, {
+    "$id" : 17,
+    "label" : "tq012500_msg0017",
+    "talker" : "fk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "녀석은 부대를 집요하게 공격하지 않고\n그냥 떠났다고 해……"
+  }, {
+    "$id" : 18,
+    "label" : "tq012500_msg0018",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "듣고 나니 재미있기는 한데\n허풍처럼 들리네"
+  }, {
+    "$id" : 19,
+    "label" : "tq012500_msg0019",
+    "talker" : "fk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 믿기지가 않아. 하지만 녀석들이\n허풍을 떠는 것처럼 보이진 않더라고"
+  }, {
+    "$id" : 20,
+    "label" : "tq012500_msg0020",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "습격당했다는 건 사실이겠지만……"
+  }, {
+    "$id" : 21,
+    "label" : "tq012500_msg0021",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "도망치게 놔뒀다는 게 이해가 가질 않아\n그런 습성을 지닌 몬스터가 있던가?"
+  }, {
+    "$id" : 22,
+    "label" : "tq012500_msg0022",
+    "talker" : "fk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……어쨌든 이 일 때문에\n곤도랑 의논하려고 했었는데\n마침 잘 만났네……"
+  }, {
+    "$id" : 23,
+    "label" : "tq012500_msg0023",
+    "talker" : "Q",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 한번 보고 와 줄게\n부하들 뒤치다꺼리도\n내가 할 일이니까"
+  } ]
+}

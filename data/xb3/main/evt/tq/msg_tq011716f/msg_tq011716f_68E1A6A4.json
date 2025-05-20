@@ -1,0 +1,214 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011716_msg0001",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우와~ 많이 자랐다!"
+  }, {
+    "$id" : 2,
+    "label" : "tq011716_msg0002",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아주 실하네요모!"
+  }, {
+    "$id" : 3,
+    "label" : "tq011716_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "비료를 주면 이것보다 더 자랄 거야"
+  }, {
+    "$id" : 4,
+    "label" : "tq011716_msg0004",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 그냥 끼얹으면 되겠네!"
+  }, {
+    "$id" : 5,
+    "label" : "tq011716_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 안 돼\n우선 영양분이 고루 퍼지도록\n비료를 흙과 잘 섞은 다음……"
+  }, {
+    "$id" : 6,
+    "label" : "tq011716_msg0006",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 흙을 뿌리 위에 덮어 주듯이 뿌려야 해"
+  }, {
+    "$id" : 7,
+    "label" : "tq011716_msg0007",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "엄청 까다롭네……"
+  }, {
+    "$id" : 8,
+    "label" : "tq011716_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유즈리하가 준 자료는 대강 외워 뒀어\n모르는 부분이 있으면 물어봐"
+  }, {
+    "$id" : 9,
+    "label" : "tq011716_msg0009",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 지형국 출신답군"
+  }, {
+    "$id" : 10,
+    "label" : "tq011716_msg0010",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것보단 원래 저런 성격인 거야\n신중한 녀석이거든"
+  }, {
+    "$id" : 11,
+    "label" : "tq011716_msg0011",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진지하게 임한다는 증거다"
+  }, {
+    "$id" : 12,
+    "label" : "tq011716_msg0012",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마울 뿐이지"
+  }, {
+    "$id" : 13,
+    "label" : "tq011716_msg0013",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 말, 전해 둘게"
+  }, {
+    "$id" : 14,
+    "label" : "tq011716_msg0014",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 얼른 작업 시작하자"
+  }, {
+    "$id" : 15,
+    "label" : "tq011716_msg0015",
+    "talker" : "I",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 다시 비를 기다리자"
+  }, {
+    "$id" : 16,
+    "label" : "tq011716_msg0016",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "설렌다!"
+  }, {
+    "$id" : 17,
+    "label" : "tq011716_msg0017",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래?"
+  }, {
+    "$id" : 18,
+    "label" : "tq011716_msg0018",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼! 다 함께 열심히 했잖아"
+  }, {
+    "$id" : 19,
+    "label" : "tq011716_msg0019",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세나다워"
+  }, {
+    "$id" : 20,
+    "label" : "tq011716_msg0020",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "비가 오면 어떨지 기대되네"
+  }, {
+    "$id" : 21,
+    "label" : "tq011716_msg0021",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응!"
+  } ]
+}

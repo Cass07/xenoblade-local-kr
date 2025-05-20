@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk712001_msg0001",
+    "talker" : "el1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그거 아나요모?\n로스트 넘버즈의 주력 레브니스는\n머서너리라고 해요모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk712001_msg0002",
+    "talker" : "el1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 컨테이너를 결합해서 수송기……\n아머리로 쓰는 경우가 많아요모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk712001_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캐슬에 나타났던\n그 레브니스 말인가 보네"
+  }, {
+    "$id" : 4,
+    "label" : "tlk712001_msg0004",
+    "talker" : "el1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 사람만한 크기의 작은\n자율형 레브니스는 센트리라고 해요모\n스승님의 야심작이죠모"
+  }, {
+    "$id" : 5,
+    "label" : "tlk712001_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 알페토 계곡에서\n싸웠던 녀석인가……"
+  } ]
+}

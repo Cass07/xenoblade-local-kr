@@ -1,0 +1,340 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq221004_msg0001",
+    "talker" : "L",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마기!"
+  }, {
+    "$id" : 2,
+    "label" : "nq221004_msg0002",
+    "talker" : "sd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오! 나의 벗이여\n너희 동료를 내가 보호했다"
+  }, {
+    "$id" : 3,
+    "label" : "nq221004_msg0003",
+    "talker" : "L",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "감사합니다……\n어떻게 보답해 드려야 할지……"
+  }, {
+    "$id" : 4,
+    "label" : "nq221004_msg0004",
+    "talker" : "sd1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮다\n당분간 안정을 취하게 둬라"
+  }, {
+    "$id" : 5,
+    "label" : "nq221004_msg0005",
+    "talker" : "_c1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유즈리하……\n한심한 모습을 보여 버렸네……"
+  }, {
+    "$id" : 6,
+    "label" : "nq221004_msg0006",
+    "talker" : "L",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……정말 놀랐다고요\n무모한 짓은 그만둬 주세요"
+  }, {
+    "$id" : 7,
+    "label" : "nq221004_msg0007",
+    "talker" : "_c1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선대가 있던 시대에는\n이런 건 무모한 축에도 끼지 못했어"
+  }, {
+    "$id" : 8,
+    "label" : "nq221004_msg0008",
+    "talker" : "_c1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 겁도 많아지고 약해졌어……"
+  }, {
+    "$id" : 9,
+    "label" : "nq221004_msg0009",
+    "talker" : "L",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그럴지도 모르죠\n하지만 그건 저도 똑같아요"
+  }, {
+    "$id" : 10,
+    "label" : "nq221004_msg0010",
+    "talker" : "L",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "계승된 풍습을 그저\n우직하게 지켜가기만 하는 건\n이제 그만두죠"
+  }, {
+    "$id" : 11,
+    "label" : "nq221004_msg0011",
+    "talker" : "_c1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유즈리하, 너……"
+  }, {
+    "$id" : 12,
+    "label" : "nq221004_msg0012",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "죽은 동료를 생각하는 것도\n타우에 뿌리내린 것들도\n모두 소중해요"
+  }, {
+    "$id" : 13,
+    "label" : "nq221004_msg0013",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 그렇다고 해서\n그것만을 위해서 목숨을 내버리는 건\n멈춰야 해요"
+  }, {
+    "$id" : 14,
+    "label" : "nq221004_msg0014",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니는 변하고 있어요\n지금은 자원도 물도 식량도\n그리고 새로운 동료도 있고요"
+  }, {
+    "$id" : 15,
+    "label" : "nq221004_msg0015",
+    "talker" : "1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 우리도……\n다른 콜로니들도 도와줄 거야"
+  }, {
+    "$id" : 16,
+    "label" : "nq221004_msg0016",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "계승되어 온 정신을 가슴에 담고\n저희들도 앞으로 나아가요"
+  }, {
+    "$id" : 17,
+    "label" : "nq221004_msg0017",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명 선대도 그 이전의 선대도……\n타우에 살았던 모든 동료들도\n충분히 이해해 줄 거예요"
+  }, {
+    "$id" : 18,
+    "label" : "nq221004_msg0018",
+    "talker" : "_c1",
+    "talkattr" : 33144,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 19,
+    "label" : "nq221004_msg0019",
+    "talker" : "_c1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗, 너는 변했구나"
+  }, {
+    "$id" : 20,
+    "label" : "nq221004_msg0020",
+    "talker" : "L",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "변하면 안 되는 걸까요?"
+  }, {
+    "$id" : 21,
+    "label" : "nq221004_msg0021",
+    "talker" : "_c1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니…… 너의 강인함과 상냥함은\n선대도 곧잘 말하곤 했지……"
+  }, {
+    "$id" : 22,
+    "label" : "nq221004_msg0022",
+    "talker" : "_c1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "『유즈리하라면\n분명 올바른 길로\n이끌어 줄 거야』라고"
+  }, {
+    "$id" : 23,
+    "label" : "nq221004_msg0023",
+    "talker" : "_c1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는…… 그 말뜻을\n하나도 이해하지 못했던 모양이야"
+  }, {
+    "$id" : 24,
+    "label" : "nq221004_msg0024",
+    "talker" : "2",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유즈리하는 최선을 다하고 있어\n줄곧 콜로니를 위해서……"
+  }, {
+    "$id" : 25,
+    "label" : "nq221004_msg0025",
+    "talker" : "_c1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래, 그 말이 맞아\n알겠어…… 나도 변하도록\n노력해 볼게……"
+  }, {
+    "$id" : 26,
+    "label" : "nq221004_msg0026",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "더는 무모한 짓 하면 안 된다?"
+  }, {
+    "$id" : 27,
+    "label" : "nq221004_msg0027",
+    "talker" : "_c1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어…… 군무장에게\n혼나는 것도 싫으니까 말이지"
+  }, {
+    "$id" : 28,
+    "label" : "nq221004_msg0028",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노아 씨, 감사합니다"
+  }, {
+    "$id" : 29,
+    "label" : "nq221004_msg0029",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "갑자기 왜 그래\n우리는 아무것도 한 게 없어"
+  }, {
+    "$id" : 30,
+    "label" : "nq221004_msg0030",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아뇨…… 여러분이 계셨기에\n저도 이곳에 있는 거예요"
+  }, {
+    "$id" : 31,
+    "label" : "nq221004_msg0031",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앞으로 콜로니 타우는\n점점 더 변해 가겠지만"
+  }, {
+    "$id" : 32,
+    "label" : "nq221004_msg0032",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 모든 변화는 여러분께서 힘을 빌려주신\n덕분에 있는 거예요"
+  }, {
+    "$id" : 33,
+    "label" : "nq221004_msg0033",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……유즈리하와 사람들이 노력한 성과야"
+  }, {
+    "$id" : 34,
+    "label" : "nq221004_msg0034",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앞으로의 콜로니 타우를\n지켜봐 주세요"
+  }, {
+    "$id" : 35,
+    "label" : "nq221004_msg0035",
+    "talker" : "L",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분께서 구해 주신 이 목숨을\n앞으로 쭉 이어가겠습니다"
+  } ]
+}

@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<971B391D>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 더 가면 합류 포인트야모"
+  }, {
+    "$id" : 2,
+    "label" : "<E3701B2E>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰은 \"눈동자\"를 못 쓰니\n단말기를 가지고 다녀야 돼서 불편하겠어"
+  }, {
+    "$id" : 3,
+    "label" : "<D7A350FA>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠는 별로 신경 쓴 적 없어모"
+  }, {
+    "$id" : 4,
+    "label" : "<95BD1F6B>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "단말기는 확인 못 한 척 하면서\n귀찮은 연락을 무시할 수 있거든모"
+  }, {
+    "$id" : 5,
+    "label" : "<B534D97E>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오~ 그건 좀 부러운데?"
+  }, {
+    "$id" : 6,
+    "label" : "<A9B13C36>",
+    "talker" : "1",
+    "talkattr" : 33025,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠!!"
+  }, {
+    "$id" : 7,
+    "label" : "<C48BA30B>",
+    "talker" : "T",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바위로 변장하고 있었던 건가?"
+  }, {
+    "$id" : 8,
+    "label" : "<9703A070>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 뭐 붙을 수밖에 없겠는데!"
+  }, {
+    "$id" : 9,
+    "label" : "<BAD1CE45>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "온다!"
+  } ]
+}

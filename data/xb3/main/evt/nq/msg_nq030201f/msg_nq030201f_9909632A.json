@@ -1,0 +1,367 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq030201_msg0001",
+    "talker" : "lY1",
+    "talkattr" : 33104,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "수용소 리모델링을 한다고……?\n진심이야, 7호?"
+  }, {
+    "$id" : 2,
+    "label" : "nq030201_msg0002",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진심입니다\n협조해 주시겠습니까, 6호?"
+  }, {
+    "$id" : 3,
+    "label" : "nq030201_msg0003",
+    "talker" : "lY1",
+    "talkattr" : 33064,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 4,
+    "label" : "nq030201_msg0004",
+    "talker" : "lY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……7호, 미안하지만\n그 제안은 찬성할 수 없어"
+  }, {
+    "$id" : 5,
+    "label" : "nq030201_msg0005",
+    "talker" : "5",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜? 너희에게도\n나쁠 건 없지 않아?"
+  }, {
+    "$id" : 6,
+    "label" : "nq030201_msg0006",
+    "talker" : "lY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이 정도 규모의 시설을 리모델링하려면\n엄청난 양의 자재와 인원이 필요해"
+  }, {
+    "$id" : 7,
+    "label" : "nq030201_msg0007",
+    "talker" : "lY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 공급하려면\n외부의 원조가 반드시 있어야 하겠지"
+  }, {
+    "$id" : 8,
+    "label" : "nq030201_msg0008",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "원조를 부탁하면 안 되는 거야……?"
+  }, {
+    "$id" : 9,
+    "label" : "nq030201_msg0009",
+    "talker" : "lY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모두의 안전을 생각하면\n가급적 외부와의 접촉을 피해야 해"
+  }, {
+    "$id" : 10,
+    "label" : "nq030201_msg0010",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "6호가 우려하는 점도 일리 있습니다\n하지만……"
+  }, {
+    "$id" : 11,
+    "label" : "nq030201_msg0011",
+    "talker" : "lY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……7호, 지금까지 콜로니 0는\n외부인들에게 어떤 짓을 했지?"
+  }, {
+    "$id" : 12,
+    "label" : "nq030201_msg0012",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건……"
+  }, {
+    "$id" : 13,
+    "label" : "nq030201_msg0013",
+    "talker" : "lY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뫼비우스의 비호가 없는 지금\n콜로니 0는 손쉽게 제거될 거야"
+  }, {
+    "$id" : 14,
+    "label" : "nq030201_msg0014",
+    "talker" : "lY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 누구에게도 발견되지 않고\n몰래 자급자족하며 산다면\n6호와 모두는 더할 나위 없이 안전할 거야……"
+  }, {
+    "$id" : 15,
+    "label" : "nq030201_msg0015",
+    "talker" : "lY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너도 잘 알 거야\n안 그래, 7호?"
+  }, {
+    "$id" : 16,
+    "label" : "nq030201_msg0016",
+    "talker" : "dW1",
+    "talkattr" : 33120,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 17,
+    "label" : "nq030201_msg0017",
+    "talker" : "vY1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐 어때, 6호?"
+  }, {
+    "$id" : 18,
+    "label" : "nq030201_msg0018",
+    "talker" : "lY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "10호……"
+  }, {
+    "$id" : 19,
+    "label" : "nq030201_msg0019",
+    "talker" : "vY1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모처럼 자유의 몸이 되었는데\n굳이 갇혀 살 필요는 없지 않아?"
+  }, {
+    "$id" : 20,
+    "label" : "nq030201_msg0020",
+    "talker" : "lY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너의 그 낙관적인 사고만으로는\n해결되지 않는 문제도 있어"
+  }, {
+    "$id" : 21,
+    "label" : "nq030201_msg0021",
+    "talker" : "vY1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가~ 무슨 일이 생기면\n너희가 어떻게든 도와줄 거잖아?"
+  }, {
+    "$id" : 22,
+    "label" : "nq030201_msg0022",
+    "talker" : "6",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……응? 우리?"
+  }, {
+    "$id" : 23,
+    "label" : "nq030201_msg0023",
+    "talker" : "vY1",
+    "talkattr" : 33056,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우로보로스와 함께라면\n우리 안전은 보장된 거나 다름없다니까~"
+  }, {
+    "$id" : 24,
+    "label" : "nq030201_msg0024",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 정도는 아니라고 생각하는데……\n물론 최선은 다할게"
+  }, {
+    "$id" : 25,
+    "label" : "nq030201_msg0025",
+    "talker" : "lY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만……"
+  }, {
+    "$id" : 26,
+    "label" : "nq030201_msg0026",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "6호…… 이렇게 부탁드립니다\n힘을 빌려주세요"
+  }, {
+    "$id" : 27,
+    "label" : "nq030201_msg0027",
+    "talker" : "lY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……난 분명히 충고했어, 7호"
+  }, {
+    "$id" : 28,
+    "label" : "nq030201_msg0028",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 알고 있습니다\n그래도 세주의 판단은 변함없습니다"
+  }, {
+    "$id" : 29,
+    "label" : "nq030201_msg0029",
+    "talker" : "lY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알겠어\n그럼 앞으로 네 명령에 따를게"
+  }, {
+    "$id" : 30,
+    "label" : "nq030201_msg0030",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……감사합니다, 6호"
+  }, {
+    "$id" : 31,
+    "label" : "nq030201_msg0031",
+    "talker" : "lY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단은 리모델링에 필요한\n재료 말인데……"
+  }, {
+    "$id" : 32,
+    "label" : "nq030201_msg0032",
+    "talker" : "lY1",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "\"그 녀석\"과 거래하면 돼\n……별로 내키지는 않지만"
+  }, {
+    "$id" : 33,
+    "label" : "nq030201_msg0033",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 녀석?"
+  }, {
+    "$id" : 34,
+    "label" : "nq030201_msg0034",
+    "talker" : "lY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰 카라반을 뛰쳐나온\n별난 노폰이 있어"
+  }, {
+    "$id" : 35,
+    "label" : "nq030201_msg0035",
+    "talker" : "lY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아마 지금은 모르크나 대삼림에\n잠복하고 있을 거야"
+  }, {
+    "$id" : 36,
+    "label" : "nq030201_msg0036",
+    "talker" : "6",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠복……?"
+  }, {
+    "$id" : 37,
+    "label" : "nq030201_msg0037",
+    "talker" : "lY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번엔 6호도 동행할게\n7호와 너희만 가면 녀석이 경계해서\n모습을 드러내지 않을 테니까"
+  }, {
+    "$id" : 38,
+    "label" : "nq030201_msg0038",
+    "talker" : "dW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠습니다\n교섭은 6호에게 맡기겠습니다"
+  } ]
+}

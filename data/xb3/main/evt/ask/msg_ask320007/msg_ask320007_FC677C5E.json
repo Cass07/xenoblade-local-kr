@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<A386CDA3>",
+    "talker" : "1",
+    "talkattr" : 33096,
+    "talkattr2" : 14696577,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타이온은\n종종 허브티를 내려 마시네"
+  }, {
+    "$id" : 2,
+    "label" : "<639F868B>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 8405121,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 맞아, 내 취미 같은 거야\n너도 마셔 볼래?"
+  }, {
+    "$id" : 3,
+    "label" : "<A832A301>",
+    "talker" : "5",
+    "talkattr" : 33048,
+    "talkattr2" : 14696577,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋은데! 나도 시리어스 아네모네로\n한 잔 부탁해!"
+  }, {
+    "$id" : 4,
+    "label" : "<1B45189D>",
+    "talker" : "4",
+    "talkattr" : 33144,
+    "talkattr2" : 16793729,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너는 맛의 차이를 잘 모르잖아"
+  }, {
+    "$id" : 5,
+    "label" : "<68D44A34>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16793729,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대신에 머쉬멜로를 끓여 줄게\n그걸 마시면 좋을 거야"
+  }, {
+    "$id" : 6,
+    "label" : "<8D3403F5>",
+    "talker" : "5",
+    "talkattr" : 33072,
+    "talkattr2" : 14696577,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "머쉬멜로…… 아니, 그건 버섯이잖아!"
+  }, {
+    "$id" : 7,
+    "label" : "<1AD30ED9>",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16793729,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마시면 힘이 솟지\n너에게 딱이잖아"
+  }, {
+    "$id" : 8,
+    "label" : "<AE86FA97>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 14696577,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오…… 그러시겠다?\n좋아, 그럼 힘내 볼 테니까\n10잔 정도 내려 줘!"
+  } ]
+}

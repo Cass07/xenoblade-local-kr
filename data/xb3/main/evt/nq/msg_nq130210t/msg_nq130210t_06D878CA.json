@@ -1,0 +1,124 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq130210_msg0001",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "코자쿠라 부대는 다나 사막\n토비마루 부대는 리비 평원에서\n발이 묶인 상태예요"
+  }, {
+    "$id" : 2,
+    "label" : "nq130210_msg0002",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가급적 지나치게 돕지 않는 선에서\n상황을 살펴보고 와 주시겠어요?"
+  }, {
+    "$id" : 3,
+    "label" : "nq130210_msg0101",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "코자쿠라에게 보고를 받았습니다\n여러분의 기지로\n임무를 무사히 완료했다더군요"
+  }, {
+    "$id" : 4,
+    "label" : "nq130210_msg0102",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한층 성장한 얼굴이었어요\n여러분의 조력 덕분입니다"
+  }, {
+    "$id" : 5,
+    "label" : "nq130210_msg0103",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 남은 토비마루 부대는……\n여전히 리비 평원에서\n꼼짝도 못 하고 있습니다"
+  }, {
+    "$id" : 6,
+    "label" : "nq130210_msg0104",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "연락을 받은 지 꽤 오래돼서\n조금 걱정되네요……"
+  }, {
+    "$id" : 7,
+    "label" : "nq130210_msg0201",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토비마루에게 보고를 받았습니다\n여러분의 기지로\n임무를 무사히 완료했다더군요"
+  }, {
+    "$id" : 8,
+    "label" : "nq130210_msg0202",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여러분의 마음가짐을 보니 감탄이 나온다며\n본받아야겠다고 하더라고요"
+  }, {
+    "$id" : 9,
+    "label" : "nq130210_msg0203",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇게 보여도 라이조의 후계자니까요\n장래가 기대되네요"
+  }, {
+    "$id" : 10,
+    "label" : "nq130210_msg0204",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 남은 코자쿠라 부대는……\n여전히 다나 사막에서\n꼼짝도 못 하고 있습니다"
+  }, {
+    "$id" : 11,
+    "label" : "nq130210_msg0205",
+    "talker" : "_a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "연락을 받은 지 꽤 오래돼서\n조금 걱정되네요……"
+  } ]
+}

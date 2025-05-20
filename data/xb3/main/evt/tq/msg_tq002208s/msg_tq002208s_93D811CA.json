@@ -1,0 +1,115 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002208_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보물이라는 게 너무 막연해서 모르겠는데"
+  }, {
+    "$id" : 2,
+    "label" : "tq002208_msg0002",
+    "talker" : "3",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "반짝거리는 물건 아니야?\n보통 그런 게 가치가 있잖아?"
+  }, {
+    "$id" : 3,
+    "label" : "tq002208_msg0003",
+    "talker" : "4",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇군……\n확실히 일리가 있어"
+  }, {
+    "$id" : 4,
+    "label" : "tq002208_msg0004",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리보다 몇 배, 아니 몇십 배는 긴 세월을\n보낸 물건에 가치가 깃드는 거 아닐까?"
+  }, {
+    "$id" : 5,
+    "label" : "tq002208_msg0005",
+    "talker" : "3",
+    "talkattr" : 33104,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 뭐야? 널려 있는 돌멩이 같은 게\n우리보다 가치 있다는 거야?"
+  }, {
+    "$id" : 6,
+    "label" : "tq002208_msg0006",
+    "talker" : "tV",
+    "talkattr" : 33064,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니에요모! 보물은 입에서 살살 녹는\n맛있는 음식이 틀림없어요모!"
+  }, {
+    "$id" : 7,
+    "label" : "tq002208_msg0007",
+    "talker" : "2",
+    "talkattr" : 33096,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음…… 음식은 사람마다\n취향이 다르니까……"
+  }, {
+    "$id" : 8,
+    "label" : "tq002208_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정리될 기미가 안 보이는군"
+  }, {
+    "$id" : 9,
+    "label" : "tq002208_msg0009",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한 가지로 정하지 말고\n전부 모아 보는 건 어때?"
+  }, {
+    "$id" : 10,
+    "label" : "tq002208_msg0010",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알기 쉬워서 좋네\n그럼 빨리 모으러 가자고!"
+  } ]
+}

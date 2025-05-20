@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<72988CDF>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리퀘스트 보드에\n의뢰가 와 있군"
+  }, {
+    "$id" : 2,
+    "label" : "<4B36CCC8>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어디 보자……"
+  }, {
+    "$id" : 3,
+    "label" : "<217F8034>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "「라그엘호에서 평범한 개체와 다른 카피바를\n발견했다는 보고가 있었어! 생태를 꼭\n조사해 보고 싶으니 누구든 토벌 부탁해!」"
+  }, {
+    "$id" : 4,
+    "label" : "<485CE4BB>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "「라그엘호로 원정을 갔다가 책을 잃어버렸어\n발견하면 주워다 주면 안 될까?\n\"얼티밋 우레 전설\"이라는 책이야!」"
+  }, {
+    "$id" : 5,
+    "label" : "<42D4CF1B>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "「붉은 숲에 서식하는 클로드를\n몇 마리 정도 토벌해 줄 수 있어?\n치료약 조합에 그 녀석의 깃털이 필요하거든」"
+  }, {
+    "$id" : 6,
+    "label" : "<C40A76E7>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번엔 이렇게 3개구나"
+  }, {
+    "$id" : 7,
+    "label" : "<F141D0C7>",
+    "talker" : "e1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 9와는 거리가 좀 되는 곳이라\n다른 사람들에게는 어려운 일일지도 몰라\n위험을 감수해야 할 테니까"
+  }, {
+    "$id" : 8,
+    "label" : "<728D3640>",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇겠지……\n시간 생기면 우리가 해결해 주자"
+  } ]
+}

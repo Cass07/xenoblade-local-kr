@@ -1,0 +1,484 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq011405_msg0001",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아아……"
+  }, {
+    "$id" : 2,
+    "label" : "tq011405_msg0002",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "하늘이 푸르러……"
+  }, {
+    "$id" : 3,
+    "label" : "tq011405_msg0003",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……?"
+  }, {
+    "$id" : 4,
+    "label" : "tq011405_msg0004",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "설령 세계가\n몇 번이고 모습을 바꾸더라도……"
+  }, {
+    "$id" : 5,
+    "label" : "tq011405_msg0005",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이 하늘만큼은 언제나 변함없구나"
+  }, {
+    "$id" : 6,
+    "label" : "tq011405_msg0006",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……"
+  }, {
+    "$id" : 7,
+    "label" : "tq011405_msg0007a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "여러분, 정말로 감사드립니다"
+  }, {
+    "$id" : 8,
+    "label" : "tq011405_msg0007b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "제 무리한 부탁을 들어주셔서"
+  }, {
+    "$id" : 9,
+    "label" : "tq011405_msg0008",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아니, 괜찮아\n애초에 우리가 먼저 한 말이잖아"
+  }, {
+    "$id" : 10,
+    "label" : "tq011405_msg0009",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……여러분이 우로보로스가 돼서\n정말로 다행이에요"
+  }, {
+    "$id" : 11,
+    "label" : "tq011405_msg0010a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "왜, 왜 그래? 니아"
+  }, {
+    "$id" : 12,
+    "label" : "tq011405_msg0010b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "갑자기 그런 말을……"
+  }, {
+    "$id" : 13,
+    "label" : "tq011405_msg0011a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이 싸움이 끝나면"
+  }, {
+    "$id" : 14,
+    "label" : "tq011405_msg0011b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "멈춰 있던 세계가 다시 움직일 거예요"
+  }, {
+    "$id" : 15,
+    "label" : "tq011405_msg0012a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "서로를 알지 못했던 두 세계가"
+  }, {
+    "$id" : 16,
+    "label" : "tq011405_msg0012b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "다시 원래 모습으로 돌아가고"
+  }, {
+    "$id" : 17,
+    "label" : "tq011405_msg0013",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……우리 또한 제자리로 돌아가겠죠"
+  }, {
+    "$id" : 18,
+    "label" : "tq011405_msg0014",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……!"
+  }, {
+    "$id" : 19,
+    "label" : "tq011405_msg0015",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그렇지만……"
+  }, {
+    "$id" : 20,
+    "label" : "tq011405_msg0016",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그렇더라도, 단 한 번이라도 좋으니까"
+  }, {
+    "$id" : 21,
+    "label" : "tq011405_msg0017",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이별의 순간이 다가오기 전에……"
+  }, {
+    "$id" : 22,
+    "label" : "tq011405_msg0018a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "모두와 함께……"
+  }, {
+    "$id" : 23,
+    "label" : "tq011405_msg0018b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "같은 시간을 공유하고 싶었어요"
+  }, {
+    "$id" : 24,
+    "label" : "tq011405_msg0019",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "여러분이 맺은 인연의 끈을\n저도 잡아 보고 싶었어요"
+  }, {
+    "$id" : 25,
+    "label" : "tq011405_msg0020",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "여왕으로서가 아니라, 한 명의 동료로서"
+  }, {
+    "$id" : 26,
+    "label" : "tq011405_msg0021",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "니아……"
+  }, {
+    "$id" : 27,
+    "label" : "tq011405_msg0022a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그러니까……"
+  }, {
+    "$id" : 28,
+    "label" : "tq011405_msg0022b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "고마워요"
+  }, {
+    "$id" : 29,
+    "label" : "tq011405_msg0023",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "마지막으로 이 마음을\n여러분의 미래에 맡기겠습니다"
+  }, {
+    "$id" : 30,
+    "label" : "tq011405_msg0024a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "제트를 쓰러뜨리고"
+  }, {
+    "$id" : 31,
+    "label" : "tq011405_msg0024b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "부디 여러분 손으로 더 좋은 세상을……"
+  }, {
+    "$id" : 32,
+    "label" : "tq011405_msg0025",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아니, 그건 아니야"
+  }, {
+    "$id" : 33,
+    "label" : "tq011405_msg0026",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "네?"
+  }, {
+    "$id" : 34,
+    "label" : "tq011405_msg0027a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그런 세상을……"
+  }, {
+    "$id" : 35,
+    "label" : "tq011405_msg0027b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "당신도 함께 만드는 거야, 니아"
+  }, {
+    "$id" : 36,
+    "label" : "tq011405_msg0028",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그, 그건……"
+  }, {
+    "$id" : 37,
+    "label" : "tq011405_msg0029",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "설령 모두와 헤어지게 되더라도\n분명 언젠가 다시 만날 날이 올 거야"
+  }, {
+    "$id" : 38,
+    "label" : "tq011405_msg0030",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우리가 바라는 건 그런 미래잖아\n물론 그곳엔 당신도 있을 거야"
+  }, {
+    "$id" : 39,
+    "label" : "tq011405_msg0031",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……아니, 있어 줬으면 좋겠어"
+  }, {
+    "$id" : 40,
+    "label" : "tq011405_msg0032",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "왜냐하면 우리의 인연은……"
+  }, {
+    "$id" : 41,
+    "label" : "tq011405_msg0033a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "니아……"
+  }, {
+    "$id" : 42,
+    "label" : "tq011405_msg0033b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "당신과도 이어져 있으니까"
+  }, {
+    "$id" : 43,
+    "label" : "tq011405_msg0034",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "미오……"
+  }, {
+    "$id" : 44,
+    "label" : "tq011405_msg0035",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "여, 여러분이 그런 미래를 바라신다면……"
+  }, {
+    "$id" : 45,
+    "label" : "tq011405_msg0036",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……아뇨, 이게 아니죠"
+  }, {
+    "$id" : 46,
+    "label" : "tq011405_msg0037a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "저도……"
+  }, {
+    "$id" : 47,
+    "label" : "tq011405_msg0037b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "함께 가고 싶습니다"
+  }, {
+    "$id" : 48,
+    "label" : "tq011405_msg0038",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그 누구도 아닌\n\"우리\"가 바라는 미래를 위해……"
+  }, {
+    "$id" : 49,
+    "label" : "tq011405_msg0039a",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이 세계가 끝을 맞이하는"
+  }, {
+    "$id" : 50,
+    "label" : "tq011405_msg0039b",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그 순간까지……"
+  }, {
+    "$id" : 51,
+    "label" : "tq011405_msg0040",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "응, 앞으로도 쭉 함께야. 니아"
+  } ]
+}

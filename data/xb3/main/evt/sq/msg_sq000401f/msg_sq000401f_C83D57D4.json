@@ -1,0 +1,259 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "sq000401_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 모은 정보를 정리하자"
+  }, {
+    "$id" : 2,
+    "label" : "sq000401_msg0002",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "주변 몬스터로 인한 피해\n거점 건설 시의 문제……"
+  }, {
+    "$id" : 3,
+    "label" : "sq000401_msg0003",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "긴급 상황이기도 해서 그런지\n부상자가 속출하고 있다고 해"
+  }, {
+    "$id" : 4,
+    "label" : "sq000401_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "의료반 사람들 정말 바빠 보였어"
+  }, {
+    "$id" : 5,
+    "label" : "sq000401_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제대로 된 치료를 못 해서\n환자가 계속 늘고만 있나 봐"
+  }, {
+    "$id" : 6,
+    "label" : "sq000401_msg0006",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사람이 모자라다는 느낌보다는\n물자가 없어서 그런 것 같던데"
+  }, {
+    "$id" : 7,
+    "label" : "sq000401_msg0007",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "약이나 붕대 같은 거?"
+  }, {
+    "$id" : 8,
+    "label" : "sq000401_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 의료 물자는\n전용 설비가 없으면 만들기 어려워"
+  }, {
+    "$id" : 9,
+    "label" : "sq000401_msg0009",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여긴 황야 한복판이라고\n그런 게 어딨겠어"
+  }, {
+    "$id" : 10,
+    "label" : "sq000401_msg0010",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바로 그거야. 물자가 바닥을\n드러내는 건 시간문제라는 거지"
+  }, {
+    "$id" : 11,
+    "label" : "sq000401_msg0011",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젠장, 갑자기 막막한걸"
+  }, {
+    "$id" : 12,
+    "label" : "sq000401_msg0012",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래도 어떻게든 해결해야 할 텐데……"
+  }, {
+    "$id" : 13,
+    "label" : "sq000401_msg0013",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 14,
+    "label" : "sq000401_msg0014",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!\n잠깐…… 아니, 하지만……"
+  }, {
+    "$id" : 15,
+    "label" : "sq000401_msg0015",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야, 할 말 있으면\n확실하게 해"
+  }, {
+    "$id" : 16,
+    "label" : "sq000401_msg0016",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래도 어쩌면……"
+  }, {
+    "$id" : 17,
+    "label" : "sq000401_msg0017",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 그래? 타이온"
+  }, {
+    "$id" : 18,
+    "label" : "sq000401_msg0018",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혹시 방법이 생각났어?"
+  }, {
+    "$id" : 19,
+    "label" : "sq000401_msg0019",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……미리 말해 두는데, 확실하지는 않아"
+  }, {
+    "$id" : 20,
+    "label" : "sq000401_msg0020",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐든 어때\n하기로 맘먹었으면 끝까지 해 봐야지"
+  }, {
+    "$id" : 21,
+    "label" : "sq000401_msg0021",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알았어\n그럼 어서 여기를 떠나자"
+  }, {
+    "$id" : 22,
+    "label" : "sq000401_msg0022",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야, 뜬금없게?!\n그나저나 어딜 가려고?"
+  }, {
+    "$id" : 23,
+    "label" : "sq000401_msg0023",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "구가의 거암이야\n운이 좋으면 제때 갈 수 있겠지"
+  }, {
+    "$id" : 24,
+    "label" : "sq000401_msg0024",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제때 간다고? 대체 뭔 얘기래……"
+  }, {
+    "$id" : 25,
+    "label" : "sq000401_msg0025",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어서 움직이자고 했잖아\n자세한 건 가서 말할게"
+  }, {
+    "$id" : 26,
+    "label" : "sq000401_msg0026",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유니, 자세한 건 나중에 듣고\n지금은 타이온의 지시를 따르자"
+  } ]
+}

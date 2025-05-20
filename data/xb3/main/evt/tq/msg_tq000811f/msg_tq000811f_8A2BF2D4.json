@@ -1,0 +1,412 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq000811_msg0001",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어? ……얘들아, 저거 봐"
+  }, {
+    "$id" : 2,
+    "label" : "tq000811_msg0002",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모못! 저거야모\n저게 바로 젬 스톤이야모!"
+  }, {
+    "$id" : 3,
+    "label" : "tq000811_msg0003",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나가 가져올게요모~!"
+  }, {
+    "$id" : 4,
+    "label" : "tq000811_msg0004",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젬 스톤은 조심히 다뤄야 해모\n리쿠도 갈게모"
+  }, {
+    "$id" : 5,
+    "label" : "tq000811_msg0005",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잠깐만! 리쿠, 마나나!"
+  }, {
+    "$id" : 6,
+    "label" : "tq000811_msg0006",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모모못?!"
+  }, {
+    "$id" : 7,
+    "label" : "tq000811_msg0007",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠가 이런 실수를……\n너무 성급했어모"
+  }, {
+    "$id" : 8,
+    "label" : "tq000811_msg0008",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "기다려, 지금 구하러……"
+  }, {
+    "$id" : 9,
+    "label" : "tq000811_msg0009",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "안 돼! 이쪽으로도 오고 있어!"
+  }, {
+    "$id" : 10,
+    "label" : "tq000811_msg0010",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젬 스톤을 버려!\n몬스터가 그걸 노리나 봐!"
+  }, {
+    "$id" : 11,
+    "label" : "tq000811_msg0011",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으으……"
+  }, {
+    "$id" : 12,
+    "label" : "tq000811_msg0012",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건 소중한 거예요모!\n버릴 수 없어요모!"
+  }, {
+    "$id" : 13,
+    "label" : "tq000811_msg0013",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……리쿠가 부주의한 탓에\n말려들게 해서 미안해모"
+  }, {
+    "$id" : 14,
+    "label" : "tq000811_msg0014",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젬 스톤을 저쪽으로 던져 버리자모"
+  }, {
+    "$id" : 15,
+    "label" : "tq000811_msg0015",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠에겐 보물 아닌가요모?"
+  }, {
+    "$id" : 16,
+    "label" : "tq000811_msg0016",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아모…… 그치만 이걸 버리면\n몬스터들도 그쪽으로 갈 거야모"
+  }, {
+    "$id" : 17,
+    "label" : "tq000811_msg0017",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "포기하기엔 아직 일러요모!"
+  }, {
+    "$id" : 18,
+    "label" : "tq000811_msg0018",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "모못?!"
+  }, {
+    "$id" : 19,
+    "label" : "tq000811_msg0019a",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 건 위기도 뭣도 아니라고요모!"
+  }, {
+    "$id" : 20,
+    "label" : "tq000811_msg0019b",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "게다가……"
+  }, {
+    "$id" : 21,
+    "label" : "tq000811_msg0020",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠는 보물을 전부\n가져가겠다고 했잖아요모!"
+  }, {
+    "$id" : 22,
+    "label" : "tq000811_msg0021",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만…… 노폰은 싸우지 않아모……"
+  }, {
+    "$id" : 23,
+    "label" : "tq000811_msg0022",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇지 않아요모!"
+  }, {
+    "$id" : 24,
+    "label" : "tq000811_msg0023",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미오 씨나 노아 씨처럼\n될 수는 없어도……"
+  }, {
+    "$id" : 25,
+    "label" : "tq000811_msg0024",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠랑 마나나가 힘을 합치면\n이까짓 일은 아무것도 아니에요모!"
+  }, {
+    "$id" : 26,
+    "label" : "tq000811_msg0025",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "리쿠는 그렇게 생각 안 해요모?"
+  }, {
+    "$id" : 27,
+    "label" : "tq000811_msg0026",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "마나나……"
+  }, {
+    "$id" : 28,
+    "label" : "tq000811_msg0027",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아모……"
+  }, {
+    "$id" : 29,
+    "label" : "tq000811_msg0028",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 곳에서 포기하려 들다니\n리쿠가 잠깐 어떻게 됐었어모!"
+  }, {
+    "$id" : 30,
+    "label" : "tq000811_msg0029",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보물도 얻고\n몬스터도 쓰러뜨릴 거야모!"
+  }, {
+    "$id" : 31,
+    "label" : "tq000811_msg0030",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바로 그거예요모!"
+  }, {
+    "$id" : 32,
+    "label" : "tq000811_msg0042",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좌절하기엔……"
+  }, {
+    "$id" : 33,
+    "label" : "tq000811_msg0031",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아직 일러요모!"
+  }, {
+    "$id" : 34,
+    "label" : "tq000811_msg0032",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "[ML:undisp ]하나, 둘!"
+  }, {
+    "$id" : 35,
+    "label" : "tq000811_msg0034",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "대성공이에요모!"
+  }, {
+    "$id" : 36,
+    "label" : "tq000811_msg0035",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나 참…… 제법인데\n둥글둥글 콤비!"
+  }, {
+    "$id" : 37,
+    "label" : "tq000811_msg0036",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "다행이다, 돌아왔어……"
+  }, {
+    "$id" : 38,
+    "label" : "tq000811_msg0037",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "걱정을 끼쳤네요모"
+  }, {
+    "$id" : 39,
+    "label" : "tq000811_msg0038",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노폰의 진가를 발휘하는 건 지금부터야모!"
+  }, {
+    "$id" : 40,
+    "label" : "tq000811_msg0039a",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아요모!"
+  }, {
+    "$id" : 41,
+    "label" : "tq000811_msg0039b",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혼자서는 못 해도……"
+  }, {
+    "$id" : 42,
+    "label" : "tq000811_msg0040",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "둘이서라면!"
+  }, {
+    "$id" : 43,
+    "label" : "tq000811_msg0041",
+    "talker" : "9",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힘을 합쳐서 싸울 수 있어요모!"
+  } ]
+}

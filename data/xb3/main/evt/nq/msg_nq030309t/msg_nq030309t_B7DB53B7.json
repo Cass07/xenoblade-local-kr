@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq030309_msg0001",
+    "talker" : "tY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "주변에 서식하는 몬스터……\n지금은 외적에게서 수용소를\n보호하는 데 도움이 되고 있지만……"
+  }, {
+    "$id" : 2,
+    "label" : "nq030309_msg0002",
+    "talker" : "tY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이대로 무분별하게 수가 늘면\n오히려 우리가 위험해지겠지"
+  }, {
+    "$id" : 3,
+    "label" : "nq030309_msg0003",
+    "talker" : "tY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……슬슬 손을 써야 할 때가 됐나"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk130603_msg0001",
+    "talker" : "vY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이야~ 9호는 여전히\n혈기왕성하네. 아하하!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk130603_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그게 웃을 일이야?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk130603_msg0003",
+    "talker" : "vY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "난처한 상황은 웃어서 무마한다!\n이건 10호의 처세술 중 하나거든"
+  }, {
+    "$id" : 4,
+    "label" : "tlk130603_msg0004",
+    "talker" : "vY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……뭐, 이번엔 조금 아슬아슬했어\n왜, 동료들끼리도 해도 될 말이 있고\n해선 안 될 말이 있잖아?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk130603_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk610802_msg0001",
+    "talker" : "wj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "라쿠자가 어리석었어……\n골치 아프게도 말이지"
+  }, {
+    "$id" : 2,
+    "label" : "tlk610802_msg0002",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그 사람이랑 친했어?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk610802_msg0003",
+    "talker" : "wj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "글쎄……\n옛날엔 같이 바보처럼 웃고 떠들었는데"
+  }, {
+    "$id" : 4,
+    "label" : "tlk610802_msg0004",
+    "talker" : "wj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 감옥에 처박혀 지내는 사이에\n알 수 없게 돼 버렸어"
+  }, {
+    "$id" : 5,
+    "label" : "tlk610802_msg0005",
+    "talker" : "wj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집정관에 심취해 있더라고……\n라쿠자는 거기에 모든 걸 바친 거야……"
+  } ]
+}

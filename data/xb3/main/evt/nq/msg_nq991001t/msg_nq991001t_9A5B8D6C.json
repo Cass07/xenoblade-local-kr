@@ -1,0 +1,286 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq991001_msg0001",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아야…… 피곤한 거야?"
+  }, {
+    "$id" : 2,
+    "label" : "nq991001_msg0002",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래 보여?"
+  }, {
+    "$id" : 3,
+    "label" : "nq991001_msg0003",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혼자 있는 건 보기 드물잖아\n평소엔 모두와 함께 있는데……"
+  }, {
+    "$id" : 4,
+    "label" : "nq991001_msg0004",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나…… 나도 가끔\n혼자 있고 싶을 때가 있어……"
+  }, {
+    "$id" : 5,
+    "label" : "nq991001_msg0005",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……마시로는 그럴 때 없어?\n예를 들면……"
+  }, {
+    "$id" : 6,
+    "label" : "nq991001_msg0006",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "만일 우울한 일이 있으면……\n마시로는 어떻게 할래?"
+  }, {
+    "$id" : 7,
+    "label" : "nq991001_msg0007",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "우울할 때엔 어떻게 할까?"
+  }, {
+    "$id" : 8,
+    "label" : "nq991001_msg0100",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "의지하는 사람한테 상담한다"
+  }, {
+    "$id" : 9,
+    "label" : "nq991001_msg0101",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "의지하는 사람한테 상담할래\n내 생각을 솔직하게 털어놓고서……"
+  }, {
+    "$id" : 10,
+    "label" : "nq991001_msg0102",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하나씩 냉정하게 지적받는 거야\n좋은 점이든 나쁜 점이든 확실하게"
+  }, {
+    "$id" : 11,
+    "label" : "nq991001_msg0103",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아하하……\n그거 완전 이치카 아니야?"
+  }, {
+    "$id" : 12,
+    "label" : "nq991001_msg0104",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그런가……?"
+  }, {
+    "$id" : 13,
+    "label" : "nq991001_msg0105",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 걔는 거침없는 성격이라\n뭐든지 솔직하게 말하잖아"
+  }, {
+    "$id" : 14,
+    "label" : "nq991001_msg0106",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 면을 의지했었는데……\n앞으로는 알아서 잘해야겠지……"
+  }, {
+    "$id" : 15,
+    "label" : "nq991001_msg0200",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "친구랑 이야기한다"
+  }, {
+    "$id" : 16,
+    "label" : "nq991001_msg0201",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "친구랑 이야기하면서\n기분을 환기시킬래!"
+  }, {
+    "$id" : 17,
+    "label" : "nq991001_msg0202",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우울하면 기분이 꿍해져서\n아무것도 못 하는 내가 싫어지니까……"
+  }, {
+    "$id" : 18,
+    "label" : "nq991001_msg0203",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "머리를 비우고\n모두와 함께 배꼽 빠지게 웃고 싶어"
+  }, {
+    "$id" : 19,
+    "label" : "nq991001_msg0204",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 마시로도 가끔\n터킨처럼 웃을 때가 있긴 하지"
+  }, {
+    "$id" : 20,
+    "label" : "nq991001_msg0205",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 적 없어~!"
+  }, {
+    "$id" : 21,
+    "label" : "nq991001_msg0206",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 적 있거든!\n타로보단 덜하지만"
+  }, {
+    "$id" : 22,
+    "label" : "nq991001_msg0207",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근데 그것도 맞아……\n웃는 건 중요한 일이지"
+  }, {
+    "$id" : 23,
+    "label" : "nq991001_msg0301",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아~! 이제 개운해졌다!\n들어 줘서 고마워"
+  }, {
+    "$id" : 24,
+    "label" : "nq991001_msg0302",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이제 괜찮아?"
+  }, {
+    "$id" : 25,
+    "label" : "nq991001_msg0303",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 마시로의 얼굴을 보니까 기운이 나"
+  }, {
+    "$id" : 26,
+    "label" : "nq991001_msg0304",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그런고로, 1포인트 축하해!\n타로한테 보고해 둘게"
+  }, {
+    "$id" : 27,
+    "label" : "nq991001_msg0305",
+    "talker" : "O",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이래도 되나?\n아무것도 안 한 것 같은데……"
+  }, {
+    "$id" : 28,
+    "label" : "nq991001_msg0306",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮아, 괜찮아! 결국 자기 마음은\n스스로 관리해야 하는 법이잖아"
+  }, {
+    "$id" : 29,
+    "label" : "nq991001_msg0307",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼, 나도 힘내 볼까~!"
+  } ]
+}

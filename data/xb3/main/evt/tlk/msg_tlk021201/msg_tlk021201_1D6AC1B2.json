@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk021201_msg0001",
+    "talker" : "cW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노아와 란츠, 그리고 유니도\n아무쪼록 주의를 게을리하지 마"
+  }, {
+    "$id" : 2,
+    "label" : "tlk021201_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜 이렇게 걱정해 주는 거야\n뭐 아는 거라도 있어?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk021201_msg0003",
+    "talker" : "cW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니……\n하지만 집정관이 직접\n콜로니 9까지 왔어"
+  }, {
+    "$id" : 4,
+    "label" : "tlk021201_msg0004",
+    "talker" : "cW1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "평범한 임무가 아니란 것쯤은\n누구라도 알 수 있을 텐데?"
+  }, {
+    "$id" : 5,
+    "label" : "tlk021201_msg0005",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……너야말로 조심해\n실력 좀 있다고 방심하지 말라고"
+  } ]
+}

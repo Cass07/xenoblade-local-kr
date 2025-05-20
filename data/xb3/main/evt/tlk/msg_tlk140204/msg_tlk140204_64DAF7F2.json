@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk140204_msg0001",
+    "talker" : "zY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "돌 모으는 거 도와줘서\n고마워모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk140204_msg0002",
+    "talker" : "zY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번에는 인간과 거리를 둘 필요가 있다고\n생각한 카라반 구성원이 많았어모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk140204_msg0003",
+    "talker" : "zY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요즘 들어 전쟁이 격해져서\n노폰의 목숨이 위험에 노출되었다고\n느껴서 그런 것 같아모"
+  } ]
+}

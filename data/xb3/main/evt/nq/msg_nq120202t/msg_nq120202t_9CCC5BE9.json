@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq120202_msg0001",
+    "talker" : "la1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "혹시 제3부대의 레브니스 못 봤어?\n복귀가 늦어지고 있어서 걱정되네"
+  }, {
+    "$id" : 2,
+    "label" : "nq120202_msg0002",
+    "talker" : "la1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정비는 빼먹지 말고 하라고\n늘 말하는데 하여간 에른 그 녀석은……"
+  }, {
+    "$id" : 3,
+    "label" : "nq120202_msg0003",
+    "talker" : "la1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "에휴, 조금 더 상황을 보다가\n유제트하고 상담해야겠다"
+  } ]
+}

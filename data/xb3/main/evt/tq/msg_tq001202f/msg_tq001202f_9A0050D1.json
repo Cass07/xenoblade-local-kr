@@ -1,0 +1,196 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq001202_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유품을 찾아 왔어"
+  }, {
+    "$id" : 2,
+    "label" : "tq001202_msg0002",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워"
+  }, {
+    "$id" : 3,
+    "label" : "tq001202_msg0003",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그것들을 전부 이쪽에 놓아 줘"
+  }, {
+    "$id" : 4,
+    "label" : "tq001202_msg0004",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러고 보니 모니카 씨도\n여기에 안대를 놓아두던데"
+  }, {
+    "$id" : 5,
+    "label" : "tq001202_msg0005",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그건 게르니카 물건이었지?"
+  }, {
+    "$id" : 6,
+    "label" : "tq001202_msg0006",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유품을 여기에 두는 건\n무슨 의미지?"
+  }, {
+    "$id" : 7,
+    "label" : "tq001202_msg0007",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "음……\n어떻게 설명해야 하나"
+  }, {
+    "$id" : 8,
+    "label" : "tq001202_msg0008",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희들이 하는\n환송 비슷한 거야"
+  }, {
+    "$id" : 9,
+    "label" : "tq001202_msg0009",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시티 사람들의 환송……"
+  }, {
+    "$id" : 10,
+    "label" : "tq001202_msg0010",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "빨리 끝났군"
+  }, {
+    "$id" : 11,
+    "label" : "tq001202_msg0011",
+    "talker" : "tk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "보스, 기다렸다고요"
+  }, {
+    "$id" : 12,
+    "label" : "tq001202_msg0012",
+    "talker" : "uk1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "유우 오빠……!"
+  }, {
+    "$id" : 13,
+    "label" : "tq001202_msg0013",
+    "talker" : "bm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "즈오……\n돌아왔구나……"
+  }, {
+    "$id" : 14,
+    "label" : "tq001202_msg0014",
+    "talker" : "wl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "히와 언니……"
+  }, {
+    "$id" : 15,
+    "label" : "tq001202_msg0015",
+    "talker" : "wl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "항상 깨끗하게 손질했는데\n이렇게 되어 버렸구나……"
+  }, {
+    "$id" : 16,
+    "label" : "tq001202_msg0016",
+    "talker" : "wl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좀 더 많이…… 얘기했으면 좋았을 텐데"
+  }, {
+    "$id" : 17,
+    "label" : "tq001202_msg0017",
+    "talker" : "wl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "잘 돌아왔어……"
+  }, {
+    "$id" : 18,
+    "label" : "tq001202_msg0018",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희 덕분에 저들에게\n이별할 시간을 줄 수 있었어"
+  }, {
+    "$id" : 19,
+    "label" : "tq001202_msg0019",
+    "talker" : "D",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아버지의 마지막 소망을\n이룰 수 있었어…… 고마워"
+  } ]
+}

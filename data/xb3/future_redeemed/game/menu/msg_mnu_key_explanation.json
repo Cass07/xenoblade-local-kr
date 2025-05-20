@@ -1,0 +1,438 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<45345B2F>",
+    "style" : 44,
+    "name" : "발도 / 각종 결정"
+  }, {
+    "$id" : 2,
+    "label" : "<99360B6D>",
+    "style" : 44,
+    "name" : "점프 / 각종 취소"
+  }, {
+    "$id" : 3,
+    "label" : "<EF2BDD3B>",
+    "style" : 44,
+    "name" : "메뉴"
+  }, {
+    "$id" : 4,
+    "label" : "<D50FC683>",
+    "style" : 44,
+    "name" : "현재 목적"
+  }, {
+    "$id" : 5,
+    "label" : "<BA92E6BF>",
+    "style" : 44,
+    "name" : "에너미 타깃(오른쪽 순)"
+  }, {
+    "$id" : 6,
+    "label" : "<0B3F0FA3>",
+    "style" : 44,
+    "name" : "조작 전환(일반)"
+  }, {
+    "$id" : 7,
+    "label" : "<32F5CF8D>",
+    "style" : 44,
+    "name" : "에너미 타깃(왼쪽 순)"
+  }, {
+    "$id" : 8,
+    "label" : "<426B0F5D>",
+    "style" : 44,
+    "name" : "조작 전환(역순)"
+  }, {
+    "$id" : 9,
+    "label" : "<055AEA73>",
+    "style" : 44,
+    "name" : "시프트 조작"
+  }, {
+    "$id" : 10,
+    "label" : "<0BA9BA0E>",
+    "style" : 44,
+    "name" : "체인 어택"
+  }, {
+    "$id" : 11,
+    "label" : "<B1FD6C32>",
+    "style" : 44,
+    "name" : "오토 배틀 전환 /\n(길게 누르기) 배틀 메뉴"
+  }, {
+    "$id" : 12,
+    "label" : "<EC0E7B63>",
+    "style" : 44,
+    "name" : "유인"
+  }, {
+    "$id" : 13,
+    "label" : "<8412E40C>",
+    "style" : 44,
+    "name" : "바로 가기 1"
+  }, {
+    "$id" : 14,
+    "label" : "<5CCEFE7E>",
+    "style" : 44,
+    "name" : "바로 가기 2"
+  }, {
+    "$id" : 15,
+    "label" : "<2CEC1B2A>",
+    "style" : 44,
+    "name" : "바로 가기 3"
+  }, {
+    "$id" : 16,
+    "label" : "<FA13690F>",
+    "style" : 44,
+    "name" : "바로 가기 4"
+  }, {
+    "$id" : 17,
+    "label" : "<CE25F90C>",
+    "style" : 44,
+    "name" : "카메라 조작"
+  }, {
+    "$id" : 18,
+    "label" : "<0FC67DDC>",
+    "style" : 44,
+    "name" : "카메라 리셋"
+  }, {
+    "$id" : 19,
+    "label" : "<0C0C56AD>",
+    "style" : 44,
+    "name" : "미니맵 확대 표시"
+  }, {
+    "$id" : 20,
+    "label" : "<B236CB78>",
+    "style" : 44,
+    "name" : "이동"
+  }, {
+    "$id" : 21,
+    "label" : "<5EAAB7B9>",
+    "style" : 44,
+    "name" : "오토 런(이동 중)"
+  }, {
+    "$id" : 22,
+    "label" : "<F47B8223>",
+    "style" : 44,
+    "name" : "포토 모드"
+  }, {
+    "$id" : 23,
+    "label" : "<7E4214A1>",
+    "style" : 44,
+    "name" : "타깃 해제"
+  }, {
+    "$id" : 24,
+    "label" : "<2B82041D>",
+    "style" : 44,
+    "name" : ""
+  }, {
+    "$id" : 25,
+    "label" : "<57EBFC7C>",
+    "style" : 44,
+    "name" : "아츠 융합"
+  }, {
+    "$id" : 26,
+    "label" : "<E1EE3078>",
+    "style" : 44,
+    "name" : "인터링크"
+  }, {
+    "$id" : 27,
+    "label" : "<05C6FBD5>",
+    "style" : 44,
+    "name" : "퀵 무브"
+  }, {
+    "$id" : 28,
+    "label" : "<130EDC44>",
+    "style" : 44,
+    "name" : "탤런트 아츠"
+  }, {
+    "$id" : 29,
+    "label" : "<882E6A99>",
+    "style" : 44,
+    "name" : "클래스 아츠 1"
+  }, {
+    "$id" : 30,
+    "label" : "<8EF23902>",
+    "style" : 44,
+    "name" : "클래스 아츠 2"
+  }, {
+    "$id" : 31,
+    "label" : "<269D61B0>",
+    "style" : 44,
+    "name" : "클래스 아츠 3"
+  }, {
+    "$id" : 32,
+    "label" : "<779EA8F6>",
+    "style" : 44,
+    "name" : "마스터 아츠 1"
+  }, {
+    "$id" : 33,
+    "label" : "<607CA68A>",
+    "style" : 44,
+    "name" : "마스터 아츠 2"
+  }, {
+    "$id" : 34,
+    "label" : "<F9A07280>",
+    "style" : 44,
+    "name" : "마스터 아츠 3"
+  }, {
+    "$id" : 35,
+    "label" : "<E2DB0C72>",
+    "style" : 44,
+    "name" : "우로보로스 아츠 1"
+  }, {
+    "$id" : 36,
+    "label" : "<87D54025>",
+    "style" : 44,
+    "name" : "우로보로스 아츠 2"
+  }, {
+    "$id" : 37,
+    "label" : "<21CCAB1D>",
+    "style" : 44,
+    "name" : "우로보로스 아츠 3"
+  }, {
+    "$id" : 38,
+    "label" : "<12E88318>",
+    "style" : 44,
+    "name" : "탤런트 아츠 /\n(길게 누르기) 납도"
+  }, {
+    "$id" : 39,
+    "label" : "<A15D6E20>",
+    "style" : 44,
+    "name" : "작전 1"
+  }, {
+    "$id" : 40,
+    "label" : "<76969E14>",
+    "style" : 44,
+    "name" : "작전 2"
+  }, {
+    "$id" : 41,
+    "label" : "<B8F2872C>",
+    "style" : 44,
+    "name" : "작전 3"
+  }, {
+    "$id" : 42,
+    "label" : "<9CE209DF>",
+    "style" : 44,
+    "name" : "작전 4"
+  }, {
+    "$id" : 43,
+    "label" : "<98324E05>",
+    "style" : 44,
+    "name" : "인터링크 스위치"
+  }, {
+    "$id" : 44,
+    "label" : "<AAB7EA3A>",
+    "style" : 44,
+    "name" : "인터링크 해제"
+  }, {
+    "$id" : 45,
+    "label" : "<880EA072>",
+    "style" : 44,
+    "name" : "인터링크 조작\n(파티 타입 설정 시)"
+  }, {
+    "$id" : 46,
+    "label" : "<B5EF0428>",
+    "style" : 44,
+    "name" : ""
+  }, {
+    "$id" : 47,
+    "label" : "<7EB96574>",
+    "style" : 44,
+    "name" : "발도 / (길게 누르기) 하선하기"
+  }, {
+    "$id" : 48,
+    "label" : "<D60324C0>",
+    "style" : 44,
+    "name" : "전진"
+  }, {
+    "$id" : 49,
+    "label" : "<37A661B5>",
+    "style" : 44,
+    "name" : "후진"
+  }, {
+    "$id" : 50,
+    "label" : "<7CEB4CFB>",
+    "style" : 44,
+    "name" : "선회"
+  }, {
+    "$id" : 51,
+    "label" : "<F72DE78D>",
+    "style" : 44,
+    "name" : "부스트"
+  }, {
+    "$id" : 52,
+    "label" : "<38511FA8>",
+    "style" : 44,
+    "name" : "선실로 이동"
+  }, {
+    "$id" : 53,
+    "label" : "<3D689DD3>",
+    "style" : 19,
+    "name" : "필드 조작"
+  }, {
+    "$id" : 54,
+    "label" : "<1E9DDE86>",
+    "style" : 19,
+    "name" : "필드 조작(시프트)"
+  }, {
+    "$id" : 55,
+    "label" : "<78F5211F>",
+    "style" : 19,
+    "name" : "배틀 조작"
+  }, {
+    "$id" : 56,
+    "label" : "<1B3B73D8>",
+    "style" : 19,
+    "name" : "배틀 조작(시프트)"
+  }, {
+    "$id" : 57,
+    "label" : "<55BA3620>",
+    "style" : 19,
+    "name" : "배틀 조작(인터링크)"
+  }, {
+    "$id" : 58,
+    "label" : "<D51318E4>",
+    "style" : 19,
+    "name" : "필드 조작(배)"
+  }, {
+    "$id" : 59,
+    "label" : "<E4C7ADCD>",
+    "style" : 44,
+    "name" : "--------"
+  }, {
+    "$id" : 60,
+    "label" : "<A44D7CCE>",
+    "style" : 7,
+    "name" : "1/5"
+  }, {
+    "$id" : 61,
+    "label" : "<B3C63047>",
+    "style" : 7,
+    "name" : "2/5"
+  }, {
+    "$id" : 62,
+    "label" : "<BBF27B11>",
+    "style" : 7,
+    "name" : "3/5"
+  }, {
+    "$id" : 63,
+    "label" : "<9150416E>",
+    "style" : 7,
+    "name" : "4/5"
+  }, {
+    "$id" : 64,
+    "label" : "<3011FE5F>",
+    "style" : 7,
+    "name" : "5/5"
+  }, {
+    "$id" : 65,
+    "label" : "<5F57844D>",
+    "style" : 7,
+    "name" : "1/4"
+  }, {
+    "$id" : 66,
+    "label" : "<F1EEFF2C>",
+    "style" : 7,
+    "name" : "2/4"
+  }, {
+    "$id" : 67,
+    "label" : "<F7DA8D99>",
+    "style" : 7,
+    "name" : "3/4"
+  }, {
+    "$id" : 68,
+    "label" : "<0C971DBC>",
+    "style" : 7,
+    "name" : "4/4"
+  }, {
+    "$id" : 69,
+    "label" : "<82EA245E>",
+    "style" : 7,
+    "name" : "1/6"
+  }, {
+    "$id" : 70,
+    "label" : "<509B113E>",
+    "style" : 7,
+    "name" : "2/6"
+  }, {
+    "$id" : 71,
+    "label" : "<B1573457>",
+    "style" : 7,
+    "name" : "3/6"
+  }, {
+    "$id" : 72,
+    "label" : "<D320D824>",
+    "style" : 7,
+    "name" : "4/6"
+  }, {
+    "$id" : 73,
+    "label" : "<CBD87ED7>",
+    "style" : 7,
+    "name" : "5/6"
+  }, {
+    "$id" : 74,
+    "label" : "<83C331C8>",
+    "style" : 7,
+    "name" : "6/6"
+  }, {
+    "$id" : 75,
+    "label" : "<EDA6BB63>",
+    "style" : 44,
+    "name" : "엑스 디바이스 ON / OFF"
+  }, {
+    "$id" : 76,
+    "label" : "<2D8AAE8F>",
+    "style" : 44,
+    "name" : "노멀 아츠 1"
+  }, {
+    "$id" : 77,
+    "label" : "<A0C8E1D2>",
+    "style" : 44,
+    "name" : "노멀 아츠 2"
+  }, {
+    "$id" : 78,
+    "label" : "<6E2C933D>",
+    "style" : 44,
+    "name" : "노멀 아츠 3"
+  }, {
+    "$id" : 79,
+    "label" : "<B7C65B28>",
+    "style" : 44,
+    "name" : "우로보로스 파워 1"
+  }, {
+    "$id" : 80,
+    "label" : "<8DC9389F>",
+    "style" : 44,
+    "name" : "우로보로스 파워 2"
+  }, {
+    "$id" : 81,
+    "label" : "<B84C26CA>",
+    "style" : 44,
+    "name" : "우로보로스 파워 3"
+  }, {
+    "$id" : 82,
+    "label" : "<EAEF2D8C>",
+    "style" : 44,
+    "name" : "필살기"
+  }, {
+    "$id" : 83,
+    "label" : "<C84F2061>",
+    "style" : 44,
+    "name" : "필살기 1"
+  }, {
+    "$id" : 84,
+    "label" : "<7B1417F7>",
+    "style" : 44,
+    "name" : "필살기 2"
+  }, {
+    "$id" : 85,
+    "label" : "<FBD5AD67>",
+    "style" : 44,
+    "name" : "필살기 3"
+  } ]
+}

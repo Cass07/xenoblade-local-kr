@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520802_msg0001",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스티커는 제 아이디어지만\n모두가 납득할 만한 방법을\n고안하고 싶다고 말한 건 타로에요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520802_msg0002",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타로는 착한 녀석이에요\n부족한 점도 많고 실수도 하지만……\n다른 사람을 위해 노력할 줄 아는 친구죠"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520802_msg0003",
+    "talker" : "Yg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 오해하지 말아 주세요\n문제가 있는 건 타로가 아니고\n분명 타로의 지능일 거예요"
+  } ]
+}

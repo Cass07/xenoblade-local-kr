@@ -1,0 +1,160 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq110601_msg0001",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "반갑습니다, 여러분\n오늘은 무슨 일로 오셨나요?"
+  }, {
+    "$id" : 2,
+    "label" : "nq110601_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자재 조달반이 애먹고 있다던데\n괜찮은 거야?"
+  }, {
+    "$id" : 3,
+    "label" : "nq110601_msg0003",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아…… 역시 여러분 귀에도\n들어갔나 보네요"
+  }, {
+    "$id" : 4,
+    "label" : "nq110601_msg0004",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이참에 솔직히 말하자면\n전혀 괜찮지 않은 상황입니다"
+  }, {
+    "$id" : 5,
+    "label" : "nq110601_msg0005",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "각 반에서 물자 보급 요청이 쏟아지는 통에\n바빠서 정신이 없거든요"
+  }, {
+    "$id" : 6,
+    "label" : "nq110601_msg0006",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "진짜?\n상황이 그렇게 심각해?"
+  }, {
+    "$id" : 7,
+    "label" : "nq110601_msg0007",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금까지 문제가 끊이질 않았으니까요\n어디든 물자 부족으로 어려운 형편입니다"
+  }, {
+    "$id" : 8,
+    "label" : "nq110601_msg0008",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다곤 해도 물자가 한정된 이상\n모든 반의 요청을\n다 들어줄 수도 없는 노릇인데……"
+  }, {
+    "$id" : 9,
+    "label" : "nq110601_msg0009",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "타이온 씨 말씀대로예요\n게다가 까딱 잘못 분배했다간\n각 반끼리 충돌이 일어날 테니까요"
+  }, {
+    "$id" : 10,
+    "label" : "nq110601_msg0010",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "생각보다 심각한 모양인데……\n우리가 할 수 있는 일이 있을까?"
+  }, {
+    "$id" : 11,
+    "label" : "nq110601_msg0011",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그럼 송구스럽지만\n한 가지 부탁드릴 게 있습니다"
+  }, {
+    "$id" : 12,
+    "label" : "nq110601_msg0012",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제 부하 중에\n취사반에서 물자 관리를 담당하는\n미코코라는 노폰과……"
+  }, {
+    "$id" : 13,
+    "label" : "nq110601_msg0013",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "의료반을 담당하는\n브뤼네라는 병사가 있습니다\n그들을 도와주시겠어요?"
+  }, {
+    "$id" : 14,
+    "label" : "nq110601_msg0014",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어\n미코코와 브뤼네 말이지?"
+  }, {
+    "$id" : 15,
+    "label" : "nq110601_msg0015",
+    "talker" : "@Z1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "둘 중 누구를 먼저 도울지는\n여러분의 재량에 맡길 테니\n아무쪼록 잘 부탁드립니다"
+  } ]
+}

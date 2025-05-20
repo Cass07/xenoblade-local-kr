@@ -1,0 +1,79 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<317269AF>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 왔어\n자, 네가 말한 새먼의 흰 살이야"
+  }, {
+    "$id" : 2,
+    "label" : "<CC5DBDAB>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "재료는 다 모았으니까\n그레그레한테 돌아가자고"
+  }, {
+    "$id" : 3,
+    "label" : "<E6A903D3>",
+    "talker" : "iq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고마워모! 고마워모!"
+  }, {
+    "$id" : 4,
+    "label" : "<CAF44A61>",
+    "talker" : "iq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "고생했어모!\n막 잡아 싱싱한 게 맛있겠네모!"
+  }, {
+    "$id" : 5,
+    "label" : "<744F19A3>",
+    "talker" : "iq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바루바루도 버섯 다 모았어모\n이제 저녁밥은 문제없어모!"
+  }, {
+    "$id" : 6,
+    "label" : "<CE75AF05>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 그레그레한테 간다\n딴 길로 새지 말고 잘 따라와"
+  } ]
+}

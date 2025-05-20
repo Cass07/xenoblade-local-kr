@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk230702_msg0001",
+    "talker" : "ab1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "토비마루의 강함은\n처음부터 남들보다 특출났어요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk230702_msg0002",
+    "talker" : "ab1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "동기여서 지고 싶진 않았지만\n그 녀석은 절 보고 있지도 않았죠"
+  }, {
+    "$id" : 3,
+    "label" : "tlk230702_msg0003",
+    "talker" : "ab1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번 물자 보급 일도 그래요……\n저 혼자만 의식하고 있죠"
+  }, {
+    "$id" : 4,
+    "label" : "tlk230702_msg0004",
+    "talker" : "ab1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "경쟁해 봤자 아무 의미도 없는데\n지고 싶지 않다는 마음이 드는 건……\n어째서일까요……"
+  } ]
+}

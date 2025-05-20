@@ -1,0 +1,133 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<A6B6BA0A>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 한번 보긴 했는데……\n그걸 수리하려면 꽤 힘들 텐데"
+  }, {
+    "$id" : 2,
+    "label" : "<720D4F4D>",
+    "talker" : "qq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 불가능하지는 않아\n……비용을 무시했을 때 그렇다는 거지만"
+  }, {
+    "$id" : 3,
+    "label" : "<22DD53CE>",
+    "talker" : "xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 비용을 메우기 위해\n저희의 힘이 필요한 거군요"
+  }, {
+    "$id" : 4,
+    "label" : "<839EB511>",
+    "talker" : "nq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근데 매슈\n그건 시티의 문제지\n우리와는……"
+  }, {
+    "$id" : 5,
+    "label" : "<D5C860EA>",
+    "talker" : "yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하늘길을 쓸 수 있게 되면\n병참 효율이 대폭 개선될 거야"
+  }, {
+    "$id" : 6,
+    "label" : "<89761C73>",
+    "talker" : "yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 여기 있는 모두에게 이익이 있어\n안 할 이유도 없지 않을까?"
+  }, {
+    "$id" : 7,
+    "label" : "<737A5D5F>",
+    "talker" : "nq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "으, 음……\n지당한 의견이군"
+  }, {
+    "$id" : 8,
+    "label" : "<18BCA232>",
+    "talker" : "rq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "결정 났으면\n어서 준비해 보실까"
+  }, {
+    "$id" : 9,
+    "label" : "<C35557E7>",
+    "talker" : "xq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희가 할 수 있는 일이 있으면 말해 주세요\n최대한 해 볼게요"
+  }, {
+    "$id" : 10,
+    "label" : "<651D9C4E>",
+    "talker" : "yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "필요한 물자를 미리 계산해서\n빨리 조달해 두는 게 좋겠는걸"
+  }, {
+    "$id" : 11,
+    "label" : "<ED9117FB>",
+    "talker" : "nq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알았어\n네 판단에 따를게, 매슈"
+  }, {
+    "$id" : 12,
+    "label" : "<DA7A26EE>",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……정말 고마워, 다들"
+  } ]
+}

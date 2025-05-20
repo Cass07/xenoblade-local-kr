@@ -1,0 +1,520 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "cq060900_0010",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "……그게 사실이야?!"
+  }, {
+    "$id" : 2,
+    "label" : "cq060900_0020",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "곤도?!"
+  }, {
+    "$id" : 3,
+    "label" : "cq060900_0030",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뫼비우스?!"
+  }, {
+    "$id" : 4,
+    "label" : "cq060900_0035",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "어째서 시티의 위치가……"
+  }, {
+    "$id" : 5,
+    "label" : "cq060900_0040",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뭐……?!"
+  }, {
+    "$id" : 6,
+    "label" : "cq060900_0050",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "무슨 일이야?"
+  }, {
+    "$id" : 7,
+    "label" : "cq060900_0060",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……"
+  }, {
+    "$id" : 8,
+    "label" : "cq060900_0070",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "곤도!"
+  }, {
+    "$id" : 9,
+    "label" : "cq060900_0080",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "시티가 뫼비우스한테 습격당했어"
+  }, {
+    "$id" : 10,
+    "label" : "cq060900_0090",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]!"
+  }, {
+    "$id" : 11,
+    "label" : "cq060900_0100",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뫼비우스가?!"
+  }, {
+    "$id" : 12,
+    "label" : "cq060900_0105",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "사실이야?!"
+  }, {
+    "$id" : 13,
+    "label" : "cq060900_0110",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "습격한 건……"
+  }, {
+    "$id" : 14,
+    "label" : "cq060900_0120",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]……"
+  }, {
+    "$id" : 15,
+    "label" : "cq060900_0130",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "샤니아야……"
+  }, {
+    "$id" : 16,
+    "label" : "cq060900_0140",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "[ML:undisp ]뭐……!"
+  }, {
+    "$id" : 17,
+    "label" : "cq060900_0150",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "샤니아가?"
+  }, {
+    "$id" : 18,
+    "label" : "cq060900_0155",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그치만 그때 분명히……!"
+  }, {
+    "$id" : 19,
+    "label" : "cq060900_0160",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "아니, 요란도 그랬잖아"
+  }, {
+    "$id" : 20,
+    "label" : "cq060900_0165",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그런가, 그 녀석도 뫼비우스가……"
+  }, {
+    "$id" : 21,
+    "label" : "cq060900_0170",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "샤니아……"
+  }, {
+    "$id" : 22,
+    "label" : "cq060900_0180",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "세나……"
+  }, {
+    "$id" : 23,
+    "label" : "cq060900_0190",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "역시……"
+  }, {
+    "$id" : 24,
+    "label" : "cq060900_0195",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "이렇게 되는구나……"
+  }, {
+    "$id" : 25,
+    "label" : "cq060900_0200",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "난……"
+  }, {
+    "$id" : 26,
+    "label" : "cq060900_0205",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나는……"
+  }, {
+    "$id" : 27,
+    "label" : "cq060900_0210",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "세나, 전하자고 결심했지?"
+  }, {
+    "$id" : 28,
+    "label" : "cq060900_0220",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "미오……"
+  }, {
+    "$id" : 29,
+    "label" : "cq060900_0230",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우리도 도울게"
+  }, {
+    "$id" : 30,
+    "label" : "cq060900_0235",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그러니까 가자"
+  }, {
+    "$id" : 31,
+    "label" : "cq060900_0240",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "응……"
+  }, {
+    "$id" : 32,
+    "label" : "cq060900_0245",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "결심했으니까"
+  }, {
+    "$id" : 33,
+    "label" : "cq060900_0250",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "나……"
+  }, {
+    "$id" : 34,
+    "label" : "cq060900_0252",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "전해야 해"
+  }, {
+    "$id" : 35,
+    "label" : "cq060900_0254",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "반드시"
+  }, {
+    "$id" : 36,
+    "label" : "cq060900_0256",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "전해야만 해"
+  }, {
+    "$id" : 37,
+    "label" : "cq060900_0260",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "반입은 나중에 해!\n시티로 돌아간다!"
+  }, {
+    "$id" : 38,
+    "label" : "cq060900_0270",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "네!"
+  }, {
+    "$id" : 39,
+    "label" : "cq060900_0280",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "곤도, 우리도 갈게!"
+  }, {
+    "$id" : 40,
+    "label" : "cq060900_0290",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "세나, 너……"
+  }, {
+    "$id" : 41,
+    "label" : "cq060900_0300",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "뫼비우스잖아?"
+  }, {
+    "$id" : 42,
+    "label" : "cq060900_0305",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그럼 우리도 가야지!"
+  }, {
+    "$id" : 43,
+    "label" : "cq060900_0310",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "샤니아인데?"
+  }, {
+    "$id" : 44,
+    "label" : "cq060900_0315",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "할 수 있어?"
+  }, {
+    "$id" : 45,
+    "label" : "cq060900_0320",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "우리 친구도 뫼비우스였어"
+  }, {
+    "$id" : 46,
+    "label" : "cq060900_0330",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그래도 우린 극복해 왔다고"
+  }, {
+    "$id" : 47,
+    "label" : "cq060900_0340",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그런가……"
+  }, {
+    "$id" : 48,
+    "label" : "cq060900_0345",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "역시 굉장하네, 너희들"
+  }, {
+    "$id" : 49,
+    "label" : "cq060900_0350",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "딱히 너희랑 다를 거 없어"
+  }, {
+    "$id" : 50,
+    "label" : "cq060900_0360",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "다시 한번 물을게"
+  }, {
+    "$id" : 51,
+    "label" : "cq060900_0365",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "할 수 있어?"
+  }, {
+    "$id" : 52,
+    "label" : "cq060900_0370",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "응……"
+  }, {
+    "$id" : 53,
+    "label" : "cq060900_0375",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "괜찮아, 결심했으니까"
+  }, {
+    "$id" : 54,
+    "label" : "cq060900_0380",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "그럼 됐어"
+  }, {
+    "$id" : 55,
+    "label" : "cq060900_0390",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 124,
+    "name" : "서둘러!\n한시라도 빨리 가야 해"
+  } ]
+}

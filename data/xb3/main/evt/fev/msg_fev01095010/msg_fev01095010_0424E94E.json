@@ -1,0 +1,106 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "<999F6852>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "휴…… 드디어 돌아왔네"
+  }, {
+    "$id" : 2,
+    "label" : "<D07C460F>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너무 많이 걸어서\n리쿠는 힘이 없어모……"
+  }, {
+    "$id" : 3,
+    "label" : "<C715031F>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "한바탕 요란하게 싸운 것치곤\n다들 별로 다친 곳은 없어 보여서 다행이야"
+  }, {
+    "$id" : 4,
+    "label" : "<6944E041>",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐…… 상대가 우리보다 약한 콜로니였잖아"
+  }, {
+    "$id" : 5,
+    "label" : "<87736B25>",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 때문에 생명의 불시계는\n얼마 못 채웠지만 말이지……"
+  }, {
+    "$id" : 6,
+    "label" : "<6857A4D7>",
+    "talker" : "T",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러면 좀 어때~\n모두 무사한 게 더 중요하잖아"
+  }, {
+    "$id" : 7,
+    "label" : "<5F4FB698>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아, 이거로도\n당분간은 버틸 수 있을 거고……"
+  }, {
+    "$id" : 8,
+    "label" : "<2B4320F1>",
+    "talker" : "8",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노아, 이런 곳에서 그만 떠들고\n어서 목욕이나 하러 가자모"
+  }, {
+    "$id" : 9,
+    "label" : "<0CF04284>",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 그러자"
+  } ]
+}

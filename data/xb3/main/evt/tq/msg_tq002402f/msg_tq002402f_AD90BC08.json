@@ -1,0 +1,169 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tq002402_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 아이…… 대체 누구일까?\n병사라고 하기엔 뭐랄까…… 그……"
+  }, {
+    "$id" : 2,
+    "label" : "tq002402_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그렇네, 겉모습은 한 3기쯤 되나?\n전선에서 싸우기엔 아직 이른 거 같은데"
+  }, {
+    "$id" : 3,
+    "label" : "tq002402_msg0003",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단은 저 레브니스에서\n꺼내기는 했는데\n괜찮은 거야, 저 녀석?"
+  }, {
+    "$id" : 4,
+    "label" : "tq002402_msg0004",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "눈에 띄는 외상은 없지만\n의식이 돌아올 것 같지도 않아\n……뭐라고 할 수 없는 상태네"
+  }, {
+    "$id" : 5,
+    "label" : "tq002402_msg0005",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 6,
+    "label" : "tq002402_msg0006",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "세나, 저 아이는 아직 살아 있어\n분명 괜찮을 거야"
+  }, {
+    "$id" : 7,
+    "label" : "tq002402_msg0007",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미오…… 하지만……"
+  }, {
+    "$id" : 8,
+    "label" : "tq002402_msg0008",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그나저나 빨리 의사한테\n데려가는 게 낫지 않겠어?"
+  }, {
+    "$id" : 9,
+    "label" : "tq002402_msg0009",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 녀석들은 콜로니의 병사를 습격했어\n콜로니로 이송하는 건 위험해"
+  }, {
+    "$id" : 10,
+    "label" : "tq002402_msg0010",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 시티는 어떨까?\n거기라면 선생님도 있잖아"
+  }, {
+    "$id" : 11,
+    "label" : "tq002402_msg0011",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……확실히 다른 방도가 없네"
+  }, {
+    "$id" : 12,
+    "label" : "tq002402_msg0012",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저 레브니스는 어쩔까?"
+  }, {
+    "$id" : 13,
+    "label" : "tq002402_msg0013",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "일단 저대로 두자\n저 애를 이송하는 게 우선이야"
+  }, {
+    "$id" : 14,
+    "label" : "tq002402_msg0014",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그, 그럼 내가 옮길게!"
+  }, {
+    "$id" : 15,
+    "label" : "tq002402_msg0015",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알겠어\n저 아이를 부탁해, 세나"
+  }, {
+    "$id" : 16,
+    "label" : "tq002402_msg0016",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 나한테 맡겨!"
+  } ]
+}

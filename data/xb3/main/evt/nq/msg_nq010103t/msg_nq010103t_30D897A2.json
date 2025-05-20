@@ -1,0 +1,97 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq010103_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아이리스!\n울은……\n못 찾은 거 같네"
+  }, {
+    "$id" : 2,
+    "label" : "nq010103_msg0201",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……너희들도 찾으러 왔구나"
+  }, {
+    "$id" : 3,
+    "label" : "nq010103_msg0301",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응, 캐리가\n많이 걱정하던데\n어떡하지……"
+  }, {
+    "$id" : 4,
+    "label" : "nq010103_msg0401",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 애는 곧잘\n아무도 죽지 않았으면\n좋겠다고 말하곤 했어"
+  }, {
+    "$id" : 5,
+    "label" : "nq010103_msg0402",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "포춘 클로버를 찾고 있는 것뿐이라면\n다행이겠지만……"
+  }, {
+    "$id" : 6,
+    "label" : "nq010103_msg0101",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나 말이야, 울이 정말로\n동료들을 환송하고 있는지\n확인하려고 미행했었어"
+  }, {
+    "$id" : 7,
+    "label" : "nq010103_msg0102",
+    "talker" : "aX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런데 설마\n환송을 못 하게 됐을 줄\n누가 상상이라도 했겠어……"
+  }, {
+    "$id" : 8,
+    "label" : "nq010103_msg0103",
+    "talker" : "1",
+    "talkattr" : 33026,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "정말로 환송을\n못 하게 된 걸까……?"
+  } ]
+}

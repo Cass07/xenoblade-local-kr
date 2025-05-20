@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk310905_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런저런 일들이 있었는데……\n이타리는 괜찮아?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk310905_msg0002",
+    "talker" : "vc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮아…… 하지만 지금도 이상한 기분이\n이렇게…… 가슴에 맴돌아"
+  }, {
+    "$id" : 3,
+    "label" : "tlk310905_msg0003",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이상한 기분?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk310905_msg0004",
+    "talker" : "vc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "스스로 판단하고 행동한 그 결과\n이렇게 람다에 변화가 일어났어"
+  }, {
+    "$id" : 5,
+    "label" : "tlk310905_msg0005",
+    "talker" : "vc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지시를 기다리지 않고도\n무언가를 바꿀 수 있다는 사실에\n이상하게도 기쁜 마음이 들어"
+  } ]
+}

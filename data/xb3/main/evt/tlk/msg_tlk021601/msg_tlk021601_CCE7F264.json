@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk021601_msg0001",
+    "talker" : "mV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자, 그럼 지금부터 어떡할까\n일단 한판 붙을까?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk021601_msg0002",
+    "talker" : "mV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 방금 한 말은 농담이고\n앞으로 어떻게 할지\n의논하는 게 가장 좋겠어"
+  }, {
+    "$id" : 3,
+    "label" : "tlk021601_msg0003",
+    "talker" : "mV",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 11을 뒤집어 놓고\n그냥 방치할 수도 없으니까…… 안 그래?"
+  } ]
+}

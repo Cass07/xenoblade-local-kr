@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk711601_msg0001",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "웰웰 숍은 선조 대대로 물려받은\n유서 깊은 잡화점이에요모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk711601_msg0002",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선조는 세계를 여행하는 카라반이었는데\n어느 날 이곳에 정착하게 되었어요모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk711601_msg0003",
+    "talker" : "al1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 후로 노폰제 잡화나\n시티 사람들이 즐길 책과 미술품 등\n다양한 상품을 취급하고 있어요모"
+  } ]
+}

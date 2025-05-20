@@ -1,0 +1,322 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq995300_msg0001",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신은 무슨 짓을 해서 이곳에 갇힌 거야?"
+  }, {
+    "$id" : 2,
+    "label" : "nq995300_msg0002",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 뭐, 이것저것 많지"
+  }, {
+    "$id" : 3,
+    "label" : "nq995300_msg0003",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "감찰국 소속이었는데\n어떤 정보를 말소했거든……\n그래도 그게 잘못이라고 생각하진 않아"
+  }, {
+    "$id" : 4,
+    "label" : "nq995300_msg0004",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기에 들어온 뒤로 토마나\n슈리를 만나서 즐겁게 지내긴 했지만"
+  }, {
+    "$id" : 5,
+    "label" : "nq995300_msg0005",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희를 쓰러뜨리고\n여기서 나가야겠어"
+  }, {
+    "$id" : 6,
+    "label" : "nq995300_msg0101",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "너희를 쓰러뜨리고\n여기서 나가야겠어"
+  }, {
+    "$id" : 7,
+    "label" : "nq995300_msg0201",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 싸울 생각이 들었어?"
+  }, {
+    "$id" : 8,
+    "label" : "nq995300_msg0202",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 물어보고 싶은 게 있어서……"
+  }, {
+    "$id" : 9,
+    "label" : "nq995300_msg0203",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "당신이 케베스 측 정보를 쥐고 있었으면서\n아그누스에 공유하지 않았던 이유는 뭐야?"
+  }, {
+    "$id" : 10,
+    "label" : "nq995300_msg0204",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이것 참……\n그걸 나한테 직접 물어?"
+  }, {
+    "$id" : 11,
+    "label" : "nq995300_msg0205",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스 측 정보를 말소하다니\n네게도 좋을 게 없지 않아?"
+  }, {
+    "$id" : 12,
+    "label" : "nq995300_msg0206",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐 그래, 심심풀이라 치고 말해 주지"
+  }, {
+    "$id" : 13,
+    "label" : "nq995300_msg0207",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 앞으로 들어온 케베스 측 정보를\n자세히 조사해 보니……"
+  }, {
+    "$id" : 14,
+    "label" : "nq995300_msg0208",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리 집정관이 흘린\n거짓 정보라는 걸 눈치챘거든"
+  }, {
+    "$id" : 15,
+    "label" : "nq995300_msg0209",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐?"
+  }, {
+    "$id" : 16,
+    "label" : "nq995300_msg0210",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "녀석은 우리가 점점 강해지는 게\n마음에 들지 않았나 봐"
+  }, {
+    "$id" : 17,
+    "label" : "nq995300_msg0211",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 집정관은 우릴 말살하려 했어\n무슨 생각을 했는지 그것까지는 모르겠지만"
+  }, {
+    "$id" : 18,
+    "label" : "nq995300_msg0212",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스가 생명의 불을 모으게 하려면\n우릴 속여 먹는 게 편했겠지……"
+  }, {
+    "$id" : 19,
+    "label" : "nq995300_msg0213",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자신이 직접 자기 슬하에 둔 주제에\n그딴 짓을 하다니 정신 나간 녀석이잖아!"
+  }, {
+    "$id" : 20,
+    "label" : "nq995300_msg0214",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 난 적들의 정보를 내 손으로 없애고\n피해를 최소한으로 줄이기 위해서\n동료들을 재빨리 후퇴시켰어……"
+  }, {
+    "$id" : 21,
+    "label" : "nq995300_msg0215",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그걸 누구한테 말하진 않았어?"
+  }, {
+    "$id" : 22,
+    "label" : "nq995300_msg0216",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이런 걸 어떻게 말해\n그럼 그 동료는 집정관한테 죽을 텐데"
+  }, {
+    "$id" : 23,
+    "label" : "nq995300_msg0217",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 이제 녀석의 감시는 없어졌지\n이제라도 말하니 후련하네"
+  }, {
+    "$id" : 24,
+    "label" : "nq995300_msg0218",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 난 딱히 후회하지도 않아\n여기서 만난 토마나 슈리는\n좋은 녀석들이니까!"
+  }, {
+    "$id" : 25,
+    "label" : "nq995300_msg0219",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "지금이라면…… 혼자서\n떠안지 않아도 괜찮을 거야"
+  }, {
+    "$id" : 26,
+    "label" : "nq995300_msg0220",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아…… 집정관 눈치를\n볼 필요도 없어졌잖아"
+  }, {
+    "$id" : 27,
+    "label" : "nq995300_msg0221",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗…… 만약 나가게 된다면\n상의해 보는 것도 나쁘진 않겠네"
+  }, {
+    "$id" : 28,
+    "label" : "nq995300_msg0222",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "츠유에게 조도의 사정을 전할까?"
+  }, {
+    "$id" : 29,
+    "label" : "nq995300_msg0300",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "전한다"
+  }, {
+    "$id" : 30,
+    "label" : "nq995300_msg0301",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내무국의 츠유에게 사정을 설명하고 올게\n조금만 기다려 줘"
+  }, {
+    "$id" : 31,
+    "label" : "nq995300_msg0400",
+    "talker" : "",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 19,
+    "name" : "전하지 않는다"
+  }, {
+    "$id" : 32,
+    "label" : "nq995300_msg0501",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐야? 아직도 뭐가 남았어?"
+  }, {
+    "$id" : 33,
+    "label" : "nq995300_msg0601",
+    "talker" : "yj1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나갈 수 있는 건 좋은데\n다른 두 명이랑 싸울 거라면 나도 싸울 거야"
+  } ]
+}

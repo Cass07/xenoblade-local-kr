@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk520604_msg0001",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "말도 안 돼…… 그 이치카가……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk520604_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……동료가 배신한 걸 알면 괴롭지\n나도 이해가 가……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk520604_msg0003",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……하지만…… 가장 괴로운 건\n마시로와 타로일 거야"
+  }, {
+    "$id" : 4,
+    "label" : "tlk520604_msg0004",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 비밀을 품은 채 우리를 이끌면서\n도대체 어떤 마음이 들었을까?\n자신을 수도 없이 책망했을 거야!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk520604_msg0005",
+    "talker" : "Wg1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나는 이치카보다도 나 자신이 용서가 안 돼\n난 내 의지로 소중한 동료에게\n상처를 줘 버렸어……"
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk210601_msg0001",
+    "talker" : "wZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조각 야채 바스틸은 먹어 봤나요모~?\n\"더트\" 랭크의 식재료를 재치 있게 활용한\n멋진 요리예요~ 추천해요모~"
+  }, {
+    "$id" : 2,
+    "label" : "tlk210601_msg0002",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오, 그렇구나\n확실히 맛있었어. 그치, 미오?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk210601_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나중에 마나나한테도 알려 줘야겠어\n분명 요리하는 데 참고가 될 거야"
+  } ]
+}

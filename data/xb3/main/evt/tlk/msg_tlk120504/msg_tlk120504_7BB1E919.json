@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk120504_msg0001",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "키리에한테 들었어\n원래는 네가 대장이 될 예정이었다던데\n왜 거절한 거야?"
+  }, {
+    "$id" : 2,
+    "label" : "tlk120504_msg0002",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이유는 지극히 간단합니다, 란츠 씨\n저는 키리에가 어떻게 성장할지\n궁금하거든요"
+  }, {
+    "$id" : 3,
+    "label" : "tlk120504_msg0003",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "키리에 같은 불확실한 요소의 집합체가\n앞으로 어떤 변화를 거치는지……\n그걸 철저히 관측하고 싶었습니다"
+  }, {
+    "$id" : 4,
+    "label" : "tlk120504_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나\n이유가 참 카무키답네……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk120504_msg0005",
+    "talker" : "aY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "제 연구를 이해해 준 것도\n키리에뿐이었으니까요\n그녀는 유망한 대장이 될 겁니다"
+  } ]
+}

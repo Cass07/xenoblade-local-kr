@@ -1,0 +1,160 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq110205_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맥시, 임무를 완수했어\n몬스터를 전부 쓰러뜨리고 왔어"
+  }, {
+    "$id" : 2,
+    "label" : "nq110205_msg0002",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……! 정말인가?!"
+  }, {
+    "$id" : 3,
+    "label" : "nq110205_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "봐, 몬스터한테서 얻은 거야\n대단하지?"
+  }, {
+    "$id" : 4,
+    "label" : "nq110205_msg0004",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이건……! 그래\n정말 훌륭히 완수했군"
+  }, {
+    "$id" : 5,
+    "label" : "nq110205_msg0005",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이걸로 몬스터한테 받는 피해도\n줄어들면 좋을 텐데……"
+  }, {
+    "$id" : 6,
+    "label" : "nq110205_msg0006",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "여기서부터는 이제 우리가 잘해 봐야지\n너희의 노력을 절대 헛수고로 만들진 않으마"
+  }, {
+    "$id" : 7,
+    "label" : "nq110205_msg0007",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고…… 염치없지만\n하나 더 부탁해도 괜찮겠나?"
+  }, {
+    "$id" : 8,
+    "label" : "nq110205_msg0008",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "좋아, 이렇게 된 거\n뭐든 말해 보라고"
+  }, {
+    "$id" : 9,
+    "label" : "nq110205_msg0009",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "몬스터에게서 얻은 전리품을\n자재 조달반에 전달해 줬으면 좋겠는데"
+  }, {
+    "$id" : 10,
+    "label" : "nq110205_msg0101",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "솔론한테 주면 되지?\n알겠어"
+  }, {
+    "$id" : 11,
+    "label" : "nq110205_msg0201",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자재 조달반?"
+  }, {
+    "$id" : 12,
+    "label" : "nq110205_msg0202",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니 물자 전반을 관리하는 부서로\n회수한 몬스터 소재는\n그쪽으로 넘기기로 되어 있지"
+  }, {
+    "$id" : 13,
+    "label" : "nq110205_msg0203",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "솔론이라는 병사가 반장인데\n내가 부탁했다고 하면\n그쪽도 사정을 이해할 거다"
+  }, {
+    "$id" : 14,
+    "label" : "nq110205_msg0204",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "솔론이구나, 알겠어\n전해 둘게"
+  }, {
+    "$id" : 15,
+    "label" : "nq110205_msg0301",
+    "talker" : "sZ1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……다시 한번 감사를 표하지\n도와줘서 정말 고맙다……!"
+  } ]
+}

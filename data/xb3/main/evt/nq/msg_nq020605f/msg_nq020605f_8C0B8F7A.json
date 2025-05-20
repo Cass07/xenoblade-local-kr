@@ -1,0 +1,295 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq020605_msg0001",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……괜찮아, 후츠?"
+  }, {
+    "$id" : 2,
+    "label" : "nq020605_msg0002",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "괜찮고 말고가 어딨어\n날 방해하지 말라고"
+  }, {
+    "$id" : 3,
+    "label" : "nq020605_msg0003",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐……! 방해라니……"
+  }, {
+    "$id" : 4,
+    "label" : "nq020605_msg0004",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아무리 후츠가 강하다 해도\n그 상황에선 볼프의 먹잇감이\n됐을지도 모르잖아?!"
+  }, {
+    "$id" : 5,
+    "label" : "nq020605_msg0005",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 실수 안 하거든\n내가 키리에 넌 줄 알아?"
+  }, {
+    "$id" : 6,
+    "label" : "nq020605_msg0006",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "자신의 힘을\n너무 믿지 말라고 늘……"
+  }, {
+    "$id" : 7,
+    "label" : "nq020605_msg0007",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "예, 예\n\"시도 군무장님이 말했어\" 이거지?\n그 말 이제 듣기도 싫어"
+  }, {
+    "$id" : 8,
+    "label" : "nq020605_msg0008",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힘이 없으면 아무것도 못 해\n그럼 자신의 힘을 믿을 수밖에 없잖아"
+  }, {
+    "$id" : 9,
+    "label" : "nq020605_msg0009",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 말이 아니라……!"
+  }, {
+    "$id" : 10,
+    "label" : "nq020605_msg0010",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "시도 군무장님 말씀이면 다야?\n나도 내 나름대로 생각이 있다고"
+  }, {
+    "$id" : 11,
+    "label" : "nq020605_msg0011",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐든 명령한 대로 따르는 너랑은 달라\n네가 그러고도 대장이냐?"
+  }, {
+    "$id" : 12,
+    "label" : "nq020605_msg0012",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……!"
+  }, {
+    "$id" : 13,
+    "label" : "nq020605_msg0013",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "힘이 없으면 살아남을 수 없어……\n그런 점에서 시도 군무장님은 뭘 모르시는 거지"
+  }, {
+    "$id" : 14,
+    "label" : "nq020605_msg0014",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니까 나는 더 강해질 거야\n그걸 위해서 앞으로도 힘을 추구할 거고"
+  }, {
+    "$id" : 15,
+    "label" : "nq020605_msg0015",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……알아들었냐?"
+  }, {
+    "$id" : 16,
+    "label" : "nq020605_msg0016",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 네 대답 따윈 필요 없어"
+  }, {
+    "$id" : 17,
+    "label" : "nq020605_msg0017",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 18,
+    "label" : "nq020605_msg0018",
+    "talker" : "XY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 간다"
+  }, {
+    "$id" : 19,
+    "label" : "nq020605_msg0019",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하여간…… 후츠는 여전히 입이 험하구나"
+  }, {
+    "$id" : 20,
+    "label" : "nq020605_msg0020",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미오 선배는……"
+  }, {
+    "$id" : 21,
+    "label" : "nq020605_msg0021",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응?"
+  }, {
+    "$id" : 22,
+    "label" : "nq020605_msg0022",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미오 선배는 어떤 사람이\n대장을 해야 한다고 생각하세요?"
+  }, {
+    "$id" : 23,
+    "label" : "nq020605_msg0023",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "역시 후츠처럼 강하고\n제 갈 길을 가는 사람이\n적임자인 걸까요……?"
+  }, {
+    "$id" : 24,
+    "label" : "nq020605_msg0024",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……물론 모두를 이끌기 위해선\n그래야 할지도 몰라"
+  }, {
+    "$id" : 25,
+    "label" : "nq020605_msg0025",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 그게 전부인 건 아니야"
+  }, {
+    "$id" : 26,
+    "label" : "nq020605_msg0026",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사람마다 생각하는 이상적인 대장이 다를 거고\n노력의 형태도 다양하다고 보거든"
+  }, {
+    "$id" : 27,
+    "label" : "nq020605_msg0027",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……조금 전의 후츠처럼 말이야"
+  }, {
+    "$id" : 28,
+    "label" : "nq020605_msg0028",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미오 선배……"
+  }, {
+    "$id" : 29,
+    "label" : "nq020605_msg0029",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……키리에\n목적지까지 앞으로 얼마나 남았어?"
+  }, {
+    "$id" : 30,
+    "label" : "nq020605_msg0030",
+    "talker" : "WY1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "앗…… 네! 거의 다 왔어요!"
+  } ]
+}

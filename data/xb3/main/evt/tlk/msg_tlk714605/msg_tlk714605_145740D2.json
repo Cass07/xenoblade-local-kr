@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk714605_msg0001",
+    "talker" : "Xm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "미야비의 요리가\n참 맛있더구나"
+  }, {
+    "$id" : 2,
+    "label" : "tlk714605_msg0002",
+    "talker" : "Xm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "가끔 우리 집에서 같이 요리한 적이 있거든\n처음엔 식칼 쥐는 것도 아슬아슬했는데……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk714605_msg0003",
+    "talker" : "Xm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그래서 이번에는 마치 내 딸이\n좋은 성적을 낸 듯한 기분이 들어서\n나도 모르게 울컥했지 뭐야"
+  }, {
+    "$id" : 4,
+    "label" : "tlk714605_msg0004",
+    "talker" : "Xm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 얘가 나중에 실력이 더 늘면\n하코 씨를 위해 만들어 드릴게요~\n그러는 거 있지 뭐니! 후후후"
+  }, {
+    "$id" : 5,
+    "label" : "tlk714605_msg0005",
+    "talker" : "Xm1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "요즘 난 그 기대감에 산단다\n과연 어떤 요리를 대접해 주려나?"
+  } ]
+}

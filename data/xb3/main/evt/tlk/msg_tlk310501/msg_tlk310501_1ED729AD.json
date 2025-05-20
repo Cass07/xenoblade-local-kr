@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk310501_msg0001",
+    "talker" : "rc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "콜로니의 거점이 이 부근이라서\n천만다행이야"
+  }, {
+    "$id" : 2,
+    "label" : "tlk310501_msg0002",
+    "talker" : "5",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무슨 의미야?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk310501_msg0003",
+    "talker" : "rc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "방어하기에 좋은 장소이기도 하고\n애초에 갱도랑 가까우니까 말이지"
+  }, {
+    "$id" : 4,
+    "label" : "tlk310501_msg0004",
+    "talker" : "rc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "철거신은 쓸 수 없지만\n어떻게든 될 거 같아"
+  } ]
+}

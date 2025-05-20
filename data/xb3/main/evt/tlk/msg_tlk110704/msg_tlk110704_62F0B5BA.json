@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk110704_msg0001",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그때 밖에서 너희와 만났을 때 정말 놀랐어"
+  }, {
+    "$id" : 2,
+    "label" : "tlk110704_msg0002",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "평소에도 물자를 그런 식으로 모으고 다녔어?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk110704_msg0003",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "맞아\n꼼꼼히 조사해 보니까\n의외로 남은 게 많더라고"
+  }, {
+    "$id" : 4,
+    "label" : "tlk110704_msg0004",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "싸워서 얻을 생각만 하다 보니까\n그런 발상은 할 줄도 몰랐던 거야"
+  }, {
+    "$id" : 5,
+    "label" : "tlk110704_msg0005",
+    "talker" : "dX1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "집중해서 살펴보면\n생각지도 못한 물건을 얻을 수 있어"
+  } ]
+}

@@ -1,0 +1,232 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq020300_msg0001",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야, 노아…… 교육 지명 들어왔어?"
+  }, {
+    "$id" : 2,
+    "label" : "nq020300_msg0002",
+    "talker" : "1",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 전혀……\n역시 우리는 경계 대상인가 봐"
+  }, {
+    "$id" : 3,
+    "label" : "nq020300_msg0003",
+    "talker" : "5",
+    "talkattr" : 33120,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나도 예상을 못 한 건 아닌데\n솔직히 맥 빠지네……"
+  }, {
+    "$id" : 4,
+    "label" : "nq020300_msg0004",
+    "talker" : "4",
+    "talkattr" : 33064,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 5,
+    "label" : "nq020300_msg0005",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "노아, 잠깐 괜찮을까?"
+  }, {
+    "$id" : 6,
+    "label" : "nq020300_msg0006",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "응? 어어…… 무슨 일인데?"
+  }, {
+    "$id" : 7,
+    "label" : "nq020300_msg0007",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "나한테도 교육 의뢰가 들어왔는데\n나 혼자서는 약간 불안해서 말이야"
+  }, {
+    "$id" : 8,
+    "label" : "nq020300_msg0008",
+    "talker" : "4",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "네가 괜찮다면\n조금 도와줬으면 하는데……"
+  }, {
+    "$id" : 9,
+    "label" : "nq020300_msg0009",
+    "talker" : "1",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "물론이지\n내가 할 수 있는 일이라면 기꺼이 도울게"
+  }, {
+    "$id" : 10,
+    "label" : "nq020300_msg0010",
+    "talker" : "5",
+    "talkattr" : 33048,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇다면\n나도 거들게, 타이온"
+  }, {
+    "$id" : 11,
+    "label" : "nq020300_msg0011",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아니, 노아만 있으면 돼"
+  }, {
+    "$id" : 12,
+    "label" : "nq020300_msg0012",
+    "talker" : "5",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "왜?\n사람은 많을수록 좋지 않아?"
+  }, {
+    "$id" : 13,
+    "label" : "nq020300_msg0013",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번 교육은 이론이야\n그러니까…… 무슨 말인지 알지?"
+  }, {
+    "$id" : 14,
+    "label" : "nq020300_msg0014",
+    "talker" : "1",
+    "talkattr" : 33200,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그렇구나……"
+  }, {
+    "$id" : 15,
+    "label" : "nq020300_msg0015",
+    "talker" : "3",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1074,
+    "style" : 126,
+    "name" : "아하……"
+  }, {
+    "$id" : 16,
+    "label" : "nq020300_msg0016",
+    "talker" : "5",
+    "talkattr" : 33073,
+    "talkattr2" : 805322881,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "야! 뭘 납득하고 앉았어!\n내가 바보라는 거야 뭐야?!"
+  }, {
+    "$id" : 17,
+    "label" : "nq020300_msg0017",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "바보라고 말한 적은 없는데……\n그렇게 참가하고 싶다면 너도 낄래?"
+  }, {
+    "$id" : 18,
+    "label" : "nq020300_msg0018",
+    "talker" : "5",
+    "talkattr" : 33064,
+    "talkattr2" : 536887425,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "큭……"
+  }, {
+    "$id" : 19,
+    "label" : "nq020300_msg0019",
+    "talker" : "5",
+    "talkattr" : 33176,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 아니지? 내가 있으면\n노아가 활약할 순간이 없어질지도 모른다고"
+  }, {
+    "$id" : 20,
+    "label" : "nq020300_msg0020",
+    "talker" : "5",
+    "talkattr" : 33152,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이번에는 내가 빠져 줄게\n잘해 보라고, 노아"
+  }, {
+    "$id" : 21,
+    "label" : "nq020300_msg0021",
+    "talker" : "1",
+    "talkattr" : 33144,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아, 응……"
+  }, {
+    "$id" : 22,
+    "label" : "nq020300_msg0022",
+    "talker" : "4",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……준비 끝나면\n콜로니 감마 집회장에 집합해 줘, 알겠지?"
+  }, {
+    "$id" : 23,
+    "label" : "nq020300_msg0023",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "알았어\n잘 부탁해, 타이온"
+  } ]
+}

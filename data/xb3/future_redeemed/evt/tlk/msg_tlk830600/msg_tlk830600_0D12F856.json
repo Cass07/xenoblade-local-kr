@@ -1,0 +1,88 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk830600_msg0001",
+    "talker" : "kq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "린카네 아저씨는\n참말로 멋진 사람이래이"
+  }, {
+    "$id" : 2,
+    "label" : "tlk830600_msg0002",
+    "talker" : "kq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "젊었을 적에 린카네 아주머니하고\n같이 대모험했던 이야기를\n예전엔 자주 들었다 아이가"
+  }, {
+    "$id" : 3,
+    "label" : "tlk830600_msg0003",
+    "talker" : "kq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "분명 그때부터일 기다\n모험이니 보물이니\n미지의 무언가에 끌리게 된 게"
+  }, {
+    "$id" : 4,
+    "label" : "tlk830600_msg0004",
+    "talker" : "f1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어떤 심정인지는 알겠지만\n그래도……"
+  }, {
+    "$id" : 5,
+    "label" : "tlk830600_msg0005",
+    "talker" : "kq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아~ 안대도 글쎄\n지금은 그카고 있을 때가\n아니란 말이제?"
+  }, {
+    "$id" : 6,
+    "label" : "tlk830600_msg0006",
+    "talker" : "kq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "근데 죽기 전에 한 번쯤은\n꿈을 쫓아 보고 싶다 아이가\n내는 이것맨큼은 양보 몬 한데이"
+  }, {
+    "$id" : 7,
+    "label" : "tlk830600_msg0007",
+    "talker" : "kq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……암튼 그런 기다\n미리 결의 표명한 기니까 알아 두래이!"
+  } ]
+}

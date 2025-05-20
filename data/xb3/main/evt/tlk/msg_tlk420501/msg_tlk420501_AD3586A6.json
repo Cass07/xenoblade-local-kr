@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk420501_msg0001",
+    "talker" : "we1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "케베스도 아그누스도\n모두 생명의 불시계를 잃었어……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk420501_msg0002",
+    "talker" : "we1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그럼 다른 콜로니에 남은\n생명의 불시계마저 모두 사라지면\n전쟁도 끝이 나겠지?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk420501_msg0003",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스와 케베스 간의 분쟁은\n사라질지도 모르지……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk420501_msg0004",
+    "talker" : "2",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 뫼비우스를 쓰러뜨리지 못하면\n전쟁은 끝나지 않아……"
+  } ]
+}

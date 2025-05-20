@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk231504_msg0001",
+    "talker" : "ib1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그 콜로니 30와 기술을 교류하다니……\n참 묘한 기분이 드네요"
+  }, {
+    "$id" : 2,
+    "label" : "tlk231504_msg0002",
+    "talker" : "ib1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "저희 생각 이상으로\n거대한 변화의 파도가\n다가오고 있는 걸지도 모르겠어요……"
+  }, {
+    "$id" : 3,
+    "label" : "tlk231504_msg0003",
+    "talker" : "ib1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……이건 사실 제가 아니라\n미카게 대장님의 평가랍니다\n어쩐지 무척 기뻐 보이셨는데……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk231504_msg0004",
+    "talker" : "ib1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "살아 있어서 다행이라고 하시더군요\n저도 그런 식으로 생각할 수 있는 삶을\n살아가고 싶을 따름이에요"
+  } ]
+}

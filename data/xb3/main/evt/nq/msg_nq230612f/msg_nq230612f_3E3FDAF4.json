@@ -1,0 +1,367 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "nq230612_msg0001",
+    "talker" : "1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이미 싸워서 알고는 있었지만……\n아셰라는 역시 강하네"
+  }, {
+    "$id" : 2,
+    "label" : "nq230612_msg0002",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 3,
+    "label" : "nq230612_msg0003",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 4,
+    "label" : "nq230612_msg0004",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……?"
+  }, {
+    "$id" : 5,
+    "label" : "nq230612_msg0005",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……블레이드를 거둔다는 건\n항복한다는 의사로 받아들여도 될까요?"
+  }, {
+    "$id" : 6,
+    "label" : "nq230612_msg0006",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "참 나…… 무슨 소리야……\n사실 너도 알잖아?"
+  }, {
+    "$id" : 7,
+    "label" : "nq230612_msg0007",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이대로 계속했다간\n누군가 유해가 되어 나뒹굴 때까지\n싸워댈 거야"
+  }, {
+    "$id" : 8,
+    "label" : "nq230612_msg0008",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……의외군요, 처절한 사투야말로\n당신이 바라던 바 아닙니까?"
+  }, {
+    "$id" : 9,
+    "label" : "nq230612_msg0009",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내 목숨이 나만의 것은 아니거든\n죽을 때를 신중하게 선택해야한다 이 말이야"
+  }, {
+    "$id" : 10,
+    "label" : "nq230612_msg0010",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 11,
+    "label" : "nq230612_msg0011",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 그래\n내가 항복한 거로 치자\n대신 한 가지만 알려 줘"
+  }, {
+    "$id" : 12,
+    "label" : "nq230612_msg0012",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……일단 들어 보죠"
+  }, {
+    "$id" : 13,
+    "label" : "nq230612_msg0013",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩌면 내가 잘못 기억하는 걸지도\n모르겠지만……"
+  }, {
+    "$id" : 14,
+    "label" : "nq230612_msg0014",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "이렇게 군무장 나리와 붙는 건\n이번이 처음이 아닌 것 같은데……\n어떻게 생각해?"
+  }, {
+    "$id" : 15,
+    "label" : "nq230612_msg0015",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 16,
+    "label" : "nq230612_msg0016",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……아뇨, 당신 말씀대로\n기억에 착오가 있었나 봅니다"
+  }, {
+    "$id" : 17,
+    "label" : "nq230612_msg0017",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "적어도\n제가 당신을 상대한 건\n이번이 처음입니다"
+  }, {
+    "$id" : 18,
+    "label" : "nq230612_msg0018",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그런가\n막상 듣고 보니 그런 것 같네"
+  }, {
+    "$id" : 19,
+    "label" : "nq230612_msg0019",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "내가 얼핏 기억하는 누구랑\n닮았다는 느낌이 들었는데……\n하긴 이름이 다르니 다른 사람이겠구나"
+  }, {
+    "$id" : 20,
+    "label" : "nq230612_msg0020",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 21,
+    "label" : "nq230612_msg0021",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐, 자잘한 건 됐고\n지금은 솔직한 마음으로 제군들의\n견줄 바 없는 건투를 칭송할게"
+  }, {
+    "$id" : 22,
+    "label" : "nq230612_msg0022",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "감사합니다. 저도 자신을\n단련하는 좋은 기회가 되었습니다"
+  }, {
+    "$id" : 23,
+    "label" : "nq230612_msg0023",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……참 어설프게도 사는군"
+  }, {
+    "$id" : 24,
+    "label" : "nq230612_msg0024",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그건 피차일반입니다"
+  }, {
+    "$id" : 25,
+    "label" : "nq230612_msg0025",
+    "talker" : "M",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "훗……\n듣고 보니 그러네"
+  }, {
+    "$id" : 26,
+    "label" : "nq230612_msg0026",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하아~ 이걸로 정말 끝이지?\n이제 지긋지긋하다고……"
+  }, {
+    "$id" : 27,
+    "label" : "nq230612_msg0027",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "뭐랄까 그……\n귀찮게 해서 미안해, 시도"
+  }, {
+    "$id" : 28,
+    "label" : "nq230612_msg0028",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그런 말씀 하지 않으셔도 됩니다\n덕분에 유익한 시간을 보냈어요"
+  }, {
+    "$id" : 29,
+    "label" : "nq230612_msg0029",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "아그누스에서도 악명 높은……\n아, 실례합니다"
+  }, {
+    "$id" : 30,
+    "label" : "nq230612_msg0030",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "용맹하기로 유명한 콜로니 11과의 모의전은\n그리 쉽게 경험할 수 없으니까요"
+  }, {
+    "$id" : 31,
+    "label" : "nq230612_msg0031",
+    "talker" : "jn1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……그건 이쪽도 마찬가지다\n아그누스의 객장"
+  }, {
+    "$id" : 32,
+    "label" : "nq230612_msg0032",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "윽, 너희들……!"
+  }, {
+    "$id" : 33,
+    "label" : "nq230612_msg0033",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "조금 전의 아셰라와의 사투는……\n실로 훌륭한 \"싸움\"이었다고 칭찬해 주마"
+  }, {
+    "$id" : 34,
+    "label" : "nq230612_msg0034",
+    "talker" : "fe1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그러니 더욱\n이대로 돌아가게 둘 수는 없지!\n이 초렌과 또 사투를 벌일 때까지는 말이다!"
+  }, {
+    "$id" : 35,
+    "label" : "nq230612_msg0035",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어엉~~?!\n뭘 멋대로 지껄이고 앉았어?!\n아, 안 해! 안 한다고!"
+  }, {
+    "$id" : 36,
+    "label" : "nq230612_msg0036",
+    "talker" : "ge1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "사냥감을 앞에 두고\n물러서는 사냥꾼이 있다고 생각하나?"
+  }, {
+    "$id" : 37,
+    "label" : "nq230612_msg0037",
+    "talker" : "he1",
+    "talkattr" : 33024,
+    "talkattr2" : 268451969,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "……"
+  }, {
+    "$id" : 38,
+    "label" : "nq230612_msg0038",
+    "talker" : "J",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "흠, 아무래도 여러분의 혼에\n무의식적으로 불을 지핀 것 같군요\n이거 참 곤란하게 됐습니다"
+  } ]
+}

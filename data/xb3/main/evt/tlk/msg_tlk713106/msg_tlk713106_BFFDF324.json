@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk713106_msg0001",
+    "talker" : "pl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "오오……\n내가 진짜 여왕님을 뵐 줄이야……!"
+  }, {
+    "$id" : 2,
+    "label" : "tlk713106_msg0002",
+    "talker" : "pl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어서 빨리 명각비로 가야겠구나!\n누가 먼저 선수 칠라!"
+  }, {
+    "$id" : 3,
+    "label" : "tlk713106_msg0003",
+    "talker" : "6",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "선수를 치다니……\n무슨 일 있나요?"
+  }, {
+    "$id" : 4,
+    "label" : "tlk713106_msg0004",
+    "talker" : "pl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "호호, 선조님께 보고드려야지!"
+  }, {
+    "$id" : 5,
+    "label" : "tlk713106_msg0005",
+    "talker" : "pl1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "우리가 오랜 세월을 버티면서……\n지금까지 해 온 일들이\n드디어 결실을 보였다고 알려야지 않겠니!"
+  } ]
+}

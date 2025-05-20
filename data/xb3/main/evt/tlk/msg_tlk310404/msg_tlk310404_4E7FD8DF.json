@@ -1,0 +1,70 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk310404_msg0001",
+    "talker" : "qc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "군무장님께서도 휴가 다녀오셨다고\n들었는데……"
+  }, {
+    "$id" : 2,
+    "label" : "tlk310404_msg0002",
+    "talker" : "qc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "돌아오시자마자 서류 작업이 밀린 걸 보시고\n무척 피곤한 얼굴을 지으시더라"
+  }, {
+    "$id" : 3,
+    "label" : "tlk310404_msg0003",
+    "talker" : "3",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "무얼 위한 휴가였던 건지……"
+  }, {
+    "$id" : 4,
+    "label" : "tlk310404_msg0004",
+    "talker" : "qc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "하지만 보람은 있으셨나 봐\n온천이라는 새로운 목표가\n생기셨다고 말씀하셨어"
+  }, {
+    "$id" : 5,
+    "label" : "tlk310404_msg0005",
+    "talker" : "qc1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "전부 너희들 덕분이야"
+  } ]
+}

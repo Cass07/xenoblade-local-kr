@@ -1,0 +1,52 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk430103_msg0001",
+    "talker" : "hf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "캐슬이 엄청나게 조용해졌어모"
+  }, {
+    "$id" : 2,
+    "label" : "tlk430103_msg0002",
+    "talker" : "hf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그리고 조용한 틈을 타\n생명의 불시계가 부서진 거 같아모"
+  }, {
+    "$id" : 3,
+    "label" : "tlk430103_msg0003",
+    "talker" : "hf1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "어쩌면 지리지리 같은 카라반 소속들도\n캐슬 안에서 물건을 팔 수 있는 날이\n곧 올지도 몰라모"
+  } ]
+}

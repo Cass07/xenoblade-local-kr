@@ -1,0 +1,61 @@
+{
+  "schema" : [ {
+    "name" : "label",
+    "type" : 9
+  }, {
+    "name" : "talker",
+    "type" : 7
+  }, {
+    "name" : "talkattr",
+    "type" : 2
+  }, {
+    "name" : "talkattr2",
+    "type" : 3
+  }, {
+    "name" : "talkattr3",
+    "type" : 3
+  }, {
+    "name" : "style",
+    "type" : 2
+  }, {
+    "name" : "name",
+    "type" : 7
+  } ],
+  "rows" : [ {
+    "$id" : 1,
+    "label" : "tlk831902_msg0001",
+    "talker" : "yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "본심을 말하자면\n이곳의 물자 관리에 대해서는\n예전부터 한마디 하고 싶었단 말이지"
+  }, {
+    "$id" : 2,
+    "label" : "tlk831902_msg0002",
+    "talker" : "a1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그래서 우리한테\n물자 일을 제안한 거였구나?"
+  }, {
+    "$id" : 3,
+    "label" : "tlk831902_msg0003",
+    "talker" : "yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "그야말로 하늘이 돕나 싶었다니까\n지금이라면 부담 없이 말도 꺼낼 수 있고"
+  }, {
+    "$id" : 4,
+    "label" : "tlk831902_msg0004",
+    "talker" : "yq1",
+    "talkattr" : 33024,
+    "talkattr2" : 16513,
+    "talkattr3" : 1072,
+    "style" : 126,
+    "name" : "덕분에 드디어\n내게 맞는 일을 할 수 있겠어\n베르톨트도 보좌해 줄 거고"
+  } ]
+}
