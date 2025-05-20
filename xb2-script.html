@@ -45,6 +45,9 @@
     .input-row {
         margin-bottom: 10px;
     }
+    .red-text{
+        color: #9e0000;
+    }
 </style>
 
 <body>
@@ -144,7 +147,7 @@
         const dictionary = [
             {
                 "script": /\[System:Color name=tutorial \]([^\]]*)\[\/System:Color\]/gm,
-                "kr" : "<p color = 'red'>$1</p>"
+                "kr" : "<span class = 'red-text'>$1</span>"
             },
             {
                 "script": /\[ML:icon icon=([^\]]*) \]/gm,
