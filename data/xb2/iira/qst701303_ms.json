@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701303_msg0001",
+      "style": 84,
+      "name": "앗, 저거!"
+    },
+    {
+      "$id": 2,
+      "label": "qst701303_msg0002",
+      "style": 84,
+      "name": "최악이네"
+    },
+    {
+      "$id": 3,
+      "label": "qst701303_msg0003",
+      "style": 84,
+      "name": "판단은…"
+    },
+    {
+      "$id": 4,
+      "label": "qst701303_msg0004",
+      "style": 84,
+      "name": "…움직이고 나서 해도 늦지 않아!\n그렇지?!"
+    }
+  ]
+}

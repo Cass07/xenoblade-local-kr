@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst703003_msg0001",
+      "style": 84,
+      "name": "사, 살려 줘!!!"
+    },
+    {
+      "$id": 2,
+      "label": "qst703003_msg0002",
+      "style": 84,
+      "name": "틀림없이 저분들이 특사의 부하들이겠죠?"
+    },
+    {
+      "$id": 3,
+      "label": "qst703003_msg0003",
+      "style": 84,
+      "name": "스키토를 쓰러뜨리고\n구조해야겠군요"
+    },
+    {
+      "$id": 4,
+      "label": "qst703003_msg0004",
+      "style": 84,
+      "name": "그래, 가자!"
+    }
+  ]
+}

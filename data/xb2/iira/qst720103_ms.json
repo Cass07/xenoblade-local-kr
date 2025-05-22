@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst720103_msg0001",
+      "style": 84,
+      "name": "이, 이번에야말로 끝이겠지?"
+    },
+    {
+      "$id": 2,
+      "label": "qst720103_msg0002",
+      "style": 84,
+      "name": "그래, 새로운 기척은 없어"
+    },
+    {
+      "$id": 3,
+      "label": "qst720103_msg0003",
+      "style": 84,
+      "name": "카스미, 부탁해"
+    },
+    {
+      "$id": 4,
+      "label": "qst720103_msg0004",
+      "style": 84,
+      "name": "알겠어요"
+    }
+  ]
+}

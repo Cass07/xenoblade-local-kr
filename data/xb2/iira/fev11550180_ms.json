@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev11_550_180_msg0001",
+      "style": 84,
+      "name": "만만치 않았어요…"
+    },
+    {
+      "$id": 2,
+      "label": "fev11_550_180_msg0002",
+      "style": 84,
+      "name": "맞아…\n하지만 우리가 열심히 해야 해…"
+    },
+    {
+      "$id": 3,
+      "label": "fev11_550_180_msg0003",
+      "style": 84,
+      "name": "그래…!"
+    },
+    {
+      "$id": 4,
+      "label": "fev11_550_180_msg0004",
+      "style": 84,
+      "name": "다음은 상점가 쪽으로 가 보자"
+    }
+  ]
+}

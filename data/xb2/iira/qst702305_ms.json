@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst702305_msg0001",
+      "style": 84,
+      "name": "저기 있는 폐가 말인데\n요즘 무슨 소리가 들린다네"
+    },
+    {
+      "$id": 2,
+      "label": "qst702305_msg0002",
+      "style": 84,
+      "name": "누군가 드나드는 모양인데\n어디 사는 장난꾸러기지?"
+    }
+  ]
+}

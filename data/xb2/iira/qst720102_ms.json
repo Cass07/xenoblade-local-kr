@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst720102_msg0001",
+      "style": 84,
+      "name": "해냈다! 이제 카스미가 나설 차례네"
+    },
+    {
+      "$id": 2,
+      "label": "qst720102_msg0002",
+      "style": 84,
+      "name": "아니, 아직이야"
+    },
+    {
+      "$id": 3,
+      "label": "qst720102_msg0003",
+      "style": 84,
+      "name": "몬스터가 더 나타났군\n에테르 독기에 이끌리고 있다"
+    },
+    {
+      "$id": 4,
+      "label": "qst720102_msg0004",
+      "style": 84,
+      "name": "다 정리될 때까지 계속되겠는걸"
+    },
+    {
+      "$id": 5,
+      "label": "qst720102_msg0005",
+      "style": 84,
+      "name": "아, 귀찮아"
+    },
+    {
+      "$id": 6,
+      "label": "qst720102_msg0006",
+      "style": 84,
+      "name": "귀찮아도 하자!"
+    }
+  ]
+}
